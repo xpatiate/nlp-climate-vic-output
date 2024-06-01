@@ -1,0 +1,56 @@
+{
+  "settings": {
+    "source_files": [
+      "Hume-2018-greenhouse-action-plan.pdf",
+      "Hume-Climate-Action-Plan-2023-2028.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "26ecfd61eb5f2e8ea1c95fb76fd6435ed39a175a",
+    "rundate": "2024-04-13T19:16:35.395568",
+    "lga": "Hume"
+  },
+  "attributes": [
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Hume Climate Action Plan 2023-2028 does explicitly allocate funding for climate action. The plan outlines various actions and activities related to climate change, and for each of these, it specifies the budgetary provisions. The budgetary allocations are mentioned in terms of 'within current budgets', 'CAP Capital Works budget', and 'within procurement budgets'. For instance, the plan mentions the continuation of the solar, solar storage, and energy efficiency program for Council buildings, which is funded by the CAP Capital Works budget. Similarly, the plan also mentions the continuation of the delivery of the Sustainability and Climate Change Community of Practice, which is funded 'within current budgets'. However, it is important to note that the exact monetary values are not specified in the documents provided.",
+          "quote": {
+            "content": "Higher energy use buildings will continue to be prioritised.",
+            "page": 30,
+            "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Hume Climate Action Plan 2023-2028 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines various actions and activities, each with a designated lead and support team, indicating a clear allocation of staff resources. For instance, the 'Climate Action Integration Team' is frequently mentioned as either leading or supporting various actions. The plan also mentions the 'People and Culture' team, the 'Economic Development' team, and others, showing a broad institutional commitment. Furthermore, the plan outlines the use of existing budgets for many actions, indicating the allocation of financial resources. However, it's important to note that while staff are allocated, the plan often states that actions are 'within current budget' or 'within current resourcing', suggesting that no additional funding is provided for these climate actions.",
+          "quote": {
+            "content": "Within current budget.",
+            "page": 35,
+            "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 2,
+    "num_questions": 2,
+    "attribute_score": 100
+  }
+}

@@ -1,0 +1,658 @@
+{
+  "attribute": 4,
+  "question": 5,
+  "finding": false,
+  "num": 130,
+  "responses": [
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various mitigation and adaptation measures, they do not explicitly prioritize these actions over other policies. The Climate Action Plan and Position Statement highlight the importance of climate action and set ambitious targets for reducing greenhouse gas emissions. They also mention the development of a Climate Adaptation and Resilience Plan and the intention to lead municipal wide action through mitigation, adaptation, and resilience initiatives. However, these actions are presented as part of the local government's overall responsibilities and commitments, not as a higher priority over other policies.",
+      "source": "Alpine-a-a12345678910.json",
+      "lga": "Alpine"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including setting a target of achieving net zero greenhouse gas emissions from Council operations by July 2023, they do not explicitly prioritize these actions over other policies. The documents mention the development of a Climate Adaptation and Resilience Plan and the implementation of emissions reduction strategies, but these are presented as part of the Council's overall responsibilities, not as actions that supersede other policy areas. Therefore, without explicit mention of prioritizing climate emergency response over other policies, the answer to the question is negative.",
+      "source": "Alpine-b-a12345678910.json",
+      "lga": "Alpine"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the City of Ballarat's commitment to achieving net zero emissions by 2030 and detail various strategies and actions to address climate change, they do not explicitly prioritize these actions over other policies. The documents emphasize the importance of collaboration across sectors and levels of government, as well as the role of the community in achieving this goal. However, they do not make a direct comparison between the priority of this climate action plan and other policies.",
+      "source": "Ballarat-a-a12345678910.json",
+      "lga": "Ballarat"
+    },
+    {
+      "answer": "The documents from the City of Ballarat's Net Zero Emissions Plan do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do emphasize the importance of addressing climate change, outlining the city's commitment to achieving net zero emissions by 2030, and detailing various strategies and actions to reduce emissions. However, they do not explicitly prioritize these actions over other policies. The documents also highlight the need for collaboration and engagement across various sectors and levels of government, suggesting a holistic approach to policy implementation rather than a hierarchical one.",
+      "source": "Ballarat-b-a12345678910.json",
+      "lga": "Ballarat"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government recognizes the urgency of addressing climate change and has declared a climate emergency, they do not explicitly state that this response should take precedence over other policies. The documents outline a number of actions and strategies to address climate change, including reducing emissions, increasing energy efficiency, and fostering a culture of climate action within the council. However, these actions are presented as part of a comprehensive plan to address climate change, rather than as a priority over other policies.",
+      "source": "Banyule-a-a12345678910.json",
+      "lga": "Banyule"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government recognizes the urgency of climate change and has declared a climate emergency, they do not explicitly state that this policy should take precedence over all others. The documents outline a number of actions and strategies to address climate change, including a commitment to reduce emissions, a plan to become completely electrified in stationary energy use before 2030, and the establishment of a Climate Action Steering Committee. However, these actions are presented as part of a comprehensive approach to addressing climate change, rather than as a policy that should supersede all others.",
+      "source": "Banyule-b-a12345678910.json",
+      "lga": "Banyule"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The Climate Change Action Plan 2020 - 2030 outlines a comprehensive approach to addressing climate change, including actions for the Council, households, businesses, industry, and the agricultural sector. It emphasizes the urgency of the climate emergency and the need for immediate action, with foundational and high impact actions prioritized. However, it does not explicitly state that these actions should take precedence over other policies. The plan is intended to guide internal decision-making about operational priorities, investment, budgets, and resource allocations, but it does not explicitly rank the climate emergency response above other policy areas.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The Climate Change Action Plan 2020 - 2030 outlines a comprehensive approach to addressing climate change, including specific actions, timelines, and resources. It emphasizes the urgency of the climate emergency and the need for immediate action. However, it does not explicitly state that these actions should take precedence over other policies. The plan is designed to be integrated into the council's overall operations and decision-making processes, suggesting that it is one of many priorities the council is balancing. The documents also mention the need for regular review and adaptation of the plan, indicating a flexible approach that may allow for adjustments based on other policy priorities.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of addressing climate change, they do not provide a clear hierarchy of policy priorities. The documents discuss various approaches to addressing climate change, including mitigation of emissions and adaptation to impacts. They also mention the development of an Action Plan with defined, measurable actions to meet certain outcomes. However, these details do not suggest that climate change response is prioritized above all other policies. Instead, they suggest a comprehensive approach to environmental strategy that includes, but is not limited to, climate change response.",
+      "source": "Benalla-a-a12345678910.json",
+      "lga": "Benalla"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of addressing climate change, they do not provide a clear hierarchy of policy priorities. The documents discuss various approaches to addressing climate change, including mitigation of emissions and adaptation to impacts. They also mention the development of an Action Plan with defined, measurable actions to achieve certain outcomes. However, these details do not suggest that climate change response is prioritized over all other policies. Instead, they suggest a comprehensive approach to environmental strategy that includes, but is not limited to, climate change response.",
+      "source": "Benalla-b-a12345678910.json",
+      "lga": "Benalla"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do express a sense of urgency regarding climate change and the need for action, they do not specifically state that this should take precedence over all other policies. The documents do mention the need for a 'declaration of Climate Emergency' and the prioritisation of climate action in council actions. However, these statements do not necessarily imply that climate action should supersede all other policies. The documents also mention the need for specific targets, a timetable, and a budget for climate action, but again, these do not necessarily indicate that climate action should be prioritised above all other policies.",
+      "source": "Boroondara-a-a12345678910.json",
+      "lga": "Boroondara"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents express a sense of urgency and a need for action, they do not explicitly prioritize climate action over other policies. The documents mention the need for a 'declaration of Climate Emergency', but they do not specify that this should take precedence over other policies. The documents also mention the need for targets, a plan, and a timetable, but again, they do not explicitly state that these should take priority over other policies. The documents also mention the need for rewards and incentives, and the possibility of residents being rewarded for changing to renewables, but they do not state that this should be a higher priority than other policies.",
+      "source": "Boroondara-b-a12345678910.json",
+      "lga": "Boroondara"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The local government's climate action plan outlines various goals and actions related to climate change mitigation and adaptation, such as integrating climate considerations into council operations, robust emissions measurement, waste and landfill emissions reductions, and community building improvements. However, there is no explicit mention of prioritizing these actions over other policies. The documents do highlight the importance of climate action and the community's concerns about climate change impacts, but they do not provide a clear hierarchy of policy priorities.",
+      "source": "Buloke-a-a12345678910.json",
+      "lga": "Buloke"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The local government's climate action plan outlines various goals and actions related to climate change mitigation and adaptation, such as integrating climate considerations into council operations, reducing emissions, managing waste, improving buildings, and enhancing energy security. However, there is no explicit statement prioritizing these actions over other policies. The documents do emphasize the importance of climate action, with measures such as robust emissions measurement, ongoing emergency management, and waste and landfill emissions reductions. However, the absence of a clear statement prioritizing climate emergency response over other policies prevents a positive answer to the question.",
+      "source": "Buloke-b-a12345678910.json",
+      "lga": "Buloke"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly acknowledge the impacts of climate change and outline a range of actions to mitigate and adapt to these impacts, they do not explicitly prioritize these actions over other policies. The documents outline a commitment to responsibly manage energy and water consumption, promote sustainability, prepare a Municipal Public Health and Wellbeing Plan with consideration of climate change, and incorporate climate change considerations into strategic planning. They also set a goal to achieve net-zero greenhouse gas emissions for Council operations by 2035. However, these commitments and goals are presented as part of a broader policy framework, rather than as a higher priority than other policies.",
+      "source": "Campaspe-a-a12345678910.json",
+      "lga": "Campaspe"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly acknowledge the impacts of climate change and outline the local government's commitment to mitigating these impacts, they do not explicitly prioritize these actions over other policies. The documents detail the council's responsibilities and actions related to climate change, including managing energy and water consumption, planning for climate change risks, and aiming to achieve net-zero greenhouse gas emissions for council operations by 2035. However, these actions are presented as part of the council's overall policy position and strategy, rather than as a higher priority than other policies.",
+      "source": "Campaspe-b-a12345678910.json",
+      "lga": "Campaspe"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of climate change adaptation and mitigation, they do not explicitly prioritize these actions over other policies. The documents outline various strategies and actions to address climate change, such as raising community awareness, identifying high-risk areas for development, and advocating for climate change adaptation initiatives. However, these actions are presented as part of a comprehensive plan, not as actions that should take precedence over other policies. Furthermore, the documents emphasize the need for a coordinated response across council, the community, partner organizations, and intergovernmental agencies, suggesting a balanced approach rather than a hierarchy of priorities.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of climate change adaptation and the need for action, they do not explicitly prioritize these actions over other policies. The documents outline a variety of actions and strategies to address climate change, including raising community awareness, identifying high-risk areas for development, and advocating for climate change adaptation initiatives. However, these actions are presented as part of a broader strategy, rather than as a priority over other policies. Furthermore, the documents suggest that climate change adaptation should be integrated into all council policies, rather than prioritized above them. Therefore, based on the provided documents, it cannot be conclusively stated that a climate emergency response must have higher priority than other policies.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the City of Casey's commitment to reducing greenhouse gas emissions and investing in energy efficiency and renewable technology, they do not explicitly prioritize these actions over other policies. The documents outline various strategies and targets for emissions reduction, such as the Emissions Management Plan 2012-17 and the Council Plan 2017-2021, and they mention the city's commitment to carbon neutrality. However, they do not explicitly state that these climate-related actions should take precedence over other policy areas.",
+      "source": "Casey-a-a12345678910.json",
+      "lga": "Casey"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The City of Casey's Emissions Management Plan 2018-22 outlines a comprehensive approach to reducing greenhouse gas emissions, including aligning its emissions inventory with the National Carbon Offset Standard (NCOS), investing in energy efficiency improvements, and adopting science-based emission targets. However, it does not explicitly prioritize these actions over other policies. The plan is part of a broader policy context, including national and state-level commitments to emissions reductions and renewable energy targets. While the plan demonstrates a strong commitment to addressing climate change, it does not explicitly state that these actions should take precedence over other policy areas.",
+      "source": "Casey-b-a12345678910.json",
+      "lga": "Casey"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Central Goldfields Climate Action Plan does outline a comprehensive approach to addressing climate change, including six priority areas for mitigation and adaptation, and a commitment to achieving net zero emissions for Council operations by 2030. However, these actions are presented as part of the Council's overall responsibilities and goals, rather than as a higher priority than other policies. The documents also mention the importance of collaboration, education, and advocacy in achieving climate action goals, but again, these are not presented as having precedence over other policy areas.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The Central Goldfields Climate Action Plan outlines a comprehensive approach to addressing climate change, including mitigation and adaptation strategies, and sets a goal for net zero emissions from Council operations by 2030. It identifies six priority areas for action, including education, collaboration, health and wellbeing, renewable energy and energy efficiency, built environment and transport, waste and the circular economy, and land and water. However, it does not explicitly prioritize these actions over other policies. The documents also mention legislative obligations related to climate change under various acts, and the importance of keeping global temperature rise to 1.5ºC. However, these are presented as part of the overall policy framework, not as overriding priorities above all other policies.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents outline a comprehensive plan for addressing climate change, including mitigation and adaptation strategies, community engagement, and emissions reduction, they do not specifically state that these actions should take precedence over other policies. The documents emphasize the importance of climate action and outline a range of strategies and actions to address climate change. However, they do not provide a clear hierarchy of policy priorities, nor do they explicitly state that climate action should supersede other policy areas.",
+      "source": "ColacOtway-a-a12345678910.json",
+      "lga": "ColacOtway"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents outline a comprehensive plan for addressing climate change, including mitigation and adaptation strategies, community engagement, and emissions reduction, they do not specifically state that these actions should take precedence over other policies. The documents emphasize the importance of climate action and outline a range of strategies and actions to address climate change. However, they do not provide a clear hierarchy of policy priorities, nor do they explicitly state that climate action should supersede other policy areas.",
+      "source": "ColacOtway-b-a12345678910.json",
+      "lga": "ColacOtway"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The policy does acknowledge the importance of climate change and outlines various strategies to address it, such as reducing waste, energy, and water use, improving building design, and developing more efficient transport options. It also mentions the development of annual action plans to achieve the goals set out in the strategy. However, these actions are presented as part of a broader environmental and sustainability strategy, and there is no explicit statement prioritizing a climate emergency response over other policies. The documents also state that the areas of action are not presented in any order of priority, further indicating that no specific policy area, including climate change, is given explicit priority over others.",
+      "source": "Corangamite-a-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The policy does acknowledge the importance of climate change and outlines various strategies to address it, such as reducing waste, energy, and water use, improving building design, and exploring more efficient transport options. It also mentions the development of annual action plans to achieve the goals set out in the strategy. However, these actions are presented alongside other priorities, and there is no clear indication that they are to be given higher priority than other policies. The documents also state that the areas of action are not presented in any order of priority, further suggesting that a climate emergency response is not explicitly prioritized over other policies.",
+      "source": "Corangamite-b-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The East Gippsland Shire Council Environmental Sustainability Strategy 2022-2032 does outline a comprehensive approach to addressing climate change, including community participation, sustainable management of natural resources, and the promotion of a circular economy. However, it does not explicitly prioritize these actions over other policies. The strategy appears to be integrated with other council strategies and plans, suggesting a holistic approach rather than a hierarchical one. The documents also mention the development of action plans to ensure the high-level goals lead to measurable action, but again, there is no explicit statement about prioritizing climate response over other policies.",
+      "source": "EastGippsland-a-a12345678910.json",
+      "lga": "EastGippsland"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The East Gippsland Shire Council Environmental Sustainability Strategy 2022-2032 outlines a comprehensive approach to environmental sustainability, including climate change mitigation and community participation in the climate response. However, it does not explicitly prioritize these actions over other policies. The strategy is built around seven central goals, including conservation of the natural environment and biodiversity, sustainable management of natural resources, and community participation in the climate response. These goals are not ranked in terms of priority, but rather are presented as a holistic approach to environmental sustainability. The strategy also emphasizes the importance of integrating environmental sustainability into other areas of policy and planning, rather than prioritizing it above them.",
+      "source": "EastGippsland-b-a12345678910.json",
+      "lga": "EastGippsland"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The local government policy does outline a detailed plan for reducing greenhouse gas emissions and transitioning to low carbon alternatives, with a target for zero net emissions by 2025. It also mentions the implementation of energy efficiency and renewable energy actions, as well as seeking partnerships and external funding for initiatives related to greenhouse gas emissions and low carbon alternatives. However, there is no explicit statement indicating that these climate change mitigation efforts should take precedence over other policies.",
+      "source": "Frankston-a-a12345678910.json",
+      "lga": "Frankston"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The local government policy does outline a detailed plan for reducing greenhouse gas emissions and transitioning to low carbon alternatives, with a target for zero net emissions by 2025. The policy also includes a range of actions such as energy efficiency initiatives, seeking partnerships and external funding, and advocating to the Federal and State Government on matters relating to greenhouse gas emissions and low carbon alternatives. However, there is no explicit statement prioritising these climate change actions over other policies. The documents do indicate that the local government recognises the importance of addressing climate change, but they do not provide clear evidence that a climate emergency response is considered a higher priority than other policies.",
+      "source": "Frankston-b-a12345678910.json",
+      "lga": "Frankston"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the policy does outline a comprehensive approach to addressing climate change, including transitioning to 100% renewable energy, achieving net zero emissions, and supporting the community in reducing emissions, it does not explicitly prioritize these actions over other policies. The policy does emphasize the importance of integrating climate change adaptation and mitigation into existing policies and decision-making processes, and it also mentions the need for regular review of strategies, plans, policies, and procedures that may be affected by climate change. However, these statements do not necessarily imply that climate change response is to be prioritized above all other policies.",
+      "source": "Gannawarra-a-a12345678910.json",
+      "lga": "Gannawarra"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the policy does outline a comprehensive approach to addressing climate change, including transitioning to 100% renewable energy, achieving net zero emissions, and supporting the community in reducing emissions, it does not explicitly prioritize these actions over other policies. The policy does emphasize the importance of integrating climate change adaptation and mitigation into existing policies and decision-making processes, and it outlines plans for regular review of strategies, plans, policies, and procedures in light of climate change. However, these actions are presented as part of a broader strategic framework, rather than as a higher priority than other policies.",
+      "source": "Gannawarra-b-a12345678910.json",
+      "lga": "Gannawarra"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents emphasize the importance of addressing the climate emergency, they do not explicitly rank it above other policies. The documents outline the Glen Eira City Council's Climate Emergency Response Strategy for 2021-2025, which includes goals and objectives to reduce emissions and strengthen resilience to climate impacts. The strategy is described as a 'tier one strategy' that sits directly under the Council Plan 2021-2025, indicating its importance within the council's overall planning framework. However, this does not necessarily mean it has higher priority than all other policies. The documents also mention the need to integrate climate action into all aspects of the council's work, suggesting a holistic approach rather than a hierarchical one.",
+      "source": "GlenEira-a-a12345678910.json",
+      "lga": "GlenEira"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents emphasize the importance of addressing climate change and outline a strategy for doing so, they do not explicitly rank this policy above others. The documents mention the need for a clear strategy and goals to tackle climate change, the roles of different stakeholders, and the need for urgent action. They also outline specific objectives and actions for the council and community. However, they do not explicitly state that these actions should take precedence over other policies. The documents also mention the integration of climate action into all aspects of work and making it a priority consideration in every strategy, plan, and policy, but this does not necessarily mean it has higher priority than other policies.",
+      "source": "GlenEira-b-a12345678910.json",
+      "lga": "GlenEira"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline a number of strategies and responses related to climate change, such as increasing the capacity and resilience of Glenelg’s biophysical coastal environment to adjust to the impacts of climate change, and reducing greenhouse gas emissions from Council activities. However, these are presented alongside other strategies and responses, and there is no clear indication that they are to be prioritised over other policies. The documents do mention priority implementation timelines, but these seem to be general guidelines rather than specific directives for prioritising climate change responses over other policies.",
+      "source": "Glenelg-a-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline a number of strategies and responses related to climate change, such as increasing the capacity and resilience of Glenelg’s biophysical coastal environment to adjust to the impacts of climate change, and incorporating the impacts of climate change into key plans and strategies. However, these are presented alongside other strategies and responses, and there is no clear indication that they are to be given higher priority than other policies. The documents do provide a timeline for implementation, with some actions marked as 'high' priority to be implemented within the next three years (2010-2013), but this does not necessarily equate to a higher priority over other policies.",
+      "source": "Glenelg-b-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do emphasize the importance and urgency of the Climate Emergency Plan, stating that it is a 'necessity not a luxury' and that 'the next 10 years of action are critical'. However, these statements do not necessarily imply that the climate emergency response should supersede all other policies. The documents also outline a detailed plan for addressing the climate emergency, including specific actions and strategies, but again, there is no explicit statement about prioritizing these actions over other policies. Therefore, based on the provided documents, it cannot be definitively stated that the climate emergency response is intended to have higher priority than other policies.",
+      "source": "GoldenPlains-a-a12345678910.json",
+      "lga": "GoldenPlains"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Golden Plains Shire Council's Climate Emergency Plan 2022-2032 outlines the council's commitment to addressing climate change and details various actions to be taken over the next decade. These actions are categorized into five themes: embedding climate action into Council, resilient and adaptive community, caring for the land, climate responsive development, and sustainable transport and travel. However, while the plan emphasizes the importance of these actions and the urgency of addressing climate change, it does not explicitly state that these actions should take precedence over other policies. The documents do not provide a clear hierarchy of policy priorities.",
+      "source": "GoldenPlains-b-a12345678910.json",
+      "lga": "GoldenPlains"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change and its impacts, they do not explicitly prioritize this over other policies. The Climate Change and Environment Strategy is designed to complement other key Council strategies like the Economic Development Strategy and the Health and Wellbeing Plan, rather than supersede them. The strategy includes actions to restore and regenerate ecosystems, reduce carbon emissions, sequester carbon, and adapt to a harsher climate. However, these actions are presented as part of a holistic approach to community wellbeing and sustainability, rather than as a higher priority than other policy areas.",
+      "source": "GreaterBendigo-a-a12345678910.json",
+      "lga": "GreaterBendigo"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change and its impacts, they do not explicitly prioritize this over other policies. The Climate Change and Environment Strategy is designed to complement other key Council strategies like the Economic Development Strategy and the Health and Wellbeing Plan, rather than supersede them. The strategy includes actions to restore and regenerate ecosystems, reduce carbon emissions, sequester carbon, and adapt to a harsher climate. However, these actions are presented as part of a holistic approach to community wellbeing and sustainability, rather than as a higher priority than other policy areas.",
+      "source": "GreaterBendigo-b-a12345678910.json",
+      "lga": "GreaterBendigo"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the Greater Shepparton's Climate Emergency Action Plan, which focuses on four strategic priorities: demonstrating climate change leadership, accelerating the transition to net zero emissions communities, building a climate-resilient community, and supporting a thriving, climate-smart local agricultural sector. While these priorities clearly indicate a strong focus on addressing climate change, there is no explicit statement suggesting that these climate-related actions should supersede or have higher priority than other policies. The documents emphasize a partnership approach, involving council, residents, businesses, farmers, and community groups in driving climate action. However, the relative prioritization of these climate actions compared to other policy areas is not explicitly addressed.",
+      "source": "GreaterShepparton-a-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the Greater Shepparton's Climate Emergency Action Plan, which focuses on four strategic priorities: demonstrating climate change leadership, accelerating the transition to net zero emissions communities, building a climate-resilient community, and supporting a thriving, climate-smart local agricultural sector. While these priorities clearly indicate a strong focus on addressing climate change, there is no explicit statement suggesting that these climate-related actions should supersede or have higher priority than other policies. The documents emphasize a collaborative approach involving council, residents, businesses, farmers, and community groups in driving climate action, but they do not provide a hierarchy of policy priorities.",
+      "source": "GreaterShepparton-b-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of climate change action and sustainability, they do not explicitly rank these issues above other policy areas. The documents outline a range of actions and strategies related to climate change, such as reducing greenhouse gas emissions, building resilience to climate change impacts, and promoting renewable energy. However, these are presented as part of a broader policy framework, rather than as overriding priorities. The documents also emphasize the importance of community engagement and consultation in shaping these policies, suggesting a balanced approach to policy prioritization.",
+      "source": "Hepburn-a-a12345678910.json",
+      "lga": "Hepburn"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of climate change action, including the development of a 'Sustainability and Climate Change (emergency) policy', the implementation of a 'climate resilience plan', and the creation of a 'Sustainable Hepburn Steering Committee', they do not explicitly prioritize these actions over other policies. The documents also mention the need for 'good decision making' and 'prudent approach' in managing climate change risks, but again, these are not explicitly prioritized over other policies. Therefore, based on the provided documents, it cannot be definitively stated that a climate emergency response is given higher priority than other policies.",
+      "source": "Hepburn-b-a12345678910.json",
+      "lga": "Hepburn"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents discuss the importance of climate change adaptation and outline various strategies and actions related to climate change, such as the review of council buildings and assets, the implementation of the Hindmarsh Township Climate Change Adaptation Plan, and the incorporation of climate change and water availability scenarios into council asset management plans. However, these actions are presented as part of a broader strategic plan, and there is no explicit statement prioritizing them over other policies. The documents also mention other policies and plans, such as the Municipal Fire Prevention Plan and the Municipal Public Health Plan, but do not rank them in terms of priority.",
+      "source": "Hindmarsh-a-a12345678910.json",
+      "lga": "Hindmarsh"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do discuss the importance of climate change adaptation and outline various strategies and actions related to climate change, such as the Hindmarsh Township Climate Change Adaptation Plan, and the incorporation of climate change risks into council building maintenance programs and insurance cover reviews. However, these are presented as part of a broader policy framework, and there is no explicit statement prioritising these actions over other policies. The documents also mention other policies and plans, such as the Municipal Fire Prevention Plan and the Municipal Public Health Plan, which are yet to consider and identify appropriate responses to climate change. This suggests that while climate change is a significant concern, it is being addressed alongside, rather than in precedence to, other policy areas.",
+      "source": "Hindmarsh-b-a12345678910.json",
+      "lga": "Hindmarsh"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including the declaration of a climate emergency in 2019, they do not specify that this commitment should supersede other policy areas. The documents detail a range of actions and strategies to mitigate and adapt to climate change, including community engagement, emissions reduction, and risk management. However, these are presented as part of a comprehensive approach to local governance, rather than as a priority above all other policy areas. Therefore, based on the provided documents, it cannot be conclusively stated that a climate emergency response is prioritised above other policies.",
+      "source": "HobsonsBay-a-a12345678910.json",
+      "lga": "HobsonsBay"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including the declaration of a climate emergency in 2019, they do not specify that this commitment should supersede other policy areas. The documents detail a range of actions and strategies to mitigate and adapt to climate change, including community engagement, emissions reduction, and risk management. However, these are presented as part of a comprehensive plan rather than as a priority above all other policies. It is also important to note that the documents highlight the need for these actions to be integrated with other council programs and responsibilities, suggesting a holistic rather than hierarchical approach to policy implementation.",
+      "source": "HobsonsBay-b-a12345678910.json",
+      "lga": "HobsonsBay"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline the Victorian Government's policy response to climate change, which includes complementing the proposed national Carbon Pollution Reduction Scheme (CPRS), positioning Victoria to take advantage of opportunities created by the transition to a carbon-constrained economy, and adapting to unavoidable impacts of climate change. However, these actions are presented as part of a broader policy response, not as a prioritized emergency response. The documents also detail various environmental sustainability strategies, such as incorporating environmental impact risk assessment into major Council projects and developing procurement policies that favor environmentally friendly products. However, these strategies are not explicitly prioritized over other policies.",
+      "source": "Horsham-a-a12345678910.json",
+      "lga": "Horsham"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline the Victorian Government's policy response to climate change, which includes complementing the proposed national Carbon Pollution Reduction Scheme, positioning Victoria to take advantage of opportunities created by the transition to a carbon constrained economy, and adapting to unavoidable impacts of climate change. The documents also detail the Environment Sustainability Strategy, which includes objectives and actions related to environmental sustainability. However, these documents do not explicitly prioritize these actions over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response must have higher priority than other policies.",
+      "source": "Horsham-b-a12345678910.json",
+      "lga": "Horsham"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government is taking the issue of climate change seriously, with various actions and initiatives outlined, there is no explicit statement prioritizing climate emergency response over other policies. The documents highlight the importance of climate action, the need for community involvement, and the urgency of addressing climate change. They also outline specific actions such as sustainable procurement, data collection for carbon neutrality, and advocacy for enhanced climate action. However, these actions are presented as part of the local government's overall responsibilities and commitments, not as a priority over other policies.",
+      "source": "Hume-a-a123.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government is taking climate change seriously, with various actions and initiatives outlined, there is no explicit statement prioritising climate change response over other policies. The documents highlight the importance of climate change action, with references to a 'Climate Emergency Plan', 'Climate Action Plan', and the need for 'fast action'. However, these references do not necessarily imply that these actions are prioritised above all other policies. It is also important to note that the documents emphasise the need for a holistic approach, involving all levels of government, industry, business, not-for-profits, organisations, and citizens. This suggests a recognition of the interconnectedness of various policies and the need for a balanced approach.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a comprehensive plan for addressing climate change, including various priority actions, responsible areas, and estimated costs, they do not explicitly rank these actions in relation to other non-climate-related policies. The documents emphasize the importance of addressing climate change and outline a detailed plan for doing so, but they do not make a direct comparison between the priority of this plan and the priority of other policies. Therefore, without explicit evidence, we cannot affirm that the climate emergency response is given higher priority than other policies.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents outline a comprehensive plan for addressing climate change, including various priority actions, responsible areas, and estimated costs, they do not explicitly rank these actions in relation to other non-climate-related policies. The documents emphasize the importance of addressing climate change and outline a detailed plan for doing so, but they do not explicitly state that these actions should take precedence over all other policies. Therefore, without explicit evidence, we cannot affirm that a climate emergency response is given higher priority than other policies.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The Climate Response Plan 2021-2031 developed by the Knox City Council outlines a comprehensive approach to addressing climate change, including setting ambitious goals, involving stakeholders, seeking fair solutions, delivering local benefits, proposing cost-effective actions, and reflecting best scientific practices. The plan includes specific actions such as community education programs, sustainable transport options, policy reviews, and infrastructure adaptations. However, while the plan clearly recognizes the urgency of addressing climate change and outlines a detailed response, it does not explicitly state that these actions should take precedence over other policy areas. The documents suggest that the climate response will be integrated into the council's overall policy framework and decision-making processes, rather than necessarily overriding other policy priorities.",
+      "source": "Knox-a-a12345678910.json",
+      "lga": "Knox"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through a variety of measures, including community education, sustainable transport options, policy reviews, and infrastructure adaptations, they do not explicitly prioritize these actions over other policies. The Climate Response Plan is presented as a comprehensive and ambitious plan to address climate change, but it does not explicitly state that it should supersede other policies. The documents emphasize the importance of inclusivity, fairness, relevance, actionability, and evidence-based actions in the climate response, but they do not provide a clear hierarchy of policy priorities.",
+      "source": "Knox-b-a12345678910.json",
+      "lga": "Knox"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The policy documents focus on the transition to a low carbon economy, with emphasis on job creation and economic development. The policy is proactive and collaborative, with a focus on the local community and economy. It includes 30 actions, of which 11 are considered complete, with 18 ongoing and one superseded by other initiatives. The policy was developed in response to the Australian Government's proposed carbon emissions reduction legislation, and it is independent of the Australian Government's policy. However, there is no explicit statement prioritizing a climate emergency response over other policies.",
+      "source": "Latrobe-a-a12345678910.json",
+      "lga": "Latrobe"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The policy documents focus on the transition to a low carbon economy, with emphasis on job creation and economic development. The policy is proactive and collaborative, with a focus on the local community and economy. It is clear that the policy is important and has been implemented with a high degree of commitment, but there is no explicit statement that it should take precedence over other policies. The policy is framed as a response to the challenges and opportunities presented by a proposed carbon emissions pricing scheme, rather than as a response to a climate emergency. The documents also mention other policy and strategy documents that assist in preparing the local community and economy for structural adjustment change in the future.",
+      "source": "Latrobe-b-a12345678910.json",
+      "lga": "Latrobe"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline a strategic plan for environmental sustainability from 2013 to 2018, with various actions related to energy management, water management, biodiversity, land management, sustainable transport, waste, and business development. While these actions are related to climate change adaptation and mitigation, they are not framed as responses to a climate emergency. Furthermore, the documents do not provide a clear hierarchy of policy priorities, and there is no explicit statement suggesting that climate-related actions should supersede other policy areas. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is given higher priority than other policies.",
+      "source": "Loddon-a-a12345678910.json",
+      "lga": "Loddon"
+    },
+    {
+      "answer": "The provided documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline a strategic plan for environmental sustainability from 2013 to 2018, with various actions related to different aspects such as energy management, water management, biodiversity, land management, sustainable transport, waste, and business development. Each action has a priority level assigned, but there is no explicit mention of a climate emergency response, let alone its prioritization over other policies. The documents focus on a broad range of environmental sustainability issues, suggesting a holistic approach rather than a singular focus on climate emergency response.",
+      "source": "Loddon-b-a12345678910.json",
+      "lga": "Loddon"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of climate action and the urgency of addressing climate change, they do not explicitly rank this policy above others. The Climate Emergency Response Plan is described as linking in with a range of other policies and work, suggesting that it is part of a broader policy framework rather than being prioritised above all else. Furthermore, the documents mention that the implementation of actions from the Climate Emergency Response Plan will be influenced by other themes such as 'Healthy Community', 'Liveable Places and Spaces', 'Vibrant and Prosperous Economy' and 'Well Governed Council'. This suggests a balanced approach to policy implementation, where climate action is one of several important considerations.",
+      "source": "Manningham-a-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of climate action and the urgency of addressing climate change, they do not explicitly rank this policy above others. The Climate Emergency Response Plan is described as linking in with a range of other policies and work, suggesting that it is part of a broader policy framework rather than being prioritised above all else. Furthermore, the documents mention that there are some community members who believe there are more important priorities to focus on than climate action. Therefore, while the documents clearly support climate action, they do not explicitly state that it should be prioritised above all other policies.",
+      "source": "Manningham-b-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Mansfield Shire Council's Climate Action Plan outlines a comprehensive approach to addressing climate change, including reducing greenhouse gas emissions, implementing renewable energy initiatives, and advocating for supportive policy environments at the state and national level. However, it does not explicitly prioritize these actions over other policies. The plan is framed as a necessary and important part of the council's overall strategy, but it does not explicitly state that it should take precedence over other policy areas. Therefore, without explicit evidence, it cannot be affirmed that a climate emergency response must have higher priority than other policies.",
+      "source": "Mansfield-a-a12345678910.json",
+      "lga": "Mansfield"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the Mansfield Shire Council's Climate Action Plan, which includes a commitment to mitigating the impacts of climate change within Council’s own operations and supporting the community to reduce greenhouse gas emissions. The plan outlines various actions and strategies, such as renewable power purchase, energy efficient buildings and solar PV, street lighting upgrades, fleet transition, and purchase of offsets. However, these actions are presented as part of the council's overall responsibilities and commitments, and there is no explicit statement prioritizing these actions over other policies. The documents do emphasize the importance of climate action and the council's commitment to it, but they do not explicitly state that this should take precedence over other policies.",
+      "source": "Mansfield-b-a12345678910.json",
+      "lga": "Mansfield"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The Maribyrnong City Council's Climate Emergency Action Plan outlines a comprehensive approach to addressing the climate emergency, including embedding the response in the Council's planning, operations, and infrastructure, and working with the community and other organizations. However, it does not explicitly state that these actions should take precedence over other policies. The documents do emphasize the urgency of the climate emergency and the need for action, but they do not provide a clear hierarchy of policy priorities. Therefore, while the documents clearly indicate that the climate emergency is a significant concern for the Council, they do not explicitly state that it should be prioritized above all other policies.",
+      "source": "Maribyrnong-a-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Maribyrnong City Council's Climate Emergency Action Plan clearly outlines the council's commitment to addressing the climate emergency, with actions such as transitioning to renewable energy, increasing energy efficiency, and advocating for urgent climate emergency responses. However, these actions are presented as part of the council's overall strategy and there is no explicit statement indicating that these climate emergency responses should take precedence over other policies. The documents do emphasize the urgency of the climate emergency and the need for action, but they do not provide a clear hierarchy of policy priorities.",
+      "source": "Maribyrnong-b-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government is taking climate change seriously and has implemented a range of strategies to address it, there is no explicit statement prioritizing these actions over other policies. The documents discuss the importance of climate change adaptation and mitigation, the need for community engagement and education, and the intention to reduce greenhouse gas emissions. They also outline specific strategies and actions, such as improving climate education, maintaining the council's carbon neutral status, and planning for climate change risks. However, these are presented as part of the council's overall responsibilities and objectives, rather than as a higher priority than other policies.",
+      "source": "Maroondah-a-a12345678910.json",
+      "lga": "Maroondah"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government is taking climate change seriously and has implemented a range of strategies to address it, there is no explicit statement prioritizing these actions over other policies. The documents discuss the importance of climate change adaptation and mitigation, the need for community engagement and education, and the development of specific plans and strategies to address climate change risks. However, these are presented as part of a broader policy framework, rather than as a priority over other policy areas. The documents also highlight the importance of integrating climate change considerations into all aspects of council operations, suggesting a holistic approach rather than a hierarchical one.",
+      "source": "Maroondah-b-a12345678910.json",
+      "lga": "Maroondah"
+    },
+    {
+      "answer": "The provided documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline the City of Melbourne's commitment to addressing climate change, including a list of strategic priorities and actions to reduce emissions. These actions include advocating for more ambitious renewable energy targets, accelerating corporate Power Purchase Agreements, and facilitating residential purchasing of renewable energy products. However, these actions are presented as part of a broader strategy, and there is no explicit statement indicating that these climate change mitigation efforts should take precedence over other policy areas. The documents also mention the need to align these actions with the Sustainable Development Goals and to consider synergies and trade-offs with other strategies, suggesting a balanced approach rather than a prioritisation of climate change above all else.",
+      "source": "Melbourne-a-a12345678910.json",
+      "lga": "Melbourne"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline a comprehensive strategy for climate change mitigation, including strategic priorities and specific actions. These actions are focused on areas such as renewable energy, zero emissions buildings and precincts, zero emissions transport, and reducing the impact of waste. The documents also mention the need for an innovative, evidence-based approach to prioritising actions and the importance of reporting progress in reducing emissions annually. However, there is no explicit statement indicating that these climate change mitigation efforts should take precedence over other policies.",
+      "source": "Melbourne-b-a12345678910.json",
+      "lga": "Melbourne"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline a Climate Change Adaptation Plan, which includes a range of actions and strategies to address climate change impacts. These actions are organised into five themes: Community Wellbeing and Emergency Management, Open Space and Water Security, Assets and Infrastructure, Planning, Buildings and Regulations, and Governance and Risk. The plan includes short, medium, and long-term priorities, but it does not explicitly state that these climate change adaptation actions should take precedence over other policies. Instead, the plan suggests a comprehensive and integrated approach to climate change adaptation, which involves embedding climate change considerations into relevant plans, policies, and processes as they are developed and updated.",
+      "source": "Melton-a-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Climate Change Adaptation Plan does outline a comprehensive framework for addressing climate change impacts, including a 10-year plan and a rolling three-year Action Plan. The plan is organized into five themes: Community Wellbeing and Emergency Management, Open Space and Water Security, Assets and Infrastructure, Planning, Buildings and Regulations, and Governance and Risk. However, the documents do not explicitly prioritize climate change response over other policies. Instead, they suggest a coordinated and integrated approach, where climate change considerations are embedded into relevant strategies, plans, and processes as they are updated or developed. This suggests a recognition of the importance of addressing climate change, but not necessarily a prioritization over all other policies.",
+      "source": "Melton-b-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the Mildura Rural City Council's Community Climate Response Plan for 2024-2029, which includes a declaration of a climate emergency and identifies six priority areas for action: Health, Waste, Farming, Education, Natural Environment, and Urban Environment. The plan provides guidance and information to stakeholders regarding actions to address climate change and aims to reduce greenhouse gas emissions and develop strategies to mitigate and adapt to the impacts of climate change. However, there is no explicit statement indicating that these climate response actions should take precedence over other policies.",
+      "source": "Mildura-a-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the Mildura Rural City Council's Community Climate Response Plan for 2024-2029, which includes a declaration of a climate emergency and identifies six priority areas for action: Health, Waste, Farming, Education, Natural Environment, and Urban Environment. The plan provides guidance and information to stakeholders about the actions needed to address climate change. However, it does not explicitly state that these actions or the climate emergency response as a whole should take precedence over other policies. The documents emphasize the importance of addressing climate change and outline various actions to be taken in response, but they do not provide a clear hierarchy of policy priorities.",
+      "source": "Mildura-b-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The provided documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the Mitchell Shire's Climate Emergency Action Plan, which includes a range of actions to reduce emissions and adapt to a changing climate. The plan emphasizes the importance of collaboration and partnership among council, residents, businesses, farmers, and community groups. It also outlines the roles of these stakeholders in driving climate action. However, there is no explicit statement indicating that this climate emergency response should take precedence over other policies. The documents do highlight the urgency and importance of the climate emergency response, but they do not provide a clear hierarchy of policy priorities.",
+      "source": "Mitchell-a-a12345678910.json",
+      "lga": "Mitchell"
+    },
+    {
+      "answer": "The provided documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the Mitchell Shire's Climate Emergency Action Plan, which includes a range of actions to reduce emissions and adapt to a changing climate. The plan involves various stakeholders, including the council, residents, businesses, farmers, and community groups. It also outlines the roles and responsibilities of these stakeholders in implementing the plan. However, nowhere in the documents is it explicitly stated that this climate emergency response should take precedence over other policies. The documents do emphasize the importance of the plan and the need for collective action, but they do not provide a clear hierarchy of policy priorities.",
+      "source": "Mitchell-b-a12345678910.json",
+      "lga": "Mitchell"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents focus on the local government's plan to reduce corporate emissions, with specific actions and priorities outlined. These include developing a low carbon workplace, reducing emissions from waste, fleet, buildings, parks and reserves, and street lighting, and monitoring and evaluating progress. However, there is no explicit mention of prioritizing these actions over other policies. The documents do indicate a commitment to reducing emissions and a recognition of the importance of environmental sustainability, but they do not make a clear statement about the relative priority of these actions compared to other policy areas.",
+      "source": "Moira-a-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents focus on the Moira Shire Council's Corporate Emissions Reduction Plan 2018-2021, outlining various strategies and actions to reduce emissions in different areas such as the workplace, waste, fleet, buildings, parks and reserves, and street lighting. The plan also includes a commitment to monitor and evaluate progress. However, there is no explicit statement prioritizing these climate response actions over other policies. The documents do indicate a commitment to reducing emissions and promoting environmental sustainability, but they do not provide a clear hierarchy of policy priorities.",
+      "source": "Moira-b-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Monash Council's Zero Net Carbon Action Plan 2020-2025 outlines a comprehensive approach to addressing climate change, including reducing greenhouse gas emissions, increasing energy efficiency, and developing a climate adaptation strategy. The plan also includes actions such as updating the Environmental Sustainable Development policy, reducing paper use, and investing in renewable energy. However, while these actions indicate a strong commitment to addressing climate change, they do not explicitly prioritize these actions over other policies. The documents do not provide a clear hierarchy of policy priorities, and it is therefore not possible to definitively state that the climate emergency response is considered a higher priority than other policies.",
+      "source": "Monash-a-a12345678910.json",
+      "lga": "Monash"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Monash Council's Zero Net Carbon Action Plan 2020-2025 outlines a comprehensive approach to addressing climate change, including reducing greenhouse gas emissions, increasing energy efficiency, and developing a climate adaptation strategy. However, it does not explicitly prioritize these actions over other policies. The plan includes a range of actions such as the use of renewable energy, infrastructure upgrades, tree planting, and sustainable procurement. It also mentions the need for community engagement, education, and technical expertise. However, the documents do not provide a clear hierarchy of policy priorities, and there is no explicit statement that climate change response should supersede other policy areas.",
+      "source": "Monash-b-a12345678910.json",
+      "lga": "Monash"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change and outline various strategies and actions to mitigate its effects, they do not explicitly rank these actions in terms of priority over other policies. The documents mention the declaration of a climate emergency and the development of an action plan to respond to it. However, they also note that the delivery of this action plan is subject to feasibility, including cost-effectiveness, Council budget and priorities, access to external funding, and other constraints to delivery of action items. This suggests that while climate change is a significant concern, its mitigation is one of many priorities for the local government.",
+      "source": "MooneeValley-a-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including the declaration of a climate emergency in October 2019, they do not specify that these actions should take precedence over other policies. The documents detail a range of actions and strategies to mitigate climate change, such as reducing greenhouse gas emissions, enhancing the urban environment, and adapting to climate change. However, these are presented as part of a broader action plan, rather than as a priority above all other policies. Furthermore, the delivery of the action plan is stated to be subject to feasibility, including cost effectiveness, budget, and access to external funding, suggesting that these actions may be balanced against other policy considerations.",
+      "source": "MooneeValley-b-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various strategies, such as reducing greenhouse emissions, improving energy efficiency, and planning for climate risks, they do not explicitly prioritize these actions over other policies. The documents emphasize the importance of climate change adaptation and mitigation, but they do not provide a clear hierarchy of policy priorities. Therefore, it cannot be definitively stated that a climate emergency response is given higher priority than other policies.",
+      "source": "Moorabool-a-a12345678910.json",
+      "lga": "Moorabool"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including understanding and mitigating climate risks, reducing greenhouse emissions, improving water efficiency, and promoting local food supply, they do not explicitly prioritize these actions over other policies. The documents also mention the need for the council to maintain close communications with Sustainability Victoria and the Department of Environment, Land, Water and Planning to seek out opportunities for the community. However, this does not necessarily imply a prioritization over other policies. The documents also acknowledge that the council can only directly control some issues, indirectly influence others, and can only advocate for some issues, suggesting a balanced approach to policy implementation.",
+      "source": "Moorabool-b-a12345678910.json",
+      "lga": "Moorabool"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. They outline a comprehensive plan for addressing climate change, including a scoring system for prioritising actions based on their effectiveness in reducing greenhouse gas emissions or building community climate resilience. However, this does not necessarily imply that these actions take precedence over all other policies. The documents also mention the importance of advocacy and collaboration with other levels of government and stakeholders, suggesting that the climate emergency response is part of a broader policy framework. Furthermore, the documents highlight the need for flexibility in resourcing and implementing the plan, indicating that the prioritisation of actions may be subject to change based on new data, technology, and funding sources.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. They outline a comprehensive plan for addressing climate change, including a scoring system for prioritising actions based on their effectiveness in reducing greenhouse gas emissions or building community climate resilience. However, this does not necessarily mean that these actions are given higher priority than other policies. The documents also mention the development of a Climate Emergency Advocacy Plan and the establishment of a Climate Oversight Group, indicating a significant commitment to addressing climate change. However, these measures are presented as part of a broader strategy, rather than as overriding priorities above all other policies.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline various environmental sustainability strategies and actions, including those related to climate change, such as offsetting greenhouse emissions and preparing a council adaptation strategy to climate change. However, these actions are presented alongside other environmental sustainability actions, and there is no explicit statement prioritizing climate emergency response over other policies. The documents also mention the need for resources and timeframes for implementing these actions, but again, there is no explicit prioritization of climate emergency response. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response must have higher priority than other policies.",
+      "source": "Moyne-a-a12345678910.json",
+      "lga": "Moyne"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline various environmental sustainability strategies, including actions related to climate change, such as offsetting greenhouse emissions and preparing a council adaptation strategy to climate change. However, these actions are presented alongside other environmental sustainability actions, and there is no explicit statement prioritizing climate emergency response over other policies. The documents also mention the need for resources and timeframes for implementing these actions, but again, there is no explicit prioritization of climate emergency response. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response must have higher priority than other policies.",
+      "source": "Moyne-b-a12345678910.json",
+      "lga": "Moyne"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a comprehensive plan for addressing climate change, including setting ambitious targets for carbon neutrality and integrating climate change considerations into all operations, they do not explicitly prioritize these actions over other policy areas. The documents emphasize the importance of climate change action and outline a range of strategies and actions to address it, but they do not make a clear statement about the relative priority of these actions compared to other policy areas. Therefore, without explicit evidence, it cannot be affirmed that a climate emergency response is given higher priority than other policies.",
+      "source": "MtAlexander-a-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a comprehensive plan for addressing climate change, including setting ambitious targets for carbon neutrality and integrating climate change considerations into all operations, they do not explicitly prioritize these actions over other policy areas. The documents emphasize the importance of climate change action and outline a range of strategies and actions to address it, but they do not make a clear statement about the relative priority of these actions compared to other policy areas. Therefore, without explicit evidence, we cannot affirm that a climate emergency response is given higher priority than other policies.",
+      "source": "MtAlexander-b-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of addressing climate change, they do not explicitly rank it above other policies. The documents outline a Climate Change Action Plan, which includes goals, strategic directions, and actions related to climate change. The plan includes actions such as boosting Council's emergency management capacity, ensuring climate change is considered in Council plans, strategies, and day-to-day decision making, and promoting community adoption of climate-adapted and low emissions technologies. However, these actions are presented as part of a comprehensive plan, not as a prioritization over other policies. Furthermore, the documents also mention that a minority of the community would prefer the Council to focus on core business activities rather than taking action on climate change. This suggests that there is a balance to be struck between addressing climate change and other policy areas.",
+      "source": "Murrindindi-a-a12345678910.json",
+      "lga": "Murrindindi"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The local government's climate change action plan outlines various strategies and actions to address climate change, including engaging with stakeholders, promoting community adoption of climate-adapted technologies, managing climate risks to business continuity, and reviewing business continuity and emergency plans. However, these actions are presented as part of a comprehensive approach to addressing climate change, rather than as a higher priority over other policies. The documents also mention the need for regular reviews of the plan to reflect changing conditions and community priorities, but they do not specify that climate change actions should take precedence over other policy areas.",
+      "source": "Murrindindi-b-a12345678910.json",
+      "lga": "Murrindindi"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the Nillumbik Shire Council takes the climate emergency seriously and has developed a comprehensive Climate Action Plan, they do not explicitly state that this response should supersede other policies. The documents highlight the Council's commitment to integrating a climate lens into their strategies and plans, and to considering climate impacts in their day-to-day operations and decision-making processes. However, these actions suggest an integration of climate considerations into existing policies and strategies, rather than a prioritisation over them. Therefore, based on the provided documents, it cannot be conclusively stated that a climate emergency response is given higher priority than other policies.",
+      "source": "Nillumbik-a-a12345678910.json",
+      "lga": "Nillumbik"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the Nillumbik Shire Council takes the climate emergency seriously and has developed a comprehensive Climate Action Plan, they do not specify that this response should supersede other policies. The Council's approach to climate change is described as 'whole-of-Council', suggesting that it is integrated across all areas of their work, rather than being prioritised above all else. The documents also mention the challenge of identifying priority areas for action that will deliver community benefits that the Council is able to resource, implying that resource availability and community benefit are key considerations in prioritising actions.",
+      "source": "Nillumbik-b-a12345678910.json",
+      "lga": "Nillumbik"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government is taking climate change seriously, with a range of initiatives and actions outlined to reduce environmental impact and increase resilience to climate change, there is no specific statement indicating that these actions should take precedence over other policies. The documents discuss the importance of climate change action, the need for community engagement, and the ongoing efforts to strengthen climate change and environmental policies. However, they do not explicitly prioritize these actions over other policy areas. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response must have higher priority than other policies.",
+      "source": "PortPhillip-a-a12345678910.json",
+      "lga": "PortPhillip"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including the establishment of a ten-year 'Act and Adapt: Sustainable Environment Strategy' and the detailing of 45 initiatives to reduce environmental impact and increase climate resilience, there is no explicit statement prioritising these actions over other policies. The documents do highlight the urgency of climate action, the growing public concern, and the legislative requirements to factor climate change into planning and decision-making. However, these points do not equate to an explicit prioritisation of climate emergency response over other policies.",
+      "source": "PortPhillip-b-a12345678910.json",
+      "lga": "PortPhillip"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Climate Change Response and Mitigation Action Plan adopted by the council outlines various measures to address climate change impacts, such as planning for flood events, investing in resilient infrastructure, and reducing greenhouse gas emissions. However, these actions are presented as part of the council's overall responsibilities and initiatives, not as a priority over other policies. The Heatwave Plan also outlines strategies to mitigate the impacts of heatwaves, but again, this is presented as part of the council's duty of care and legislative requirements, not as a priority over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is prioritized over other policies.",
+      "source": "Pyrenees-a-a12345678910.json",
+      "lga": "Pyrenees"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Climate Change Response and Mitigation Action Plan adopted by the council outlines various measures to address climate change impacts, such as planning for flood events, investing in resilient roads and bridges, and reducing greenhouse gas emissions. However, these actions are presented as part of the council's overall responsibilities and not as a priority over other policies. The Heatwave Plan also outlines strategies to mitigate the impacts of heatwaves, but again, it does not explicitly state that these actions should take precedence over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is prioritized over other policies.",
+      "source": "Pyrenees-b-a12345678910.json",
+      "lga": "Pyrenees"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government has declared a climate emergency and is taking steps to address it, such as investing in renewable energy, aiming for zero-carbon community, and developing a Climate Emergency Response Plan, there is no specific mention that these climate actions should take precedence over other policies. The documents do highlight the importance and urgency of addressing climate change, and the community's desire for ambitious action, but they do not explicitly state that this should be at the expense of other policy areas.",
+      "source": "Queenscliffe-a-a12345678910.json",
+      "lga": "Queenscliffe"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government has declared a climate emergency and is taking steps to address it, such as investing in renewable energy, aiming for zero-carbon community, and developing a Climate Emergency Response Plan, there is no specific mention that these climate-related actions should take precedence over other policies. The documents do highlight the importance of climate action and the urgency of the situation, but they do not explicitly state that this should be prioritized above all other policy areas.",
+      "source": "Queenscliffe-b-a12345678910.json",
+      "lga": "Queenscliffe"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Southern Grampians Shire Council's Climate Change Adaptation Plan 2017-2027 outlines a range of adaptation actions to respond to climate risks, including research, policy and design, structural changes, and behavioural changes. It also mentions the prioritisation of adaptation actions, but this is in the context of managing each prioritised risk, not in comparison to other policies. The documents also detail the council's commitment to improving its preparedness and response to natural disasters, and the development of an Integrated Water Plan. However, these actions are presented as part of a comprehensive approach to climate change adaptation, rather than as a higher priority over other policies.",
+      "source": "SouthernGrampians-a-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Southern Grampians Shire Council's Climate Change Adaptation Plan 2017-2027 outlines a range of adaptation actions to respond to climate risks, including research, policy and design, structural changes, and behavioural changes. It also mentions the prioritisation of adaptation actions, but this seems to be in relation to the severity of the climate risks themselves, rather than in comparison to other non-climate-related policies. The documents also detail the council's commitment to improving its preparedness and response to natural disasters, and to working in partnership to respond to risks that cross organisational boundaries. However, none of this information suggests that a climate emergency response is given higher priority than other policies.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of climate change mitigation and planning, and the Local Government Act 2020 mandates that councils must give effect to overarching governance principles, including climate change mitigation, there is no explicit statement prioritizing a climate emergency response over other policies. The documents also mention the development of a new Climate Action Plan, which will include emissions reduction targets and actions for both climate change mitigation and adaptation. However, the priority of this plan relative to other policies is not explicitly stated.",
+      "source": "SouthGippsland-a-a12345678910.json",
+      "lga": "SouthGippsland"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of climate change mitigation and planning, and the need for the municipal community to be engaged in strategic planning and decision making, they do not explicitly prioritize these actions over other policies. The Local Government Act 2020 is mentioned as outlining overarching governance principles, including the need for mitigation and planning for climate change risks, but it does not explicitly state that these actions should take precedence over other policies. Furthermore, the documents mention the development of a new Climate Action Plan, but do not specify that this plan should be prioritized over other policies.",
+      "source": "SouthGippsland-b-a12345678910.json",
+      "lga": "SouthGippsland"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing the climate emergency, they do not provide a clear hierarchy of policy priorities. The Climate Emergency Action Plan is presented as a comprehensive strategy to address climate change, with actions ranging from embedding climate emergency response into all Council strategies, policies, and plans, to educating Council staff on climate change and its impacts. However, these actions are not explicitly prioritized over other policy areas. The documents also mention the integration of climate action into all areas of Council control, but again, this does not necessarily imply a higher priority than other policies. Therefore, based on the provided documents, it cannot be definitively stated that a climate emergency response is prioritized above other policies.",
+      "source": "Stonnington-a-a12345678910.json",
+      "lga": "Stonnington"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing the climate emergency, they do not provide a clear hierarchy of policy priorities. The documents detail the local government's plan to embed climate emergency response into all Council strategies, policies, and plans, and into Council operations and service delivery. They also mention the establishment of a Climate Emergency Advisory Committee and the intention to educate Council staff on climate change and its impacts. However, these actions suggest integration and consideration of climate emergency response within the existing policy framework, rather than prioritization over other policies.",
+      "source": "Stonnington-b-a12345678910.json",
+      "lga": "Stonnington"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Strathbogie Shire Council's Climate Change Action Plan does outline a comprehensive approach to addressing climate change, including promoting environmental, social, and economic sustainability, and mitigating negative impacts of climate change on future generations. The plan is divided into five main areas: protecting the natural environment, reducing emissions, building a climate-resilient community, moving sustainably, and advocating for change. However, nowhere in the documents is it explicitly stated that these climate change actions should take precedence over other policies. The documents do emphasize the importance of climate change actions and the council's commitment to achieving net zero emissions by 2025, but they do not provide a clear hierarchy of policy priorities.",
+      "source": "Strathbogie-a-a12345678910.json",
+      "lga": "Strathbogie"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including the declaration of a climate emergency, the establishment of a Climate Change Action Plan, and various actions to mitigate climate change impacts, they do not explicitly prioritize these actions over other policies. The documents emphasize the importance of climate change mitigation and adaptation, and the need for action across various sectors, but they do not provide a clear hierarchy of policy priorities. Therefore, without explicit evidence, it cannot be affirmed that a climate emergency response is given higher priority than other policies.",
+      "source": "Strathbogie-b-a12345678910.json",
+      "lga": "Strathbogie"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a comprehensive Climate Emergency Response Plan for 2021-2031, including prioritisation of actions based on set criteria such as high impact actions, there is no explicit statement indicating that these climate emergency responses should supersede other policies. The documents detail various actions, targets, and commitments related to climate change, such as achieving net zero greenhouse gas emissions, integrating climate emergency considerations into all Council decision-making, and supporting community-led climate action. However, these are presented as part of a broader policy framework, not as priorities above all other policies.",
+      "source": "SurfCoast-a-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline a comprehensive plan for addressing climate change, including prioritising and confirming suggested actions based on set criteria such as high impact actions and resourcing limitations. However, there is no explicit statement that these climate emergency responses should take precedence over other policies. The documents do highlight the importance of the climate emergency response, detailing various actions, targets, and commitments, but they do not explicitly compare the priority of this response to other policies.",
+      "source": "SurfCoast-b-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline various strategies and actions related to climate change adaptation and mitigation, such as developing an appropriate mechanism to measure greenhouse gas emissions, facilitating community efforts to adapt to climate change, and promoting the municipality as an attractive area for investment in renewable energy facilities, they do not explicitly prioritize these actions over other policies. The documents also mention the need to regularly review and update relevant plans and policies in relation to climate variability and change, but again, this is not explicitly prioritized over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is given higher priority than other policies.",
+      "source": "SwanHill-a-a12345678910.json",
+      "lga": "SwanHill"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline various strategies and actions related to climate change adaptation and mitigation, such as developing an appropriate mechanism to measure greenhouse gas emissions, facilitating community efforts to adapt to climate change, and promoting the municipality as an attractive area for investment in renewable energy facilities, they do not explicitly prioritize these actions over other policies. The documents also mention the need to regularly review and update relevant plans and policies in relation to climate variability and change, but again, this is not explicitly prioritized over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is given higher priority than other policies.",
+      "source": "SwanHill-b-a12345678910.json",
+      "lga": "SwanHill"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government is committed to addressing climate change and sustainability issues, they do not specify that these concerns should take precedence over all other policies. The documents outline a comprehensive approach to environmental sustainability, including the establishment of six priority areas: Biodiversity, Built Environment, Greenhouse Gas Emissions & Energy Reduction, Healthy Waterways, Sustainable Communities, and Waste Reduction & Resource Recovery. Each of these areas is divided into specific objectives and actions, indicating a broad and multifaceted approach to environmental sustainability. However, the documents do not explicitly prioritize these actions over other policy areas.",
+      "source": "Wangaratta-a-a12345678910.json",
+      "lga": "Wangaratta"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government is committed to addressing climate change and sustainability issues, they do not specify that these concerns should take precedence over all other policies. The documents outline a comprehensive approach to environmental sustainability, including the inclusion of climate change and sustainability criteria in all relevant documents and policies, and the establishment of six priority areas for action. These areas include biodiversity, built environment, greenhouse gas emissions and energy reduction, healthy waterways, sustainable communities, and waste reduction and resource recovery. However, the documents do not explicitly prioritize these areas above other policy areas. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is given higher priority than other policies.",
+      "source": "Wangaratta-b-a12345678910.json",
+      "lga": "Wangaratta"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various initiatives, such as reducing emissions, improving the resilience of the built environment, and protecting biodiversity, there is no explicit statement prioritizing these actions over other policies. The documents discuss the importance of climate change action and outline various strategies and targets, but they do not explicitly state that these actions should take precedence over other policy areas. Therefore, based on the provided documents, the answer to the question is negative.",
+      "source": "Warrnambool-a-a12345678910.json",
+      "lga": "Warrnambool"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various initiatives, such as reducing emissions, protecting biodiversity, and improving the resilience of the built environment, they do not explicitly prioritize these actions over other policies. The documents discuss the importance of climate change action and outline various strategies and targets, but they do not provide a clear hierarchy of policy priorities. Therefore, without explicit mention of prioritizing climate change response over other policies, it cannot be affirmed that such a prioritization exists.",
+      "source": "Warrnambool-b-a12345678910.json",
+      "lga": "Warrnambool"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the Wellington Shire Council's Sustainability Strategy, which includes a focus on understanding and mitigating the impacts of climate change on the council's operations and service delivery. The strategy includes actions such as investigating the long-term costs of climate change, integrating climate change measures into corporate policies, and building community resilience. However, these actions are presented as part of a broader strategy, and there is no explicit statement prioritising these actions over other policies. The documents also mention the importance of supporting vulnerable communities and enhancing the capacity of council staff to incorporate climate change adaptation into decision-making processes. However, again, these are not explicitly prioritised over other policies.",
+      "source": "Wellington-a-a12345678910.json",
+      "lga": "Wellington"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a comprehensive approach to addressing climate change, including building knowledge of its impacts, integrating climate change measures into corporate policies, and working with key partners to build community understanding and resilience, they do not explicitly prioritize these actions over other policy areas. The documents emphasize the importance of climate change adaptation and resilience, and outline specific actions and strategies to be taken, but they do not make a clear statement about the relative priority of these actions compared to other policy areas.",
+      "source": "Wellington-b-a12345678910.json",
+      "lga": "Wellington"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents highlight the urgency of climate action and outline various strategies and actions to address climate change, they do not explicitly rank these actions above other policy areas. The documents emphasize the importance of integrating climate considerations into various aspects of local government operations, including risk management, staff induction, and emergency management. They also mention the need for collaboration and partnerships across different sectors and levels of government. However, these references do not necessarily imply that climate action should supersede all other policy priorities. It is also worth noting that the documents highlight the need for a balanced approach that considers multiple factors when implementing climate actions.",
+      "source": "Whitehorse-a-a12345678910.json",
+      "lga": "Whitehorse"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the urgency of climate action and the need for a comprehensive response, they do not explicitly rank this policy above others. The documents emphasize the importance of integrating climate considerations into various aspects of local government operations, including risk management, staff training, and community engagement. They also highlight the need for collaboration and collective effort in addressing climate change. However, these statements do not necessarily imply that climate action should supersede all other policy areas. It is also important to note that the documents advocate for a balanced approach that considers multiple factors and integrates climate action into broader policy frameworks.",
+      "source": "Whitehorse-b-a12345678910.json",
+      "lga": "Whitehorse"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline a comprehensive climate change plan, which includes various priority areas for action such as renewable energy and energy efficiency, sustainable and active transport, sustainable farming practice and carbon sequestration, low waste and circular economy, climate resilient communities and businesses, climate resilient built environment and infrastructure, and climate resilient natural environment and biodiversity. However, there is no explicit statement indicating that these climate-related actions should take precedence over other policies. The documents also mention that the climate change plan will be reviewed in 2027 and 2032, in line with the latest climate science, emissions profile and inventory updates, as well as new mitigation and adaptation technologies that become available. This suggests a balanced approach to policy prioritisation, rather than an explicit prioritisation of climate emergency response over other policies.",
+      "source": "Whittlesea-a-a12345678910.json",
+      "lga": "Whittlesea"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline a comprehensive climate change plan, which includes various priorities for action such as renewable energy and energy efficiency, sustainable and active transport, sustainable farming practice and carbon sequestration, low waste and circular economy, climate resilient communities and businesses, climate resilient built environment and infrastructure, and climate resilient natural environment and biodiversity. However, there is no explicit statement indicating that these climate-related actions should take precedence over other policies. The documents also mention that the climate change plan will be reviewed in 2027 and 2032, in line with the latest climate science, emissions profile and inventory updates, as well as new mitigation and adaptation technologies that become available. This suggests a commitment to ongoing evaluation and adjustment of the plan, but does not necessarily imply a higher priority than other policies.",
+      "source": "Whittlesea-b-a12345678910.json",
+      "lga": "Whittlesea"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. They do, however, outline a number of actions and strategies related to climate change adaptation and mitigation. These include the development of a monitoring system that links climate data with climate risk occurrence, the ongoing review and revision of emergency management/response planning, and the inclusion of climate change considerations in all operational strategies and plans. The documents also mention the need for local governments to consider climate change in their decision-making processes, as required by the Victorian Climate Change Act (2010) and the Local Government Act 2020 (Vic). However, none of these actions or strategies are explicitly prioritized over other policies.",
+      "source": "Wodonga-a-a12345678910.json",
+      "lga": "Wodonga"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline a number of actions and strategies related to climate change, including the development of a monitoring system that links climate data with climate risk occurrence, the ongoing review and revision of emergency management/response planning, and the inclusion of climate-related health and wellbeing in employee induction. However, these actions are not explicitly prioritized over other policies. The documents also mention the need to consider climate change in strategic and operational decisions, but again, this is not framed as a higher priority than other considerations. Therefore, while the documents clearly acknowledge the importance of addressing climate change, they do not explicitly state that a climate emergency response must take precedence over other policies.",
+      "source": "Wodonga-b-a12345678910.json",
+      "lga": "Wodonga"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline a comprehensive climate change adaptation strategy, which includes a rigorous process of identifying climate change risks, mapping current controls, and identifying gaps and potential actions. The strategy also includes a number of specific actions, such as managing water use and urban heat reduction, empowering a resilient community, protecting biodiversity, building climate resilient infrastructure, and establishing adaptation excellence. However, these actions are presented as part of a balanced approach to climate change adaptation, rather than as a higher priority than other policies. The documents also note that climate change considerations are already incorporated into many key policies, strategies, and plans, suggesting that climate change adaptation is seen as an integral part of all policy areas, rather than as a separate, higher priority issue.",
+      "source": "Wyndham-a-a12345678910.json",
+      "lga": "Wyndham"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline a comprehensive approach to addressing climate change, including the identification of adaptation priorities, the integration of climate change considerations into council policies and systems, and the monitoring of climate change risks and the effectiveness of actions taken. However, these actions are presented as part of a broader strategy, not as a response to a declared climate emergency that would supersede other policies. The documents also emphasize the importance of a collaborative approach, involving other government authorities and the community, suggesting that the climate change response is seen as one aspect of the council's overall responsibilities, rather than a singular priority.",
+      "source": "Wyndham-b-a12345678910.json",
+      "lga": "Wyndham"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing the climate emergency, including specific strategies and actions, they do not explicitly rank this commitment in relation to other policy areas. The documents emphasize the importance of the climate emergency response and the urgency of the situation, but they do not explicitly state that this response should take precedence over all other policies. The documents also highlight the interconnectedness of the climate emergency with other policy areas, suggesting a holistic approach rather than a hierarchical one.",
+      "source": "Yarra-a-a12345678910.json",
+      "lga": "Yarra"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing the climate emergency, they do not explicitly rank this commitment in relation to other policy areas. The documents detail various strategic priorities, including mobilising the community, accelerating renewable energy, creating a climate-adapted city, transitioning to zero emissions transport, and moving towards zero waste. However, these are presented as components of the climate emergency response, rather than as separate policy areas that could be ranked in terms of priority. The documents also mention the need to embed climate emergency considerations across Council’s strategies, policies and decision-making processes, but this is about integration rather than prioritisation.",
+      "source": "Yarra-b-a12345678910.json",
+      "lga": "Yarra"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various strategies and actions, they do not explicitly prioritize these actions over other policies. The documents mention the integration of climate change considerations into all aspects of the council's business, the annual planning of actions, and the reporting of progress. However, these actions are presented as part of the council's overall responsibilities and not as a higher priority over other policies. The documents also mention the council's commitment to reducing greenhouse gas emissions, improving energy efficiency, and adapting to a changing climate. However, these are presented as specific goals within the council's broader policy framework, not as priorities that supersede other policies.",
+      "source": "YarraRanges-a-a12345678910.json",
+      "lga": "YarraRanges"
+    },
+    {
+      "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various strategies and actions, they do not explicitly prioritize these actions over other policies. The documents emphasize the integration of climate change considerations into all aspects of the council's operations, suggesting a holistic approach rather than a hierarchical one. They outline a range of actions, from improving energy efficiency and transitioning to renewable energy, to embedding climate change considerations into planning and decision-making processes. However, these actions are presented as part of a comprehensive approach to addressing climate change, rather than as a priority above other policies.",
+      "source": "YarraRanges-b-a12345678910.json",
+      "lga": "YarraRanges"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "settings": {
+    "source_files": [
+      "Queenscliffe-2021-climate-emergency-response-plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T22:30:15.231149",
+    "lga": "Queenscliffe"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the 'Climate Emergency Response Plan 2021-2031', clearly identifies climate action as its core purpose. The policy is designed to address the climate emergency, as declared by the local government, and outlines a comprehensive plan to mitigate the effects of climate change and adapt to its consequences. The policy is structured around three key criteria: Mitigation, Adaptation, and Influence. Mitigation refers to actions that reduce emissions, Adaptation involves changes in natural or human systems to prepare for climate change, and Influence refers to actions that contribute towards Mitigation and Adaptation. The policy also emphasizes the importance of community engagement and education in addressing the climate emergency. Therefore, it is evident that the core purpose of this policy is to take action against climate change.",
+          "quote": {
+            "content": "Actions that contribute towards Mitigation and Adaptation actions. All actions are measured against three criteria. Mitigation, Adaptation and Influence. Changes in natural or human systems to prepare for actual or expected changes in the climate in order to minimise harm, act on opportunities or cope with the consequences. Actions that reduce emissions and this reduction can be monitored.",
+            "page": 42,
+            "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. It refers to the United Nations Intergovernmental Panel on Climate Change (IPCC) report, which warns of the impacts of global warming and the limited time left to avert a climate crisis. The document also defines the climate emergency, emphasizing the immediate and significant risk it poses, and the urgent need for action to avoid that risk. The policy outlines a Climate Emergency Response Plan, which includes actions that reduce emissions, prepare for changes in the climate, and influence others towards mitigation and adaptation actions. The document also emphasizes the importance of aligning with the United Nations Sustainable Development Goals (SDGs) to contribute to global climate action efforts.",
+          "quote": {
+            "content": "Emergencies have the following essential elements: Immediate and significant risk, Require action to avoid that risk. An increase of global warming at current rates will significantly increase the risk of drought, floods, extreme heat and climate-related poverty for millions of people across the world. This is the Climate Emergency.",
+            "page": 11,
+            "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document indeed calls for rapid and urgent action on climate change. It refers to the situation as a 'Climate Emergency', a term that inherently implies urgency. The document cites the United Nations Intergovernmental Panel on Climate Change (IPCC) report, which warns of a limited time frame (12 years from 2018) to prevent a climate crisis. This further underscores the urgency of the situation. The document also outlines the significant risks posed by climate change, such as drought, floods, extreme heat, and climate-related poverty, which require immediate action. The policy also includes a Climate Emergency Response Plan, which is a clear call to action. The plan includes specific timeframes for actions, further emphasizing the need for swift and decisive action.",
+          "quote": {
+            "content": "This is the Climate Emergency. The United Nations (UN) Intergovernmental Panel on Climate Change (IPCC) released a report in October 2018 on the impacts of global warming and warned that we have just 12 years left from 2018 to limit a climate crisis.",
+            "page": 11,
+            "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a Climate Emergency Response Plan for the years 2021-2031, indicating a 10-year plan of action. The document also provides a breakdown of actions to be taken in the short (1-4 years), medium (4-7 years), and long term (7-10 years). For instance, the document mentions the development of an Implementation Plan, including resourcing commitments, climate governance, prioritisation, and the development of key budget requirements. This plan is to be developed in the short term. Furthermore, the document refers to the United Nations Intergovernmental Panel on Climate Change (IPCC) report, which warns of a 12-year window from 2018 to limit a climate crisis. This further underscores the urgency and specific timeframe for action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government has declared a climate emergency and is taking steps to address it, such as investing in renewable energy, aiming for zero-carbon community, and developing a Climate Emergency Response Plan, there is no specific mention that these climate actions should take precedence over other policies. The documents do highlight the importance and urgency of addressing climate change, and the community's desire for ambitious action, but they do not explicitly state that this should be at the expense of other policy areas."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive Climate Emergency Response Plan, including various actions and strategies to address climate change, they do not mandate that all council activities must align with this policy. The policy does emphasize the importance of climate change as a priority, and it outlines various actions and strategies, such as the development of a Climate Emergency Response Plan Community Hub, advocacy efforts, and a commitment to zero net emissions by 2031. However, these are specific initiatives rather than a requirement for all council activities to align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Climate Emergency Response Plan does explicitly allocate funding for climate action, although the specifics of the funding allocation are not detailed in the provided documents. The plan mentions that most of the action items will be subject to full or substantial grant funding. It also states that an Implementation Plan will be developed to detail resourcing implications, funding opportunities, project delivery plans, activity priorities, and governance. This indicates a clear intention to allocate resources, including funding, towards climate action. However, the exact amounts, sources, and allocation of this funding are not specified in the provided documents. The plan also mentions the development of key budget requirements, highlighting areas that can be met by Council, met by community, or require State or Federal Government assistance and funding. This suggests a multi-faceted approach to funding, involving various stakeholders.",
+          "quote": {
+            "content": "Post Council endorsement of the CERP, an Implementation Plan will be developed to detail resourcing implications, funding opportunities, project delivery plans, activity priorities and governance.",
+            "page": 41,
+            "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy outlines a Climate Emergency Response Plan, it does not specify the allocation of staff or other non-monetary resources to the implementation of this plan. The documents mention the development of an Implementation Plan, which will detail resourcing implications, funding opportunities, project delivery plans, activity priorities, and governance. However, this does not explicitly refer to the allocation of staff or other non-monetary institutional resources. The policy also mentions the creation of a Climate Emergency Response Plan Community Hub, but again, there is no explicit mention of staff or non-monetary resource allocation for this initiative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document indeed outlines a clear strategy for social mobilisation, focusing on education, collaboration, and community engagement to address the climate emergency. The policy emphasizes the importance of widespread community advocacy and collaboration within and outside the Borough to maximize collective impact and remove duplication of effort. The Council commits to working with the community to advocate for zero net emissions by 2031 or earlier. The policy also outlines plans to make the climate emergency a communications priority and to develop a multi-platform Climate Emergency Response Plan Community Hub. This hub is intended to be a crucial community engagement and communications tool that provides up-to-date information, training, and education on the climate emergency. Therefore, the policy does actively empower and educate the community to rally, support, and work productively together to deliver climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate Emergency Response Plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions are evident in the plan's emphasis on renewable energy, with the community identifying investment in renewable energy as a top priority. This is likely to involve the use of technologies such as solar power, as suggested by community survey responses. The plan also includes actions that promote behaviour change, such as changes to waste management and the promotion of actions the community can implement. Furthermore, the plan includes a Monitoring, Evaluation and Reporting Framework to measure the reduction in greenhouse gas emissions, indicating a commitment to assessing the effectiveness of these mitigation strategies. The plan's focus on both technological solutions and behaviour change suggests a comprehensive approach to mitigating greenhouse gas emissions.",
+          "quote": {
+            "content": "Investment in renewable energy repeatedly surfaced as the most popular suggestion, followed by changes to waste management and behaviour.",
+            "page": 17,
+            "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Emergency Response Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a pillar called 'Adaptation and Resilience' which focuses on preparing the council and community for changing climate conditions and extreme weather events. The plan also includes a commitment to develop an Implementation Plan that includes climate governance and prioritisation. Furthermore, the council plans to undertake a detailed Climate Change Risk Assessment for the Borough of Queenscliffe, aligning the Council’s Risk Management Framework with the Environmental Management System. This indicates a clear focus on adaptation and resilience, with specific actions and strategies outlined to address the challenges posed by climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a Climate Emergency Response Plan, including a commitment to become a Zero Carbon Community by 2031 and a plan to align with the 17 Global Goals for Sustainable Development, it does not provide specific, well-sourced evidence to justify these targets. The policy mentions the development of an Implementation Plan, a Monitoring, Evaluation and Reporting Framework, and a detailed Climate Change Risk Assessment. However, these are plans for future actions and do not constitute evidence supporting the current targets. The policy also mentions community consultation and expert assessments, but it does not detail the nature of these consultations or the specific findings of the expert assessments that would justify the targets and actions. Therefore, the policy does not meet the high standard of evidence and specific detail required to affirmatively answer the question."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The plan does include specific measurable criteria to evaluate the success of its proposed actions. It outlines a Monitoring, Evaluation, and Reporting Framework to be developed in partnership with the community. This framework will set baseline measurements to assess the ongoing performance and implementation of the plan. The plan will be reviewed by the Council every two years, with a major review in 2025. The Council will monitor, evaluate, and publicly report on progress implementing this plan through various means, including an annual report to the Council on the Plan’s implementation progress, relevant Council reports regarding key actions in the Plan, emissions reporting, and engaging with the community on progress implementing community actions through self-reported surveys, programs, and consultations. The actions are grouped according to eight pillars, and all actions are measured against three criteria: Mitigation, Adaptation, and Influence.",
+          "quote": {
+            "content": "Council’s monitoring and evaluation of the Plan will be conducted in accordance with a Monitoring, Evaluation and Reporting Framework to be developed in partnership with the community.",
+            "page": 64,
+            "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a Climate Emergency Response Plan, which was developed through community consultation and expert assessments. The community was asked to rank different priorities for the plan, with renewable energy investment emerging as the highest priority. The plan also includes a commitment to continue community engagement throughout its implementation. Furthermore, the government plans to develop a Monitoring, Evaluation and Reporting Framework in partnership with the community, which will set baseline measurements to assess the ongoing performance and implementation of the plan. This suggests that the government is planning to conduct ongoing research in the local community to inform and evaluate its climate actions.",
+          "quote": {
+            "content": "The Framework will set baseline measurements to assess the ongoing performance and implementation of the Plan and will consider the use of an evaluation framework to enable regular community evaluation of the Plan.",
+            "page": 64,
+            "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The local government's Climate Emergency Response Plan 2021-2031 demonstrates evidence of innovation and policy experimentation in climate action. The policy outlines a comprehensive approach to addressing climate change, with a focus on community engagement, renewable energy, sustainable buildings, and sustainable transport. The plan also includes a commitment to align with the United Nations Sustainable Development Goals, indicating a global perspective on local actions. The policy also shows a commitment to monitoring and evaluation, with the development of a framework to measure the reduction in greenhouse gas emissions and assess the ongoing performance of the plan. The plan also includes a commitment to divest from institutions that operate or invest in fossil fuel companies, indicating a willingness to take bold steps to address climate change. The policy also includes a commitment to education and collaboration, with the development of a Climate Emergency Response Plan Community Hub to provide up-to-date information and education on the climate emergency.",
+          "quote": {
+            "content": "Council to support the community to develop a multi-platform (digital and physical), co-designed Climate Emergency Response Plan Community Hub.",
+            "page": 53,
+            "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The Borough of Queenscliffe's Climate Emergency Response Plan (CERP) outlines a commitment to work with the community to advocate to all levels of government to achieve zero net emissions by 2031 or earlier. This advocacy is not limited to the local level but extends to all levels of government, including state and national. The plan also emphasizes the importance of collaboration and partnerships in achieving its climate goals, including partnerships with key government departments. The plan's focus on advocacy and collaboration suggests a recognition of the interconnectedness of climate action and the need for support and action at all levels of government.",
+          "quote": {
+            "content": "Council commits to working with community to advocate to all levels of government to achieve zero net emissions by 2031 or earlier, specifically advocating across all 8 Pillars of the CERP",
+            "page": 29,
+            "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The document indeed encourages building local capacity across the council, local communities, and neighboring local councils for climate action. It emphasizes the importance of community awareness, advocacy, and collaboration in addressing the climate emergency. The policy outlines a plan to develop a multi-platform Climate Emergency Response Plan Community Hub, which will serve as a crucial community engagement and communications tool. The council also commits to working with the community to advocate to all levels of government to achieve zero net emissions by 2031 or earlier. Furthermore, the council plans to support the community in developing a best-practice Climate Emergency Response Plan Ambassadors Strategy to encourage community participation and leadership. The policy also mentions the council's commitment to identifying and facilitating key partnerships and collaborations to maximize impact across the eight pillars of the Climate Emergency Response Plan."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific information about regional associations, alliances, or other partnerships related to climate change. While the policy does mention the importance of partnerships and collaborations in achieving the goals of the Climate Emergency Response Plan, it does not name any specific entities. The policy emphasizes the need for community engagement, advocacy, and collaboration, and it mentions working with the Wadawurrung traditional owners. However, it does not provide details about specific regional associations or alliances. Therefore, the question cannot be answered positively based on the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do express concerns about climate change impacts on the natural environment, rising sea levels, erosion, and habitat destruction, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents also mention the community's desire for action on climate change, including investment in renewable energy and changes to waste management. However, these discussions do not explicitly connect to the issue of equity and social justice for vulnerable communities. Therefore, based on the provided documents, the local government policy does not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline the Borough of Queenscliffe's Climate Emergency Response Plan, including its alignment with the United Nations Sustainable Development Goals (SDGs) and its focus on various pillars such as renewable energy, sustainable buildings, and sustainable transport, there is no specific mention of how the benefits and opportunities of a safe climate will be shared equitably. The documents do mention community engagement and collaboration, but these references do not specifically address the question of equity and social justice in the context of climate change benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 69.2
+  }
+}

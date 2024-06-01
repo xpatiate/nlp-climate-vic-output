@@ -1,0 +1,334 @@
+{
+  "settings": {
+    "source_files": [
+      "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T15:02:15.253981",
+    "lga": "GoldenPlains"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Golden Plains Shire Climate Emergency Plan 2022-2032, clearly identifies climate action as its core purpose. The policy was developed in response to the Council's declaration of a Climate Emergency, which called for immediate and urgent action to reverse global warming and adapt to unavoidable changes. The policy outlines the Council's climate mitigation and adaptation priorities for the next decade, with a focus on actions that will reduce emissions and help the community adapt to climate change. The policy is organized into five themes, including embedding climate action into Council, resilient and adaptive community, caring for the land, climate responsive development, and sustainable transport and travel. Each theme includes specific actions, many of which are aimed at reducing emissions (mitigation) or helping adapt to climate change (adaptation). The policy also includes a commitment to work with the community and other organizations to implement the plan.",
+          "quote": {
+            "content": "The Plan identifies the actions Council will take to respond to the Climate Emergency and actions Council, together with the Golden Plains Shire community, will work on to create a more sustainable future together.",
+            "page": 16,
+            "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It emphasizes that climate change is a pressing issue for local government, presenting legal, social, economic, and environmental risks. The Golden Plains Shire Council has declared a Climate Emergency, necessitating immediate and urgent action to reverse global warming and adapt to unavoidable changes. The document also highlights the importance of a coordinated response to the Climate Emergency, with the risk of actions being ad-hoc and limited without a comprehensive plan. The plan outlines the pathway towards net zero emissions for Council operations by 2025 and details mitigation and adaptation actions to create a more sustainable future. The document also underscores the importance of collaboration across all sectors of the Shire and beyond, indicating that the next 10 years of action are critical.",
+          "quote": {
+            "content": "The Plan outlines the pathway toward net zero emissions for Council operations by 2025 and the mitigation and adaptation actions Council and the community will take together to create a more sustainable future for Golden Plains Shire. In July 2021, Golden Plains Shire Council (Council) declared a Climate Emergency, a resolution for immediate and urgent action to reverse global warming and adapt to changes that society cannot avoid.",
+            "page": 5,
+            "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly call for rapid and urgent action on climate change. The Golden Plains Shire Council declared a Climate Emergency in July 2021, which is a resolution for immediate and urgent action to reverse global warming and adapt to changes that society cannot avoid. The Council has committed to preparing a 10-year Climate Emergency Plan to put the declaration’s words into actions. The documents emphasize that the next 10 years of action are critical and that the Climate Emergency Plan is an essential tool for informing the collective response. The documents also highlight that immediate action is required by all levels of society to drastically reduce emissions to mitigate the impacts of climate change. The Council is acting to both reduce the Shire’s contribution to climate change and prepare for the changes that are unavoidable.",
+          "quote": {
+            "content": "The next 10 years of action are critical and this Climate Emergency Plan is an essential tool for informing our collective response. Strong action, foresight and unprecedented levels of collaboration across all sectors of the Shire (and beyond) is vital.",
+            "page": 16,
+            "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate. The policy outlines a 10-year plan, from 2022 to 2032, to address the climate emergency. This timeframe is mentioned in the 'Scope and Objectives' section. Furthermore, the policy provides specific start years for each action item. For instance, action 1.1, which involves ensuring that Council climate risks are recorded and addressed, is set to start in 2022. Similarly, action 1.3, which involves taking climate change mitigation and adaptation measures into account in new Council building projects, is set to start in 2023. Therefore, the document does not only express the urgency of action on climate change, but it also provides specific timeframes for these actions.",
+          "quote": {
+            "content": "Actions include those things that Council can control The timeframe of the Plan is from 2022 to 2032 and its scope includes actions to mitigate, adapt and respond to climate change in Golden Plains Shire. It is a Plan for the whole of Shire - it includes actions Council will undertake as well as those that will be undertaken in partnership with the community.",
+            "page": 9,
+            "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do emphasize the importance and urgency of the Climate Emergency Plan, stating that it is a 'necessity not a luxury' and that 'the next 10 years of action are critical'. However, these statements do not necessarily imply that the climate emergency response should supersede all other policies. The documents also outline a detailed plan for addressing the climate emergency, including specific actions and strategies, but again, there is no explicit statement about prioritizing these actions over other policies. Therefore, based on the provided documents, it cannot be definitively stated that the climate emergency response is intended to have higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents provide a detailed outline of the council's climate action plan, including various actions and strategies to mitigate and adapt to climate change, there is no specific requirement mentioned that all council activities must align with this policy. The policy does emphasize the importance of embedding climate action into various council processes, such as project delivery, grant processes, and building projects. It also mentions the development of an Environmentally Sustainable Design (ESD) Policy and the inclusion of climate change considerations in the council's project management framework. However, these actions do not necessarily imply that all council activities must be aligned with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. While the policy outlines various actions to be taken by the local government, such as embedding climate change considerations into council actions, project delivery processes, and grant processes, it does not provide specific details about the financial resources that will be allocated to these actions. The policy does mention the development of a planting fund for primary schools, but it does not specify the amount of funding or how it will be allocated. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines a number of actions that require staff involvement, such as embedding climate change into Council induction practices, increasing Council staff knowledge about the Climate Emergency, and investigating a carpooling system for Council staff. These actions suggest that staff time and expertise will be allocated to these tasks. Additionally, the plan mentions the consultation of various internal staff teams in the development of the actions, indicating that staff resources have been and will continue to be mobilized for climate action. The plan also includes actions that require non-monetary institutional resources, such as the development of an information pack, a Climate Emergency course, and a carpooling system.",
+          "quote": {
+            "content": "Host a quarterly session to ensure new employees are educated about Council’s climate change efforts during their induction period... Develop an information pack with key facts...",
+            "page": 19,
+            "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a series of actions that are designed to increase community knowledge and engagement with climate change issues. These include educational initiatives such as webinars on home food growing, workshops on reusable nappies, and community education on climate change impacts. The policy also includes plans to embed climate change considerations into community grant processes and to increase community knowledge about solar and battery storage. Furthermore, the policy outlines plans to develop a planting fund for primary schools, which would engage students with the natural environment and climate change issues. The policy also mentions collaboration with other councils, traditional owner groups, and the Barwon South West Climate Alliance to amplify community voices and undertake collective advocacy and action.",
+          "quote": {
+            "content": "To address the Climate Emergency, Council will use its leadership and resources to partner with the community, other Councils, Traditional Owner groups and the Barwon South West Climate Alliance to amplify community voices and undertake collective advocacy and action.",
+            "page": 20,
+            "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate Emergency Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of strategies, both technological and behavioural, to address climate change. Technological solutions include the development of an Environmentally Sustainable Design (ESD) Policy for new Council building projects, upgrading street lighting in the Shire to LED to increase energy efficiency, and investigating a carpooling system for Council staff to decrease emissions from single-vehicle travel. Behavioural changes are also encouraged, such as embedding climate change considerations into Council project delivery processes, grant processes, and staff induction practices. The plan also includes actions to increase Council staff knowledge about the Climate Emergency and to decrease the environmental impact of Council events by requiring them to be carbon neutral. These actions demonstrate a comprehensive approach to mitigating greenhouse gas emissions.",
+          "quote": {
+            "content": "Develop policy to require all events run by Council or in collaboration with Council to be carbon neutral. Develop an Environmentally Sustainable Design (ESD) Policy. 2. 2. 2. Upgrade street lighting in the Shire to LED. 3. 3. Embed climate change considerations as a component of Council’s project management framework.",
+            "page": 18,
+            "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan is organized into five themes, one of which is 'Resilient and adaptive community'. This theme is dedicated to building understanding and resilience among the community. The plan also includes actions that are specifically marked as 'adaptation', indicating that they are focused on helping the community adapt to climate change. For instance, the plan outlines actions such as providing education to Community Coordinators about how climate change may impact their community and offering community education and capacity building initiatives. Furthermore, the plan includes actions to decrease the environmental impact of new developments in the Shire and to support landholders in the Shire to mitigate and adapt to climate change. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+          "quote": {
+            "content": "Climate responsive development 5. The Plan is organised into five themes: 1. Embedding climate action into Council 2. Resilient and adaptive community 3. Caring for the land 4.",
+            "page": 16,
+            "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document does provide well-sourced evidence to justify its climate targets and actions. It outlines a comprehensive plan for climate action, which includes a detailed process for the development of actions. This process involves a review of more than 10 current Climate Emergency Plans from other councils, screening of comments based on value for money and feasibility, and classification of comments into eight focus areas. The plan also includes specific actions, each with a start year and a focus on either mitigation or adaptation. The actions are also informed by consultation with stakeholders, including the community, businesses, and council staff. Furthermore, the plan is supported by the Golden Plains Shire Council Plan 2021-2025 and the Environment Strategy 2019-2027, and it relies on peer-reviewed science from reputable organizations like the Commonwealth Science and Industrial Research Organisation, The Bureau of Meteorology, and the Intergovernmental Panel on Climate Change.",
+          "quote": {
+            "content": "Comments from the engagement were then screened based on value for money, feasibility within legislative bounds, the resourcing required to deliver the action and whether the action was already happening through a different Council area.",
+            "page": 34,
+            "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's Climate Emergency Plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a process for monitoring and reporting on the progress and outcomes of the actions. This process includes an annual review of targets and actions, an annual update to councillors, and a publicly available summary document reporting on progress and outcomes of actions every two years. Additionally, the plan includes a provision for consulting with the community to gather feedback about implementation and outcomes two times during the lifetime of the plan. This approach allows for the evaluation of the success of the proposed actions based on their progress, outcomes, and community feedback. However, the documents do not provide specific details on what these targets are, or how they will be measured, which could potentially limit the effectiveness of the evaluation process."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has undertaken a comprehensive consultation process to gather input from various stakeholders, including the Wadawurrung Traditional Owner Aboriginal Corporation, community members, businesses, and internal staff teams. This consultation process involved surveys, in-person and online workshops, booths at local events, and engagement with local schools. The feedback received from these consultations was then used to inform the development of the Climate Emergency Plan. The plan outlines specific actions to be taken, with start years and whether they focus on mitigation or adaptation. The actions are grouped into five themes, including embedding climate action into Council, resilient and adaptive community, caring for the land, climate responsive development, and sustainable transport and travel. This approach ensures that the actions taken are informed by the local community's needs and perspectives, and are therefore more likely to be effective and supported by the community.",
+          "quote": {
+            "content": "Overall, Council received 636 discrete comments from approximately 200 people.",
+            "page": 31,
+            "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The local government's climate emergency plan outlines a series of actions to address climate change, including embedding climate action into council operations, building a resilient and adaptive community, caring for the land, promoting climate responsive development, and encouraging sustainable transport and travel. However, these actions appear to be standard responses to climate change, rather than innovative or experimental policies. The plan does demonstrate a comprehensive approach to climate action, with actions informed by consultation with stakeholders and based on peer-reviewed science. However, without specific examples of innovative or experimental policies, it is not possible to affirm that the document shows evidence of such approaches in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. The Golden Plains Shire Council's Climate Emergency Plan outlines a comprehensive approach to addressing climate change, which includes advocacy to higher levels of government. The plan is organized into five themes, one of which is 'advocacy for urgent and bold climate action from both State and Federal Governments.' This indicates a clear intent to engage with and influence policy at the state and national levels. The plan also emphasizes the importance of collaboration across all sectors of the Shire and beyond, further suggesting a commitment to advocacy and partnership in the pursuit of climate action.",
+          "quote": {
+            "content": "Council will also work to build understanding and resilience amongst the community and advocate for urgent and bold climate action from both State and Federal Governments.",
+            "page": 16,
+            "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, their local communities, and neighbouring local councils for climate action. The council has outlined a plan to use its leadership and resources to partner with the community, other councils, Traditional Owner groups, and the Barwon South West Climate Alliance. This partnership aims to amplify community voices and undertake collective advocacy and action. The council also plans to provide education to Community Coordinators about how climate change may impact their community and offer community education and capacity building initiatives. Furthermore, the council is already part of the Barwon South West Climate Alliance, a collaboration of councils, catchment management authorities, water authorities, and universities in the Barwon South West region looking to take collaborative action on climate change.",
+          "quote": {
+            "content": "To address the Climate Emergency, Council will use its leadership and resources to partner with the community, other Councils, Traditional Owner groups and the Barwon South West Climate Alliance to amplify community voices and undertake collective advocacy and action.",
+            "page": 20,
+            "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Golden Plains Shire Council is part of the Victorian Energy Collaboration, which sources all power renewably, accounting for 52% of emissions. The Council is also a founding member of the Barwon South West Climate Alliance, a collaboration of councils, catchment management authorities, water authorities, and universities in the Barwon South West region, aiming to take collective action on climate change. Furthermore, the Council plans to use its leadership and resources to partner with the community, other councils, Traditional Owner groups, and the Barwon South West Climate Alliance to amplify community voices and undertake collective advocacy and action. These partnerships and collaborations are crucial for the Council's climate action plan, as they provide a platform for shared resources, knowledge, and advocacy.",
+          "quote": {
+            "content": "To address the Climate Emergency, Council will use its leadership and resources to partner with the community, other Councils, Traditional Owner groups and the Barwon South West Climate Alliance to amplify community voices and undertake collective advocacy and action.",
+            "page": 20,
+            "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change risks will have a greater impact on those who are already vulnerable, such as older people, people with disabilities, or those in unsecure housing. The document also highlights the role of the Council in educating and sharing information with residents, schools, and businesses to address the Climate Emergency. The Council plans to use its leadership and resources to partner with the community, other Councils, Traditional Owner groups, and the Barwon South West Climate Alliance to amplify community voices and undertake collective advocacy and action. This indicates a recognition of the need for equity and social justice in climate change policies and actions.",
+          "quote": {
+            "content": "These risks will have a greater impact on those who are already vulnerable such as older people, people with disabilities, or those in unsecure housing.",
+            "page": 20,
+            "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention the council's role in educating and sharing information with residents, schools, and businesses, and also mention the impact of climate risks on vulnerable groups such as older people, people with disabilities, or those in unsecure housing, they do not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The documents focus more on the actions and strategies the council is implementing or planning to implement to address the climate emergency, such as educational programs, workshops, and embedding climate change considerations into council processes."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 15,
+    "num_questions": 20,
+    "attribute_score": 77.5
+  }
+}

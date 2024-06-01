@@ -1,0 +1,262 @@
+{
+  "settings": {
+    "source_files": [
+      "Glenelg-2010-environment-strategy.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T14:59:06.434855",
+    "lga": "Glenelg"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The policy documents do not explicitly state that climate action is the core purpose or goal of the policy. While the policy does address climate change and its impacts, it does not clearly establish climate action as its primary objective. The policy includes actions related to climate change, such as keeping the public informed about climate change impacts, incorporating climate change considerations into the Glenelg Shire planning scheme, and facilitating community-based discussions on the environmental impact of climate change. However, these actions appear to be part of a broader environmental strategy, rather than a dedicated climate action policy. The policy also addresses other environmental issues, such as solid waste management, and includes actions that are not directly related to climate change, such as developing action plans and decision-making tools. Therefore, it cannot be definitively stated that climate action is the core purpose or goal of the policy."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document does explicitly explain the need for action on climate change. It acknowledges the reality and significance of climate change, attributing it to fossil fuel consumption and recognizing its potential threats to both man-made and natural assets. The document also outlines the local government's planned actions in response to climate change, such as incorporating the impacts of climate change into key plans and strategies, and facilitating community-based discussions on the environmental impact of climate change. The document also mentions the development of an environmental education and awareness program on energy conservation and greenhouse gas abatement actions. These actions indicate a clear recognition of the need to address climate change and its impacts.",
+          "quote": {
+            "content": "Through increased global temperatures and more erratic weather patterns, climate change poses a threat to both our man-made assets and also our natural assets, such as biodiversity, water supplies, healthy waterways and ocean acidi Council recognises that climate change due to an enhanced greenhouse effect produced by fossil fuel consumption is real and significant.",
+            "page": 76,
+            "source": "Glenelg-2010-environment-strategy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline a number of strategies and actions related to climate change, such as partnering on research into coastal vulnerability, leading community discussions on the impacts of climate change, and reducing greenhouse gas emissions from Council activities. However, these actions are presented as ongoing or long-term strategies, with priority implementation timelines ranging from high (in the next three years) to low (more than five years). The documents also mention the need for strong submissions for Natural Resource Management (NRM) funds to assist resourcing, suggesting that the implementation of these actions is contingent on funding availability. Therefore, while the documents clearly acknowledge the importance of addressing climate change, they do not convey a sense of urgency or immediacy in their proposed actions."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The policy outlines a priority implementation timeline that categorizes actions into high, medium, and low priorities. High priority actions are to be implemented within the next three years (2010-2013), medium priority actions within three to five years (2014-2015), and low priority actions in more than five years (2016 onwards). There are also ongoing actions that are to be implemented from 2010 onwards. This timeline provides a clear schedule for the implementation of the policy's climate change actions. However, it should be noted that the documents do not provide specific deadlines for each individual action, but rather a general timeframe based on the action's priority level.",
+          "quote": {
+            "content": "Ongoing, from 2010 onwards Medium, in three to ﬁve years, 2014 and 2015. Low, more than ﬁve years, in 2016 onwards.",
+            "page": 91,
+            "source": "Glenelg-2010-environment-strategy.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline a number of strategies and responses related to climate change, such as increasing the capacity and resilience of Glenelg’s biophysical coastal environment to adjust to the impacts of climate change, and incorporating the impacts of climate change into key plans and strategies. However, these are presented alongside other strategies and responses, and there is no clear indication that they are to be given higher priority than other policies. The documents do provide a timeline for implementation, with some actions marked as 'high' priority to be implemented within the next three years (2010-2013), but this does not necessarily equate to a higher priority over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the council has a strategic plan in place to address environmental issues, including climate change. This plan includes the development of action plans with clear targets, the incorporation of robust Environmental-Social-Economic decision-making processes into council governance, and the implementation of a greenhouse gas reduction strategy. The council also plans to engage the community in discussions about the environmental impact of climate change. However, these strategies and actions do not necessarily imply that all council activities must align with climate policy. The documents do not provide clear evidence to support a positive answer to the question."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate funding for climate action, although the specifics of the funding amounts are not detailed in the provided documents. The policy repeatedly mentions that actions will be taken 'within existing budgets', indicating that there is a financial commitment to implementing the strategies outlined. For instance, the policy states that the impacts of climate change will be incorporated into key plans and strategies 'within existing budgets'. Similarly, the policy outlines that the Glenelg planning scheme will be regularly reviewed to reflect the most up-to-date climate change information 'within existing budgets'. However, the policy also acknowledges the need for external funding and assistance, suggesting that the existing budgets may not be sufficient to fully implement all the planned actions."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines various strategies and actions related to climate change, and for each of these, it identifies the responsible staff or department within the local government. For instance, the Glenelg Shire Council (GSC) and its Environmental Sustainability Committee (ESC) are frequently mentioned as the lead entities responsible for implementing various climate-related actions. The policy also mentions the need for 'relevant staff' in several instances, indicating that specific personnel will be tasked with these actions. Furthermore, the policy outlines the need for community engagement and education on climate change, which would require the allocation of staff resources for effective implementation. However, it should be noted that while the policy does allocate institutional resources, it often mentions that these actions will be carried out 'within existing budgets', suggesting that there may be limitations on the resources available for these actions."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is taking steps to educate and engage the community in climate action. The policy outlines several strategies aimed at increasing community involvement and awareness of environmental issues. For instance, the policy calls for the establishment of a partnership network of environmental stakeholders, the facilitation of open community environmental forums, and the implementation of local educational programs on climate change impacts. These initiatives are designed to provide opportunities for community participation, foster knowledge and skills related to environmental issues, and facilitate community-based discussions on the environmental impact of climate change. The policy also emphasizes the importance of incorporating the impacts of climate change into key plans and strategies. Therefore, it can be concluded that the policy does actively empower and educate the community to rally, support, and work productively together to deliver climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a comprehensive approach to reducing emissions, which includes both technological solutions and behaviour change. The policy details a greenhouse reduction strategy, which includes options for avoiding and offsetting emissions. It also mentions the implementation of an environmental education and awareness program, which is aimed at promoting energy conservation and greenhouse gas abatement actions within the local community. Furthermore, the policy outlines the development of plans, policies, and actions to offset emissions that cannot be avoided. This includes the adoption of plans and policies by the Council, involvement in carbon offset planting activities, and the inclusion of greenhouse abatement contributions from street trees, urban landscapes, and natural areas under Council’s management in offset contributions."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to managing the impacts of climate change, particularly in relation to the Shire's coastline. It emphasizes the importance of predicting risks and preparing for impacts, and it outlines three adaptation options: protect, accommodate, and retreat. The policy also highlights the importance of translating research into policy and planning approaches. Furthermore, the policy outlines specific actions such as partnering on research into coastal vulnerability, planning for appropriate management to lessen the impact of climate change, leading community discussions on climate change impacts, and incorporating the impacts of climate change into key plans and strategies. These actions demonstrate a clear commitment to climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines various strategies and actions related to climate change, such as keeping the public informed about climate change impacts, ensuring the Glenelg planning scheme reflects up-to-date climate change information, and leading community discussions on the environmental impact of climate change, it does not provide specific, well-sourced evidence to justify these actions. The policy mentions the need for 'strong submission for NRM funds to assist resourcing' and 'external funding and assistance', but it does not detail what these funds would be used for, or how they would contribute to achieving the policy's climate targets. Furthermore, the policy does not provide any specific climate targets, making it difficult to assess whether the proposed actions are adequate or appropriate for achieving these targets."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a strategy for incorporating robust Environmental-Social-Economic, evidence-based decision-making processes into Council governance. It also includes the development of action plans with clear targets, which are reported against annually. The plan also mentions the use of a performance reporting system and the publication of an annual evaluation report on the strategy's performance. Furthermore, the strategy's performance is benchmarked against regional environmental sustainability indicators. These elements collectively provide a comprehensive framework for evaluating the success of the plan's proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined strategies to engage the community in discussions about the environmental impact of climate change and the risks and planning implications for local communities. This includes leading communities in discussions, risk assessment, and planning for the impacts of climate change. The government also plans to ensure that the impacts of climate change are incorporated into key plans and strategies. Furthermore, the government intends to develop a Community Engagement and Communication Plan for this strategy to help seek funding for community engagement and training activities. This suggests that the government is planning to conduct research in the local community to inform its climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of innovation and policy experimentation in climate action. The local government's policy appears to be focused on incorporating climate change impacts into their planning and strategies, engaging the community in discussions about climate change, and keeping the public informed about climate change and its impacts. While these are important steps in addressing climate change, they do not necessarily represent innovative or experimental approaches. The policy seems to be more about integrating existing knowledge and information about climate change into their planning processes and community engagement efforts, rather than experimenting with new or innovative policy approaches or solutions. Therefore, based on the provided documents, the answer to the question is negative."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the documents do outline various strategies and initiatives related to climate change, such as environmental education and awareness-raising projects, community-based discussions on the environmental impact of climate change, and the incorporation of climate change impacts into key plans and strategies, they do not specifically mention advocacy towards state and national governments. The focus of the documents appears to be on local community engagement, planning, and development, with the aim of increasing awareness and understanding of climate change and its impacts. Therefore, based on the provided documents, it cannot be conclusively stated that there is an explicit intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines several strategies and actions that involve partnerships, community engagement, and education initiatives. For instance, the policy proposes to establish a partnership network of environmental stakeholders, facilitate open community environmental forums, and lead community-based discussions on the environmental impact of climate change. It also plans to develop a Community Engagement and Communication Plan for the strategy and document participant feedback from implementing environmental programs. Furthermore, the policy aims to increase the capacity and resilience of Glenelg’s biophysical coastal environment to adjust to the impacts of climate change through active partnerships on research into coastal vulnerability and risk assessment of climate change impacts."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do refer to specific regional associations, alliances, or other partnerships related to climate. The local government policy outlines a strategy for climate change that involves partnering with various groups and agencies. For instance, the policy mentions the establishment of a partnership network of environmental stakeholders who meet quarterly with the aim of developing partnership projects to implement the strategy. The policy also refers to the council's role in leading communities and those with roles in coastal management in discussions, risk assessment, and planning for impacts of climate change and extreme events on the coast. The policy also mentions the council's role in supporting strong local educational programs on climate change impacts. These references suggest that the local government is actively seeking to collaborate with various stakeholders to address climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the implications of climate change for local communities, they do not specifically address how these impacts might disproportionately affect vulnerable populations. The documents focus on the general environmental impacts of climate change, the need for community engagement and education, and the incorporation of climate change impacts into planning and strategies. However, they do not delve into the social justice aspects of these impacts, such as how they might exacerbate existing inequalities or disproportionately burden certain communities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of equity and social justice. While the documents do mention the importance of community engagement, environmental considerations, and the potential for economic opportunities related to sustainable management and landscape repair, they do not provide specific details on how these benefits and opportunities will be equitably distributed among the community. The documents also do not address potential social justice issues that may arise in the process of implementing climate change policies and strategies. Therefore, without explicit evidence in the documents, it cannot be affirmed that the policy discusses how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 11,
+    "num_questions": 20,
+    "attribute_score": 61.7
+  }
+}

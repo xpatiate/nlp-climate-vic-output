@@ -1,0 +1,98 @@
+{
+  "settings": {
+    "source_files": [
+      "Hume-2018-greenhouse-action-plan.pdf",
+      "Hume-Climate-Action-Plan-2023-2028.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "26ecfd61eb5f2e8ea1c95fb76fd6435ed39a175a",
+    "rundate": "2024-04-13T18:56:54.466292",
+    "lga": "Hume"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy, Hume City Council's Climate Action Plan, clearly identifies climate action as its core purpose. The policy is designed to respond to the urgency and magnitude of the current climate situation. It outlines the council's commitment to reducing greenhouse gas emissions, adapting to climate impacts, and advocating for further climate action. The policy also emphasizes the importance of integrating climate action across the whole organization and in its work with partners and the community. It includes specific actions and activities, such as developing communication campaigns for residents to take well-informed climate action and integrating climate considerations into all decisions, programs, strategies, and plans. The policy also highlights the council's commitment to leadership in climate action, including sharing the reality of the current situation, taking action beyond its immediate sphere of responsibility, and advocating for climate action on behalf of the Hume community."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of addressing climate change, emphasizing the importance of reducing greenhouse gas emissions, adapting to climate impacts, and advocating for further climate action. The documents also underscore the importance of integrating climate action across the entire organization, in all decisions, strategies, and plans. The documents further stress the need for leadership in climate action, including sharing the reality of the current situation, taking action beyond immediate responsibilities, supporting climate action across the city, undertaking innovative climate action projects, and advocating for climate action on behalf of the community. The documents also highlight the importance of relying on scientific evidence and projections, and making well-informed decisions to innovate for leadership."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. The Hume Climate Action Plan 2023-2028, as outlined in the documents, emphasizes the need for immediate action to address climate change. The documents highlight the community's concern about climate change and the need for the council to take action. The Hume Sustainability Taskforce has put forth several climate-related recommendations to the council, including advocating for an Australian climate emergency declaration and phasing out of gas in council operations. The Climate Action Plan sets a carbon-neutral target by 2030 for council operations, which is described as a 'bold and achievable' undertaking. The documents also mention the need for 'fast adoption of electric vehicles' and 'going off gas' as part of the council's climate emergency plan. The documents further stress the need for 'transformational change' across all aspects of society to avoid a climate crisis."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the Climate Action Plan sets a carbon neutral target by 2030 for Council operations. This target is considered both bold and achievable, and there is an action to investigate bringing this target forward if certain conditions are met. Additionally, the documents outline ongoing actions such as the delivery of the solar, solar storage, and energy efficiency program for Council buildings, with higher energy use buildings being prioritized. The documents also mention the ongoing support for sustainable procurement and the electrification of Council operations. These specific timeframes and ongoing commitments demonstrate a sense of urgency in the local government's climate action plans.",
+          "quote": {
+            "content": "The Climate Action Plan sets a carbon neutral target by 2030 for Council operations which is both bold and achievable.",
+            "page": 58,
+            "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government is taking the issue of climate change seriously, with various actions and initiatives outlined, there is no explicit statement prioritizing climate emergency response over other policies. The documents highlight the importance of climate action, the need for community involvement, and the urgency of addressing climate change. They also outline specific actions such as sustainable procurement, data collection for carbon neutrality, and advocacy for enhanced climate action. However, these actions are presented as part of the local government's overall responsibilities and commitments, not as a priority over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents do indicate that all council activities should be aligned with climate policy. The policy outlines a commitment to apply a 'climate lens' to all decisions, programs, strategies, and plans. This means that climate impacts and opportunities are to be considered in all aspects of the council's operations. This is further emphasized by the commitment to build the capacity of Councillors and staff to apply the climate lens in their roles, ensuring that climate action is integrated across the organization. The policy also highlights the need for climate action to be taken beyond the council's immediate sphere of responsibility, indicating a broad application of the policy across all council activities.",
+          "quote": {
+            "content": "We need to consider climate \nimpacts and opportunities in all decisions, \nprograms, strategies, and plans.",
+            "page": 22,
+            "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": null
+}

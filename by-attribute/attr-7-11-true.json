@@ -1,0 +1,1210 @@
+{
+  "attribute": 8,
+  "question": 11,
+  "finding": true,
+  "num": 130,
+  "responses": [
+    {
+      "answer": "The local government's Climate Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines the development of a Climate Adaptation and Resilience Plan as a priority. This plan will involve a risk assessment to identify and assess the impacts of climate change and prioritize actions to manage these risks. The plan will consider the findings of the 3 yearly Community Emergency Risk Assessment (CERA), many of which are climate-related. The plan also outlines specific actions such as the drafting of a Tree Management Plan, which includes strategies for the maintenance of aging trees, tree selection and planting, and conservation of avenues of trees. Other actions include the development of a drought tolerance strategy, which involves defining the 'greenness' of each open space and increasing drought-tolerant garden beds over water-intensive annuals.",
+      "source": "Alpine-a-a12345678910.json",
+      "lga": "Alpine",
+      "quote": {
+        "content": "This will involve a risk assessment to identify and assess the impacts and prioritise actions to manage these risks. A Climate Adaptation and Resilience Plan will be developed to address these threats of a changing climate to Council’s assets, community townships and the municipality as a whole.",
+        "page": 22,
+        "source": "Alpine-2021-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's Climate Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines the development of a Climate Adaptation and Resilience Plan as a priority. This plan will involve a risk assessment to identify and assess the impacts of climate change and prioritize actions to manage these risks. The plan will consider findings from the Community Emergency Risk Assessment (CERA) and the Municipal Emergency Management Plan (MEMP). The plan also mentions the drafting of a Tree Management Plan, which includes strategies for maintaining aging trees, tree selection and planting, and conservation of tree avenues, all of which are relevant to climate adaptation and resilience. Other areas of concern identified include the impact of extreme weather events on council assets and the community, safety and cost impact of extreme weather events on aging tree population, the impact of extreme rain events on the catchment system, water availability during drought events, and bushfire resilience.",
+      "source": "Alpine-b-a12345678910.json",
+      "lga": "Alpine",
+      "quote": {
+        "content": "This will involve a risk assessment to identify and assess the impacts and prioritise actions to manage these risks. A Climate Adaptation and Resilience Plan will be developed to address these threats of a changing climate to Council’s assets, community townships and the municipality as a whole.",
+        "page": 22,
+        "source": "Alpine-2021-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Ballarat Net Zero Emissions Plan does include specific actions for climate adaptation and resilience. The plan acknowledges the impacts of climate change on various sectors such as biodiversity, agriculture, tourism, energy supply, urban form, and water supply. It emphasizes the need for communities and governments to respond by reducing emissions to mitigate future risks. The plan also outlines actions to enhance community resilience, such as coordinating transport logistics and advocating for zero emissions vehicles. It also includes measures to ensure new developments are resilient to extreme weather and climate-related events. Furthermore, the plan includes actions to reduce urban heat and improve community health and well-being, which are crucial aspects of climate adaptation. The plan's commitment to annual reporting and periodic reviews also indicates an adaptive management approach, allowing for adjustments based on progress and changing circumstances.",
+      "source": "Ballarat-a-a12345678910.json",
+      "lga": "Ballarat",
+      "quote": {
+        "content": "In addition to adapting to these environmental changes, it is critical that communities and governments of all types respond by reducing the future risk of catastrophic and irreversible climate change by reducing emissions. In the Central Western region of Victoria, the impacts of climate change will adversely affect the region’s biodiversity and ecology, agriculture, nature-based tourism sectors, energy supply, urban form and water supply.",
+        "page": 5,
+        "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Ballarat Net Zero Emissions Plan does include specific actions for climate adaptation and resilience. The plan outlines a variety of strategies aimed at reducing emissions and adapting to the impacts of climate change. For instance, it mentions the integration of adequate shading and tree canopy cover in new development and precinct plans to enable active transport, which can help mitigate urban heat and promote community health and well-being. The plan also emphasizes the importance of designing new areas to be resilient to extreme weather and climate-related events. Furthermore, the plan includes a commitment to report annually on progress, key achievements, and areas of improvement, which suggests an adaptive approach to managing climate change impacts. However, while the plan does include specific actions, it could benefit from more detailed information on how these actions will be implemented and evaluated.",
+      "source": "Ballarat-b-a12345678910.json",
+      "lga": "Ballarat"
+    },
+    {
+      "answer": "The Climate Change Action Plan 2020 - 2030 indeed includes specific actions for climate adaptation and resilience. The plan outlines three types of actions: foundational, emissions reduction, and adaptation. The adaptation actions are designed to support a resilient local environment, infrastructure, and communities in the face of climate change impacts. The plan also provides specific examples of adaptation actions for different sectors. For instance, businesses are encouraged to use the Climate Resilience Toolkit to make their premises more resilient to climate change impacts. Similarly, farmers are advised to develop a Farm Climate Adaptation Plan to adapt agricultural practices to lower rainfall and higher temperatures. The plan also includes a process for monitoring progress in relation to climate adaptation and resilience, with indicators of the effectiveness of Council adaptation actions to be set through the detailed action design.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The Climate Change Action Plan 2020 - 2030 indeed includes specific actions for climate adaptation and resilience. The plan outlines three types of actions: foundational, emissions reduction, and adaptation. The adaptation actions are designed to support a resilient local environment, infrastructure, and communities in the face of climate change impacts. The plan recognizes that to build adaptive capacity, individuals, institutions, and communities must simultaneously build five types of capital: human, social, natural, infrastructure, and financial capital. The plan also provides specific actions for different sectors, such as businesses and farming and agriculture. For instance, businesses are encouraged to use the Climate Resilience Toolkit to make their premises more resilient to climate change impacts, while farmers are advised to develop a Farm Climate Adaptation Plan. The plan also includes a process for monitoring progress in relation to climate adaptation and resilience.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The local government's Climate Emergency Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a series of actions aimed at transforming the built environment to withstand climate-related shocks and stressors such as extreme heat, flooding, and sea level rise. It emphasizes the need for new infrastructure to be designed to higher environmental standards and for existing infrastructure to be retrofitted to reduce environmental impact and improve resilience. The plan also includes actions to support vulnerable community members in the switch to 'zero carbon' energy and to ensure they are not left behind. Furthermore, the plan outlines actions to review and update the Risk Management Framework to ensure climate risks are appropriately assessed and managed. These actions collectively contribute to the overall goal of preparing the community and making it resilient to the impacts of climate change.",
+      "source": "Bayside-a-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "Existing infrastructure has to be retrofitted to reduce environmental impact and to improve resilience. The Climate Emergency requires that new infrastructure be designed to higher environmental standards and is located with consideration to future flood and storm surge risk.",
+        "page": 20,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's Climate Emergency Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a variety of strategies to ensure the community is prepared for the impacts of climate change. For instance, it emphasizes the need to transform the built environment to withstand climate-related shocks and stressors such as extreme heat, flooding, and sea level rise. The plan also highlights the need for new infrastructure to be designed to higher environmental standards and for existing infrastructure to be retrofitted to reduce environmental impact and improve resilience. Furthermore, the plan includes actions to support vulnerable community members in the switch to 'zero carbon' energy, which is a form of adaptation to a changing energy landscape. The plan also outlines the need to review and update the Risk Management Framework to ensure climate risks are appropriately assessed and managed.",
+      "source": "Bayside-b-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "Existing infrastructure has to be retrofitted to reduce environmental impact \nand to improve resilience. Theme 4: Transform to a climate responsive built environment \nEnsure the built environment provides comfortable, liveable spaces for people \nand will withstand climate related shocks and stressors, such as extreme heat, \nflooding and sea level rise. The Climate Emergency requires that new infrastructure be designed to higher \nenvironmental standards and is located with consideration to future flood and storm \nsurge risk.",
+        "page": 20,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines the implementation of a Climate Change Adaptation Action Plan, which is to be updated every five years and integrated with relevant actions recommended by the Goulburn Broken Greenhouse Alliance. The plan also includes the use of performance planning software to track the implementation of actions from the Climate Change Adaptation Action Plan. Furthermore, the plan mentions the employment of a consultant to ensure climate response is included in the next update of the Municipal Health and Wellbeing Plan. The plan also discusses the investigation of how best to support the community in transitioning away from peak oil and towards a Carbon Pollution Reduction Scheme, including options in sustainable energy. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+      "source": "Benalla-a-a12345678910.json",
+      "lga": "Benalla",
+      "quote": {
+        "content": "Review Action Plan every five years. Implement Climate Change Adaptation Action Plan and ensure it is updated every five years. Integrate with relevant actions recommended by the Goulburn Broken Greenhouse Alliance.",
+        "page": 51,
+        "source": "Benalla-Environment_Strategy_2016_20.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines the implementation of a Climate Change Adaptation Action Plan, which is to be updated every five years and integrated with relevant actions recommended by the Goulburn Broken Greenhouse Alliance. The plan also includes performance reviews and reporting to the council on the review of the Action Plan. Furthermore, the plan mentions the employment of a consultant to ensure climate response is included in the next update of the Municipal Health and Wellbeing Plan. The plan also discusses investigating how best to support the community in transitioning away from peak oil and towards a Carbon Pollution Reduction Scheme, including options in sustainable energy. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+      "source": "Benalla-b-a12345678910.json",
+      "lga": "Benalla",
+      "quote": {
+        "content": "Review Action Plan every five years. Implement Climate Change Adaptation Action Plan and ensure it is updated every five years. Integrate with relevant actions recommended by the Goulburn Broken Greenhouse Alliance.",
+        "page": 51,
+        "source": "Benalla-Environment_Strategy_2016_20.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government's Climate Action Plan does include specific actions for climate adaptation and resilience. The plan acknowledges the need to adapt to a changing climate, recognizing that even if all countries substantially reduce emissions now, some long-term changes to the environment are inevitable. The plan outlines a strategy for monitoring and reporting on various environmental factors, including greenhouse gas emissions, waste and recycling data, tree planting and renewal, water use and harvesting, and biodiversity actions. This monitoring will help track progress and inform necessary adaptations. The plan also includes a Climate Change Adaptation Plan as a new strategy. However, the documents provided do not detail the specific actions within this Adaptation Plan. The plan's implementation will be updated every two years, allowing for adjustments based on the changing climate and the effectiveness of the actions taken.",
+      "source": "Boroondara-a-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "We must prepare to adapt to a warmer, more variable climate with more extreme weather events. Climate change is about more than just greenhouse gas emissions and this is reflected in this Plan. Even if all countries substantially reduce emissions now, it is too late to avoid some long-term changes to our environment.",
+        "page": 2,
+        "source": "Boroondara-Climate-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's Climate Action Plan does include specific actions for climate adaptation and resilience. The plan outlines a range of actions that are designed to mitigate and adapt to the effects of climate change. These actions are identified as achievable priorities by the community and staff, and are based on researched best practices. The plan also includes a commitment to monitor and report on the progress of these actions on an annual basis, which suggests a commitment to accountability and continuous improvement. The plan will be reviewed and updated every five years, and the implementation plan will be updated every two years. This suggests a commitment to adaptability and responsiveness to changing circumstances and needs. However, the documents do not provide detailed specifics on what these adaptation and resilience actions are.",
+      "source": "Boroondara-b-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "These actions have been identified as achievable priorities by our community and staff, and through researched best practice to mitigate and adapt to the effects of climate change. The actions identified in this Climate Action Plan will set the municipality on a path to meet our targets. Some of these actions are ready to roll out, and some require more planning and development. Other actions define how new or updated policy frameworks should be developed in order to allow us to meet our objectives and targets.",
+        "page": 11,
+        "source": "Boroondara-Climate-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The local government's Climate Change Adaptation Framework indeed includes specific actions for climate adaptation and resilience. The framework outlines a comprehensive approach to climate change adaptation, focusing on building climate resilience within the community and within Council’s services and operations. It identifies existing actions and prioritizes climate response across Council’s services and operations. The framework also outlines an approach for consistently embedding climate considerations within updates to policies and strategies. It introduces a set of adaptation principles to assist decision makers with integrating adaptation response into their day-to-day decision making. The framework also recommends advocacy and partnership opportunities for Council. The document also provides a detailed action plan addressing each priority area, including actions, opportunities, partnerships, advocacy, responsibility, and resourcing. This plan is designed to ensure Council’s efforts at building capacity and responding to climate impacts are consistent and focused across their service delivery.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank"
+    },
+    {
+      "answer": "The local government's Climate Change Adaptation Framework indeed includes specific actions for climate adaptation and resilience. The framework outlines a comprehensive approach to climate change adaptation, focusing on building climate resilience within the community and within Council’s services and operations. It identifies a set of adaptation principles to guide decision-making and recommends advocacy and partnership opportunities. The framework also includes an action plan addressing each priority area, such as updating the Council Plan and Community Plan to ensure climate change is comprehensively considered, participating in Sustainability Victoria’s Healthy Homes program, and integrating Adaptation Priorities and Principles within updates to relevant policies and strategies across the organization. These actions are designed to ensure that the community and the council's services remain resilient under a range of climate scenarios and protect vulnerable community members.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "Partners could include: Sustainability Victoria, \nDepartment of Health and Human Services, \nBrotherhood of St. Laurence, Climate Council Plan working group\nPolicy, \nAdvocacy and \nResearch\nStaff time +\n1.2\nParticipate in Sustainability Victoria’s Healthy Homes program \nto retrofit Home and Community Care clients’ homes to ensure \nbetter cooling capacity and energy savings are realised for \nvulnerable residents.",
+        "page": 14,
+        "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a variety of measures aimed at both mitigating climate change and adapting to its impacts. These measures are categorized into 13 goals for climate action, which include integrating climate into Council operations, robust emissions measurement, ongoing emergency management, and waste and landfill emissions reductions. The plan also includes actions such as developing climate mitigation and adaptation guidance through the local planning scheme, providing professional development training to planning staff on how to educate residents on climate-ready developments, and using a tool to monitor the impacts of climate change on Council services and develop responses. Furthermore, the plan includes actions to encourage the community to participate in schemes and programs that help them understand their energy bills and seek advice/funding on how to reduce energy consumption and make their buildings more resilient.",
+      "source": "Buloke-a-a12345678910.json",
+      "lga": "Buloke",
+      "quote": {
+        "content": "• Use the How Well Are We Adapting tool to monitor impacts of climate change on Council services and develop responses. • Develop climate mitigation and adaptation guidance through the local planning scheme. • Provide professional development training to planning staff on how to educate residents on climate ready developments.",
+        "page": 3,
+        "source": "Buloke-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a variety of measures aimed at both mitigating the effects of climate change and adapting to its impacts. These measures are categorized into 13 goals for climate action, which include integrating climate into Council operations, robust emissions measurement, ongoing emergency management, and waste and landfill emissions reductions. The plan also includes actions such as developing climate mitigation and adaptation guidance through the local planning scheme, providing professional development training to planning staff on how to educate residents on climate-ready developments, and using a tool to monitor the impacts of climate change on Council services and develop responses. Furthermore, the plan includes actions to encourage the community to participate in schemes and programs that help them understand their energy bills and seek advice on how to reduce energy consumption and make their buildings more resilient.",
+      "source": "Buloke-b-a12345678910.json",
+      "lga": "Buloke",
+      "quote": {
+        "content": "Use the How Well Are We Adapting tool to monitor impacts of climate change on Council services and develop responses. Develop climate mitigation and adaptation guidance through the local planning scheme. Provide professional development training to planning staff on how to educate residents on climate ready developments.",
+        "page": 3,
+        "source": "Buloke-2021-climate-action-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a commitment to lead by example in responding and adapting to climate change, and to support the community, business, and industry in responding to the impacts of a changing climate. It also mentions the adoption, support, and promotion of sustainable and affordable energy options. The plan further includes a commitment to partner with other agencies, government departments, businesses, and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. The plan also refers to the Natural Environment Climate Change Adaptation Action Plan 2022-2026, which provides examples of actions that provide mitigation, while other actions assist with adaptation. Actions such as conserving water and restoring native vegetation provide both mitigation and adaptation.",
+      "source": "Campaspe-a-a12345678910.json",
+      "lga": "Campaspe",
+      "quote": {
+        "content": "Actions such as conserving water and restoring native vegetation provide both mitigation and adaptation. The Natural Environment Climate Change Adaptation Action Plan 2022-2026 (DELWP, 2022) provides examples of actions that provide mitigation, while other actions assist with adaptation.",
+        "page": 12,
+        "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The policy outlines a commitment to lead by example in responding and adapting to climate change, and to support the community, business, and industry in responding to the impacts of a changing climate. The policy also mentions the adoption, support, and promotion of sustainable and affordable energy options. Furthermore, the policy outlines a commitment to partner with other agencies, government departments, businesses, and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. The policy also includes a specific aim to achieve net-zero greenhouse gas emissions for Council operations by 2035. The policy also refers to the Natural Environment Climate Change Adaptation Action Plan 2022-2026, which provides examples of actions that provide mitigation, while other actions assist with adaptation.",
+      "source": "Campaspe-b-a12345678910.json",
+      "lga": "Campaspe",
+      "quote": {
+        "content": "Actions such as conserving water and restoring native vegetation provide both mitigation and adaptation. The Natural Environment Climate Change Adaptation Action Plan 2022-2026 (DELWP, 2022) provides examples of actions that provide mitigation, while other actions assist with adaptation.",
+        "page": 12,
+        "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's Climate Change Adaptation Strategy 2022-33 indeed includes specific actions for climate adaptation and resilience. The strategy identifies 51 climate-related risks and categorizes them into extreme, high, medium, and low. The document outlines a 10-year action plan to address the most urgent climate risks, aiming to strengthen the adaptive capacity of the community and Council. The plan includes actions such as raising community awareness, identifying high-risk areas for development, and advocating for climate change adaptation initiatives. The strategy also plans for a midterm review of the action plan to ensure the most up-to-date data is considered. Furthermore, the creation of a 'Climate Resilience Officer' role is proposed to oversee these actions. However, the strategy could be improved by providing more specific details on the implementation of these actions, including timelines, responsible parties, and funding sources.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "The 7 risks identified with a high risk rating for near future (2030) identified through the CCIR assessment have been central to the development this Climate Change Adaptation Strategy and the connected 10-year Action Plan (2023-2033).",
+        "page": 18,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The local government's Climate Change Adaptation Strategy 2022-33 indeed includes specific actions for climate adaptation and resilience. The strategy identifies 51 climate-related risks and categorizes them into extreme, high, medium, and low. It also outlines a 10-year costed action plan to address the most urgent climate risks. The plan includes actions such as raising community awareness, identifying high-risk areas for development, and advocating for climate change adaptation initiatives. The strategy also mentions the creation of a Climate Resilience Officer role to oversee these actions. Furthermore, the strategy includes a midterm review of the action plan to ensure the adaptation planning considers the most up-to-date and accurate data available. Therefore, the policy not only acknowledges the need for climate adaptation and resilience but also provides a detailed plan to achieve it.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "The 7 risks identified with a high risk rating for near future (2030) identified through the CCIR assessment have been central to the development this Climate Change Adaptation Strategy and the connected 10-year Action Plan (2023-2033).",
+        "page": 18,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a two-pronged approach to addressing climate change, which includes both mitigation and adaptation actions. The document provides examples of adaptation actions such as preparing for floods, storms, and fires, improving water efficiency, and building community resilience. The plan also outlines six priority areas for mitigation and adaptation, which include Education, Collaboration & Mobilisation, Health & Wellbeing, Renewable Energy & Energy Efficiency, Built Environment & Transport, Waste & the Circular Economy, and Land & Water. Furthermore, the plan includes specific actions such as investigating partnership opportunities to support resilience and connection, supporting sporting clubs to assess risks and adapt to increasing temperatures, and mapping opportunities to activate community cool zones. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "Adaptation actions help us to prepare for these changes in order to minimise harm, act on opportunities or cope with the consequences of changes to our natural and human systems. Adaptation – Some changes to our climate are now unavoidable or already being experienced.",
+        "page": 12,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a variety of adaptation actions that aim to prepare for unavoidable changes in climate and minimize harm. These actions include preparing for floods, storms, and fires, improving water efficiency, and building community resilience. The plan also outlines six priority areas for mitigation and adaptation, including Health & Wellbeing, Renewable Energy & Energy Efficiency, Built Environment & Transport, Waste & the Circular Economy, and Land & Water. Furthermore, the plan includes specific actions such as investigating partnership opportunities to support resilience and connection, supporting sporting clubs to assess risks and adapt to increasing temperatures, and mapping opportunities to activate community cool zones. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "Adaptation actions help us to prepare for these changes in order to minimise harm, act on opportunities or cope with the consequences of changes to our natural and human systems. In addressing climate change, both mitigation and adaptation actions are important and many actions can have both mitigation and adaptation benefits. Adaptation – Some changes to our climate are now unavoidable or already being experienced.",
+        "page": 12,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan recognizes the importance of adaptation measures and resilience building, which involve increasing the resilience of infrastructure and ecosystems, improving water management and planning, and developing heatwave and extreme weather plans. The plan also includes actions such as improved and adaptive infrastructure and building design and construction, natural resource management, emergency management, and community engagement. The plan also outlines the ways the council will collaborate and work together in partnership with governments and their agencies, the community, environmental and climate groups, local businesses, and key industries. The plan identifies 48 actions the council will undertake over the next five years and beyond to adapt to a changing climate and urgently mitigate against further impacts.",
+      "source": "ColacOtway-a-a12345678910.json",
+      "lga": "ColacOtway",
+      "quote": {
+        "content": "By continuing to invest in these actions, we can build a more resilient future and protect our communities and natural resources from the impacts of climate change. Adaptation measures are critical in reducing the vulnerability of communities and ecosystems to the impacts of climate change. Adaptation actions include improved and adaptive infrastructure and building design and construction, natural resource management, emergency management and community engagement, as well as research and innovation.",
+        "page": 33,
+        "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan recognizes the importance of adaptation measures and resilience building, which involve increasing the resilience of infrastructure and ecosystems, improving water management and planning, and developing heatwave and extreme weather plans. The plan also includes actions such as improved and adaptive infrastructure and building design and construction, natural resource management, emergency management, and community engagement. The plan also outlines the ways the council will collaborate and work in partnership with various stakeholders to adapt to a changing climate and mitigate further impacts. The plan identifies 48 actions to be undertaken over the next five years and beyond to adapt to a changing climate and urgently mitigate against further impacts.",
+      "source": "ColacOtway-b-a12345678910.json",
+      "lga": "ColacOtway",
+      "quote": {
+        "content": "By continuing to invest in these actions, we can build a more resilient future and protect our communities and natural resources from the impacts of climate change. Adaptation measures are critical in reducing the vulnerability of communities and ecosystems to the impacts of climate change. Adaptation actions include improved and adaptive infrastructure and building design and construction, natural resource management, emergency management and community engagement, as well as research and innovation.",
+        "page": 33,
+        "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Corangamite Shire's local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a clear timeline for the development and implementation of a climate variability plan, which is expected to consider the local economy, environment, and community. The policy also states that at least one major adaptation for a changing climate will be implemented by 2019. Furthermore, the policy emphasizes the importance of increasing community awareness of individual vulnerability and risk to climate variability. The policy also outlines strategies to achieve these goals, such as identifying climate variability impacts and opportunities, increasing community understanding of local climate variability impacts, and working with the community and other stakeholders to develop locally specific adaptation responses to climate variability.",
+      "source": "Corangamite-a-a12345678910.json",
+      "lga": "Corangamite",
+      "quote": {
+        "content": "At least one major adaptation for a changing climate will be implemented by 2019.",
+        "page": 28,
+        "source": "Corangamite-Shire-Environment-2019.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The Corangamite Shire's local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a clear timeline for the development and implementation of a climate variability plan, which is expected to consider the local economy, environment, and community. The policy also states that at least one major adaptation for a changing climate will be implemented by 2019. Furthermore, the policy emphasizes the importance of increasing community awareness of individual vulnerability and risk to climate variability. The policy also mentions the development of locally specific adaptation responses to climate variability, in collaboration with the community and other stakeholders. It is clear that the policy is not only focused on adaptation but also on building resilience to climate change, as it aims to decrease the Shire's vulnerability to a changing climate based on the 2013 Climate Resilient Communities assessment.",
+      "source": "Corangamite-b-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines measures to protect Council’s assets and minimize disruption to the local economy due to extreme weather events, storms, and floods. It also emphasizes the need to support the community in preparing for and adapting to the new conditions that a changing climate will bring. The plan includes actions such as delivering community education and capacity-building campaigns on energy literacy and efficiency, electrification, food resilience, and water saving. It also plans to develop a scoping study on food resilience and security in the context of a changing climate. Furthermore, the plan aims to work with community service organizations to build capacity, knowledge, and drive community initiatives which increase connectedness and climate resilience. The plan also outlines the development of water systems to support a resilient city and the implementation of community-based local food systems which reduce reliance on the carbon-intensive global food system.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "This includes roads and associated infrastructure, power lines, water supply, public transport networks. Climate adaptation measures are required to protect Council’s assets and minimise disruption to the local economy. Extreme weather events, storms and floods will impact on both public and private assets and infrastructure.",
+        "page": 81,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The documents outline a variety of measures aimed at preparing for and adapting to the impacts of climate change. These include efforts to minimize the urban heat island effect, create a flood and drought resilient city, and enhance community capacity to support one another during extreme events. The plan also includes actions to ensure that all of Council’s key policies and strategies embed climate leadership principles and climate risk. Furthermore, the plan aims to develop and deliver best-practice climate planning for buildings and infrastructure. The plan also outlines the need for community education and capacity-building campaigns on energy literacy and efficiency, food resilience, and water saving. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin"
+    },
+    {
+      "answer": "The East Gippsland Shire Council Environmental Sustainability Strategy 2022-2032 does include specific actions for climate adaptation and resilience. The policy emphasizes the importance of community participation in the climate response, including awareness, the tools needed for action, and the level of ownership and leadership demonstrated to drive change. The policy also outlines the goal of community resilience to respond to increasing climate risk and natural disasters, focusing on safety and security from climate change impact, health, residential, commercial and agriculture, public infrastructure, employment, industry, community cohesion and emergency preparedness. The policy also encourages the community to adopt climate resilience measures in their lifestyle, such as developing guidelines for sports during extreme weather events and investing in sustainability measures that increase energy efficiency.",
+      "source": "EastGippsland-a-a12345678910.json",
+      "lga": "EastGippsland",
+      "quote": {
+        "content": "Other measures could include investing in sustainability measures that increase energy efficiency, better regulate temperature in community, residential or commercial buildings or capturing water for reuse. The community can also adopt climate resilience measures in the way they live. This might include, for example, developing guidelines for sports during extreme weather events like heatwaves and drought.",
+        "page": 28,
+        "source": "EastGippsland-Environmental_Sustainbility_Strategy_EGSC_final_compressed.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The East Gippsland Shire Council Environmental Sustainability Strategy 2022-2032 does include specific actions for climate adaptation and resilience. The policy emphasizes the importance of community participation in the climate response, and outlines strategies for building awareness, providing tools for action, encouraging people to take action, and fostering community leadership and ownership. The policy also highlights the need for resilience in the face of increasing climate risk and natural disasters. This resilience is considered through the lens of people, buildings and infrastructure, businesses and the broader economy, and the natural environment. The policy also suggests specific measures such as developing guidelines for sports during extreme weather events, investing in sustainability measures that increase energy efficiency, and capturing water for reuse.",
+      "source": "EastGippsland-b-a12345678910.json",
+      "lga": "EastGippsland",
+      "quote": {
+        "content": "Other measures could include investing in sustainability measures that increase energy efficiency, better regulate temperature in community, residential or commercial buildings or capturing water for reuse. The community can also adopt climate resilience measures in the way they live. This might include, for example, developing guidelines for sports during extreme weather events like heatwaves and drought.",
+        "page": 28,
+        "source": "EastGippsland-Environmental_Sustainbility_Strategy_EGSC_final_compressed.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a strategic framework for managing the council's response to climate change, using both adaptation and mitigation strategies. It also includes plans to undertake actions to reduce the community’s emissions and to respond to the risks of climate change to Council assets and services. The policy also mentions the council's commitment to assist the community in becoming more resilient to the effects of climate change. Furthermore, the policy includes plans to regularly review strategies, plans, policies, and procedures that may be affected by climate change, to ensure they remain current as the science develops. This indicates a proactive approach to climate adaptation and resilience.",
+      "source": "Gannawarra-a-a12345678910.json",
+      "lga": "Gannawarra"
+    },
+    {
+      "answer": "The local government's policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a strategic framework for managing the council's response to climate change through both adaptation and mitigation strategies. It emphasizes the importance of integrating the principles of climate change adaptation and mitigation into existing policies, procedures, and decision-making processes. The policy also highlights the need to develop new organizational procedures and resources to address climate change mitigation and adaptation gaps in the council's plans and procedures. Furthermore, the policy commits to regularly reviewing strategies, plans, policies, and procedures that may be affected by climate change to ensure they remain current as the science develops. The policy also includes plans to transition to 100% renewable energy and achieve corporate net zero emissions by 2025, and net zero emissions at the Landfill by 2040. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+      "source": "Gannawarra-b-a12345678910.json",
+      "lga": "Gannawarra"
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The policy outlines a two-pronged approach to climate change: adaptation and mitigation. The adaptation strategy focuses on preparing for the economic, social, and environmental shocks expected due to climate change. The policy outlines specific actions such as making council-owned buildings and infrastructure resilient and safe, protecting the community from the worst impacts of climate change, and building local resilience and adaptive capacity. The policy also includes specific timelines and lead council teams for each action. For instance, the policy plans to implement a Sustainable Building and Infrastructure Policy, conduct climate change risk assessments on critical council buildings and infrastructure, and prioritize and implement upgrades based on these assessments. The policy also aims to support residents and businesses to insulate themselves against climate change impacts and engage and educate them about how they can best adapt to and protect themselves and their community against climate impacts.",
+      "source": "GlenEira-a-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "Council-owned buildings and infrastructure are resilient and safe for our staff and community.",
+        "page": 24,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to building local resilience and adaptive capacity, both within its own operations and across the broader community. This includes investing in urban greening and biodiversity, adapting buildings, assets, and infrastructure to future-proof against the growing environmental and financial impacts of climate change, and ensuring safety for all users. The policy also outlines a plan to support residents and businesses to insulate themselves against climate change impacts, including understanding the local population segments who are particularly exposed to climate change risks, investing in services and partnerships to support the most vulnerable community members, and engaging and educating residents and business owners about how they can best adapt to and protect themselves and their community against climate impacts. The policy also includes a timeline for these actions, indicating a clear commitment to implementing them.",
+      "source": "GlenEira-b-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "For our own operations, this will focus on building natural capital (through investment in urban greening and biodiversity) and adapting our buildings, assets and infrastructure to ensure that they are future proofed against the growing environmental and financial impacts of climate change and are safe for all users. We will continue to build local resilience and adaptive capacity, within our own operations but also across and with the broader community.",
+        "page": 24,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to managing the impacts of climate change, particularly in relation to the Shire's coastline. It emphasizes the importance of predicting risks and preparing for impacts, and translating research into policy and planning approaches. The policy also outlines three adaptation options: protect, accommodate, and retreat. Furthermore, the policy highlights the importance of community engagement and education on climate change impacts. The policy also mentions the need for strong submissions for Natural Resource Management (NRM) funds to assist in resourcing these actions. Therefore, the policy not only acknowledges the need for climate adaptation and resilience but also provides specific strategies and actions to achieve this.",
+      "source": "Glenelg-a-a12345678910.json",
+      "lga": "Glenelg",
+      "quote": {
+        "content": "The challenge for Glenelg Shire Council is to prepare and plan ahead regarding climate change risks and impacts using the following three adaptation options: protect (protection of beaches, dunes and infrastructure, land-use and development); accommodate (planning and building policies and provisions, redesign and rebuild); and retreat (relocation of infrastructure, land use and development).",
+        "page": 51,
+        "source": "Glenelg-2010-environment-strategy.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to managing the impacts of climate change, particularly in relation to the Shire's coastline. It emphasizes the importance of predicting risks and preparing for impacts, and it outlines three adaptation options: protect, accommodate, and retreat. The policy also highlights the importance of translating research into policy and planning approaches. Furthermore, the policy outlines specific actions such as partnering on research into coastal vulnerability, planning for appropriate management to lessen the impact of climate change, leading community discussions on climate change impacts, and incorporating the impacts of climate change into key plans and strategies. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+      "source": "Glenelg-b-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan is organized into five themes, one of which is 'Resilient and adaptive community'. This theme is dedicated to building understanding and resilience among the community. The plan also includes actions that are specifically marked as 'adaptation', indicating that they are focused on helping the community adapt to climate change. For instance, the plan outlines actions such as providing education to Community Coordinators about how climate change may impact their community and offering community education and capacity building initiatives. Furthermore, the plan includes actions to decrease the environmental impact of new developments in the Shire and to support landholders in the Shire to mitigate and adapt to climate change. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+      "source": "GoldenPlains-a-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "Climate responsive development 5. The Plan is organised into five themes: 1. Embedding climate action into Council 2. Resilient and adaptive community 3. Caring for the land 4.",
+        "page": 16,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The Golden Plains Shire Council's Climate Emergency Plan 2022-2032 indeed includes specific actions for climate adaptation and resilience. The plan is organized into five themes, one of which is 'Resilient and adaptive community'. This theme is dedicated to building understanding and resilience among the community. The plan also includes specific actions such as providing education to Community Coordinators about how climate change may impact their community and offering community education and capacity building initiatives. Furthermore, the plan outlines actions that fall into both mitigation and adaptation categories, indicating a comprehensive approach to addressing climate change. The plan also includes actions to ensure climate risks are recorded and addressed, and climate change considerations are included in Council's project management framework. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+      "source": "GoldenPlains-b-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "Climate responsive development\n5. The Plan is organised into five themes:\n1. Embedding climate action into Council\n2. Resilient and adaptive community\n3. Caring for the land \n4.",
+        "page": 16,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to assessing climate risk and vulnerability for all Council buildings and infrastructure, and identifying necessary adaptation actions. It also includes the assessment of climate risk and vulnerability across the municipality to understand current and projected hazards and vulnerable sectors. The plan also includes the design and implementation of building and infrastructure retrofits, which can be seen as a measure to enhance resilience. Furthermore, the policy emphasizes the importance of innovation and design thinking to identify new ways of working and programs that build community adaptive capacity. These actions demonstrate a clear commitment to both climate adaptation and resilience.",
+      "source": "GreaterBendigo-a-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "Report this publicly via the Global Covenant of Mayors \n \nIncorporate evidence based and scenario planning into Council decision making process \n \nPlanning, designing, and implementing buildings and infrastructure retrofits \n \nAssessment of Council’s systems and policies to identify improvements and efficiencies in line with \nthe goals of this strategy \n \nSupporting innovation and design thinking to identify new ways of working and programs that build \ncommunity adaptive capacity. This flagship project involves:  \n \nGrowing an internal culture and capability to drive and demonstrate sustainable outcomes \n \nAssessing climate risk and vulnerability for all Council buildings and infrastructure and identify \nnecessary adaptation actions \n \nAssessing climate risk and vulnerability across the municipality to understand current and projected \nhazards and vulnerable sectors.",
+        "page": 19,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to assessing climate risk and vulnerability for all Council buildings and infrastructure, and identifying necessary adaptation actions. It also includes assessing climate risk and vulnerability across the municipality to understand current and projected hazards and vulnerable sectors. The plan also includes actions to adapt to climate change, as the communities and ecosystems must transition to a harsher climate. The strategy incorporates ways to adapt to a warmer, drier future and to use the challenges as an opportunity to create a zero-carbon economy. The policy also includes the planning, designing, and implementing of buildings and infrastructure retrofits, which is a key aspect of climate adaptation and resilience.",
+      "source": "GreaterBendigo-b-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "This strategy incorporates ways to adapt to a warmer drier future and to use the challenges as an opportunity to create a zero carbon economy.",
+        "page": 10,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's Climate Emergency Strategy 2020 – 2030 Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change adaptation, which includes assessing the vulnerability of Council's key assets and infrastructure to climate change, increasing understanding of physical and financial impacts, and impacts on service delivery. The plan also includes actions to increase the adaptive capacity of the organization, such as developing an annual program of staff training activities to increase awareness of climate change impacts. Furthermore, the plan includes actions to embed consideration of climate change into Council's long-term financial planning processes and identify long-term mechanisms to fund Council's climate change measures. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The local government's Climate Emergency Strategy 2020 – 2030 Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change adaptation, which includes assessing the vulnerability of Council's key assets and infrastructure to climate change, increasing understanding of physical and financial impacts, and impacts on service delivery. The plan also includes actions to increase the resilience of the community’s assets and land use to climate change. Furthermore, the plan outlines the development of a schedule of climate change impact awareness and training programs for management and staff to increase the organisation’s adaptive capacity. The plan also includes the review and update of Council’s Civil Engineering Standards and associated standard design drawings to ensure consideration of climate change impacts. Therefore, the plan provides a clear and detailed framework for climate adaptation and resilience.",
+      "source": "GreaterDandenong-b-a12345678910.json",
+      "lga": "GreaterDandenong",
+      "quote": {
+        "content": "This pilot project will inform the rollout of further vulnerability assessments of Council’s assets and services, including consideration of assets and infrastructure.",
+        "page": 65,
+        "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Climate Change Response Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a range of actions that the City will undertake to adapt to climate change. These include monitoring, evaluating, and reporting on climate change adaptation readiness, integrating climate change risk management into investment decisions, and pursuing financial divestment away from fossil-fuel-aligned investments. The plan also includes actions to improve understanding of local changes in temperature, rainfall, and variables related to urban infrastructure condition and function. Furthermore, the plan outlines actions to ensure critical decisions consider climate change mitigation and adaptation implications, and to improve coordination of policy development and implementation between various levels of government. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+      "source": "GreaterGeelong-a-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "Improve coordination of policy development and implementation between various levels of government and different land managers to promote synergies and avoid maladaptation.",
+        "page": 42,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The Climate Change Response Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a range of actions that the City will undertake to adapt to climate change. These include monitoring, evaluating, and reporting on climate change adaptation readiness, integrating climate change risk management into investment decisions, and pursuing financial divestment away from fossil-fuel-aligned investments. The plan also includes actions to improve understanding of local changes in temperature, rainfall, and variables related to urban infrastructure condition and function. Furthermore, the plan outlines actions to ensure critical decisions consider climate change mitigation and adaptation implications, and to improve coordination of policy development and implementation between various levels of government. These actions demonstrate a comprehensive approach to climate adaptation and resilience, with a focus on both immediate and long-term strategies.",
+      "source": "GreaterGeelong-b-a12345678910.json",
+      "lga": "GreaterGeelong"
+    },
+    {
+      "answer": "The Greater Shepparton’s Climate Emergency Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a strategic priority of 'Building a climate-resilient community' with actions aimed at reducing urban heat, flood risk, and enhancing energy security. For instance, it proposes to increase urban tree canopy cover, enhance open spaces, and introduce community batteries and micro-grids to provide increased resilience to short-term power outages. The plan also includes actions to improve access to reliable climate change data and projections to inform community planning and action. Furthermore, the plan emphasizes the importance of community involvement in the implementation of these actions, indicating a comprehensive approach to climate adaptation and resilience.",
+      "source": "GreaterShepparton-a-a12345678910.json",
+      "lga": "GreaterShepparton",
+      "quote": {
+        "content": "Building a climate-resilient community\nAction \nID\nAction\nPrimary Benefit\nCo-benefits\nTimeframe\nScale of \nImpact\nResources\nReduce urban heat\n3.1\nIncrease urban tree canopy \ncover and enhance diversity \nof tree species, including with \nmore climate resilient species \nthat provide ecosystem \nservices\nReducing urban \nheat\nImproved \nbiodiversity, \nCommunity \nhealth and \nwell-being\nO\n★★\n$$\n3.2\nEnhance open spaces such as \nparks and bus stops to provide \nfurther protection and relief \nfrom sun and extreme heat, \nincluding more sheltered and \nshaded areas and provision of \ndrinking water stations\nReducing urban \nheat\nCommunity \nhealth and \nwell-being\nO\n★★\n$$",
+        "page": 58,
+        "source": "GreaterShepparton-2022-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The Greater Shepparton’s Climate Emergency Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a strategic priority of 'Building a climate-resilient community' with actions aimed at reducing urban heat, flood risk, and enhancing community resilience. For instance, it proposes to increase urban tree canopy cover, enhance open spaces, and develop an integrated water management plan to mitigate flood risks. The plan also includes actions to improve access to reliable climate change data and projections to inform community planning and action. Furthermore, it suggests the introduction of community batteries and micro-grids to provide increased resilience to short-term power outages. These actions demonstrate a comprehensive approach to climate adaptation and resilience, involving both infrastructural changes and community engagement.",
+      "source": "GreaterShepparton-b-a12345678910.json",
+      "lga": "GreaterShepparton",
+      "quote": {
+        "content": "Building a climate-resilient community\nAction \nID\nAction\nPrimary Benefit\nCo-benefits\nTimeframe\nScale of \nImpact\nResources\nReduce urban heat\n3.1\nIncrease urban tree canopy \ncover and enhance diversity \nof tree species, including with \nmore climate resilient species \nthat provide ecosystem \nservices\nReducing urban \nheat\nImproved \nbiodiversity, \nCommunity \nhealth and \nwell-being\nO\n★★\n$$\n3.2\nEnhance open spaces such as \nparks and bus stops to provide \nfurther protection and relief \nfrom sun and extreme heat, \nincluding more sheltered and \nshaded areas and provision of \ndrinking water stations\nReducing urban \nheat\nCommunity \nhealth and \nwell-being\nO\n★★\n$$",
+        "page": 58,
+        "source": "GreaterShepparton-2022-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a strategic and coordinated approach to adapt to climate change, focusing on managing climate risks and building community resilience. It emphasizes the importance of community cohesion and behavior change for successful adaptation. The plan also includes actions such as supporting new building innovations, managing forests and reserves to reduce fire risks, and implementing water management strategies to reduce flooding risks. It also highlights the need for strategic partnerships for planning on water issues and the provision of greater limits on bore use. Furthermore, the plan includes the development of a climate resilience plan for green spaces, which includes actions like restoring wetlands and implementing greening main street plans. The plan also emphasizes the importance of community preparedness for climate change impacts and outlines actions to raise awareness and understanding of these impacts.",
+      "source": "Hepburn-a-a12345678910.json",
+      "lga": "Hepburn",
+      "quote": {
+        "content": "Water resilience and integrated water \nmanagement including:\n• water reform \n• clear drainage ditches and waterways and open up \nwaterways to reduce the risks of flooding\n• strategic partnerships with Council / Coliban / \nNWCMA / Goulburn-Murray planning on water issues\n• higher Step 2 and 3 water rates\n• provide greater limits on bore use. • support new build building innovations that value \npractical solutions over fashionable solutions such as \nthat ban dark roofs which become heat banks similar to \nCalifornia\n• thin forests appropriately to reduce fire risk\n• roadside and reserves managed to prevent fire risks.",
+        "page": 123,
+        "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a strategic and coordinated approach to adapt to climate change, which involves mobilizing people, organizations, and communities around shared goals and outcomes. The plan recognizes the complexity of climate change and its diverse impacts on landscapes, built environments, businesses, communities, and people. It also acknowledges the multiple plausible climate futures for the region, depending on global and local factors. The plan emphasizes the importance of community cohesion and behavior change for successful adaptation. Specific actions include supporting new building innovations, managing forests and reserves to reduce fire risks, and implementing water management strategies. The plan also proposes developing a climate resilience plan for green spaces, which includes actions like restoring wetlands and implementing greening main street plans. Furthermore, the plan suggests developing a community-wide program to build local awareness and understanding of climate change impacts.",
+      "source": "Hepburn-b-a12345678910.json",
+      "lga": "Hepburn",
+      "quote": {
+        "content": "Water resilience and integrated water \nmanagement including:\n• water reform \n• clear drainage ditches and waterways and open up \nwaterways to reduce the risks of flooding\n• strategic partnerships with Council / Coliban / \nNWCMA / Goulburn-Murray planning on water issues\n• higher Step 2 and 3 water rates\n• provide greater limits on bore use. • support new build building innovations that value \npractical solutions over fashionable solutions such as \nthat ban dark roofs which become heat banks similar to \nCalifornia\n• thin forests appropriately to reduce fire risk\n• roadside and reserves managed to prevent fire risks.",
+        "page": 123,
+        "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Township Climate Change Adaptation Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines key actions such as community engagement, community action planning, recruitment planning, and the implementation of the Integrated Water Management plan. More detailed actions include emergency response and community engagement to ensure a general understanding of roles and responsibilities during emergencies. The plan also includes actions to address climate change risks in the review and development of Council building maintenance programs, and to incorporate the findings of climate change risks on Council buildings in the annual review of insurance cover. Furthermore, the plan includes actions to review and analyze current asset management plans under a range of climate change and water availability scenarios. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+      "source": "Hindmarsh-a-a12345678910.json",
+      "lga": "Hindmarsh"
+    },
+    {
+      "answer": "The Township Climate Change Adaptation Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a variety of actions, such as community engagement, community action planning, recruitment planning, and the implementation of the Integrated Water Management plan. It also includes emergency response measures and contingency planning for extreme events like floods and bushfires. The plan also incorporates climate change and water availability scenarios into Council assets management plans. Furthermore, the plan includes actions to address the impacts of climate change on community infrastructure, such as sports grounds, recreation facilities, and parks and gardens. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+      "source": "Hindmarsh-b-a12345678910.json",
+      "lga": "Hindmarsh"
+    },
+    {
+      "answer": "The Hobsons Bay Response to Climate Change Action Plan 2030 indeed includes specific actions for climate adaptation and resilience. The plan outlines a series of actions that are designed to mitigate the impacts of climate change and enhance the community's resilience. These actions include promoting and facilitating Environmental Upgrade Finance for local businesses to retrofit their premises for environmental sustainability, delivering the My Smart Garden program to help residents become more resilient to climate change impacts, and providing targeted advice and support to vulnerable residents. The plan also includes actions to assess and manage climate risk, conduct climate vulnerability assessments and financial risk modelling of Council’s assets, and implement recommendations from the Victorian Government’s Local Government Roles and Responsibilities Guidance. These actions are designed to be measurable and within the control of the Council, and they are subject to regular reviews to ensure that the Council responds to new opportunities, new challenges, and the latest climate data.",
+      "source": "HobsonsBay-a-a12345678910.json",
+      "lga": "HobsonsBay"
+    },
+    {
+      "answer": "The Hobsons Bay Response to Climate Change Action Plan 2030 indeed includes specific actions for climate adaptation and resilience. The plan outlines a series of actions that are designed to help the local community and the council itself adapt to the impacts of climate change. These actions include promoting and facilitating Environmental Upgrade Finance for local businesses to retrofit their premises to be more environmentally sustainable, delivering the My Smart Garden program to help residents become more resilient to climate change impacts, and providing targeted advice and support to vulnerable residents who are at greatest risk from the impacts of climate change. The plan also includes actions to assess and manage climate risk, address climate change risk in business and service planning, and conduct climate vulnerability assessments and financial risk modelling of Council’s assets. These actions are all aimed at enhancing the community's resilience to climate change and ensuring that the council's operations are sustainable and adaptable to a changing climate.",
+      "source": "HobsonsBay-b-a12345678910.json",
+      "lga": "HobsonsBay"
+    },
+    {
+      "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a commitment to incorporate environmental impact risk assessment and mitigation into the planning of major Council projects. This includes identifying and managing risks to Council-managed natural assets associated with the potential adverse impacts of climate change. The policy also aims to incorporate sustainable design into the planning of Council building and refurbishment projects. Furthermore, the policy outlines a commitment to reduce Council’s water consumption through the development and implementation of improved efficiency measures. These actions demonstrate a clear focus on climate adaptation and resilience, as they aim to mitigate the potential impacts of climate change and promote sustainable practices.",
+      "source": "Horsham-a-a12345678910.json",
+      "lga": "Horsham",
+      "quote": {
+        "content": "Reduce Council’s water consumption through development and implementation of improved efficiency measures.",
+        "page": 56,
+        "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a commitment to incorporate environmental impact risk assessment and mitigation into the planning of major Council projects. This includes identifying and managing risks to Council-managed natural assets associated with the potential adverse impacts of climate change. The plan also mentions the development of procurement policies that give preference to environmentally friendly products and services, and the reduction of Council’s water consumption through the development and implementation of improved efficiency measures. Furthermore, the plan discusses the need for the local government to assess land-use planning, housing, energy supply, and other areas to determine future priorities in response to climate change. This indicates a comprehensive approach to climate adaptation and resilience.",
+      "source": "Horsham-b-a12345678910.json",
+      "lga": "Horsham",
+      "quote": {
+        "content": "Reduce Council’s water consumption through development and implementation of improved efficiency measures.",
+        "page": 56,
+        "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The Hume City Council Climate Action Plan 2023-2028 does include specific actions for climate adaptation and resilience. The plan outlines a commitment to mitigate climate change impacts, strengthen resilience, and enhance abilities to adapt to climate impacts. It also mentions the importance of considering climate impacts in all decisions, strategies, and plans, often referred to as applying the 'climate lens'. The plan also includes actions such as developing communication campaigns for residents to take well-informed climate action and integrating these communications into relevant services and programs. These campaigns cover a range of topics including adapting to climate impacts. Furthermore, the plan identifies key stakeholders in the Climate Action Plan, including those more vulnerable to climate impacts, and outlines actions to support these groups. Therefore, the plan does include specific actions for climate adaptation and resilience.",
+      "source": "Hume-a-a5678910.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The Hume City Council Climate Action Plan 2023-2028 does include specific actions for climate adaptation and resilience. The plan outlines a commitment to mitigating climate change, strengthening resilience, and enhancing abilities to adapt to climate impacts. It also mentions the development of communication campaigns for residents to take well-informed climate action, which includes adapting to climate impacts. The plan also identifies key stakeholders in the Climate Action Plan, including those more vulnerable to climate impacts, indicating a focus on resilience and adaptation strategies. Furthermore, the plan emphasizes the need to consider climate impacts and opportunities in all decisions, programs, strategies, and plans, often referred to as applying the 'climate lens'. This suggests a comprehensive approach to climate adaptation and resilience.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan, known as the 'Adaptation Plan', has been developed in response to the recognition that adaptation to climate change is inevitable despite mitigation efforts. The plan identifies risks to the continued delivery of services and protection of assets from future climate impacts and develops responses to address these risks. These responses, when implemented, become adaptation actions that aim to increase the council's resilience and preparedness for the future. The plan also acknowledges that climate change risks will change over time and that some adaptation actions may become redundant before being implemented due to new knowledge or technologies. Therefore, a process of regularly monitoring the plan is in place. The plan also includes a process for building adaptive capacity within the organization, which involves embedding considerations about climate change risks and impacts into 'business as usual' structures.",
+      "source": "Indigo-a-a12345678910.json",
+      "lga": "Indigo",
+      "quote": {
+        "content": "These responses become adaptation actions when implemented and will help to increase Council’s resilience and be better prepared for the future. This Adaptation Plan has been developed in response to a recognition that despite efforts to mitigate climate change some form of adaptation is inevitable. The plan has identified risks to the continued delivery of services and protection of assets from future climate impacts, and developed responses to address these risks.",
+        "page": 23,
+        "source": "Indigo-2017-climate-adaptation-action-plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan, referred to as the 'Adaptation Plan', has been developed in response to the recognition that adaptation to climate change is inevitable. The plan identifies risks to the continued delivery of services and protection of assets from future climate impacts and develops responses to address these risks. These responses, when implemented, become adaptation actions aimed at increasing the Council’s resilience and preparedness for the future. The plan also acknowledges that climate change risks will change over time and that some adaptation actions may become redundant as new knowledge or technologies emerge. Therefore, a process of regular monitoring and review is included in the plan. The plan also includes a focus on building adaptive capacity within the organization, which involves embedding considerations about climate change risks and impacts into 'business as usual' structures.",
+      "source": "Indigo-b-a12345678910.json",
+      "lga": "Indigo",
+      "quote": {
+        "content": "The plan has identified risks to the continued delivery of services and protection of assets from future climate impacts, and developed responses to address these risks. This Adaptation Plan has been developed in response to a recognition that despite efforts to mitigate climate change some form of adaptation is inevitable.",
+        "page": 23,
+        "source": "Indigo-2017-climate-adaptation-action-plan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The local government's Climate and Ecological Emergency Response Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to adapt to the impacts of climate change. It includes the development and delivery of a Climate Adaptation Plan, which aims to assess the vulnerability of Kingston’s built, natural, and coastal environment to climate change impacts. The plan also seeks to identify pathways to address these vulnerabilities over time, including planning for sea level rise impacts in low-lying coastal areas. Furthermore, the plan aims to strengthen the resilience of the community to the impacts of climate change, including food security. The plan also includes the development of the Council’s climate adaptation capabilities and the implementation of regional climate adaptation programs in partnership with Federal and State Government agencies, neighbouring local governments, industry, and the community.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "-  Work in partnership with Federal and State Government agencies, neighbouring local \ngovernments, industry and the community to implement regional climate adaptation programs. -  Identify pathways to address vulnerabilities in our natural and built environment over time, \nincluding planning for sea level rise impacts in our low-lying coastal areas. -  Strengthen the resilience of our community to the impacts of climate change including food \nsecurity. -  Develop Council’s climate adaptation capabilities. -  Develop Council’s climate adaptation capabilities.",
+        "page": 25,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a plan to develop and deliver a Climate Adaptation Plan. This plan includes assessing the vulnerability of Kingston’s built, natural, and coastal environment to climate change impacts, identifying pathways to address these vulnerabilities over time, and strengthening the resilience of the community to climate change impacts. The policy also mentions the development of Council’s climate adaptation capabilities and the implementation of regional climate adaptation programs in partnership with Federal and State Government agencies, neighbouring local governments, industry, and the community. However, it is important to note that the full scope of the Council’s Climate Adaptation Plan is yet to be developed and is subject to change.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "-  Work in partnership with Federal and State Government agencies, neighbouring local \ngovernments, industry and the community to implement regional climate adaptation programs. -  Identify pathways to address vulnerabilities in our natural and built environment over time, \nincluding planning for sea level rise impacts in our low-lying coastal areas. -  Strengthen the resilience of our community to the impacts of climate change including food \nsecurity. -  Develop Council’s climate adaptation capabilities. -  Develop Council’s climate adaptation capabilities.",
+        "page": 25,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's climate response plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to addressing climate change, with a focus on infrastructure, community health, and the natural environment. For infrastructure, the plan includes actions such as developing financial impact analysis studies for risk mitigation, identifying infrastructure requiring long-term adaptation measures, and upgrading drainage systems. For community health, the plan includes actions such as planning for service delivery during emergencies, identifying urban heat islands, and investing in urban cooling measures. For the natural environment, the plan includes actions such as developing a Biodiversity Resilience Plan and implementing a tree species selection model that considers climate change risk. The plan also includes a commitment to regular evaluation and revision in response to new information on climate risks.",
+      "source": "Knox-a-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "• Identifying infrastructure that may require long-term adaptation measures due to flood or fire risk, such as retreat or relocation. • Developing detailed financial impact analysis studies to access future external capital to support risk mitigation works linked to climate change.",
+        "page": 16,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's climate response plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change, with a focus on infrastructure, community health, and the natural environment. For infrastructure, the plan includes actions such as developing financial impact analysis studies for risk mitigation, identifying infrastructure requiring long-term adaptation measures, and upgrading drainage systems. In terms of community health, the plan proposes actions to support vulnerable populations during extreme weather events and to invest in urban cooling measures. The plan also includes actions to protect the natural environment, such as implementing the Knox Biodiversity Resilience Plan and the Living Melbourne Metropolitan Urban Forest Strategy. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+      "source": "Knox-b-a12345678910.json",
+      "lga": "Knox"
+    },
+    {
+      "answer": "The Climate Change Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines that climate change adaptation, which involves actions that manage or reduce the consequences and impacts of a hotter, drier, and more extreme climate, will be addressed as part of the Council's review of its Climate Change Risk Assessment and Response - Early Adaptation Plan 2012. The plan also mentions the development of a Climate Change Adaptation Plan, which will consider how decreased rainfall and increased number and intensity of extreme weather events will impact Council's service provision, drainage, emergency management processes, and recreation facilities, among other things. The plan also acknowledges the need to consider how the changing climate will impact the shire's agricultural and commercial enterprises and the community's wellbeing. Therefore, it is clear that the plan includes specific actions for climate adaptation and resilience.",
+      "source": "MacedonRanges-a-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "Climate change adaptation - actions that manage or reduce the consequences and impacts of a hotter, drier and more extreme climate - will be addressed as a part of Council’s review of its Climate Change Risk Assessment and Response - Early Adaption Plan 2012. The focus of this plan is climate change mitigation – actions that reduce greenhouse gas emissions, including actions that reduce energy consumption through behaviour change or energy efficiency, or that reduce reliance on coal fired power through use of renewable energy sources.",
+        "page": 5,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Climate Change Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a two-pronged approach to climate change: mitigation and adaptation. Mitigation efforts focus on reducing greenhouse gas emissions, while adaptation actions aim to manage or reduce the impacts of a hotter, drier, and more extreme climate. The plan mentions a review of the Council's Climate Change Risk Assessment and Response - Early Adaptation Plan 2012, indicating a commitment to updating and improving adaptation strategies. Furthermore, the plan discusses the importance of understanding the implications of a changed climate at a local level for the review of the Council’s Climate Change Adaptation Plan. This includes considering how decreased rainfall and increased number and intensity of extreme weather events will impact Council’s service provision, drainage, emergency management processes, and recreation facilities, among other things. Therefore, the plan does include specific actions for climate adaptation and resilience.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "Climate change adaptation - actions that manage or reduce the consequences and impacts of a hotter, drier and more extreme climate - will be addressed as a part of Council’s review of its Climate Change Risk Assessment and Response - Early Adaption Plan 2012.",
+        "page": 5,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Manningham Council's Climate Emergency Response Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a range of climate actions that the council and the community can take, including initiatives to adapt to climate change that is already occurring or imminent. The plan also includes a commitment to educate the community in climate adaptation through capacity building sessions, such as resilience circles. Furthermore, the plan details the use of smart technology to effectively irrigate sports ovals, ensuring they remain safe and available for play despite changing climate conditions. The plan also mentions the development of an Integrated Water Management Strategy, which seeks a collaborative approach to planning for and managing water resources within the context of adaptation to the challenges presented by climate change and population growth. Therefore, the plan does include specific actions for climate adaptation and resilience.",
+      "source": "Manningham-a-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The Manningham Council's Climate Emergency Response Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a commitment to educate the community in climate adaptation through capacity building sessions, such as resilience circles. It also mentions the use of smart technology to effectively irrigate sports ovals, ensuring they remain safe and available for play despite changing climate conditions. Furthermore, the plan highlights the development of an Integrated Water Management Strategy, which seeks a collaborative approach to planning for and managing water resources within the context of adaptation to climate change. The plan also acknowledges the need to explore and build understanding of gender and socio-economic implications of climate actions, indicating a comprehensive approach to climate adaptation and resilience.",
+      "source": "Manningham-b-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The Mansfield Shire Council's Climate Action Plan does include specific actions for climate adaptation and resilience. The plan acknowledges the need to build community capacity to respond effectively to climate change. It commits to ensuring the resilience of residents, businesses, and the wider community through support from the Council. The plan also outlines the Council's commitment to mitigate the impacts of climate change within its own operations and to support the community to reduce municipal greenhouse gas emissions and adapt to a changing climate. The plan identifies key sectors for community emissions reduction action areas, including transport, residential and commercial energy, agriculture, land use, and waste. For each action area, a set of key interventions have been selected, which aim to offer support that is valuable to the community and leverages Council’s strengths and available resources.",
+      "source": "Mansfield-a-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "Both the Health and Wellbeing Plan and the Economic Development Plan commit to ensuring the resilience of residents, businesses and the wider community through support from Council. The Council Plan recognises the impacts and opportunities presented by climate change, and acknowledges the very real need to build community capacity in order to respond effectively.",
+        "page": 14,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Mansfield Shire Council's Climate Action Plan does include specific actions for climate adaptation and resilience. The plan acknowledges the need to build community capacity to respond effectively to climate change, and commits to ensuring the resilience of residents, businesses, and the wider community through support from the Council. The plan also outlines the Council's commitment to mitigate the impacts of climate change within its own operations and to support the community to reduce municipal greenhouse gas emissions and adapt to a changing climate. The plan identifies key sectors for community emissions reduction action areas, including transport, residential and commercial energy, agriculture, land use, and waste. For each action area, a set of key interventions have been selected, which aim to offer support that is valuable to the community, and which leverages Council’s strengths and available resources.",
+      "source": "Mansfield-b-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "Both the Health and Wellbeing Plan and the Economic Development Plan commit to ensuring the resilience of residents, businesses and the wider community through support from Council. The Council Plan recognises the impacts and opportunities presented by climate change, and acknowledges the very real need to build community capacity in order to respond effectively.",
+        "page": 14,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a proactive approach to managing the risks associated with climate change, with strategies and actions aimed at moving towards climate-resilient pathways for sustainable development. The plan also emphasizes the importance of early planning for climate change to help reduce impacts. The plan includes 25 key directions to assist the Council in achieving a climate-adapted Maroondah, with a detailed Action Plan to complement these. The plan also outlines the roles and responsibilities of local governments in managing climate change risks, including developing and delivering locally-appropriate adaptation responses, building the resilience of local assets and services, and planning for emergency management at the municipal level. The plan also includes a commitment to review the strategy every two years to track implementation progress, evaluation, continuous improvement, and when further review is required.",
+      "source": "Maroondah-a-a12345678910.json",
+      "lga": "Maroondah",
+      "quote": {
+        "content": "The preparation of a detailed Action Plan will complement these. The plan includes 25 key directions to assist Council to move towards achieving a climate adapted Maroondah.",
+        "page": 4,
+        "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a proactive approach to managing the risks associated with climate change, with strategies and actions aimed at moving towards climate-resilient pathways for sustainable development. The plan also emphasizes the importance of early planning for climate change to help reduce impacts. The plan includes 25 key directions to assist the Council in achieving a climate-adapted Maroondah, with a detailed Action Plan to complement these. The plan also outlines the roles and responsibilities of local governments in managing climate change risks, including developing and delivering locally-appropriate adaptation responses, building the resilience of local assets and services, and planning for emergency management at the municipal level. The plan also includes a commitment to review the strategy every two years to track implementation progress, evaluation, continuous improvement and when further review is required.",
+      "source": "Maroondah-b-a12345678910.json",
+      "lga": "Maroondah",
+      "quote": {
+        "content": "The preparation of a detailed Action Plan will complement these. The plan includes 25 key directions to assist Council to move towards achieving a climate adapted Maroondah.",
+        "page": 4,
+        "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change, integrating both adaptation and mitigation strategies. It emphasizes the importance of identifying interdependencies to maximize efficiencies and minimize investment risk. The policy also outlines a transparent process to monitor delivery, communicate progress, and update climate action planning in line with governance and reporting systems. Furthermore, the policy includes a plan to hold an annual cross-organizational workshop as part of the business planning process to identify synergies and address trade-offs, considering environmental, social, and economic impacts. This approach demonstrates a commitment to climate adaptation and resilience, as it seeks to integrate these considerations into council decision-making and update the organizational risk register to reflect the integration of climate change adaptation and mitigation.",
+      "source": "Melbourne-a-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "Update the organisational risk register to reflect the integration of climate change adaptation and mitigation. Develop guiding principles for climate risk and integrate into council decision-making. Develop a long-term research agenda to identify feedback-loops between natural and human systems that will impact the municipality.",
+        "page": 65,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change, integrating both adaptation and mitigation strategies. It emphasizes the importance of identifying interdependencies to maximize efficiencies and minimize investment risk. The policy also outlines a transparent process to monitor delivery, communicate progress, and update climate action planning in line with governance and reporting systems. Furthermore, the policy includes a plan to hold an annual cross-organizational workshop as part of the business planning process to identify synergies and address trade-offs, considering environmental, social, and economic impacts. This approach demonstrates a commitment to climate adaptation and resilience, as it seeks to integrate these considerations into council decision-making and update the organizational risk register to reflect the integration of climate change adaptation and mitigation.",
+      "source": "Melbourne-b-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "Update the organisational risk register to reflect the integration of climate change adaptation and mitigation. Develop guiding principles for climate risk and integrate into council decision-making. Develop a long-term research agenda to identify feedback-loops between natural and human systems that will impact the municipality.",
+        "page": 65,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's Climate Change Adaptation Plan indeed includes specific actions for climate adaptation and resilience. The plan is structured around five themes: Community Wellbeing and Emergency Management, Open Space and Water Security, Assets and Infrastructure, Planning, Buildings and Regulations, and Governance and Risk. Each theme has associated actions, such as strengthening planning controls related to climate change adaptation, integrating climate change considerations into relevant plans and policies, and monitoring climate change impacts on council service delivery and operations. The plan also includes an Implementation Plan to support the delivery of these actions. The actions are designed to be proactive, addressing both current and future climate change impacts. They are also intended to be integrated and complementary, taking into account the costs of climate change effects and aiming to avoid unintended consequences.",
+      "source": "Melton-a-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The local government's Climate Change Adaptation Plan indeed includes specific actions for climate adaptation and resilience. The plan is organized into five themes: Community Wellbeing and Emergency Management, Open Space and Water Security, Assets and Infrastructure, Planning, Buildings and Regulations, and Governance and Risk. Each theme has specific actions outlined to address climate change adaptation. For instance, under the theme of 'Open Space and Water Security', the plan proposes to seek opportunities to harvest stormwater and access other alternative water supplies to enhance water security and mitigate the urban heat island effect. Under 'Planning, Buildings and Regulations', the plan suggests strengthening planning controls related to climate change adaptation, including bushfire and flooding overlays. The plan also includes an Implementation Plan to support the delivery of these actions.",
+      "source": "Melton-b-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The Community Climate Response Plan 2024-2029 indeed includes specific actions for climate adaptation and resilience. The plan outlines actions in various sectors, including farming, health, and the natural environment, which are all crucial areas for climate adaptation. For instance, in the farming sector, the plan advocates for the promotion of alternative fuel sources and the investigation of opportunities for transitioning in agriculture and transport. This indicates a proactive approach towards reducing greenhouse gas emissions and adapting to a changing climate. In the health sector, the plan includes actions to raise awareness about climate and heat health, which is a key aspect of climate resilience. The plan also includes actions for the natural environment, such as organizing self-funding events for the community to donate and plant trees and shrubs in public spaces. This action contributes to climate resilience by enhancing the local ecosystem's ability to absorb carbon dioxide, a key greenhouse gas.",
+      "source": "Mildura-a-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The Community Climate Response Plan 2024-2029 indeed includes specific actions for climate adaptation and resilience. The plan outlines actions in various sectors, including farming, health, and the natural environment, which are all crucial areas for climate adaptation. For instance, in the farming sector, the plan advocates for the promotion of alternative fuel sources and the investigation of opportunities for transitioning in agriculture and transport. This action is aimed at reducing greenhouse gas emissions, which is a key aspect of climate adaptation. In the health sector, the plan proposes organizing climate/heat health awareness events, which is a resilience measure to protect the community from the health impacts of climate change. In the natural environment sector, the plan suggests organizing self-funding events for the community to donate and plant trees and shrubs in public spaces, which is a climate adaptation measure aimed at enhancing the local ecosystem's resilience to climate change.",
+      "source": "Mildura-b-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The Mitchell Shire's Climate Emergency Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a range of actions to be undertaken by the Council, community, and through advocacy to the State and Federal Governments. The plan's focus is not only on reducing emissions but also on adapting to a changing climate. It includes actions such as assessing and upgrading critical infrastructure for climate risk and vulnerability, and conducting climate risk and vulnerability assessments for at least 80% of Mitchell Shire Council owned or managed critical infrastructure by 2030. The plan also includes actions to ensure emergency management procedures consider the likely impacts of climate change on the frequency and intensity of extreme weather events. Furthermore, the plan includes the development of integrated water management plans in partnership with water authorities, covering stormwater, drainage, and other aspects. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+      "source": "Mitchell-a-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "bridges, power supply, communication networks) within the Shire and develop an action plan for upgrading these based on projected future flood and bushfire risks.",
+        "page": 60,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The Mitchell Shire's Climate Emergency Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a range of actions to be undertaken by the Council, the community, and through advocacy to higher levels of government. The plan's actions are aimed at both reducing emissions and adapting to a changing climate. Specific actions include assessing and upgrading critical infrastructure for climate risk and vulnerability, supporting the dissemination of information on emergency preparedness, and assessing the accessibility and resilience of community evacuation centres. The plan also includes the development of community climate change hubs, which will provide residents and businesses with up-to-date information on adapting to and mitigating climate change. By 2030, the plan aims to have conducted climate risk and vulnerability assessments for at least 80% of the Council's owned or managed critical infrastructure.",
+      "source": "Mitchell-b-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "By 2030\nClimate risk and vulnerability assessments have been conducted for at least 80% of Mitchell Shire Council owned or managed critical infrastructure.",
+        "page": 81,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Monash Zero Net Carbon Action Plan 2020-2025 indeed includes specific actions for climate adaptation and resilience. The plan acknowledges the need to adapt to changes in climate and outlines a strategy to minimize the impacts of a changing climate. The council is developing a tool called 'How Well Are We Adapting' to gather climate and resilience data. This data will be used to inform an education program and develop approaches to adapt and minimize the impact of a changing climate. The council also plans to align adaptation approaches with their zero net emission approach, which includes the development of an urban forest to reduce heat island effects. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+      "source": "Monash-a-a12345678910.json",
+      "lga": "Monash",
+      "quote": {
+        "content": "Council will seek to align adaptation approaches with our zero net emission approach, including the development of an urban forest which can help reduce heat island effects. Council is currently involved in the development of the How Well Are We Adapting tool to collate climate and resilience data. This will inform an education program and develop approaches on how we can adapt to minimise impact of a changing climate.",
+        "page": 32,
+        "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The Monash Zero Net Carbon Action Plan 2020-2025 does indeed include specific actions for climate adaptation and resilience. The plan outlines a priority to reduce greenhouse gas emissions and minimize the impacts of climate change through mitigation actions such as energy efficiency, solar, and offsets. However, it also acknowledges the need for adaptation, particularly in relation to the council's buildings and infrastructure. The council is developing a tool called 'How Well Are We Adapting' to gather climate and resilience data, which will inform an education program and develop approaches to climate adaptation. The council also plans to align adaptation approaches with their zero net emission approach, including the development of an urban forest to reduce heat island effects. Therefore, the plan does not only focus on mitigation but also includes specific actions for climate adaptation and resilience.",
+      "source": "Monash-b-a12345678910.json",
+      "lga": "Monash",
+      "quote": {
+        "content": "This will inform an education program and develop approaches on how we can adapt to minimise impact of a changing climate. Council may still need to consider how we may need to adapt our buildings and infrastructure in Monash to adapt to changes in climate. Monash Council is currently involved in the development of the How Well Are We Adapting tool to collate climate and resilience data.",
+        "page": 32,
+        "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change adaptation, with a focus on building a climate-resilient city and fostering community resilience to climate impacts. The plan includes actions such as improving design standards for buildings, roads, and landscape infrastructure to accommodate climate-related risks, and creating climate-adapted green spaces. It also includes measures to mitigate urban heat by increasing vegetation, including green roofs and walls, and creating water-sensitive, climate-adapted landscapes. The plan also includes actions to improve decision-making tools and build capacity for climate adaptation based on up-to-date climate data and future climate scenarios. Furthermore, the plan includes actions to partner with community groups and other government bodies to support vulnerable residents and businesses to prepare for adverse weather, heatwaves, flood risk, transport and utility disruptions, and emergencies.",
+      "source": "MooneeValley-a-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change adaptation, focusing on improving design standards for infrastructure, enhancing decision-making tools, creating climate-adapted green spaces, and fostering community resilience. The plan also includes actions such as increasing vegetation to mitigate urban heat, creating water-sensitive landscapes, and partnering with community groups to support vulnerable residents and businesses. Furthermore, the policy includes a commitment to continually improve design standards for buildings, drainage, roads, and landscape infrastructure to accommodate climate-related risks. The plan also includes actions to improve the community's understanding of climate change impacts and build their capacity to respond. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+      "source": "MooneeValley-b-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a vision to support and deliver activities to reduce the impact of and vulnerability to future climate change on the Moorabool Shire community. It also identifies the need to understand the climate risks to the council and its community and to plan and mitigate for these. The council aims to reduce its corporate greenhouse emissions, utilize renewable energy production at council-owned facilities, assist the community and businesses to cut their emissions and energy costs, and reduce its water consumption. The plan also includes strategic objectives for climate adaptation, such as ensuring that the council understands the risks of climate change on its operations and takes actions to prepare for and mitigate these risks.",
+      "source": "Moorabool-a-a12345678910.json",
+      "lga": "Moorabool",
+      "quote": {
+        "content": "To ensure that Council has understood the risks of climate change to the community and is working \nwith the community to help prepare for and mitigate the risks. ... \nStrategic objectives for climate adaptation \n1. To ensure that Moorabool Shire has understood the risks of climate change on Council operations and \ntakes actions to prepare for and mitigate these risks. 2.",
+        "page": 43,
+        "source": "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a vision to support and deliver activities to reduce the impact of and vulnerability to future climate change on the Moorabool Shire community. It also identifies the need to understand the climate risks to the council and its community and to plan and mitigate for these. The council aims to reduce its corporate greenhouse emissions, utilize renewable energy production at council-owned facilities, assist the community and businesses to cut their emissions and energy costs, and reduce its water consumption. The plan also includes strategic objectives for climate adaptation, such as ensuring that the council understands the risks of climate change on its operations and takes actions to prepare for and mitigate these risks.",
+      "source": "Moorabool-b-a12345678910.json",
+      "lga": "Moorabool",
+      "quote": {
+        "content": "To ensure that Council has understood the risks of climate change to the community and is working \nwith the community to help prepare for and mitigate the risks. ... \nStrategic objectives for climate adaptation \n1. To ensure that Moorabool Shire has understood the risks of climate change on Council operations and \ntakes actions to prepare for and mitigate these risks. 2.",
+        "page": 43,
+        "source": "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change, focusing on both mitigation and adaptation strategies. It emphasizes the importance of climate resilience, defined as the ability to anticipate, prepare for, and respond to the hazardous impacts of climate change. The plan includes specific actions such as developing a 'Climate Change Adaptation Plan' to address health impacts, risks to specific population cohorts, and gaps in service provision. It also includes plans to develop tailored adaptation plans for coastal areas considering existing infrastructure, cultural heritage, and biodiversity values. The plan also mentions the development of a robust and measurable 'Social Impact Assessment' report card to measure social resilience to climate change. Furthermore, the plan includes actions to increase human resources and in-house expertise for climate change impact and risk management, particularly regarding coastal risks.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "Develop tailored adaptation plans for coastal areas based on Marine and Coastal Policy 2020 (MCP) considering existing infrastructure, cultural heritage and biodiversity values.",
+        "page": 21,
+        "source": "Mornington-2020-climate-emergency-response-part2.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change, focusing on both mitigation and adaptation strategies. It emphasizes the importance of climate resilience, defined as the ability to anticipate, prepare for, and respond to the hazardous impacts of climate change. The plan includes specific actions such as developing a 'Climate Change Adaptation Plan' to address health impacts and service provision gaps, and working with businesses to develop plans to cope with power shortages and blackouts. It also proposes the development of tailored adaptation plans for coastal areas considering existing infrastructure, cultural heritage, and biodiversity values. Furthermore, the plan includes the annual review of the 'Climate Change Risk Register', conducting regular vulnerability assessments and financial risk modelling of Shire services and assets, and implementing 'Australian Accounting Standards Board (AASB) Practice Statement 2' requirements into accounts reporting to ensure climate-related risks are considered in the context of financial statements.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "Develop tailored adaptation plans for coastal areas based on Marine and Coastal Policy 2020 (MCP) considering existing infrastructure, cultural heritage and biodiversity values.",
+        "page": 21,
+        "source": "Mornington-2020-climate-emergency-response-part2.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a plan to 'Prepare a Council adaptation strategy to climate change' as a long-term action. This indicates a commitment to developing a comprehensive strategy to address the impacts of climate change. However, the policy does not provide specific details about what this adaptation strategy will entail, which could include measures such as infrastructure improvements, community education, or changes to land use planning. The policy also mentions the promotion of 'transition towns' within the municipality, which are communities that seek to increase self-sufficiency to reduce the potential effects of economic instability, resource depletion, and climate change. However, again, the policy does not provide specific details about how it will support and promote these transition towns.",
+      "source": "Moyne-a-a12345678910.json",
+      "lga": "Moyne"
+    },
+    {
+      "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a plan to 'Prepare a Council adaptation strategy to climate change' as a long-term action. This indicates a commitment to developing a comprehensive strategy to adapt to the impacts of climate change. However, the policy does not provide specific details about what this adaptation strategy will entail, which could include measures such as infrastructure improvements, changes in land use planning, or community education programs. The policy also mentions the promotion of 'transition towns' within the municipality, which are communities that seek to build resilience in response to climate change. While these actions show a clear recognition of the need for climate adaptation and resilience, the lack of detail makes it difficult to assess how effective these measures will be.",
+      "source": "Moyne-b-a12345678910.json",
+      "lga": "Moyne"
+    },
+    {
+      "answer": "The local government's Climate Adaptation Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a range of actions that are designed to ensure the local government and its operations are prepared for the impacts of climate change. These actions include integrating climate change considerations into project and contract management, utilising natural environment, waste and sustainability expertise in significant procurements, and providing professional development training to planning staff about designing climate change ready developments. The plan also includes actions to manage and minimise the impacts of extreme weather events on the community, such as heatwaves, fires, and floods. Furthermore, the plan outlines strategies for working in partnership with the community, NGOs, businesses, and other stakeholders to manage the risks and impacts associated with climate change. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+      "source": "MtAlexander-a-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The local government's Climate Adaptation Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a range of measures to ensure that climate change adaptation is fully considered in the council's risk register and in project and contract management. It also includes actions to ensure that natural environment, waste, and sustainability expertise is utilized during the evaluation of significant procurements. The plan also provides for professional development training to planning staff about influencing customers to design climate change ready developments. Furthermore, the plan includes actions to manage and minimize the impacts on the council and the community from heatwaves, fires, floods, and other extreme weather events. It also outlines the council's commitment to work in partnership with the community, locally-based and relevant NGOs, business, and other key stakeholders to manage the risks and impacts associated with climate change.",
+      "source": "MtAlexander-b-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The local government's Climate Change Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a strategic direction for adaptation, which includes ensuring that council assets are constructed and managed to withstand extreme climatic conditions. For instance, the plan proposes the development of a Street Tree Policy to improve urban tree canopy, providing cooler, shady towns in a heating climate. The plan also suggests using the latest climate change projections to assess requirements for new infrastructure, such as stormwater systems. Furthermore, the plan includes a 'Priority Action Plan 2023-2027' under the 'Adaptation' response area, which acknowledges the changing local conditions due to climate change and outlines actions to pivot council services to account for these changes. The plan also includes a case study of a heat health workshop, demonstrating practical steps taken towards climate adaptation.",
+      "source": "Murrindindi-a-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "rainfall, bushfire risk, \ntemperature) to assess requirements/\nsizing for new infrastructure such \nas stormwater systems RESPONSE AREA 3: ADAPTATION\nSTRATEGIC \nDIRECTION\nREF #\nDESCRIPTION OF ACTION\nCOST\nFY\nFUNDING \nSOURCE\nLEAD\n3.1 Ensure \nCouncil’s assets \nare suitably \nconstructed \nand managed \nto weather \nextreme climatic \nconditions\nACA8\nDevelop a Street Tree Policy to protect \nand improve urban tree canopy to \nprovide cooler shady towns in a \nheating climate. Staff time/ \ngrant \nfunding \nsought\n2023-24\nAllocated \nstaff time \n(salaries)\nOperations\nACA7\nUtilise latest climate change \nprojections (e.g.",
+        "page": 45,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's Climate Change Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines four central goals, one of which is 'Climate Adaptation' aimed at minimizing the impacts of climate change on Council’s infrastructure and services. The plan also includes a 'Response Area 3: Adaptation' section, which details specific actions such as ensuring Council’s assets are suitably constructed and managed to weather extreme climatic conditions, and improving Council’s organisational capacity in emergency and natural disaster response and recovery. The plan also mentions the use of the Adaptive Capacity Checklist, which is a tool to help the council assess its readiness to adapt to climate change. Furthermore, the plan includes a commitment to review and update the plan regularly, which is a key aspect of adaptive management in the face of a changing climate.",
+      "source": "Murrindindi-b-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "In keeping with our commitment, this Plan addresses climate change through four central goals.",
+        "page": 34,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Nillumbik Climate Action Plan 2022-2032 indeed includes specific actions for climate adaptation and resilience. The plan outlines a dual approach to managing climate change, which includes both mitigation and adaptation strategies. The plan's focus areas include creating a climate resilient, adaptive, and safe community, and a climate resilient natural environment. It also aims to ensure climate responsive Council services, facilities, and infrastructure. Specific strategies include reducing risks from climate change impacts on the delivery of Council services and the use of council facilities, planning for the increasing risk of bushfire, and establishing and enhancing urban tree canopy to reduce urban heat. The plan also mentions the need to encourage sustainable agriculture and enhance the local food system. These strategies demonstrate a comprehensive approach to climate adaptation and resilience.",
+      "source": "Nillumbik-a-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "Reduce the risks from climate change impacts \non the ability to use council facilities Reduce the risks from climate change impacts \non the delivery of Council services \nb. Consider whether additional or modified \nservices may be required to support \ncommunity safety and wellbeing in a changing \nclimate\n4.2 To have Council \ninfrastructure and \nfacilities that are \nappropriate in a \nchanging climate\n(i.e. roads, \nfootpaths, drainage, \nbuildings, facilities, \nopen space, parks)\na.",
+        "page": 27,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Nillumbik Climate Action Plan 2022-2032 indeed includes specific actions for climate adaptation and resilience. The plan outlines a dual approach to managing climate change, which includes both mitigation and adaptation strategies. The plan's focus areas and objectives are designed to build a climate-resilient community and environment. For instance, the plan aims to reduce risks from climate change impacts on the delivery of Council services and the use of council facilities. It also plans to manage the increasing risk of bushfire and establish measures to enhance urban tree canopy to reduce urban heat. Furthermore, the plan encourages sustainable agriculture and promotes community and home-based food growing to ensure climate-resilient food systems. The plan also includes a commitment to incorporate a stronger climate lens into the development and updating of various Council strategies and plans.",
+      "source": "Nillumbik-b-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "Reduce the risks from climate change impacts \non the ability to use council facilities Reduce the risks from climate change impacts \non the delivery of Council services \nb. Consider whether additional or modified \nservices may be required to support \ncommunity safety and wellbeing in a changing \nclimate\n4.2 To have Council \ninfrastructure and \nfacilities that are \nappropriate in a \nchanging climate\n(i.e. roads, \nfootpaths, drainage, \nbuildings, facilities, \nopen space, parks)\na.",
+        "page": 27,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The 'City of Port Phillip Act and Adapt: Sustainable Environment Strategy 2023-28' does include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change, including risk assessments, monitoring and reporting protocols, training, and the development of a Coastal Adaptation Plan. The policy also emphasizes the importance of community involvement and resilience, with initiatives to support community-led action plans and the creation of safe locations during extreme heat. Furthermore, the policy includes a commitment to maintaining stormwater assets and exploring partnerships to deliver infrastructure and design approaches to protect against climate change risks. The policy also details a plan to integrate climate vulnerability data into decision-making processes for strategic asset management, investment, and service delivery.",
+      "source": "PortPhillip-a-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "Develop a Coastal Adaptation Plan to build the municipality’s resilience against sea level rise and inundation. Establish a monitoring and reporting protocol to keep the community informed of Council’s response to climate risks. Deliver climate change risk training to officers.",
+        "page": 49,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The 'Act and Adapt: Sustainable Environment Strategy 2023-28' by the City of Port Phillip does include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change, including risk assessments, monitoring and reporting protocols, and training for officers. It also plans to develop a Coastal Adaptation Plan to build resilience against sea level rise and inundation. The policy also includes maintenance of stormwater assets and exploring partnerships to deliver infrastructure and design approaches to protect against climate change risks. Furthermore, the policy includes initiatives to support community resilience to climate change impacts, such as developing a cool spaces strategy and supporting the community to lead, build, and implement action plans responding to flooding, heatwaves, and other climate impacts.",
+      "source": "PortPhillip-b-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "Continue maintenance of stormwater assets to ensure they operate effectively. Establish a monitoring and reporting protocol to keep the community informed of Council’s response to climate risks. Deliver climate change risk training to officers. Develop a Coastal Adaptation Plan to build the municipality’s resilience against sea level rise and inundation.",
+        "page": 49,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a variety of measures to respond to the impacts of climate change. These include planning for flood events and incorporating these plans into the planning scheme, undertaking amendments to include overlays for specific areas, and implementing flood mitigation measures. The policy also includes investment in resilient infrastructure such as roads and bridges that can withstand flood events. In response to increasing greenhouse gas emissions, the policy outlines measures to monitor and report on the council's energy consumption, advocate for government leadership in setting targets and funding for greenhouse gas reduction, and participate in joint procurement of renewable power. The policy also includes measures to respond to heatwave events, such as the development and implementation of a Heatwave Plan, which includes actions like increased tree planting in towns to provide cooler spaces and investment in emergency management planning and response.",
+      "source": "Pyrenees-a-a12345678910.json",
+      "lga": "Pyrenees",
+      "quote": {
+        "content": "Plan for flood events and incorporate into planning scheme \nUndertake Planning Scheme Amendments to incorporate \noverlays for: \n• \nUpper Mt Emu creek \n• \nAvoca River \n• \nRaglan \nAdditional flood mitigation measures \nInvestigate and implement flood mitigation \nmeasures where appropriate \nInvest in resilient roads and bridges \n(e.g.",
+        "page": 2,
+        "source": "Pyrenees-2021-Climate-Change-Response-Mitigation-Plan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a variety of measures to respond to the impacts of climate change. These include planning for flood events and incorporating these into the planning scheme, undertaking amendments to include overlays for specific areas, and investing in resilient infrastructure such as roads and bridges. The plan also includes measures to mitigate greenhouse gas emissions, such as monitoring and reporting on the council's energy use, advocating for government leadership in setting targets and funding for greenhouse gas reduction, and participating in joint procurement of renewable power. Furthermore, the plan includes measures to respond to heatwave events, such as the implementation of a Heatwave Plan, increased tree planting in towns to provide cooler spaces, and investment in emergency management planning and response. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+      "source": "Pyrenees-b-a12345678910.json",
+      "lga": "Pyrenees"
+    },
+    {
+      "answer": "The local government's Climate Emergency Response Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a pillar called 'Adaptation and Resilience' which focuses on preparing the council and community for changing climate conditions and extreme weather events. The plan also includes a commitment to develop an Implementation Plan that includes climate governance and prioritisation. Furthermore, the council plans to undertake a detailed Climate Change Risk Assessment for the Borough of Queenscliffe, aligning the Council’s Risk Management Framework with the Environmental Management System. This indicates a clear focus on adaptation and resilience, with specific actions and strategies outlined to address the challenges posed by climate change.",
+      "source": "Queenscliffe-a-a12345678910.json",
+      "lga": "Queenscliffe"
+    },
+    {
+      "answer": "The local government's Climate Emergency Response Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a strategic alignment of the Climate Emergency Response Plan, including resourcing commitments, climate governance, prioritisation, and the development of key budget requirements. The plan also includes a detailed Climate Change Risk Assessment for the Borough of Queenscliffe, aligning Council’s Risk Management Framework with the Environmental Management System. The plan's 'Adaptation and Resilience' pillar focuses on building Council and community preparedness for changing climate conditions and the increased incidence of extreme weather events. The plan also includes a Monitoring, Evaluation and Reporting Framework to measure the reduction in greenhouse gas emissions and assess the ongoing performance of the plan.",
+      "source": "Queenscliffe-b-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "Council to undertake a detailed Climate Change Risk Assessment for the Borough of Queenscliffe including an alignment of Council’s Risk Management Framework with the Environmental Management System.",
+        "page": 56,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 indeed includes specific actions for climate adaptation and resilience. The plan outlines six prioritised adaptation actions, each with a range of sub-actions. These actions are designed to address various aspects of climate change, including community resilience, water management, construction practices, and greenhouse gas emissions. Each action is accompanied by details such as relevant risks, timelines, action ownership, required resources, and Key Performance Indicators (KPIs). This level of detail suggests a comprehensive approach to climate adaptation and resilience. However, the effectiveness of these actions would depend on their successful implementation and the accuracy of the underlying climate and socioeconomic assumptions.",
+      "source": "SouthernGrampians-a-a12345678910.json",
+      "lga": "SouthernGrampians",
+      "quote": {
+        "content": "Develop and deliver an Integrated Water Plan",
+        "page": 20,
+        "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 indeed includes specific actions for climate adaptation and resilience. The plan outlines six prioritised adaptation actions, each with a range of sub-actions. These actions are designed to address various aspects of climate change, including community resilience, water management, construction practices, and greenhouse gas emissions. Each action is accompanied by details such as relevant risks, timelines, action ownership, required resources, and Key Performance Indicators (KPIs). The plan also emphasizes the importance of stakeholder involvement, cross-organisational collaboration, and ongoing review and refinement of the actions. This level of detail and specificity suggests a comprehensive and well-considered approach to climate adaptation and resilience.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians",
+      "quote": {
+        "content": "Develop and deliver an Integrated Water Plan",
+        "page": 20,
+        "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The local government's policy does indeed include specific actions for climate adaptation and resilience. The policy outlines the council's commitment to broadening its work in planning to adapt to climate change and facilitating adaptation measures across the municipality. The policy also mentions the development of a new Climate Action Plan, which will include detailed and concrete actions to achieve the council's goals in both climate change mitigation and adaptation. The Climate Action Plan will be developed with extensive internal and community consultation, reflecting the community's desires and ambition in this area. The policy also acknowledges the need to adapt to the changing climate in a way that rediscovers the balance between people and the environment. Therefore, the policy does include specific actions for climate adaptation and resilience.",
+      "source": "SouthGippsland-a-a12345678910.json",
+      "lga": "SouthGippsland",
+      "quote": {
+        "content": "Council’s future work in climate change will be governed through implementation of a new Climate Action Plan, which will be developed with extensive internal and community consultation to reflect the community’s desires and ambition in this space. Opportunities exist for Council to broaden its work in planning to adapt to climate change, helping facilitate adaptation measures across the municipality. In addition, Council will consider expanding measures to reduce emissions from both Council operations and the broader municipality, to assist with the mitigation of climate change.",
+        "page": 11,
+        "source": "SouthGippsland-Environmental_Sustainbility_Strategy_Framework_2021.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines the council's commitment to broadening its focus on both adaptation and mitigation of climate change. It also mentions the development of a new Climate Action Plan, which will be created with extensive internal and community consultation. This plan will include detailed and concrete actions to be undertaken for both climate change mitigation and adaptation. The policy also refers to the Climate Change Act 2017, which requires decision makers to consider climate change mitigation and adaptation action when making decisions or implementing actions. Therefore, the policy not only acknowledges the need for climate adaptation and resilience but also provides a clear framework for implementing specific actions towards these goals.",
+      "source": "SouthGippsland-b-a12345678910.json",
+      "lga": "SouthGippsland",
+      "quote": {
+        "content": "This Action Plan will include emissions reduction targets and pathways for Council going forward, as well as detailed and concrete actions to be undertaken in order to achieve Council’s goals in both climate change mitigation and adaptation.",
+        "page": 11,
+        "source": "SouthGippsland-Environmental_Sustainbility_Strategy_Framework_2021.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's Climate Emergency Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines three key areas of focus: increasing urban greening, creating a climate-ready built environment, and fostering a resilient, connected community. The plan also includes specific actions such as incorporating climate change considerations into project bids, identifying climate change adaptation opportunities in asset management strategies, and selecting plant and tree species that can withstand changing climatic conditions. Furthermore, the plan emphasizes the importance of community engagement and awareness in building resilience. These actions demonstrate a comprehensive approach to climate adaptation and resilience, addressing both the physical environment and the social fabric of the community.",
+      "source": "Stonnington-a-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "Council action to ensure our city adapts and thrives in a changing climate will focus on three key areas: 1 — Increase urban greening and cool our city 2 — Climate-ready built environment 3 — A resilient, connected community.",
+        "page": 25,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines three key areas of focus: increasing urban greening, creating a climate-ready built environment, and fostering a resilient, connected community. The plan also includes specific actions such as incorporating climate change considerations into project bids, identifying climate adaptation opportunities in asset management strategies, and selecting plant and tree species that can withstand changing climatic conditions. Furthermore, the plan emphasizes the importance of community engagement and awareness in addressing the climate emergency. These actions demonstrate a comprehensive approach to climate adaptation and resilience, encompassing both physical and social aspects of the community.",
+      "source": "Stonnington-b-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "Council action to ensure our city adapts and thrives in a changing climate will focus on three key areas: 1 — Increase urban greening and cool our city 2 — Climate-ready built environment 3 — A resilient, connected community.",
+        "page": 25,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a series of actions that are designed to ensure the community's resilience to climate change. For instance, the plan includes the development of a 10-year, climate-appropriate, street tree planting plan (Action 28), which can help mitigate urban heat island effects and sequester carbon. The plan also proposes to investigate permeable concrete options for footpaths and other uses (Action 29), which can help manage stormwater runoff and reduce flood risks. Furthermore, the plan emphasizes the importance of considering climate change adaptation in the Council’s risk register and in project and contract management (Action 30). These actions demonstrate a clear commitment to climate adaptation and resilience.",
+      "source": "Strathbogie-a-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "28 Development of a 10 year, climate-appropriate, street tree planting plan and budget for the Shire’s townships.",
+        "page": 19,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a series of actions that are designed to ensure the community's resilience to climate change. For instance, the plan includes the development of a 10-year, climate-appropriate, street tree planting plan (Action 28), which can help mitigate urban heat island effects and sequester carbon. The plan also proposes to investigate permeable concrete options for footpaths and other uses (Action 29), which can help manage stormwater and reduce flood risks. Furthermore, the plan ensures that climate change adaptation is fully considered in the Council’s risk register and in project and contract management (Action 30). These actions demonstrate a clear commitment to climate adaptation and resilience, with a focus on both mitigating the impacts of climate change and adapting to its effects.",
+      "source": "Strathbogie-b-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "28 Development of a 10 year, climate-appropriate, street tree planting plan and budget for the Shire’s townships.",
+        "page": 19,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The Climate Emergency Response Plan 2021-2031 indeed includes specific actions for climate adaptation and resilience. The plan outlines a variety of actions aimed at enhancing the resilience of the local community and environment to the impacts of climate change. For instance, the plan includes actions such as reviewing the Open Space Landscape Standards for developers and Council’s Open Space Strategy with consideration for climate change, increasing street trees and enhancing vegetation in reserves (A16). It also includes actions to monitor and adapt the pest, plant and animal management program as required to respond to a changing climate, and new and emerging pest, plants and animals or diseases (A17). Furthermore, the plan includes actions to manage Council reserves to improve resilience to climate change (A18). These actions are led by different teams within the council and are given a medium priority with funding from the existing budget.",
+      "source": "SurfCoast-a-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The Climate Emergency Response Plan 2021-2031 indeed includes specific actions for climate adaptation and resilience. The plan outlines a variety of actions aimed at enhancing the resilience of the local community and environment to the impacts of climate change. For instance, the plan includes actions such as reviewing the Open Space Landscape Standards for developers and Council’s Open Space Strategy with consideration for climate change, increasing street trees and enhancing vegetation in reserves (A16). It also includes actions to monitor and adapt the pest, plant, and animal management program as required to respond to a changing climate (A17). Furthermore, the plan includes actions to manage Council reserves to improve resilience to climate change (A18). These actions are led by different teams within the council and are given a medium priority with funding from the existing budget.",
+      "source": "SurfCoast-b-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a strategic task to 'Facilitate community efforts to adapt to climate change' and includes actions such as working with stakeholders to develop a coordinated and proactive approach to climate variability adaptation and mitigation. It also aims to develop and maintain stakeholder relationships that increase external funding and resource opportunities for climate adaptation and mitigation activities. Furthermore, the policy mentions the development of an appropriate mechanism to measure greenhouse gas emissions. These actions indicate a clear commitment to climate adaptation and resilience, with a focus on community involvement and strategic partnerships.",
+      "source": "SwanHill-a-a12345678910.json",
+      "lga": "SwanHill"
+    },
+    {
+      "answer": "The local government policy does include specific actions for climate adaptation and resilience. The policy outlines a strategic task to 'Facilitate community efforts to adapt to climate change' and includes actions such as working with stakeholders to develop a coordinated and proactive approach to climate variability adaptation and mitigation. It also aims to develop and maintain stakeholder relationships that increase external funding and resource opportunities for climate adaptation and mitigation activities. Furthermore, the policy acknowledges the need to regularly review and update relevant plans and policies in relation to climate variability and change, and energy efficiency. This suggests a commitment to ongoing adaptation and resilience in the face of a changing climate. However, while these actions are specific, they could benefit from further detail to ensure their effectiveness and measurability.",
+      "source": "SwanHill-b-a12345678910.json",
+      "lga": "SwanHill"
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a commitment to increase the resilience capacity of the community to mitigate and adapt to changes driven by climate change. It also includes actions to respond to adverse weather events through the review and continual update of emergency preparedness and response actions. The plan also includes strategic actions such as ensuring changing rainfall, flooding, bushfire, and drought patterns are included in all Council strategies and asset management plans where applicable. Furthermore, the plan includes the development and implementation of a Sustainable Building Policy for Council buildings and the embedding of Climate Resilient Infrastructure checklists into relevant processes for designing and maintaining infrastructure. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+      "source": "Wangaratta-a-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "Develop and implement a Sustainable Building Policy for Council buildings.",
+        "page": 22,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The local government policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a commitment to increase the resilience capacity of the community to mitigate and adapt to changes driven by climate change. It also plans to respond to extreme events and work collaboratively with external stakeholders on community-based environment and sustainability initiatives. The policy also includes strategic actions such as ensuring changing rainfall, flooding, bushfire, and drought patterns are included in all Council strategies and asset management plans. It also plans to develop and implement a Sustainable Building Policy for Council buildings and embed Climate Resilient Infrastructure checklists into relevant processes for designing and maintaining infrastructure. These actions demonstrate a comprehensive approach to climate adaptation and resilience, addressing both the built environment and community preparedness.",
+      "source": "Wangaratta-b-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "Develop and implement a Sustainable Building Policy for Council buildings.",
+        "page": 22,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a broad range of actions, such as addressing risks to State Government operations and assets, helping Victorian communities adapt to climate change, and preparing for and responding to extreme weather events. The plan also includes specific actions such as the development of a Sustainable Building Design Policy and Guide, the review and update of the Climate Change Action Plan, and the support for the construction and development of Zero Net Carbon Neighbourhoods. These actions demonstrate a comprehensive approach to climate adaptation and resilience, addressing both the immediate and long-term impacts of climate change.",
+      "source": "Warrnambool-a-a12345678910.json",
+      "lga": "Warrnambool",
+      "quote": {
+        "content": "Broad Actions (these are further detailed in the plan):\n• \nLeading by example: addressing risks to State \nGovernment operations and assets\n• \nHelping Victorian communities adapt to climate change \n- Guidance and authoritative up-to-date information\n• \nA partnership with local government\n• \nEmbedding adaptation in core sectors of our \ncommunity\n• \nAddressing the impacts on health and human services\n• \nPreparing for and responding to extreme weather events\n• \nManaging impacts on the natural environment and \nProtecting biodiversity\n•",
+        "page": 30,
+        "source": "Warrnambool-Green-Warrnambool.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a broad range of actions, such as addressing risks to State Government operations and assets, helping Victorian communities adapt to climate change, and preparing for and responding to extreme weather events. The plan also includes specific actions such as the development of a Sustainable Building Design Policy and Guide, the review and update of the Climate Change Action Plan, and the support for the construction and development of Zero Net Carbon Neighbourhoods. These actions demonstrate a comprehensive approach to climate adaptation and resilience, addressing both the immediate and long-term impacts of climate change.",
+      "source": "Warrnambool-b-a12345678910.json",
+      "lga": "Warrnambool",
+      "quote": {
+        "content": "Broad Actions (these are further detailed in the plan):\n• \nLeading by example: addressing risks to State \nGovernment operations and assets\n• \nHelping Victorian communities adapt to climate change \n- Guidance and authoritative up-to-date information\n• \nA partnership with local government\n• \nEmbedding adaptation in core sectors of our \ncommunity\n• \nAddressing the impacts on health and human services\n• \nPreparing for and responding to extreme weather events\n• \nManaging impacts on the natural environment and \nProtecting biodiversity",
+        "page": 30,
+        "source": "Warrnambool-Green-Warrnambool.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change, with a focus on building knowledge, integrating climate change measures into corporate policies, strategies, and planning, and working with key partners to ensure community understanding of climate risk. The policy also seeks to proactively identify opportunities arising from a changing climate and enhance the capacity of council staff to apply climate change adaptation into business decision-making processes. Specific actions include updating the Municipal Emergency Management Plan, reviewing and updating key decision-making tools for capital works projects, and participating in regional climate change adaptation strategy programs. The policy also aims to support Committees of Management and community groups in applying climate adaptation thinking in facilities maintenance and program delivery.",
+      "source": "Wellington-a-a12345678910.json",
+      "lga": "Wellington",
+      "quote": {
+        "content": "Enhance the capacity of Council staff to apply climate change adaptation into business decision-making processes. Integrate climate change measures into corporate policies, strategies and planning. Work with our key partners to ensure our community understand their exposure to climate risk and strategies they can adopt to minimise the impact on their health and financial wellbeing. Proactively seek and support opportunities that arise from a changing climate.",
+        "page": 23,
+        "source": "Wellington-Sustainability-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change, integrating it into corporate policies, strategies, and planning. It also aims to build knowledge of how climate change will impact Council operations and service delivery. The plan includes actions such as investigating and reporting on potential long-term costs of climate change to Council service delivery and public infrastructure assets, updating the Municipal Emergency Management Plan, and reviewing all Council policies and strategies to identify opportunities to integrate climate adaptation. The plan also includes proactive measures such as identifying regional opportunities that arise from a changing climate and enhancing the capacity of Council staff to apply climate change adaptation into business decision-making processes. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+      "source": "Wellington-b-a12345678910.json",
+      "lga": "Wellington",
+      "quote": {
+        "content": "Enhance the capacity of Council staff to apply climate change adaptation into business decision-making processes. Integrate climate change measures into corporate policies, strategies and planning. Build knowledge of how climate change will impact Council operations and service delivery.",
+        "page": 23,
+        "source": "Wellington-Sustainability-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a systemic approach to embed climate change considerations into the Asset Management Plan for each asset class. This approach is designed to mitigate climate change impacts, adapt to changes, and enhance resilience. The plan also includes actions to update the Municipal Public Health and Wellbeing Plan to focus on climate change adaptation and resilience, highlighting the link between climate change and health & wellbeing. Another action involves leveraging existing community programs and networks to raise awareness about the relationship between climate change and health & wellbeing, and promote opportunities to improve community resilience. The plan also includes actions to evaluate the selection of high-priority Council assets and determine their climate vulnerabilities, and address the identified vulnerabilities within the planned future Asset Management Plan of Works.",
+      "source": "Whitehorse-a-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "Leverage existing community programs and networks to raise awareness about the relationship between climate change and health & wellbeing, and promote opportunities to improve community resilience...",
+        "page": 8,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a systemic approach to embed climate change considerations into the Asset Management Plan for each asset class, which is a clear strategy for climate adaptation. The plan also includes actions to update the Municipal Public Health and Wellbeing Plan to focus on climate change adaptation and resilience, highlighting the link between climate change and health & wellbeing. Another action is to update the Municipal Emergency Management Plan to more strongly reference and plan for climate change and associated risks. The plan also includes leveraging existing community programs and networks to raise awareness about the relationship between climate change and health & wellbeing, and promote opportunities to improve community resilience. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+      "source": "Whitehorse-b-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "Leverage existing community programs and networks to raise awareness about the relationship between climate change and health & wellbeing, and promote opportunities to improve community resilience.",
+        "page": 8,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The Climate Change Plan Draft 2022-2032 of the City of Whittlesea indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate resilience across various sectors. For instance, it mentions enhancing the city’s tree canopy cover to reduce the risk of extreme heat and making open spaces cooler and safer. The plan also includes actions to ensure that the built environment and infrastructure are designed, constructed, and maintained to support safe and healthy communities in a changing climate. Furthermore, it discourages new settlements in areas prone to extreme natural hazards. The plan also includes actions to improve drought resilience for public open spaces by providing access to alternative water supplies and construction materials. The plan is set to be reviewed in 2027 and 2032, in line with the latest climate science, emissions profile, and inventory updates, as well as new mitigation and adaptation technologies that become available.",
+      "source": "Whittlesea-a-a12345678910.json",
+      "lga": "Whittlesea",
+      "quote": {
+        "content": "We will also discourage new settlement in areas prone to extreme natural hazards in the Green Wedge. We will enhance our city’s tree canopy cover to reduce the risk of extreme heat and make our open space cooler and safer during periods of extended heat. We will ensure that our built environment and infrastructure are designed, constructed, and maintained to support safe and healthy communities in a changing climate.",
+        "page": 15,
+        "source": "Whittlesea-climate-change-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Climate Change Plan Draft 2022-2032 of the City of Whittlesea indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate resilience across various sectors. For instance, it emphasizes enhancing the city's tree canopy cover to reduce the risk of extreme heat and making open spaces cooler and safer during extended heat periods. The plan also aims to ensure that the built environment and infrastructure are designed, constructed, and maintained to support safe and healthy communities in a changing climate. It discourages new settlements in areas prone to extreme natural hazards. Furthermore, the plan includes actions to support the community with information, education, resources, and/or funding for climate-resilient home design and retrofit. The plan also outlines priorities for action, such as managing and enhancing tree canopy and green cover, and improving drought resilience for public open spaces.",
+      "source": "Whittlesea-b-a12345678910.json",
+      "lga": "Whittlesea",
+      "quote": {
+        "content": "We will also advance Council’s understanding and planning for climate risks so that we can continue to effectively service our community in a changing climate. We will enhance our city’s tree canopy cover to reduce the risk of extreme heat and make our open space cooler and safer during periods of extended heat. We will help communities and businesses to better understand and prepare for climate change impacts.",
+        "page": 15,
+        "source": "Whittlesea-climate-change-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a comprehensive Climate Change Adaptation Action Plan, which identifies risks to the continued delivery of services and protection of assets from future climate impacts. The plan also develops responses to address these risks, which become adaptation actions when implemented. These actions aim to increase the Council's resilience and preparedness for the future. The plan also includes a process of regularly monitoring and updating the adaptation actions based on new knowledge or technologies. The policy also mentions the implementation of the Adaptation Plan through the Council's Risk Management Framework, with strategic risks reviewed every six months by the Executive and quarterly by the Audit team. The policy also emphasizes building adaptive capacity within the organization.",
+      "source": "Wodonga-a-a12345678910.json",
+      "lga": "Wodonga",
+      "quote": {
+        "content": "These responses become adaptation actions when implemented and will help to increase Council’s resilience and be better prepared for the future. This Adaptation Plan has been developed in response to a recognition that despite efforts to mitigate climate change some form of adaptation is inevitable. The Adaptation Plan has identified risks to the continued delivery of services and protection of assets from future climate impacts, and developed responses to address these risks.",
+        "page": 22,
+        "source": "Wodonga-2017-Climate_Change_Adaptation_Action_Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government's policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a Climate Change Adaptation Action Plan, which identifies risks to the continued delivery of services and protection of assets from future climate impacts. The plan develops responses to address these risks, which become adaptation actions when implemented. These actions aim to increase the Council's resilience and preparedness for the future. The plan also includes a process of regularly monitoring and updating the adaptation actions based on new knowledge or technologies. The policy also mentions the implementation of the Adaptation Plan through the Council's Risk Management Framework, with strategic risks reviewed every six months by the Executive and quarterly by the Audit team. The policy also highlights the need to build adaptive capacity within the organization, which involves moderating potential damages, taking advantage of opportunities, and coping with the consequences of climate change.",
+      "source": "Wodonga-b-a12345678910.json",
+      "lga": "Wodonga",
+      "quote": {
+        "content": "These responses become adaptation actions when implemented and will help to increase Council’s resilience and be better prepared for the future. This Adaptation Plan has been developed in response to a recognition that despite efforts to mitigate climate change some form of adaptation is inevitable. The Adaptation Plan has identified risks to the continued delivery of services and protection of assets from future climate impacts, and developed responses to address these risks.",
+        "page": 22,
+        "source": "Wodonga-2017-Climate_Change_Adaptation_Action_Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government's Climate Change Adaptation Strategy indeed includes specific actions for climate adaptation and resilience. The strategy outlines a systematic approach to addressing climate change, with actions designed to reduce emissions and mitigate climate risks. The strategy is built on evidence collected through a rigorous climate change risk assessment and includes a range of projects designed to learn about the most effective ways to adapt. The actions are categorized under key themes such as managing water use and urban heat reduction, empowering a resilient community, protecting biodiversity, building climate resilient infrastructure, and establishing adaptation excellence. Each action has a completion timing, indicating a commitment to measurable outcomes. The strategy also emphasizes the importance of community engagement and knowledge sharing in building resilience.",
+      "source": "Wyndham-a-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": " \nIdentify and implement additional actions The implementation of the Adaptation Strategy and Action Plan will: \n \nSupport the actions Wyndham is already undertaking in relation to key climate risks.",
+        "page": 4,
+        "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The Climate Change Adaptation Strategy formalizes the response to climate change, with actions designed to reduce emissions and mitigate climate change risks. The strategy includes a number of projects aimed at learning about the most effective ways to adapt to climate change, with actions and responses embedded into council processes, policies, and planning schemes. The adaptation priorities have been determined through a rigorous climate change risk assessment. The strategy outlines actions that respond to identified climate risk priorities and also seek to build resilience within the municipality. These actions fall within key themes such as managing water use and urban heat reduction, empowering a resilient community, protecting biodiversity, building climate resilient infrastructure, and establishing adaptation excellence. Each theme has specific actions, responsibilities, and timeframes associated with it.",
+      "source": "Wyndham-b-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "Actions included in this Strategy respond to identified climate risk priorities but also seek to build resilience within our municipality.",
+        "page": 1,
+        "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a range of strategies and actions to create a climate-adapted city. These include updating flood modelling to inform future flood overlays, ensuring climate resilience in parks and green spaces, and embedding climate resilience into Council’s strategies, policies, and decision-making processes. The plan also includes actions to enhance the urban forest to increase tree canopy cover, diversity, and climate resilience. Furthermore, the plan outlines the development of an Integrated Water Management Plan to enhance the city as a water-smart city, improving liveability, social, and economic outcomes of the community. The plan also mentions the use of blue/green infrastructure solutions to help mitigate flood, drought, heat, and enhance habitat and green spaces.",
+      "source": "Yarra-a-a12345678910.json",
+      "lga": "Yarra"
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a range of strategies and actions to create a climate-adapted city. These include updating flood modelling to inform future flood overlays, ensuring climate resilience in parks and green spaces, and embedding climate resilience into Council’s strategies, policies, and decision-making processes. The plan also includes actions to enhance the urban forest to increase tree canopy cover, diversity, and climate resilience. Furthermore, the plan outlines the development of an Integrated Water Management Plan to enhance the city as a water-smart city, improving liveability, social, and economic outcomes of the community. The plan also mentions the use of blue/green infrastructure solutions to help mitigate flood, drought, heat, and enhance habitat and green spaces.",
+      "source": "Yarra-b-a12345678910.json",
+      "lga": "Yarra"
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change, with a focus on resilience and adaptation. It includes actions such as the establishment of a Resilient Communities Program to help local communities overcome barriers to investing in climate resilience measures, including energy efficiency, water harvesting, renewables, and energy storage. The plan also includes the development of Community Resilience Plans, ensuring communities can respond to various emergencies, shocks, and stresses resulting from a changing climate. Furthermore, the plan outlines the need to work with traditional owners, local growers, peak bodies, and land managers to promote Resilient Land Management and regenerative agriculture. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+      "source": "YarraRanges-a-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "Work with traditional owners, local growers, peak bodies and land managers to promote Resilient Land Management and regenerative agriculture",
+        "page": 11,
+        "source": "YarraRanges-2020-liveable-climate-action-plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change, with a focus on both mitigation and adaptation strategies. The documents detail a range of actions, including the establishment of a Resilient Communities Program, the development of Community Resilience Plans, and the provision of planning applicants with an ESD Advisory Service. These actions are designed to help local communities overcome barriers to investing in climate resilience measures, respond to various emergencies resulting from a changing climate, and ensure that current and future communities are supported by resilient and affordable building stock. The plan also includes a commitment to monitor performance annually, demonstrating a commitment to ongoing evaluation and improvement. Therefore, the plan not only acknowledges the need for climate adaptation and resilience but also provides specific, actionable strategies to achieve these goals.",
+      "source": "YarraRanges-b-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "Provide planning applicants with an ESD Advisory Service to ensure our current and future communities are supported by resilient and affordable building stock.",
+        "page": 7,
+        "source": "YarraRanges-2020-liveable-climate-action-plan.pdf",
+        "search_score": 0.96
+      }
+    }
+  ]
+}

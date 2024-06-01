@@ -1,0 +1,268 @@
+{
+  "settings": {
+    "source_files": [
+      "MooneeValley-mv2040-action-plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T20:34:23.814857",
+    "lga": "MooneeValley"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The core purpose of the policy is indeed climate action. The policy outlines a comprehensive plan to address climate change, with a focus on reducing greenhouse gas emissions, diverting waste from landfill, protecting and recycling valuable drinking water supplies, enhancing the urban environment and ecology, and keeping the city green and cool. The policy also acknowledges the climate emergency and is designed to accelerate sustained and meaningful action by all levels of government. It sets targets for Council’s operations, including achieving zero net carbon emissions from Council operations by 2020 and zero net emissions for the community by 2040. The policy also includes specific actions such as undertaking mapping and analysis of urban heat island effects, encouraging community members to improve tree canopy cover, and developing an internal Council program to respond to the climate emergency.",
+          "quote": {
+            "content": "Managing our city’s impact on the environment and adapting to climate change is a crucial part of making our city healthy.",
+            "page": 3,
+            "source": "MooneeValley-mv2040-action-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They outline a comprehensive plan, the MV2040 Action Plan, which is aimed at reducing greenhouse gas emissions, diverting waste from landfill, protecting and recycling valuable drinking water supplies, enhancing the urban environment and ecology, and keeping the city green and cool. The plan acknowledges the climate emergency and is designed to accelerate sustained and meaningful action by all levels of government, and for people globally to engage with the challenge of avoiding catastrophic climate change and restoring a safe climate. The plan also includes specific actions such as undertaking mapping and analysis of urban heat island effects, encouraging community members to improve tree canopy cover, and developing an internal Council program to respond to the climate emergency.",
+          "quote": {
+            "content": "The climate emergency declaration is designed to accelerate sustained and meaningful action by all levels of government, and for people globally to engage with the challenge of avoiding catastrophic climate change and restoring a safe climate. In October 2019, Council declared and acknowledged the climate emergency.",
+            "page": 3,
+            "source": "MooneeValley-mv2040-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document does call for urgent action on climate change, although it does not use the exact phrase 'rapid and urgent'. The local government has declared a climate emergency in October 2019, which inherently implies a sense of urgency. The document outlines a series of actions to be taken in response to this emergency, including reducing greenhouse gas emissions, protecting and recycling water supplies, and enhancing the urban environment. The document also sets specific targets for reducing carbon emissions, with interim community emissions reduction targets set for 2025 and 2030. These targets and the associated actions indicate a commitment to taking immediate and ongoing action to address climate change.",
+          "quote": {
+            "content": "The climate emergency declaration is designed to accelerate sustained and meaningful action by all levels of government, and for people globally to engage with the challenge of avoiding catastrophic climate change and restoring a safe climate. In October 2019, Council declared and acknowledged the climate emergency.",
+            "page": 3,
+            "source": "MooneeValley-mv2040-action-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents provide specific timeframes for the local government's intended actions on climate change. The MV2040 Action Plan outlines a series of actions, each with a designated timeframe. For instance, the plan includes actions such as 'Undertake mapping and analysis of urban heat island effects and determine appropriate mitigation options' and 'Develop an internal Council program to respond to climate emergency', both scheduled for 2020-2021. Other actions, like 'Demonstrate and promote green infrastructure the community can adopt that provides an urban cooling effect, including green walls and roofs', are planned for 2022-2025. There are also ongoing actions, such as 'Incorporate climate ready considerations for public realm, green infrastructure and urban design projects'. These timeframes indicate a sense of urgency and a structured approach to addressing climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including the declaration of a climate emergency in October 2019, they do not specify that these actions should take precedence over other policies. The documents detail a range of actions and strategies to mitigate climate change, such as reducing greenhouse gas emissions, enhancing the urban environment, and adapting to climate change. However, these are presented as part of a broader action plan, rather than as a priority above all other policies. Furthermore, the delivery of the action plan is stated to be subject to feasibility, including cost effectiveness, budget, and access to external funding, suggesting that these actions may be balanced against other policy considerations."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a number of specific actions and strategies related to climate change mitigation and adaptation. These include prioritising electric over gas infrastructure in council buildings, installing solar energy systems, facilitating programs to assist residents in purchasing solar systems, and developing an internal council program to respond to the climate emergency. The documents also mention the development of a municipal-wide flood mitigation plan, prioritising climate-resilient materials when purchasing new or refurbishing council assets, and incorporating climate-ready considerations for public realm, green infrastructure, and urban design projects. However, these actions and strategies are not explicitly stated as being mandatory for all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents from the MV2040 Action Plan do not explicitly allocate funding for climate action. While the plan outlines numerous actions related to climate change mitigation and adaptation, such as developing a municipal-wide flood mitigation plan, prioritising climate-resilient materials, and promoting green infrastructure, there is no clear mention of specific funding allocations for these actions. The documents frequently mention a symbol '$' next to various actions, but without further context or explanation, it is unclear what this symbol represents in terms of financial commitment. Therefore, based on the provided documents, it cannot be definitively stated that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents from the MV2040 Action Plan do not explicitly allocate staff or other non-monetary institutional resources to climate action. The documents outline various actions and initiatives related to climate change, such as assessing the Council's climate change adaptation performance, advocating for green roofs, promoting green infrastructure, and developing a flood mitigation plan. However, these actions do not specify the allocation of staff or other non-monetary institutional resources. They primarily focus on the actions to be taken, the time period for these actions, and the associated costs, but do not detail the specific resources, such as staff time or expertise, that will be dedicated to these actions."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy outlines several initiatives aimed at engaging the community in climate action. These include supporting the community to reduce carbon emissions through engagement, education, and promotion of residential retrofit and behaviour change initiatives. The policy also plans to deliver programs to build the capacity of the community to initiate community-led actions to reduce carbon emissions and achieve other sustainability outcomes. Furthermore, the policy aims to assist schools in educating young people about sustainability and embedding sustainability into their operations. The policy also plans to partner with relevant external stakeholders to create knowledge, capacity, and information about the impacts of climate change in the community, actions that reduce or eliminate these impacts, and methods to adapt."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The MV2040 Action Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions include the installation of solar systems on Council and community buildings, and the upgrading of street lighting to more efficient, smarter technologies. The plan also encourages the community to invest in solar systems and emerging renewable technologies. In terms of behaviour change, the plan includes actions to support the community, including special interest and sporting groups, to reduce carbon emissions through engagement, education, and the promotion of residential retrofit and behaviour change initiatives. The plan also includes programs to build the capacity of the community to initiate community-led actions to reduce carbon emissions and achieve other sustainability outcomes. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change adaptation, focusing on improving design standards for infrastructure, enhancing decision-making tools, creating climate-adapted green spaces, and fostering community resilience. The plan also includes actions such as increasing vegetation to mitigate urban heat, creating water-sensitive landscapes, and partnering with community groups to support vulnerable residents and businesses. Furthermore, the policy includes a commitment to continually improve design standards for buildings, drainage, roads, and landscape infrastructure to accommodate climate-related risks. The plan also includes actions to improve the community's understanding of climate change impacts and build their capacity to respond. These actions demonstrate a clear commitment to climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of actions and strategies related to climate change, such as increasing tree canopy cover, developing an internal council program to respond to climate emergencies, and installing solar systems on council and community buildings, it does not provide specific evidence or sources to justify these actions or their associated targets. The policy does not cite any scientific studies, data, or expert opinions to support its strategies or to explain why these particular actions were chosen. Furthermore, the policy does not provide any clear metrics or criteria for measuring the success of its actions, which makes it difficult to assess whether these actions are likely to be effective in achieving the policy's climate goals."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The MV2040 Action Plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a range of initiatives and actions, each with a designated time period for implementation. For instance, the plan includes actions such as 'Promote educational programs and partners that can assist schools to provide environmental sustainability education' and 'Identify and establish locations where sustainable living activities could be accommodated within community facilities', both with specific timeframes. Furthermore, the plan includes a provision to 'Assess Council’s climate change adaptation performance using relevant external and industry monitoring, evaluation and reporting frameworks and tools'. This suggests that the plan has mechanisms in place to measure and evaluate the success of its actions using established industry standards. However, the plan does not provide detailed information on what these evaluation and reporting frameworks and tools are, which could potentially limit the effectiveness of the evaluation process."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined several initiatives that involve gathering information and building knowledge about climate change impacts within the community. For instance, the government plans to partner with relevant external stakeholders to create knowledge about the impacts of climate change in the community and the actions that can reduce or eliminate these impacts. They also plan to engage with the community to improve understanding of climate change impacts. Furthermore, the government intends to undertake mapping and analysis of urban heat island effects and determine appropriate mitigation options. These initiatives indicate a commitment to conducting research and gathering information to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has outlined a comprehensive action plan, the MV2040, which includes a variety of strategies to address climate change. These strategies range from mapping and analyzing urban heat island effects, to developing an internal council program to respond to climate emergencies. The plan also includes measures to encourage community members to improve tree canopy cover and educate them about urban heat island effect mapping. Furthermore, the government plans to assess its climate change adaptation performance using relevant external and industry monitoring, evaluation, and reporting frameworks. This suggests a willingness to experiment with different approaches and learn from best practices in the field. The plan also includes innovative measures such as advocating for a state-wide policy that encourages more green roofs on high-density developments, and demonstrating and promoting green infrastructure that provides an urban cooling effect."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state governments to support climate action. This is evident in several instances where the local government has outlined plans to advocate to the State Government for various climate-related policies. For instance, the local government plans to advocate for a state-wide policy that encourages more green roofs on high-density developments. Additionally, the local government also plans to advocate to the State Government around priority integrated water management and climate resilience matters. These actions demonstrate a clear intent to engage with higher levels of government to promote and support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do provide evidence of the local government's efforts to build local capacity for climate action across the council and their local communities. However, there is no explicit mention of building capacity with neighbouring local councils. The policy outlines various initiatives aimed at enhancing the community's understanding of climate change impacts and building their capacity to respond. For instance, the policy mentions partnering with external stakeholders to create knowledge about climate change impacts and methods to adapt, engaging with the community to improve understanding of climate change impacts, and providing tailored support to vulnerable community members to prepare for climate change impacts. The policy also mentions initiatives to educate developers and schools, and to support the community in reducing carbon emissions. However, the policy does not explicitly mention building capacity with neighbouring local councils for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. The policy does mention partnering with relevant external stakeholders, community groups, and other government bodies to create knowledge about the impacts of climate change and to support vulnerable residents and businesses. However, it does not specify who these stakeholders, groups, or bodies are. Therefore, without specific details or evidence of such associations or partnerships, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The policy outlines a number of actions aimed at fostering community resilience to climate impacts, with a particular focus on vulnerable residents. The policy emphasizes the need to improve understanding of climate change impacts in the community and build the capacity of people to respond. It also outlines plans to provide tailored support to vulnerable members of the community to prepare for climate change impacts and build response capacity. This indicates a recognition of the differential impacts of climate change on various community members, and a commitment to ensuring that those who are most vulnerable are adequately supported in preparing for and responding to these impacts."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does outline various actions related to climate change adaptation and mitigation, such as increasing vegetation to mitigate urban heat, educating the community about climate change impacts, and building climate resilience, it does not specifically address the equitable distribution of these benefits and opportunities. The policy does mention providing support to vulnerable members of the community to prepare for climate change impacts, but it does not elaborate on how this will ensure equity and social justice in the context of a safe climate. Therefore, based on the provided documents, the policy does not meet the high standard of evidence required to affirmatively answer the question."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 69.2
+  }
+}

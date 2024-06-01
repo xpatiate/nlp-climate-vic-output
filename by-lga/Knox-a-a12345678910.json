@@ -1,0 +1,328 @@
+{
+  "settings": {
+    "source_files": [
+      "Knox-2021-climate-response-plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T21:14:13.070860",
+    "lga": "Knox"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The core purpose of the policy is indeed climate action. The policy, titled 'Climate Response Plan 2021 - 2031', is explicitly designed to address the challenges of climate change and to guide the local government's response. The policy outlines a series of actions aimed at minimizing climate impacts, building a resilient community, and protecting ecosystems. These actions are intended to be ambitious, inclusive, fair, relevant, actionable, and evidence-based. The policy also includes measures for tracking progress and evaluating the effectiveness of the actions, with a focus on reducing emissions, reducing climate risk, and delivering wider social, environmental, and economic benefits. The policy also emphasizes the importance of community involvement and stakeholder engagement in finding solutions to climate change.",
+          "quote": {
+            "content": "These principles assisted Council to address the important social, economic, and environmental challenges and develop the solutions that are required to meet the climate challenge. These guiding principles helped Council to develop actions to minimise climate impacts, build a resilient community, and protect the ecosystems that sustain us.",
+            "page": 6,
+            "source": "Knox-2021-climate-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It acknowledges the state of climate emergency and the necessity to reduce environmental impact and prepare for the effects of a changing climate. The document also recognizes the negative consequences of climate change, such as health issues, infrastructure damage, agricultural challenges, water scarcity, and biodiversity loss due to increased frequency and intensity of heatwaves and storms. The document further emphasizes the importance of reducing emissions and achieving a net-zero emissions target. It acknowledges that the Council's efforts alone will not be sufficient and that changes must occur at other levels of government, within the community, and by major business and industry.",
+          "quote": {
+            "content": "We are starting to see some of its effects and will continue to see an increase in warmer and drier conditions, which will have negative consequences for health, infrastructure, agriculture, water, and biodiversity.",
+            "page": 2,
+            "source": "Knox-2021-climate-response-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. While the documents acknowledge the state of climate emergency and the need for action, they do not use language that conveys a sense of urgency or immediacy. The policy outlines a 10-year plan (2021-2031) for managing greenhouse gas emissions and responding to climate change, indicating a long-term approach rather than immediate, urgent action. The policy also emphasizes the importance of collaboration, inclusivity, and fairness in its actions, suggesting a measured and considered approach. Furthermore, the policy outlines a process of regular evaluation and revision, indicating an ongoing and adaptive approach to climate change response, rather than a rapid, urgent one."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate. The Climate Response Plan is outlined for a period of 10 years, from 2021 to 2031. The document also mentions that the plan will be evaluated at regular intervals, in line with emissions inventory reporting updates, or as new information on climate risks becomes available. This suggests a commitment to ongoing monitoring and adjustment of the plan as necessary. Furthermore, the document states that emissions in Knox are anticipated to be reduced by almost half of what they would otherwise be, by 2030. This indicates a specific timeframe for achieving significant emissions reductions. However, the document does not provide detailed timelines for each individual action within the plan."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The Climate Response Plan 2021-2031 developed by the Knox City Council outlines a comprehensive approach to addressing climate change, including setting ambitious goals, involving stakeholders, seeking fair solutions, delivering local benefits, proposing cost-effective actions, and reflecting best scientific practices. The plan includes specific actions such as community education programs, sustainable transport options, policy reviews, and infrastructure adaptations. However, while the plan clearly recognizes the urgency of addressing climate change and outlines a detailed response, it does not explicitly state that these actions should take precedence over other policy areas. The documents suggest that the climate response will be integrated into the council's overall policy framework and decision-making processes, rather than necessarily overriding other policy priorities."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive Climate Response Plan, including principles for action and specific initiatives, there is no explicit requirement stated that all council activities must align with this policy. The policy does mention that key Council policies will be reviewed to ensure climate change impacts are considered during decision making, and that a new section titled ‘Climate Change Considerations’ will be introduced in the Council report template. However, these measures do not necessarily equate to a mandate that all council activities must align with the climate policy. Therefore, the question cannot be answered in the affirmative based on the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Climate Response Plan does explicitly allocate funding for climate action. The plan outlines various actions to address climate change, including engaging with public sector service providers, developing financial impact analysis studies, identifying infrastructure requiring long-term adaptation measures, and undertaking feasibility studies. These actions are indicative of a financial commitment. Furthermore, the document provides specific monetary values for certain actions, such as 'Adapt and protect our buildings' and 'Climate Resilient Infrastructure', which are allocated $0.2m and $0.07m respectively. This explicit allocation of funds demonstrates a clear commitment to mobilising institutional resources for climate action. However, the document does not provide a comprehensive breakdown of the funding for all the actions listed, which could limit the transparency and accountability of the plan's implementation."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that the local government's climate response plan allocates staff or other non-monetary institutional resources to climate action. While the plan outlines various actions and strategies to address climate change, such as engaging with public sector service providers, developing financial impact analysis studies, and undertaking feasibility studies, it does not specify the allocation of staff or other non-monetary resources to these tasks. The documents mention budgets for individual actions and the use of existing resources, but these references are primarily financial and do not clearly indicate the mobilisation of non-monetary institutional resources."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a range of community education programs aimed at reducing emissions and adapting to the impacts of climate change. These include climate-sensitive planting, retrofitting homes and buildings for high performance, and accessing renewable energy. The policy also highlights the importance of community involvement in finding solutions to climate change, with the local government conducting face-to-face and online activities to incorporate community ideas and respond to their priorities. The policy also includes a commitment to making sustainable transport options more accessible and appealing, which can be seen as a way of mobilizing the community to take action on climate change.",
+          "quote": {
+            "content": "Making sustainable transport options more accessible and appealing, including enhancing cycle and walking paths, providing better links between transport mode, and advocating for more efficient public transport to the region. Providing community education programs on actions to reduce emissions.",
+            "page": 7,
+            "source": "Knox-2021-climate-response-plan.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Climate Response Plan 2021-2031 by Knox City Council indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of strategies, both technological and behavioural, to address climate change. Technological solutions include making sustainable transport options more accessible, enhancing cycle and walking paths, and advocating for more efficient public transport. The plan also includes the development of detailed financial impact analysis studies to support risk mitigation works linked to climate change. Behavioural changes are encouraged through community education programs on actions to reduce emissions. The plan also emphasizes the importance of engaging with public sector service providers and conducting an internal education process so that Council officers understand the future financial and infrastructure costs of not implementing climate change adaptations. The plan's actions are intended to be ambitious, inclusive, fair, relevant, actionable, and evidence-based, reflecting a comprehensive approach to mitigating greenhouse gas emissions.",
+          "quote": {
+            "content": "• Reviewing key Council policies to ensure climate change impacts are considered during decision making. • Providing community education programs on actions to reduce emissions. • Making sustainable transport options more accessible and appealing, including enhancing cycle and walking paths, providing better links between transport mode, and advocating for more efficient public transport to the region.",
+            "page": 7,
+            "source": "Knox-2021-climate-response-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's climate response plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to addressing climate change, with a focus on infrastructure, community health, and the natural environment. For infrastructure, the plan includes actions such as developing financial impact analysis studies for risk mitigation, identifying infrastructure requiring long-term adaptation measures, and upgrading drainage systems. For community health, the plan includes actions such as planning for service delivery during emergencies, identifying urban heat islands, and investing in urban cooling measures. For the natural environment, the plan includes actions such as developing a Biodiversity Resilience Plan and implementing a tree species selection model that considers climate change risk. The plan also includes a commitment to regular evaluation and revision in response to new information on climate risks.",
+          "quote": {
+            "content": "• Identifying infrastructure that may require long-term adaptation measures due to flood or fire risk, such as retreat or relocation. • Developing detailed financial impact analysis studies to access future external capital to support risk mitigation works linked to climate change.",
+            "page": 16,
+            "source": "Knox-2021-climate-response-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a comprehensive plan for addressing climate change, with a focus on evidence-based, actionable, and inclusive solutions. The policy outlines a range of actions, including community education programs, sustainable transport options, and infrastructure adaptations. The policy also emphasizes the importance of regular evaluation and revisions based on the best available data and changes in climate risks. The policy's targets and actions are informed by community consultation, reflecting the priorities and aspirations of the Knox community. The policy also acknowledges the need for actions at other levels of government and by major businesses and industries, recognizing that Council's efforts alone will not be sufficient to address climate change. Therefore, the document does provide well-sourced evidence to justify its climate targets and actions.",
+          "quote": {
+            "content": "Evidence-based: Reflect best practice scientific The actions included throughout the Climate Response Plan are intended to be: Ambitious: Set goals and implement actions that evolve towards an ambitious vision. Inclusive: Involve community, business, and other stakeholders in finding solutions. Fair: Seek solutions that equitably address the risks of climate change and share the costs and benefits of action across the community. Relevant: Deliver local benefits and support local development priorities. Actionable: Propose cost-effective actions that are realistic. Actionable: Propose cost-effective actions that are realistic.",
+            "page": 6,
+            "source": "Knox-2021-climate-response-plan.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's Climate Response Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines that the impact of the actions will be measured in terms of the reduction in emissions, the reduction in climate risk, and the delivery of wider social, environmental, and economic benefits. The plan also mentions the use of Monitoring, Evaluation, Review, and Learning (MERL) to track progress in achieving targets and measuring the effectiveness of programs. This approach allows for the optimization of programs and the redirection of the course if necessary. The plan also emphasizes the importance of transparency and verifiability, setting goals that can be measured, reported, and evaluated. Therefore, the plan does provide specific measurable criteria for evaluating its success.",
+          "quote": {
+            "content": "Tracking our progress and the indicators we use to determine if the action plan is effective will inform regular revisions of the Plan. The impact of the actions in this plan will be measured in terms of the reduction in emissions, the reduction in climate risk and the inclusive delivery of wider social, environmental, and economic benefits.",
+            "page": 20,
+            "source": "Knox-2021-climate-response-plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a Climate Response Plan that is evidence-based, reflecting best scientific practices and local understanding. The plan includes community engagement processes, where the local government conducted face-to-face and online activities to gather feedback from over 370 people. This feedback was then incorporated into the plan, indicating a research-based approach to inform climate actions. The plan also includes regular evaluations and revisions in line with emissions inventory reporting updates or as new information on climate risks becomes available. This suggests an ongoing commitment to research and data collection to inform the plan's implementation and effectiveness.",
+          "quote": {
+            "content": "Over 370 people provided feedback through pop-up events, a workshop, survey, or other online activity, providing a total of just over 3,000 comments and votes. An engagement process was developed to incorporate the ideas of the Knox community and respond to their priorities and aspirations about how we tackle climate change together. Between May and July 2021, Council conducted a range of face-to-face and online activities.",
+            "page": 7,
+            "source": "Knox-2021-climate-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's Climate Response Plan outlines a comprehensive approach to addressing climate change, with a focus on measurable outcomes, regular evaluations, and revisions based on new data and policy changes. The plan is ambitious, inclusive, fair, relevant, actionable, and evidence-based, indicating a willingness to experiment with different approaches and strategies. The plan also includes a variety of specific actions, such as providing community education programs, making sustainable transport options more accessible, reviewing key Council policies, and updating the Council report template. These actions demonstrate a commitment to innovation and experimentation in policy implementation. Furthermore, the plan's emphasis on community involvement and feedback suggests an openness to new ideas and approaches.",
+          "quote": {
+            "content": "• Evidence-based: Reflect best practice scientific The actions included throughout the Climate Response Plan are intended to be:\n• Ambitious: Set goals and implement actions that evolve towards an ambitious vision. • Inclusive: Involve community, business, and other stakeholders in finding solutions. • Fair: Seek solutions that equitably address the risks of climate change and share the costs and benefits of action across the community. • Relevant: Deliver local benefits and support local development priorities. • Actionable: Propose cost-effective actions that are realistic.",
+            "page": 6,
+            "source": "Knox-2021-climate-response-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 4,
+        "num_questions": 4,
+        "score": 1
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The document clearly indicates an intent to advocate upward to state and national governments to support climate action. The local government acknowledges the key roles that the State and Federal Government play in regulating and influencing sectors such as energy, transport, and the economy. The document outlines that the actions taken by these higher levels of government will influence the emissions trajectory within the City of Knox. The local government has identified key advocacy opportunities to help shape and advance necessary actions and to lend their voice to the groundswell of organizations within Victoria and the nation calling for greater action on climate change. They also plan to make a voluntary pledge to the State Government under the Climate Change Act.",
+          "quote": {
+            "content": "Council has identified some key advocacy opportunities to help shape and advance these necessary actions and to lend our voice to the groundswell of organisations within Victoria and the nation calling for greater action on climate change. The State and Federal Government have key roles in regulating and influencing the energy sector, transport, and the economy, and as such, actions taken by them will influence the emissions trajectory within the City of Knox.",
+            "page": 8,
+            "source": "Knox-2021-climate-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a range of actions that involve community education programs, sustainable transport options, and advocacy for efficient public transport. It also mentions the importance of involving community, business, and other stakeholders in finding solutions to climate change. The policy also highlights the role of advocacy, with the council identifying advocacy opportunities and estimating potential emissions savings. The council also plans to join the Cities Power Partnership, a free initiative designed to assist local government in transitioning to a net zero future. Furthermore, the policy acknowledges the need for changes at other levels of government, within the community, and by major business and industry, indicating a recognition of the need for wider collaboration and capacity building.",
+          "quote": {
+            "content": "• Making sustainable transport options more accessible and appealing, including enhancing cycle and walking paths, providing better links between transport mode, and advocating for more efficient public transport to the region. • Providing community education programs on actions to reduce emissions.",
+            "page": 7,
+            "source": "Knox-2021-climate-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government has identified advocacy opportunities and plans to join the Cities Power Partnership, a free initiative of The Climate Council, designed to assist local government around Australia to transition to a net zero future. The document also mentions that the Council has close ties with organizations working on climate change advocacy, such as the Eastern Alliance for Greenhouse Action (EAGA) and the Council Alliance for a Sustainable Built Environment (CASBE). These partnerships are intended to continue, indicating a commitment to collaboration and shared learning in addressing climate change.",
+          "quote": {
+            "content": "These partnerships will need to continue. Council already has close ties with some organisations working on climate change advocacy, such as the Eastern Alliance for Greenhouse Action (EAGA) and the Council Alliance for a Sustainable Built Environment (CASBE).",
+            "page": 8,
+            "source": "Knox-2021-climate-response-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change, particularly the increased frequency of heatwaves and storms, may exacerbate existing health sensitivities, accommodation stress, and isolation among vulnerable members of the community, including older people and people living with a disability. The document outlines specific actions to support these vulnerable populations, such as upfront planning for emergency events, identifying areas where urban heat islands intersect with vulnerable populations, and investing in urban cooling measures. These actions demonstrate a commitment to addressing the risks of climate change in an equitable manner, as they are designed to protect and support those who are most vulnerable to its impacts.",
+          "quote": {
+            "content": "The potential impacts of climate change, specifically increased frequency of heatwaves and storms, may exacerbate existing health sensitivities, accommodation stress, and isolation. This includes older people and people living with a disability.",
+            "page": 9,
+            "source": "Knox-2021-climate-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. It outlines a number of actions that are intended to be fair and seek solutions that equitably address the risks of climate change. These actions aim to share the costs and benefits of action across the community. The document also highlights the importance of supporting the health and well-being of vulnerable members of the community, including older people and people living with a disability. This is done through upfront planning, identifying areas where urban heat islands intersect with vulnerable populations, and prioritizing investment in urban cooling measures. The document also discusses the importance of involving the community, business, and other stakeholders in finding solutions, which suggests an intention to distribute opportunities equitably."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 16,
+    "num_questions": 20,
+    "attribute_score": 80
+  }
+}

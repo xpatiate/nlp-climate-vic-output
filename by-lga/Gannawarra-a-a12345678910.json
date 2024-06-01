@@ -1,0 +1,256 @@
+{
+  "settings": {
+    "source_files": [
+      "Gannawarra-2021-climate-policy.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T14:44:16.173669",
+    "lga": "Gannawarra"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The core purpose of the policy, as stated in the document, is indeed climate action. The policy is designed to provide the Council with a strategic framework for mitigating and adapting to climate change. This is achieved through a variety of strategies, including reducing environmental impacts and operating costs, transitioning to renewable energy, and achieving net zero emissions by specific target dates. The policy also aims to reduce community emissions and increase public engagement, education, and action on climate change. Furthermore, the policy outlines plans to respond to the risks of climate change to Council assets and services and assist the community in becoming more resilient to the effects of climate change. Therefore, it is clear that the primary goal of the policy is to address climate change through a variety of strategic actions."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. It acknowledges the scientific evidence and the risk that climate change presents to the community and the planet. The policy outlines the council's strategic framework for mitigating and adapting to climate change, with objectives such as reducing environmental impacts and operating costs, transitioning to 100% renewable energy, and achieving net zero emissions by certain deadlines. The policy also emphasizes the need for community engagement, education, and action to reduce emissions. Furthermore, it recognizes the vulnerability of the Gannawarra region to the adverse effects of climate change and the necessity for early measures to increase resilience. The policy also highlights the potential for the region to become a top renewable energy producing municipality by reducing greenhouse gas emissions and shifting to 100% renewables."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for 'rapid and urgent' action on climate change. While the policy outlines a strategic framework for mitigating and adapting to climate change, it does not use language that conveys a sense of urgency or immediacy. The policy includes plans for transitioning to 100% renewable energy and achieving net zero emissions by specific dates (2025 for corporate emissions and 2040 for landfill emissions), as well as reducing community emissions by 50% by 2030 and achieving net zero by 2040. However, these are long-term goals and the policy does not emphasize the need for immediate action. The policy also mentions the development of new procedures and resources, regular reviews of strategies and plans, and the integration of climate change adaptation and mitigation principles into existing policies and decision-making processes. Again, these actions are important but do not convey a sense of urgency."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The policy document does provide specific timeframes for its intended actions on climate change. It outlines a strategic framework for mitigating and adapting to climate change, with clear deadlines for achieving certain goals. For instance, the policy aims to transition to 100% renewable energy and achieve corporate net zero emissions by 2025. It also sets a goal for net zero emissions at the Landfill by 2040. Furthermore, the policy outlines actions to support the community towards achieving a 50% reduction in emissions by 2030 and achieve net zero by 2040. These specific timeframes indicate a sense of urgency in the policy's approach to addressing climate change. However, it is important to note that the success of these goals will depend on the implementation and enforcement of the strategies outlined in the policy."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the policy does outline a comprehensive approach to addressing climate change, including transitioning to 100% renewable energy, achieving net zero emissions, and supporting the community in reducing emissions, it does not explicitly prioritize these actions over other policies. The policy does emphasize the importance of integrating climate change adaptation and mitigation into existing policies and decision-making processes, and it also mentions the need for regular review of strategies, plans, policies, and procedures that may be affected by climate change. However, these statements do not necessarily imply that climate change response is to be prioritized above all other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the policy outlines a strategic framework for mitigating and adapting to climate change, and includes actions such as reducing emissions, transitioning to renewable energy, and integrating climate change principles into decision-making, it does not specifically mandate that all council activities must align with these climate change initiatives. The policy does emphasize the importance of integrating climate change considerations into decision-making and developing new procedures to address climate change, but it stops short of requiring all council activities to be in alignment with the policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The policy documents provided do not explicitly allocate funding for climate action. While the policy outlines a comprehensive plan for mitigating and adapting to climate change, including transitioning to 100% renewable energy, achieving net zero emissions, and undertaking actions to reduce community emissions, it does not specify any budget or funding allocation for these actions. The policy does mention seeking funding to continue to adapt to and mitigate climate change within council operations and services, and to undertake projects in partnership with the community. However, this does not constitute a clear allocation of funding for climate action. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that the local government's climate action plan allocates staff or other non-monetary institutional resources to climate action. While the policy outlines a range of actions and strategies to address climate change, including reducing emissions, transitioning to renewable energy, and integrating climate change principles into decision-making, it does not specify the allocation of staff or other non-monetary resources to these efforts. The policy does mention the need for leadership from Council and collaborative engagement from all sectors of the municipality, but it does not detail how institutional resources will be mobilized to achieve the policy's objectives."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The policy document does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a strategic framework for mitigating and adapting to climate change, which includes actions to reduce the community’s emissions by 50% by 2030 and achieve net zero by 2040. This is to be achieved by providing opportunities for public engagement, education, and action. The policy also mentions working with community sectors to facilitate action on climate change as relevant to their circumstances. Furthermore, the policy emphasizes the importance of collaborative engagement and support from all sectors of the municipality for the achievement of Council’s Climate Change objectives. Therefore, the policy does actively empower and educate the community to rally, support, and work productively together to deliver climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's climate policy indeed includes specific actions for the mitigation of greenhouse gas emissions. The policy outlines a clear commitment to transitioning to 100% renewable energy and achieving corporate net zero emissions by 2025, and net zero emissions at the Landfill by 2040. This indicates a technological approach to mitigation, likely involving the use of renewable energy technologies. The policy also includes actions to reduce the community’s emissions by 50% by 2030 and achieve net zero by 2040, which suggests initiatives to change behaviours and practices within the community. Furthermore, the policy mentions the integration of climate change adaptation and mitigation into existing policies and procedures, and the development of new procedures to address gaps. This suggests a comprehensive approach to mitigation that includes both technological solutions and behaviour change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a strategic framework for managing the council's response to climate change, using both adaptation and mitigation strategies. It also includes plans to undertake actions to reduce the community’s emissions and to respond to the risks of climate change to Council assets and services. The policy also mentions the council's commitment to assist the community in becoming more resilient to the effects of climate change. Furthermore, the policy includes plans to regularly review strategies, plans, policies, and procedures that may be affected by climate change, to ensure they remain current as the science develops. This indicates a proactive approach to climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of ambitious climate targets, such as transitioning to 100% renewable energy and achieving corporate net zero emissions by 2025, and net zero emissions at the Landfill by 2040, it does not provide specific evidence or data to support these targets. The policy also mentions a number of actions to be taken, such as applying the precautionary principle in a risk management framework, undertaking actions to reduce emissions, and responding to the risks of climate change. However, these actions are not backed by well-sourced evidence. The policy does not cite any scientific studies, data, or expert opinions to justify these actions or to demonstrate that they will effectively address the challenges of climate change. Therefore, while the policy is clearly committed to addressing climate change, it lacks the well-sourced evidence necessary to justify its specific targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's climate change policy does not provide specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines several actions and goals, such as transitioning to 100% renewable energy and achieving net zero emissions by certain dates, it does not specify how it will measure the success of these actions or what specific criteria it will use for evaluation. The policy mentions the commissioning of a strategy to identify opportunities for change and improve climate risk decision making, as well as the regular review of strategies, plans, policies, and procedures. However, these are general actions and do not provide specific, measurable criteria for success. Therefore, it is not clear how the local government will determine whether its actions are effective in achieving its climate change goals."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy outlines a strategic framework for mitigating and adapting to climate change, including transitioning to 100% renewable energy, achieving net zero emissions, and supporting the community towards a 50% reduction in emissions. It also mentions the development of new organisational procedures and resources to address climate change mitigation and adaptation gaps, and the regular review of strategies, plans, policies, and procedures affected by climate change. However, these actions do not explicitly involve conducting research in the local community. The policy does mention working with community sectors to facilitate action on climate change, but this does not necessarily imply conducting research."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The policy document does show evidence of innovation and policy experimentation in climate action. The local government is not only planning to transition to 100% renewable energy and achieve corporate net zero emissions by 2025, but also aims to achieve net zero emissions at the Landfill by 2040. This shows a commitment to innovative solutions in the energy sector. Furthermore, the policy outlines plans to commission a strategy to identify opportunities for the Council to effect change and improve climate risk in decision making across Council service areas. This suggests a willingness to experiment with different approaches to climate action. The policy also mentions the intention to embrace innovative and new technology to develop, promote and implement environmentally sustainable solutions that promote and support a circular economy. This further underscores the local government's commitment to innovation in its climate action policies.",
+          "quote": {
+            "content": "Embracing innovative and new technology to develop, promote and implement environmental sustainable solutions that promote and support a circular economy.",
+            "page": 1,
+            "source": "Gannawarra-2021-climate-policy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The provided documents do not show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy documents focus primarily on the local government's own strategies and actions to mitigate and adapt to climate change. These include reducing emissions, transitioning to renewable energy, integrating climate change principles into existing policies and procedures, and engaging the community in climate action. The documents also mention the intent to seek funding for climate change adaptation and mitigation within council operations and services, and to undertake projects in partnership with the community. However, there is no explicit mention of advocating to higher levels of government for climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the policy does mention actions such as reducing emissions, adapting to future climate scenarios, integrating climate change principles into existing policies, and developing new procedures to address climate change, it does not specifically mention building local capacity across different sectors. The policy also mentions working with community sectors to facilitate action on climate change, but it does not specify whether this includes neighbouring local councils. Therefore, without explicit mention or clear evidence, it cannot be affirmed that the policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. The policy outlines the local government's plans and actions to mitigate and adapt to climate change, including reducing emissions, transitioning to renewable energy, and integrating climate change principles into decision-making processes. It also mentions the intention to work with community sectors and seek funding for climate change projects. However, it does not specify any particular partnerships or collaborations with regional associations or alliances in these efforts. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the policy outlines a comprehensive approach to mitigating and adapting to climate change, including transitioning to renewable energy, reducing emissions, and increasing community resilience, it does not specifically address how these actions will impact or benefit vulnerable communities. The policy does mention the need to 'assist the community to be more resilient to the effects of climate change' and to 'facilitate action on climate change as relevant to their circumstances', but it does not elaborate on what these communities are or how they are specifically affected by climate change. Therefore, the policy does not provide clear evidence to answer the question in the affirmative."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While the policy outlines various strategies for mitigating and adapting to climate change, such as transitioning to 100% renewable energy, reducing emissions, and increasing community resilience, it does not specifically address the issue of equity and social justice in the distribution of these benefits and opportunities. The policy does mention engaging the community and working with community sectors, but it does not detail how it will ensure that the benefits and opportunities are shared equitably among different groups within the community."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 7,
+    "num_questions": 20,
+    "attribute_score": 47.5
+  }
+}

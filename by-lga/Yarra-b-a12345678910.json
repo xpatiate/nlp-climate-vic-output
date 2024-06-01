@@ -1,0 +1,299 @@
+{
+  "settings": {
+    "source_files": [
+      "Yarra-2020-climate-emergency.pdf",
+      "Yarra-2020-climate-emergency-plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-14T15:48:07.951767",
+    "lga": "Yarra"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy's core purpose is indeed climate action. The policy outlines a comprehensive plan to address the climate emergency, with a focus on mobilizing the community, accelerating renewable energy, creating a climate-adapted city, transitioning to zero emissions transport, and moving towards zero waste. The policy also includes specific actions such as delivering a new climate program, committing substantial grant funds to stimulate community-driven climate action, and upgrading homes to be more energy efficient and climate resilient. The policy aims to engage 10,000 people in Yarra to take action on the climate emergency by 2024. The policy also acknowledges the need for advocacy, with the council planning to partner with others in the community to jointly push for other levels of governments to respond to the climate emergency at the scale and speed the crisis requires.",
+          "quote": {
+            "content": "The objectives of our Climate Emergency  \nPlan are to:\n• Achieve zero-net emissions across the entire \nYarra community by 2030, and accelerate the \nremoval of excess carbon emissions\n• Enable our community to take effective climate \naction — pushing",
+            "page": 26,
+            "source": "Yarra-2020-climate-emergency-plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the climate emergency as a significant threat to all life on the planet, with the earth already being too hot due to human activities. The documents underscore the harmful impacts of climate change, including widespread and continuing droughts, frequent floods, heatwaves, and bushfires. They also emphasize the social equity aspect, noting that the most vulnerable people, who have typically made the least contribution to the problem, often have less capacity to respond and cope with the impacts. The documents further stress the need for collective action across all levels of government, businesses, and the community to effectively respond to the climate emergency. They also highlight the community's desire for climate action, with surveys showing that climate change is a leading worry for Australians.",
+          "quote": {
+            "content": "This heating is having harmful impacts on people, plants and animals. The science tells us that the earth has heated, and is continuing to heat, as a result of human activity.",
+            "page": 3,
+            "source": "Yarra-2020-climate-emergency.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. They emphasize the need for 'transformational change' across society and economy to reduce carbon emissions and adapt to a hotter planet. The documents also highlight the need for large-scale action across all levels of government, businesses, and the community. The term 'emergency speed and scale' is used to describe the pace and magnitude of the required response. The documents also stress that incremental change or a business-as-usual response is not adequate to address the climate emergency. The documents further underscore the need for urgent intervention, stating that the current level of planetary heating has reached an emergency condition.",
+          "quote": {
+            "content": "Transformational change is needed across our society and economy to rapidly reduce carbon emissions and drawdowna emissions from the atmosphere in order to restore a safe climate.",
+            "page": 4,
+            "source": "Yarra-2020-climate-emergency-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents outline various strategic priorities and actions related to climate change, such as accelerating renewable energy, creating a climate-adapted city, and transitioning to zero emissions transport, they do not provide explicit deadlines or schedules for these actions. The documents emphasize the urgency of the climate emergency and the need for large-scale action, but they do not specify when these actions will be initiated or completed. Therefore, it is not possible to affirm that the policy provides specific timeframes for its climate-related actions."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing the climate emergency, they do not explicitly rank this commitment in relation to other policy areas. The documents detail various strategic priorities, including mobilising the community, accelerating renewable energy, creating a climate-adapted city, transitioning to zero emissions transport, and moving towards zero waste. However, these are presented as components of the climate emergency response, rather than as separate policy areas that could be ranked in terms of priority. The documents also mention the need to embed climate emergency considerations across Council’s strategies, policies and decision-making processes, but this is about integration rather than prioritisation."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents do indicate that the council's activities should be aligned with climate policy. The policy outlines strategic priorities that include embedding climate resilience into council strategies, policies, and decision-making processes. This includes ensuring new and updated policies, plans, and strategies consider climate-related risks and plan for climate resilience. The policy also mentions the need to incorporate climate adaptation considerations into future Asset Management Plans and associated Project Implementation Plans for Council assets. Furthermore, the policy emphasizes the need to operate as a carbon-neutral organization, rapidly reducing carbon emissions from their own operations. This suggests that all council activities should be aligned with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Yarra Climate Emergency Plan 2020-2024 does explicitly allocate funding for climate action. The plan outlines a number of actions to be taken in response to the climate emergency, many of which are associated with specific funding commitments. For instance, the plan commits to dedicating a substantial pool of community grant funds to accelerate community-led climate action. It also mentions the allocation of funds for the implementation of new initiatives and the expansion of existing ones. However, it should be noted that the plan also indicates that some actions will be delivered within existing resources or with a modest increase in resources, and that full costed project proposals and schedules will be prepared at a later time and be subject to future budget approval processes. Therefore, while the plan does allocate funding for climate action, the specifics of this funding are not always clearly defined."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate emergency plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines a variety of actions that involve the mobilisation of existing resources and staff to address climate change. For instance, the plan mentions the delivery of community programs to accelerate climate action, which would require staff involvement. It also mentions the development of an Integrated Water Management Plan, which would require the use of existing institutional resources. Furthermore, the plan discusses the need to embed climate resilience into all of Yarra Council’s work and support staff to understand the climate emergency and to deliver climate responses as part of their roles. This indicates a clear allocation of staff resources towards climate action. However, it should be noted that while the plan does allocate resources, it also mentions that there are budget constraints due to the COVID-19 pandemic, which may affect the extent of resource allocation."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy outlines a comprehensive plan to mobilise and enable the community to respond to the climate emergency. This includes delivering community programs to accelerate climate action, such as workshops to increase people's knowledge of the climate crisis and provide skills for effective climate advocacy and action. The policy also includes plans to dedicate a substantial pool of community grant funds to accelerate community-led climate action. Furthermore, the policy outlines plans to support the most vulnerable in the community to prepare and cope with extreme climate impacts. This includes targeted communications and in-home support to older people, those who are unwell, have additional needs or are living in housing with poor environmental performance."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions are mentioned in the context of transitioning to a zero-emissions economy, with detailed plans for achieving 100% renewable energy and transforming transport, industrial, and agricultural systems. The plan also mentions the use of blue/green infrastructure solutions to mitigate flood, drought, and heat, and enhance habitat and green spaces. This includes tree planting, water-sensitive urban design, and investing in water harvesting, treatment, and irrigation for parks and gardens. Behaviour change is addressed through community programs aimed at accelerating climate action, including workshops to increase knowledge of the climate crisis and provide skills for effective climate advocacy and action. The plan also includes targeted communications and in-home support to vulnerable populations to prepare for and cope with extreme climate impacts.",
+          "quote": {
+            "content": "Science and research has identified the technical solutions needed to transition to a zero emissions economy and beyond.",
+            "page": 18,
+            "source": "Yarra-2020-climate-emergency.pdf",
+            "search_score": 0.91
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a range of strategies and actions to create a climate-adapted city. These include updating flood modelling to inform future flood overlays, ensuring climate resilience in parks and green spaces, and embedding climate resilience into Council’s strategies, policies, and decision-making processes. The plan also includes actions to enhance the urban forest to increase tree canopy cover, diversity, and climate resilience. Furthermore, the plan outlines the development of an Integrated Water Management Plan to enhance the city as a water-smart city, improving liveability, social, and economic outcomes of the community. The plan also mentions the use of blue/green infrastructure solutions to help mitigate flood, drought, heat, and enhance habitat and green spaces."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of strategic priorities and actions related to climate change, such as creating a climate-adapted city, accelerating renewable energy, and mobilising the community, they do not provide specific evidence or sources to justify these actions. The documents mention the use of robust, evidence-based work to identify areas of greatest opportunity to reduce emissions, but they do not provide details about this work or cite specific sources. Furthermore, the documents do not provide clear evidence to justify the specific targets set, such as achieving zero-net emissions across the entire Yarra community by 2030. Therefore, while the documents outline a comprehensive plan for addressing climate change, they do not meet the high standard of evidence and specific detail required to justify these targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The plan does include specific measurable criteria to evaluate the success of its proposed actions. It outlines a clear process for monitoring and reviewing the progress of the actions. The plan states that the local government will publicly report on key actions via annual corporate reporting and will communicate achievements through various communication channels. The actions within the plan will be reviewed and updated after two years. Furthermore, the local government will continue to annually monitor, analyse, and report on organisational carbon emissions, including maintaining carbon neutral certification. Emissions from the community will also be monitored as electricity and gas data becomes available. Levels of engagement through community climate programs will be monitored and evaluated via a range of means. This suggests a comprehensive approach to evaluating the success of the proposed actions.",
+          "quote": {
+            "content": "Emissions from the community will be monitored as electricity and gas data becomes available. The actions within the plan will be reviewed and updated after two years. Council will continue to annually monitor, analyse and report on organisational carbon emissions, including maintaining carbon neutral certification.",
+            "page": 29,
+            "source": "Yarra-2020-climate-emergency-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The documents outline a variety of actions and strategies to address climate change, including enhancing urban forests, facilitating a more climate-resilient city, and mobilising the community to take climate action. However, these actions appear to be based on existing knowledge and best practices, rather than new research conducted within the local community. The documents mention the use of updated flood modelling and the periodic updating of the planning scheme to ensure climate-related impacts are addressed, but these do not specifically involve conducting research in the local community. Therefore, the question cannot be answered in the affirmative based on the provided context."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The document does show evidence of innovation and policy experimentation in climate action. The local government has outlined a comprehensive plan to address climate change, which includes a variety of innovative strategies. For instance, the plan includes the development of an Integrated Water Management Plan to enhance the city as a water smart city, improving liveability, social and economic outcomes of the community. The plan also includes the use of integrated and water sensitive solutions to manage flood risk and enhance green spaces. Additionally, the plan outlines a 'community connectors' program to enable at least 200 people each year from across the community to take climate action in their communities. This program is innovative as it leverages the power of community to drive climate action. The plan also includes a commitment to substantial grant funds to stimulate community-driven climate action, which is an example of policy experimentation."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the various strategies and actions outlined in the policy documents. For instance, the local government plans to collaborate with others to advocate to state and federal governments to declare a climate emergency and take strong action commensurate with the scale and urgency of the emergency. They also plan to advocate for policy reform on key issues including renewable energy, buildings, waste, and transport. Furthermore, the local government intends to support the growth of the climate emergency movement by collaborating and sharing learnings with others to encourage more councils, organizations, and community groups to take climate action. These actions demonstrate a clear intent to influence higher levels of government to support and implement climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government is committed to building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a strategic approach to mobilise and enable the community to respond to the climate emergency. It emphasises the importance of collective action and the role of the council in bringing people together and enabling them to be active citizens creating change. The policy also highlights the council's role in partnering with others, including other councils and alliances, to scale up efforts and collectively push for change. The council plans to deliver community programs to accelerate climate action, including a 'community connectors' program to enable people to take climate action in their communities. The council also plans to advocate to other levels of government for stronger climate action, and to support the growth of the climate emergency movement by collaborating and sharing learnings with others.",
+          "quote": {
+            "content": "Yarra Council has a significant role to play in bringing people together and enabling them to be active citizens creating change. The sheer scale and complexity of the climate emergency challenge requires that we work together — the actions of individuals, particular institutions or sectors cannot solve it alone.",
+            "page": 30,
+            "source": "Yarra-2020-climate-emergency-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government is part of several alliances and partnerships that aim to accelerate climate action. These include the Global Covenant of Mayors for Climate and Energy, which is the world's largest global alliance for city climate leadership. The Northern Alliance for Greenhouse Action (NAGA) is another partnership that the local government is part of, which includes nine local governments in Melbourne's north that deliver carbon reduction programs and advocacy across municipal borders. The Cities Power Partnership (CPP) is Australia's largest local government climate network, which shares information and builds connections to accelerate local action. Lastly, Resilient Melbourne is a collaboration between inner-Melbourne councils to handle climate-related disruptions.",
+          "quote": {
+            "content": "• Resilient Melbourne: a collaboration between \ninner-Melbourne councils to These include: \n• Global Covenant of Mayors for Climate and \nEnergy: the world’s largest global alliance for \ncity climate leadership, with over 10,000 \nparticipants promoting and supporting voluntary \naction to combat the climate emergency and \nmove to a low emissions, resilient society. • Northern Alliance for Greenhouse Action \n(NAGA): a partnership between nine local \ngovernments in Melbourne’s north that  \ndelivers carbon reduction programs and \nadvocacy across municipal borders. • Cities Power Partnership (CPP): Australia’s \nlargest local government climate network,  \nwith 115 participants sharing information  \nand building connections in order to accelerate \nlocal action.",
+            "page": 22,
+            "source": "Yarra-2020-climate-emergency-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. They highlight that the climate emergency will disproportionately affect the most vulnerable people in communities, who often have less capacity to respond and cope with the impacts. These vulnerable groups include those living on low incomes, the aged and very young, people who are chronically ill, Indigenous people, people experiencing homelessness, and those from culturally and linguistically diverse backgrounds. The documents also outline planned actions to support these communities, such as targeted communications and in-home support, adapting heatwave and other climate risk messages, and building the capacity of community organisations to prepare for and respond to climate-related impacts. Furthermore, the documents mention the allocation of community grant funds to accelerate community-led climate action, with emphasis on projects that support the most vulnerable in the community to cope with climate impacts.",
+          "quote": {
+            "content": "The people who are unfairly impacted are typically those living on low incomes, the aged and very young, people who are chronically ill, Indigenous people, people experiencing homelessness, and those from culturally and linguistically diverse backgrounds. Both globally and locally, the climate emergency will disproportionately impact the most vulnerable people in our communities who often have far less capacity to respond and cope with the impacts.",
+            "page": 9,
+            "source": "Yarra-2020-climate-emergency-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The documents do discuss the equitable sharing of benefits and opportunities of a safe climate, although the specifics of how this will be achieved are not fully detailed. The policy acknowledges the need for a fair and socially equitable transition to a safe climate, recognizing that the most vulnerable people often have the least capacity to respond and cope with climate impacts. The policy also outlines plans to support the most vulnerable in the community to prepare for and cope with extreme climate impacts, including heatwaves, storms, floods, transport disruptions, and power outages. This includes targeted communications and in-home support to older people, those who are unwell, have additional needs, or are living in housing with poor environmental performance. However, the policy does not provide specific details on how the benefits and opportunities of a safe climate will be equitably shared among all community members."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 16,
+    "num_questions": 20,
+    "attribute_score": 85
+  }
+}

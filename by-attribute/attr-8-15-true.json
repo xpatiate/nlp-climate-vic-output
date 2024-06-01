@@ -1,0 +1,790 @@
+{
+  "attribute": 9,
+  "question": 15,
+  "finding": true,
+  "num": 82,
+  "responses": [
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's Climate Action Plan outlines a comprehensive approach to reducing greenhouse gas emissions, with a target of achieving net zero emissions from Council operations by July 2023. The plan includes a range of innovative strategies, such as the implementation of the State Government Recycling Victoria Policy, which includes kerbside Food Organics and Garden Organics (FOGO) collection to minimise GHG emissions from municipal organics going to landfill. The plan also mentions the development of a Climate Adaptation and Resilience Plan to ensure Council assets, and the community, are climate ready by addressing the consequences and impacts of changing weather patterns. Furthermore, the Council is considering the feasibility of including micro-grids in Planning and Amenity policies, which could enhance bushfire resilience. These initiatives demonstrate a willingness to experiment with new approaches and technologies to address climate change.",
+      "source": "Alpine-a-a12345678910.json",
+      "lga": "Alpine",
+      "quote": {
+        "content": "This will involve a risk assessment to identify and assess the impacts and prioritise actions to \nmanage these risks. A Climate Adaptation and Resilience Plan will be developed to address these threats of a \nchanging climate to Council’s assets, community townships and the municipality as a whole.",
+        "page": 22,
+        "source": "Alpine-2021-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's Climate Action Plan outlines a comprehensive approach to reducing greenhouse gas emissions, with a target of achieving net zero emissions from Council operations by July 2023. The plan includes a range of innovative strategies, such as the implementation of the State Government Recycling Victoria Policy, which includes kerbside Food Organics and Garden Organics (FOGO) collection to minimise GHG emissions from municipal organics going to landfill. The plan also mentions the development of a Climate Adaptation and Resilience Plan to ensure Council assets, and the community, are climate ready by addressing the consequences and impacts of changing weather patterns. Furthermore, the Council is considering the feasibility of including micro-grids in Planning and Amenity policies, which could enhance bushfire resilience. These initiatives demonstrate a willingness to experiment with different approaches to climate action, suggesting a commitment to innovation.",
+      "source": "Alpine-b-a12345678910.json",
+      "lga": "Alpine",
+      "quote": {
+        "content": "Additional initiatives to assist the community in reducing their GHG emission impact will include:\n• \nImplementation of the State Government Recycling Victoria Policy, including kerbside \nFood Organics and Garden Organics (FOGO) collection to minimise GHG emissions from \nmunicipal organics going to landfill;\n• \nCouncil will seek to improve community knowledge through initiatives and education \nactivities covering, for example: \n• \nCanopy trees in gardens\n• \nESD workshops and incentives\n• \nWaste minimisation\n• \nKerbside FOGO Waste collection\n• \nRenewable energy programs",
+        "page": 21,
+        "source": "Alpine-2021-climate-action-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does show evidence of innovation and policy experimentation in climate action. The local government has outlined a comprehensive plan for climate action, which includes a variety of innovative strategies. For instance, the plan includes the establishment of a Climate Action Steering Committee to guide the implementation of new climate action projects and foster collaboration across different departments. This suggests an innovative approach to policy implementation, which involves a high level of interdepartmental collaboration. The plan also includes a technical approach that prioritizes emergency scale response and a staged approach to actions. This indicates a willingness to experiment with different strategies and approaches to achieve the desired outcomes. Furthermore, the plan includes a commitment to fostering a culture of climate action within the Council, which suggests an innovative approach to embedding climate action in the organization's culture.",
+      "source": "Banyule-a-a12345678910.json",
+      "lga": "Banyule",
+      "quote": {
+        "content": "Establish a Climate Action Steering Committee to guide implementation of new climate action projects and increase collaboration between lead departments.",
+        "page": 23,
+        "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The document does show evidence of innovation and policy experimentation in climate action. The local government has outlined a comprehensive plan for climate action, which includes a variety of innovative strategies. For instance, the plan includes the establishment of a Climate Action Steering Committee to guide the implementation of new climate action projects and foster collaboration across the organization. This suggests an innovative approach to policy implementation, as it involves multiple departments and stakeholders in the process. The plan also includes a Monitoring, Evaluation, Reporting and Improvement (MERI) framework, which will allow the government to track the effectiveness of their actions and identify areas for improvement. This shows a commitment to continuous improvement and policy experimentation, as it allows for the adjustment and refinement of strategies based on their performance. Furthermore, the plan includes a range of specific actions, such as the implementation of a cultural change program and the development of zero net emissions buildings, which suggest a willingness to experiment with new and innovative approaches to climate action.",
+      "source": "Banyule-b-a12345678910.json",
+      "lga": "Banyule",
+      "quote": {
+        "content": "A monitoring, evaluation, reporting and improvement (MERI) framework will provide the basis for us to understand how we are tracking against our ambitious zero net emissions target.",
+        "page": 38,
+        "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Climate Change Action Plan 2020 - 2030 demonstrates evidence of innovation and policy experimentation in climate action. The policy outlines a comprehensive approach to climate change, incorporating both mitigation and adaptation strategies. The plan was developed through an extensive technical and consultation process, which included engagement, emissions analysis, and adaptation planning. The policy also shows a commitment to staying abreast of climate action trends and opportunities, and to integrate new ideas as the plan is updated. This indicates a willingness to experiment with new technologies and initiatives that may not yet be market-ready, such as kelp forests to sequester carbon, teal carbon, and hydrogen vehicles. The policy also includes a monitoring framework to ensure effective and efficient delivery of the plan, which could allow for adjustments and improvements over time. This suggests a level of flexibility and adaptability, which is crucial for innovation and policy experimentation.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "Through its extensive government, community and academic networks and partnerships, Council is committed to staying abreast of climate action trends and opportunities, and to integrate new ideas as this Plan is updated. A number of initiatives and technologies that are not quite market-ready were raised during the consultation processes for this Plan. Examples include kelp forests to sequester carbon, teal carbon and hydrogen vehicles.",
+        "page": 52,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The Climate Change Action Plan 2020 - 2030 does show evidence of innovation and policy experimentation in climate action. The policy outlines a comprehensive approach to climate action, which includes a detailed assessment process to ensure actions are technically feasible, economically beneficial, and socially desirable. The policy also demonstrates a commitment to staying abreast of climate action trends and opportunities, and to integrate new ideas as the plan is updated. This suggests a willingness to experiment with new approaches and technologies as they become available. The policy also includes a monitoring framework to evaluate the effectiveness of actions and their implementation, which could provide opportunities for learning and innovation. However, the policy does not provide specific examples of innovative or experimental actions, which would have provided stronger evidence of this aspect.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "Through its extensive government, community and academic networks and partnerships, Council is committed to staying abreast of climate action trends and opportunities, and to integrate new ideas as this Plan is updated.",
+        "page": 52,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has developed a comprehensive Climate Change Adaptation Framework and a Climate Emergency Plan, which outline a range of innovative actions and strategies to address climate change. These include the integration of climate change adaptation principles into relevant policies and strategies, the establishment of a Climate Emergency Citizens Assembly, and the implementation of a dedicated Community Grants Program for climate emergency initiatives. The government is also planning to undertake place-based research to understand the health risks and likely impacts of climate change on services and communities, and to redesign key streets to be walking and cycling friendly corridors with high levels of shade trees, vegetation, and water-sensitive design infrastructure. These actions demonstrate a commitment to policy experimentation and innovative approaches to climate action.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "*\nS\n3\nActively and directly, involve youth in climate leadership roles, projects and training through existing youth \nprograms and other opportunities. S\n2\nEstablish a dedicated Brimbank Community Grants Program climate emergency stream.",
+        "page": 24,
+        "source": "Brimbank-Climate-Emergency-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has developed a comprehensive Climate Change Adaptation Framework and a Climate Emergency Plan, which outline a range of innovative actions and strategies to address climate change. These include the integration of climate change adaptation principles into relevant policies and strategies, the establishment of a Climate Emergency Citizens Assembly, and the development of a dedicated community grants program for climate emergency initiatives. The government is also planning to participate in Sustainability Victoria’s Healthy Homes program to retrofit homes for better cooling capacity and energy savings. Furthermore, the government is considering the use of climate considerations in new drainage design in priority areas, with capacity to monitor and evaluate performance during flooding events. These actions demonstrate a willingness to experiment with new approaches and strategies to address the complex challenges posed by climate change.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "3\nActively and directly, involve youth in climate leadership roles, projects and training through existing youth \nprograms and other opportunities. 2\nEstablish a dedicated Brimbank Community Grants Program climate emergency stream.",
+        "page": 24,
+        "source": "Brimbank-Climate-Emergency-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government policy does show evidence of innovation and policy experimentation in climate action. The policy outlines a comprehensive approach to climate change, including both mitigation and adaptation strategies. It includes innovative actions such as the development of a Corporate Emissions Reduction Plan with target emission goals to reach net-zero emissions by 2035, and the promotion of sustainable and affordable energy options. The policy also emphasizes the importance of collaboration with other agencies, government departments, businesses, and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. Furthermore, the policy supports commercial and residential building owners to access finance for sustainability or climate adaptation upgrades to existing buildings. These actions demonstrate a willingness to experiment with different strategies and approaches to address the complex issue of climate change.",
+      "source": "Campaspe-a-a12345678910.json",
+      "lga": "Campaspe",
+      "quote": {
+        "content": "Support commercial and residential building owners to access finance (Environmental Upgrade Finance (EUF)) for sustainability or climate adaptation upgrades to existing commercial and residential buildings.",
+        "page": 21,
+        "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The local government policy demonstrates evidence of innovation and policy experimentation in climate action. The policy outlines a comprehensive approach to climate change, including both mitigation and adaptation strategies. It includes innovative actions such as the development of a Corporate Emissions Reduction Plan with target emission goals to reach net-zero emissions by 2035, and the promotion of sustainable and affordable energy options. The policy also shows a commitment to policy experimentation, with the council planning to lead by example in responding and adapting to climate change, and to support the community, business, and industry in responding to the impacts of a changing climate. The policy also includes plans to partner with other agencies, government departments, businesses, and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change.",
+      "source": "Campaspe-b-a12345678910.json",
+      "lga": "Campaspe",
+      "quote": {
+        "content": "Continue to partner with other agencies, government departments, businesses and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. Council chooses to: Lead by example in responding and adapting to climate change. Support community, business and industry to respond to the impacts of a changing climate. Adopt, support and promote sustainable and affordable energy options.",
+        "page": 21,
+        "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The City of Casey's Emissions Management Plan 2018-2022 outlines a strategic pathway for the city to invest in energy efficiency and renewable technology. The plan incorporates ambitious targets in line with a comprehensive investment action program prioritised on economic, environmental, and social benefits. The plan also aligns with the National Carbon Offset Standard (NCOS) and adopts science-based emission targets. The city has shown a strong commitment to reducing its corporate emissions through sound investment in energy efficiency and renewable energy technology. Over one hundred initiatives to reduce greenhouse gas emissions and associated energy costs will be incrementally implemented over the next four years through the plan. These initiatives include rooftop solar photovoltaic installations, building lighting efficiency improvement, heating ventilation and air conditioning (HVAC) upgrades and optimisation, water heating and equipment energy efficiency improvement, fleet vehicle fuel efficiency improvement and increased electric vehicle use, and high pressure sodium street light upgrades.",
+      "source": "Casey-a-a12345678910.json",
+      "lga": "Casey",
+      "quote": {
+        "content": "Over one hundred (100) initiatives to reduce greenhouse gas emissions and associated energy costs will be incrementally implemented over the next 4 years through the Plan.",
+        "page": 9,
+        "source": "Casey-2018-Emissions-Management-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The City of Casey's Emissions Management Plan 2018-2022 outlines a strategic pathway for the city to invest in energy efficiency and renewable technology, demonstrating a commitment to innovative approaches to climate action. The plan includes ambitious targets for emissions reduction and renewable energy, aligning with national and state policy contexts. The plan also outlines specific actions to achieve these targets, such as improving energy efficiencies, incorporating best practice in Ecological Sustainable Design (ESD) in all new builds and refurbishments, and investing in renewable energy technology. The plan also includes a commitment to communicate the outcomes and engage with stakeholders and the community, indicating a willingness to experiment with different approaches to climate action and learn from both successes and failures.",
+      "source": "Casey-b-a12345678910.json",
+      "lga": "Casey",
+      "quote": {
+        "content": "This approach maximises the greenhouse  \ngas emissions reduction achieved as well as  \nthe investment return through the energy  \nsavings gained.",
+        "page": 8,
+        "source": "Casey-2018-Emissions-Management-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan demonstrates evidence of innovation and policy experimentation in climate action. The policy outlines a variety of mitigation and adaptation strategies, including the installation of rooftop solar, upgrading to energy-efficient technologies, and preparing for climate-related disasters. The plan also includes a community-led project, Climate Conversation Week, which aims to raise awareness and foster community mobilisation around climate change. This initiative is innovative as it encourages community members to lead conversations in their homes, schools, or workplaces, and provides them with a conversation kit to facilitate these discussions. Furthermore, the policy outlines a plan to review and update procurement policy and procedures to strengthen environmental sustainability and circular economy outcomes. This shows a willingness to experiment with different policy approaches to achieve climate goals.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "Community members interested in leading a conversation in their homes, school, \nsporting club, or workplace will be provided with a conversation kit. Climate Conversation Week\nOur collaborative group is looking to lead a whole of community event involving \n‘kitchen-table’ style conversations around climate change.",
+        "page": 25,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan demonstrates evidence of innovation and policy experimentation in climate action. The policy outlines a variety of initiatives that are both innovative and experimental in nature. For instance, the policy includes a community-led project called 'Climate Conversation Week', which involves 'kitchen-table' style conversations around climate change. This initiative is designed to raise awareness, foster community mobilisation, and gather insights from the broader community, which will inform the ongoing implementation of the Climate Action Plan. Additionally, the policy outlines a plan to provide seed funding through an annual grants program to support community-led action. This approach encourages innovation and experimentation at the community level. Furthermore, the policy includes a plan to review and update procurement policy and procedures to strengthen environmental sustainability and circular economy outcomes, which is an innovative approach to integrating sustainability into procurement processes.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "The kit will contain \nall they need to bring together those around them to share climate stories, consider \nother perspectives, and think about what opportunities our community has to mitigate Climate Conversation Week\nOur collaborative group is looking to lead a whole of community event involving \n‘kitchen-table’ style conversations around climate change. Community members interested in leading a conversation in their homes, school, \nsporting club, or workplace will be provided with a conversation kit.",
+        "page": 25,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do show evidence of innovation and policy experimentation in climate action. The Darebin Climate Emergency Plan 2017-2022 and the draft plan for 2024-2030 both outline a comprehensive approach to addressing climate change, with a focus on fostering innovative solutions. The 2017-2022 plan emphasizes the need for 'emergency speed action' and the fostering of innovative solutions to respond to the climate emergency. It also mentions the possibility of updating the plan whenever necessary within the period, indicating a willingness to adapt and experiment with new strategies. The draft 2024-2030 plan continues this approach, with a focus on ambitious action, innovation, and strong community engagement. It also outlines a process for monitoring, evaluating, and reporting on the plan's actions, which could provide valuable feedback for future policy experimentation.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "We do not have all the answers; therefore, the plan also seeks to foster innovative solutions that respond to the Climate Emergency.",
+        "page": 6,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do show evidence of innovation and policy experimentation in climate action. The Darebin Climate Emergency Plan 2017-2022 and the draft plan for 2024-2030 both demonstrate a commitment to fostering innovative solutions to the climate emergency. The 2017-2022 plan explicitly states that it seeks to foster innovative solutions that respond to the Climate Emergency. It also outlines a commitment to annual reporting and revising the plan as new information, research, and results come to light. This suggests a willingness to experiment with different approaches and adapt based on their effectiveness. The draft 2024-2030 plan continues this commitment to innovation, with a focus on measuring progress and using a range of data to inform action. This data-driven approach is indicative of a commitment to evidence-based policy experimentation.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "We do not have all the answers; therefore, the plan also seeks to foster innovative solutions that respond to the Climate Emergency.",
+        "page": 6,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's policy document does show evidence of innovation and policy experimentation in climate action. The policy outlines a detailed implementation plan for the 2019-2023 period, focusing on energy and greenhouse emission reduction actions. It also mentions the exploration of emerging opportunities, indicating a willingness to adapt and innovate as new possibilities arise. The policy also includes actions such as working with developers to improve local development standards for optimum energy efficiency outcomes, and introducing an environmentally sustainable development tool for assessing planning permit applications. These actions suggest a proactive approach to climate action, incorporating innovative strategies and policy experimentation. The policy also mentions seeking partnerships and external funding, which could potentially lead to innovative collaborations and solutions.",
+      "source": "Frankston-a-a12345678910.json",
+      "lga": "Frankston",
+      "quote": {
+        "content": "Introduce an environmentally sustainable development (ESD) tool for assessing planning permit applications.",
+        "page": 31,
+        "source": "Frankston-2019-zero-emissions-plan.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The local government's policy, as outlined in the 'Towards Zero Emissions Plan 2019–2023', does show evidence of innovation and policy experimentation in climate action. The policy includes a detailed implementation plan that highlights the council's energy and greenhouse emission reduction actions over a four-year period. The plan covers a wide range of actions, including energy efficiency works, renewable energy actions, and partnerships for low carbon alternatives. The policy also indicates a willingness to adapt and expand upon these actions as new opportunities emerge. Furthermore, the policy demonstrates a commitment to collaboration and partnership, seeking external funding and advocating to the Federal and State Government on matters relating to greenhouse gas emissions and low carbon alternatives. This suggests a proactive and innovative approach to climate action.",
+      "source": "Frankston-b-a12345678910.json",
+      "lga": "Frankston",
+      "quote": {
+        "content": "A detailed Implementation Plan is outlined in Section 5 highlighting Council’s energy and greenhouse emission reduction actions over the 2019–2023 period.",
+        "page": 15,
+        "source": "Frankston-2019-zero-emissions-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The policy document does show evidence of innovation and policy experimentation in climate action. The local government is not only planning to transition to 100% renewable energy and achieve corporate net zero emissions by 2025, but also aims to achieve net zero emissions at the Landfill by 2040. This shows a commitment to innovative solutions in the energy sector. Furthermore, the policy outlines plans to commission a strategy to identify opportunities for the Council to effect change and improve climate risk in decision making across Council service areas. This suggests a willingness to experiment with different approaches to climate action. The policy also mentions the intention to embrace innovative and new technology to develop, promote and implement environmentally sustainable solutions that promote and support a circular economy. This further underscores the local government's commitment to innovation in its climate action policies.",
+      "source": "Gannawarra-a-a12345678910.json",
+      "lga": "Gannawarra",
+      "quote": {
+        "content": "Embracing innovative and new technology to develop, promote and implement environmental sustainable solutions that promote and support a circular economy.",
+        "page": 1,
+        "source": "Gannawarra-2021-climate-policy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The policy document does show evidence of innovation and policy experimentation in climate action. The local government is not only planning to transition to 100% renewable energy and achieve corporate net zero emissions by 2025, but also aims to achieve net zero emissions at the Landfill by 2040. This shows a commitment to innovative solutions in the energy sector. Furthermore, the policy outlines plans to commission a strategy to identify opportunities for the Council to effect change and improve climate risk in decision making across Council service areas. This suggests a willingness to experiment with different approaches to climate action. The policy also mentions the integration of climate change adaptation and mitigation principles into existing policies and procedures, indicating a comprehensive and innovative approach to climate action. Lastly, the policy mentions embracing innovative and new technology to develop, promote and implement environmentally sustainable solutions that support a circular economy, further demonstrating a commitment to innovation in climate action.",
+      "source": "Gannawarra-b-a12345678910.json",
+      "lga": "Gannawarra",
+      "quote": {
+        "content": "Embracing innovative and new technology to develop, promote and implement environmental sustainable solutions that promote and support a circular economy.",
+        "page": 1,
+        "source": "Gannawarra-2021-climate-policy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's strategy includes a flagship project that supports innovation and design thinking to identify new ways of working and programs that build community adaptive capacity. This approach indicates a willingness to experiment with new methods and policies to address climate change. The strategy also includes a commitment to assess climate risk and vulnerability across the municipality, which suggests a data-driven approach to policy development. Furthermore, the strategy emphasizes the importance of incorporating evidence-based and scenario planning into the Council's decision-making process, which suggests a commitment to informed, innovative action. The strategy also includes a commitment to transparency, with plans to report publicly on climate risks and vulnerabilities via the Global Covenant of Mayors.",
+      "source": "GreaterBendigo-a-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "Supporting innovation and design thinking to identify new ways of working and programs that build community adaptive capacity.",
+        "page": 19,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's strategy includes a flagship project that supports innovation and design thinking to identify new ways of working and programs that build community adaptive capacity. This suggests an openness to novel approaches and a willingness to experiment with different strategies to achieve sustainable outcomes. The strategy also includes a commitment to assessing climate risk and vulnerability across the municipality, which indicates a data-driven approach to policy development. Furthermore, the strategy is designed to be a 'living document', updated based on context, priorities, and resources, which suggests a commitment to iterative policy development and continuous improvement. The strategy also includes a commitment to transparency and engagement with the community in strategic planning and decision-making, which could facilitate innovative policy solutions by incorporating diverse perspectives and ideas.",
+      "source": "GreaterBendigo-b-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "Supporting innovation and design thinking to identify new ways of working and programs that build community adaptive capacity.",
+        "page": 19,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government is implementing a climate-conscious procurement policy for all city purchases, which is an innovative approach to ensure that all purchases are environmentally sustainable. They are also planning to direct funds away from projects that are not environmentally sustainable. The government is also working on a 10-year rolling annual plan to consider climate change risks in all community infrastructure decisions. This is a forward-thinking approach that shows a commitment to long-term planning and adaptation to climate change. The government is also planning to integrate climate change risk management into investment decisions and develop a financial risk disclosure statement. This is an innovative approach that recognizes the financial risks associated with climate change and seeks to mitigate them.",
+      "source": "GreaterGeelong-a-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "There were also calls for a climate-conscious procurement policy for all City purchases. Some respondents called for action to direct funds away from projects that are either not environmentally sustainable, or inhibit the City’s ability to adapt to climate change.",
+        "page": 18,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The Climate Change Response Plan shows evidence of innovation and policy experimentation in climate action. The plan outlines a variety of strategies and actions that demonstrate a commitment to innovative and experimental approaches. For instance, the plan includes the development of a climate-conscious procurement policy for all city purchases, which suggests an innovative approach to integrating climate considerations into everyday decision-making processes. The plan also outlines a commitment to direct funds away from projects that are not environmentally sustainable, indicating a willingness to experiment with new funding models. Furthermore, the plan includes a commitment to monitor, evaluate, and report on climate change adaptation readiness, which suggests an innovative approach to tracking progress and learning from experience. The plan also includes a commitment to integrate climate change risk management into investment decisions, which suggests an experimental approach to financial management. Finally, the plan includes a commitment to pursue financial divestment away from fossil-fuel-aligned investments, which is a clear example of policy experimentation.",
+      "source": "GreaterGeelong-b-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "• There were also calls for a climate-conscious procurement policy for all City purchases. • Some respondents called for action to direct funds away from projects that are either not environmentally sustainable, or inhibit the City’s ability to adapt to climate change.",
+        "page": 18,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's climate action plan includes a range of innovative strategies and actions. For instance, the plan outlines the intention to support local innovative climate change solutions, including funding for testing and trialing of local innovative solutions. This suggests a willingness to experiment with new approaches and technologies. The plan also includes actions to encourage and facilitate best practice sustainable and zero emission industrial development, which indicates a commitment to innovative practices in industry. Furthermore, the plan outlines a commitment to support the community to adopt electric vehicles and sustainable transport options, which is another example of policy experimentation. Overall, the documents suggest that the local government is taking an innovative and experimental approach to climate action.",
+      "source": "GreaterShepparton-a-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's policy outlines a variety of strategies and actions that demonstrate a commitment to innovative approaches. For instance, the policy includes plans to support local innovative climate change solutions, with funding for testing and trialing of local innovative solutions. This suggests a willingness to experiment with new approaches and technologies. The policy also emphasizes the importance of community involvement and knowledge sharing, which can foster innovation by encouraging diverse perspectives and ideas. Furthermore, the policy outlines plans to investigate mechanisms for community and business involvement in the action plan implementation, which could lead to innovative collaborations and partnerships. The policy also includes plans for advocating for greater climate action at federal and state levels, which could lead to innovative policy changes.",
+      "source": "GreaterShepparton-b-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government is considering a range of innovative approaches to address climate change. For instance, they are exploring the use of local renewable energy supplies, which was ranked as a top priority by survey participants. They are also considering the implementation of updated requirements for buildings to respond to climate change impacts. The documents also mention the development of a climate resilience plan for green spaces, which includes the use of rain gardens and shade trees. Furthermore, the local government is planning to work with indigenous groups on flood, fire, and storm mitigation practices, which is an innovative approach that leverages traditional knowledge. The documents also mention the development of a 'better prepared/know your neighbour' program to build local awareness and understanding of climate change impacts.",
+      "source": "Hepburn-a-a12345678910.json",
+      "lga": "Hepburn"
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government is considering a range of innovative approaches to address climate change. For instance, they are exploring the use of local renewable energy supplies, which was ranked as a top priority in a community survey. They are also considering new building innovations that prioritize practical solutions over fashionable ones, such as banning dark roofs that become heat banks. The government is also planning to implement a 'better prepared/know your neighbour' program to build stronger local awareness and understanding of climate change impacts. This program includes awareness-raising workshops, scenario planning for future disasters, and community BBQs at refuge centers. These initiatives demonstrate a willingness to experiment with different strategies and engage the community in climate action.",
+      "source": "Hepburn-b-a12345678910.json",
+      "lga": "Hepburn",
+      "quote": {
+        "content": "Taking actions such as updated requirements for buildings to respond to climate change, experts sharing knowledge, Council and community working together, and users paying for waste removal.",
+        "page": 124,
+        "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Hobsons Bay Response to Climate Change Action Plan 2030 demonstrates evidence of innovation and policy experimentation in climate action. The policy outlines a commitment to not only reduce emissions but also to protect health, wellbeing, and assets in a changing climate. It emphasizes the importance of data and the latest research in informing the actions of the Council. The policy also highlights the Council's readiness to monitor the emergence of new technologies and innovative approaches, taking a leadership role in their implementation to maximize benefits to the organization and the community. This suggests a willingness to experiment with new strategies and technologies in response to climate change. Furthermore, the policy outlines a range of actions, including the delivery of a cohesive and proactive overarching communications and engagement plan, providing advice services and programs, and seeking partnership and funding opportunities. These actions indicate a comprehensive and innovative approach to climate action.",
+      "source": "HobsonsBay-a-a12345678910.json",
+      "lga": "HobsonsBay",
+      "quote": {
+        "content": "The actions on the following pages have been informed by data and the latest research to maximise Council’s impact as well as to support and facilitate climate change response from our partners.",
+        "page": 14,
+        "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The Hobsons Bay Response to Climate Change Action Plan 2030 demonstrates a commitment to innovation and policy experimentation in climate action. The policy outlines a proactive approach to climate change, with a focus on both mitigation and adaptation strategies. The plan is informed by the latest research and data, indicating a commitment to evidence-based policy making. The policy also emphasizes the importance of monitoring emerging technologies and innovative approaches, suggesting a willingness to adapt and experiment with new strategies as they become available. The plan includes specific actions such as delivering a cohesive communications and engagement plan, providing advice services and programs, and seeking partnerships and funding opportunities. These actions suggest a comprehensive and innovative approach to climate action, involving a range of strategies and stakeholders.",
+      "source": "HobsonsBay-b-a12345678910.json",
+      "lga": "HobsonsBay"
+    },
+    {
+      "answer": "The Hume City Council Climate Action Plan 2023-2028 does show evidence of innovation and policy experimentation in climate action. The plan outlines a comprehensive approach to addressing climate change, including a commitment to rely on scientific evidence and projections, and to take a strategic and evidence-based approach to climate action. The plan also includes a commitment to innovate for leadership, suggesting a willingness to experiment with new and innovative policies and strategies. The plan also outlines a number of specific actions and initiatives, such as the fast adoption of electric vehicles, going off gas, and other areas where the council can create significant reductions in greenhouse emissions. The plan also includes a commitment to build the capacity of councillors and staff to apply the 'climate lens' in their roles, suggesting an innovative approach to integrating climate action across the organisation. The plan also includes a commitment to develop communication campaigns for residents to take well-informed climate action, suggesting a proactive and innovative approach to engaging the community in climate action.",
+      "source": "Hume-a-a5678910.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "Hume City Council will build the capacity of Councillors and staff to apply the climate lens in their roles so that climate action is integrated across the organisation, our decisions, strategies and plans and through our partnerships and service provision.\" \"Commitment: We will rely on scientific evidence and projections, a strategic and evidence-based approach to taking climate action and we’ll make well informed decisions to innovate for leadership.",
+        "page": 22,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Hume City Council Climate Action Plan 2023-2028 demonstrates a commitment to innovation and policy experimentation in climate action. The plan outlines a comprehensive approach to addressing climate change, including a commitment to rely on scientific evidence and projections, and to take a strategic and evidence-based approach to climate action. The plan also includes a commitment to make well-informed decisions and to innovate for leadership. The council has set a bold target of achieving carbon neutrality by 2030 for council operations, which is a significant undertaking due to the high emissions from the Sunbury landfill and the cost of offsets that will be required to be purchased annually to achieve carbon neutrality. The plan also includes an action to investigate bringing this target forward if the Sunbury Landfill is closed or changes ownership. This shows a willingness to experiment with different approaches and to adjust plans based on changing circumstances.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "The Plan includes an \naction to investigate \nbringing this target \nforward if the Sunbury \nLandfill�is�closed�or�\nchanges ownership.\" \"The Climate Action Plan \nsets a carbon neutral \ntarget by 2030 for Council \noperations which is both \nbold and achievable. The \ntarget�is�a�significant�\nundertaking for Council \ndue to the high emissions \nfrom�Sunbury�landfill�\nand the cost of offsets \nthat will be required to \nbe purchased annually to \nachieve carbon neutrality.",
+        "page": 58,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The Indigo Shire Council has developed a Climate Change Adaptation Action Plan, which includes a risk assessment, development of adaptation actions, and an implementation plan to prepare for climate change. The plan acknowledges climate change as both a challenge and an opportunity, and it cuts across all strategic focus areas, including leadership, managing the historical and built environment, growing the economy, and developing sustainable communities. The council has also adopted a Climate Emergency Strategic Action Plan, which sets strategic priorities for their climate emergency response, including integrating the climate emergency response into all council services and reviewing all policies, plans, and procedures through a climate emergency lens. These actions demonstrate a proactive and innovative approach to climate change adaptation and mitigation.",
+      "source": "Indigo-a-a12345678910.json",
+      "lga": "Indigo",
+      "quote": {
+        "content": "The Action Plan sets six strategic priorities to focus our climate emergency response, with more detailed actions to be developed and costed under each strategic priority.",
+        "page": 1,
+        "source": "Indigo-2020-climate-emergency-strategic-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The Indigo Shire Council has developed a Climate Change Adaptation Action Plan and a Climate Emergency Strategic Action Plan. These plans outline the council's approach to addressing climate change, including the identification of risks and the development of adaptation actions. The council has also committed to integrating climate change considerations into all operational and strategic policy and decision-making processes. This includes reviewing all policies, plans, and procedures through a 'climate emergency lens' and making any necessary changes to align with the Climate Change Policy and the Action Plan. The council has also committed to applying risk management processes to develop, implement, and monitor adaptation strategies and actions. This approach demonstrates a willingness to experiment with different strategies and to adapt these strategies as new knowledge and technology become available.",
+      "source": "Indigo-b-a12345678910.json",
+      "lga": "Indigo"
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The Kingston City Council's Climate and Ecological Emergency Response Plan outlines a comprehensive approach to climate action, which includes innovative strategies and policy experimentation. The plan includes a focus on emissions reductions, with a commitment to understanding current emissions and finding ways to accelerate reductions. The council is also working with Ironbark Sustainability on a Community Action Planning process, indicating a willingness to collaborate with external partners and experiment with new approaches. The plan also outlines a range of priority actions across different sectors, including low carbon living, future-proofing business and industry, sustainable transport, and council operations. These actions suggest a willingness to innovate and experiment with different strategies to achieve climate goals. Furthermore, the plan includes a commitment to monitoring, evaluation, review, and learning, which is a key aspect of policy experimentation. This approach allows for the assessment of the effectiveness of different strategies and the ability to adapt and change course as necessary.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "We now have a thorough understanding of how In early 2020, Kingston City Council began working with Ironbark Sustainability on a Community Action Planning process.",
+        "page": 10,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The Kingston City Council's Climate and Ecological Emergency Response Plan outlines a comprehensive approach to addressing climate change, with a focus on emissions reductions and the acceleration of existing community efforts. The plan includes a program of targeted monitoring, evaluation, review, and learning, indicating a commitment to ongoing improvement and adaptation. The council has also partnered with Ironbark Sustainability on a Community Action Planning process, demonstrating a willingness to collaborate with external experts. The plan outlines several priority areas for action, including supporting low carbon living, future-proofing business and industry, transitioning to sustainable transport, transforming council operations, and drawing down or capturing carbon from the atmosphere. Each of these areas includes specific actions, indicating a detailed and strategic approach to climate action. The plan also acknowledges the need for significant contributions from various sectors, including business, industry, residents, and government, demonstrating an understanding of the multi-faceted nature of climate action.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "We now have a thorough understanding of how In early 2020, Kingston City Council began working with Ironbark Sustainability on a Community Action Planning process.",
+        "page": 10,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's Climate Response Plan outlines a comprehensive approach to addressing climate change, with a focus on measurable outcomes, regular evaluations, and revisions based on new data and policy changes. The plan is ambitious, inclusive, fair, relevant, actionable, and evidence-based, indicating a willingness to experiment with different approaches and strategies. The plan also includes a variety of specific actions, such as providing community education programs, making sustainable transport options more accessible, reviewing key Council policies, and updating the Council report template. These actions demonstrate a commitment to innovation and experimentation in policy implementation. Furthermore, the plan's emphasis on community involvement and feedback suggests an openness to new ideas and approaches.",
+      "source": "Knox-a-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "• Evidence-based: Reflect best practice scientific The actions included throughout the Climate Response Plan are intended to be:\n• Ambitious: Set goals and implement actions that evolve towards an ambitious vision. • Inclusive: Involve community, business, and other stakeholders in finding solutions. • Fair: Seek solutions that equitably address the risks of climate change and share the costs and benefits of action across the community. • Relevant: Deliver local benefits and support local development priorities. • Actionable: Propose cost-effective actions that are realistic.",
+        "page": 6,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does show evidence of innovation and policy experimentation in climate action. The local government's Climate Response Plan outlines a comprehensive approach to addressing climate change, with a focus on measurable actions, regular evaluations, and revisions of the plan. The plan is ambitious, inclusive, fair, relevant, actionable, and evidence-based. It includes a variety of innovative actions such as providing community education programs on reducing emissions, making sustainable transport options more accessible, reviewing key Council policies to consider climate change impacts, and updating the Council report template to include a 'Climate Change Considerations' section. The plan also includes measures to engage with public sector service providers, develop financial impact analysis studies, and identify infrastructure requiring long-term adaptation measures. These actions demonstrate a willingness to experiment with different strategies and approaches to climate action.",
+      "source": "Knox-b-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "Evidence-based: Reflect best practice scientific The actions included throughout the Climate Response Plan are intended to be: Ambitious: Set goals and implement actions that evolve towards an ambitious vision. Inclusive: Involve community, business, and other stakeholders in finding solutions. Fair: Seek solutions that equitably address the risks of climate change and share the costs and benefits of action across the community. Relevant: Deliver local benefits and support local development priorities. Actionable: Propose cost-effective actions that are realistic. Actionable: Propose cost-effective actions that are realistic.",
+        "page": 6,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action by the local government. The policy 'Positioning Latrobe City for a Low Carbon Emissions Future' was adopted in 2010 and has been actively implemented since then. The policy was developed through a seven-stage process, including pre-work and planning, education and awareness programs, interactive workshops, draft policy positions, stakeholder consultation, finalisation of the policy position, and formulation of ongoing arrangements. This comprehensive approach indicates a high level of planning and informed action. The policy also includes a focus on pursuing and realising opportunities, indicating an innovative approach to transitioning to a low carbon emissions future. The policy was developed independently of the Australian Government, showing the local government's proactive approach and willingness to experiment with policy. The policy was also assessed against the Victorian Government’s White Paper on Climate Change and found to be relevant and complementary, further demonstrating the local government's commitment to informed and innovative climate action.",
+      "source": "Latrobe-a-a12345678910.json",
+      "lga": "Latrobe",
+      "quote": {
+        "content": "The Policy is underpinned by three themes: Pursuing and realising opportunities.",
+        "page": 5,
+        "source": "Latrobe-2014-low-carbon.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action by the local government. The policy was developed in a collaborative manner, involving various stages such as pre-work and planning, education and awareness programs, interactive workshops, draft policy positions, stakeholder consultation, finalisation of the policy position, and formulation of ongoing arrangements. This approach shows a commitment to engaging a wide range of stakeholders and ensuring that the policy is informed by diverse perspectives. The policy also demonstrates a proactive approach to climate action, as it was developed independently of the Australian Government's policy and was implemented even before any carbon emissions reduction legislation was passed. The policy is underpinned by three themes, one of which is 'Pursuing and realising opportunities', indicating a forward-thinking approach to the transition to a low carbon emissions future. The policy also includes specific actions, such as developing and nurturing partnerships with local stakeholders and interest groups, further demonstrating a commitment to innovation and experimentation in climate action.",
+      "source": "Latrobe-b-a12345678910.json",
+      "lga": "Latrobe",
+      "quote": {
+        "content": "In fact, collaboration was seen as the key in order to successfully address the challenges and opportunities presented by a proposed scheme and to enable an effective policy position to be developed.",
+        "page": 4,
+        "source": "Latrobe-2014-low-carbon.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Climate Change Action Plan does show evidence of innovation and policy experimentation in climate action. The policy outlines a variety of strategies to address climate change, including the development of localised community climate action plans, the promotion of climate change action to different sectors of the community, and the exploration of opportunities to provide information and deliver programs alongside existing community education programs. The policy also recommends the use of a partnership process for developing these localised plans, indicating a willingness to experiment with different approaches to climate action. Furthermore, the policy suggests the exploration of opportunities to work with existing community programs to extend outreach, and the encouragement of small scale community-based climate change projects through Council’s Community Funding Scheme. These strategies suggest a level of innovation and experimentation in the policy's approach to climate action.",
+      "source": "MacedonRanges-a-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "It is therefore recommended that Council develop and trial a partnership process for developing localised community climate action plans.",
+        "page": 50,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Climate Change Action Plan does show evidence of innovation and policy experimentation in climate action. The plan outlines a variety of strategies and initiatives to address climate change, demonstrating a willingness to explore different approaches and adapt to local contexts. For instance, the plan proposes the development of localised community climate action plans, which suggests a level of policy experimentation as it allows for different strategies to be trialled in different localities. The plan also includes a recommendation to extend existing support to community action on climate change, indicating a commitment to innovative partnerships and collaborations. Furthermore, the plan suggests exploring opportunities to work with existing community programs to extend outreach, which could be seen as an innovative approach to leveraging existing resources and networks for climate action. The plan also includes a cost-benefit analysis of initiatives, suggesting a data-driven approach to policy development and implementation.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "It is therefore recommended that Council develop and trial a partnership process for developing localised community climate action plans.",
+        "page": 50,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Mansfield Shire Council's Climate Action Plan does show evidence of innovation and policy experimentation in climate action. The plan outlines a comprehensive approach to reducing greenhouse gas emissions, both within the council's operations and throughout the community. It includes a variety of strategies, such as energy efficiency improvements in buildings, renewable energy generation, low emissions technology upgrades in buildings and fleet, renewable energy power purchase, and options for offsetting remaining emissions to achieve net zero emissions status. The plan also includes a commitment to engage with and support community climate action, demonstrating a willingness to experiment with different approaches and interventions. The council's commitment to sign up to 100% renewable electricity by 2025 through a power purchase agreement is a clear example of policy innovation. Furthermore, the plan's focus on sustainable transport infrastructure, including investment in cycling and walking infrastructure and advocacy for resources to implement linking bike paths and electric vehicle charging stations, shows a forward-thinking approach to climate action.",
+      "source": "Mansfield-a-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "This will be achieved through a power purchase agreement (PPA).",
+        "page": 21,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Mansfield Shire Council's Climate Action Plan does show evidence of innovation and policy experimentation in climate action. The plan outlines a comprehensive approach to reducing greenhouse gas emissions, both within the council's operations and throughout the community. It includes a variety of strategies, such as energy efficiency improvements in buildings, renewable energy generation, low emissions technology upgrades in buildings and fleet, renewable energy power purchase, and options for offsetting remaining emissions to achieve net zero emissions status. The plan also includes a commitment to engage with and support community climate action, demonstrating a willingness to experiment with different approaches and interventions. The council's commitment to sign up to 100% renewable electricity by 2025 through a power purchase agreement is a clear example of policy innovation. Furthermore, the plan's focus on sustainable transport infrastructure, including investment in cycling and walking infrastructure and advocacy for resources to implement linking bike paths and electric vehicle charging stations, shows a forward-thinking approach to climate action.",
+      "source": "Mansfield-b-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "This will be achieved through a power purchase agreement (PPA).",
+        "page": 21,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Maribyrnong City Council Climate Emergency Action Plan does show evidence of innovation and policy experimentation in climate action. The policy outlines a range of actions that demonstrate a commitment to exploring new and innovative approaches to addressing the climate emergency. For instance, the policy includes actions such as engaging with research institutes, innovative technology groups, and climate emergency strategists to ensure innovative and best practice climate response. It also plans to work with Traditional Owners and First Nations people to identify opportunities to collaborate on the climate emergency response. Furthermore, the policy outlines plans to investigate opportunities to increase targets for tree cover, green walls and roofs, vegetation, and permeable surfaces in new developments. These actions suggest a willingness to experiment with different strategies and approaches, and to learn from a range of different stakeholders, in order to effectively respond to the climate emergency.",
+      "source": "Maribyrnong-a-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The Maribyrnong City Council Climate Emergency Action Plan does show evidence of innovation and policy experimentation in climate action. The plan outlines a range of actions that demonstrate a commitment to exploring new and innovative approaches to addressing the climate emergency. For instance, the plan includes actions to engage with research institutes, innovative technology groups, and climate emergency strategists to ensure innovative and best practice climate response. It also includes actions to investigate opportunities to increase targets for tree cover, green walls and roofs, vegetation, and permeable surfaces in new developments. Furthermore, the plan outlines actions to develop and implement a community climate education plan and education programs for residents, businesses, and industry on a range of climate topics. These actions suggest a willingness to experiment with different strategies and approaches, and to learn from others in the field.",
+      "source": "Maribyrnong-b-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The document indeed shows evidence of innovation and policy experimentation in climate action. The local government has outlined a strategy that includes innovative approaches to climate change mitigation. This is seen in their commitment to take an 'innovative, evidence-based approach to prioritising actions' and to provide open data on emissions for urban researchers to develop new solutions. The policy also includes plans to participate in city networks to share knowledge and learn from innovative international projects. Furthermore, the document mentions the development and sharing of new energy-saving technologies, such as the installation of smart meters in buildings across the city and the trial of micro-turbines. The local government also collaborates with universities to launch an innovation precinct to test smart city technology. These actions demonstrate a commitment to innovation and policy experimentation in their approach to climate change.",
+      "source": "Melbourne-a-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "5.4 Participate in city networks to share knowledge and continue to co-lead the C40 Low Carbon Districts and Climate Positive forum to learn from innovative international projects. 5.3 Take an innovative, evidence-based approach to prioritising actions and open data on our emissions profile for urban researchers to develop new solutions.",
+        "page": 13,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has outlined a strategy that includes innovative approaches to climate change mitigation. This includes the use of technology to enable a smarter city, such as the installation of smart meters in buildings across the city and the trial of micro-turbines on the rooftop of Council House 2. The strategy also includes a commitment to knowledge sharing and transparency, with the local government participating in city networks to share knowledge and learn from innovative international projects. The government also plans to take an evidence-based approach to prioritising actions and will provide open data on emissions for urban researchers to develop new solutions. This suggests a willingness to experiment with different approaches and learn from others in the field of climate action.",
+      "source": "Melbourne-b-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "5.3   Take an innovative, evidence-based approach to prioritising actions and open data on our emissions profile for urban researchers to develop new solutions",
+        "page": 13,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Merri-bek Council's Zero Carbon Climate Emergency Action Plan demonstrates evidence of innovation and policy experimentation in climate action. The policy outlines a range of initiatives that are both innovative and experimental in nature. For instance, the council plans to undertake community mobilisation and advocacy campaigns to grow the social movement for climate emergency response within communities, businesses, and all levels of government. This involves communicating with Merri-bek’s diverse communities about the risks and impacts of climate and ecological breakdown, and fostering positive engagement in lifestyle change and community-level initiatives. The council also plans to facilitate residents to participate in and benefit from energy trading, directly incentivise EV uptake, and develop a project plan for a clean-tech incubator hub. These initiatives demonstrate a willingness to experiment with new approaches and technologies to address the climate emergency.",
+      "source": "Merribek-a-a12345678910.json",
+      "lga": "Merribek",
+      "quote": {
+        "content": "parking permit fee-waiver etc.",
+        "page": 23,
+        "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Merri-bek Council's Climate Emergency Action Plan does show evidence of innovation and policy experimentation in climate action. The plan outlines a variety of initiatives that demonstrate a willingness to explore new approaches and strategies. For instance, the council plans to engage university students in applied project work to develop creative engagement and campaigns to impact different audiences. This approach shows a willingness to leverage external resources and innovative thinking to address climate change. The council also plans to undertake community mobilisation and advocacy campaigns to grow the social movement for climate emergency response within communities, businesses, and all levels of government. This demonstrates a commitment to policy experimentation, as it involves mobilising various stakeholders in novel ways to address the climate emergency. Furthermore, the council is considering longer-term opportunities such as facilitating residents to participate in and benefit from energy trading, directly incentivising EV uptake, and developing a clean-tech incubator hub. These initiatives indicate a forward-thinking approach and a willingness to experiment with innovative policies and strategies.",
+      "source": "Merribek-b-a12345678910.json",
+      "lga": "Merribek"
+    },
+    {
+      "answer": "The Community Climate Response Plan 2024-2029 does show evidence of innovation and policy experimentation in climate action. The policy outlines a variety of actions across different sectors, including farming, urban environment, and education, which demonstrate a multi-faceted approach to addressing climate change. For instance, in the farming sector, the policy advocates for the promotion of alternative fuel sources, such as green hydrogen, indicating a willingness to explore and implement innovative solutions. Similarly, in the urban environment sector, the policy encourages sustainable transportation options, including biking, electric vehicles, and walking for short trips. This shows an experimental approach to policy-making, as it involves changing the behavior of residents. Furthermore, the policy emphasizes the importance of education in equipping the community with the skills needed to move towards a greener future, indicating a comprehensive and forward-thinking approach to climate action.",
+      "source": "Mildura-a-a12345678910.json",
+      "lga": "Mildura",
+      "quote": {
+        "content": "By offering high-quality education across the region, we can help people make smart decisions and bring about change.",
+        "page": 17,
+        "source": "Mildura-Community-Climate-Response-Plan-2024-2029.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Community Climate Response Plan 2024-2029 does show evidence of innovation and policy experimentation in climate action. The policy outlines a variety of actions across different sectors, including farming, urban environment, and natural environment, indicating a comprehensive and multi-faceted approach to climate action. For instance, in the farming sector, the policy advocates for the promotion of alternative fuel sources, such as green hydrogen, and seeks funding for transitioning in agriculture and transport. This suggests an innovative approach to reducing carbon emissions in these sectors. In the urban environment, the policy encourages residents to choose sustainable transportation options, such as public transport, biking, electric vehicles, or walking for short trips. This is an example of policy experimentation, as it involves changing individual behaviors and societal norms. Furthermore, the policy includes a 'Plant-a-tree fundraiser/community greening' initiative, which is a creative and community-oriented approach to enhancing the natural environment.",
+      "source": "Mildura-b-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has implemented a Corporate Emissions Reduction Plan 2018-2021, which focuses on reducing corporate emissions, a primary responsibility of the council. The plan includes actions such as continually reviewing progress annually and in detail every four years, reassessing priorities and actions considering new information, drivers, and trends. The council also plans to investigate the potential to reduce emissions from lighting shared with Vic Roads, and work with Powercor to change inefficient street lights to more efficient alternatives. The council has also introduced a kerbside organics service, which has resulted in 2700 tonnes of organic waste being processed into compost annually, reducing Council’s CO2-e by an estimated 800 tonnes per year. These actions demonstrate a commitment to innovation and policy experimentation in climate action.",
+      "source": "Moira-a-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has implemented a Corporate Emissions Reduction Plan 2018-2021, which focuses on reducing corporate emissions, a primary responsibility of the council. The plan includes actions such as continually reviewing progress, reassessing priorities and actions, and investigating the potential to reduce emissions from lighting. The council also plans to work with Powercor to change inefficient street lights to more efficient alternatives. Additionally, the council has implemented a kerbside organics service, which has resulted in 2700 tonnes of organic waste being processed into compost annually, reducing Council’s CO2-e by an estimated 800 tonnes per year. The council is also involved in a project reviewing councils’ fleet data to determine if some vehicles are suitable for replacement with electric vehicles. These actions demonstrate a commitment to innovation and policy experimentation in climate action.",
+      "source": "Moira-b-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's Zero Net Carbon Action Plan outlines a variety of strategies to reduce greenhouse gas emissions and achieve carbon neutrality. These include transitioning to renewable energy sources, implementing energy efficiency measures, and promoting sustainable practices. For instance, the plan includes actions such as sourcing recycled content and carbon-neutral paper, increasing the use of recycled content and lower GHG emission asphalt and concrete, and specifying energy efficiency standards for the purchase of energy equipment. The plan also mentions the development of a climate adaptation strategy to minimize the impacts of climate change. These actions demonstrate a willingness to experiment with different approaches and technologies to address climate change, indicating a level of innovation in their policy approach.",
+      "source": "Monash-a-a12345678910.json",
+      "lga": "Monash",
+      "quote": {
+        "content": "Some of these actions include:\n• \nParticipating in the Local Government Power Purchase Agreement for up to  \n100% renewable energy for all electricity use\n• \nMajor roads street lighting changeover to LED lights\n• \nMajor infrastructure upgrades of high energy usage sites, including our aquatic  \ncentres, to reduce energy use",
+        "page": 2,
+        "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's Zero Net Carbon Action Plan outlines a variety of strategies to reduce greenhouse gas emissions and achieve carbon neutrality. These strategies include transitioning to renewable energy sources, reducing paper use, and implementing energy efficiency measures in high energy usage sites. The plan also includes the development of a climate adaptation strategy to minimize the impacts of climate change, indicating a comprehensive and innovative approach to climate action. Furthermore, the plan outlines the need for community engagement and education, suggesting a holistic approach that involves not just policy and infrastructure changes, but also behavioral changes at the community level. The plan's focus on both mitigation and adaptation strategies, as well as its emphasis on community involvement, demonstrate a level of policy experimentation that goes beyond traditional approaches to climate action.",
+      "source": "Monash-b-a12345678910.json",
+      "lga": "Monash",
+      "quote": {
+        "content": "Develop a climate adaptation strategy to minimise the impacts of a changing climate.",
+        "page": 32,
+        "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has outlined a comprehensive plan to address climate change, including a variety of innovative strategies. For instance, the government plans to undertake mapping and analysis of urban heat island effects and determine appropriate mitigation options. This approach is innovative as it uses scientific methods to understand the local climate and develop targeted solutions. The government also plans to encourage community members to improve tree canopy cover, which is an example of a policy that leverages community involvement for climate action. Furthermore, the government is planning to develop an internal Council program to respond to the climate emergency, which shows a commitment to institutional change and policy experimentation. The government's approach to climate change is not only reactive but also proactive, as evidenced by their plans to assess their climate change adaptation performance using relevant external and industry monitoring, evaluation, and reporting frameworks and tools.",
+      "source": "MooneeValley-a-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has outlined a comprehensive action plan, the MV2040, which includes a variety of strategies to address climate change. These strategies range from mapping and analyzing urban heat island effects, to developing an internal council program to respond to climate emergencies. The plan also includes measures to encourage community members to improve tree canopy cover and educate them about urban heat island effect mapping. Furthermore, the government plans to assess its climate change adaptation performance using relevant external and industry monitoring, evaluation, and reporting frameworks. This suggests a willingness to experiment with different approaches and learn from best practices in the field. The plan also includes innovative measures such as advocating for a state-wide policy that encourages more green roofs on high-density developments, and demonstrating and promoting green infrastructure that provides an urban cooling effect.",
+      "source": "MooneeValley-b-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has developed an Advocacy Plan that is reviewed every two years to keep it relevant to current issues, technologies, and research, including the impacts of climate change. This plan aims to educate and assist community groups, residents, and other stakeholders to become effective advocates. The government also acknowledges the need for social and economic transformation driven by all levels of government and industry to stop climate change. The documents also mention the development of a 'Climate Change Adaptation Plan' to address health impacts related to climate change, and the integration of climate data into decision-making processes. Furthermore, the government is working on strengthening community action, raising community awareness, and fostering behavior change. These actions indicate a willingness to innovate and experiment with different approaches to address the climate emergency.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "The items listed in the tasks below are the starting point only. The Advocacy Plan will be reviewed every two years to keep it relevant to current issues, technologies and research, and inclusive of recent impacts of climate change.",
+        "page": 10,
+        "source": "Mornington-2020-climate-emergency-response-part2.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has developed an Advocacy Plan that is reviewed every two years to keep it relevant to current issues, technologies, and research, including the impacts of climate change. This plan aims to educate and assist community groups, residents, and other stakeholders to become effective advocates. The documents also mention the development of a 'Climate Change Adaptation Plan' to address the full range of climate-related health impacts. Furthermore, the local government is taking steps to incorporate climate data into decision-making processes, which is a significant challenge. They are also working on strengthening and integrating climate data into decision-making, especially within Action 19. These actions indicate a willingness to innovate and experiment with policy to address the climate emergency.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "The items listed in the tasks below are the starting point only. The Advocacy Plan will be reviewed every two years to keep it relevant to current issues, technologies and research, and inclusive of recent impacts of climate change.",
+        "page": 10,
+        "source": "Mornington-2020-climate-emergency-response-part2.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has developed a comprehensive Climate Action Plan that outlines a range of strategies and actions to address climate change. These include integrating climate change considerations into all operations, providing professional development training to planning staff about climate change ready developments, and ensuring climate change adaptation is fully considered in Council’s risk register and in project and contract management. The plan also includes actions to support community efforts to reduce carbon emissions and to encourage climate-aware choices by staff. Furthermore, the government has set an ambitious target to become carbon neutral by 2025, demonstrating a commitment to innovative and proactive climate action. The documents also show that the government is working in partnership with community groups, NGOs, businesses, and other stakeholders to manage the risks and impacts associated with climate change.",
+      "source": "MtAlexander-b-a12345678910.json",
+      "lga": "MtAlexander",
+      "quote": {
+        "content": "It \noutlines how Council will reduce its greenhouse \ngas emissions and move towards becoming \ncarbon neutral, while adapting its operations to the \nprojected weather conditions ahead. This Action Plan is about Council doing its part.",
+        "page": 1,
+        "source": "MtAlexander-2016-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has developed a comprehensive Climate Action Plan for 2022-2032, which includes a variety of strategies and plans, all incorporating a stronger climate lens. The plan is not static but is designed to be updated regularly, indicating a willingness to adapt and experiment with new approaches. The plan also includes a commitment to evaluate and report on its progress at regular intervals, which suggests an openness to learning and adjusting based on outcomes. The plan's development involved extensive research, consultation, and an independent climate change risk assessment, indicating a thorough and informed approach to policy development. The council has also undertaken innovative initiatives such as exploring the possibility of transforming the Edendale Community Environment Farm into a climate action hub. This suggests a creative approach to leveraging existing resources for climate action.",
+      "source": "Nillumbik-a-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "We’ll be exploring the possibility and will do what we can.",
+        "page": 24,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has developed a comprehensive Climate Action Plan for 2022-2032, which includes a variety of strategies and plans to address climate change. These include the Biodiversity Strategy, Housing Strategy, Integrated Transport Strategy, Heatwave Strategy, and Open Space Strategy. The government has also taken steps to incorporate a stronger climate lens into their work, indicating a commitment to innovative and experimental approaches. Additionally, the government has undertaken a physical climate change risk assessment to inform the development of the plan, demonstrating a data-driven approach to policy experimentation. The plan also includes the creation of a Climate Action Hub, which could provide more climate action education opportunities and incorporate climate-sensitive planting advice. This suggests a willingness to experiment with new methods of climate action.",
+      "source": "Nillumbik-b-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "This could include more climate action education opportunities for school groups and others, a new-look nursery which incorporates climate-sensitive planting advice, and - over time - as many other urban and rural climate mitigation and adaptation demonstrations and examples as we can manage. We’ll be exploring the possibility and will do what we can.",
+        "page": 24,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action by the local government. The Climate Change Response and Mitigation Action Plan outlines a variety of measures to address climate change, including the promotion of thermally protective building codes, insulation purchase and installation schemes, and the installation of water bottle filling stations. The plan also includes measures to increase tree planting to provide cooler spaces and to work with water authorities to improve water supply systems. The Heatwave Plan also shows evidence of policy experimentation, with the development of a register of vulnerable residents who will be contacted during a heatwave, and the implementation of policies for staff working in heat. These measures demonstrate a proactive and innovative approach to climate change mitigation and adaptation.",
+      "source": "Pyrenees-a-a12345678910.json",
+      "lga": "Pyrenees",
+      "quote": {
+        "content": "Examples of possible urban environment adaption measures include: Installation of water bottle filling stations and bubble taps; Promotion of thermally protective building codes; Promotion of insulation purchase and installation schemes; Increase of",
+        "page": 14,
+        "source": "Pyrenees-2020-heatwave-plan.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has adopted a Climate Change Response and Mitigation Action Plan, which includes a variety of measures to address climate change. These measures include the installation of water bottle filling stations and bubble taps, promotion of thermally protective building codes, and insulation purchase and installation schemes. The government is also planning to increase tree planting in towns to provide cooler spaces. Additionally, the government is considering funding for Electric Vehicle (EV) charging stations and is looking into waste to energy innovation and opportunities. The Heatwave Plan also shows a strategic approach to minimize the adverse effects of extreme heat related events on the community. These actions demonstrate a willingness to experiment with different strategies and technologies to mitigate the effects of climate change.",
+      "source": "Pyrenees-b-a12345678910.json",
+      "lga": "Pyrenees"
+    },
+    {
+      "answer": "The local government's Climate Emergency Response Plan 2021-2031 demonstrates evidence of innovation and policy experimentation in climate action. The policy outlines a comprehensive approach to addressing climate change, with a focus on community engagement, renewable energy, sustainable buildings, and sustainable transport. The plan also includes a commitment to align with the United Nations Sustainable Development Goals, indicating a global perspective on local actions. The policy also shows a commitment to monitoring and evaluation, with the development of a framework to measure the reduction in greenhouse gas emissions and assess the ongoing performance of the plan. The plan also includes a commitment to divest from institutions that operate or invest in fossil fuel companies, indicating a willingness to take bold steps to address climate change. The policy also includes a commitment to education and collaboration, with the development of a Climate Emergency Response Plan Community Hub to provide up-to-date information and education on the climate emergency.",
+      "source": "Queenscliffe-a-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "Council to support the community to develop a multi-platform (digital and physical), co-designed Climate Emergency Response Plan Community Hub.",
+        "page": 53,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does show evidence of innovation and policy experimentation in climate action. The local government's Climate Emergency Response Plan outlines a comprehensive and ambitious approach to addressing climate change, with a clear focus on community engagement and collaboration. The plan includes innovative strategies such as the development of a Climate Emergency Response Plan Community Hub, which is a multi-platform tool designed to provide up-to-date information, training, and education on the climate emergency. The plan also includes a commitment to divest from institutions that operate or invest in fossil fuel companies, which is a bold and progressive step. Furthermore, the plan's actions are grouped according to eight pillars, including renewable energy, sustainable buildings, and sustainable transport, indicating a holistic and multi-faceted approach to climate action. The plan also includes a Monitoring, Evaluation and Reporting Framework to measure the reduction in greenhouse gas emissions and assess the ongoing performance of the plan, demonstrating a commitment to evidence-based policy and continuous improvement.",
+      "source": "Queenscliffe-b-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "The Hub will be a crucial community engagement and communications tool that provides up-to-date information, training and education on the climate emergency - bringing the Climate Emergency Response Plan and each of its eight pillars to life. Council to support the community to develop a multi-platform (digital and physical), co-designed Climate Emergency Response Plan Community Hub.",
+        "page": 53,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 demonstrates evidence of innovation and policy experimentation in climate action. The plan outlines a range of actions that are designed to adapt to and mitigate the impacts of climate change. These include the modification of construction practices for road and council infrastructure, the facilitation of sustainable agricultural practices, the development of an Urban Forest and Open Space Assets Strategy, and the investigation of more dispersed and diversified tourism opportunities. Each action is accompanied by detailed information on relevant risks, timelines, action ownership, resources required, and Key Performance Indicators (KPIs). This level of detail suggests a comprehensive and innovative approach to climate action. The plan also includes the development of a repository of relevant information to support decision-making around infrastructure maintenance and development under climate change, and the use of digital technology to optimise asset management. These actions indicate a willingness to experiment with new approaches and technologies in the pursuit of climate action.",
+      "source": "SouthernGrampians-a-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 demonstrates evidence of innovation and policy experimentation in climate action. The plan outlines a range of actions that are designed to adapt to and mitigate the impacts of climate change. These include investigating modifications to construction practices for road and council infrastructure, facilitating sustainable agricultural practices, developing an Urban Forest and Open Space Assets Strategy, and investigating more dispersed and diversified tourism opportunities. Each action is accompanied by detailed information on relevant risks, timelines, action ownership, resources required, and Key Performance Indicators (KPIs). This level of detail suggests a comprehensive and innovative approach to climate action. The plan also includes the development of a repository of relevant information to support decision-making around infrastructure maintenance and development under climate change, and the use of digital technology to optimise asset management. These actions indicate a willingness to experiment with new approaches and technologies in the pursuit of climate action.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians",
+      "quote": {
+        "content": "Investigate more dispersed and diversified tourism opportunities",
+        "page": 32,
+        "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan does show evidence of innovation and policy experimentation in climate action. The plan outlines a variety of actions that demonstrate a commitment to exploring new and innovative solutions to climate change. For instance, the plan includes actions such as investigating local net zero emissions community energy solutions, including solar PV, wind power, and hydro. This shows a willingness to explore and potentially implement innovative energy solutions. The plan also includes actions aimed at sustainable transport, such as the inclusion of shaded areas in new development and precinct plans to enable active transport. This demonstrates an innovative approach to encouraging sustainable transport options. Furthermore, the plan includes actions to support farmers and landowners' access to programs such as the Victorian Carbon Farming Program, indicating a commitment to exploring innovative agricultural practices that can contribute to climate change mitigation.",
+      "source": "Strathbogie-a-a12345678910.json",
+      "lga": "Strathbogie"
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan does show evidence of innovation and policy experimentation in climate action. The policy outlines a variety of actions that demonstrate a commitment to exploring new and innovative solutions to climate change. For instance, the policy includes plans to investigate local net zero emissions community energy solutions, such as solar PV, wind power, and hydro. This shows a willingness to explore and potentially implement innovative energy solutions. Additionally, the policy includes plans to support farmers and landowners' access to regional and state government programs such as the Victorian Carbon Farming Program, which suggests an openness to experimenting with different approaches to carbon reduction. Furthermore, the policy includes a plan to develop fossil fuel divestment policy options, which indicates a willingness to consider innovative financial strategies to combat climate change.",
+      "source": "Strathbogie-b-a12345678910.json",
+      "lga": "Strathbogie"
+    },
+    {
+      "answer": "The Surf Coast Shire Council's Climate Emergency Response Plan 2021-2031 demonstrates evidence of innovation and policy experimentation in climate action. The plan is described as a 'living document' that will be reviewed regularly to respond to emerging climate projections and innovations. This suggests a willingness to adapt and experiment with new approaches as they become available. The plan also includes a range of actions that demonstrate innovative thinking. For example, the plan includes the establishment of a Climate Adapted Building demonstration site, the expansion of the Council's existing street tree program to mitigate urban heat impacts, and the integration of climate emergency considerations into all Council decision-making. The Council also plans to work in partnership with organisations like the Barwon South West Climate Alliance and Climate Emergency Australia, which suggests a commitment to collaborative innovation. Furthermore, the Council's commitment to supporting and facilitating community-led climate action indicates a recognition of the potential for innovation within the community.",
+      "source": "SurfCoast-a-a12345678910.json",
+      "lga": "SurfCoast",
+      "quote": {
+        "content": "A new action plan will be developed every two years, to enable us to respond to emerging climate projections, innovations and opportunities for our community and environment. This plan is a living document that will be reviewed regularly so we don’t lose focus of the challenges and new opportunities arising.",
+        "page": 4,
+        "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Surf Coast Shire Council's Climate Emergency Response Plan 2021-2031 does show evidence of innovation and policy experimentation in climate action. The plan outlines a range of actions that demonstrate a commitment to innovative approaches. For instance, the plan includes the establishment of a Climate Adapted Building demonstration site at a community facility or Emergency Relief Centre, which is an innovative approach to demonstrating climate adaptation in practice. The plan also includes the integration of climate emergency considerations into all Council decision-making, which is an innovative approach to ensuring that climate considerations are central to all aspects of Council operations. Furthermore, the plan includes a commitment to regularly review and update the plan in response to emerging climate projections and innovations, which demonstrates a commitment to policy experimentation and adaptation in response to new information and opportunities.",
+      "source": "SurfCoast-b-a12345678910.json",
+      "lga": "SurfCoast",
+      "quote": {
+        "content": "This plan is a living document that will be reviewed regularly so we don’t lose focus of the challenges and new opportunities arising.",
+        "page": 4,
+        "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has implemented a range of strategies to combat climate change and promote sustainability. These include the development of a Sustainable Building Policy for Council buildings, the inclusion of climate change considerations in all Council strategies and asset management plans, and the investigation of a target for the use of recycled material in works programs. The Council also plans to embed Climate Resilient Infrastructure checklists into relevant processes for designing and maintaining infrastructure. Furthermore, the Council has engaged the community in the development of these policies, as evidenced by the community survey and the formation of the Shape Wangaratta Panel. This suggests a willingness to experiment with different approaches and to innovate in response to the challenges posed by climate change.",
+      "source": "Wangaratta-a-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "Embed Climate Resilient Infrastructure checklists into relevant processes for designing and maintaining infrastructure (Once Sustainable Building Policy Completed) Investigate adopting a target for the use of recycled material in our works program. Develop and implement a Sustainable Building Policy for Council buildings.",
+        "page": 22,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's Climate Change Action Plan outlines a comprehensive approach to reducing emissions, with a specific target of a 30% reduction by 2020. The plan also identifies key climate change risks and assesses their impact on various city systems, demonstrating a holistic approach to climate action. The Victorian State Government's Climate Change Adaptation Plan also shows evidence of policy experimentation, with broad actions that include addressing risks to government operations, helping communities adapt, and embedding adaptation in core sectors. The plan also includes a partnership with local government, indicating a collaborative approach to climate action. The documents also mention the development of a Sustainable Building Design Policy and Guide, the implementation of green infrastructure, and the promotion of renewable energy, all of which are innovative strategies for climate action.",
+      "source": "Warrnambool-a-a12345678910.json",
+      "lga": "Warrnambool",
+      "quote": {
+        "content": "Council’s Climate Change Action Plan outlines how we will achieve our target of reducing Council’s emissions by 30 per cent by the year 2020 and we now need to look beyond this for future emissions reductions.",
+        "page": 10,
+        "source": "Warrnambool-Green-Warrnambool.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's Climate Change Action Plan outlines a comprehensive approach to reducing emissions, with a specific target of a 30% reduction by 2020. The plan also identifies key climate change risks and assesses their impact on various city systems, demonstrating a holistic approach to climate action. The Victorian State Government's Climate Change Adaptation Plan also shows evidence of innovation, with broad actions that include addressing risks to government operations, helping communities adapt, and embedding adaptation in core sectors. The plan also includes a partnership with local government, indicating a collaborative approach to climate action. The documents also mention the development of a Sustainable Building Design Policy and Guide, the implementation of green infrastructure such as street trees and green roofs, and the support for renewable energy projects, all of which are innovative strategies for climate action.",
+      "source": "Warrnambool-b-a12345678910.json",
+      "lga": "Warrnambool"
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has a Climate Response Plan 2023-2026 that includes a range of actions to address climate change. These actions are not only focused on mitigation and adaptation but also systemic actions that lay the foundations for change within the Council and its service to the community. For instance, the plan includes actions to integrate climate change and sustainability information across all areas of Council’s website and other communication platforms to increase visibility and understanding in the community. The plan also includes actions to facilitate the monitoring and reporting of Council’s strategic risk register to minimise vulnerability to climate risk. Furthermore, the plan includes actions to engage with tertiary education institutions and other groups to support and/or participate in relevant innovation initiatives and research opportunities. These actions indicate a willingness to experiment with new approaches and to learn from others in the field of climate action.",
+      "source": "Whitehorse-a-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "think tanks) to support and/or participate in relevant innovation initiatives and research opportunities.",
+        "page": 3,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has established a Climate Response Plan 2023-2026, which includes a range of actions to address climate change. These actions are not only focused on mitigation and adaptation but also systemic changes that lay the foundations for change within Council and its service to the community. The plan includes actions such as integrating climate change and sustainability information across all areas of Council’s website and other communication platforms, facilitating the monitoring and reporting of Council’s strategic risk register to minimise vulnerability to climate risk, and developing a climate response communication and training program for staff and Councillors. The plan also includes a commitment to engage with tertiary education institutions and other groups to support and/or participate in relevant innovation initiatives and research opportunities. This shows a willingness to experiment with new approaches and learn from others in the field of climate action.",
+      "source": "Whitehorse-b-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "think tanks) to support and/or participate in relevant innovation initiatives and research opportunities.",
+        "page": 3,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do show evidence of innovation and policy experimentation in climate action. The Wyndham City Council's Climate Change Adaptation Strategy outlines a number of innovative actions and projects designed to address climate change and its impacts. These include trialling urban heat mitigating actions within a council built carpark, investigating the benefits of urban cooling strategies, and engaging with the community on climate change. The strategy also includes a commitment to building knowledge of climate projections and the impacts of climate change, and to embedding climate change considerations into various processes and policies. This suggests a willingness to experiment with different approaches and to learn from these experiments in order to improve future actions. The strategy also includes a focus on monitoring and evaluation, which is crucial for learning from policy experimentation and for ensuring that actions are effective.",
+      "source": "Wyndham-a-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "We will embed actions and responses into our council processes, policies and planning scheme that are built on the evidence collected.",
+        "page": 8,
+        "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The Wyndham City Council's Climate Change Adaptation Strategy outlines a series of actions designed to address the impacts of climate change. These actions are not only reactive but also proactive, indicating a level of innovation in their approach. For instance, the strategy includes trialling urban heat mitigating actions within a council built carpark, investigating the benefits of urban cooling strategies, and engaging with the community on climate change. These actions suggest a willingness to experiment with different approaches and learn from these experiments to inform future policy and practice. The strategy also emphasizes the importance of building knowledge about climate projections and the impacts of climate change, which suggests a commitment to evidence-based policy making. Furthermore, the strategy outlines a process for monitoring and evaluating the effectiveness of these actions, which is a key aspect of policy experimentation.",
+      "source": "Wyndham-b-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "We will embed actions and responses into our council processes, policies and planning scheme that are built on the evidence collected.",
+        "page": 8,
+        "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The document does show evidence of innovation and policy experimentation in climate action. The local government has outlined a comprehensive plan to address climate change, which includes a variety of innovative strategies. For instance, the plan includes the development of an Integrated Water Management Plan to enhance the city as a water smart city, improving liveability, social and economic outcomes of the community. The plan also includes the use of integrated and water sensitive solutions to manage flood risk and enhance green spaces. Additionally, the plan outlines a 'community connectors' program to enable at least 200 people each year from across the community to take climate action in their communities. This program is innovative as it leverages the power of community to drive climate action. The plan also includes a commitment to substantial grant funds to stimulate community-driven climate action, which is an example of policy experimentation.",
+      "source": "Yarra-a-a12345678910.json",
+      "lga": "Yarra"
+    },
+    {
+      "answer": "The document does show evidence of innovation and policy experimentation in climate action. The local government has outlined a comprehensive plan to address climate change, which includes a variety of innovative strategies. For instance, the plan includes the development of an Integrated Water Management Plan to enhance the city as a water smart city, improving liveability, social and economic outcomes of the community. The plan also includes the use of integrated and water sensitive solutions to manage flood risk and enhance green spaces. Additionally, the plan outlines a 'community connectors' program to enable at least 200 people each year from across the community to take climate action in their communities. This program is innovative as it leverages the power of community to drive climate action. The plan also includes a commitment to substantial grant funds to stimulate community-driven climate action, which is an example of policy experimentation.",
+      "source": "Yarra-b-a12345678910.json",
+      "lga": "Yarra"
+    }
+  ]
+}

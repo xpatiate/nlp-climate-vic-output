@@ -1,0 +1,318 @@
+{
+  "settings": {
+    "source_files": [
+      "Boroondara-Climate-Action-Plan-Implementation_plan.pdf",
+      "Boroondara-Climate-Action-Plan.pdf",
+      "Boroondara-Community-Research-Report.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T13:28:32.555323",
+    "lga": "Boroondara"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy documents clearly indicate that climate action is the core purpose of the policy. The policy is designed to set the municipality on a path to meet specific climate action targets. These targets are aimed at mitigating and adapting to the effects of climate change. The policy includes a range of actions, some of which are ready to be implemented, while others require further planning and development. The policy also acknowledges that some actions will require commitments from partners or the wider availability of certain technologies. The policy is designed to be flexible, allowing for the implementation of actions when possible. The policy also includes a commitment to monitoring and reporting on progress towards achieving the climate action targets. This includes annual monitoring of greenhouse gas emissions, waste, recycling and FOGO data, tree planting and renewal, water use and harvesting, biodiversity actions, and workshops and community support programs.",
+          "quote": {
+            "content": "Other actions define how new or updated policy frameworks should be developed in order to allow us to meet our objectives and targets. The actions identified in this Climate Action Plan will set the municipality on a path to meet our targets. Some of these actions are ready to roll out, and some require more planning and development.",
+            "page": 11,
+            "source": "Boroondara-Climate-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents do explicitly explain the need for action on climate change. The Climate Action Plan is described as a plan to reduce the city's environmental footprint, indicating an understanding of the need to mitigate environmental impact. The community research report reveals that 89% of the community supports the development of a Climate Action Plan due to the perception that climate change is an urgent issue and action is required. The report also includes community feedback that calls for a sense of urgency, a declaration of a climate emergency, and the need for action to occur. The implementation plan outlines specific actions to be taken, such as offsetting corporate greenhouse gas emissions and purchasing 100% renewable energy for all Council sites, which further underscores the recognition of the need for action on climate change.",
+          "quote": {
+            "content": "This support is given due to the perception that climate change is an urgent issue and that action is required.",
+            "page": 2,
+            "source": "Boroondara-Community-Research-Report.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents do explicitly call for rapid and urgent action on climate change. The community's perception of climate change as an urgent issue is clearly stated, with strong support for the development of a Climate Action Plan. The documents also highlight the community's desire for more than just 'aspirational' targets, indicating a need for concrete, immediate actions. There are calls for the declaration of a climate emergency, which underscores the urgency of the situation. However, it is important to note that while the urgency is recognized, the documents also reveal concerns about the lack of specific timelines, budgets, and detailed plans for achieving the targets. This suggests that while there is a call for urgent action, there is also a demand for well-planned and strategic approaches to addressing climate change.",
+          "quote": {
+            "content": "A declaration of Climate Emergency.",
+            "page": 59,
+            "source": "Boroondara-Community-Research-Report.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for some of the intended actions on climate. For instance, the Climate Action Plan Implementation Plan 2023/24 and 2024/25 outlines several actions with timeframes. Action 1.12, for example, which aligns with the goal of Council being net carbon neutral, is marked as 'Ongoing'. Similarly, action 6.8, which aligns with several actions and supports the target to have 3,000 participants each year in sustainability workshops or education opportunities, is set for 2023/24 and 2024/25. However, it's important to note that while some actions have specific timeframes, others are marked as 'Ongoing', which could be seen as somewhat vague. Furthermore, the documents also indicate that some actions require more planning and development, suggesting that not all actions have a set timeframe yet."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do express a sense of urgency regarding climate change and the need for action, they do not specifically state that this should take precedence over all other policies. The documents do mention the need for a 'declaration of Climate Emergency' and the prioritisation of climate action in council actions. However, these statements do not necessarily imply that climate action should supersede all other policies. The documents also mention the need for specific targets, a timetable, and a budget for climate action, but again, these do not necessarily indicate that climate action should be prioritised above all other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents provide a detailed outline of the local government's Climate Action Plan, including specific actions and their alignment with the plan's objectives, there is no explicit requirement stated that all council activities must align with this policy. The documents do indicate that certain actions are aligned with the Climate Action Plan and that these actions support specific targets, such as emission reduction. However, this does not equate to a mandate that all council activities must adhere to the climate policy. It is also important to note that while the documents outline ongoing actions and future plans, they do not provide a comprehensive overview of all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents outline various actions and initiatives related to climate change, such as implementing sustainable building policies, advocating for climate action plan objectives, and providing community education on sustainability, they do not specify the allocation of funds towards these actions. The documents mention the development of the Climate Action Plan and its implementation, but they do not provide specific details about the budget or funding for these plans. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does allocate non-monetary institutional resources to climate action, specifically in the form of staff roles and responsibilities. The plan includes actions such as 'Embed climate action into staff roles and responsibilities and performance management' (Action 6.3) and 'Continue to engage an officer to increase community sustainability education and initiatives' (Action 6.8). These actions indicate that the local government is committing staff resources to the implementation of the climate action plan. The allocation of staff roles and responsibilities for climate action suggests that the local government is institutionalising climate action within its operations. This is a positive step as it ensures that climate action is not just a peripheral concern but is integrated into the core functions of the local government. However, the documents do not provide specific details on the number of staff allocated, the specific roles they will play, or the level of seniority of the staff involved.",
+          "quote": {
+            "content": "6.3 Embed climate action into staff roles and responsibilities and performance management.",
+            "page": 56,
+            "source": "Boroondara-Community-Research-Report.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is taking steps to empower and educate the community to work together on climate action. The Climate Action Plan Research Report and the Climate Action Plan: Implementation Plan 2023/24 and 2024/25 outline several initiatives aimed at engaging the community and supporting community action. These include community energy projects, improving energy efficiency, incentivising sustainable behaviour, and keeping the community informed and updated. The government also plans to provide the community with access to Climate Action Grants for new projects that strengthen the community’s capacity to reduce emissions. Furthermore, the government plans to deliver an expanded community education and advice program, and to engage an officer to increase community sustainability education and initiatives. These actions indicate a commitment to social mobilisation for climate action.",
+          "quote": {
+            "content": "\nKeep community informed and updated. \nHelp community improve energy efficiency. \nForce or incentivise sustainable behaviour.",
+            "page": 43,
+            "source": "Boroondara-Community-Research-Report.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Climate Action Plan of the City of Boroondara does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of actions, some of which are ready to be implemented, while others require further planning and development. These actions are designed to meet the municipality's objectives and targets, and have been identified as achievable priorities by the community and staff. The plan also acknowledges the need for commitments from partners and the wider availability of certain technologies. Specific actions include the implementation of the Sustainable Council Building Policy to enhance the environmental performance of Council buildings, and the commitment to offset corporate greenhouse gas emissions and continue purchasing 100% renewable energy for all Council sites. The plan also includes measures to respond to calls for submissions and advocate on matters that align with the Climate Action Plan objectives. The plan is to be periodically monitored to track progress, with annual reporting on various metrics including greenhouse gas emissions.",
+          "quote": {
+            "content": "Other actions define how \nnew or updated policy frameworks should \nbe developed in order to allow us to meet \nour objectives and targets. Actions\nThe actions identified in this Climate Action Plan will set the municipality on a path to meet \nour targets. Some of these actions are ready to roll \nout, and some require more planning and \ndevelopment.",
+            "page": 11,
+            "source": "Boroondara-Climate-Action-Plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Action Plan does include specific actions for climate adaptation and resilience. The plan acknowledges the need to adapt to a changing climate, recognizing that even if all countries substantially reduce emissions now, some long-term changes to the environment are inevitable. The plan outlines a strategy for monitoring and reporting on various environmental factors, including greenhouse gas emissions, waste and recycling data, tree planting and renewal, water use and harvesting, and biodiversity actions. This monitoring will help track progress and inform necessary adaptations. The plan also includes a Climate Change Adaptation Plan as a new strategy. However, the documents provided do not detail the specific actions within this Adaptation Plan. The plan's implementation will be updated every two years, allowing for adjustments based on the changing climate and the effectiveness of the actions taken.",
+          "quote": {
+            "content": "We must prepare to adapt to a warmer, more variable climate with more extreme weather events. Climate change is about more than just greenhouse gas emissions and this is reflected in this Plan. Even if all countries substantially reduce emissions now, it is too late to avoid some long-term changes to our environment.",
+            "page": 2,
+            "source": "Boroondara-Climate-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the Climate Action Plan outlines actions and targets, it does not provide specific, well-sourced evidence to justify these. The documents mention community feedback and contributions to greenhouse gas emissions as considerations in developing the plan, but they do not provide specific data or sources to support these considerations. The documents also mention that the plan will be periodically monitored and that targets will be reviewed, but they do not provide a clear methodology or criteria for this monitoring and review process. Furthermore, the community research report indicates that there were criticisms of the plan, including a lack of urgency, no timeline or budget, and a need to strengthen emissions targets. These criticisms suggest that the plan may not be adequately justified or supported by evidence."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's Climate Action Plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan does mention that it will be periodically monitored to track progress, it does not detail what specific metrics or indicators will be used to measure the success or failure of its actions. The plan also mentions that it will be reviewed and updated every five years, but it does not specify what criteria will be used to determine whether an update is necessary. The community feedback on the plan also highlights a lack of detailed actions that can be monitored and progress reported regularly. Therefore, without specific, measurable criteria, it is unclear how the local government will evaluate whether its actions are achieving their intended objectives."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The City of Boroondara undertook community consultation in 2020 and 2021 to understand community perceptions, behaviours, and aspirations regarding climate action at the local level. The consultation involved surveys and workshops, with feedback collected online, over the phone, and in writing. The community's feedback was considered and incorporated in the development of the Climate Action Plan. The plan also includes provisions for periodic monitoring and reporting on various aspects related to climate change, such as greenhouse gas emissions, waste and recycling data, tree planting, and water use. The Climate Action Plan will be reviewed and updated every five years, and the implementation plan will be updated every two years. These updates will include a community check-in survey, indicating ongoing research and consultation with the local community.",
+          "quote": {
+            "content": "In March/April 2021 we did a follow up survey and workshops. During the frst phase of the consultation, we heard from more than 1,500 community members who shared their feedback online, over the phone and in writing. In March/April 2021 we did a follow up survey and workshops.",
+            "page": 8,
+            "source": "Boroondara-Climate-Action-Plan.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. While the Climate Action Plan outlines a series of actions to be taken, these actions are not explicitly described as innovative or experimental. The plan includes actions such as enhancing the environmental performance of Council buildings, advocating for matters that align with the Climate Action Plan objectives, and participating in the Eastern Alliance for Greenhouse Action. However, these actions are not characterized as innovative or experimental in nature. The documents also mention community consultation and feedback, but again, this does not necessarily indicate innovation or experimentation. The documents do not provide specific details about novel or experimental approaches to climate action that the local government plans to undertake."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the Climate Action Plan and its Implementation Plan, which outline several actions that align with this intent. For instance, the local government plans to 'respond to calls for submissions and advocate on matters that align with Climate Action Plan objectives as appropriate' (Action 6.16). This suggests that the local government is prepared to engage in advocacy at higher levels of government to advance its climate action objectives. Additionally, the local government plans to 'advocate to other levels of government and relevant agencies to provide funding for Local Government Authorities and communities to take action to respond to climate change' (Action 6.26). This further underscores the local government's commitment to advocating for climate action at the state and national levels.",
+          "quote": {
+            "content": "6.16 Respond to calls for submissions and advocate on matters that align with Climate Action Plan objectives as appropriate.",
+            "page": 15,
+            "source": "Boroondara-Climate-Action-Plan-Implementation_plan.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines several actions that align with this goal. For instance, the policy includes plans to implement the Sustainable Council Building Policy to enhance the environmental performance of Council buildings, which demonstrates an effort to build capacity within the council itself. The policy also outlines plans to respond to calls for submissions and advocate on matters that align with Climate Action Plan objectives, indicating a commitment to advocacy and partnership. Furthermore, the policy includes plans to continue participation in the Eastern Alliance for Greenhouse Action, which suggests a commitment to partnerships with neighbouring local councils. The policy also outlines plans to provide the community with access to Climate Action Grants for new projects, services, programs, and activities that strengthen the community’s capacity to reduce emissions and adapt to the impacts of climate change, indicating a commitment to building capacity within the local community.",
+          "quote": {
+            "content": "Respond to calls for submissions and advocate on matters that align with Climate Action Plan objectives as appropriate.",
+            "page": 15,
+            "source": "Boroondara-Climate-Action-Plan-Implementation_plan.pdf",
+            "search_score": 0.93
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate action. The City of Boroondara is involved in the Eastern Alliance for Greenhouse Action, as stated in the Climate Action Plan: Implementation Plan 2023/24 and 2024/25. This alliance is a regional response to climate change, and the city's participation aligns with action 6.6 of their Climate Action Plan. Additionally, the city also participates in the Council Alliance for a Sustainable Built Environment, which is another regional initiative aimed at promoting sustainable practices in the built environment. This participation aligns with action 6.6 as well. These alliances demonstrate the city's commitment to collaborative action and advocacy in addressing climate change.",
+          "quote": {
+            "content": "Ongoing 6.17 Continue to participate in the Eastern Alliance for Greenhouse Action. Aligns with action 6.6. Aligns with action 6.6. Ongoing 6.18 Continue to participate in the Council Alliance for a Sustainable Built Environment. Aligns with action 6.6. Aligns with action 6.6.",
+            "page": 15,
+            "source": "Boroondara-Climate-Action-Plan-Implementation_plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do provide a detailed analysis of the local government's Climate Action Plan, including community feedback and proposed actions, they do not specifically address how climate change might disproportionately affect certain vulnerable groups within the community. The documents focus primarily on general community responses, emissions targets, and various sustainability actions. However, they do not delve into the social justice implications of climate change or the specific impacts on vulnerable populations. Therefore, based on the provided documents, the local government's policy does not explicitly address the intersection of climate change, equity, and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the local government's Climate Action Plan, including its implementation, community feedback, and various aspects of environmental sustainability such as energy efficiency, biodiversity, waste management, water use, and sustainable transport. While there are mentions of community education and involvement, specific discussions on equity and social justice in the context of sharing climate benefits and opportunities are not present. Therefore, it cannot be affirmed that the policy includes explicit provisions for equitable sharing of climate benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 12,
+    "num_questions": 20,
+    "attribute_score": 67.5
+  }
+}

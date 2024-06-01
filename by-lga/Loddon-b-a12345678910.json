@@ -1,0 +1,268 @@
+{
+  "settings": {
+    "source_files": [
+      "Loddon-Environmental-Sustainability-Strategy-Action-Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T19:53:55.150727",
+    "lga": "Loddon"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that climate action is the core purpose or goal of the policy. The policy, titled 'Environmental Sustainability Strategy Action Plan 2013-2018', appears to be a broad strategy encompassing various aspects of environmental sustainability, including energy management, water management, biodiversity, land management and planning, sustainable transport, waste, and business and industry development. While climate action could be inferred as a component of these areas, it is not explicitly stated as the core purpose or goal. The policy also aligns with the strategic platforms and core business elements of the Loddon Shire Council, which include a range of areas beyond environmental sustainability. Therefore, based on the provided documents, it cannot be definitively stated that climate action is the core purpose or goal of the policy."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly explain the need for action on climate change. While the documents do outline a number of actions related to environmental sustainability, such as advocating for renewable energy projects, improving environmental sustainability within local households and businesses, and considering energy efficiency in procurement processes, they do not provide a clear rationale or explanation for why these actions are necessary in the context of climate change. The documents seem to assume an understanding of the importance of these actions, without explicitly stating the reasons for their implementation. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly explains the need for action on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly call for rapid and urgent action on climate change. While the documents do outline a number of strategies and actions related to environmental sustainability, such as advocating for large-scale renewable energy projects, improving water security and quality, and considering energy efficiency in procurement processes, there is no explicit mention of the urgency or speed at which these actions need to be taken. The timelines for these actions range from 2013 to 2018, but this does not necessarily indicate urgency. Furthermore, the priority levels assigned to these actions are 'low' or 'medium', which also does not suggest a sense of urgency. Therefore, based on the provided documents, it cannot be concluded that there is a call for rapid and urgent action on climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions related to climate change. The Environmental Sustainability Strategy Action Plan 2013-2018 outlines a series of recommended actions, each with a designated timeline for implementation. For instance, the document mentions advocating for business opportunities for large-scale renewable energy projects within the municipality from 2013 to 2018. It also mentions implementing a program for the upgrade and improvement of automated watering systems for municipal public places from 2014 to 2018. Furthermore, the document suggests conducting an audit of all Council buildings to identify required improvement works and associated opportunities to improve utilization through multiuse arrangements from 2015 to 2016. These specific timeframes indicate a clear plan of action and a commitment to addressing environmental sustainability within a defined period."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline a strategic plan for environmental sustainability from 2013 to 2018, with various actions related to different aspects such as energy management, water management, biodiversity, land management, sustainable transport, waste, and business development. Each action has a priority level assigned, but there is no explicit mention of a climate emergency response, let alone its prioritization over other policies. The documents focus on a broad range of environmental sustainability issues, suggesting a holistic approach rather than a singular focus on climate emergency response."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. The documents outline a strategic plan for environmental sustainability from 2013 to 2018, which includes actions related to energy management, water management, biodiversity, land management and planning, sustainable transport, waste, and business development. While these actions are likely to have implications for climate policy, the documents do not explicitly require all council activities to align with such a policy. The documents do indicate that the actions identified within the sustainability plan are intended to fit within the future direction and objectives of the Loddon Shire, but they do not specify that these objectives include a climate policy. Therefore, based on the provided documents, it cannot be affirmed that all council activities must be aligned with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's policy does allocate funding for climate action, although the specifics of the allocation are not always clear. The policy outlines several actions related to environmental sustainability, some of which have budget allocations. For instance, the policy includes a plan to maintain a car pool policy with a budget of $5,000 (T2). Additionally, the policy outlines a plan to upgrade street lighting to high-efficiency technology with a budget of $80,000 (E7). However, many of the actions listed in the policy do not have a specified budget, instead listing 'NIL' under the budget column. This could indicate that these actions will be funded through other means, or that the budget for these actions has not yet been determined. It is also worth noting that the policy includes a plan to seek external funding for a part-time resource dedicated to environmental management (B6)."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's policy does indeed allocate non-monetary institutional resources to climate action. The policy outlines several actions related to climate change and sustainability, and assigns responsibility for these actions to various roles within the institution. For instance, the Plant Replacement committee is tasked with incorporating energy efficiency assessments into their procurement recommendations (T1). The CEO is responsible for maintaining a carpool policy (T2). The Director Operations (DOP) is tasked with advocating for improvements in water security and quality (WR1). The Manager Infrastructure Program Development (MINFPD) is involved in implementing a program for the upgrade and improvement of automated watering systems (WR2). These allocations of responsibility indicate that staff time and expertise, which are non-monetary institutional resources, are being dedicated to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does provide evidence of efforts to educate and involve the community in climate action, although it does not explicitly use the term 'social mobilisation'. The policy outlines several actions that aim to engage the community in environmental sustainability. For instance, it recommends the incorporation of educational or informative material on the Council's new website, including links to external agency websites, relating to opportunities for the improvement or enhancement of environmental sustainability within local households and businesses. This action suggests an effort to educate the community about environmental sustainability and provide them with resources to take action. Additionally, the policy advocates for business opportunities for large-scale renewable energy projects within the municipality and encourages collaboration with neighbouring municipalities to capitalise on regional opportunities. This action could potentially mobilise businesses and other stakeholders in the community to work together on renewable energy projects."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Environmental Sustainability Strategy Action Plan 2013-2018 does include specific actions for mitigation of greenhouse gas emissions, both through technological solutions and behaviour change. The plan outlines several actions related to energy management and sustainable transport, which are directly linked to greenhouse gas emissions. For instance, the plan recommends an energy efficiency audit of all Shire buildings to identify potential opportunities for cost-effective improvements such as draught proofing, double glazing, use of LED lighting, and better roof insulation. This is a clear example of a technological solution aimed at reducing energy consumption and thus greenhouse gas emissions. The plan also suggests reviewing the vehicle policy to encourage the choice of energy-efficient vehicles in employment packages to staff, which is an example of promoting behaviour change to reduce emissions. Furthermore, the plan advocates for business opportunities for large-scale renewable energy projects within the municipality, which is another technological solution for reducing greenhouse gas emissions.",
+          "quote": {
+            "content": "draught proofing, double glazing, use of LED lighting and better roof insulation.",
+            "page": 4,
+            "source": "Loddon-Environmental-Sustainability-Strategy-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents from the 'Environmental Sustainability Strategy Action Plan 2013-2018' do not contain specific actions related to climate adaptation and resilience. The documents outline various strategies and actions related to environmental sustainability, including energy management, water management, biodiversity, land management and planning, sustainable transport, waste, and business development. However, none of these actions explicitly address climate adaptation and resilience. While some actions, such as advocating for large-scale renewable energy projects and improving water security, could indirectly contribute to climate resilience, they are not framed in terms of climate adaptation. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents provided do not offer well-sourced evidence to justify its climate targets and actions. While the Environmental Sustainability Strategy Action Plan 2013-2018 outlines various actions related to environmental sustainability, such as advocating for renewable energy projects and incorporating educational material on environmental sustainability on the Council's website, it does not provide any specific evidence or data to support these actions. The documents do not provide any information on how these actions were determined, what research or data was used to inform these decisions, or how these actions will specifically address climate change. The documents also do not provide any specific climate targets. Therefore, it cannot be said that the document provides well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific measurable criteria to evaluate the success of the proposed actions in the plan. While the plan outlines various actions related to environmental sustainability, such as advocating for large-scale renewable energy projects, incorporating educational material on environmental sustainability, and considering energy efficiency in procurement processes, it does not specify how the success of these actions will be measured. The documents mention timelines, responsibilities, and budgets for each action, but they do not provide specific indicators or metrics that would be used to assess whether the actions have achieved their intended outcomes. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents provided do not describe any plans to conduct research in the local community to inform climate actions. The policy documents outline a series of recommended actions related to environmental sustainability, including energy management, water management, biodiversity, land management and planning, sustainable transport, waste, and business development. However, these actions appear to be based on pre-existing strategies and plans, and there is no explicit mention of conducting new research within the local community to inform these actions. The documents do mention the use of GIS/Mapping data and collaboration with external agencies, but these activities do not seem to involve new research within the local community. Therefore, based on the provided documents, it cannot be affirmed that there are plans to conduct research in the local community to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The Environmental Sustainability Strategy Action Plan 2013-2018 outlines a number of actions related to environmental sustainability, including advocating for renewable energy projects, incorporating educational material on environmental sustainability on the Council's website, and considering energy efficiency in procurement processes. However, these actions are fairly standard in environmental sustainability strategies and do not demonstrate a high level of innovation or policy experimentation. The documents also do not provide specific details on how these actions will be implemented, which further limits the ability to assess their innovative nature. Therefore, based on the information provided, it cannot be concluded that the local government is planning for informed action through innovative and experimental climate policies."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 4,
+        "score": 0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The document does show an explicit intent to advocate for climate action, although it does not specify whether this advocacy is directed upward to state and national governments. The policy outlines several actions related to environmental sustainability, including advocating for business opportunities for large-scale renewable energy projects within the municipality and collaborating with neighboring municipalities to capitalize on regional opportunities. This suggests a willingness to engage in advocacy and partnership-building to support climate action. However, the document does not explicitly state that this advocacy will be directed towards state and national governments. It is possible that such advocacy could be part of the policy's implementation, but without explicit mention of this in the document, it cannot be confirmed.",
+          "quote": {
+            "content": "Where possible collaborate with neighbouring municipalities to capitalise on regional opportunities.",
+            "page": 10,
+            "source": "Loddon-Environmental-Sustainability-Strategy-Action-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The document does encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. This is evident in the recommended actions that advocate for and promote business opportunities for large-scale renewable energy projects within the municipality and, where possible, collaborate with neighbouring municipalities to capitalise on regional opportunities. This action indicates a commitment to building local capacity and fostering partnerships for climate action. Additionally, the document also suggests incorporating educational or informative material on the Council's new website, which could serve to build capacity within local communities by enhancing their understanding of environmental sustainability. However, it should be noted that while the document does encourage capacity building and partnerships, it does not explicitly link these actions to climate action.",
+          "quote": {
+            "content": "Where possible collaborate with neighbouring municipalities to capitalise on regional opportunities.",
+            "page": 10,
+            "source": "Loddon-Environmental-Sustainability-Strategy-Action-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations and partnerships related to environmental sustainability, which can be linked to climate action. The policy outlines a commitment to collaborate with the Central Murray Regional Waste Management Group on various projects such as 'detox your home', 'DrumMuster', 'Plastic Bag Free Towns', and 'E-Waste initiatives'. These initiatives are all aimed at reducing waste and promoting environmental sustainability, which are key aspects of climate action. Furthermore, the policy also mentions the exploration of opportunities for efficiency improvement through the establishment of regional waste management facilities or services in collaboration with the Central Murray Regional Waste Management Group and surrounding municipalities. This indicates a clear commitment to partnership and collaboration in the pursuit of environmental sustainability and climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's environmental sustainability strategy and action plan, which includes actions related to energy management, water management, biodiversity, land management, sustainable transport, waste, and business development. While these actions indirectly contribute to mitigating the impacts of climate change, they do not specifically address its impact on vulnerable communities or discuss it in the context of equity and social justice. Therefore, based on the provided documents, the local government's policy does not explicitly consider the social justice implications of climate change."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in relation to 'equity and social justice'. The documents primarily focus on the Environmental Sustainability Strategy Action Plan 2013-2018 for the Loddon Shire. They outline various actions related to environmental sustainability, such as employing an environmental sustainability officer, maintaining a car pool policy, and advocating for large-scale renewable energy projects. However, these actions are not directly linked to the equitable distribution of benefits and opportunities arising from a safe climate. The documents do not provide specific strategies or actions to ensure that the benefits of a safe climate are shared equitably among different social groups. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 8,
+    "num_questions": 20,
+    "attribute_score": 45
+  }
+}

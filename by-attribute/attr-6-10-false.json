@@ -1,0 +1,48 @@
+{
+  "attribute": 7,
+  "question": 10,
+  "finding": false,
+  "num": 8,
+  "responses": [
+    {
+      "answer": "The provided documents primarily focus on the local government's climate change adaptation strategies, rather than mitigation of greenhouse gas emissions. The strategies outlined are largely reactive, aiming to increase resilience to climate change impacts, rather than proactive measures to reduce emissions. Actions include raising community awareness, identifying high-risk areas for development, and advocating for climate change adaptation initiatives. While these actions are crucial for dealing with the effects of climate change, they do not directly address the mitigation of greenhouse gas emissions. The documents do not provide specific actions for reducing emissions, such as implementing technological solutions or promoting behaviour change. Therefore, based on the provided context, the plan does not include specific actions for the mitigation of greenhouse gas emissions.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia"
+    },
+    {
+      "answer": "The provided documents primarily focus on climate change adaptation strategies, rather than mitigation of greenhouse gas emissions. The strategies outlined are aimed at increasing resilience to climate change impacts and managing associated risks. These include raising community awareness, identifying high-risk areas for development, advocating for climate change adaptation initiatives, and conducting climate change risk assessments. While these actions are crucial for adapting to the impacts of climate change, they do not directly address the mitigation of greenhouse gas emissions through technological solutions or behaviour change. Mitigation strategies would typically involve actions to reduce greenhouse gas emissions, such as transitioning to renewable energy sources, improving energy efficiency, or promoting sustainable transportation and land use practices. Such specific mitigation actions are not evident in the provided documents.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia"
+    },
+    {
+      "answer": "The provided documents from the Hindmarsh Township Climate Change Adaptation Plan do not provide clear evidence of specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The focus of the documents appears to be on adaptation strategies to climate change risks, such as incorporating climate change considerations into council building maintenance programs, emergency response planning, and community engagement. There are mentions of actions like reviewing and updating the Road Asset Management Plan and developing a risk register for all Council buildings considering climate change. However, these actions are more related to adapting to the impacts of climate change rather than mitigating greenhouse gas emissions. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for greenhouse gas mitigation.",
+      "source": "Hindmarsh-a-a12345678910.json",
+      "lga": "Hindmarsh"
+    },
+    {
+      "answer": "The provided documents from the Hindmarsh Township Climate Change Adaptation Plan do not provide clear evidence of specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The focus of the plan appears to be on adaptation to climate change impacts, rather than mitigation of greenhouse gas emissions. The plan includes actions such as incorporating climate change risks into the review and development of Council building maintenance programs, emergency response planning, and community engagement. However, these actions are more about managing the risks and impacts of climate change, rather than reducing greenhouse gas emissions. Therefore, based on the provided documents, the plan does not include specific actions for mitigation of greenhouse gas emissions.",
+      "source": "Hindmarsh-b-a12345678910.json",
+      "lga": "Hindmarsh"
+    },
+    {
+      "answer": "The local government policy does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change, in the context of 'restoring a safe climate'. The policy does discuss the impact of a price on carbon emissions on the local community and the local brown coal energy generation industry. It also mentions the Australian Government's proposed shift from a carbon tax to an Emissions Trading Scheme and the Direct Action Plan, which aims to source low-cost emissions reductions. However, these are general policy positions and responses to national schemes, rather than specific actions or strategies for greenhouse gas mitigation at the local level. The policy does not detail any technological solutions or behaviour changes to reduce emissions.",
+      "source": "Latrobe-a-a12345678910.json",
+      "lga": "Latrobe"
+    },
+    {
+      "answer": "The local government policy does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change, in the context of 'restoring a safe climate'. The policy does discuss the impact of a price on carbon emissions on the local community and the local brown coal energy generation industry. It also mentions the Australian Government's proposed shift from a carbon tax to an Emissions Trading Scheme and the Direct Action Plan, which aims to source low-cost emissions reductions. However, these are general policy positions and responses to external initiatives, rather than specific actions the local government plans to take to mitigate greenhouse gas emissions. The policy does not detail any technological solutions or behaviour changes to be implemented for this purpose.",
+      "source": "Latrobe-b-a12345678910.json",
+      "lga": "Latrobe"
+    },
+    {
+      "answer": "The provided documents from the Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 do not provide clear evidence of specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change, in the context of 'restoring a safe climate'. The documents focus primarily on adaptation strategies to climate change, such as improving community resilience, modifying construction practices, and developing an Integrated Water Plan. While these actions indirectly contribute to climate change mitigation by promoting sustainable practices and resilience, they do not directly address the reduction or mitigation of greenhouse gas emissions. The documents mention the consideration of greenhouse gas emission implications in the development of adaptation actions, but do not detail specific mitigation actions or strategies.",
+      "source": "SouthernGrampians-a-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The provided documents from the Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 do not provide clear evidence of specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change, in the context of 'restoring a safe climate'. The documents focus primarily on adaptation strategies to climate change, such as improving community resilience, modifying construction practices, and developing an Integrated Water Plan. While these actions indirectly contribute to climate change mitigation by promoting sustainable practices and resilience, they do not directly address the reduction or mitigation of greenhouse gas emissions. The documents mention the consideration of greenhouse gas emission implications in the development of adaptation actions, but do not provide specific details on how these emissions will be mitigated. Therefore, based on the provided documents, the plan does not include specific actions for mitigation of greenhouse gas emissions.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians"
+    }
+  ]
+}

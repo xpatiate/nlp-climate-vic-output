@@ -1,0 +1,298 @@
+{
+  "settings": {
+    "source_files": [
+      "Casey-2018-Emissions-Management-Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T14:02:02.581115",
+    "lga": "Casey"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the City of Casey's Emissions Management Plan 2018-2022, clearly identifies climate action as its core purpose. The policy is designed to reduce greenhouse gas emissions and energy consumption from Council's operations, aligning with national and state climate change commitments. The policy outlines a strategic pathway for the City of Casey to invest in energy efficiency and renewable technology to maximise economic and environmental benefits. It sets ambitious targets for emissions reduction and renewable energy generation, and outlines a range of initiatives to achieve these targets, including retrofitting and upgrading buildings, investing in renewable energy technology, and improving fleet vehicle fuel efficiency. The policy also commits to regular reporting on progress against targets and to communicating achievements to stakeholders and the wider community. Therefore, it is clear that the policy's core purpose is to take action on climate change and transition to a low carbon economy.",
+          "quote": {
+            "content": "Progressive Councils have adopted a best practice approach to reducing emissions and associated costs through energy efficiency and renewable energy investment. The City of Casey has positioned itself as a leader in the greenhouse gas emissions and energy reduction space.",
+            "page": 1,
+            "source": "Casey-2018-Emissions-Management-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly explain the need for action on climate change. They outline the City of Casey's Emissions Management Plan, including its targets and strategies for reducing greenhouse gas emissions and investing in renewable energy. They also detail the city's past achievements in emissions reduction and its alignment with national and state climate change policies. However, they do not provide a clear rationale or justification for these actions in terms of the impacts or risks of climate change. The documents focus more on the actions being taken and the targets set, rather than the reasons behind these actions and targets."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the City of Casey's Emissions Management Plan 2018-2022, which includes a strategic pathway for the city to invest in energy efficiency and renewable technology. The plan aligns with national and state policies on climate change, and it details the city's past and future efforts to reduce greenhouse gas emissions. However, the language used in the documents does not convey a sense of urgency or immediacy. The plan is presented as a continuation and expansion of existing efforts, rather than a response to a pressing crisis. The documents focus on the city's commitment to reducing emissions and the benefits of doing so, but they do not stress the need for rapid action or suggest that the situation is urgent."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate. The City of Casey's Emissions Management Plan 2018-2022 outlines a strategic pathway for the city to invest in energy efficiency and renewable technology. The plan includes a series of actions to be implemented over a four-year period, with interim emission reduction targets set for 2021/22. The plan also aligns with the broader state and national policy context, which includes targets for greenhouse gas emissions reductions and renewable energy generation for the years 2020, 2025, and 2050. The document also mentions that the City of Casey has previously met its emissions reduction targets set for 2014/15 and 2016/17, demonstrating a track record of action within specific timeframes.",
+          "quote": {
+            "content": "The application of City of Casey’s Action Plan will set Casey on the correct path to meeting its interim emission reduction targets by 2021/22. Over one hundred (100) initiatives to reduce greenhouse gas emissions and associated energy costs will be incrementally implemented over the next 4 years through the Plan.",
+            "page": 9,
+            "source": "Casey-2018-Emissions-Management-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the City of Casey's commitment to reducing greenhouse gas emissions and investing in energy efficiency and renewable technology, they do not explicitly prioritize these actions over other policies. The documents outline various strategies and targets for emissions reduction, such as the Emissions Management Plan 2012-17 and the Council Plan 2017-2021, and they mention the city's commitment to carbon neutrality. However, they do not explicitly state that these climate-related actions should take precedence over other policy areas."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do provide evidence of the City of Casey's commitment to reducing greenhouse gas emissions and investing in energy efficiency and renewable technology, they do not specifically mandate that all council activities align with these goals. The documents outline various strategies and targets for emissions reduction and renewable energy, and they detail the City's past successes in these areas. However, they do not provide a clear directive that all council activities must be in line with these climate policies. Therefore, without explicit evidence, the answer to the question must be negative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Emissions Management Plan 2018-2022 by the City of Casey does explicitly allocate funding for climate action. The plan outlines a comprehensive investment action program prioritised on economic, environmental, and social benefits. The plan also mentions a significant investment in reducing operational and maintenance costs through energy efficiencies improvement. Furthermore, the plan details the City's commitment to invest in renewable energy technology and energy efficiency. The plan also mentions the successful implementation of the previous Emissions Management Plan 2012-17, which brought about annual cost savings of $1.5M per year by avoiding energy operational costs. This indicates that the City of Casey has a history of allocating resources for climate action and plans to continue doing so.",
+          "quote": {
+            "content": "The successful implementation of the Emissions Management Plan 2012-17 brought about annual cost savings of $1.5M per year by avoiding energy operational costs.",
+            "page": 4,
+            "source": "Casey-2018-Emissions-Management-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents detail the City of Casey's commitment to reducing greenhouse gas emissions, improving energy efficiency, and increasing renewable technology uptake, they do not specify the allocation of staff or other non-monetary resources to these efforts. The documents mention the need for strong commitment by the City, the importance of communicating outcomes, and engaging with stakeholders and the community. However, these references do not explicitly indicate the allocation of institutional resources such as staff time or expertise. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents do indicate that the local government is taking steps to engage the community in its climate action efforts. The Emissions Management Plan emphasizes the importance of strong commitment by the City to communicate the outcomes and engage with stakeholders and the community. This includes annual reporting to Council on the implementation of the Plan and progress against targets, communicating achievements including measured savings and benefits and progress against emission reduction and renewable energy targets. External communications with the wider community are also mentioned, including sharing information through South Eastern Councils Climate Change Alliance (SECCCA) and other local government alliances. However, the documents do not provide specific details on how the community is being educated or empowered to rally, support, and work productively together to deliver climate action.",
+          "quote": {
+            "content": "The successful implementation of this Emissions Management Plan requires a strong commitment by the City to communicate the outcomes and to engage with stakeholders and the community.",
+            "page": 10,
+            "source": "Casey-2018-Emissions-Management-Plan.pdf",
+            "search_score": 0.94
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a comprehensive approach to reducing emissions, which includes both technological solutions and behaviour change. Technological solutions are evident in the plan's commitment to energy efficiency and renewable energy technology. For instance, the plan mentions investment in retrofitting, upgrading, and optimising in the Building Improvement Program, as well as the continuation of investment in renewable energy technology. The plan also mentions the implementation of over one hundred initiatives to reduce greenhouse gas emissions over the next four years. Behaviour change is implied in the plan's commitment to communicate the outcomes and engage with stakeholders and the community, which suggests an effort to influence attitudes and behaviours towards emissions reduction. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change.",
+          "quote": {
+            "content": "To continue to invest in renewable energy technology. The key actions that will deliver the emission reduction goals are summarised as follows: To continue to improve energy efficiencies with investment in retrofitting, upgrading and optimising in the Building Improvement Program. To incorporate best practice in Ecological Sustainable Design (ESD) in all new builds and refurbishments.",
+            "page": 8,
+            "source": "Casey-2018-Emissions-Management-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents do not contain specific actions for climate adaptation and resilience in the context of adapting to a changing climate. The focus of the documents is primarily on reducing greenhouse gas emissions and increasing energy efficiency, with specific actions such as retrofitting buildings, investing in renewable energy technology, and improving energy efficiencies. The documents also mention the City of Casey's commitment to reducing emissions in line with national and international targets. However, these actions are mitigation strategies aimed at reducing the impact of climate change, rather than adaptation strategies designed to enhance resilience to the effects of a changing climate. Adaptation strategies typically involve measures such as improving infrastructure to withstand extreme weather events, developing drought-resistant crops, or implementing land-use planning to avoid building in areas at risk of flooding. None of these types of measures are mentioned in the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides well-sourced evidence to justify its climate targets and actions. It outlines the City of Casey's commitment to reducing greenhouse gas emissions and investing in renewable energy technology. The policy aligns with national and state-level climate change commitments, such as the Paris Agreement and Victoria’s Climate Change Act 2017. The policy also outlines specific actions to achieve these targets, including improving energy efficiencies, investing in renewable energy technology, and incorporating best practice in Ecological Sustainable Design. The policy also provides a strategic pathway for the City of Casey to invest in energy efficiency and renewable technology to maximise economic and environmental benefits. The policy also provides a clear communication strategy to engage with stakeholders and the community, which is crucial for the successful implementation of the policy.",
+          "quote": {
+            "content": "It incorporates ambitious evidence-based targets in line with a comprehensive investment action program prioritised on economic, environmental and social benefits to ensure benefits are realised by the City.",
+            "page": 3,
+            "source": "Casey-2018-Emissions-Management-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Emissions Management Plan 2018-2022 by the City of Casey does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a strategic pathway for the city to invest in energy efficiency and renewable technology, with the aim of maximising economic and environmental benefits. The plan includes annual reporting to the Council on the implementation of the plan and progress against targets, as well as communicating achievements including measured savings and benefits and progress against emission reduction and renewable energy targets. The plan also includes a commitment to communicate the outcomes and engage with stakeholders and the community. The plan is set to be reviewed by 30 November 2022, indicating a specific timeline for evaluation. Therefore, the plan does include specific measurable criteria to evaluate the success of its proposed actions.",
+          "quote": {
+            "content": "Communicating achievements including measured savings and benefits and progress against emission reduction and renewable energy targets.",
+            "page": 10,
+            "source": "Casey-2018-Emissions-Management-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents provided do not describe any plans to conduct research in the local community to inform climate actions. The local government policy, as outlined in the documents, focuses on the implementation of an Emissions Management Plan, which includes measures such as improving energy efficiency, increasing renewable technology uptake, and setting emission reduction targets. The policy also outlines plans for internal and external communication about the implementation and progress of the plan, including annual reporting to the Council and communication with the wider community. However, these communications plans do not appear to involve conducting research in the local community. Instead, they seem to be aimed at informing the community about the outcomes of the plan and engaging with stakeholders."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The City of Casey's Emissions Management Plan 2018-2022 outlines a strategic pathway for the city to invest in energy efficiency and renewable technology. The plan incorporates ambitious targets in line with a comprehensive investment action program prioritised on economic, environmental, and social benefits. The plan also aligns with the National Carbon Offset Standard (NCOS) and adopts science-based emission targets. The city has shown a strong commitment to reducing its corporate emissions through sound investment in energy efficiency and renewable energy technology. Over one hundred initiatives to reduce greenhouse gas emissions and associated energy costs will be incrementally implemented over the next four years through the plan. These initiatives include rooftop solar photovoltaic installations, building lighting efficiency improvement, heating ventilation and air conditioning (HVAC) upgrades and optimisation, water heating and equipment energy efficiency improvement, fleet vehicle fuel efficiency improvement and increased electric vehicle use, and high pressure sodium street light upgrades.",
+          "quote": {
+            "content": "Over one hundred (100) initiatives to reduce greenhouse gas emissions and associated energy costs will be incrementally implemented over the next 4 years through the Plan.",
+            "page": 9,
+            "source": "Casey-2018-Emissions-Management-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The documents primarily focus on the local government's own plans and actions to reduce greenhouse gas emissions and increase energy efficiency. They outline the local government's commitment to ambitious targets, investment in renewable energy technology, and communication of outcomes to stakeholders and the community. However, they do not mention any specific plans or intentions to advocate for climate action at the state or national level. The documents do reference state and national climate policies, but this is in the context of aligning the local government's actions with these broader policies, rather than advocating for further action at these levels."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the City of Casey's Emissions Management Plan 2018-2022 outlines various strategies and actions to reduce greenhouse gas emissions, improve energy efficiency, and increase renewable technology uptake, it does not specifically mention building local capacity or fostering partnerships with neighbouring councils for climate action. The plan does mention the City's commitment to the TAKE2 Pledge and its goal to be carbon neutral by 2040, but these do not directly relate to the question of building local capacity or partnerships with other councils."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does refer to specific regional associations, alliances or other partnerships related to climate. The City of Casey's Emissions Management Plan 2018-2022 highlights the importance of communication and engagement with stakeholders and the community for the successful implementation of the plan. This includes external communications with the wider community and sharing information through local government alliances. Specifically, the document mentions the South Eastern Councils Climate Change Alliance (SECCCA) as a platform for sharing information. This suggests that the City of Casey is actively involved in regional associations and alliances that focus on climate change and is committed to sharing its successes and failures to maximise benefit to the broader community."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. The focus of the documents is primarily on the City of Casey's efforts to reduce greenhouse gas emissions, improve energy efficiency, and increase renewable technology uptake. The documents outline the city's commitment to achieving carbon neutrality by 2040, and detail various strategies and indicators to guide council actions. These include managing waste, water, biodiversity, and energy use, encouraging modes of transport that reduce emissions and congestion, and planning, delivering, and managing assets and resources to meet the needs of current and future communities. However, there is no specific mention of the impact of these policies on vulnerable communities or any discussion of equity and social justice in relation to climate change."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy documents do mention the social benefits of their climate change initiatives, they do not delve into specifics about how these benefits will be distributed equitably among different social groups. The documents focus more on the City of Casey's commitment to reducing greenhouse gas emissions, increasing renewable energy uptake, and achieving carbon neutrality by 2040. They outline various strategies and actions to achieve these goals, such as improving energy efficiency, investing in renewable energy technology, and offsetting corporate fleet emissions. However, they do not provide specific details on how the benefits and opportunities arising from these actions will be shared equitably among the community."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 9,
+    "num_questions": 20,
+    "attribute_score": 45.8
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "settings": {
+    "source_files": [
+      "GreaterShepparton-2022-Climate-Emergency-Action-Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T15:32:47.463282",
+    "lga": "GreaterShepparton"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy's core purpose is indeed climate action. The policy is structured around four strategic priorities, all of which are directly related to climate change. These priorities include demonstrating climate change leadership, accelerating the transition to net zero emissions communities, building a climate-resilient community, and supporting a thriving, climate-smart local agricultural sector. The policy outlines specific actions within these priority areas, such as increasing public awareness of climate change impacts, promoting knowledge sharing on energy-efficient and renewable energy technology, and supporting best-practice sustainable agricultural policies. The policy also emphasizes the importance of community involvement and partnership in achieving these goals. Therefore, it is clear that the policy's primary goal is to drive climate action across the community and support the transition to a more sustainable and resilient society."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The Greater Shepparton Climate Emergency Action Plan is designed to support the transition to a decarbonised economy and build a resilient community. The plan emphasizes the importance of engaging with the community, building partnerships, and understanding what adapting to a changing climate means for the Greater Shepparton community. The plan also highlights the role of the Council in facilitating actions in partnership with the community. The documents also outline specific actions, such as implementing a Climate Emergency Communication and Engagement Strategy, supporting youth to be informed and act on climate change, and encouraging sustainable and zero-emission industrial development. These actions are aimed at reducing emissions, sharing knowledge, and building community resilience.",
+          "quote": {
+            "content": "A strong focus of the Action Plan is to engage with the community, build partnerships, and to further understand what adapting to a changing climate looks like to the Greater Shepparton community.",
+            "page": 24,
+            "source": "GreaterShepparton-2022-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The Greater Shepparton 2022 Climate Emergency Action Plan indeed calls for rapid and urgent action on climate change. The document outlines a series of strategic priorities and actions aimed at addressing the climate emergency, demonstrating a clear sense of urgency. The plan includes actions such as implementing a Climate Emergency Communication and Engagement Strategy, supporting youth to be informed and act on climate change, and advocating for greater climate action at federal and state levels. The document also mentions the need for 'urgent and immediate action' to support the community in adapting to climate change and aiming for a 2030 net zero emission target. The plan's emphasis on 'immediate' action and the use of the term 'emergency' throughout the document underscore the urgency of the situation.",
+          "quote": {
+            "content": "This Climate Emergency Action Plan (Action Plan) is a critical step in acting on this declaration, and taking urgent and immediate action to support the community in taking the necessary steps to adapt to climate change and to also aim for a 2030 In response to the Black Summer bushfires and the community’s calls to act urgently on climate change, Greater Shepparton City Council declared a Climate Emergency and adopted a 2030 net zero emission target on 20 March 2020.",
+            "page": 5,
+            "source": "GreaterShepparton-2022-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The Greater Shepparton Climate Emergency Action Plan does provide specific timeframes for its intended actions on climate change. The document outlines a series of actions, each with an associated timeframe, primary benefit, co-benefits, scale of impact, and resources required. For instance, the action to 'Implement the Climate Emergency Communication and Engagement Strategy' is marked with a timeframe of 'S', while the action to 'Support youth of Greater Shepparton to be informed and act on climate change' is marked with a timeframe of 'O'. However, the document does not provide a clear explanation of what these timeframes 'S' and 'O' represent. Despite this, the presence of these markers indicates that there is a temporal element to the plan's actions. Furthermore, the document mentions that the strategic priority areas will be reviewed in 2025, indicating a specific timeframe for review and potentially for the completion of some actions."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the Greater Shepparton's Climate Emergency Action Plan, which focuses on four strategic priorities: demonstrating climate change leadership, accelerating the transition to net zero emissions communities, building a climate-resilient community, and supporting a thriving, climate-smart local agricultural sector. While these priorities clearly indicate a strong focus on addressing climate change, there is no explicit statement suggesting that these climate-related actions should supersede or have higher priority than other policies. The documents emphasize a collaborative approach involving council, residents, businesses, farmers, and community groups in driving climate action, but they do not provide a hierarchy of policy priorities."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. They outline the council's strategic priorities in response to the climate emergency, which include demonstrating climate change leadership, accelerating the transition to net zero emissions communities, building a climate-resilient community, and supporting a thriving, climate-smart local agricultural sector. The council's role in climate action is highlighted, with emphasis on its unique position to drive community emissions reductions due to its leadership role, local understanding, and established community and stakeholder networks. However, there is no explicit requirement stated that all council activities must align with these climate policies."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents from the Greater Shepparton 2022 Climate Emergency Action Plan do not explicitly allocate funding for climate action. The documents outline various strategic priorities, actions, primary benefits, co-benefits, timeframes, scales of impact, and resources. However, the 'resources' mentioned are predominantly 'Staff Time', which indicates the allocation of personnel to these actions but does not provide specific details about financial resources or funding. There are instances where symbols such as '$', '$$', and '$$$' are used, but without context or a key to interpret these symbols, they cannot be considered as explicit allocation of funding. Therefore, based on the provided documents, it cannot be definitively stated that the plan allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines a variety of actions, each of which is associated with a 'Staff Time' resource allocation. This indicates that staff time and effort will be dedicated to the implementation of these actions. For instance, the plan includes actions such as 'Investigate mechanisms for community and business involvement for action plan implementation', 'Review the Heatwave Plan, Fire Management Strategy and Flood Emergency Management Plan', and 'Improve access to reliable, easy to understand climate change data and projections to inform community planning and action'. Each of these actions is associated with a 'Staff Time' resource allocation, indicating that staff resources are being explicitly allocated to these climate action initiatives."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is taking steps to empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a community awareness campaign to educate the community in preparedness, including new climate risks. It also mentions the investigation of mechanisms for community and business involvement in the action plan implementation. The council's role is highlighted as driving community emissions reductions and ensuring all community members are included in the Climate Emergency actions. The policy also outlines the roles of the council, community, and businesses in building a climate-resilient community. The council is tasked with maintaining and enhancing infrastructure, advocating for stronger planning guidelines, and facilitating environmental upgrade finances. The community is encouraged to maintain trees and native vegetation, upgrade homes for improved thermal efficiency, and increase awareness of climate change impacts."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of strategies, including both technological solutions and behaviour change. For instance, the plan aims to support residents and businesses in reducing emissions, increase public awareness and understanding of climate change impacts, and promote knowledge sharing and education on energy-efficient and renewable energy technology. The plan also includes actions to support best-practice Environmental Sustainable Design (ESD), invest in sustainable and alternative transport, and drive a circular economy. Furthermore, the plan outlines actions to regulate and enforce Green Building design, which would contribute to energy efficiency and reduced emissions. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Greater Shepparton’s Climate Emergency Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a strategic priority of 'Building a climate-resilient community' with actions aimed at reducing urban heat, flood risk, and enhancing community resilience. For instance, it proposes to increase urban tree canopy cover, enhance open spaces, and develop an integrated water management plan to mitigate flood risks. The plan also includes actions to improve access to reliable climate change data and projections to inform community planning and action. Furthermore, it suggests the introduction of community batteries and micro-grids to provide increased resilience to short-term power outages. These actions demonstrate a comprehensive approach to climate adaptation and resilience, involving both infrastructural changes and community engagement.",
+          "quote": {
+            "content": "Building a climate-resilient community\nAction \nID\nAction\nPrimary Benefit\nCo-benefits\nTimeframe\nScale of \nImpact\nResources\nReduce urban heat\n3.1\nIncrease urban tree canopy \ncover and enhance diversity \nof tree species, including with \nmore climate resilient species \nthat provide ecosystem \nservices\nReducing urban \nheat\nImproved \nbiodiversity, \nCommunity \nhealth and \nwell-being\nO\n★★\n$$\n3.2\nEnhance open spaces such as \nparks and bus stops to provide \nfurther protection and relief \nfrom sun and extreme heat, \nincluding more sheltered and \nshaded areas and provision of \ndrinking water stations\nReducing urban \nheat\nCommunity \nhealth and \nwell-being\nO\n★★\n$$",
+            "page": 58,
+            "source": "GreaterShepparton-2022-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions and strategies related to climate change, such as advocating for greater climate action at federal and state levels, supporting residents and businesses in reducing emissions, and building a climate-resilient community, they do not provide specific sources or data to support these actions. The documents mention the use of 'evidence-based action planning' and 'data' in the development of the action plan, but they do not provide details about what this evidence or data is, where it comes from, or how it was used to inform the plan. Therefore, it is not possible to affirm that the documents provide well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's Climate Emergency Action Plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a clear timeline for implementation, monitoring, and review of the actions. It states that the Council will report annually on the key achievements, highlights, and challenges for the implementation of programs. The effectiveness of specific actions will be reviewed through ongoing monitoring, and the course will be redirected if necessary. The Action Plan will be reviewed in 2025 and updated based on the success of programs. This approach allows for the evaluation of the success of the actions based on their uptake and effectiveness, and the achievement of the best outcome using resources effectively. The plan also includes a provision for the Action Plan to expire in 2030, the year of the aspirational target of achieving net zero emissions, which provides a clear end goal against which success can be measured.",
+          "quote": {
+            "content": "This will allow Council and community to ensure that resources are used effectively to achieve the best outcome. Council will report annually on the key achievements, highlights and challenges for the implementation of programs. These updates and lessons learnt will be shared with the community in Councils’ Annual Report. Through ongoing monitoring Council will review the uptake and effectiveness of specific actions and redirect course if necessary.",
+            "page": 50,
+            "source": "GreaterShepparton-2022-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's policy outlines a commitment to investigate mechanisms for community and business involvement in the implementation of the action plan. This suggests a research-oriented approach to understanding the local community's capacity and willingness to participate in climate actions. Furthermore, the policy mentions the use of available data to model potential impacts of Council-supported community action, indicating a data-driven approach to planning and decision-making. The policy also highlights the importance of maintaining accurate and up-to-date flood modelling, which is a form of research that informs climate actions related to flood risk management. Lastly, the policy includes plans to improve access to reliable, easy-to-understand climate change data and projections to inform community planning and action, further emphasizing the role of research in informing climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's policy outlines a variety of strategies and actions that demonstrate a commitment to innovative approaches. For instance, the policy includes plans to support local innovative climate change solutions, with funding for testing and trialing of local innovative solutions. This suggests a willingness to experiment with new approaches and technologies. The policy also emphasizes the importance of community involvement and knowledge sharing, which can foster innovation by encouraging diverse perspectives and ideas. Furthermore, the policy outlines plans to investigate mechanisms for community and business involvement in the action plan implementation, which could lead to innovative collaborations and partnerships. The policy also includes plans for advocating for greater climate action at federal and state levels, which could lead to innovative policy changes."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The Greater Shepparton Climate Emergency Action Plan clearly demonstrates an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines a strategic priority of 'Demonstrating climate change leadership', which includes advocating for greater climate action at federal and state levels. This advocacy is aimed at achieving better electricity infrastructure, net zero emissions transport options, and higher Environmental Sustainable Design (ESD) standards for new buildings. The policy also acknowledges the crucial role of State and Federal Governments in enabling and supporting Local Governments and Communities to deliver the actions necessary for a climate safe future. This is expected to be achieved through the review or development of policy and legislation, and through grants and funding to support mitigation and adaptation projects and activities."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government policy encourages building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The policy outlines a partnership approach between the council, community, and businesses to build a climate-resilient Greater Shepparton. The council's role includes maintaining infrastructure, advocating for stronger planning guidelines, and facilitating environmental upgrades. The community and businesses also have roles, such as maintaining vegetation, upgrading homes for thermal efficiency, and increasing climate change awareness. The policy also highlights the importance of council's leadership in driving community emissions reductions and supporting community members in climate emergency actions. Furthermore, the policy emphasizes the need for advocacy to major stakeholders and other levels of government, suggesting potential collaboration with neighbouring local councils.",
+          "quote": {
+            "content": "A partnership approach between Council, community and business is needed to build a climate resilient Greater Shepparton and enact change across public and private land.",
+            "page": 41,
+            "source": "GreaterShepparton-2022-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations or partnerships related to climate. It mentions the Goulburn Murray Climate Alliance in the context of supporting a thriving, climate-smart local agricultural sector. This alliance is mentioned as a partner with which the local government will continue to work. The document also refers to a partnership approach in the development of the Action Plan, involving community members, businesses, farmers, and community groups. These stakeholders have helped identify key barriers and opportunities for climate action, and shared their knowledge on how they have adapted to climate change impacts. This indicates a collaborative approach to climate action, involving various local and regional entities."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents outline various strategies and actions related to climate change resilience, such as reducing urban heat and flood risk, enhancing open spaces, and developing community awareness campaigns, they do not specifically address how these actions will impact vulnerable communities from an equity and social justice perspective. The documents do mention the need for community and stakeholder investment and the role of state and federal governments in enabling and supporting local governments and communities. However, these references do not directly relate to the impact on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents outline various actions and strategies related to climate change, such as increasing urban tree canopy cover, enhancing open spaces, and advocating for greater climate action at federal and state levels, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The documents mention community involvement, resilience, and health and well-being as co-benefits of some actions, but these are not explicitly linked to equity or social justice. Therefore, based on the provided documents, it cannot be affirmed that there is a clear plan or discussion on how to ensure that the benefits and opportunities of a safe climate are shared equitably."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 72.5
+  }
+}

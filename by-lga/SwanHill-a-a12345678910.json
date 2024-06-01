@@ -1,0 +1,281 @@
+{
+  "settings": {
+    "source_files": [
+      "SwanHill-2017-Sustainable-Living-Strategy.pdf",
+      "SwanHill-Sustainable-Living-Strategy.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-14T14:55:00.608576",
+    "lga": "SwanHill"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The policy does not explicitly state that climate action is the core purpose or goal. While the policy does include actions related to climate change, such as developing an appropriate mechanism to measure greenhouse gas emissions, facilitating community efforts to adapt to climate change, and encouraging the construction of energy-efficient buildings, these actions are part of a broader sustainability strategy. The policy also addresses other issues such as energy efficiency, building maintenance, and stakeholder relationships. Therefore, while climate action is a significant component of the policy, it is not presented as the core purpose or goal."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document does explicitly explain the need for action on climate change. It outlines the local government's strategic tasks related to climate change, such as facilitating community efforts to adapt to climate change, developing a mechanism to measure greenhouse gas emissions, and working with stakeholders to develop a coordinated approach to climate variability adaptation and mitigation. The document also acknowledges the challenges facing rural communities, such as climate change, both short and longer term fluctuations, and the need for agricultural sector restructuring in response to domestic and global market forces. These challenges, while restricting community capacity to achieve sustainability, are seen as providing substantial new opportunities for innovation and capacity building. Therefore, the document clearly communicates the need for action on climate change.",
+          "quote": {
+            "content": "These challenges, while restricting community capacity to achieve sustainability, provide substantial new opportunities for innovation and capacity building. There are many challenges facing rural communities, such as climate change, both short and longer term fluctuations; agricultural sector restructuring in response to domestic and global market forces and financial market volatility; restructuring of water management regimes through sustainable diversion limits imposed by the Murray Darling Basin Authorities Basin Plan; demographic changes expressed through increasing ageing population and overall population decline in many of the outlying communities.",
+            "page": 3,
+            "source": "SwanHill-Sustainable-Living-Strategy.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline various strategies and actions related to climate change adaptation and mitigation, such as developing an appropriate mechanism to measure greenhouse gas emissions, facilitating community efforts to adapt to climate change, and promoting the municipality as an attractive area for investment in renewable energy facilities. However, these actions are presented as ongoing or long-term tasks, rather than urgent or immediate priorities. The documents also mention the challenges posed by climate change, such as the impact on water allocations and the frequency, duration, and intensity of climatic events. However, these are presented as factors to consider in planning and decision-making, rather than urgent issues requiring immediate action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate. It outlines a strategic plan with actions to be taken, who is responsible for these actions, and when they are to be implemented. For instance, it mentions the development of an appropriate mechanism to measure greenhouse gas emissions by the second year. It also mentions ongoing actions such as regularly reviewing and updating relevant plans and policies in relation to climate variability and change, and energy efficiency. Furthermore, the document states that the actions table within the strategy will be reviewed every four years to ensure they continue to meet the objectives of the long to medium term goals. This indicates a clear commitment to a timeline and regular review of progress.",
+          "quote": {
+            "content": "Regularly review and update relevant plans and policies in relation to climate variability and change, and energy efficiency.",
+            "page": 15,
+            "source": "SwanHill-Sustainable-Living-Strategy.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline various strategies and actions related to climate change adaptation and mitigation, such as developing an appropriate mechanism to measure greenhouse gas emissions, facilitating community efforts to adapt to climate change, and promoting the municipality as an attractive area for investment in renewable energy facilities, they do not explicitly prioritize these actions over other policies. The documents also mention the need to regularly review and update relevant plans and policies in relation to climate variability and change, but again, this is not explicitly prioritized over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is given higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of strategic tasks and actions related to sustainability and climate change, such as managing stormwater, supporting community sustainability, and protecting biodiversity, they do not explicitly require all council activities to align with these tasks. The documents also mention the development of action plans and the review of these plans every four years, but again, there is no explicit requirement for all council activities to align with these plans. Therefore, based on the provided documents, it cannot be affirmed that all council activities must be aligned with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various strategies and actions related to climate change adaptation and mitigation, such as developing an appropriate mechanism to measure greenhouse gas emissions, facilitating community efforts to adapt to climate change, and encouraging the construction of energy-efficient buildings, it does not specify any budget or funding allocation for these initiatives. The policy does mention the development and maintenance of stakeholder relationships to increase external funding and resource opportunities for climate adaptation and mitigation activities, but this is not a direct allocation of funding by the local government. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's policy does allocate non-monetary institutional resources to climate action. The policy outlines specific tasks and actions related to climate change and energy efficiency, and assigns responsibility for these tasks to specific departments within the institution, such as the Natural Resource Management Department (NRM) and the Building Maintenance and Property Department. This allocation of tasks to specific departments implies that staff and other institutional resources will be mobilized to carry out these actions. However, the policy does not provide specific details on the number of staff or the exact nature of the resources that will be allocated.",
+          "quote": {
+            "content": "Regularly review and update relevant plans and policies in relation to climate variability and change, and energy efficiency.",
+            "page": 15,
+            "source": "SwanHill-Sustainable-Living-Strategy.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indeed indicate that the local government is taking steps to empower and educate the community to work together on climate action. The policy outlines a strategic task to 'Support community and organisational sustainability', which includes actions to 'Engage and empower the community in environmental sustainability'. This is further supported by the goal to 'Support the preparation of existing community plans using Transition Towns Tool Kit and other resources to assist communities to adapt to change and achieve a low carbon economy'. These actions suggest a commitment to social mobilisation, as they involve engaging the community, providing them with resources, and supporting their efforts to adapt to climate change and achieve sustainability. However, the document does not provide specific details on how these actions will be implemented, or how their success will be measured.",
+          "quote": {
+            "content": "Support the preparation of existing community plans using Transition Towns Tool Kit and other relevant resources to assist communities to adapt to change and achieve a low carbon economy.",
+            "page": 17,
+            "source": "SwanHill-Sustainable-Living-Strategy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a proactive approach to climate variability adaptation and mitigation, which includes the development of an appropriate mechanism to measure greenhouse gas emissions. This suggests a commitment to technological solutions for monitoring and potentially reducing emissions. The plan also emphasizes the importance of working with stakeholders to develop a coordinated approach to climate change, which could involve behaviour change initiatives. Furthermore, the plan includes actions to facilitate renewable energy projects and promote energy efficiency, both of which are key strategies for reducing greenhouse gas emissions. However, while these actions are clearly stated, the plan could benefit from more detailed information on the specific technologies and behaviour change strategies that will be used."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a strategic task to 'Facilitate community efforts to adapt to climate change' and includes actions such as working with stakeholders to develop a coordinated and proactive approach to climate variability adaptation and mitigation. It also aims to develop and maintain stakeholder relationships that increase external funding and resource opportunities for climate adaptation and mitigation activities. Furthermore, the policy mentions the development of an appropriate mechanism to measure greenhouse gas emissions. These actions indicate a clear commitment to climate adaptation and resilience, with a focus on community involvement and strategic partnerships."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines various actions related to climate change adaptation and mitigation, such as developing a mechanism to measure greenhouse gas emissions and facilitating community efforts to adapt to climate change, it does not provide specific evidence or sources to justify these actions. The policy mentions the need to regularly review and update relevant plans and policies in relation to climate variability and change, and energy efficiency, but it does not provide specific details on how these reviews and updates will be conducted or how they will inform the climate targets and actions. Furthermore, the policy does not provide specific targets for greenhouse gas emissions reductions or other climate-related goals. Therefore, based on the provided documents, it cannot be affirmed that the policy provides well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The Swan Hill Rural City Council's Sustainable Living Strategy 2017-2027 does not provide specific measurable criteria to evaluate the success of its proposed actions. While the policy does outline long-term goals, intermediate outcomes, and evaluation questions, it does not provide specific, measurable criteria against which the success of these actions can be evaluated. For example, the policy mentions the goal to 'achieve self-sustaining communities through increasing their liveability' and to 'utilise the Transition Town Toolkit and other resources to prepare and develop community plans'. However, it does not provide specific indicators or benchmarks that would allow for a clear measurement of success in achieving these goals. The policy also mentions the need to 'regularly review and update relevant plans and policies', but again, it does not provide specific criteria for evaluating the effectiveness of these reviews and updates. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. While the documents mention the importance of the natural environment and the challenges posed by climate change, they do not explicitly state that research will be conducted within the local community to inform climate actions. The documents do mention the development of action plans and strategies, such as the 'Sustainable Living Strategy', and the intention to review and update relevant plans and policies in relation to climate variability and change. However, these are general statements and do not specifically refer to conducting research in the local community."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. While the local government's policy does outline some actions related to climate change, such as developing a mechanism to measure greenhouse gas emissions and facilitating community efforts to adapt to climate change, these actions are relatively standard responses to the issue. The documents do not detail any unique or experimental approaches that would suggest a high level of innovation in their climate policies. Furthermore, the documents do not provide specific details on how these actions will be implemented, making it difficult to assess the potential effectiveness or innovative nature of these strategies."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 4,
+        "score": 0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The provided documents do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents outline various strategies and actions related to climate change adaptation and mitigation, such as developing mechanisms to measure greenhouse gas emissions, facilitating community efforts to adapt to climate change, and promoting energy efficiency. However, these actions seem to be primarily focused on local implementation and do not explicitly mention advocacy towards state and national governments. The documents do mention the development of partnerships that enhance regional outcomes in relation to climate variability and energy efficiency, but it is not clear if this involves advocacy to higher levels of government. Therefore, based on the provided documents, it cannot be conclusively stated that there is an explicit intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The document does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. It outlines key strategic tasks such as managing stormwater and associated infrastructure effectively, and supporting the community to adapt to changes in water management, quality, and availability. The document also mentions the need to improve organisational capacity to protect and enhance biodiversity. Furthermore, it highlights the importance of developing and maintaining stakeholder relationships that increase external funding and resource opportunities for climate adaptation and mitigation activities. This suggests a focus on building capacity and fostering partnerships for climate action. The document also mentions the council's commitment to leading by example and encouraging community participation in sustainability programs, which indicates an advocacy for action.",
+          "quote": {
+            "content": "This will include facilitating a partnership between Council and the community to develop and implement relevant and timely actions, resulting in the achievement of indentified sustainability goals within state, regional and local planning contexts.",
+            "page": 1,
+            "source": "SwanHill-Sustainable-Living-Strategy.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations and partnerships related to climate. It mentions the development and maintenance of partnerships that enhance regional outcomes in relation to climate variability and energy efficiency. This indicates a commitment to collaboration and coordination with other entities in addressing climate change. Furthermore, the document refers to the Mallee Catchment Management Authority in the context of biodiversity protection, which could be seen as an example of a regional alliance related to climate, given the interconnections between climate change and biodiversity. However, the document does not provide specific details about the nature of these partnerships or the entities involved."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do acknowledge the challenges posed by climate change, such as fluctuations in climate, the impact on the agricultural sector, and the need for sustainable water management, they do not specifically address how these challenges might disproportionately affect vulnerable communities. The documents focus more on the general strategies for addressing climate change, such as encouraging community participation in sustainability programs, developing partnerships for implementing sustainability goals, and facilitating community efforts to adapt to climate change. However, the specific impact of these challenges on vulnerable communities, and the measures to address such impacts in the context of equity and social justice, are not explicitly discussed."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline strategies for addressing climate change, such as developing mechanisms to measure greenhouse gas emissions, facilitating community efforts to adapt to climate change, and promoting the municipality as an attractive area for investment in renewable energy facilities, they do not specifically address the equitable distribution of the benefits and opportunities that may arise from these initiatives. The documents focus more on the practical aspects of climate change mitigation and adaptation, rather than on the social justice implications of these actions."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 8,
+    "num_questions": 20,
+    "attribute_score": 51.7
+  }
+}

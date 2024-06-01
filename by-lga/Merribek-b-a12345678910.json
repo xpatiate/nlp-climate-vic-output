@@ -1,0 +1,298 @@
+{
+  "settings": {
+    "source_files": [
+      "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T20:20:13.786728",
+    "lga": "Merribek"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, titled 'Zero Carbon Merri-bek – Climate Emergency Action Plan 2020/21 – 2024/25', clearly identifies climate action as its core purpose. The policy outlines a comprehensive plan to address climate change, with a focus on reducing greenhouse gas emissions and transitioning to a zero-carbon society. The policy acknowledges the climate emergency and outlines a series of actions and initiatives aimed at mobilising the community, businesses, and government to respond to this crisis. These actions include facilitating community food gardens, installing electric vehicle charging stations, and advocating for state and federal governments to enact key policies for a zero-carbon transition. The policy also sets a goal for Merri-bek to achieve a 75% emissions reduction by 2030. Therefore, it is evident that the core purpose of this policy is climate action.",
+          "quote": {
+            "content": "However, more and more households, businesses and councils are facing the urgent challenge of responding to the climate emergency, together. More extreme heatwaves, flash floods and loss of reliable seasonal rains are just some of the impacts hurting our people and wildlife.",
+            "page": 3,
+            "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. It acknowledges the state of climate emergency that requires urgent action by all levels of government and society. The document recognizes the scale and speed of transformation needed to change energy markets, economy, legislation, and lifestyles to eliminate and draw down greenhouse gas emissions. It emphasizes the need for a nationwide and global emergency response. The document also highlights the role of civil society and businesses in demanding emergency-mode action on climate change. It further outlines the council's commitment to engage more deeply to support the community in taking individual and collective action and advocating for urgent and effective policy and legislative reform.",
+          "quote": {
+            "content": "However, more and more households, businesses and councils are facing the urgent challenge of responding to the climate emergency, together. More extreme heatwaves, flash floods and loss of reliable seasonal rains are just some of the impacts hurting our people and wildlife.",
+            "page": 3,
+            "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document indeed calls for rapid and urgent action on climate change. It acknowledges the state of climate emergency that requires immediate action by all levels of government and society. The document emphasizes the need for a nationwide and global emergency response to eliminate and draw down greenhouse gas emissions. It also highlights the importance of transitioning society beyond an incremental approach. The document further outlines specific actions and programs, such as community mobilisation and advocacy campaigns, to respond to the climate emergency. It also sets goals for the community and council to reduce carbon emissions and acknowledges the role of staff across the council in integrating climate action within their service area, strategies, and policies."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. The policy is titled 'Zero Carbon Merri-bek – Climate Emergency Action Plan 2020/21 – 2024/25', indicating a five-year plan of action. The document also mentions a goal for Merri-bek to achieve a 75 per cent emissions reduction by 2030, which is a specific target set for a specific future date. Furthermore, the document outlines 'advocacy asks' for the Australian Government to establish a national Renewable Energy Target (RET) of 100% by 2030. These details provide clear evidence of specific timeframes for the policy's climate-related actions."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": true,
+          "answer": "The document explicitly states that a climate emergency response must have higher priority than other policies. The policy acknowledges the need for 'political will' to prioritise action for a safe climate above the vested interests of the fossil fuel lobby. This suggests that the climate emergency response is considered a priority over other policies, particularly those influenced by the fossil fuel industry. The policy also outlines a commitment to urgent action, acknowledging the scale and speed of transformation needed to eliminate and draw down greenhouse gas emissions. This further underscores the prioritisation of the climate emergency response. The policy also includes specific actions and programs aimed at mobilising the community and advocating for climate emergency response, indicating a strategic focus on this issue.",
+          "quote": {
+            "content": "It is the foundation for the ‘political will’ required to prioritise action for a safe climate above the vested interests of the fossil fuel lobby. We recognise that effective engagement and mobilisation of civil society and businesses in campaigning to demand emergency-mode action on climate change is critical.",
+            "page": 4,
+            "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing the climate emergency and outline various actions and strategies to reduce carbon emissions, they do not mandate that all council activities must be in alignment with these climate policies. The council's strategic approach to advocacy in response to the climate emergency is mentioned, and there are references to staff across the council acknowledging the climate emergency and integrating climate action within their service area, strategies, and policies. However, these references do not constitute a clear directive that all council activities must be aligned with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's plan does explicitly allocate funding for climate action. The documents indicate a clear commitment to financial resource allocation for various climate-related initiatives. For instance, there is a proposed allocation of $410k p/a from 2020/21 for City – Change Integrated Behaviour Change. This includes engaging staff across the council to raise awareness and integrate climate emergency response within council strategies, policies, planning, and services. Additionally, there is a mention of an estimated $104k p/a from 2020/21 for a Climate Emergency Integration Officer. Furthermore, the plan also mentions the provision of grant funding to the Australian Energy Foundation (AEF) for agreed activities supportive of Zero Carbon Moreland (ZCM) 2040 goals, amounting to $200k/pa via a 5-year Funding Agreement. These specific allocations demonstrate a clear commitment to funding climate action.",
+          "quote": {
+            "content": "$104k p/a from 2020/21 for Climate Emergency Integration Officer (fixed term) plus funds within ZCM programs and.",
+            "page": 9,
+            "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines a strategy to engage staff across the council to raise awareness and integrate climate emergency response within council strategies, policies, planning, and services. This includes raising staff awareness of the need for societal transformation and embedding climate mitigation and resilience-thinking into day-to-day service delivery, strategic policies, and workplans. Techniques to engage staff may include speaker presentations, facilitated workshops tailored to each service area, lunchtime film screenings, and peer-to-peer engagement. The plan also includes the allocation of $104k p/a from 2020/21 for a Climate Emergency Integration Officer. Furthermore, the plan mentions the engagement of University (Masters) students in applied project work to develop creative engagement and campaigns."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The policy documents indeed indicate that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a comprehensive plan for community mobilisation and advocacy campaigns to grow the social movement for climate emergency response within communities, businesses, and all levels of government. The policy also includes plans to communicate with diverse communities about the risks and impacts of climate change and foster positive engagement in lifestyle change and community-level initiatives. Furthermore, the policy aims to facilitate networking and capacity-building amongst local and regional community groups and agencies active in campaigning for climate action. The policy also outlines plans to support community-led campaigns through promoting grassroots campaign actions and events."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that combines technological solutions and behaviour change. Technological solutions include the installation of electric vehicle charging stations, piloting community-owned solar energy systems, and introducing kerbside collection of food waste. The plan also emphasizes the importance of behaviour change, with initiatives such as community mobilisation and advocacy campaigns, behaviour change initiatives across energy, transport, and waste, and staff engagement within the council to integrate climate action within their service areas. The plan also sets a goal for Merri-bek to achieve a 75% emissions reduction by 2030. Therefore, the plan does include specific actions for both technological solutions and behaviour change to mitigate greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents from the Merri-bek Council's Zero Carbon Climate Emergency Action Plan do not provide specific actions for climate adaptation and resilience. The documents primarily focus on mitigation strategies such as reducing carbon emissions, community mobilisation and advocacy, and behaviour change initiatives. While these actions are crucial in addressing climate change, they do not directly address adaptation and resilience to the impacts of a changing climate. Adaptation strategies typically involve measures to reduce vulnerability and increase resilience to observed or expected changes in climate, such as developing infrastructure to cope with increased flood risk or implementing strategies to manage heat stress. The documents do not provide evidence of such strategies being included in the plan."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the Merri-bek Council's Climate Emergency Action Plan outlines a number of actions and programs to address climate change, it does not provide specific sources or data to justify these actions. The plan includes measures such as staff integration of climate action, community mobilisation and advocacy campaigns, and the development of sustainable transport initiatives. However, the documents do not provide empirical evidence or cite external sources to support the effectiveness or necessity of these measures. The documents also mention the goal of achieving 75 per cent emissions reduction by 2030, but do not provide a clear rationale or evidence-based justification for this specific target. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not meet the high standard of evidence required to justify their specific targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate action plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a clear goal for the city of Merri-bek to achieve a 75 per cent emissions reduction by 2030. This is a quantifiable target that can be measured and tracked over time. The plan also includes specific actions and programs, such as facilitating community food gardens, installing electric vehicle charging stations, and piloting community-owned solar energy systems. Each of these actions can be evaluated based on their implementation and impact. For instance, the number of charging stations installed or the amount of food produced by community gardens can be measured. Furthermore, the plan mentions the use of a staff survey to measure the integration of climate action within their service area, strategies, and policies. This suggests an intention to evaluate the success of the plan not just in terms of environmental impact, but also in terms of changes in staff behavior and attitudes towards climate action.",
+          "quote": {
+            "content": "Staff across Merri-bek Council acknowledge the climate emergency and understand the role they can play and are integrating climate action within their service area, strategies and policies.",
+            "page": 8,
+            "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy outlines various actions and programs aimed at reducing carbon emissions and responding to the climate emergency, such as community mobilisation and advocacy campaigns, installing electric vehicle charging stations, and facilitating community food gardens. However, these actions appear to be based on existing knowledge and strategies, rather than new research conducted within the local community. The policy does mention the use of surveys to measure staff and community engagement with climate action, but this seems to be more about monitoring progress rather than informing future actions. Therefore, the question cannot be answered in the affirmative based on the provided context."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The Merri-bek Council's Climate Emergency Action Plan does show evidence of innovation and policy experimentation in climate action. The plan outlines a variety of initiatives that demonstrate a willingness to explore new approaches and strategies. For instance, the council plans to engage university students in applied project work to develop creative engagement and campaigns to impact different audiences. This approach shows a willingness to leverage external resources and innovative thinking to address climate change. The council also plans to undertake community mobilisation and advocacy campaigns to grow the social movement for climate emergency response within communities, businesses, and all levels of government. This demonstrates a commitment to policy experimentation, as it involves mobilising various stakeholders in novel ways to address the climate emergency. Furthermore, the council is considering longer-term opportunities such as facilitating residents to participate in and benefit from energy trading, directly incentivising EV uptake, and developing a clean-tech incubator hub. These initiatives indicate a forward-thinking approach and a willingness to experiment with innovative policies and strategies."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines a strategic approach to advocacy in response to the climate emergency, which includes collaboration with other councils and community organisations. The council is seeking actions from Victorian and Australian governments to support their vision of a Zero Carbon Merri-bek. This includes the establishment of a strong, long-term, stable energy policy and carbon price aligned with the science and principles of climate justice. The policy also mentions the need for a national Renewable Energy Target (RET) of 100% by 2030. Furthermore, the policy outlines plans to collaborate with other local councils and regional groups/alliances to run targeted and visible advocacy campaigns to impact state and federal policy to facilitate transition to zero emissions energy, transport, and waste management.",
+          "quote": {
+            "content": "The below is a non-exhaustive list of actions Council is seeking from Victorian and Australian governments to support the vision of a Zero Carbon Merri-bek.",
+            "page": 24,
+            "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The Merri-bek Council's policy documents clearly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a range of initiatives aimed at mobilising the community and advocating for climate emergency response. These initiatives include communicating with Merri-bek’s diverse communities about the risks and impacts of climate and ecological breakdown, fostering positive engagement in lifestyle change, and community-level initiatives. The policy also mentions facilitating networking and capacity-building amongst local and regional community groups and agencies active in campaigning for climate action. Furthermore, the policy encourages collaboration with other local councils and regional groups/alliances to run targeted and visible advocacy campaigns to impact state and federal policy to facilitate transition to zero emissions energy, transport, and waste management."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Merri-bek Council's Climate Emergency Action Plan outlines a strategy that includes collaboration with other local councils and regional groups/alliances to run targeted and visible advocacy campaigns. These campaigns aim to impact state and federal policy to facilitate the transition to zero emissions energy, transport, and waste management. The plan also mentions facilitating networking and capacity-building amongst local and regional community groups and agencies active in campaigning for climate action. This indicates a clear intention to work in partnership with other organizations and entities to achieve their climate goals."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities, particularly in relation to equity and social justice. It acknowledges that the impacts of climate breakdown will not be borne equally or fairly among different groups, such as between rich and poor, women and men, and older and younger generations. This recognition is embedded in the Merri-bek Human Rights Policy, which provides a framework for delivering accessible, equitable, and inclusive programs, services, and decision-making processes. The policy also highlights a growing focus on 'climate justice', which views the climate crisis through a human rights lens. This approach emphasizes the belief that collective action can create a better future for present and future generations. Therefore, the document not only acknowledges the differential impacts of climate change but also advocates for a just response that prioritizes the rights and needs of vulnerable communities.",
+          "quote": {
+            "content": "Consequently, there is a growing focus on ‘climate justice’, which looks at the climate crisis through a human rights lens and on the belief that by working together we can create a better future for present and future generations. The impacts of climate breakdown will not be borne equally or fairly, between rich and poor, women and men, and older and younger generations etc.",
+            "page": 22,
+            "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate, particularly through the lens of 'climate justice'. The Merri-bek Human Rights Policy is mentioned as providing a framework for delivering accessible, equitable, and inclusive programs, services, and decision-making processes. The document acknowledges that the impacts of climate breakdown will not be borne equally or fairly among different societal groups. Therefore, there is a growing focus on 'climate justice', which looks at the climate crisis through a human rights lens. This approach is based on the belief that by working together, a better future can be created for present and future generations. However, the document does not provide specific details on how these benefits and opportunities will be equitably shared.",
+          "quote": {
+            "content": "Consequently, there is a growing focus on ‘climate justice’, which looks at the climate crisis through a human rights lens and on the belief that by working together we can create a better future for present and future generations. The impacts of climate breakdown will not be borne equally or fairly, between rich and poor, women and men, and older and younger generations etc.",
+            "page": 22,
+            "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 16,
+    "num_questions": 20,
+    "attribute_score": 80
+  }
+}

@@ -1,0 +1,970 @@
+{
+  "attribute": 10,
+  "question": 18,
+  "finding": true,
+  "num": 112,
+  "responses": [
+    {
+      "answer": "The document does indeed refer to specific regional associations, alliances, or other partnerships related to climate. It mentions the need for regional collaboration to reduce effort and share learnings in adaptation efforts. It also highlights the role of external collaborators such as DELWP, Bass Coast Landcare, and community groups and organizations in leading and supporting sustainable environment planning and asset management. Furthermore, the document outlines the convening of a multi-stakeholder workshop to identify climate-related risks, challenges, and opportunities. This suggests a collaborative approach involving various stakeholders in addressing climate change. The document also mentions the role of Federation University and West Gippsland Catchment Management Authority in supporting businesses to prepare for climate change. Therefore, the document clearly indicates the involvement of specific regional associations and partnerships in climate-related actions.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations, alliances, or other partnerships related to climate. It mentions the need for regional collaboration to reduce effort and share learnings in adaptation efforts. It also highlights the role of external collaborators such as DELWP, Bass Coast Landcare, and community groups and organizations in leading and supporting sustainable environment planning and asset management. Furthermore, the document outlines the importance of convening a multi-stakeholder workshop to identify climate-related risks, challenges, and opportunities. This suggests a commitment to partnership and collaboration in addressing climate change.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, and partnerships related to climate change. The Goulburn Broken Greenhouse Alliance is a notable example, established in 2007 to support regional climate action. The Alliance's Strategic Plan outlines how this will be achieved, focusing on training, partnerships, and information provision. The Benalla Rural City Council is a member of this Alliance, along with other Councils in the Goulburn Broken catchment, and has been involved in projects undertaken as part of the Alliance. These projects include the development of a regional Climate Change Adaptation Plan, replacement of public street-lights with energy-efficient lighting, training for staff on climate change impacts, and a project called Climate Smart Agriculture. The Alliance's focus is on supporting local governments to take action against climate change.",
+      "source": "Benalla-a-a12345678910.json",
+      "lga": "Benalla",
+      "quote": {
+        "content": "Benalla Rural City Council is a member of the Alliance along with a number of other Councils in the Goulburn Broken catchment, and has been involved in the projects undertaken as part of the Alliance. The Goulburn Broken Greenhouse Alliance was established in 2007 to support regional climate action. Their current Strategic Plan outlines how this will be achieved, focussing on training, partnerships, and information provision.",
+        "page": 35,
+        "source": "Benalla-Environment_Strategy_2016_20.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The Goulburn Broken Greenhouse Alliance is a notable example, established in 2007 to support regional climate action. The Alliance's Strategic Plan outlines its approach, focusing on training, partnerships, and information provision. The Benalla Rural City Council is a member of this Alliance, along with other Councils in the Goulburn Broken catchment, and has been involved in projects undertaken as part of the Alliance. These projects include the development of a regional Climate Change Adaptation Plan, replacement of public street-lights with energy-efficient lighting, and training for staff on climate change impacts. The Alliance's focus is on supporting local governments to take action against climate change. Other agencies, such as CSIRO, also engage with how climate change impacts the environment.",
+      "source": "Benalla-b-a12345678910.json",
+      "lga": "Benalla",
+      "quote": {
+        "content": "Benalla Rural City Council is a member of the Alliance along with a number of other Councils in the Goulburn Broken catchment, and has been involved in the projects undertaken as part of the Alliance. The Goulburn Broken Greenhouse Alliance was established in 2007 to support regional climate action. Their current Strategic Plan outlines how this will be achieved, focussing on training, partnerships, and information provision.",
+        "page": 35,
+        "source": "Benalla-Environment_Strategy_2016_20.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate action. The City of Boroondara is involved in the Eastern Alliance for Greenhouse Action, as stated in the Climate Action Plan: Implementation Plan 2023/24 and 2024/25. This alliance is a regional response to climate change, and the city's participation aligns with action 6.6 of their Climate Action Plan. Additionally, the city also participates in the Council Alliance for a Sustainable Built Environment, which is another regional initiative aimed at promoting sustainable practices in the built environment. This participation aligns with action 6.6 as well. These alliances demonstrate the city's commitment to collaborative action and advocacy in addressing climate change.",
+      "source": "Boroondara-a-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "Ongoing 6.17 Continue to participate in the Eastern Alliance for Greenhouse Action. Aligns with action 6.6. Aligns with action 6.6. Ongoing 6.18 Continue to participate in the Council Alliance for a Sustainable Built Environment. Aligns with action 6.6. Aligns with action 6.6.",
+        "page": 15,
+        "source": "Boroondara-Climate-Action-Plan-Implementation_plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate action. The City of Boroondara is involved in the Eastern Alliance for Greenhouse Action, as stated in action 6.17 of the Climate Action Plan: Implementation Plan 2023/24 and 2024/25. This alliance is a regional response to climate change, and the city's participation aligns with action 6.6 of the Climate Action Plan. The city also participates in the Council Alliance for a Sustainable Built Environment, as outlined in action 6.18. This alliance is another regional effort to address climate change, and the city's participation aligns with action 6.6 of the Climate Action Plan. These alliances demonstrate the city's commitment to working with other councils and organizations to address climate change at a regional level.",
+      "source": "Boroondara-b-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "Ongoing 6.17 Continue to participate in the Eastern Alliance for Greenhouse Action. Aligns with action 6.6. Aligns with action 6.6. Ongoing 6.18 Continue to participate in the Council Alliance for a Sustainable Built Environment. Aligns with action 6.6. Aligns with action 6.6.",
+        "page": 15,
+        "source": "Boroondara-Climate-Action-Plan-Implementation_plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government is seen to be actively collaborating with various entities to address climate change. For instance, the 'Climate Change Adaptation Framework' document mentions the Western Alliance for Greenhouse Action, a partnership with RMIT Centre for Urban Research and the Net Balance Foundation, which produced a monitoring, evaluation, and reporting (ME&R) framework for adaptation performance. The document also refers to collaborations with other emergency management agencies, VicRoads, and other councils. Furthermore, the document mentions the 'Resilient Melbourne’s Neighbourhood project' as a potential opportunity for community strengthening programs that support climate resilience. These partnerships and collaborations are crucial for the local government to effectively address climate change at the local level.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government's policy outlines the need for partnerships with other key agencies and levels of government to effectively adapt to climate change. The policy also mentions the Western Alliance for Greenhouse Action, a partnership with RMIT Centre for Urban Research and the Net Balance Foundation, which produced a monitoring, evaluation, and reporting (ME&R) framework for adaptation performance. The policy also refers to collaborations with other emergency management agencies for advice on factoring in climate change into emergency management planning and preparedness. Furthermore, the policy mentions working with partner agencies such as VicRoads to understand best practice approaches to manage climate change impacts on roads and related infrastructure. These references indicate a clear recognition of the importance of partnerships and collaborations in addressing climate change.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank"
+    },
+    {
+      "answer": "The document does indeed refer to specific partnerships and alliances related to climate change. The local government acknowledges the importance of partnering with other agencies, government departments, businesses, industry bodies, and the community to deliver projects and solutions to environmental challenges. It also mentions the significance of engagement through various programs and plans such as 'Building the Case for Waste, Resource Recovery and Waste Strategy 2018-23' and 'Waste and Environment Behaviour Change Program 2019-2024'. Furthermore, the document refers to the 'Loddon Mallee Climate Ready Plan', a five-year plan with a place-based approach that aims to strengthen capacity on local communities and empower them to work together in response to local challenges that can’t be addressed at the state-wide level. This indicates a clear commitment to regional collaboration and partnership in addressing climate change.",
+      "source": "Campaspe-a-a12345678910.json",
+      "lga": "Campaspe",
+      "quote": {
+        "content": "The Loddon Mallee Climate Ready Plan is a five-year plan with a place-based approach that aims to strengthen capacity on local communities and empower them to work together in response to local challenges that can’t be addressed at the state-wide level.",
+        "page": 22,
+        "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does indeed refer to specific partnerships and alliances related to climate change. The local government acknowledges the importance of partnering with other agencies, government departments, businesses, industry bodies, and the community to deliver projects and solutions to challenges faced. This includes climate change adaptation and mitigation efforts. The document also mentions the council's choice to continue partnering with other agencies, government departments, businesses, and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. However, the document does not explicitly name any specific regional associations or alliances. It does, however, refer to the 'Loddon Mallee Climate Ready Plan', which is a five-year plan with a place-based approach that aims to strengthen capacity on local communities and empower them to work together in response to local challenges that can’t be addressed at the state-wide level. This suggests that the local government is involved in regional partnerships or alliances related to climate change.",
+      "source": "Campaspe-b-a12345678910.json",
+      "lga": "Campaspe",
+      "quote": {
+        "content": "• Council chooses to:\n• \nLead by example in responding and adapting to \nclimate change. • \nSupport community, business and industry to respond \nto the impacts of a changing climate. • \nAdopt, support and promote sustainable and \naffordable energy options. • \nContinue to partner with other agencies, government \ndepartments, businesses and the community to share \nknowledge and explore funding opportunities to adapt \nand mitigate the impacts of climate change.",
+        "page": 21,
+        "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do refer to specific regional associations and partnerships related to climate. Specifically, the Cardinia Shire Council's Climate Change Adaptation Plan mentions the South Eastern Councils Climate Change Alliance (SECCCA). This is a regional association of nine councils in the southeast of Melbourne, Australia, working together to respond to climate change. The document outlines the council's plan to participate in regional climate adaptation and resilience projects through SECCCA. This indicates that the council is not only aware of the importance of partnerships and alliances in addressing climate change but is also actively seeking to engage in such collaborations. The involvement in SECCCA also suggests that the council is committed to a regional approach to climate change adaptation, recognizing that effective responses to climate change often require collective action across multiple jurisdictions.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "Participate in regional climate adaption and resilience \nprojects through SECCCA \nOngoing \n2023-24",
+        "page": 2,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy___Action_plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do indeed refer to specific regional associations and partnerships related to climate. Specifically, the Cardinia Shire Council's Climate Change Adaptation Plan mentions the South Eastern Councils Climate Change Alliance (SECCCA). This is a regional association of nine councils in the South East of Melbourne, Australia, working together on projects related to climate change. The document outlines an action plan that includes ongoing participation in regional climate adaptation and resilience projects through SECCCA. This indicates that the local government is not only aware of the importance of collaboration and partnerships in addressing climate change but is also actively involved in such initiatives.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "Participate in regional climate adaption and resilience \nprojects through SECCCA \nOngoing \n2023-24",
+        "page": 2,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy___Action_plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does refer to specific regional associations, alliances or other partnerships related to climate. The City of Casey's Emissions Management Plan 2018-2022 highlights the importance of communication and engagement with stakeholders and the community for the successful implementation of the plan. This includes external communications with the wider community and sharing information through local government alliances. Specifically, the document mentions the South Eastern Councils Climate Change Alliance (SECCCA) as a platform for sharing information. This suggests that the City of Casey is actively involved in regional associations and alliances that focus on climate change and is committed to sharing its successes and failures to maximise benefit to the broader community.",
+      "source": "Casey-a-a12345678910.json",
+      "lga": "Casey"
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations or alliances related to climate. The City of Casey's Emissions Management Plan 2018-2022 mentions the South Eastern Councils Climate Change Alliance (SECCCA) as a platform for sharing information. This suggests that the City of Casey is not working in isolation but is part of a broader network of local governments collaborating on climate change issues. The document also mentions the City's commitment to the Victoria’s TAKE2 Pledge, which is a state government initiative to achieve net zero greenhouse gas emissions by 2050. This shows that the City is aligning its local efforts with broader state and national targets.",
+      "source": "Casey-b-a12345678910.json",
+      "lga": "Casey"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Central Goldfields Climate Action Plan emphasizes the importance of a partnership approach to tackle climate change. It mentions the involvement of various stakeholders, including Dja Dja Wurrung Traditional Owners, community leaders, community services, schools, health organizations, farmers, industry, business, and regional agencies. These stakeholders are expected to work together to oversee, govern, and activate the implementation, monitoring, and evaluation of the Plan. The Plan also mentions the establishment of a community energy group to investigate and facilitate renewable energy opportunities that benefit the community. Furthermore, the Plan highlights the role of advocacy in achieving climate action goals and influencing broader systemic changes at regional, state, and national levels.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Central Goldfields Climate Action Plan emphasizes the importance of a partnership approach to tackle climate change. It mentions the involvement of various stakeholders, including Dja Dja Wurrung Traditional Owners, community leaders, community services, schools, health organizations, farmers, industry, business, and regional agencies. These stakeholders are expected to work together to oversee, govern, and activate the implementation, monitoring, and evaluation of the Plan. The Plan also mentions the role of advocacy in seeking investment from the State and Commonwealth governments for initiatives and developments that are needed and important to communities. Furthermore, the Plan outlines the creation of a website to connect, inform, and empower the community regarding climate science and local climate actions.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields"
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, or other partnerships related to climate. It mentions the local government's plan to continue partnering across the region and government sector to deliver on climate change initiatives through a collaborative approach. Specific examples of these partnerships include the Barwon South West Climate Alliance and Sustainability Victoria programs. The document also emphasizes the importance of engaging with communities and stakeholders, advocating for climate change solutions, and sharing best practices through regional and local climate change networks. This indicates a clear commitment to coordination, partnerships, and advocacy for action on climate change.",
+      "source": "ColacOtway-a-a12345678910.json",
+      "lga": "ColacOtway",
+      "quote": {
+        "content": "Barwon South West Climate Alliance, Sustainability Victoria programs and energy efficiency and partnership opportunities.",
+        "page": 31,
+        "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, or other partnerships related to climate. It mentions the local government's plan to continue partnering across the region and government sector to deliver on climate change initiatives through a collaborative approach. Specific examples of these partnerships include the Barwon South West Climate Alliance and Sustainability Victoria programs. The document also mentions the local government's plan to encourage and foster the uptake of electric vehicles throughout the region through partnerships, advocacy, and strategic support. These partnerships and alliances are part of the local government's strategy to address climate change and promote sustainable practices.",
+      "source": "ColacOtway-b-a12345678910.json",
+      "lga": "ColacOtway",
+      "quote": {
+        "content": "Barwon South West Climate Alliance, Sustainability Victoria programs and energy efficiency and partnership opportunities.",
+        "page": 31,
+        "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The policy document does indeed refer to specific regional associations and partnerships related to climate. The Corangamite Shire Council is a member of the Climate Resilient Communities of the Barwon South West project. This project is a joint collaboration between 10 municipalities and DEPI (Department of Environment, Land, Water and Planning). The project's aim is to assist municipalities and stakeholders to understand and respond to risks and opportunities presented by future climatic changes. This indicates that the council is not working in isolation but is part of a broader network of local governments and agencies, collaborating to address the challenges of climate variability and change. The policy also mentions the council's role in advocating for support, such as increased research, information and investment, to develop local adaptation responses to climate variability. However, the document does not provide specific details about the nature of these advocacy efforts or the targets of such advocacy.",
+      "source": "Corangamite-a-a12345678910.json",
+      "lga": "Corangamite",
+      "quote": {
+        "content": "The project aims to assist municipalities and stakeholders to understand and respond to risks and opportunities presented by future climatic changes Council is a member of the Climate Resilient Communities of the Barwon South West project, which is a joint collaboration between 10 municipalities and DEPI.",
+        "page": 18,
+        "source": "Corangamite-Shire-Environment-2019.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The policy document does indeed refer to specific regional associations and partnerships related to climate. The local government is part of the 'Climate Resilient Communities of the Barwon South West project', which is a joint collaboration between 10 municipalities and DEPI. This project aims to assist municipalities and stakeholders to understand and respond to risks and opportunities presented by future climatic changes. This indicates that the local government is actively involved in regional collaborations to address climate change and its impacts. The policy also outlines strategies to collaborate with agencies, industry, research institutes, and the community to fill knowledge gaps and identify climate impacts to the local environment, community, and economy. This suggests a commitment to partnership and advocacy for action on climate change.",
+      "source": "Corangamite-b-a12345678910.json",
+      "lga": "Corangamite",
+      "quote": {
+        "content": "The project aims to assist municipalities and stakeholders to understand and respond to risks and opportunities presented by future climatic changes Council is a member of the Climate Resilient Communities of the Barwon South West project, which is a joint collaboration between 10 municipalities and DEPI.",
+        "page": 18,
+        "source": "Corangamite-Shire-Environment-2019.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Darebin Council has outlined its commitment to climate action through various partnerships and alliances. It has mentioned its participation in alliance-led campaigns and its intention to lead, contribute to, and form new key alliances/networks and cross-sector partnerships. The council also plans to seek partnership opportunities with the Victorian and Australian governments for innovative programs that align with Council priorities. Furthermore, the council has expressed its intention to join the Cities Power Partnership and the Global Covenant of Mayors for Climate and Energy. These alliances aim to support, celebrate, and accelerate the climate leadership municipal governments are demonstrating, on the national and international stages respectively. These alliances will amplify the council's ability to share its own models of success with others, and learn from the experiences and innovations of councils around Australia and the world.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Joining these fora also provides an opportunity for us to spread the Climate Emergency message, and to invite other members to join us in declaring a state of Climate Emergency and committing to the actions that will restore a safe climate for current and future generations.",
+        "page": 35,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate. The Darebin Council has outlined its commitment to climate action through various partnerships and alliances. It has mentioned its participation in alliance-led campaigns and its intention to lead, contribute to, and form new key alliances/networks and cross-sector partnerships. The council also plans to seek partnership opportunities with the Victorian and Australian governments for innovative programs that align with Council priorities. Furthermore, the council has expressed its intention to join the Cities Power Partnership and the Global Covenant of Mayors for Climate and Energy. These alliances aim to support, celebrate, and accelerate the climate leadership municipal governments are demonstrating, on the national and international stages respectively. These alliances will amplify the council's ability to share its own models of success with others, and learn from the experiences and innovations of councils around Australia and the world.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Joining these fora also provides an opportunity for us to spread the Climate Emergency message, and to invite other members to join us in declaring a state of Climate Emergency and committing to the actions that will restore a safe climate for current and future generations.",
+        "page": 35,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government policy outlines a commitment to work with regional greenhouse alliances to progress the Council's corporate and community carbon emission reduction priorities and opportunities. This is a clear indication of the Council's intent to collaborate with regional alliances to address climate change. Furthermore, the policy also mentions the Victorian Government's TAKE2 climate change pledge, which the Council supports and reports on. This shows the Council's commitment to partnering with state-level initiatives to combat climate change. The policy also mentions the possibility of joining organizations and groups working on greenhouse mitigation, such as the Cities Power Partnership, to stay updated on new projects, developments, and opportunities. This suggests a proactive approach to seeking partnerships and collaborations to address climate change.",
+      "source": "Frankston-a-a12345678910.json",
+      "lga": "Frankston",
+      "quote": {
+        "content": "Cities Power Partnership) to ensure Council keeps abreast of new projects, developments and opportunities as they arise. Continue to support the Victorian Government’s TAKE2 climate change pledge and publically report on Council’s progress against committed actions.",
+        "page": 47,
+        "source": "Frankston-2019-zero-emissions-plan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government policy outlines a commitment to work with regional greenhouse alliances to progress the Council's corporate and community carbon emission reduction priorities and opportunities. This is mentioned as an ongoing action, indicating a sustained effort to collaborate with these alliances. Furthermore, the policy also mentions the Victorian Government's TAKE2 climate change pledge, which the Council continues to support and report on. This suggests a partnership with the state government in addressing climate change. The policy also mentions the possibility of joining organizations and groups working on greenhouse mitigation, such as the Cities Power Partnership, to stay updated on new projects and opportunities. This indicates a willingness to form new partnerships to enhance their climate change response.",
+      "source": "Frankston-b-a12345678910.json",
+      "lga": "Frankston",
+      "quote": {
+        "content": "Cities Power Partnership) to ensure Council keeps abreast of new projects, developments and opportunities as they arise. Continue to support the Victorian Government’s TAKE2 climate change pledge and publically report on Council’s progress against committed actions.",
+        "page": 47,
+        "source": "Frankston-2019-zero-emissions-plan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Glen Eira City Council's Climate Emergency Response Strategy 2021–2025 outlines several partnerships and alliances. For instance, the Eastern Alliance for Greenhouse Action is mentioned as a partner in the council's ongoing climate and sustainability efforts. This alliance is a regional group of councils working together to respond to climate change. The council also mentions working with other local governments and partners to advocate to State and Federal Government for the rapid removal of barriers to climate action. Furthermore, the council plans to work with partners to improve the resilience of and access to local emergency relief centres. These partnerships and alliances are crucial for the council's climate action strategy as they provide a platform for collaboration, sharing of resources, and collective advocacy.",
+      "source": "GlenEira-a-a12345678910.json",
+      "lga": "GlenEira"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Glen Eira City Council's Climate Emergency Response Strategy 2021–2025 outlines several partnerships and alliances. For instance, the Eastern Alliance for Greenhouse Action is mentioned as a partner in the council's ongoing climate and sustainability efforts. This alliance is a regional group of councils working together to respond to climate change. The council also mentions working with other local governments and partners to advocate for the removal of barriers to climate action. Furthermore, the council plans to work with partners to improve the resilience of and access to local emergency relief centres. These partnerships and alliances are crucial for the council's climate action plan as they provide a collaborative approach to addressing climate change, leveraging shared resources, knowledge, and influence.",
+      "source": "GlenEira-b-a12345678910.json",
+      "lga": "GlenEira"
+    },
+    {
+      "answer": "The documents do refer to specific regional associations, alliances, or other partnerships related to climate. The local government policy outlines a strategy for climate change that involves partnering with various groups and agencies. For instance, the policy mentions the establishment of a partnership network of environmental stakeholders who meet quarterly with the aim of developing partnership projects to implement the strategy. The policy also refers to the council's role in leading communities and those with roles in coastal management in discussions, risk assessment, and planning for impacts of climate change and extreme events on the coast. The policy also mentions the council's role in supporting strong local educational programs on climate change impacts. These partnerships and collaborations are crucial for the successful implementation of the policy's climate change strategies.",
+      "source": "Glenelg-a-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The documents do refer to specific regional associations, alliances, or other partnerships related to climate. The local government policy outlines a strategy for climate change that involves partnering with various groups and agencies. For instance, the policy mentions the establishment of a partnership network of environmental stakeholders who meet quarterly with the aim of developing partnership projects to implement the strategy. The policy also refers to the council's role in leading communities and those with roles in coastal management in discussions, risk assessment, and planning for impacts of climate change and extreme events on the coast. The policy also mentions the council's role in supporting strong local educational programs on climate change impacts. These references suggest that the local government is actively seeking to collaborate with various stakeholders to address climate change.",
+      "source": "Glenelg-b-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Golden Plains Shire Council is part of the Victorian Energy Collaboration, which sources all power renewably, accounting for 52% of emissions. The Council is also a founding member of the Barwon South West Climate Alliance, a collaboration of councils, catchment management authorities, water authorities, and universities in the Barwon South West region, aiming to take collective action on climate change. Furthermore, the Council plans to use its leadership and resources to partner with the community, other councils, Traditional Owner groups, and the Barwon South West Climate Alliance to amplify community voices and undertake collective advocacy and action. These partnerships and collaborations are crucial for the Council's climate action plan, as they provide a platform for shared resources, knowledge, and advocacy.",
+      "source": "GoldenPlains-a-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "To address the Climate Emergency, Council will use its leadership and resources to partner with the community, other Councils, Traditional Owner groups and the Barwon South West Climate Alliance to amplify community voices and undertake collective advocacy and action.",
+        "page": 20,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Golden Plains Shire Council is part of the Victorian Energy Collaboration, which sources all power renewably, accounting for 52% of emissions. The Council is also a founding member of the Barwon South West Climate Alliance, a collaboration of councils, catchment management authorities, water authorities, and universities in the Barwon South West region, aiming to take collective action on climate change. Furthermore, the Council plans to use its leadership and resources to partner with the community, other councils, Traditional Owner groups, and the Barwon South West Climate Alliance to amplify community voices and undertake collective advocacy and action. These partnerships and collaborations are crucial for the Council's climate action plan, as they provide a platform for shared resources, knowledge, and advocacy.",
+      "source": "GoldenPlains-b-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "To address the Climate Emergency, Council will use its leadership and resources to partner with the community, other Councils, Traditional Owner groups and the Barwon South West Climate Alliance to amplify community voices and undertake collective advocacy and action.",
+        "page": 20,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations and partnerships related to climate action. It mentions the establishment of a project working group consisting of experienced professionals across the council, including staff from various fields such as health and wellbeing, biodiversity, parks and open space, transport, economic development, emergency management, and climate change. This group was responsible for co-writing the Climate Change and Environment Strategy. Furthermore, the document outlines a plan for regional advocacy, which involves bringing together councils from the Loddon Campaspe regional network to create and design regional-scale climate projects. This indicates a clear intention to collaborate with regional partners to address climate change.",
+      "source": "GreaterBendigo-a-a12345678910.json",
+      "lga": "GreaterBendigo"
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations and partnerships related to climate action. It mentions the establishment of a project working group composed of experienced professionals across the council, including staff from various fields such as health and wellbeing, biodiversity, parks and open space, transport, economic development, emergency management, and climate change. This group was responsible for co-writing the Climate Change and Environment Strategy. Furthermore, the document outlines a plan for regional advocacy, which involves bringing together councils from the Loddon Campaspe regional network to create and design the top 10 regional-scale climate projects to advocate for. This indicates a clear intention to collaborate with regional partners to address climate change.",
+      "source": "GreaterBendigo-b-a12345678910.json",
+      "lga": "GreaterBendigo"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Greater Dandenong City Council is shown to be actively involved in advocacy and collaboration with various stakeholders at different levels of government and within the community. The council is seen to be working with key stakeholders to participate in collaborative mitigation and adaptation opportunities across the municipality and region. It also advocates for the State and Federal governments to declare a Climate and Ecological Emergency, develop programs to reduce greenhouse gases, and establish a National Climate Response Plan. The council also works with regional partners to seek increased Federal and State Government support to meet the needs and priorities of local businesses to respond to climate change. Furthermore, the council is part of local government alliances such as South East Melbourne, the Eastern Transport Coalition, and the Monash National Employment and Innovation Cluster, which are instrumental in advocating for climate change resilience.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong",
+      "quote": {
+        "content": "Establish a National Climate Response Plan that involves the three levels of government mitigating climate-caused risks based on climate science evidence. Develop programs to drive emergency action to reduce greenhouse gases and meet the lower target of the Paris Agreement to keep global warming below 1.5 degrees.",
+        "page": 13,
+        "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Greater Dandenong City Council is shown to be actively involved in advocacy efforts and collaborations with various stakeholders to address climate change. The council is seen to be working with key stakeholders to participate in collaborative mitigation and adaptation opportunities across the municipality and region. It also advocates for the State and Federal governments to declare a Climate and Ecological Emergency, develop programs to reduce greenhouse gases, and establish a National Climate Response Plan. The council is also involved in advocacy efforts with regional partners to seek increased Federal and State Government support to meet the needs and priorities of local businesses to respond to climate change. Furthermore, the council is part of local government alliances such as South East Melbourne, the Eastern Transport Coalition, and the Monash National Employment and Innovation Cluster, which are involved in advocacy efforts to build the local community’s resilience to the impacts of climate change.",
+      "source": "GreaterDandenong-b-a12345678910.json",
+      "lga": "GreaterDandenong",
+      "quote": {
+        "content": "This includes advocacy undertaken by Council directly and through its membership of local government alliances such as South East Melbourne, the Eastern Transport Coalition and the Monash National Employment and Innovation Cluster.",
+        "page": 70,
+        "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate. The local government has established various working groups and partnerships in critical risk areas of coastal planning, health and wellbeing, and emergency management. They have also formed a Sustainability Advisory Committee to support the implementation of the plan. Furthermore, the government plans to establish the Barwon South West Climate Alliance to build networks and cross-agency relationships in climate change adaptation planning. This alliance will provide an opportunity for the government to share knowledge, coordinate advocacy, and deliver collaborative climate action across the region. The government also plans to work in partnership with community groups, businesses, and other organizations to promote and educate the community about sustainable practices.",
+      "source": "GreaterGeelong-a-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "On a broader regional scale, the new Barwon South West Climate Alliance will provide an opportunity for us to share knowledge, coordinate advocacy and deliver collaborative climate action across the region.",
+        "page": 42,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. The local government has established various working groups and partnerships in critical risk areas of coastal planning, health and wellbeing, and emergency management. They have also formed a Sustainability Advisory Committee to support the implementation of the plan. The document also mentions the establishment of the Barwon South West Climate Alliance, which will provide an opportunity for knowledge sharing, advocacy coordination, and collaborative climate action across the region. Furthermore, the local government plans to collaborate with primary producers, Traditional Owners, community groups, businesses, and other organizations to promote sustainable practices and educate the community about climate change. These partnerships and alliances are integral to the local government's coordinated and collaborative approach to climate action.",
+      "source": "GreaterGeelong-b-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "On a broader regional scale, the new Barwon South West Climate Alliance will provide an opportunity for us to share knowledge, coordinate advocacy and deliver collaborative climate action across the region.",
+        "page": 42,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations or partnerships related to climate. It mentions the Goulburn Murray Climate Alliance in the context of the local government's strategic priority of supporting a thriving, climate-smart local agricultural sector. The document suggests that the local government will continue to work with this alliance, implying a partnership or association that is focused on addressing climate change. This alliance is likely to play a significant role in the local government's climate action, particularly in the agricultural sector, which is identified as economically significant and a major source of greenhouse gas emissions. The document, however, does not provide further details about the nature of this alliance, its specific role, or the extent of its involvement in the local government's climate action.",
+      "source": "GreaterShepparton-a-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations or partnerships related to climate. It mentions the Goulburn Murray Climate Alliance in the context of supporting a thriving, climate-smart local agricultural sector. This alliance is mentioned as a partner with which the local government will continue to work. The document also refers to a partnership approach in the development of the Action Plan, involving community members, businesses, farmers, and community groups. These stakeholders have helped identify key barriers and opportunities for climate action, and shared their knowledge on how they have adapted to climate change impacts. This indicates a collaborative approach to climate action, involving various local and regional entities.",
+      "source": "GreaterShepparton-b-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government has committed to supporting the implementation of the Grampians Region Adaptation Strategy 2020-25, which is a regional initiative for climate change adaptation. This strategy is supported by the Department Environment Land Water and Planning (DELWP), indicating a partnership at the state level. The documents also mention the involvement of Djaara, Landcare groups, and other agencies in climate adaptation for biodiversity. Furthermore, the local government is working with telecommunications companies to build backup capacity into communications systems for blackouts and disasters, which is a part of their climate resilience plan. These partnerships and collaborations demonstrate the local government's commitment to a coordinated approach to climate change adaptation and resilience.",
+      "source": "Hepburn-a-a12345678910.json",
+      "lga": "Hepburn",
+      "quote": {
+        "content": "Our Region’s biodiversity and natural ecosystems are protected and resilient. Council has committed to supporting the implementation of the Grampians Region Adaptation Strategy 2020-25 which has the following goals: Our regional responses to climate change are coordinated, resourced and evidence based. Our Region’s biodiversity and natural ecosystems are protected and resilient.",
+        "page": 83,
+        "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations and partnerships related to climate. It mentions the Grampians Region Climate Adaptation Strategy 2021-25, which is a regional initiative for climate change adaptation. The document also refers to the Department Environment Land Water and Planning (DELWP) as a partner in building Victoria's climate resilience. The council has committed to supporting the implementation of the Grampians Region Adaptation Strategy 2020-25. The document also mentions working with Djaara on flood, fire, and storm mitigation practices, indicating a partnership with indigenous groups. These partnerships and associations are crucial for a coordinated approach to climate change adaptation and resilience.",
+      "source": "Hepburn-b-a12345678910.json",
+      "lga": "Hepburn",
+      "quote": {
+        "content": "Our Region’s biodiversity and natural ecosystems are protected and resilient. Council has committed to supporting the implementation of the Grampians Region Adaptation Strategy 2020-25 which has the following goals: Our regional responses to climate change are coordinated, resourced and evidence based. Our Region’s biodiversity and natural ecosystems are protected and resilient.",
+        "page": 83,
+        "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents do refer to specific regional associations and partnerships related to climate change. The local government has developed a Climate Change Adaptation Strategy, an Integrated Water Management Plan, and an Economic Development Position Paper. These documents outline the government's approach to climate change adaptation, including partnerships with various stakeholders. For instance, the government is working with Township Committees to ensure understanding of emergency response procedures in the context of climate change. The documents also mention the involvement of other agencies and industry groups, such as the DPI and BCG, in ongoing research and development to assist the agricultural industry adapt to the changing climate. Therefore, the documents do provide evidence of coordination, partnerships, and advocacy for action on climate change at the regional level.",
+      "source": "Hindmarsh-a-a12345678910.json",
+      "lga": "Hindmarsh"
+    },
+    {
+      "answer": "The documents do refer to specific regional associations and partnerships related to climate change. The policy outlines a number of strategies and plans, including the Township Climate Change Adaptation Plan and the Integrated Water Management Plan. These plans involve various stakeholders, including local government, state government, and community groups. The policy also mentions the involvement of 'WMSA' (though it does not specify what this acronym stands for) and 'DPCD' in strengthening local communities and embedding climate change information into local community planning processes. Furthermore, the policy refers to the Hindmarsh Strengthening Basin Communities project, which appears to be a collaborative initiative. However, the documents do not provide detailed information about the specific roles and responsibilities of these entities in the implementation of the policy.",
+      "source": "Hindmarsh-b-a12345678910.json",
+      "lga": "Hindmarsh"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The local government has outlined its commitment to collaborate with various entities to address climate change. These include the Western Alliance for Greenhouse Action (WAGA), Council Alliance for a Sustainable Built Environment (CASBE), Association of Bayside Municipalities, Greening the West, and Victoria’s Integrated Water Management Forum. These partnerships are aimed at maximizing collective efforts in responding to climate change. The government also seeks to provide leadership, education, support, advice, and facilitation services to residents and businesses in partnership with the community. This indicates a comprehensive approach to climate change, involving various stakeholders and leveraging collective efforts.",
+      "source": "HobsonsBay-a-a12345678910.json",
+      "lga": "HobsonsBay",
+      "quote": {
+        "content": "Council will continue participating in existing partnerships to maximise collective efforts including the Western Alliance for Greenhouse Action (WAGA), Council Alliance for a Sustainable Built Environment",
+        "page": 12,
+        "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The local government plans to collaborate with and advocate to the Victorian and Australian governments to deliver climate action and investment in mitigation and adaptation activities. The documents also mention the council's intention to continue participating in existing partnerships to maximize collective efforts. Specific partnerships mentioned include the Western Alliance for Greenhouse Action (WAGA), Council Alliance for a Sustainable Built Environment (CASBE), Association of Bayside Municipalities, Greening the West, and Victoria’s Integrated Water Management Forum. These partnerships indicate a commitment to collaborative action and shared responsibility in addressing climate change.",
+      "source": "HobsonsBay-b-a12345678910.json",
+      "lga": "HobsonsBay",
+      "quote": {
+        "content": "Council will continue participating in existing partnerships to maximise collective efforts including the Western Alliance for Greenhouse Action (WAGA), Council Alliance for a Sustainable Built Environment",
+        "page": 12,
+        "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Hume City Council Climate Action Plan 2023-2028 indeed refers to specific regional associations, alliances, and other partnerships related to climate action. The document mentions the Climate Emergency Australia network, the Cities Power Partnership, and the Northern Alliance for Greenhouse Action (NAGA). The Council plans to continue hosting and participating in these networks, indicating a commitment to collaborative climate action. The Council also plans to advocate for enhanced climate action on behalf of the Hume community, including business and industry, through these networks. The document also mentions the Council Alliance for a Sustainable Built Environment as an external support entity. These partnerships and alliances are crucial for sharing resources, knowledge, and best practices, and for advocating for climate action at higher levels of government.",
+      "source": "Hume-a-a5678910.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate action. The Hume City Council is actively involved in several partnerships and networks to address climate change. For instance, the council is part of the Climate Emergency Australia network and the Cities Power Partnership. The council also hosts and participates in the Northern Alliance for Greenhouse Action, a network of councils working together to respond to climate change. These partnerships and networks are crucial for sharing resources, knowledge, and best practices, and for advocating for climate action at higher levels of government. The council's involvement in these networks demonstrates its commitment to collaborative climate action and its recognition of the importance of partnerships in addressing the complex issue of climate change.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Climate Emergency Strategic Action Plan, adopted on 15 September 2020, mentions the Climate Emergency Australia (CEA), an organization formed by 90 councils across Australia that have declared a climate emergency. The Indigo Shire Council is actively contributing to this organization, indicating a partnership or alliance. Furthermore, the Climate Change Adaptation Action Plan project is a partnership between Indigo Shire Council, Towong Shire Council, and Wodonga Council, funded by the Victorian Government under the Victorian Adaptation and Sustainability Partnership. This project aims to develop a Climate Change Adaptation Action Plan for each partner council, indicating a regional association and partnership.",
+      "source": "Indigo-a-a12345678910.json",
+      "lga": "Indigo"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Indigo Shire Council's Climate Emergency Strategic Action Plan, adopted in September 2020, mentions the council's active contribution to Climate Emergency Australia (CEA), an organization formed by 90 councils across Australia that have declared a climate emergency. This indicates a clear commitment to collaboration and advocacy at a regional and national level. Furthermore, the 2017 Climate Change Adaptation Action Plan refers to a partnership project between Indigo Shire Council, Towong Shire Council, and Wodonga Council, funded by the Victorian Government under the Victorian Adaptation and Sustainability Partnership. This project aimed to develop a Climate Change Adaptation Action Plan for each partner council, demonstrating a coordinated regional approach to climate change adaptation.",
+      "source": "Indigo-b-a12345678910.json",
+      "lga": "Indigo"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations and alliances related to climate action. The Kingston City Council, as part of its Climate and Ecological Emergency Response Plan, has mentioned its membership with the South East Councils Climate Change Alliance (SECCCA). This alliance is a collaborative effort among local councils to address climate change. The council has also acknowledged the Northern Alliance for Greenhouse Action (NAGA) for their resources. These alliances and partnerships are crucial for the council to leverage resources, share knowledge, and coordinate efforts in addressing climate change at a regional level. The council's commitment to these alliances indicates its dedication to collaborative and coordinated climate action.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "This was based on the interpretation of regional and global impacts of an increase of “well below 2°C” being an unacceptable risk to SECCCA councils and communities and an acknowledgement of the role Victoria. Kingston as a member of the South East Councils Climate Change Alliance (SECCCA), recently advocated to the Victorian State Government to adopt a “1.5°C” target.",
+        "page": 7,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations and alliances related to climate action. The Kingston City Council is mentioned as a member of the South East Councils Climate Change Alliance (SECCCA). This alliance is specifically mentioned in the context of advocating to the Victorian State Government to adopt a '1.5°C' target, which aligns with the commitments of the Paris Agreement. This indicates that the council is not only part of this alliance but is also actively participating in its advocacy efforts. Furthermore, the council acknowledges the Northern Alliance for Greenhouse Action (NAGA) for their resources. This suggests that the council is leveraging partnerships with other regional alliances to access resources and information to support their climate action initiatives.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "This was based on the interpretation of regional and global impacts of an increase of “well below 2°C” being an unacceptable risk to SECCCA councils and communities and an acknowledgement of the role Victoria... Kingston as a member of the South East Councils Climate Change Alliance (SECCCA), recently advocated to the Victorian State Government to adopt a “1.5°C” target.",
+        "page": 7,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government has identified advocacy opportunities and plans to join the Cities Power Partnership, a free initiative of The Climate Council, designed to assist local government around Australia to transition to a net zero future. The document also mentions that the Council has close ties with organizations working on climate change advocacy, such as the Eastern Alliance for Greenhouse Action (EAGA) and the Council Alliance for a Sustainable Built Environment (CASBE). These partnerships are intended to continue, indicating a commitment to collaboration and shared learning in addressing climate change.",
+      "source": "Knox-a-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "These partnerships will need to continue. Council already has close ties with some organisations working on climate change advocacy, such as the Eastern Alliance for Greenhouse Action (EAGA) and the Council Alliance for a Sustainable Built Environment (CASBE).",
+        "page": 8,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, or other partnerships related to climate. The local government has identified advocacy opportunities and plans to join the Cities Power Partnership, a free initiative of The Climate Council, designed to assist local government around Australia to transition to a net zero future. The government also plans to make a voluntary pledge to the State Government under the Climate Change Act. Furthermore, the document mentions that the Council has close ties with organizations working on climate change advocacy, such as the Eastern Alliance for Greenhouse Action (EAGA) and the Council Alliance for a Sustainable Built Environment (CASBE). These partnerships are expected to continue, indicating a commitment to collaboration and coordination in addressing climate change.",
+      "source": "Knox-b-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "Council already has close ties with some organisations working on climate change advocacy, such as the Eastern Alliance for Greenhouse Action (EAGA) and the Council Alliance for a Sustainable Built Environment (CASBE).",
+        "page": 8,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The local government has been actively involved in climate change initiatives through partnerships with various organizations. For instance, the Council has been working with the Gippsland Climate Change Network and ClimateWorks on initiatives such as the Gippsland Low Carbon Growth Plan. The Council also established the Latrobe City Council Low Carbon Emissions Future Transition Committee, which included members from multiple industries and interest groups. Furthermore, the Council has been involved in the Gippsland Local Government Network, Gippsland Regional Plan Leadership Group, and the Gippsland Climate Change Network. These partnerships and networks demonstrate the Council's commitment to addressing climate change at a local level.",
+      "source": "Latrobe-a-a12345678910.json",
+      "lga": "Latrobe",
+      "quote": {
+        "content": "Council continued to work with organisations such as the Gippsland Climate Change Network, ClimateWorks and the Department of Primary Industries on a range of initiatives including the Gippsland Low Carbon Growth Plan. Council engaged in numerous activities to develop and nurture relationships, and presented Council’s policy to a variety of interested local organisations and groups including industry.",
+        "page": 9,
+        "source": "Latrobe-2014-low-carbon.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The local government has been actively involved in climate change initiatives through partnerships with various organizations. For instance, the Council has been working with the Gippsland Climate Change Network and ClimateWorks on initiatives such as the Gippsland Low Carbon Growth Plan. The Council also established the Latrobe City Council Low Carbon Emissions Future Transition Committee, which included members from multiple industries and interest groups. Furthermore, the Council has been actively involved in the Gippsland Local Government Network, Gippsland Regional Plan Leadership Group, and the Gippsland Climate Change Network. These partnerships and networks demonstrate the Council's commitment to addressing climate change at a local level.",
+      "source": "Latrobe-b-a12345678910.json",
+      "lga": "Latrobe",
+      "quote": {
+        "content": "Council continued to work with organisations such as the Gippsland Climate Change Network, ClimateWorks and the Department of Primary Industries on a range of initiatives including the Gippsland Low Carbon Growth Plan. Council engaged in numerous activities to develop and nurture relationships, and presented Council’s policy to a variety of interested local organisations and groups including industry.",
+        "page": 9,
+        "source": "Latrobe-2014-low-carbon.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do refer to specific regional associations and partnerships related to climate and environmental sustainability. The policy outlines a commitment to collaborate with neighboring municipalities to capitalize on regional opportunities for large-scale renewable energy projects. This indicates a willingness to form alliances or partnerships with other local governments to address climate change. Additionally, the policy mentions the Central Murray Regional Waste Management Group, with which the local government plans to continue participating in projects such as detox your home, DrumMuster, Plastic Bag Free Towns, and E-Waste initiatives. These projects are all related to waste management, a critical aspect of environmental sustainability and climate change mitigation. The policy also mentions investigating opportunities for efficiency improvement through the establishment of regional waste management facilities or services, which implies potential partnerships or alliances with other entities.",
+      "source": "Loddon-a-a12345678910.json",
+      "lga": "Loddon",
+      "quote": {
+        "content": "Where possible collaborate with neighbouring municipalities to capitalise on regional opportunities.",
+        "page": 10,
+        "source": "Loddon-Environmental-Sustainability-Strategy-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations and partnerships related to environmental sustainability, which can be linked to climate action. The policy outlines a commitment to collaborate with the Central Murray Regional Waste Management Group on various projects such as 'detox your home', 'DrumMuster', 'Plastic Bag Free Towns', and 'E-Waste initiatives'. These initiatives are all aimed at reducing waste and promoting environmental sustainability, which are key aspects of climate action. Furthermore, the policy also mentions the exploration of opportunities for efficiency improvement through the establishment of regional waste management facilities or services in collaboration with the Central Murray Regional Waste Management Group and surrounding municipalities. This indicates a clear commitment to partnership and collaboration in the pursuit of environmental sustainability and climate action.",
+      "source": "Loddon-b-a12345678910.json",
+      "lga": "Loddon"
+    },
+    {
+      "answer": "The policy document indeed refers to specific regional associations, alliances, or other partnerships related to climate change. It mentions the Central Victorian Greenhouse Alliance, a regional network of councils working together to deliver effective responses to climate change. The policy also refers to the North Central Catchment Management Authority (CMA), a regional organization responsible for land, water, and biodiversity management. The document outlines the local government's intention to continue participating in regional initiatives for climate change action, including projects facilitated by these organizations. Furthermore, the policy also mentions the Municipal Association of Victoria (MAV) and the Central Alliance for Greenhouse Action (CVGA) as potential avenues for advocacy on climate change matters. These partnerships and alliances are crucial for the local government's climate change action plan as they provide a platform for collaboration, resource sharing, and collective advocacy.",
+      "source": "MacedonRanges-a-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "Work with the North Central CMA in programs addressing climate change on landscapes and biodiversity values as relevant. Continue to participate in regional initiatives for climate change action, for example, in the development and implementation of relevant projects being facilitated by the Central Victorian Greenhouse Alliance.",
+        "page": 64,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, or other partnerships related to climate change. It mentions the Central Victorian Greenhouse Alliance, a regional initiative for climate change action, as a key partner in the development and implementation of relevant projects. The document also refers to the North Central CMA, with which the local government plans to work on programs addressing climate change on landscapes and biodiversity values. Furthermore, the document mentions the Municipal Association of Victoria (MAV) and the Central Alliance for Greenhouse Action (CVGA) as potential avenues for advocacy on climate change matters. These partnerships and alliances are crucial for the local government's climate change action plan as they provide opportunities for collaboration, resource sharing, and collective advocacy.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "Work with the North Central CMA in programs addressing climate change on landscapes and biodiversity values as relevant. Continue to participate in regional initiatives for climate change action, for example, in the development and implementation of relevant projects being facilitated by the Central Victorian Greenhouse Alliance.",
+        "page": 64,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate action. The local government has expressed its commitment to collaborate with other councils on climate action and participate in various partnerships. These include the Cities Power Partnership, Climate Emergency Australia, Northern Alliance for Greenhouse Action, and International Council Local Environment Initiatives. These partnerships are crucial for sharing resources, knowledge, and best practices to address climate change effectively. The document also mentions collaboration with the State Government on several initiatives, indicating a multi-level approach to climate action. This shows the local government's commitment to working in partnership with various stakeholders to address climate change.",
+      "source": "Manningham-a-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate action. The local government has expressed its commitment to collaborate with other councils on climate action and participate in various partnerships. These include the Cities Power Partnership, Climate Emergency Australia, Northern Alliance for Greenhouse Action, and International Council Local Environment Initiatives. These partnerships are crucial for sharing resources, knowledge, and best practices to address climate change effectively. The document also mentions collaboration with the State Government on several initiatives, indicating a multi-level approach to climate action. This shows the local government's commitment to working in partnership with various stakeholders to address climate change.",
+      "source": "Manningham-b-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations and alliances related to climate action. The Mansfield Shire Council's Climate Action Plan mentions the council's collaboration at the regional level through its continued participation in the Goulburn Murray Climate Alliance (GMCA). This alliance is involved in programs such as 'Charging the Regions', which are aimed at supporting local governments in understanding their role in providing or facilitating public electric vehicle charging infrastructure. This indicates that the council is not only aware of the importance of regional partnerships in addressing climate change but is actively participating in such alliances to drive climate action.",
+      "source": "Mansfield-a-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "Programs such as Charging the Regions which are aimed as supporting local governments understand their role in providing or facilitating public electric vehicle charging infrastructure.",
+        "page": 33,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations and alliances related to climate action. The Mansfield Shire Council's Climate Action Plan outlines the council's commitment to working at the regional level to deliver low emissions transitions in a strategic manner. This includes the roll out of electric vehicle charging infrastructure and exploration of low emissions agriculture. The council also plans to provide a voice for the community at the state and national government level to drive action towards a more supportive policy environment for climate change mitigation and adaptation. One specific regional alliance mentioned is the Goulbourn Murray Climate Alliance (GMCA). The council plans to collaborate at the regional level through continued participation in the GMCA, particularly in programs such as 'Charging the Regions' which aim to support local governments in understanding their role in providing or facilitating public electric vehicle charging infrastructure.",
+      "source": "Mansfield-b-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "Programs such as Charging the Regions which are aimed as supporting local governments understand their role in providing or facilitating public electric vehicle charging infrastructure.",
+        "page": 33,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The Eastern Alliance for Greenhouse Action (EAGA) is mentioned multiple times as a significant collaborative effort. EAGA is a formal collaboration of eight councils in Melbourne's east, working together on regional programs that reduce greenhouse gas emissions and facilitate regional adaptation. The documents also mention the Maroondah Environment Advisory Committee, which advises the Council on environmental and sustainability issues. Furthermore, the documents refer to the collaboration with the Victorian Government and the community in managing the impacts and risks of climate change. These partnerships and alliances are crucial in the Council's efforts to address climate change, as they allow for shared resources, knowledge, and coordinated action.",
+      "source": "Maroondah-a-a12345678910.json",
+      "lga": "Maroondah",
+      "quote": {
+        "content": "EAGA is a formal collaboration of eight Councils in Melbourne’s east, working together on regional programs that reduce greenhouse gas emissions and facilitate regional adaptation. Input was also obtained from the Eastern Alliance for Greenhouse Action (EAGA) of which Council is a member.",
+        "page": 8,
+        "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The Eastern Alliance for Greenhouse Action (EAGA) is prominently mentioned as a key partner in climate change mitigation and adaptation efforts. The EAGA is a formal collaboration of eight councils in Melbourne's east, working together on regional programs that reduce greenhouse gas emissions and facilitate regional adaptation. The documents also mention the Maroondah Environment Advisory Committee, which advises the Council on environmental and sustainability issues. Furthermore, the documents refer to the collaboration with various greenhouse alliances and other stakeholders, including the Department of Health and Human Services, Resilient Melbourne, and the Port Phillip and Westernport Catchment Management Authority. These partnerships and collaborations are crucial in the Council's efforts to address climate change impacts and risks.",
+      "source": "Maroondah-b-a12345678910.json",
+      "lga": "Maroondah",
+      "quote": {
+        "content": "EAGA is a formal collaboration of eight Councils in Melbourne’s east, working together on regional programs that reduce greenhouse gas emissions and facilitate regional adaptation. Input was also obtained from the Eastern Alliance for Greenhouse Action (EAGA) of which Council is a member.",
+        "page": 8,
+        "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. It mentions the participation in knowledge exchange with other cities through C40, ICLEI, the Global Covenant of Mayors for Climate and Energy, Carbon Neutral Cities Alliance, Council of Capital City Lord Mayors, Resilient Melbourne and Local Government Professionals (LGPro). These are all organizations that focus on climate change mitigation and adaptation, and sustainable development. The document also mentions collaboration with the Victorian and Australian Governments to reduce emissions from cities. This shows that the local government is not working in isolation but is part of a broader network of cities and organizations committed to addressing climate change.",
+      "source": "Melbourne-a-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "Collaborate with the Victorian and Australian Governments to reduce emissions from cities.",
+        "page": 65,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. It mentions the local government's plan to participate in city networks to share knowledge and continue to co-lead the C40 Low Carbon Districts and Climate Positive forum. This indicates a commitment to learning from innovative international projects and sharing knowledge with other cities. The document also mentions collaboration with the Victorian and Australian Governments to reduce emissions from cities. Furthermore, the local government plans to report progress in reducing emissions through the Carbon Disclosure Project online platform. These details suggest a comprehensive approach to climate change mitigation that involves collaboration with various entities at different levels.",
+      "source": "Melbourne-b-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "Collaborate with the Victorian and Australian Governments to reduce emissions from cities.",
+        "page": 65,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations and alliances related to climate change. The Western Alliance for Greenhouse Action (WAGA) is specifically mentioned as a regional association that the Melton City Council has been working with to understand climate change-related exposure to increased costs, new or expanded liability risks, and insurance claims. The Council has also been consulting across the organization to better understand what climate risk means for Melton City Council, and integrate climate considerations into everyday practices. The documents also mention the Council's intention to continue to participate in regional advocacy groups, to advocate for State agencies to invest in their city, with a view to improve coordination of resources and activities to realize common land and water management outcomes.",
+      "source": "Melton-a-a12345678910.json",
+      "lga": "Melton",
+      "quote": {
+        "content": "Council has been working with other councils, in particular the Western Alliance for Greenhouse Action, to understand climate change-related exposure to increased costs, new or expanded liability risks, and insurance claims.",
+        "page": 13,
+        "source": "Melton-Climate-Change-Adaptation-Plan-2020-2030.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations and alliances related to climate. The Melton City Council is a member of the Western Alliance for Greenhouse Action (WAGA), which has developed a regional risk assessment and a Climate Change Adaptation Strategy for 2013-2020 to respond to priority climate change risks for the region. The council has been working with WAGA to understand climate change-related exposure to increased costs, new or expanded liability risks, and insurance claims. The council also collaborates with other councils to understand, identify, and respond to changing risk exposure. Furthermore, the council seeks guidance from the State government on how to respond to changing risk exposure. This indicates a clear emphasis on partnerships and collaborations to address climate change.",
+      "source": "Melton-b-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Merri-bek Council is actively collaborating with other local councils and regional groups/alliances to run targeted and visible advocacy campaigns to impact state and federal policy to facilitate transition to zero emissions energy, transport, and waste management. This indicates a clear commitment to partnership and collaboration in addressing climate change. The council also plans to facilitate networking and capacity-building amongst local and regional community groups and agencies active in campaigning for climate action. This further underscores the council's strategy of leveraging partnerships and alliances to drive climate action.",
+      "source": "Merribek-a-a12345678910.json",
+      "lga": "Merribek"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Merri-bek Council's Climate Emergency Action Plan outlines a strategy that includes collaboration with other local councils and regional groups/alliances to run targeted and visible advocacy campaigns. These campaigns aim to impact state and federal policy to facilitate the transition to zero emissions energy, transport, and waste management. The plan also mentions facilitating networking and capacity-building amongst local and regional community groups and agencies active in campaigning for climate action. This indicates a clear intention to work in partnership with other organizations and entities to achieve their climate goals.",
+      "source": "Merribek-b-a12345678910.json",
+      "lga": "Merribek"
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, or other partnerships related to climate. It outlines a variety of actions that involve collaboration with different partners. For instance, the local government plans to organize annual climate/heat health awareness events in collaboration with local agencies. They also aim to provide information sessions on coping with extreme weather conditions, which involves local schools and community centres. Furthermore, the document mentions advocating for affordable eco-friendly solutions in partnership with energy companies. In the farming sector, the local government plans to promote the need for alternative fuel sources and pursue funding for transitioning in agriculture and transport, in collaboration with Farmers’ Associations and Energy Companies. These partnerships and collaborations are crucial for the successful implementation of the climate response plan.",
+      "source": "Mildura-a-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, or other partnerships related to climate. It outlines a variety of actions that involve collaboration with different partners. For instance, the local government plans to organize annual climate/heat health awareness events in collaboration with local agencies. They also aim to provide information sessions on coping with extreme weather conditions, which will involve local schools and community centres. Furthermore, the local government intends to advocate for affordable eco-friendly solutions, such as heating/cooling solutions and solar power, in partnership with energy companies. In the farming sector, the local government plans to promote the need for alternative fuel sources and pursue funding for transitioning in agriculture and transport, involving Farmers’ Associations and energy companies. These partnerships indicate a coordinated effort to address climate change at a local level.",
+      "source": "Mildura-b-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations and alliances related to climate action. The Goulburn Broken Greenhouse Alliance is mentioned as a facilitator for reporting at a regional scale. This suggests that the local government is not working in isolation but is part of a broader network of councils working together to address climate change. The document also mentions a Collaborative Climate Change Reporting project, which has developed a set of environmental sustainability reporting indicators to help develop consistent reporting across the six councils involved. This indicates a coordinated approach to climate action, with shared goals and standards for measuring progress.",
+      "source": "Moira-a-a12345678910.json",
+      "lga": "Moira",
+      "quote": {
+        "content": "The Goulburn Broken Greenhouse Alliance will facilitate reporting at a regional scale. The Collaborative Climate Change Reporting project has developed a set of environmental sustainability reporting indicators to help develop consistent reporting across the six councils involved.",
+        "page": 10,
+        "source": "Moira-2018-corporate-emissions-reduction-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do indeed refer to specific regional associations and alliances related to climate action. The Goulburn Broken Greenhouse Alliance is mentioned as a facilitator for reporting at a regional scale. This suggests that the local government is not working in isolation but is part of a broader network of councils working towards similar environmental goals. The documents also mention a Collaborative Climate Change Reporting project, which has developed a set of environmental sustainability reporting indicators to help develop consistent reporting across the six councils involved. This indicates a coordinated effort to standardize and streamline the process of reporting on climate change-related initiatives and progress.",
+      "source": "Moira-b-a12345678910.json",
+      "lga": "Moira",
+      "quote": {
+        "content": "The Goulburn Broken Greenhouse Alliance will facilitate reporting at a regional scale. The Collaborative Climate Change Reporting project has developed a set of environmental sustainability reporting indicators to help develop consistent reporting across the six councils involved.",
+        "page": 10,
+        "source": "Moira-2018-corporate-emissions-reduction-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. The Eastern Alliance for Greenhouse Action (EAGA) is explicitly mentioned as a collaboration of eight Councils in Melbourne’s east, including Monash, working together on regional programs to reduce greenhouse gas emissions, support renewables, and facilitate adaptation. The EAGA is described as leading joint successful initiatives on behalf of members, typically beyond the reach of individual Councils. The document also mentions a partnership with Monash University, specifically with ClimateWorks Australia, the Monash Energy Institute, and the Monash Sustainable Development Institute, to conduct research and develop solutions to a wide range of energy and sustainability problems. The Council has nominated to be an advisory member to the proposed Australian Research Corporation (ARC) Linkage Project for Net Zero Precinct Transitions, in partnership with Monash University.",
+      "source": "Monash-a-a12345678910.json",
+      "lga": "Monash",
+      "quote": {
+        "content": "Monash Council has nominated to be an advisory member to the proposed Australian Research Corporation (ARC) Linkage Project for Net Zero Precinct Transitions, in partnership with Monash University. [...] Partnering with such an innovative organisation could provide Monash City Council with access to state-of-the-art technologies and resources to aid in Council’s emissions reduction programs.",
+        "page": 31,
+        "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. The Eastern Alliance for Greenhouse Action (EAGA) is explicitly mentioned as a collaboration of eight councils in Melbourne's east, including Monash, working together on regional programs to reduce greenhouse gas emissions, support renewables, and facilitate adaptation. The EAGA is described as leading joint successful initiatives on behalf of members, typically beyond the reach of individual councils. The document also mentions a partnership with Monash University, specifically with ClimateWorks Australia, the Monash Energy Institute, and the Monash Sustainable Development Institute, to conduct research and develop solutions to a wide range of energy and sustainability problems. The council has nominated to be an advisory member to the proposed Australian Research Corporation (ARC) Linkage Project for Net Zero Precinct Transitions, in partnership with Monash University.",
+      "source": "Monash-b-a12345678910.json",
+      "lga": "Monash"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations and alliances related to climate. The Western Alliance for Greenhouse Action (WAGA) is repeatedly mentioned throughout the documents. WAGA has developed several strategies and action plans, such as the Climate Change Adaptation Strategy 2013-2020, the Climate Change Adaptation Action Plan 2013-30, and the Low Carbon West: A Strategy for a Transition to a Low Carbon Economy in the WAGA Region. These strategies and plans are designed to address climate change risks and promote a transition to a low carbon economy. The documents also mention that the local government will work with various stakeholders, including other natural resource management organizations and groups, to implement the Sustainable Environment Strategy. This indicates a commitment to partnerships and collaboration in addressing climate change.",
+      "source": "Moorabool-a-a12345678910.json",
+      "lga": "Moorabool",
+      "quote": {
+        "content": "Western Alliance for Greenhouse Action, Victoria. Western Alliance for Greenhouse Action (WAGA) (2012), Climate Change Adaptation Strategy 2013-2020 Full Report. Western Alliance for Greenhouse Action, Victoria. Western Alliance for Greenhouse Action, Victoria. Western Alliance for Greenhouse Action (WAGA) (2014), Low Carbon West: A Strategy for a Transition to a Low Carbon Economy in the WAGA Region. Western Alliance for Greenhouse Action, Victoria.",
+        "page": 56,
+        "source": "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations and alliances related to climate. The Western Alliance for Greenhouse Action (WAGA) is repeatedly mentioned throughout the documents. WAGA has developed several strategies and action plans, such as the Climate Change Adaptation Strategy 2013-2020, the Climate Change Adaptation Action Plan 2013-30, and the Low Carbon West: A Strategy for a Transition to a Low Carbon Economy in the WAGA Region. These strategies and plans are designed to address the risks and impacts of climate change in the region. The documents also mention that the local government will work with other stakeholders, including natural resource management organizations and the broader community, to implement the Sustainable Environment Strategy. This indicates a commitment to partnerships and collaboration in addressing climate change.",
+      "source": "Moorabool-b-a12345678910.json",
+      "lga": "Moorabool",
+      "quote": {
+        "content": "Western Alliance for Greenhouse Action, Victoria. Western Alliance for Greenhouse Action (WAGA) (2012), Climate Change Adaptation Strategy 2013-2020 Full Report. Western Alliance for Greenhouse Action, Victoria. Western Alliance for Greenhouse Action, Victoria. Western Alliance for Greenhouse Action (WAGA) (2012), Climate Change Adaptation Action Plan 2013-30. Western Alliance for Greenhouse Action, Victoria. Western Alliance for Greenhouse Action, Victoria. Western Alliance for Greenhouse Action (WAGA) (2014), Low Carbon West: A Strategy for a Transition to a Low Carbon Economy in the WAGA Region. Western Alliance for Greenhouse Action, Victoria.",
+        "page": 56,
+        "source": "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Shire's role in climate action includes advocating with key partners and expanding partnership and collaboration networks. The Shire plans to leverage existing connections and bolster new partnerships with community groups, businesses, non-governmental agencies, and intergovernmental alliances. The Shire also plans to work with other government agencies to advocate for zero carbon energy. The documents specifically mention the 'Western Alliance for Greenhouse Action' as a partner in their climate action initiatives. This indicates that the local government is not working in isolation but is actively seeking to collaborate with various stakeholders at different levels to address climate change.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "Western Alliance for Greenhouse Action, other local governments, RMIT Western Alliance for Greenhouse Action with input from Climate Change, Energy and Water.",
+        "page": 27,
+        "source": "Mornington-2018-climate-community-engagement.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government policy emphasizes the importance of collaboration and partnerships in addressing climate change. It mentions the need to work with individuals, businesses, community groups, and the Shire to achieve advocacy targets. The policy also highlights the importance of expanding partnership and collaboration networks and advocating with other government agencies for zero carbon energy. Furthermore, the policy outlines plans to leverage existing connections and bolster new partnerships with community groups, businesses, non-governmental agencies, and intergovernmental alliances. The policy also mentions the Western Alliance for Greenhouse Action as a specific partnership. This suggests a clear recognition of the importance of regional and wider collaborations in addressing climate change.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "Western Alliance for Greenhouse Action, other local governments, RMIT Western Alliance for Greenhouse Action with input from Climate Change, Energy and Water.",
+        "page": 27,
+        "source": "Mornington-2018-climate-community-engagement.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Moyne Shire Council has been involved in the Cities for Climate Protection Program, which allowed the council to reduce its corporate greenhouse gas emissions by 20% from 2002 levels by 2009. Although this program was dissolved in 2009, the council has continued to build on the momentum gained through its participation. The council also acknowledges the need to influence external parties such as Sustainability Victoria, the Environmental Protection Authority, the South West Sustainability Partnership, and local Transition Towns groups in order to create positive outcomes within its own community. These references indicate that the council is not only aware of the importance of partnerships and alliances in addressing climate change, but is also actively involved in such collaborations.",
+      "source": "Moyne-a-a12345678910.json",
+      "lga": "Moyne"
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations, alliances, or other partnerships related to climate. It mentions the participation of the Moyne Shire Council in the Cities for Climate Protection Program™, which enabled the Council to reduce its corporate greenhouse gas emissions by 20% from 2002 levels by 2009. Although the program was dissolved in 2009, the Council is encouraged to continue its efforts to improve its everyday operations. The document also mentions the Council's efforts to influence external parties such as Sustainability Victoria, the Environmental Protection Authority, the South West Sustainability Partnership, and local Transition Towns groups to create positive outcomes within its own community. These references indicate that the Council is not working in isolation but is actively engaging with various regional and external entities to address climate-related issues.",
+      "source": "Moyne-b-a12345678910.json",
+      "lga": "Moyne",
+      "quote": {
+        "content": "Council must continue to remain vigilant in its quest to influence external parties (such as Sustainability Victoria, the Environmental Protection Authority, the South West Sustainability Partnership, local Transition Towns groups) and projects in a bid to create positive outcomes within its own community. In recognition of the importance of reducing greenhouse gas emissions at the local level, Moyne Shire Council resolved in December 2002 to participate in the Cities for Climate Protection Program™.",
+        "page": 24,
+        "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate action. The local government has established Memoranda of Understanding with key local climate change action groups, indicating a formalized partnership with these entities. The government also works with Special Committees of Management to respond to climate change, suggesting a coordinated approach to addressing this issue. Furthermore, the government partners with regional councils and other groups to develop regional projects addressing climate change, indicating a broader network of partnerships and alliances. The government also sought feedback and advice from various groups, including the Mount Alexander Sustainability Group, The Hub Foundation, Renewable Newstead, Connecting Country, Growing Abundance, 350.org, The People’s Solar, and the Central Victorian Greenhouse Alliance (CVGA), demonstrating a commitment to collaboration and consultation in their climate action efforts.",
+      "source": "MtAlexander-a-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government has outlined its intention to partner with regional councils and other groups to develop regional projects addressing climate change. This indicates a commitment to collaboration and partnership in tackling climate change at a regional level. Furthermore, the documents mention the involvement of various community groups and organizations in the development of the Action Plan, including Mount Alexander Sustainability Group, The Hub Foundation, Renewable Newstead, Connecting Country, Growing Abundance, 350.org, The People’s Solar, and Central Victorian Greenhouse Alliance (CVGA). This demonstrates the local government's approach to engaging with a wide range of stakeholders, including NGOs and community-based organizations, in its climate change initiatives.",
+      "source": "MtAlexander-b-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. The City of Port Phillip is stated to collaborate closely with the Victorian and Australian Governments to achieve the best sustainability outcomes for their community. The document also mentions that the City of Port Phillip is a member of many environmental bodies and local government associations, which allows them to expand their reach and jointly advocate for action. One of the key partnerships mentioned is the South East Councils Climate Change Alliance, which is one of nine regional alliances across Victoria helping councils achieve their goals for greenhouse gas emissions reduction and climate resilience. This alliance consists of nine local governments in the South East, including the City of Port Phillip. Therefore, the document provides clear evidence of specific regional associations, alliances, and other partnerships related to climate.",
+      "source": "PortPhillip-a-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "Membership consists of nine local governments in the South East: the Cities of Port Phillip",
+        "page": 14,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations and alliances related to climate. The City of Port Phillip is mentioned as a member of the South East Councils Climate Change Alliance, which is one of nine regional alliances across Victoria. This alliance assists councils in achieving their goals for greenhouse gas emissions reduction and climate resilience. The membership of this alliance consists of nine local governments in the South East, including the City of Port Phillip. This indicates that the local government is actively involved in partnerships and collaborations to address climate change at a regional level.",
+      "source": "PortPhillip-b-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "Membership consists of nine local governments in the South East: the Cities of Port Phillip",
+        "page": 14,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government's climate change response and mitigation plan outlines several instances of collaboration with regional councils and other bodies. For instance, the plan mentions working with regional councils and peak bodies like DELWP (Department of Environment, Land, Water and Planning) to access government funding for programs aimed at protecting and enhancing biodiversity. The plan also mentions participation with regional councils, GVGA, GNet, and others to identify measures and take action to reduce net greenhouse gas emissions. Furthermore, the plan refers to joint procurement of renewable power with other participating councils. These instances demonstrate a clear commitment to coordination, partnerships, and advocacy for action on climate change at a regional level.",
+      "source": "Pyrenees-a-a12345678910.json",
+      "lga": "Pyrenees"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government is seen to be actively collaborating with regional councils and other peak bodies to address climate change impacts. For instance, they are working with bodies like DELWP (Department of Environment, Land, Water and Planning) to access government funding for programs aimed at protecting and enhancing biodiversity. They are also participating with regional councils, GVGA, GNet, and others to identify measures and take action to reduce net greenhouse gas emissions. Furthermore, they are advocating for government leadership in setting targets and funding for greenhouse gas reduction. These actions demonstrate a clear commitment to partnership and collaboration in addressing climate change.",
+      "source": "Pyrenees-b-a12345678910.json",
+      "lga": "Pyrenees"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations and partnerships related to climate. The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 outlines a number of partnerships and collaborations with both internal and external bodies. These include partnerships with universities, the Department of Environment, Land, Water and Planning (DELWP), and other councils. The plan also mentions a regional partnership through the Climate Resilient Communities of the Barwon South West program, which includes the ten councils of the region. These partnerships are aimed at addressing climate change issues, such as investigating how fragmented ecosystems can adapt to climate change, facilitating improved community resilience and social connectedness, and supporting sustainable agricultural practices.",
+      "source": "SouthernGrampians-a-a12345678910.json",
+      "lga": "SouthernGrampians",
+      "quote": {
+        "content": "A regional partnership also exists between key regional stakeholders through the Climate Resilient Communities of the Barwon South West program.",
+        "page": 2,
+        "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 was developed in partnership with neighboring councils, indicating a collaborative approach to climate change adaptation at a regional level. Furthermore, the document mentions the Climate Resilient Communities of the Barwon South West program, which includes the ten councils of the region. This program is a clear example of a regional partnership aimed at addressing climate change. The documents also mention various internal and external partnerships for specific actions, such as partnerships with universities, the Department of Environment, Land, Water and Planning (DELWP), and other community groups. These partnerships are aimed at investigating how ecosystems can adapt to climate change, promoting education programs for resilience, and improving weather forecast monitoring, among other things.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians",
+      "quote": {
+        "content": "A regional partnership also exists between key regional stakeholders through the Climate Resilient Communities of the Barwon South West program.",
+        "page": 2,
+        "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. The policy outlines a plan to advance partnerships, alliances, and collaborative initiatives with key stakeholders and groups to progress the Council’s climate emergency commitments and response. The document specifically mentions the Eastern Alliance for Greenhouse Action and the Council Alliance for a Sustainable Built Environment (CASBE) as partners in this endeavor. These partnerships are crucial for the local government to effectively address climate change, as they provide a platform for sharing resources, knowledge, and best practices. The policy also mentions the M9 partnership, Climate Emergency Australia, and various community groups, businesses, and trader associations as partners in their climate action plan. These partnerships demonstrate the local government's commitment to a collaborative approach in addressing the climate emergency.",
+      "source": "Stonnington-a-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "» All Council » Open Space and Environment » Local councils » Eastern Alliance for Greenhouse Action » Council Alliance for a Sustainable Built Environment (CASBE) » Climate Emergency Australia » M9 partnership » Stonnington community » Community groups » Stonnington businesses » Stonnington trader associations",
+        "page": 47,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.9
+      }
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. The policy outlines a plan to advance partnerships, alliances, and collaborative initiatives with key stakeholders and groups to progress the Council’s climate emergency commitments and response. The document specifically mentions the Eastern Alliance for Greenhouse Action and the Council Alliance for a Sustainable Built Environment (CASBE) as partners in this endeavor. These partnerships are crucial for the local government to effectively address climate change, as they provide a platform for sharing resources, knowledge, and best practices. The policy also mentions the M9 partnership, Climate Emergency Australia, and various community groups, businesses, and trader associations as partners, indicating a broad and inclusive approach to climate action.",
+      "source": "Stonnington-b-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "» All Council » Open Space and Environment » Local councils » Eastern Alliance for Greenhouse Action » Council Alliance for a Sustainable Built Environment (CASBE) » Climate Emergency Australia » M9 partnership » Stonnington community » Community groups » Stonnington businesses » Stonnington trader associations",
+        "page": 47,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.9
+      }
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan does indeed refer to specific regional associations and partnerships related to climate action. The document outlines the council's intention to work in collaboration with various stakeholders, including residents, businesses, farmers, and community groups, to drive climate action. The council also plans to advocate for change at all levels of government, the private sector, and the community. One specific partnership mentioned is the Goulburn Murray Climate Alliance, which the council plans to continue supporting through projects and advocacy. This indicates a commitment to regional collaboration and advocacy for climate action.",
+      "source": "Strathbogie-a-a12345678910.json",
+      "lga": "Strathbogie"
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan does indeed refer to specific partnerships related to climate action. The document outlines the council's intention to engage in robust, progressive partnerships between all levels of government, the private sector, and the community to achieve their environmental targets. This includes partnering with local environment groups for initiatives such as screening environmental films. The council also plans to establish an Environment Reference Group, which will involve community members in supporting the delivery of the council's climate change aspirations. Furthermore, the council mentions its ongoing support for projects and advocacy through the Goulburn Murray Climate Alliance, indicating an existing partnership with this regional association. These references demonstrate the council's commitment to collaboration and partnership in its approach to climate action.",
+      "source": "Strathbogie-b-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "To achieve our Shire targets, we will continue to engage in, and urge robust, progressive partnerships between all levels of government, the private sector, and the community.",
+        "page": 24,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, or other partnerships related to climate. It mentions the Council Alliance for the Sustainable Built Environment, which the local government plans to join to access networks and resources. This alliance is expected to help reduce emissions associated with new developments. The document also mentions the Barwon South West Climate Alliance and Climate Emergency Australia as organizations with which the local government will continue to work in partnership. These partnerships are part of the local government's strategy to address climate change and reduce emissions. The document also mentions working with Wadawurrung and Eastern Maar Registered Aboriginal Parties to increase understanding of culturally significant sites on Council managed land and the need to protect them from climate change impacts. This indicates a commitment to collaboration and partnership in addressing climate change.",
+      "source": "SurfCoast-a-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The document indeed refers to specific regional associations, alliances, or other partnerships related to climate. It mentions the Council Alliance for the Sustainable Built Environment, which the local government plans to join to access networks and resources. This alliance is expected to help reduce emissions associated with new developments. The document also mentions the Barwon South West Climate Alliance and Climate Emergency Australia as organizations with which the local government will continue to work in partnership. These partnerships are part of the local government's strategy to address climate change and reduce emissions. The document also mentions working with Wadawurrung and Eastern Maar Registered Aboriginal Parties to increase understanding of culturally significant sites on Council managed land and the need to protect them from climate change impacts.",
+      "source": "SurfCoast-b-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations and partnerships related to climate. It mentions the development and maintenance of partnerships that enhance regional outcomes in relation to climate variability and energy efficiency. This indicates a commitment to collaboration and coordination with other entities in addressing climate change. Furthermore, the document refers to the Mallee Catchment Management Authority in the context of biodiversity protection, which could be seen as an example of a regional alliance related to climate, given the interconnections between climate change and biodiversity. However, the document does not provide specific details about the nature of these partnerships or the entities involved.",
+      "source": "SwanHill-a-a12345678910.json",
+      "lga": "SwanHill"
+    },
+    {
+      "answer": "The document does refer to specific regional associations, alliances, or other partnerships related to climate. It mentions the development and maintenance of partnerships that enhance regional outcomes in relation to climate variability and energy efficiency. It also refers to working with stakeholders to develop a coordinated and proactive approach to climate variability adaptation and mitigation. Furthermore, the document mentions the development and maintenance of stakeholder relationships that increase external funding and resource opportunities for climate adaptation and mitigation activities. However, the document does not provide specific names or details of these partnerships, associations, or alliances.",
+      "source": "SwanHill-b-a12345678910.json",
+      "lga": "SwanHill"
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government's policy outlines a strategy to work with key partners to ensure the community understands their exposure to climate risk and the strategies they can adopt to minimize the impact on their health and financial wellbeing. The policy specifically mentions the Gippsland Regional Climate Change Adaptation Strategy program as a key partner, along with DELWP, Councils, and community groups. The policy also mentions the Gippsland Climate Change Network, DELWP, Latrobe Valley Authority, and Department of Health and Human Services as key partners. These partnerships are crucial for the local government to effectively implement its climate change policies and strategies.",
+      "source": "Wellington-a-a12345678910.json",
+      "lga": "Wellington",
+      "quote": {
+        "content": "Key Partners: Gippsland Climate Change Network, DELWP, Latrobe Valley Authority, Department of Health and Human Services.",
+        "page": 23,
+        "source": "Wellington-Sustainability-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government's policy outlines a strategy to work with key partners to ensure the community understands their exposure to climate risk and the strategies they can adopt to minimize the impact on their health and financial wellbeing. The policy specifically mentions the Gippsland Regional Climate Change Adaptation Strategy program as a key partner. The council's role is to participate and support this program along with other partners including DELWP, Councils, and community groups. The policy also mentions the Gippsland Climate Change Network, DELWP, Latrobe Valley Authority, and Department of Health and Human Services as key partners in their strategy objectives. This shows that the local government is actively engaging with regional associations and alliances to address climate change.",
+      "source": "Wellington-b-a12345678910.json",
+      "lga": "Wellington",
+      "quote": {
+        "content": "Participate and support the Gippsland Regional Climate Change Adaptation Strategy program with key partners including DELWP, Councils, and community groups.",
+        "page": 25,
+        "source": "Wellington-Sustainability-Strategy.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government's policy outlines a strategy to establish and maintain partnerships and memberships that support the fast-following of new emissions reduction, climate risk mitigation, and sustainability technology and initiatives. This strategy is systemic and ongoing, with the City Services (Environmental Sustainability) and Sustainability Officer leading the effort. The policy also mentions the need for collaboration with external partners such as ALGA (Australian Local Government Association), MAV (Municipal Association of Victoria), EAGA (Eastern Alliance for Greenhouse Action), SV (Sustainability Victoria), RV (Regional Victoria), VGA (Victorian Government Architect), and ERG (Energy Rating Guide). These partnerships and collaborations are crucial for the local government to effectively respond to climate change, reduce emissions, and increase community resilience.",
+      "source": "Whitehorse-a-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "Systemic Ongoing Existing staff resource and budget for membership City Services (Environmental Sustainability), Sustainability Officer All service areas ALGA; MAV; EAGA; SV; RV; VGA; ERG",
+        "page": 2,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government's policy outlines a strategy to establish and maintain partnerships and memberships that support the fast-following of new emissions reduction, climate risk mitigation, and sustainability technology and initiatives. This strategy is systemic and ongoing, indicating a commitment to long-term collaboration. The documents also mention specific external partners such as ALGA (Australian Local Government Association), MAV (Municipal Association of Victoria), EAGA (Eastern Alliance for Greenhouse Action), SV (Sustainability Victoria), RV (Renewable Victoria), VGA (Victorian Greenhouse Alliances), and ERG (Energy Rating Guide). These partnerships and collaborations are crucial for sharing resources, knowledge, and best practices, thereby enhancing the effectiveness of climate response actions.",
+      "source": "Whitehorse-b-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "Systemic Ongoing Existing staff resource and budget for membership City Services (Environmental Sustainability), Sustainability Officer All service areas ALGA; MAV; EAGA; SV; RV; VGA; ERG",
+        "page": 2,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The document does indeed refer to a specific regional association related to climate action. The Northern Alliance for Greenhouse Action (NAGA) is mentioned in the context of the local government's commitment to partner with this organization to create a zero carbon society and provide maximum protection against climate change impacts across municipal boundaries. NAGA is a network of nine local governments in Melbourne's northern region working together on climate change mitigation and adaptation strategies. This partnership indicates a commitment to collaborative action and knowledge sharing, which is crucial for effective climate change response.",
+      "source": "Whittlesea-a-a12345678910.json",
+      "lga": "Whittlesea"
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations or alliances related to climate action. It mentions the Northern Alliance for Greenhouse Action (NAGA), an alliance of nine local governments in Melbourne's northern region, including the City of Whittlesea. The document states that the local government will continue to partner with NAGA to create a zero carbon society and provide maximum protection against climate change impacts across municipal boundaries. This indicates that the local government is actively involved in regional collaborations to address climate change, and is committed to working with other local governments to achieve shared climate goals.",
+      "source": "Whittlesea-b-a12345678910.json",
+      "lga": "Whittlesea"
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations or alliances related to climate. Specifically, it mentions the Goulburn Murray Climate Alliance. This alliance is mentioned in the context of the local government's planned actions to adapt to climate change. The document suggests that the local government plans to continue actively participating in projects of the Goulburn Murray Climate Alliance to mitigate and adapt to climate change through a collaborative approach. This indicates that the local government recognizes the importance of partnerships and collaborations in addressing climate change, and is actively involved in such efforts through its participation in this alliance.",
+      "source": "Wodonga-a-a12345678910.json",
+      "lga": "Wodonga"
+    },
+    {
+      "answer": "The document does indeed refer to specific regional associations or alliances related to climate. Specifically, it mentions the Goulburn Murray Climate Alliance. This alliance is mentioned in the context of the local government's planned actions to adapt to climate change. The document suggests that the local government plans to continue actively participating in projects of the Goulburn Murray Climate Alliance to mitigate and adapt to climate change through a collaborative approach. This indicates that the local government recognizes the importance of partnerships and collaborative efforts in addressing climate change. It also suggests that the local government is committed to working with other entities within this alliance to achieve its climate change adaptation goals.",
+      "source": "Wodonga-b-a12345678910.json",
+      "lga": "Wodonga"
+    },
+    {
+      "answer": "The documents do indeed refer to specific regional associations and alliances related to climate. The local government of Wyndham is working collaboratively with other government and non-governmental stakeholders to manage climate risks and build the region’s capacity to adapt. One such partnership is with the Western Alliance for Greenhouse Action (WAGA). The documents mention the implementation of the WAGA regional framework and the WAGA Adaptation Monitoring project. These references suggest that the local government is not only aware of the need for regional collaboration in addressing climate change, but is actively participating in such efforts.",
+      "source": "Wyndham-a-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "Western Alliance for Greenhouse Action – How well are we adapting and regional Adaptation Plan. Given the diverse and cross cutting nature of the potential climate change impacts, Wyndham is working collaboratively with other government and non-governmental stakeholders to manage climate risks and build the region’s capacity to adapt.",
+        "page": 28,
+        "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents do refer to specific regional associations and alliances related to climate change. The Wyndham local government is working collaboratively with other government and non-government stakeholders to manage climate risks and build the region’s capacity to adapt. One such partnership is with the Western Alliance for Greenhouse Action (WAGA). The documents mention the implementation of the WAGA regional framework and the WAGA Adaptation Monitoring project. These references suggest that the local government is not only aware of the need for regional collaboration in addressing climate change but is actively participating in such efforts. The specific mention of WAGA indicates a concrete partnership aimed at climate change adaptation.",
+      "source": "Wyndham-b-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "Western Alliance for Greenhouse Action – How well are we adapting and regional Adaptation Plan.",
+        "page": 28,
+        "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government is actively involved in partnerships with various organizations to accelerate climate action. These include the Global Covenant of Mayors for Climate and Energy, which is the world's largest global alliance for city climate leadership. The Northern Alliance for Greenhouse Action (NAGA) is another partnership that delivers carbon reduction programs and advocacy across municipal borders. The Cities Power Partnership (CPP) is Australia's largest local government climate network, sharing information and building connections to accelerate local action. The local government is also part of Resilient Melbourne, a collaboration between inner-Melbourne councils. These partnerships and alliances are crucial in influencing state and federal governments and advocating for change at different levels.",
+      "source": "Yarra-a-a12345678910.json",
+      "lga": "Yarra",
+      "quote": {
+        "content": "Resilient Melbourne: a collaboration between inner-Melbourne councils to Yarra Council has strategic partnerships that assist with accelerating climate action. These include: Global Covenant of Mayors for Climate and Energy: the world’s largest global alliance for city climate leadership, with over 10,000 participants promoting and supporting voluntary action to combat the climate emergency and move to a low emissions, resilient society. Northern Alliance for Greenhouse Action (NAGA): a partnership between nine local governments in Melbourne’s north that delivers carbon reduction programs and advocacy across municipal borders. Cities Power Partnership (CPP): Australia’s largest local government climate network, with 115 participants sharing information and building connections in order to accelerate local action.",
+        "page": 22,
+        "source": "Yarra-2020-climate-emergency-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government is part of several alliances and partnerships that aim to accelerate climate action. These include the Global Covenant of Mayors for Climate and Energy, which is the world's largest global alliance for city climate leadership. The Northern Alliance for Greenhouse Action (NAGA) is another partnership that the local government is part of, which includes nine local governments in Melbourne's north that deliver carbon reduction programs and advocacy across municipal borders. The Cities Power Partnership (CPP) is Australia's largest local government climate network, which shares information and builds connections to accelerate local action. Lastly, Resilient Melbourne is a collaboration between inner-Melbourne councils to handle climate-related disruptions.",
+      "source": "Yarra-b-a12345678910.json",
+      "lga": "Yarra",
+      "quote": {
+        "content": "• Resilient Melbourne: a collaboration between \ninner-Melbourne councils to These include: \n• Global Covenant of Mayors for Climate and \nEnergy: the world’s largest global alliance for \ncity climate leadership, with over 10,000 \nparticipants promoting and supporting voluntary \naction to combat the climate emergency and \nmove to a low emissions, resilient society. • Northern Alliance for Greenhouse Action \n(NAGA): a partnership between nine local \ngovernments in Melbourne’s north that  \ndelivers carbon reduction programs and \nadvocacy across municipal borders. • Cities Power Partnership (CPP): Australia’s \nlargest local government climate network,  \nwith 115 participants sharing information  \nand building connections in order to accelerate \nlocal action.",
+        "page": 22,
+        "source": "Yarra-2020-climate-emergency-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate. The local government has outlined a strategy to partner across the region and government sector to deliver on climate change initiatives. This is done through a collaborative approach with specific entities such as the Eastern Alliance for Greenhouse Action (EAGA), Cities Power Partnership, and Sustainability Victoria’s TAKE2 program. These partnerships are aimed at identifying and addressing climate risks and opportunities in the Council Plan and by each business unit through their annual Business Planning process. The government also plans to advocate to State and Federal government for action on climate change that benefits the local community. This includes local businesses, households, and the agricultural sector.",
+      "source": "YarraRanges-a-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "Eastern Alliance for Greenhouse Action (EAGA), Cities Power Partnership, Sustainability Victoria’s TAKE2 program. Continue to partner across the region and government sector, to deliver on climate change initiatives through a collaborative approach; e.g.",
+        "page": 7,
+        "source": "YarraRanges-2020-liveable-climate-action-plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate. The local government has outlined a strategy to partner across the region and government sector to deliver on climate change initiatives. This is done through a collaborative approach with specific entities such as the Eastern Alliance for Greenhouse Action (EAGA), Cities Power Partnership, and Sustainability Victoria’s TAKE2 program. These partnerships are aimed at identifying and addressing climate risks and opportunities in the Council Plan and by each business unit through their annual Business Planning process. The government also plans to advocate to State and Federal government for action on climate change that benefits the local community. This shows a clear commitment to collaboration and partnership in addressing climate change.",
+      "source": "YarraRanges-b-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "Eastern Alliance for Greenhouse Action (EAGA), Cities Power Partnership, Sustainability Victoria’s TAKE2 program. Continue to partner across the region and government sector, to deliver on climate change initiatives through a collaborative approach; e.g.",
+        "page": 7,
+        "source": "YarraRanges-2020-liveable-climate-action-plan.pdf",
+        "search_score": 0.97
+      }
+    }
+  ]
+}

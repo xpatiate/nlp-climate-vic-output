@@ -1,0 +1,124 @@
+{
+  "attribute": 4,
+  "question": 5,
+  "finding": true,
+  "num": 16,
+  "responses": [
+    {
+      "answer": "The documents clearly state that the climate emergency response is a high priority for the local government. The Climate Emergency Action Plan outlines that the climate emergency is one of the highest priorities, with new and existing resources being leveraged to respond to it. Non-essential functions and consumption may be curtailed or rationed through an emergency lens prioritisation process. The documents also mention that all reports to the council should consider and address the implications of the climate emergency. Furthermore, the climate emergency is considered in all council and organisational decisions. This indicates that the climate emergency response is prioritised over other policies.",
+      "source": "Bayside-a-a12345678910.json",
+      "lga": "Bayside"
+    },
+    {
+      "answer": "The documents clearly state that the climate emergency response is a high priority for the local government. The Climate Emergency Action Plan outlines that the climate emergency is one of the highest priorities, and wherever possible, new and existing resources are leveraged to respond to it. Non-essential functions and consumption may be curtailed or rationed through an emergency lens prioritisation process. The documents also mention that all reports to the council consider and address the implications of the climate emergency, and the climate emergency is considered in all council and organisational decisions. This indicates that the climate emergency response is prioritised over other policies.",
+      "source": "Bayside-b-a12345678910.json",
+      "lga": "Bayside"
+    },
+    {
+      "answer": "The documents clearly state that the climate emergency response is a top priority for the local government. The Brimbank Climate Emergency Plan 2020-2025 is described as sitting at the highest level of the Council’s strategic planning framework, above and informing the four-year Council plans that are established at each new Council term. This indicates that the climate emergency response is prioritized above other policies. Furthermore, the document states that the climate emergency will be the strategic focus of Council operations, further emphasizing its prioritization. The Council also commits to advocating for science-based climate leadership from other local governments, and from the Victorian and Australian governments, indicating a prioritization of climate action at all levels of government.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank"
+    },
+    {
+      "answer": "The documents clearly state that the climate emergency response is a top priority for the local government. The Brimbank Climate Emergency Plan 2020-2025 is described as sitting at the highest level of Council’s strategic planning framework, above and informing the four-year Council plans that are established at each new Council term. This indicates that the climate emergency response is prioritized above other policies. Furthermore, the document states that the climate emergency will be the strategic focus of Council operations, further emphasizing its prioritization. The documents also mention the integration of climate considerations within relevant policy and strategy, suggesting that the climate emergency response is not only a standalone priority but also a lens through which other policies are viewed and developed.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank"
+    },
+    {
+      "answer": "The documents clearly indicate that the local government views the climate emergency response as a high priority. The policy outlines a comprehensive plan to address climate change, including specific actions, objectives, and strategies. The documents repeatedly emphasize the urgency of the climate emergency and the need for immediate and substantial action. The policy also outlines a hierarchy of actions, with the avoidance and reduction of energy use as the top priority, followed by increasing energy efficiency, generating renewable energy, and other steps. This hierarchy suggests that the climate emergency response is prioritized over other potential policies or actions. The policy also includes plans for regular reviews and updates, indicating a commitment to ongoing prioritization of the climate emergency response.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Action has been too slow, because economics has trumped physics.",
+        "page": 35,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government views the climate emergency response as a high priority. The documents repeatedly emphasize the urgency and importance of addressing climate change, referring to it as an 'emergency' that requires immediate and transformative action. The documents outline a comprehensive plan for addressing the climate emergency, including specific objectives, actions, and timelines. The plan covers a wide range of areas, from energy efficiency and renewable energy to waste minimization and community engagement. The documents also highlight the need for leadership in the climate emergency response, both within the local government and in partnership with other organizations. This suggests that the climate emergency response is not just one of many policies, but a central focus of the local government's work.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Action has been too slow, because economics has trumped physics.",
+        "page": 35,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly state that the local government's response to the climate emergency is a high priority. The Climate Emergency Strategy and Action Plan explicitly prioritizes policies and actions that provide for both mitigation and adaptation in response to global warming and climate change. This is intended to drive emergency action to reduce greenhouse gases in line with global efforts to keep global warming below 1.5°C. The documents also emphasize that this continues to be a key priority in the next Council Plan. Furthermore, the documents detail the integration of climate change considerations into the development of Council’s 2021–25 Council Plan and supporting strategic documents. This includes the Council's updated Community Wellbeing Plan and other key supporting documents. Therefore, it is evident that the climate emergency response is given a high priority, even when compared to other policies.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The documents clearly state that the climate emergency response is a high priority for the local government. The Climate Emergency Strategy and Action Plan is described as giving priority to policy and actions that will provide for both mitigation and adaptation in response to accelerating global warming and climate change. This is to drive emergency action to reduce greenhouse gases in line with global efforts to keep global warming below 1.5oC. This priority is emphasized as a key priority in the next Council Plan. The documents also detail the specific actions, roles, and responsibilities of the Council in addressing the climate emergency, further emphasizing its prioritization. Therefore, it can be concluded that the climate emergency response is given a higher priority than other policies.",
+      "source": "GreaterDandenong-b-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The documents clearly indicate that the local government has identified climate change as a global emergency and is prioritizing its response. The Climate Change Response Plan emphasizes the need for climate action to be integrated into decision-making processes, even suggesting that climate considerations should take precedence over financial outcomes. The documents also highlight the community's call for a climate-conscious procurement policy for all city purchases. Furthermore, the documents underscore the need for the city to advocate to state and federal governments for stronger emphasis and prioritization of climate change responses in their plans. The city has committed to reaching net zero emissions by 2025 for its operations, indicating a high level of prioritization of climate action. Therefore, the documents explicitly state that a climate emergency response must have higher priority than other policies.",
+      "source": "GreaterGeelong-a-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "Prioritising climate over financial outcomes in all decision making was also highlighted.",
+        "page": 18,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government's climate change response plan prioritizes climate action over other policies. The documents highlight the importance of integrating climate action into decision-making processes, even suggesting that climate considerations should take precedence over financial outcomes. The documents also suggest that funds should be redirected away from projects that are not environmentally sustainable or that inhibit the city's ability to adapt to climate change. Furthermore, the documents emphasize the need for a climate-conscious procurement policy for all city purchases. This suggests a clear prioritization of climate action in the city's policy-making and financial decisions.",
+      "source": "GreaterGeelong-b-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "Prioritising climate over financial outcomes in all decision making was also highlighted.",
+        "page": 18,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly state that the climate emergency response is a high priority for the local government. The Climate Emergency Strategic Action Plan outlines the need to embed the climate emergency response into the Council Plan, which is described as 'vital' for consistent organisational commitment to considering climate change in all actions. The documents also mention the need to review all policies, plans, and procedures through the climate emergency lens and make any changes required to align with the Climate Change Policy and this Action Plan. This suggests that the climate emergency response is not only a priority but is also intended to be integrated into all aspects of the local government's operations and decision-making processes.",
+      "source": "Indigo-a-a12345678910.json",
+      "lga": "Indigo"
+    },
+    {
+      "answer": "The documents clearly state that the climate emergency response is a high priority for the local government. The Climate Emergency Strategic Action Plan outlines the need to embed the climate emergency response into the Council Plan, which is described as 'vital' for consistent organisational commitment to considering climate change in all actions. The documents also mention the need to review all policies, plans, and procedures through the climate emergency lens and make any changes required to align with the Climate Change Policy and this Action Plan. This suggests that the climate emergency response is not only a priority, but it is also a lens through which all other policies should be viewed and evaluated. Therefore, it can be inferred that the climate emergency response is given a higher priority than other policies.",
+      "source": "Indigo-b-a12345678910.json",
+      "lga": "Indigo"
+    },
+    {
+      "answer": "The documents clearly indicate that the local government has prioritized climate change action. The council has declared a state of Climate Emergency, signaling its commitment to address climate change as a priority matter. The declaration of a Climate Emergency places climate change as a key consideration in the council's decision-making processes. The council has also committed to leading by example in supporting the community to prepare for forecast climatic changes. The council's Environment Strategy identifies 'Climate emergency' as a key emerging priority, with the aim of achieving zero net emissions by 2030. The council has also planned to develop a Climate Emergency Response Plan and a Zero Net Emissions Plan for council operations. Therefore, it can be concluded that the council has prioritized climate change action over other policies.",
+      "source": "MacedonRanges-a-a12345678910.json",
+      "lga": "MacedonRanges"
+    },
+    {
+      "answer": "The documents clearly indicate that the local government has prioritized climate change action. The council has declared a state of Climate Emergency, signaling its commitment to address climate change as a priority matter. The council has also adopted a 'Counting Down to ZERO – 2022-30 Plan' which focuses on mitigation of emissions in relation to Council’s operations. Furthermore, the council has identified 'Climate emergency' as one of the key emerging priorities in its Environment Strategy. The council is committed to leading by example in supporting the community to prepare for forecast climatic changes. The council has also planned to introduce a Climate Impact Assessment to its decision-making processes, which will require staff to specify the implications of their recommendations to climate change. Therefore, it is evident that the council has prioritized climate change action over other policies.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges"
+    },
+    {
+      "answer": "The document explicitly states that a climate emergency response must have higher priority than other policies. It emphasizes the need for 'political will' to prioritize action for a safe climate above the vested interests of the fossil fuel lobby. This suggests that the climate emergency response is considered of higher importance than other policies, particularly those influenced by the fossil fuel industry. The document also outlines the council's commitment to urgent action in response to the climate emergency, further indicating the prioritization of this issue. The council's actions, such as staff engagement, community mobilization, and advocacy campaigns, are all geared towards addressing the climate emergency, which further underscores its prioritization.",
+      "source": "Merribek-a-a12345678910.json",
+      "lga": "Merribek",
+      "quote": {
+        "content": "It is the foundation for the ‘political will’ required to prioritise action for a safe climate above the vested interests of the fossil fuel lobby. We recognise that effective engagement and mobilisation of civil society and businesses in campaigning to demand emergency-mode action on climate change is critical.",
+        "page": 4,
+        "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly states that a climate emergency response must have higher priority than other policies. The policy acknowledges the need for 'political will' to prioritise action for a safe climate above the vested interests of the fossil fuel lobby. This suggests that the climate emergency response is considered a priority over other policies, particularly those influenced by the fossil fuel industry. The policy also outlines a commitment to urgent action, acknowledging the scale and speed of transformation needed to eliminate and draw down greenhouse gas emissions. This further underscores the prioritisation of the climate emergency response. The policy also includes specific actions and programs aimed at mobilising the community and advocating for climate emergency response, indicating a strategic focus on this issue.",
+      "source": "Merribek-b-a12345678910.json",
+      "lga": "Merribek",
+      "quote": {
+        "content": "It is the foundation for the ‘political will’ required to prioritise action for a safe climate above the vested interests of the fossil fuel lobby. We recognise that effective engagement and mobilisation of civil society and businesses in campaigning to demand emergency-mode action on climate change is critical.",
+        "page": 4,
+        "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    }
+  ]
+}

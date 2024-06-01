@@ -1,0 +1,672 @@
+{
+  "attribute": 11,
+  "question": 19,
+  "finding": true,
+  "num": 68,
+  "responses": [
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It outlines a plan to deliver targeted assistance to vulnerable households, such as the elderly, rentals, and culturally and linguistically diverse (CALD) communities. The policy recognizes that without targeted assistance, these vulnerable groups may miss out on the benefits of climate change action, be unfairly disadvantaged with household costs, and be more exposed to extreme weather. The policy aims to improve social resilience to climate change, reduce energy costs, and increase comfort through low-cost, high-impact housing improvements. It also plans to leverage available state and federal government assistance for housing upgrades. The policy emphasizes fairness and equity, and plans to overcome barriers to change such as language, lack of capital, and not owning their home.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The document explicitly discusses the impact of climate change on vulnerable communities, particularly in relation to equity and social justice. It outlines a plan to deliver targeted financial and advisory services to vulnerable households, such as the elderly, rentals, and culturally and linguistically diverse (CALD) communities. The policy recognizes that without targeted assistance, these vulnerable groups could miss out on the benefits of climate change action, be unfairly disadvantaged with household costs, and be more exposed to extreme weather. The policy also emphasizes the importance of social connectedness to improve social resilience to climate change and the need to leverage available state and federal government assistance for housing upgrades. The policy's focus on these vulnerable communities demonstrates a commitment to equity and social justice in its climate change response.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The policy outlines a commitment to support vulnerable members of the community in the transition to 'zero carbon' energy. This is an ongoing action with low cost and complexity, funded by the existing operational budget. The responsible departments are Environmental Sustainability and Community Services. The deliverables include offering subsidised home energy assessments for vulnerable community members and supporting them to access affordable energy efficiency upgrades. The policy also mentions the development of new opportunities to support vulnerable community members to prepare and respond to heatwaves and extreme weather events. This indicates a clear recognition of the potential impacts of climate change on these communities and a proactive approach to mitigating these impacts.",
+      "source": "Bayside-a-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "- Support vulnerable community members to access affordable energy efficiency upgrade.",
+        "page": 32,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The policy outlines a commitment to support vulnerable members of the community in the transition to 'zero carbon' energy. This is an ongoing action with low cost and complexity, funded by the existing operational budget. The responsible departments are Environmental Sustainability and Community Services. The deliverables include offering subsidised home energy assessments and supporting access to affordable energy efficiency upgrades for vulnerable community members. The policy also mentions the development of new opportunities to support vulnerable community members in preparing for and responding to heatwaves and extreme weather events. This indicates a recognition of the disproportionate impact of climate change on vulnerable communities and a commitment to address this inequity.",
+      "source": "Bayside-b-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "- Support vulnerable community members to access affordable energy efficiency upgrade.",
+        "page": 32,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It outlines the local government's plan to understand how the community is vulnerable to predicted changes in climate and to take steps to reduce these vulnerabilities and build community resilience. The Municipal Health and Wellbeing Plan is identified as a key tool in this process, with the document stating that it 'adequately captures how climate change influences vulnerability'. The document also mentions the need to employ a consultant to ensure that climate response is included in the next update of the plan. This suggests a recognition of the need for expert input to fully understand and address the impacts of climate change on vulnerable communities. Furthermore, the document discusses the need to investigate how best to support the community in transitioning away from peak oil and towards a Carbon Pollution Reduction Scheme, indicating an understanding of the potential economic impacts of climate change on the community.",
+      "source": "Benalla-a-a12345678910.json",
+      "lga": "Benalla",
+      "quote": {
+        "content": "5.2.1.1 Municipal Health and Wellbeing Plan adequately captures how climate change influences vulnerability",
+        "page": 58,
+        "source": "Benalla-Environment_Strategy_2016_20.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The Municipal Health and Wellbeing Plan is mentioned as a tool that captures how climate change influences community vulnerability and takes steps to build resilience to climate change impacts. The plan is designed to address vulnerabilities exacerbated by climate change. The documents also mention the need to support community transition away from peak oil and towards a Carbon Pollution Reduction Scheme, which implies a concern for the potential negative impacts of climate change on the community. Furthermore, the documents discuss the need to understand how the community is vulnerable to predicted changes in climate and to act to reduce these vulnerabilities and build community resilience.",
+      "source": "Benalla-b-a12345678910.json",
+      "lga": "Benalla"
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The Brimbank Climate Emergency Plan 2020-2025 and the Brimbank Climate Change Adaptation Framework both highlight the importance of equity and social justice in their climate change policies. The documents emphasize that the impacts of climate change are felt first and foremost by those already most vulnerable in the community, including the elderly, the very young, the poor, and those with existing medical and mental health conditions. The documents also outline plans to ensure that these vulnerable groups are not disproportionately affected by climate change. This includes providing them with appropriate information, opportunities to be involved, and adequate public consultation. The documents also mention plans to develop and deliver educational programs to raise awareness of climate impacts and how to prepare for them, which will assist in reducing pressure on emergency management resources over time.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "The scientific evidence on climate change is clear.",
+        "page": 11,
+        "source": "Brimbank-Climate-Emergency-Plan.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The documents clearly discuss the impact of climate change on vulnerable communities, emphasizing the need for equity and social justice in climate change policies. The Brimbank Climate Emergency Plan 2020-2025 outlines the principle of equity, stating that decision-making will create opportunities for both the present and future generations to adapt to climate change, particularly for those most vulnerable to its potential impacts. The plan also emphasizes the need for community engagement, including involvement from vulnerable or marginalized communities. The Climate Change Adaptation Framework 2017-2022 also highlights the need to protect vulnerable community members from the impact of heatwaves, flooding, and frequency and severity of storm events. It also mentions that Brimbank has a high proportion of residents who are at increased risk to climate change impacts due to socio-economic disadvantage, being a recent migrant, elderly or very young, or due to having a chronic health condition.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "In particular, for those people most vulnerable to the potential impacts of climate change. Decision-making will create opportunities for the present generation and future generations to adapt to climate change.",
+        "page": 9,
+        "source": "Brimbank-Climate-Emergency-Plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It outlines the local government's commitment to supporting groups most vulnerable to the effects of climate change, including the elderly, people living with disabilities, culturally and linguistically diverse populations, females, and LGBTIQ+ communities. The policy also acknowledges the need to support outdoor workers, farmers, and those living in fire or flood-prone areas. The document further emphasizes the importance of climate adaptation and emissions reduction in its decision-making and operations. It also highlights the direct and indirect impacts of climate change on the health and wellbeing of the community, including the potential for increased infectious diseases and mental health impacts such as climate anxiety. The policy's focus on equity and social justice is evident in its commitment to ensuring that its climate action supports those most at risk.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "our mitigation and adaptation action must be sure to support those most at \nrisk, including our elderly, low socio-economic, people living with mental and physical \ndisabilities, Dja Dja Wurrung and other Traditional Owners living on Djaara Country, \nculturally and linguistically diverse, female and LGBTIQ+ communities; as well as \noutdoor workers, farmers and those living in fire or flood prone areas.",
+        "page": 15,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The policy document does explicitly discuss the impact of climate change on vulnerable communities. It outlines a commitment to support groups most vulnerable to the effects of climate change, including the elderly, people living with disabilities, culturally and linguistically diverse populations, female and LGBTIQ+ communities, and others. The policy also acknowledges the direct and indirect impacts of climate change on the health and wellbeing of the community, including physical harm from extreme weather events and mental health challenges due to climate-related anxieties. Furthermore, the policy recognizes the need for climate adaptation and emissions reduction in its decision-making and operations, with a focus on achieving the best outcomes for the community, including future generations. This indicates a clear understanding of the disproportionate impact of climate change on vulnerable communities and a commitment to addressing these disparities.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "our mitigation and adaptation action must be sure to support those most at \nrisk, including our elderly, low socio-economic, people living with mental and physical \ndisabilities, Dja Dja Wurrung and other Traditional Owners living on Djaara Country, \nculturally and linguistically diverse, female and LGBTIQ+ communities; as well as \noutdoor workers, farmers and those living in fire or flood prone areas.",
+        "page": 15,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change will disproportionately affect certain population groups, including the elderly, young children, people with chronic diseases, and low-income households. The document also recognizes that climate change will increase community vulnerability and significantly impact these vulnerable cohorts. The local government's policy outlines actions to support community engagement and education aimed at raising awareness about climate change, promoting sustainable living, reducing greenhouse gas emissions, and encouraging community action. This suggests an understanding of the need for equity and social justice in climate change policy, as it seeks to support those most affected by climate change.",
+      "source": "ColacOtway-a-a12345678910.json",
+      "lga": "ColacOtway",
+      "quote": {
+        "content": "Climate change increases community vulnerability and will significantly impact on vulnerable cohorts such as low-income households, people with disabilities, as well as infants and the elderly. Climate change impacts will increasingly impact on Council services. High fire danger days and extreme rainfall events are already impacting when it is safe for Council officers to work outdoors or travel to different parts of the Shire to deliver services. Maintaining and growing green open spaces is challenging in a hotter and drier climate, and drainage infrastructure has difficulty coping with more flooding and higher intensity rain events. The demand on Council services will change and increase because of climate impacts.",
+        "page": 7,
+        "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change will disproportionately affect certain population groups, including the elderly, young children, people with chronic diseases, and low-income households. The document also recognizes that climate change will increase community vulnerability and significantly impact these vulnerable cohorts. The policy outlines the need for planned, well-informed, and coordinated action to manage climate change impacts and continue providing quality public services to minimize negative outcomes for these vulnerable communities. It also emphasizes the importance of early action, which has significant financial and social benefits, including supporting social cohesion, equity, and wellbeing by reducing vulnerability and harnessing opportunity.",
+      "source": "ColacOtway-b-a12345678910.json",
+      "lga": "ColacOtway",
+      "quote": {
+        "content": "Climate change increases community vulnerability and will significantly impact on vulnerable cohorts such as low-income households, people with disabilities, as well as infants and the elderly. Climate change impacts will increasingly impact on Council services. High fire danger days and extreme rainfall events are already impacting when it is safe for Council officers to work outdoors or travel to different parts of the Shire to deliver services. The demand on Council services will change and increase because of climate impacts.",
+        "page": 7,
+        "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The policy acknowledges that climate change impacts are not felt equally across the community, with certain groups being more vulnerable. These include Aboriginal and Torres Strait Islander peoples, recent migrants, low-income households, people with disabilities or chronic illnesses, older residents, and young children. The policy also highlights the concept of 'Climate Justice', which involves prioritizing the most impacted groups when developing climate solutions. This is part of the council's 'Towards Equality Framework'. The policy also mentions the need to increase climate resilience and energy equity in Darebin, particularly for low-income households and renters. Therefore, the policy not only acknowledges the disproportionate impact of climate change on vulnerable communities but also outlines measures to address these disparities.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "This involves considering who in our community will be the most impacted by climate change and ensuring that they are prioritised when developing climate solutions.",
+        "page": 17,
+        "source": "Darebin-Draft_Climate_Emergency_Plan_2024-2030.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities, emphasizing the concept of 'Climate Justice'. This principle is defined as putting equity and human rights at the center of tackling climate change, considering who in the community will be most impacted by climate change and ensuring they are prioritized when developing climate solutions. The documents identify specific vulnerable groups within the Darebin community, including Aboriginal and Torres Strait Islander peoples, recent migrants, low-income households, people with disabilities or chronic illnesses, older residents, and young children. The documents also highlight the risk of social inequality worsening without climate justice, as those who can afford to take action may benefit more from the solutions, leaving others behind. The policy outlines plans to increase climate resilience and energy equity, particularly for low-income households and renters, and to deliver community education and capacity-building campaigns.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "This involves considering who in our community will be the most impacted by climate change and ensuring that they are prioritised when developing climate solutions. Climate justice means putting equity and human rights at the centre of tackling climate change (United Nations Development Programme 2024).",
+        "page": 17,
+        "source": "Darebin-Draft_Climate_Emergency_Plan_2024-2030.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The documents provided by the Glen Eira City Council do explicitly discuss the impact of climate change on vulnerable communities. The council's Climate Emergency Response Strategy 2021-2025 outlines a number of measures aimed at supporting vulnerable populations in the face of climate change. These include understanding the needs and barriers to action of population segments particularly exposed to climate change risks, investing in services and partnerships to support the most vulnerable community members, and engaging and educating residents and business owners about how they can best adapt to and protect themselves and their community against climate impacts. The council also plans to provide an annual progress report on key programs and outcomes, including the number of vulnerable people supported. This demonstrates a clear recognition of the disproportionate impact of climate change on vulnerable communities and a commitment to addressing this issue.",
+      "source": "GlenEira-a-a12345678910.json",
+      "lga": "GlenEira"
+    },
+    {
+      "answer": "The documents provided by the Glen Eira City Council do explicitly discuss the impact of climate change on vulnerable communities. The council's Climate Emergency Response Strategy 2021-2025 outlines a number of measures aimed at supporting vulnerable populations in the face of climate change. These include understanding the needs and barriers to action of population segments particularly exposed to climate change risks, investing in services and partnerships to support the most vulnerable community members, and engaging and educating residents and business owners about how they can best adapt to and protect themselves and their community against climate impacts. The council also plans to provide an annual progress report on key programs and outcomes, including the number of vulnerable people supported. This indicates a clear recognition of the differential impacts of climate change on vulnerable communities and a commitment to addressing these impacts.",
+      "source": "GlenEira-b-a12345678910.json",
+      "lga": "GlenEira"
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change risks will have a greater impact on those who are already vulnerable, such as older people, people with disabilities, or those in unsecure housing. The document also highlights the role of the Council in educating and sharing information with residents, schools, and businesses to address the Climate Emergency. The Council plans to use its leadership and resources to partner with the community, other Councils, Traditional Owner groups, and the Barwon South West Climate Alliance to amplify community voices and undertake collective advocacy and action. This indicates a recognition of the need for equity and social justice in climate change policies and actions.",
+      "source": "GoldenPlains-a-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "These risks will have a greater impact on those who are already vulnerable such as older people, people with disabilities, or those in unsecure housing.",
+        "page": 20,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change risks will have a greater impact on those who are already vulnerable, such as older people, people with disabilities, or those in unsecure housing. The local government, in this case, the Golden Plains Shire Council, plays a key role in educating and sharing information with residents, schools, and businesses. The Council is committed to using its leadership and resources to partner with the community, other Councils, Traditional Owner groups, and the Barwon South West Climate Alliance to amplify community voices and undertake collective advocacy and action. This indicates a recognition of the need for equity and social justice in addressing the impacts of climate change.",
+      "source": "GoldenPlains-b-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "Council plays a key role in educating and sharing information with residents, schools and businesses. These risks will have a greater impact on those who are already vulnerable such as older people, people with disabilities, or those in unsecure housing.",
+        "page": 20,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly discusses the impact of climate change on vulnerable communities. It acknowledges that social factors such as age, gender, health status, socioeconomic status, access to public services and transportation, social capital, and housing infrastructure will influence the extent to which climate change impacts are felt by individuals and communities. The document further emphasizes that the impacts of climate change will not be shared uniformly across communities and the more vulnerable populations are likely to be most impacted. This includes people with disabilities and pre-existing or chronic medical conditions, low-income earners, those with limited English, First Nations people, children, pregnant women, and the elderly. The document also highlights the risks of prolonged heatwaves to the mortality of the elderly and vulnerable members of the community.",
+      "source": "GreaterBendigo-a-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "This demonstrates that the impacts of climate change will not be shared uniformly across communities and the more vulnerable populations are likely to be most impacted. Factors such as age and gender, health status, socioeconomic status, access to public services and transportation, social capital and housing infrastructure will influence the extent to which climate change impacts are felt by individuals and communities.",
+        "page": 11,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly discusses the impact of climate change on vulnerable communities. It acknowledges that social factors such as age, gender, health status, socioeconomic status, access to public services and transportation, social capital, and housing infrastructure will influence the extent to which climate change impacts are felt by individuals and communities. It further emphasizes that the impacts of climate change will not be shared uniformly across communities and the more vulnerable populations are likely to be most impacted. This includes people with disabilities and pre-existing or chronic medical conditions, low-income earners, those with limited English, First Nations people, children, pregnant women, and the elderly. The document also highlights that prolonged heatwaves are major risks to the mortality of the elderly and vulnerable members of the community.",
+      "source": "GreaterBendigo-b-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "This demonstrates that the impacts of climate change will not be shared uniformly across communities and the more vulnerable populations are likely to be most impacted. Factors such as age and gender, health status, socioeconomic status, access to public services and transportation, social capital and housing infrastructure will influence the extent to which climate change impacts are felt by individuals and communities.",
+        "page": 11,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. They outline a commitment to supporting these communities in mitigating and adapting to climate change impacts. The local government plans to increase community awareness of climate change impacts on health and wellbeing, particularly among diverse multicultural communities. They also aim to support disadvantaged households in reducing their exposure to climate risks and in minimizing utility usage and costs. Furthermore, the documents mention the provision of support to vulnerable households, such as older people and people with disabilities, to manage potential climate impacts and risks. This indicates a clear recognition of the differential impacts of climate change on vulnerable communities and a commitment to addressing these through various strategies and actions.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. They outline the local government's commitment to supporting these communities in the face of climate change. The documents highlight the need for community awareness of climate change impacts on health and wellbeing, and the need for actions to reduce these risks. They also emphasize the importance of supporting disadvantaged households in reducing their exposure to climate risks and minimizing utility usage and costs. Furthermore, the documents mention the provision of support to individual local vulnerable households to manage potential climate impacts and risks. This indicates a clear recognition of the differential impacts of climate change on vulnerable communities and a commitment to addressing these impacts.",
+      "source": "GreaterDandenong-b-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The document does discuss the impact of climate change on vulnerable communities, albeit not in a comprehensive manner. It acknowledges that climate change has both direct and indirect health impacts, including effects on mental health, and that these impacts are already being observed locally, particularly among those most vulnerable to climate change. The document also mentions the increased demand on community services to support vulnerable groups and the need for more accessible green open spaces for heat refuge. However, the document does not delve into specifics about who these vulnerable communities are, nor does it provide detailed strategies for addressing their specific needs in the face of climate change. The document does, however, highlight the need for a coordinated and collaborative approach to climate change, which could potentially include strategies for supporting vulnerable communities.",
+      "source": "GreaterGeelong-a-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "The data is already showing environmental effects locally, as well as health effects for those most vulnerable to climate change impacts. It also has indirect health impacts, such as poorer air quality, an increasing incidence of infectious disease, risks to food safety and drinking water quality and impacts on mental health.",
+        "page": 43,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The policy acknowledges that climate change has implications for every aspect of how we live, including our social systems. It also recognizes that climate change directly affects health through extreme weather events, prolonged heatwaves, flooding, and bushfires, and indirectly through poorer air quality, an increasing incidence of infectious disease, risks to food safety and drinking water quality, and impacts on mental health. These impacts are likely to disproportionately affect vulnerable communities. The policy also mentions the need for increased resilience to, and reduced risk of, the urban heat island effect, which is a significant issue for vulnerable communities living in urban areas. Furthermore, the policy acknowledges the need for more frequent disruptions to transport routes and higher costs for repairing damage to road infrastructure, which can also disproportionately affect vulnerable communities.",
+      "source": "GreaterGeelong-b-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "It also has indirect health impacts, such as poorer air quality, an increasing incidence of infectious disease, risks to food safety and drinking water quality and impacts on mental health.",
+        "page": 43,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change risks include both physical and transition risks, with physical risks arising from increased frequency and severity of extreme weather events, long-term changes in weather patterns, and sea level rise. These risks have serious implications for various sectors, including human health, which can disproportionately affect vulnerable communities. The document also emphasizes the concept of climate justice, which recognizes that not everyone is impacted equally by climate change. It further highlights the need to support vulnerable communities and promote social justice and intergenerational equity in the face of climate change. Therefore, the document clearly acknowledges the differential impacts of climate change on vulnerable communities and underscores the need for equity and social justice in climate change responses.",
+      "source": "Hepburn-a-a12345678910.json",
+      "lga": "Hepburn",
+      "quote": {
+        "content": "Climate resilience brings with it a lens of climate justice and makes sure we look out for those who are less able to look after themselves.",
+        "page": 20,
+        "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change risks include both physical and transition risks, with physical risks arising from increased frequency and severity of extreme weather events, long-term changes in weather patterns, and sea level rise. These risks have serious implications for various sectors, including human health. The document also emphasizes the concept of climate justice, which recognizes that not everyone is impacted equally by climate change. It highlights the need to support vulnerable communities and promote social justice and intergenerational equity in the face of climate change. This suggests a recognition of the disproportionate impacts of climate change on certain communities and a commitment to addressing these disparities.",
+      "source": "Hepburn-b-a12345678910.json",
+      "lga": "Hepburn",
+      "quote": {
+        "content": "Climate resilience brings with it a lens of climate justice and makes sure we look out for those who are less able to look after themselves.",
+        "page": 20,
+        "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The policy document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that poor quality housing, health conditions, and low incomes can make it difficult for some residents to manage their wellbeing in the face of climate change. The policy also outlines actions to provide targeted advice and support through existing communication channels and social support programs to vulnerable residents who are at greatest risk from the impacts of climate change. This indicates a recognition of the differential impacts of climate change on various segments of the community and a commitment to addressing these disparities. However, the document does not provide specific details on the nature of the targeted advice and support, or how the vulnerability of residents will be assessed.",
+      "source": "HobsonsBay-a-a12345678910.json",
+      "lga": "HobsonsBay",
+      "quote": {
+        "content": "Council recognises that poor quality housing, health conditions and low incomes make it difficult for some residents to manage their wellbeing.",
+        "page": 6,
+        "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The policy documents do explicitly discuss the impact of climate change on vulnerable communities. The local government recognizes that poor quality housing, health conditions, and low incomes can make it difficult for some residents to manage their wellbeing in the face of climate change. The policy also outlines actions to provide targeted advice and support through existing communication channels and social support programs to vulnerable residents who are at greatest risk from the impacts of climate change. This indicates a clear recognition of the differential impacts of climate change on vulnerable communities and a commitment to addressing these through targeted support and interventions.",
+      "source": "HobsonsBay-b-a12345678910.json",
+      "lga": "HobsonsBay"
+    },
+    {
+      "answer": "The Hume City Council Climate Action Plan 2023-2028 explicitly discusses the impact of climate change on vulnerable communities. The document acknowledges that the impacts of climate change are experienced disproportionately by vulnerable members of the community. It identifies that Hume City's demographic shows a high proportion of residents who are vulnerable to direct climate impacts like severe weather events such as heatwaves or storms, and indirect climate impacts like cost of living increases due to rising energy and fuel costs and impacts on food growing. Vulnerability is affected by financial situation, educational background, health and well-being, social connectedness, and cultural and communication differences. The document also emphasizes the importance of social justice in terms of climate change action, which means equity and fairness for future generations and protection of other species and ecosystems.",
+      "source": "Hume-a-a5678910.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "Hume City’s demographic shows a high proportion of residents who are vulnerable to direct climate impacts like severe weather events such as heatwaves or storms, and indirect climate impacts like cost of living increases due to rising energy and fuel costs and impacts on food growing.",
+        "page": 20,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Hume Climate Action Plan 2023-2028 explicitly discusses the impact of climate change on vulnerable communities. The document acknowledges that the impacts of climate change are experienced disproportionately by vulnerable members of the community. It identifies that Hume City's demographic has a high proportion of residents who are vulnerable to direct climate impacts like severe weather events such as heatwaves or storms, and indirect climate impacts like cost of living increases due to rising energy and fuel costs and impacts on food growing. Vulnerability is affected by financial situation, educational background, health and well-being, social connectedness, and cultural and communication differences. The document also identifies key stakeholders in the Climate Action Plan, including those more vulnerable to climate impacts or bill stress, such as lower socio-economic demographics, people with chronic illness or disability, very young people, old people, Aboriginal and Torres Strait Islanders, and new arrivals and people from diverse cultural backgrounds. The document's commitment to social justice in terms of climate change action means equity and fairness for future generations and protection of other species and ecosystems.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "Hume City’s demographic shows a high proportion of residents who are vulnerable to direct climate impacts like severe weather events such as heatwaves or storms, and indirect climate impacts like cost of living increases due to rising energy and fuel costs and impacts on food growing.",
+        "page": 20,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The policy acknowledges that the most vulnerable people often have the least capacity to respond and cope with the impacts of climate change. It recognizes that these individuals have typically made the least contribution to the problem. The policy emphasizes the need for a just transition, ensuring that the most vulnerable community members are not disadvantaged. This shows a clear understanding of the social justice implications of climate change and a commitment to addressing these in a fair and equitable way. The policy also acknowledges the potential impact of rising electricity and gas prices on the ability of some community members to heat and cool their properties, indicating an awareness of the economic challenges that climate change can pose for vulnerable individuals.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "A just transition, ensuring our most vulnerable community members are not disadvantaged is a priority of the plan. Council recognises that any major transition needs to occur in a fair and socially equitable way. The most vulnerable people have typically made the least contribution to the problem and often have less capacity to respond and cope with the impacts.",
+        "page": 5,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The policy acknowledges that the most vulnerable people often have the least capacity to respond and cope with the impacts of climate change. It recognizes that these individuals have typically made the least contribution to the problem. The policy emphasizes the need for a just transition, ensuring that the most vulnerable community members are not disadvantaged. This indicates an understanding of the disproportionate impacts of climate change on vulnerable populations and a commitment to addressing these inequities. The policy also mentions the threat posed by increasing frequency and severity of heatwaves to vulnerable members of the community, including the elderly and those on low incomes. This further demonstrates an awareness of the specific risks faced by vulnerable communities due to climate change.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "A just transition, ensuring our most vulnerable community members are not disadvantaged is a priority of the plan. The most vulnerable people have typically made the least contribution to the problem and often have less capacity to respond and cope with the impacts.",
+        "page": 5,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change, particularly the increased frequency of heatwaves and storms, may exacerbate existing health sensitivities, accommodation stress, and isolation among vulnerable members of the community, including older people and people living with a disability. The document outlines specific actions to support these vulnerable populations, such as upfront planning for emergency events, identifying areas where urban heat islands intersect with vulnerable populations, and investing in urban cooling measures. These actions demonstrate a commitment to addressing the risks of climate change in an equitable manner, as they are designed to protect and support those who are most vulnerable to its impacts.",
+      "source": "Knox-a-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "The potential impacts of climate change, specifically increased frequency of heatwaves and storms, may exacerbate existing health sensitivities, accommodation stress, and isolation. This includes older people and people living with a disability.",
+        "page": 9,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change, particularly the increased frequency of heatwaves and storms, may exacerbate existing health sensitivities, accommodation stress, and isolation among vulnerable members of the community, including older people and people living with a disability. The document outlines specific actions to support these vulnerable populations, such as upfront planning for emergency events, identifying areas where urban heat islands intersect with vulnerable populations, and prioritizing investment in urban cooling measures. These actions demonstrate a clear recognition of the disproportionate impact of climate change on vulnerable communities and a commitment to addressing these impacts in a fair and equitable manner.",
+      "source": "Knox-b-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "The potential impacts of climate change, specifically increased frequency of heatwaves and storms, may exacerbate existing health sensitivities, accommodation stress, and isolation. This includes older people and people living with a disability.",
+        "page": 9,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. They highlight the intersectionality of attributes and the compounding effect of these attributes, which can feed into socio-economic inequality. This inequality can make some people more vulnerable to climate impacts. The documents also note that this intersectionality and socio-economic inequality can influence people's capacity to take climate action and their preferences for what type of actions to take. The policy emphasizes the need to be mindful of and responsive to this differing impact and differing capacity and preferences for action. It also suggests that if there are climate change mitigation or adaptation actions that also help progress socio-economic equality, these should be pursued. The policy also acknowledges that people of different genders, income levels, and other attributes can experience the impacts of climate change differently and there will also be varying capacity for people to take climate action.",
+      "source": "Manningham-a-a12345678910.json",
+      "lga": "Manningham",
+      "quote": {
+        "content": "This intersectionality and socio-economic inequality can also influence people’s capacity to take climate action and preferences of what type of actions to take. The intersectionality of attributes or the compounding effect of attributes can feed into socio-economic inequality that means some people are more vulnerable to climate impacts.",
+        "page": 3,
+        "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. They highlight the intersectionality of attributes and the compounding effect of these attributes, which can feed into socio-economic inequality. This inequality can make some people more vulnerable to climate impacts. The documents also note that this intersectionality and socio-economic inequality can influence people's capacity to take climate action and their preferences for what type of actions to take. The policy emphasizes the need to be mindful of and responsive to this differing impact and differing capacity and preferences for action. It also suggests that if there are climate change mitigation or adaptation actions that also help progress socio-economic equality, these should be pursued. The policy also acknowledges that people of different genders, income levels, and other attributes can experience the impacts of climate change differently and there will also be varying capacity for people to take climate action.",
+      "source": "Manningham-b-a12345678910.json",
+      "lga": "Manningham",
+      "quote": {
+        "content": "This intersectionality and socio-economic inequality can also influence people’s capacity to take climate action and preferences of what type of actions to take. The intersectionality of attributes or the compounding effect of attributes can feed into socio-economic inequality that means some people are more vulnerable to climate impacts.",
+        "page": 3,
+        "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. They highlight that vulnerable people in the community, including those who already receive community care, the sick and disabled, indigenous, low income, socially isolated, the elderly and very young, and CALD communities, are at greater risk of sickness, death, and significant financial and social impacts from climate change. This includes impacts from heat, heatwaves, and the urban heat island effect. The documents also note that those with poor quality housing face increased vulnerability to heatwaves. The documents further emphasize that reduced Council services during heatwave events pose health risks to vulnerable members of the community. Therefore, the documents clearly recognize the disproportionate impact of climate change on vulnerable communities and the need for policies and actions that address these impacts.",
+      "source": "Maroondah-a-a12345678910.json",
+      "lga": "Maroondah",
+      "quote": {
+        "content": "Those with poor quality housing also face increased vulnerability to heatwave. Vulnerable people in the community are at greater risk of sickness, death and significant financial and social impacts from climate change, including heat, heatwaves and the urban heat island effect. This includes those who already receive community care, the sick and disabled, indigenous, low income, socially isolated, the elderly and very young and CALD communities.",
+        "page": 27,
+        "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The policy acknowledges that climate change poses significant risks to the health and wellbeing of vulnerable people in the community, including those who already receive community care, the sick and disabled, indigenous, low income, socially isolated, the elderly and very young, and culturally and linguistically diverse communities. The policy also recognizes that those with poor quality housing face increased vulnerability to heatwaves. The policy further acknowledges that reduced Council services during heatwave events pose health risks to vulnerable members of the community. Therefore, the policy does not only recognize the impact of climate change on vulnerable communities, but also the need for adaptation strategies to mitigate these impacts.",
+      "source": "Maroondah-b-a12345678910.json",
+      "lga": "Maroondah",
+      "quote": {
+        "content": "Those with poor quality housing also face increased vulnerability to heatwave. Vulnerable people in the community are at greater risk of sickness, death and significant financial and social impacts from climate change, including heat, heatwaves and the urban heat island effect. This includes those who already receive community care, the sick and disabled, indigenous, low income, socially isolated, the elderly and very young and CALD communities.",
+        "page": 27,
+        "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change will affect everyone who lives, works, and plays in the city, but it also recognizes that some members of the community are more vulnerable to the effects of climate change. These include individuals affected by factors such as low income, age, gender, disability, and background. The document also discusses the principle of intergenerational equity, which recognizes that decisions made today will determine the future climate that children and future generations will experience. The policy also outlines a socially inclusive approach, considering factors such as income inequality, educational background, and disability when implementing the strategy. This approach aims to reduce barriers and vulnerabilities, and to deliver environmental, social, and economic benefits to the community.",
+      "source": "Melbourne-a-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "This is because factors such as low income, age, gender, disability and background can contribute to inequities in social status and wellbeing. The principle of intergenerational equity recognises that decisions made today will determine the future climate that children and future generations will experience. Climate change will impact everyone who lives, works and plays in the city. However, some members of our community are more vulnerable to heatwaves, energy prices and reliability, rising food prices and the accessibility and affordability of buildings and transport infrastructure.",
+        "page": 52,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change will affect everyone who lives, works, and plays in the city, but it also recognizes that some members of the community are more vulnerable to the effects of climate change. These vulnerable groups include those affected by factors such as low income, age, gender, disability, and background. The document also outlines a socially inclusive approach to addressing climate change, which includes considerations for Aboriginal communities, income inequality, educational background, and disability. This approach aims to identify vulnerabilities and reduce barriers to access programs, thereby addressing the social impacts of climate change.",
+      "source": "Melbourne-b-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "This is because factors such as low income, age, gender, disability and background can contribute to inequities in social status and wellbeing. Climate change will impact everyone who lives, works and plays in the city. However, some members of our community are more vulnerable to heatwaves, energy prices and reliability, rising food prices and the accessibility and affordability of buildings and transport infrastructure.",
+        "page": 52,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The policy recognizes that climate change will have a particularly high impact on vulnerable communities, including the elderly, the very young, those that live alone, those experiencing low-socioeconomic circumstances, and culturally and linguistically diverse people. The policy also acknowledges that due to high levels of disadvantage, the City of Melton has a relatively high number of residents that will be particularly exposed to climate change impacts. The policy outlines actions to engage with these communities on climate change adaptation, including defining and improving understanding of climate change vulnerable communities, and developing and disseminating graphic rich, culturally appropriate communication material targeting the most vulnerable communities.",
+      "source": "Melton-a-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. They highlight that climate change will have a particularly high impact on vulnerable communities, including the elderly, the very young, those living alone, those experiencing low-socioeconomic circumstances, and culturally and linguistically diverse people. The documents also mention that due to high levels of disadvantage, the City of Melton has a relatively high number of residents that will be particularly exposed to climate change impacts. The policy outlines plans to engage with these communities, develop and disseminate culturally appropriate communication material, and improve understanding of climate change vulnerable communities. This shows a clear recognition of the differential impacts of climate change on various segments of the population, and a commitment to addressing these disparities.",
+      "source": "Melton-b-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities, particularly in the context of equity and social justice. It acknowledges that the impacts of climate breakdown will not be borne equally or fairly among different groups, such as between rich and poor, women and men, and older and younger generations. This recognition is embedded in the Merri-bek Human Rights Policy, which provides a framework for delivering accessible, equitable, and inclusive programs, services, and decision-making processes. The document also highlights the concept of 'climate justice', which views the climate crisis through a human rights lens. This perspective emphasizes the belief that collective action can create a better future for present and future generations. Therefore, the policy demonstrates an understanding of the disproportionate impacts of climate change on vulnerable communities and incorporates this understanding into its strategies and actions.",
+      "source": "Merribek-a-a12345678910.json",
+      "lga": "Merribek",
+      "quote": {
+        "content": "Consequently, there is a growing focus on ‘climate justice’, which looks at the climate crisis through a human rights lens and on the belief that by working together we can create a better future for present and future generations. The impacts of climate breakdown will not be borne equally or fairly, between rich and poor, women and men, and older and younger generations etc.",
+        "page": 22,
+        "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities, particularly in relation to equity and social justice. It acknowledges that the impacts of climate breakdown will not be borne equally or fairly among different groups, such as between rich and poor, women and men, and older and younger generations. This recognition is embedded in the Merri-bek Human Rights Policy, which provides a framework for delivering accessible, equitable, and inclusive programs, services, and decision-making processes. The policy also highlights a growing focus on 'climate justice', which views the climate crisis through a human rights lens. This approach emphasizes the belief that collective action can create a better future for present and future generations. Therefore, the document not only acknowledges the differential impacts of climate change but also advocates for a just response that prioritizes the rights and needs of vulnerable communities.",
+      "source": "Merribek-b-a12345678910.json",
+      "lga": "Merribek",
+      "quote": {
+        "content": "Consequently, there is a growing focus on ‘climate justice’, which looks at the climate crisis through a human rights lens and on the belief that by working together we can create a better future for present and future generations. The impacts of climate breakdown will not be borne equally or fairly, between rich and poor, women and men, and older and younger generations etc.",
+        "page": 22,
+        "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The document indeed discusses the impact of climate change on vulnerable communities. It acknowledges that climate change disproportionately affects marginalized communities, including low-income households. Factors such as limited access to resources, socio-economic disadvantage, and discrimination can amplify vulnerability to climate-related hazards, displacement, and the unequal distribution of the burdens and benefits associated with climate adaptation and mitigation efforts. The document also emphasizes the importance of community engagement and support mechanisms, such as providing access to resources, services, and infrastructure to mitigate and adapt to climate change impacts. This approach promotes social cohesion, strengthens networks, and enhances community resilience in the face of climate-related challenges.",
+      "source": "Mitchell-a-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "Factors such as limited access to resources, socio-economic disadvantage, and discrimination can amplify vulnerability to climate-related hazards, displacement, and the unequal distribution of the burdens and benefits associated with climate adaptation and mitigation efforts. Climate change disproportionately affects marginalised communities, including low-income households.",
+        "page": 18,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly discusses the impact of climate change on vulnerable communities. It acknowledges that climate change disproportionately affects marginalized communities, including low-income households. Factors such as limited access to resources, socio-economic disadvantage, and discrimination can amplify vulnerability to climate-related hazards, displacement, and the unequal distribution of the burdens and benefits associated with climate adaptation and mitigation efforts. The policy also emphasizes the importance of community engagement and support in fostering collective action, ensuring equity, and building resilient communities capable of effectively responding to the impacts of climate change. It also mentions the development of community climate change hubs as a dedicated place for residents and businesses to find up-to-date information on adapting to and mitigating climate change.",
+      "source": "Mitchell-b-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "Factors such as limited access to resources, socio-economic disadvantage, and discrimination can amplify vulnerability to climate-related hazards, displacement, and the unequal distribution of the burdens and benefits associated with climate adaptation and mitigation efforts. Climate change disproportionately affects marginalised communities, including low-income households.",
+        "page": 18,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It outlines a policy to 'partner with community groups and other government bodies to support vulnerable residents and businesses to prepare for adverse weather, heatwaves, flood risk, transport and utility disruptions and emergencies'. This indicates a recognition of the differential impacts of climate change on various community members, particularly those who are vulnerable. The policy also includes a provision to 'provide tailored support to vulnerable members of the community to prepare for climate change impacts and build response capacity'. This suggests an understanding of the need for specific, targeted interventions to support those most at risk from the effects of climate change.",
+      "source": "MooneeValley-a-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The policy outlines a number of actions aimed at fostering community resilience to climate impacts, with a particular focus on vulnerable residents. The policy emphasizes the need to improve understanding of climate change impacts in the community and build the capacity of people to respond. It also outlines plans to provide tailored support to vulnerable members of the community to prepare for climate change impacts and build response capacity. This indicates a recognition of the differential impacts of climate change on various community members, and a commitment to ensuring that those who are most vulnerable are adequately supported in preparing for and responding to these impacts.",
+      "source": "MooneeValley-b-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. They acknowledge that climate change will present substantial environmental, social, and financial impacts, and that certain groups, such as the elderly, disabled, and young, are most at risk to the impacts of increased temperatures. The documents also highlight the need for community engagement programs to reach all stakeholders, with a focus on those most vulnerable to the impacts of climate change. They further emphasize the need to prepare for extreme weather events, which are expected to increase due to climate change, and which will particularly affect vulnerable communities. The documents also propose actions to build human and social adaptive capacities with community engagement programs that prepare residents and businesses for extreme weather events.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "The elderly, disabled and young are identified as those most at risk to the impacts of increased temperatures. Demographic data shows that 17.3% of community members are aged under 15 years and 24.5% are aged over 65 years. The population of retirement age is forecast to increase by 38.3% by 2026. 38,000 residents have some form of disability, with 6,921 requiring assistance with daily activities. The majority of these people are aged over 65 years. The elderly, disabled and young are identified as those most at risk to the impacts of increased temperatures.",
+        "page": 25,
+        "source": "Mornington-2018-climate-community-engagement.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. They highlight that climate change will bring increased frequency and severity of natural disasters and extreme weather events such as bushfires, storms, flooding, and heatwaves. These events will increase the need to support displaced people, which will strain emergency response resources. The documents specifically mention that vulnerable communities, including the elderly, disabled, and young, are identified as those most at risk to the impacts of increased temperatures. The policy also outlines plans to provide education and advice to help the community better prepare for climate change and reduce greenhouse gas emissions. This includes community engagement programs that focus on reaching those most vulnerable to the impacts of climate change.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "The elderly, disabled and young are identified as those most at risk to the impacts of increased temperatures. The population of retirement age is forecast to increase by 38.3% by 2026. 38,000 residents have some form of disability, with 6,921 requiring assistance with daily activities. The majority of these people are aged over 65 years. The elderly, disabled and young are identified as those most at risk to the impacts of increased temperatures.",
+        "page": 25,
+        "source": "Mornington-2018-climate-community-engagement.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The local government policy acknowledges that climate change affects everyone in the community, but it particularly impacts the most vulnerable members. The policy outlines a commitment to support these vulnerable individuals and prioritise solutions that will help protect the essential systems and services they rely on daily. The policy also encourages residents and businesses to take meaningful action to reduce their emissions and learn how to become more climate resilient. Furthermore, the policy includes initiatives such as the 'Community Climate Resilience' and 'Cool Spaces Strategy' which aim to support community resilience to climate change impacts and create safe locations for the community to access during times of extreme heat, respectively. These initiatives indicate a clear recognition of the differential impacts of climate change on vulnerable communities and a commitment to address these impacts.",
+      "source": "PortPhillip-a-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "Action is crucial because climate change impacts everyone in our community, with vulnerable members most affected. the risks we face from climate change, support our most vulnerable people and prioritise solutions that will help protect the essential systems and services we rely on daily.",
+        "page": 33,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The policy document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change affects everyone in the community, but it is the vulnerable members who are most affected. The policy outlines a commitment to support these vulnerable individuals and prioritise solutions that will help protect the essential systems and services they rely on daily. The policy also encourages residents and businesses to take meaningful action to reduce their emissions and learn how to become more climate resilient. Furthermore, the policy includes initiatives such as the 'Community Climate Resilience' and 'Cool Spaces Strategy' which aim to support community resilience to climate change impacts and create safe locations for the community during times of extreme heat, respectively. These initiatives indicate a recognition of the disproportionate impact of climate change on vulnerable communities and a commitment to address this inequity.",
+      "source": "PortPhillip-b-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "Action is crucial because climate change impacts everyone in our community, with vulnerable members most affected. the risks we face from climate change, support our most vulnerable people and prioritise solutions that will help protect the essential systems and services we rely on daily.",
+        "page": 33,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The Pyrenees Shire Council's Climate Change Response and Mitigation Action Plan and Heatwave Plan both outline measures to address the impacts of climate change, including heatwaves, on the community. The Heatwave Plan specifically identifies vulnerable population groups, such as older people, infants/young children, those with existing medical conditions, and people taking medications that may affect their reaction to heat. The Climate Change Response and Mitigation Action Plan outlines measures to mitigate the impacts of climate change, including flood events and greenhouse gas emissions. These measures are designed to protect the community and its infrastructure, demonstrating a commitment to social justice and equity by ensuring that all community members, including the most vulnerable, are considered in climate change mitigation and adaptation strategies.",
+      "source": "Pyrenees-a-a12345678910.json",
+      "lga": "Pyrenees",
+      "quote": {
+        "content": "However, there are certain groups of people who are more susceptible to the health impacts of heat than others, including older people, infants/young children, those with existing medical conditions and people taking medications that may affect their reaction to heat.” The Victorian Department of Health and Human Servicespublication, “The Population Health Impacts of Heat, 2011” states, “Heatwaves, or brief periods of extreme heat, can affect anyone in the population.",
+        "page": 7,
+        "source": "Pyrenees-2020-heatwave-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The local government's climate change response and mitigation plan outlines measures to address the impacts of climate change, including heatwaves and flooding, which disproportionately affect vulnerable populations. The plan identifies those at greatest risk, including older people, infants/young children, those with existing medical conditions, and people taking medications that may affect their reaction to heat. The plan also includes measures to protect these vulnerable groups, such as flood mitigation measures, investment in resilient infrastructure, and the implementation of a heatwave plan. The heatwave plan further emphasizes the need to care for vulnerable population groups during heatwave events. Therefore, the documents demonstrate a clear recognition of the differential impacts of climate change on vulnerable communities and a commitment to addressing these impacts.",
+      "source": "Pyrenees-b-a12345678910.json",
+      "lga": "Pyrenees",
+      "quote": {
+        "content": "However, there are certain groups of people who are more susceptible to the health impacts of heat than others, including older people, infants/young children, those with existing medical conditions and people taking medications that may affect their reaction to heat.” The Victorian Department of Health and Human Servicespublication, “The Population Health Impacts of Heat, 2011” states, “Heatwaves, or brief periods of extreme heat, can affect anyone in the population.",
+        "page": 7,
+        "source": "Pyrenees-2020-heatwave-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It outlines specific actions to support the most vulnerable residents, including older people and those living in social and public housing, to prepare for and cope with the impacts of climate change. These impacts include extreme weather events such as storms, floods, and heatwaves. The document also mentions the establishment of a network of local heat refuges for the most vulnerable residents. Furthermore, it discusses working with community organizations to build their capacity to prepare for and respond to climate impacts and support their communities. This indicates a clear recognition of the differential impacts of climate change on vulnerable communities and a commitment to addressing these through targeted actions.",
+      "source": "Stonnington-a-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "most vulnerable \nresidents, including older people and people living in social and public \nhousing, to prepare and cope with the impacts of climate change \nincluding extreme weather such as storms and floods as well as \nheatwaves.",
+        "page": 41,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The policy outlines specific actions to support vulnerable residents, including older people and those living in social and public housing, to prepare for and cope with the impacts of climate change. This includes extreme weather events such as storms, floods, and heatwaves. The policy also plans to establish a network of local heat refuges for the most vulnerable residents. Furthermore, the policy aims to work with community organizations to build their capacity to prepare for and respond to climate impacts and support their communities. These actions demonstrate a clear recognition of the differential impacts of climate change on vulnerable communities and a commitment to addressing these impacts in a manner that promotes equity and social justice.",
+      "source": "Stonnington-b-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "most vulnerable \nresidents, including older people and people living in social and public \nhousing, to prepare and cope with the impacts of climate change \nincluding extreme weather such as storms and floods as well as \nheatwaves.",
+        "page": 41,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The local government recognizes that certain ecosystems, geographic areas, and members of the community are more vulnerable to the impacts of climate change than others. They have identified that communities within forested and bushland areas face a higher risk from extreme fire events than those in urban or rural grassy areas. Urban, inland communities will be more exposed to hotter, longer heatwaves than coastal communities. Communities, natural ecosystems, and significant cultural sites close to the coast at low elevation will be more severely impacted by sea level rise. The local government has committed to continue identifying and better understanding these local vulnerabilities so they can work with the community to plan for, and respond to, changing local conditions.",
+      "source": "SurfCoast-a-a12345678910.json",
+      "lga": "SurfCoast",
+      "quote": {
+        "content": "We will continue to identify and better understand these local vulnerabilities so we can work with our community to plan for, and respond to, our changing local conditions. We recognise that certain ecosystems, geographic areas and members of our community are more vulnerable to the impacts of climate change than others.",
+        "page": 16,
+        "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The local government recognizes that certain ecosystems, geographic areas, and members of the community are more vulnerable to the impacts of climate change than others. They have identified these vulnerabilities and are working to better understand them in order to plan for and respond to changing local conditions. For instance, communities within forested and bushland areas face a higher risk from extreme fire events than those in urban or rural grassy areas. Similarly, urban, inland communities will be more exposed to hotter, longer heatwaves than coastal communities. The policy also acknowledges that communities, natural ecosystems, and significant cultural sites close to the coast at low elevation will be more severely impacted by sea level rise. These considerations indicate a clear recognition of the differential impacts of climate change on various communities, demonstrating an understanding of equity and social justice in their climate change response.",
+      "source": "SurfCoast-b-a12345678910.json",
+      "lga": "SurfCoast",
+      "quote": {
+        "content": "We will continue to identify and better understand these local vulnerabilities so we can work with our community to plan for, and respond to, our changing local conditions. We recognise that certain ecosystems, geographic areas and members of our community are more vulnerable to the impacts of climate change than others.",
+        "page": 16,
+        "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provided by the Wellington Shire Council do explicitly discuss the impact of climate change on vulnerable communities. The council acknowledges that climate change is real and is already impacting communities. It recognizes that these impacts will significantly jeopardize the health, livelihoods, and socio-economic basis of communities if emissions continue unabated. The council also acknowledges that vulnerable communities with high exposure to climate change impacts, combined with low socio-economic status, pre-existing health, and mental health issues require support to build their capacity to adapt. The council plans to prioritize these vulnerable people in a reduced funding environment. This shows a clear understanding of the intersection between climate change and social justice, and a commitment to addressing these issues in a way that prioritizes the needs of the most vulnerable.",
+      "source": "Wellington-a-a12345678910.json",
+      "lga": "Wellington",
+      "quote": {
+        "content": "In a reduced funding environment, vulnerable people should be prioritised. Our vulnerable communities with high exposure to climate change impacts combined with low socio-economic status, pre-existing health and mental health issues require support to build their capacity to adapt.",
+        "page": 22,
+        "source": "Wellington-Sustainability-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents from the Wellington Shire Council's Sustainability Strategy do explicitly discuss the impact of climate change on vulnerable communities. The council acknowledges that climate change is real and is already impacting communities. It recognizes that if emissions continue unabated, these impacts will significantly jeopardize the health, livelihoods, and socio-economic basis of communities. The council also acknowledges that vulnerable communities with high exposure to climate change impacts, combined with low socio-economic status, pre-existing health, and mental health issues require support to build their capacity to adapt. The council plans to prioritize these vulnerable people in a reduced funding environment. The council also acknowledges the connection between the built environment, climate change, and public health. Therefore, the council's policy does consider equity and social justice in its approach to climate change.",
+      "source": "Wellington-b-a12345678910.json",
+      "lga": "Wellington",
+      "quote": {
+        "content": "In a reduced funding environment, vulnerable people should be prioritised. Our vulnerable communities with high exposure to climate change impacts combined with low socio-economic status, pre-existing health and mental health issues require support to build their capacity to adapt.",
+        "page": 22,
+        "source": "Wellington-Sustainability-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The policy outlines plans to identify communities that are vulnerable to climate change impacts and to support them in increasing their resilience. It also mentions leveraging existing and new community partnerships to connect low-income, hard-to-reach, and vulnerable households to sustainability programs and services, such as energy efficiency retrofitting schemes. This indicates a recognition of the disproportionate impact of climate change on vulnerable communities and a commitment to addressing these disparities. The policy also acknowledges the potential for increased heat-related deaths, particularly among the elderly and other vulnerable members of the community, further highlighting the focus on vulnerable populations.",
+      "source": "Whitehorse-a-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "energy efficiency retrofitting schemes). vulnerable to climate change impacts and identify opportunities to support them to increase their resilience. Leverage existing and new community partnerships which can connect low-income, hardly reached and vulnerable households to sustainability programs and services (e.g.",
+        "page": 1,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The policy outlines plans to identify communities that are vulnerable to climate change impacts and to support them in increasing their resilience. This is a clear recognition of the differential impacts of climate change on different segments of the population, particularly those who are most vulnerable. The policy also mentions leveraging existing and new community partnerships to connect low-income, hard-to-reach, and vulnerable households to sustainability programs and services, such as energy efficiency retrofitting schemes. This indicates an understanding of the intersection between social justice and climate change, and a commitment to ensuring that climate change mitigation and adaptation efforts are inclusive and equitable.",
+      "source": "Whitehorse-b-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "energy efficiency retrofitting schemes). vulnerable to climate change impacts and identify opportunities to support them to increase their resilience. Leverage existing and new community partnerships which can connect low-income, hardly reached and vulnerable households to sustainability programs and services (e.g.",
+        "page": 1,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The policy acknowledges that climate change impacts disproportionately affect vulnerable communities, with specific mention of people on low incomes and women. It is recognized that these groups are more likely to be trapped in energy debt, deprived of basic energy needs, or at risk of service disconnection, making them particularly vulnerable to extreme heat. The policy also outlines plans to prioritize adaptation actions for the most vulnerable people in areas more exposed to climate risk. This demonstrates a clear understanding of the intersection between social justice and climate change, and a commitment to addressing these issues in a way that is equitable and inclusive.",
+      "source": "Whittlesea-a-a12345678910.json",
+      "lga": "Whittlesea",
+      "quote": {
+        "content": "Women are also at greater risk both during and after a climatic disaster as the climate risk is multiplied by women’s economic vulnerability. Climate change impacts disproportionately affect vulnerable communities. People on low incomes for example, are more likely to be trapped in energy debt, deprived of basic energy needs or at risk of service disconnection, making them particularly vulnerable to extreme heat.",
+        "page": 17,
+        "source": "Whittlesea-climate-change-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The policy acknowledges that climate change impacts disproportionately affect vulnerable communities, with specific mention of people on low incomes and women. It is recognized that these groups are more likely to be trapped in energy debt, deprived of basic energy needs, or at risk of service disconnection, making them particularly vulnerable to extreme heat. The policy also outlines plans to prioritize adaptation actions for the most vulnerable people in areas more exposed to climate risk. This demonstrates a clear understanding of the intersection between social justice and climate change, and a commitment to addressing these issues in an equitable manner.",
+      "source": "Whittlesea-b-a12345678910.json",
+      "lga": "Whittlesea",
+      "quote": {
+        "content": "Women are also at greater risk both during and after a climatic disaster as the climate risk is multiplied by women’s economic vulnerability. Climate change impacts disproportionately affect vulnerable communities. People on low incomes for example, are more likely to be trapped in energy debt, deprived of basic energy needs or at risk of service disconnection, making them particularly vulnerable to extreme heat.",
+        "page": 17,
+        "source": "Whittlesea-climate-change-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. They highlight that climate risks relating to the vulnerable are ranked highly due to the potentially deadly impacts of heatwaves on the elderly and sick. The documents also identify that people more likely to be vulnerable to climate change include those that live alone, have difficult socio-economic circumstances, come from racial or ethnic groups, or those in aged care facilities. Within Wyndham, it is thought that the interaction of age, illness, and income will be a strong determinant of vulnerability to climate change. The documents also mention that the local government plans to engage with the community to understand their capacity to adapt and tailor responses accordingly. This includes building the capacity of the community to understand the potential range of impacts likely under climate change and building an understanding of how the community is already adapting.",
+      "source": "Wyndham-a-a12345678910.json",
+      "lga": "Wyndham"
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. They identify that climate risks relating to the vulnerable are ranked highly due to the potentially deadly impacts of heatwaves on the elderly and sick. The documents also highlight that people more likely to be vulnerable to climate change include those that live alone, have difficult socio-economic circumstances, come from racial or ethnic groups, or those in aged care facilities. The interaction of age, illness, and income is identified as a strong determinant of vulnerability to climate change within Wyndham. The documents also outline plans to engage with the community to build their capacity to understand the potential range of impacts likely under climate change and to understand how the community is already adapting. This indicates a commitment to social justice by ensuring that vulnerable communities are not left behind in the adaptation process.",
+      "source": "Wyndham-b-a12345678910.json",
+      "lga": "Wyndham"
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. They highlight that the climate emergency will disproportionately affect the most vulnerable people in communities, who often have less capacity to respond and cope with the impacts. These vulnerable groups include those living on low incomes, the aged and very young, people who are chronically ill, Indigenous people, people experiencing homelessness, and those from culturally and linguistically diverse backgrounds. The documents also outline planned actions to support these communities, such as targeted communications and in-home support, adapting heatwave and other climate risk messages, and building the capacity of community organisations to prepare for and respond to climate-related impacts. Furthermore, the documents mention the allocation of community grant funds to accelerate community-led climate action, with emphasis on projects that support the most vulnerable in the community to cope with climate impacts.",
+      "source": "Yarra-a-a12345678910.json",
+      "lga": "Yarra",
+      "quote": {
+        "content": "The people who are unfairly impacted are typically those living on low incomes, the aged and very young, people who are chronically ill, Indigenous people, people experiencing homelessness, and those from culturally and linguistically diverse backgrounds. Both globally and locally, the climate emergency will disproportionately impact the most vulnerable people in our communities who often have far less capacity to respond and cope with the impacts.",
+        "page": 9,
+        "source": "Yarra-2020-climate-emergency-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. They highlight that the climate emergency will disproportionately affect the most vulnerable people in communities, who often have less capacity to respond and cope with the impacts. These vulnerable groups include those living on low incomes, the aged and very young, people who are chronically ill, Indigenous people, people experiencing homelessness, and those from culturally and linguistically diverse backgrounds. The documents also outline planned actions to support these communities, such as targeted communications and in-home support, adapting heatwave and other climate risk messages, and building the capacity of community organisations to prepare for and respond to climate-related impacts. Furthermore, the documents mention the allocation of community grant funds to accelerate community-led climate action, with emphasis on projects that support the most vulnerable in the community to cope with climate impacts.",
+      "source": "Yarra-b-a12345678910.json",
+      "lga": "Yarra",
+      "quote": {
+        "content": "The people who are unfairly impacted are typically those living on low incomes, the aged and very young, people who are chronically ill, Indigenous people, people experiencing homelessness, and those from culturally and linguistically diverse backgrounds. Both globally and locally, the climate emergency will disproportionately impact the most vulnerable people in our communities who often have far less capacity to respond and cope with the impacts.",
+        "page": 9,
+        "source": "Yarra-2020-climate-emergency-plan.pdf",
+        "search_score": 0.99
+      }
+    }
+  ]
+}

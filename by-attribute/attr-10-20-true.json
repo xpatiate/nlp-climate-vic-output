@@ -1,0 +1,331 @@
+{
+  "attribute": 11,
+  "question": 20,
+  "finding": true,
+  "num": 37,
+  "responses": [
+    {
+      "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate. It outlines a plan to deliver targeted financial and advisory services to vulnerable households, such as the elderly, rentals, and culturally and linguistically diverse (CALD) communities. The aim is to help these groups respond to climate change impacts, focusing on social connectedness to improve social resilience to climate change, and linking to finance for low-cost, high-impact housing improvements to reduce energy costs and increase comfort. The document acknowledges that without targeted assistance, these vulnerable groups could miss out on the benefits of climate change action and be unfairly disadvantaged with household costs and exposure to extreme weather. The policy also plans to leverage available state and federal government assistance for housing upgrades and link with existing council and other local social services and programs.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate, particularly focusing on vulnerable households. It outlines a plan to deliver targeted financial and advisory services to these households, which include the elderly, rentals, and culturally and linguistically diverse (CALD) communities. The aim is to help these households respond to climate change impacts, improve social resilience, and reduce energy costs. The document acknowledges that without targeted assistance, these vulnerable groups could miss out on the benefits of climate change action and be more exposed to extreme weather. The policy also emphasizes the importance of fairness and equity, and plans to leverage existing and new programs and funding streams to deliver this assistance. Therefore, the policy does explicitly discuss how to equitably share the benefits and opportunities of a safe climate.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. It outlines a commitment to ensuring that all parts of the community can participate in climate action and that vulnerability and equity are addressed in the transition. The policy also includes specific actions to support vulnerable community members in the switch to 'zero carbon' energy. This includes offering subsidised home energy assessments and supporting access to affordable energy efficiency upgrades. These actions indicate a clear intention to ensure that the benefits and opportunities of a safe climate are shared equitably across the community, including among those who are most vulnerable.",
+      "source": "Bayside-a-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "- Support vulnerable community members to access affordable \nenergy efficiency upgrade. Ongoing \nLow \n(cumulative) \nExisting \noperational \nbudget \nLow \nEnvironmental \nSustainability, \nCommunity \nServices \nDeliverables: \n- Offer subsidised home energy assessments for vulnerable \ncommunity members.",
+        "page": 32,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The policy document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. It outlines a commitment to ensuring that all parts of the community can participate in climate action and that vulnerability and equity are addressed in the transition. The policy also includes specific actions to support vulnerable community members in the switch to 'zero carbon' energy. This includes offering subsidised home energy assessments and supporting access to affordable energy efficiency upgrades. These actions demonstrate a clear intention to ensure that the benefits and opportunities of a safe climate are shared equitably across the community, particularly with those who are most vulnerable.",
+      "source": "Bayside-b-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "● Make it accessible for all parts of our community and our organisation to participate \n● Strengthen actions through partnerships with the community and like-minded organisations \n● Strive to address vulnerability and equity in the transition",
+        "page": 6,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do discuss how to equitably share the benefits and opportunities of a safe climate. The Brimbank Climate Emergency Plan 2020-2025 outlines the principle of equity in decision-making, aiming to create opportunities for both present and future generations to adapt to climate change. This is particularly targeted towards those most vulnerable to the potential impacts of climate change. The plan emphasizes maintaining or enhancing the health, diversity, and productivity of the environment for the benefit of future generations. The principle of community engagement also ensures that the community, including youth, the vulnerable, or marginalized communities, are involved in decisions that may affect them. The plan also mentions the concept of 'environmental equity', which considers the unity of environmental, social, and economic factors of climate change. This is used to inform the co-creation of a zero net emissions, resilient city. Therefore, the documents do provide a clear framework for equitably sharing the benefits and opportunities of a safe climate.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "The present generation will ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations and that any adverse impacts of climate change are minimised for future generations. Decision-making will create opportunities for the present generation and future generations to adapt to climate change. In particular, for those people most vulnerable to the potential impacts of climate change.",
+        "page": 9,
+        "source": "Brimbank-Climate-Emergency-Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents do discuss how to equitably share the benefits and opportunities of a safe climate. The Brimbank Climate Emergency Plan 2020-2025 outlines the principle of equity in decision-making, aiming to create opportunities for both present and future generations to adapt to climate change. This is particularly targeted towards those most vulnerable to the potential impacts of climate change. The plan also emphasizes community engagement, involving the community in decisions that may affect them and providing them with appropriate information and opportunities to be involved. The plan also mentions the concept of 'environmental equity', which considers the unity of environmental, social, and economic factors of climate change. This is used to inform the co-creation of a zero net emissions, resilient city. The plan also outlines actions to be taken to ensure the health, diversity, and productivity of the environment is maintained or enhanced for the benefit of future generations.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "The present generation will ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations and that any adverse impacts of climate change are minimised for future generations. Decision-making will create opportunities for the present generation and future generations to adapt to climate change. In particular, for those people most vulnerable to the potential impacts of climate change.",
+        "page": 9,
+        "source": "Brimbank-Climate-Emergency-Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The policy document does discuss how to equitably share the benefits and opportunities of a safe climate. It emphasizes the importance of supporting vulnerable groups in climate action, including the elderly, people living with disabilities, and diverse cultural and gender groups. The policy also outlines plans to develop a climate-focused education program and to support the establishment of a community energy group to facilitate renewable energy opportunities. These actions suggest an intention to distribute climate benefits and opportunities across the community. However, the document does not provide specific details on how these benefits and opportunities will be equitably shared. It is also unclear how the policy will ensure that these actions are implemented in a way that is fair and just.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "Support community groups and organisations who work with elderly, people living with a disability, culturally and linguistically diverse, female and LGBTIQ+ populations to build climate action capacity",
+        "page": 32,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate, although it does not use the exact phrase 'equity and social justice'. The policy outlines several initiatives aimed at supporting vulnerable groups and ensuring they are included in climate action. For instance, it mentions supporting community groups and organisations that work with elderly, people living with a disability, culturally and linguistically diverse, female and LGBTIQ+ populations to build climate action capacity. It also discusses the establishment of a community energy group to facilitate renewable energy opportunities that benefit the community. Furthermore, the policy emphasizes the importance of partnerships in achieving climate action goals, which can be seen as a way to ensure that benefits and opportunities are shared equitably. However, the document could provide more specific details on how these benefits and opportunities will be equitably distributed.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "Support community groups and organisations who work with elderly, people living with a disability, culturally and linguistically diverse, female and LGBTIQ+ populations to build climate action capacity",
+        "page": 32,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss how to equitably share the benefits and opportunities of a safe climate. The policy emphasizes the concept of 'Climate Justice', which involves considering who in the community will be most impacted by climate change and ensuring that they are prioritized when developing climate solutions. The policy identifies specific vulnerable groups, including Aboriginal and Torres Strait Islander peoples, recent migrants, low-income households, people with disabilities or chronic illnesses, older residents, and young children. The policy also outlines plans to deliver community education and capacity-building campaigns on energy literacy and efficiency, food resilience, and water saving, prioritizing areas of Darebin most vulnerable to heat stress and energy inequity. This approach ensures that the benefits and opportunities of a safe climate are shared equitably, particularly among those most at risk.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "This involves considering who in our community will be the most impacted by climate change and ensuring that they are prioritised when developing climate solutions.",
+        "page": 17,
+        "source": "Darebin-Draft_Climate_Emergency_Plan_2024-2030.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss how to equitably share the benefits and opportunities of a safe climate. The policy emphasizes the concept of 'Climate Justice', which involves considering who in the community will be most impacted by climate change and ensuring that they are prioritized when developing climate solutions. This approach is aimed at reducing social inequality and improving social and economic equity in the community. The policy also highlights the importance of a connected and inclusive community in enhancing resilience to climate impacts. The policy further outlines specific actions to increase climate resilience and energy equity in Darebin, particularly focusing on supporting low-income households and renters. This is a clear indication of the policy's commitment to ensuring that the benefits and opportunities of a safe climate are shared equitably.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "This involves considering who in our community will be the most impacted by climate change and ensuring that they are prioritised when developing climate solutions.",
+        "page": 17,
+        "source": "Darebin-Draft_Climate_Emergency_Plan_2024-2030.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate, although it does not use the exact phrase 'equity and social justice'. The Glen Eria City Council's Climate Emergency Response Strategy 2021-2025 outlines a commitment to inclusivity and health, acknowledging that climate change directly impacts human health and wellbeing. The policy identifies vulnerable segments of the community, including older people, low-income households, and people with chronic illnesses, among others. The council commits to providing a diversity of climate action opportunities to meet the differing needs and capacities within the community. The policy also emphasizes the importance of green spaces and commits to working with the community to provide equitable access to these spaces. Furthermore, the policy outlines plans to incorporate climate change messages into various subject areas, including public health and transport, and to create opportunities for everyone in the community to act on climate change.",
+      "source": "GlenEira-a-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "Council will provide a diversity of climate action opportunities to meet the differing needs and capacity that exists in Glen Eira. Segments of our community are particularly vulnerable to these impacts, including older people, renters living in poor quality housing, low-income households, people with chronic illnesses, women and homeless people.",
+        "page": 10,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents from Glen Eira City Council's Climate Emergency Response Strategy 2021–2025 do explicitly discuss how to equitably share the benefits and opportunities of a safe climate. The policy outlines a commitment to inclusivity and health, acknowledging that climate change directly impacts human health and wellbeing, and that certain segments of the community are particularly vulnerable. These include older people, low-income households, people with chronic illnesses, women, and homeless people. The council plans to provide a diversity of climate action opportunities to meet the differing needs and capacities within the community. The policy also mentions the goal of providing equitable access to green open spaces, which are crucial for a healthy community and are already being impacted by climate change. The council plans to work in collaboration with the community to achieve this. These actions indicate a commitment to social justice and equity in the face of climate change.",
+      "source": "GlenEira-b-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "Council will provide a diversity of climate action opportunities to meet the differing needs and capacity that exists in Glen Eira. Segments of our community are particularly vulnerable to these impacts, including older people, renters living in poor quality housing, low-income households, people with chronic illnesses, women and homeless people.",
+        "page": 10,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do discuss how to equitably share the benefits and opportunities of a safe climate. The local government's Climate Emergency Strategy and Action Plan outline several measures to ensure equitable climate responses. These include increasing community awareness of climate change risks to health and wellbeing, and facilitating actions to reduce these risks. The strategy also emphasizes the need to support disadvantaged households in reducing their exposure to climate risks and minimizing utility consumption and associated costs. Furthermore, the plan includes measures to assist residents' equitable access to energy. These actions indicate a commitment to ensuring that the benefits and opportunities of a safe climate are shared equitably among the community.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The documents do discuss how to equitably share the benefits and opportunities of a safe climate. The local government's Climate Emergency Strategy and Action Plan outline several measures to ensure equitable climate responses. These include increasing community awareness of climate change risks to health and wellbeing, and facilitating actions to reduce these risks. The strategy also emphasizes the need to support disadvantaged households in reducing their exposure to climate risks and minimizing utility consumption and associated costs. Furthermore, the plan includes measures to assist residents' equitable access to energy. These actions indicate a commitment to ensuring that the benefits and opportunities of a safe climate are shared equitably among the community.",
+      "source": "GreaterDandenong-b-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate, although it does not provide extensive detail. The policy emphasizes the importance of climate justice and social equity, particularly in relation to vulnerable communities. It outlines a commitment to promoting and supporting the state's regions, industries, and communities in transitioning to a net zero greenhouse gas emissions economy. This includes capturing new opportunities and addressing any impacts arising from the need to reduce greenhouse gas emissions across the economy. The policy also mentions the development of a local share economy to reduce the impact on lifestyle due to climate change and to connect the community with each other. This is linked with community resilience hubs and focuses on social equity and inclusion. However, the document does not provide specific strategies or measures to ensure the equitable sharing of benefits and opportunities.",
+      "source": "Hepburn-a-a12345678910.json",
+      "lga": "Hepburn"
+    },
+    {
+      "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate, although it does not provide extensive detail. The policy emphasizes the importance of climate justice and social equity, particularly in relation to vulnerable communities. It outlines a commitment to promoting and supporting the state's regions, industries, and communities in transitioning to a net zero greenhouse gas emissions economy. This includes capturing new opportunities and addressing any impacts arising from the need to reduce greenhouse gas emissions across the economy. The policy also mentions the development of a local share economy to reduce the impact on lifestyle due to climate change and to connect the community with each other. This is linked with community resilience hubs and focuses on social equity and inclusion. However, the document does not provide specific strategies or measures to ensure the equitable sharing of benefits and opportunities.",
+      "source": "Hepburn-b-a12345678910.json",
+      "lga": "Hepburn"
+    },
+    {
+      "answer": "The Hume City Council Climate Action Plan 2023-2028 does discuss how to equitably share the benefits and opportunities of a safe climate, particularly in relation to social justice. The document outlines the council's commitment to social justice in terms of climate change action, which includes equity and fairness for future generations, other species, and ecosystems. The council's commitment to social justice is also reflected in its Social Justice Charter, which is one of the guiding principles of the Climate Action Plan. The document also acknowledges that the impacts of climate change are experienced disproportionately by vulnerable members of the community. Therefore, social justice considerations are increasingly important for climate action. The council plans to use its best endeavors to take climate action in the interests of protecting and supporting its diverse community, sustainable local jobs, future generations, other species, and ecosystems. This approach suggests an intention to equitably share the benefits and opportunities of a safe climate.",
+      "source": "Hume-a-a5678910.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "Commitment: We will use our best endeavours to take climate action in the interests of protecting and supporting our diverse community, sustainable local jobs, future generations, other species and ecosystems. Social justice in terms of climate change action also means equity and fairness for future generations and protection of other species and ecosystems.",
+        "page": 20,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The Hume City Council Climate Action Plan 2023-2028 does discuss how to equitably share the benefits and opportunities of a safe climate, although it does not provide specific strategies or actions. The document emphasizes the importance of social justice in terms of climate change action, which it defines as equity and fairness for future generations, other species, and ecosystems. It also highlights the need to protect vulnerable residents from direct and indirect climate impacts, such as severe weather events and cost of living increases due to rising energy and fuel costs. The document further mentions the need to consider climate impacts and opportunities in all decisions, programs, strategies, and plans, which suggests an intention to distribute the benefits and opportunities of a safe climate equitably. However, the document does not provide specific details on how these benefits and opportunities will be shared equitably.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "Enhancing climate change action is a necessary component of protection for our highly valued wildlife, conservation areas and waterways. Social justice in terms of climate change action also means equity and fairness for future generations and protection of other species and ecosystems. Hume has a strong tradition in investing in biodiversity protection in Hume City.",
+        "page": 20,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. It emphasizes the importance of a 'just transition', ensuring that the most vulnerable community members are not disadvantaged. This is a priority of the plan, indicating a commitment to social equity in the face of climate change. The plan also recognizes that the most vulnerable people often have the least capacity to respond and cope with the impacts of climate change, and have typically made the least contribution to the problem. This recognition of inequity is a crucial step towards ensuring that the benefits and opportunities of a safe climate are shared equitably. The plan also mentions the need for capacity building and professional development, which could be interpreted as measures to ensure that all community members have the opportunity to benefit from a safe climate.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "A just transition, ensuring our most vulnerable community members are not disadvantaged is a priority of the plan. Council recognises that any major transition needs to occur in a fair and socially equitable way. The most vulnerable people have typically made the least contribution to the problem and often have less capacity to respond and cope with the impacts.",
+        "page": 5,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly discuss how to equitably share the benefits and opportunities of a safe climate. The policy recognizes the importance of a just transition, particularly for the most vulnerable community members who often have less capacity to respond and cope with the impacts of climate change. The policy emphasizes that any major transition needs to occur in a fair and socially equitable way, ensuring that the most vulnerable community members are not disadvantaged. This is a priority of the plan. The policy also acknowledges that pandemic recovery represents a unique opportunity to address the threats of climate change and that each of the priority areas in their action plan presents opportunities to build back better, support pathways to employment for young people, modernize manufacturing, support local food and beverage production, and generate commercial and professional service opportunities in the industries of the future.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "A just transition, ensuring our most vulnerable community members are not disadvantaged is a priority of the plan. Council recognises that any major transition needs to occur in a fair and socially equitable way. The most vulnerable people have typically made the least contribution to the problem and often have less capacity to respond and cope with the impacts.",
+        "page": 5,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. It outlines a number of actions that are intended to be fair and seek solutions that equitably address the risks of climate change. These actions aim to share the costs and benefits of action across the community. The document also highlights the importance of supporting the health and well-being of vulnerable members of the community, including older people and people living with a disability. This is done through upfront planning, identifying areas where urban heat islands intersect with vulnerable populations, and prioritizing investment in urban cooling measures. The document also discusses the importance of involving the community, business, and other stakeholders in finding solutions, which suggests an intention to distribute opportunities equitably.",
+      "source": "Knox-a-a12345678910.json",
+      "lga": "Knox"
+    },
+    {
+      "answer": "The document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. The policy outlines a commitment to fairness, seeking solutions that equitably address the risks of climate change and share the costs and benefits of action across the community. This commitment is reflected in the policy's actions, which include measures to protect community health and resilience, particularly for vulnerable members of the community such as older people and people living with a disability. The policy also includes measures to increase the resilience of infrastructure, which will benefit all members of the community. Furthermore, the policy's commitment to inclusivity, involving community, business, and other stakeholders in finding solutions, suggests a commitment to ensuring that all members of the community have a say in how the benefits and opportunities of a safe climate are shared.",
+      "source": "Knox-b-a12345678910.json",
+      "lga": "Knox"
+    },
+    {
+      "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate, although it does not provide specific measures or strategies. The policy acknowledges the intersectionality of attributes and socio-economic inequality, recognizing that these factors can influence people's capacity to take climate action and their preferences for what type of actions to take. The policy emphasizes the need to be mindful of and responsive to these differing impacts and capacities for action. It suggests that climate change mitigation or adaptation actions that also help progress socio-economic equality should be pursued. Furthermore, the policy warns against taking climate action that worsens inequality. However, the document does not provide specific strategies or measures to ensure the equitable sharing of benefits and opportunities. It is therefore difficult to assess the effectiveness of the policy in achieving this goal.",
+      "source": "Manningham-a-a12345678910.json",
+      "lga": "Manningham",
+      "quote": {
+        "content": "We should also be careful not to take climate action that worsens inequality. If there are climate change mitigation or adaption actions that also help progress socio-economic equality, these should be pursued.",
+        "page": 3,
+        "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate, although it does not provide a detailed plan. It acknowledges the intersectionality of attributes and socio-economic inequality, and how these factors can influence people's capacity to take climate action and their preferences for what type of actions to take. The document emphasizes the need to be mindful of and responsive to these differing impacts and capacities for action. It also suggests that climate change mitigation or adaptation actions that also help progress socio-economic equality should be pursued. Furthermore, the document mentions the need to avoid taking climate action that worsens inequality. However, the document does not provide specific strategies or actions to ensure the equitable sharing of benefits and opportunities.",
+      "source": "Manningham-b-a12345678910.json",
+      "lga": "Manningham",
+      "quote": {
+        "content": "We should also be careful not to take climate action that worsens inequality. The intersectionality of attributes or the compounding effect of attributes can feed into socio-economic inequality that means some people are more vulnerable to climate impacts. This intersectionality and socio-economic inequality can also influence people’s capacity to take climate action and preferences of what type of actions to take. We need to be mindful of and responsive to this differing impact and differing capacity and preferences for action. If there are climate change mitigation or adaption actions that also help progress socio-economic equality, these should be pursued.",
+        "page": 3,
+        "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly outline the local government's commitment to ensuring that the benefits and opportunities of a safe climate are shared equitably. The policy emphasizes the importance of social inclusion and fairness, with a focus on vulnerable groups such as low-income individuals, the elderly, people with disabilities, and those with diverse cultural backgrounds. The policy also outlines specific considerations for different social factors, such as income inequality and educational background, in its climate change mitigation strategy. For instance, it discusses the impact of energy prices and the upfront cost of installing renewable energy or retrofitting buildings, particularly for renters and those with low income. The policy also highlights the need to develop accessible communication materials to explain programs delivered under the strategy, indicating an effort to ensure that everyone, regardless of their educational background, can understand and access climate change solutions. Therefore, the policy does explicitly discuss how to equitably share the benefits and opportunities of a safe climate.",
+      "source": "Melbourne-a-a12345678910.json",
+      "lga": "Melbourne"
+    },
+    {
+      "answer": "The document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. It outlines a socially inclusive strategy that aims to reflect community priorities and values of fairness and equity. The strategy includes considerations for various social factors such as income inequality, educational background, and disability. For instance, it mentions the impact of energy prices and the upfront cost of installing renewable energy or retrofitting buildings, particularly for renters and those vulnerable to income inequality. The strategy also plans to develop accessible communication materials to cater to different educational backgrounds. Furthermore, it aims to collaborate with community organizations to identify vulnerabilities and reduce barriers to access programs, particularly for people with disabilities. The document also emphasizes the principle of intergenerational equity, recognizing that today's decisions will impact future generations.",
+      "source": "Melbourne-b-a12345678910.json",
+      "lga": "Melbourne"
+    },
+    {
+      "answer": "The document does discuss the equitable sharing of benefits and opportunities of a safe climate, albeit in a broad sense. It emphasizes the concept of 'climate justice', which looks at the climate crisis through a human rights lens. The Merri-bek Human Rights Policy is mentioned as a framework for delivering accessible, equitable, and inclusive programs, services, and decision-making processes. The document acknowledges that the impacts of climate breakdown will not be borne equally or fairly among different societal groups. Therefore, it implies that the benefits and opportunities of a safe climate should be shared equitably. However, the document does not provide specific strategies or actions on how to achieve this equitable distribution. It is also worth noting that the document mentions engaging more deeply to support the community to take individual and collective action, which could be interpreted as an attempt to ensure that everyone has an opportunity to contribute to and benefit from climate action.",
+      "source": "Merribek-a-a12345678910.json",
+      "lga": "Merribek",
+      "quote": {
+        "content": "Consequently, there is a growing focus on ‘climate justice’, which looks at the climate crisis through a human rights lens and on the belief that by working together we can create a better future for present and future generations. The Merri-bek Human Rights Policy provides an overarching framework for delivering accessible, equitable and inclusive programs, services and decision-making processes. The impacts of climate breakdown will not be borne equally or fairly, between rich and poor, women and men, and older and younger generations etc.",
+        "page": 22,
+        "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate, particularly through the lens of 'climate justice'. The Merri-bek Human Rights Policy is mentioned as providing a framework for delivering accessible, equitable, and inclusive programs, services, and decision-making processes. The document acknowledges that the impacts of climate breakdown will not be borne equally or fairly among different societal groups. Therefore, there is a growing focus on 'climate justice', which looks at the climate crisis through a human rights lens. This approach is based on the belief that by working together, a better future can be created for present and future generations. However, the document does not provide specific details on how these benefits and opportunities will be equitably shared.",
+      "source": "Merribek-b-a12345678910.json",
+      "lga": "Merribek",
+      "quote": {
+        "content": "Consequently, there is a growing focus on ‘climate justice’, which looks at the climate crisis through a human rights lens and on the belief that by working together we can create a better future for present and future generations. The impacts of climate breakdown will not be borne equally or fairly, between rich and poor, women and men, and older and younger generations etc.",
+        "page": 22,
+        "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. It acknowledges that climate change disproportionately affects marginalized communities, including low-income households, and that factors such as limited access to resources, socio-economic disadvantage, and discrimination can amplify vulnerability to climate-related hazards. The policy proposes setting net zero emissions targets and implementing policies to achieve them as a means to address these inequalities and ensure that the benefits of a low-carbon economy are shared by all. The document also emphasizes the importance of community engagement and support in fostering collective action, ensuring equity, and building resilient communities capable of effectively responding to the impacts of climate change.",
+      "source": "Mitchell-a-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "Setting net zero emissions targets and implementing policies to achieve them can help to address these inequalities and ensure that the benefits of a low-carbon economy are shared by all. Climate change disproportionately affects marginalised communities, including low-income households.",
+        "page": 18,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate. It acknowledges that climate change disproportionately affects marginalized communities, including low-income households, and that factors such as limited access to resources, socio-economic disadvantage, and discrimination can amplify vulnerability to climate-related hazards. The policy aims to address these inequalities by setting net zero emissions targets and implementing policies to achieve them. This approach is intended to ensure that the benefits of a low-carbon economy are shared by all. The document also emphasizes the importance of community engagement and support in fostering collective action, ensuring equity, and building resilient communities capable of effectively responding to the impacts of climate change.",
+      "source": "Mitchell-b-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "Setting net zero emissions targets and implementing policies to achieve them can help to address these inequalities and ensure that the benefits of a low-carbon economy are shared by all. Climate change disproportionately affects marginalised communities, including low-income households.",
+        "page": 18,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does discuss the equitable sharing of benefits and opportunities in the context of climate change, although it does not explicitly use the phrase 'equitable sharing of benefits and opportunities of a safe climate'. The policy outlines the importance of considering the 'equity implications of the adaptation option for all potential affected stakeholders' when developing adaptation actions. This suggests a commitment to ensuring that the benefits and opportunities arising from these actions are distributed fairly among all those affected. Furthermore, the policy includes actions aimed at improving community resilience and social connectedness, and promoting education programs for business and household resilience. These actions indicate an intention to ensure that all members of the community have the opportunity to benefit from the policy's climate change adaptation measures.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. The City of Whittlesea's Climate Change Plan Draft 2022-2032 outlines a commitment to fairness and equity in the development and implementation of climate change initiatives. The plan emphasizes a place-based approach to ensure that planning, service, and infrastructure delivery are responsive to the distinct needs and aspirations of local communities. The document also highlights the importance of recognizing that specific needs and priorities for action may vary across the municipality and population. To ensure an equitable transition to a net zero and climate resilient future, the plan outlines strategies such as effective community programs accessible for all sections of the community, application of place-based and equity approaches across all work, and prioritisation of adaptation actions for the most vulnerable people in areas more exposed to climate risk.",
+      "source": "Whittlesea-a-a12345678910.json",
+      "lga": "Whittlesea"
+    },
+    {
+      "answer": "The document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. The City of Whittlesea's Climate Change Plan Draft 2022-2032 outlines a commitment to fairness and equity in the development and implementation of climate change initiatives. The plan emphasizes a place-based approach to ensure that the distinct needs and aspirations of local communities are met. It also highlights the importance of making climate change communication accessible to all community members. The plan outlines specific actions to ensure an equitable transition to a net zero and climate resilient future. These include effective community programs accessible to all community sections, application of place-based and equity approaches across all work, and prioritization of adaptation actions for the most vulnerable people in areas more exposed to climate risk.",
+      "source": "Whittlesea-b-a12345678910.json",
+      "lga": "Whittlesea",
+      "quote": {
+        "content": "We will ensure an equitable transition to a net zero and climate resilient future through:\n•  Effective community programs that are accessible for  all sections of the community \n•  Application of place-based and equity approaches across all our work, so the different needs of our communities are considered\n•  Prioritisation of adaptation actions for the most vulnerable people in areas more exposed to climate risk",
+        "page": 19,
+        "source": "Whittlesea-climate-change-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do discuss the equitable sharing of benefits and opportunities related to a safe climate, particularly in relation to vulnerable demographics. The policy outlines that community-based projects will be designed to provide financial savings to residents, particularly those from low socio-economic or vulnerable demographics. This suggests an intention to distribute the benefits of climate action equitably among the community. The policy also mentions the potential for these savings to stimulate economic growth and employment in the region, which could provide further opportunities for disadvantaged groups. However, the documents do not provide specific details on how these benefits and opportunities will be equitably shared, and there is no explicit discussion of 'equity and social justice' in the context provided.",
+      "source": "Wyndham-a-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "Community based projects will be designed to provide a financial saving to residents (particularly low socio-economic or vulnerable demographics) or businesses.",
+        "page": 29,
+        "source": "Wyndham-2018-Greenhouse-Action.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The documents do discuss the equitable sharing of benefits and opportunities in the context of climate change, although not in those exact terms. The policy outlines plans for community-based projects designed to provide financial savings to residents, particularly those from low socio-economic or vulnerable demographics. This suggests an intention to distribute the benefits of climate change mitigation and adaptation measures in a way that addresses social inequity. The policy also mentions the potential for these savings to stimulate economic growth and employment in the region, indicating an understanding of the broader opportunities that can arise from climate action. However, the documents do not provide specific details on how these benefits and opportunities will be equitably shared, and there is no explicit mention of 'equity and social justice' in the context of a safe climate.",
+      "source": "Wyndham-b-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "Savings to business has the potential to stimulate economic growth and employment in the region.",
+        "page": 10,
+        "source": "Wyndham-2018-Greenhouse-Action.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The documents do discuss the equitable sharing of benefits and opportunities of a safe climate, although the specifics of how this will be achieved are not detailed. The policy acknowledges the need for a fair and socially equitable transition to a safe climate, recognizing that the most vulnerable people often have less capacity to respond and cope with climate impacts. The policy also outlines plans to support the most vulnerable in the community to prepare for and cope with extreme climate impacts, including heatwaves, storms, floods, transport disruptions, and power outages. This includes targeted communications and in-home support to older people, those who are unwell, have additional needs, or are living in housing with poor environmental performance. The policy also plans to build the capacity of community organizations to prepare for and respond to climate-related impacts.",
+      "source": "Yarra-a-a12345678910.json",
+      "lga": "Yarra"
+    },
+    {
+      "answer": "The documents do discuss the equitable sharing of benefits and opportunities of a safe climate, although the specifics of how this will be achieved are not fully detailed. The policy acknowledges the need for a fair and socially equitable transition to a safe climate, recognizing that the most vulnerable people often have the least capacity to respond and cope with climate impacts. The policy also outlines plans to support the most vulnerable in the community to prepare for and cope with extreme climate impacts, including heatwaves, storms, floods, transport disruptions, and power outages. This includes targeted communications and in-home support to older people, those who are unwell, have additional needs, or are living in housing with poor environmental performance. However, the policy does not provide specific details on how the benefits and opportunities of a safe climate will be equitably shared among all community members.",
+      "source": "Yarra-b-a12345678910.json",
+      "lga": "Yarra"
+    }
+  ]
+}

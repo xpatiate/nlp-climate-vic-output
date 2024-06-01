@@ -1,0 +1,310 @@
+{
+  "settings": {
+    "source_files": [
+      "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T14:49:19.070300",
+    "lga": "GlenEira"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy, titled 'Our Climate Emergency Response Strategy 2021–2025', clearly states that climate action is the core purpose or goal. The policy outlines a comprehensive plan to tackle climate change, with a focus on integrating climate action into all aspects of the local government's operations. The policy sets out 70 actions to be undertaken over the life of the strategy to achieve the identified goals and objectives. These actions are broad and encompass a wide range of specific actions, programs, and projects that the Council will undertake over four years. The policy also includes a Monitoring and Evaluation section, which contains key questions, indicators, and targets for each goal. The policy is updated annually to reflect changing needs and opportunities and respond to monitoring and evaluation findings. Therefore, it is evident that climate action is the core purpose of the policy.",
+          "quote": {
+            "content": "The actions are deliberately broad, as they capture a wide range of specific actions, programs and projects Council will undertake over the four years. The Strategy is support by Our Action Plan, which sets out 70 actions to be undertaken over the life of the Strategy to achieve the identified goals and objectives.",
+            "page": 27,
+            "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly articulates the need for action on climate change. It emphasizes the urgency of the climate emergency and the necessity for all stakeholders, including individuals, organizations, governments, and communities, to respond by rapidly reducing emissions and strengthening resilience to growing impacts. The document also outlines the goals and objectives that will guide the local government's response to the climate emergency, which include embedding climate action into all aspects of work, making climate change action a priority in every strategy, plan, and policy, and leveraging financial, administrative, and reporting systems to drive climate action. The document also highlights the need for clear strategy to ensure that staff, partners, and the community understand the direction of the climate action, how to get there, and how to stay on track.",
+          "quote": {
+            "content": "The urgency of the climate emergency requires all of us to do as much as we each can, as individuals, organisations, governments and communities to respond by rapidly reducing emissions and strengthening our resilience to the growing impacts.",
+            "page": 22,
+            "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents provided by the Glen Eira City Council clearly call for rapid and urgent action on climate change. The council acknowledges the current state of climate change and its impacts, and emphasizes the need for immediate action. The council declared a climate emergency in May 2020, demonstrating their recognition of the urgency of the situation. They have committed to work harder to address climate change at a local level and to advocate to State and Federal Governments for urgent action. The documents also highlight the need for a clear strategy to guide their efforts and to ensure they stay on track. The council's goals and objectives, as well as their action plan, further underscore their commitment to urgent action on climate change.",
+          "quote": {
+            "content": "Recognising this, we declared a climate emergency in May 2020, and committed to: work even harder to address climate change at a local level; and advocate to State and Federal Governments to maximise their broad reaching powers to urgently reduce and draw down emissions, while preparing the Victorian community for climate impacts. Urgent climate change action is essential to help us secure our Glen Eira community vision: a thriving and empowered community working together for an inclusive and sustainable future. Climate change is happening right now and we have all experienced the impacts. Without concerted efforts across the globe, these impacts will only worsen. So far, local, national and global action has not been enough to overcome the scale and urgency of the problem.",
+            "page": 7,
+            "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate. It outlines a four-year plan, titled 'Our Climate Emergency Response Strategy 2021–2025', indicating a clear timeframe for the strategy's implementation. The document also mentions an 'Action Plan' that sets out 70 actions to be undertaken over the life of the strategy. Furthermore, it specifies that the 'Action Plan' will be updated annually, reflecting the changing needs and opportunities and responding to monitoring and evaluation findings. This suggests a commitment to ongoing, timely action and review. However, while the document provides a general timeframe for the strategy, it does not provide specific deadlines for each individual action within the plan.",
+          "quote": {
+            "content": "Our Action Plan will be updated annually (if needed), to reflect changing needs and opportunities and respond to monitoring and evaluation findings The Strategy is support by Our Action Plan, which sets out 70 actions to be undertaken over the life of the Strategy to achieve the identified goals and objectives.",
+            "page": 27,
+            "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+            "search_score": 0.93
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents emphasize the importance of addressing the climate emergency, they do not explicitly rank it above other policies. The documents outline the Glen Eira City Council's Climate Emergency Response Strategy for 2021-2025, which includes goals and objectives to reduce emissions and strengthen resilience to climate impacts. The strategy is described as a 'tier one strategy' that sits directly under the Council Plan 2021-2025, indicating its importance within the council's overall planning framework. However, this does not necessarily mean it has higher priority than all other policies. The documents also mention the need to integrate climate action into all aspects of the council's work, suggesting a holistic approach rather than a hierarchical one."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents provided by the Glen Eira City Council clearly state that all council activities must be aligned with climate policy. The council has outlined a comprehensive strategy to embed climate action into all aspects of their work. This is evident in their objectives, which include making climate change action a priority consideration in every strategy, plan, and policy, and leveraging financial, administrative, and reporting systems to drive climate action. The council also plans to include climate change education into staff and councillor induction and training to support climate-smart decision-making. Furthermore, the council intends to embed climate change into relevant position descriptions across the council. These actions demonstrate a clear commitment to aligning all council activities with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. While the policy outlines various actions and strategies to address climate change, such as investing in services and partnerships to support vulnerable community members, implementing a Sustainable Building and Infrastructure Policy, and developing an Integrated Water Management Plan, there is no clear mention of specific funding allocations for these initiatives. The policy does mention leveraging financial systems to drive climate action, but it does not provide details on how much funding will be allocated or how it will be distributed. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific roles for various council teams and business units in implementing climate action strategies. For instance, the 'Transformation and Corporate Performance' and 'Business unit managers' are tasked with defining and communicating the unique role each business unit can play in the council’s climate emergency response. The 'People and Culture' team is responsible for including climate change education into staff and councillor induction and training. The plan also includes the integration of climate change action into relevant position descriptions across the council. Furthermore, the plan outlines the use of council assets, including physical space, to engage and educate about climate change impacts. This demonstrates a clear allocation of non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a series of actions aimed at engaging and educating residents and businesses about climate change impacts and how they can protect themselves and their community. This includes developing a local climate change story and key messages, using council assets to connect with new audiences, and incorporating climate change messages into related subject areas such as public health, transport, and youth. The policy also outlines plans to support residents and businesses to insulate themselves against climate change impacts, with a particular focus on the most vulnerable community members. Furthermore, the policy emphasizes the role of schools, community organizations, and groups in understanding climate change, mobilizing action, and celebrating wins. These actions demonstrate a clear commitment to social mobilization around climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's climate emergency response strategy indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a two-pronged approach: adaptation and mitigation. The mitigation aspect focuses on reducing carbon emissions, which are the root cause of climate change. The strategy includes a clear goal of achieving net zero corporate emissions by 2025 and net zero community emissions by 2030. The plan also mentions the installation of solar panels as a technological solution to generate clean renewable energy on-site. Furthermore, the strategy emphasizes the importance of community mobilization and education on climate change, which can be seen as a form of promoting behaviour change. The plan also includes actions to incorporate climate change messages into public health, transport, and youth education, and to update the Council's website to ensure climate change messaging appears throughout. Therefore, the plan does include specific actions for both technological solutions and behaviour change to mitigate greenhouse gas emissions.",
+          "quote": {
+            "content": "An example of mitigation in Glen Eira is installing solar panels to generate clean renewable energy on-site.",
+            "page": 11,
+            "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The policy outlines a two-pronged approach to climate change: adaptation and mitigation. The adaptation strategy focuses on preparing for the economic, social, and environmental shocks expected due to climate change. The policy outlines specific actions such as making council-owned buildings and infrastructure resilient and safe, protecting the community from the worst impacts of climate change, and building local resilience and adaptive capacity. The policy also includes specific timelines and lead council teams for each action. For instance, the policy plans to implement a Sustainable Building and Infrastructure Policy, conduct climate change risk assessments on critical council buildings and infrastructure, and prioritize and implement upgrades based on these assessments. The policy also aims to support residents and businesses to insulate themselves against climate change impacts and engage and educate them about how they can best adapt to and protect themselves and their community against climate impacts.",
+          "quote": {
+            "content": "Council-owned buildings and infrastructure are resilient and safe for our staff and community.",
+            "page": 24,
+            "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+            "search_score": 0.91
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a strategy for climate action, including a plan for monitoring and evaluation, they do not provide specific sources of evidence to justify the targets and actions proposed. The documents mention the use of external consultants for research and the potential use of data from reliable sources such as state and federal governments, peak bodies, universities, and other research institutions. However, they do not specify what this data is or how it informs the strategy. The documents also mention the use of key questions, indicators, and targets to track progress, but they do not explain how these were developed or why they are appropriate measures of success. Therefore, while the documents suggest a comprehensive approach to climate action, they do not provide the well-sourced evidence necessary to justify the specific targets and actions proposed."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a comprehensive monitoring and evaluation framework, which includes key questions, indicators, and targets for each goal. These are designed to provide a deeper understanding of the effectiveness of the actions and activities undertaken. The plan also includes a commitment to collect and report both quantitative and qualitative data throughout the implementation of the strategy. This data will be drawn from reliable sources such as state and federal governments, peak bodies, universities, and other research institutions. The plan also includes provisions for annual updates to reflect changing needs and opportunities and to respond to monitoring and evaluation findings. This approach ensures that the plan is not only action-oriented but also evidence-based, with a clear mechanism for tracking progress and measuring success.",
+          "quote": {
+            "content": "For each goal a set of key questions, indicators and targets have been identified and included in the Action Plan that will help Glen Eira stay on track and will ensure Council is continually asking the right questions to provide a deeper understanding of what activity or action is making a real difference in Glen Eira.",
+            "page": 36,
+            "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The document does indeed describe plans to conduct research in the local community to inform climate actions. The policy outlines a strategy to understand the local population segments who are particularly exposed to climate change risks, their needs, and barriers to action. This understanding is crucial to developing effective climate action plans tailored to the specific needs and circumstances of the local community. The policy also mentions the creation of opportunities for rekindling and sharing of Traditional Owner knowledge, which can be seen as a form of research into indigenous ecological knowledge. Furthermore, the policy includes plans to provide annual progress reports detailing key programs and outcomes, which implies ongoing monitoring and evaluation of the implemented actions. This ongoing evaluation can be seen as a form of research that informs future actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The local government's climate emergency response strategy outlines a series of actions and objectives, such as embedding climate action into all staff work, making climate change a priority in every strategy, plan, and policy, and advocating for stronger climate action by other levels of government. However, these actions and objectives are largely standard practices in climate action policy and do not indicate a significant level of innovation or experimentation. The documents also mention the use of communication channels and partnerships to mobilize the community and support vulnerable community members, but again, these are common strategies and do not suggest a novel or experimental approach to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents from the Glen Eira City Council's 'Our Climate Emergency Response Strategy 2021–2025' clearly indicate an intent to advocate upward to state and national governments to support climate action. The council acknowledges that while they are committed to ambitious climate change goals, the opportunities for them to directly drive down emissions and ensure their city is adapted to climate change are constrained. They recognize that state and federal governments have the strongest emissions reduction levers and will need to do the heavy lifting if their community is to reach net zero emissions by 2030. Given this, the council is focused on delivering best practice in their own operations, working in partnership with the community and other stakeholders, and strongly advocating to state and federal governments. This is further supported by their action plan, which includes advocacy to state and federal government to rapidly remove barriers to climate action.",
+          "quote": {
+            "content": "Given this, we are focussed on delivering best practice in our own operations, working in partnership with the community and other stakeholders, and strongly advocating to State and Federal Governments. State and Federal Governments have the strongest emissions reduction levers and will need to do the heavy lifting if our community is to reach net zero emissions by 2030.",
+            "page": 17,
+            "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents from Glen Eira City Council's 'Our Climate Emergency Response Strategy 2021–2025' clearly indicate a commitment to building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a range of actions and strategies that aim to engage and educate residents, businesses, schools, and community groups about climate change impacts and the council's response. This includes understanding the local population segments particularly exposed to climate change risks and investing in services and partnerships to support the most vulnerable community members. The council also plans to work in partnership with regional alliances, other local councils, and levels of government to share ideas and pool resources to increase impact. Furthermore, the council aims to advocate to State and Federal Government for them to rapidly remove barriers to climate action. These actions demonstrate a clear commitment to building local capacity for climate action.",
+          "quote": {
+            "content": "We will continue to work in partnership with regional alliances, other local councils and levels of government to share great ideas and pool resources to increase impact.",
+            "page": 10,
+            "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Glen Eira City Council's Climate Emergency Response Strategy 2021–2025 outlines several partnerships and alliances. For instance, the Eastern Alliance for Greenhouse Action is mentioned as a partner in the council's ongoing climate and sustainability efforts. This alliance is a regional group of councils working together to respond to climate change. The council also mentions working with other local governments and partners to advocate to State and Federal Government for the rapid removal of barriers to climate action. Furthermore, the council plans to work with partners to improve the resilience of and access to local emergency relief centres. These partnerships and alliances are crucial for the council's climate action strategy as they provide a platform for collaboration, sharing of resources, and collective advocacy."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents provided by the Glen Eira City Council do explicitly discuss the impact of climate change on vulnerable communities. The council's Climate Emergency Response Strategy 2021-2025 outlines a number of measures aimed at supporting vulnerable populations in the face of climate change. These include understanding the needs and barriers to action of population segments particularly exposed to climate change risks, investing in services and partnerships to support the most vulnerable community members, and engaging and educating residents and business owners about how they can best adapt to and protect themselves and their community against climate impacts. The council also plans to provide an annual progress report on key programs and outcomes, including the number of vulnerable people supported. This demonstrates a clear recognition of the disproportionate impact of climate change on vulnerable communities and a commitment to addressing this issue."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate, although it does not use the exact phrase 'equity and social justice'. The Glen Eria City Council's Climate Emergency Response Strategy 2021-2025 outlines a commitment to inclusivity and health, acknowledging that climate change directly impacts human health and wellbeing. The policy identifies vulnerable segments of the community, including older people, low-income households, and people with chronic illnesses, among others. The council commits to providing a diversity of climate action opportunities to meet the differing needs and capacities within the community. The policy also emphasizes the importance of green spaces and commits to working with the community to provide equitable access to these spaces. Furthermore, the policy outlines plans to incorporate climate change messages into various subject areas, including public health and transport, and to create opportunities for everyone in the community to act on climate change.",
+          "quote": {
+            "content": "Council will provide a diversity of climate action opportunities to meet the differing needs and capacity that exists in Glen Eira. Segments of our community are particularly vulnerable to these impacts, including older people, renters living in poor quality housing, low-income households, people with chronic illnesses, women and homeless people.",
+            "page": 10,
+            "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 16,
+    "num_questions": 20,
+    "attribute_score": 85
+  }
+}

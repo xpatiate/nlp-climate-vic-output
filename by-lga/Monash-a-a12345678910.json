@@ -1,0 +1,280 @@
+{
+  "settings": {
+    "source_files": [
+      "Monash-zero-net-carbon-action-plan-final.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T21:57:30.359900",
+    "lga": "Monash"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The core purpose of the policy, as indicated by the documents, is indeed climate action. The policy is titled 'Zero Net Carbon Action Plan – 2020-2025', which suggests a focus on reducing carbon emissions to net zero, a key aspect of climate action. The policy outlines a number of actions aimed at mitigating the impacts of climate change, such as updating the Environmental Sustainable Development policy to address GHG emission reductions, developing a climate adaptation strategy, and investing in energy efficiency and solar projects. The policy also includes measures to educate staff and the community about climate change and how to achieve carbon neutrality. Furthermore, the policy aims to align adaptation approaches with a zero net emission approach, including the development of an urban forest to reduce heat island effects. Therefore, it is clear that the core purpose of the policy is climate action."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The local government's Zero Net Carbon Action Plan 2020-2025 outlines a series of actions aimed at reducing greenhouse gas emissions and mitigating the impacts of climate change. The plan includes strategies such as reducing paper use, updating the Environmental Sustainable Development policy, and developing a climate adaptation strategy. The plan also emphasizes the importance of energy efficiency, solar energy, and carbon offsets. The documents also mention the development of an urban forest to reduce heat island effects and the need to adapt buildings and infrastructure to changes in climate. The plan also includes actions to engage and educate the community about climate change and the importance of reducing emissions.",
+          "quote": {
+            "content": "priority is to reduce GHG emissions and minimise the impacts of climate change through mitigation actions described in this action plan such as energy efficiency, solar and offsets.",
+            "page": 32,
+            "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a Zero Net Carbon Action Plan for 2020-2025, which includes various strategies to reduce greenhouse gas emissions and adapt to climate change. These strategies include reducing paper use, updating the Environmental Sustainable Development policy, developing a climate adaptation strategy, and investing in energy efficiency and solar projects. However, the documents do not express a sense of urgency or call for rapid action. Instead, they present a planned and systematic approach to addressing climate change over a five-year period."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents outline a number of actions, such as reducing paper use, updating the Environmental Sustainable Development policy, developing a climate adaptation strategy, and investing in zero net carbon, they do not provide specific deadlines or timelines for when these actions will be implemented or completed. The documents do indicate that the Zero Net Carbon Action Plan is intended to cover the years 2020-2025, but this is a broad timeframe and does not provide specific deadlines for individual actions. Therefore, in terms of 'urgency of action', the documents do not provide clear evidence of specific timeframes for the local government's intended actions on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Monash Council's Zero Net Carbon Action Plan 2020-2025 outlines a comprehensive approach to addressing climate change, including reducing greenhouse gas emissions, increasing energy efficiency, and developing a climate adaptation strategy. The plan also includes actions such as updating the Environmental Sustainable Development policy, reducing paper use, and investing in renewable energy. However, while these actions indicate a strong commitment to addressing climate change, they do not explicitly prioritize these actions over other policies. The documents do not provide a clear hierarchy of policy priorities, and it is therefore not possible to definitively state that the climate emergency response is considered a higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to reducing greenhouse gas emissions and adapting to climate change, they do not mandate that all council activities must align with these goals. The documents outline specific actions and strategies, such as energy efficiency, solar and offsets, development of an urban forest, and reducing paper use, among others. However, these are presented as part of a specific action plan rather than a requirement for all council activities. Furthermore, the documents mention the development of tools and education programs to adapt to climate change, indicating an intention to integrate climate considerations into council activities, but again, this is not presented as a mandatory alignment of all activities with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Zero Net Carbon Action Plan 2020-2025 by the local government does explicitly allocate funding for climate action. The plan outlines several actions that involve financial investment. For instance, it mentions the establishment of a revolving sustainability fund as a budget line item to reinvest savings from major energy efficiency projects. This fund is a clear allocation of financial resources towards climate action. Additionally, the plan also discusses the need for upfront funding through loans or service agreements to fast track projects. This indicates a commitment to mobilize financial resources for the implementation of the plan. Furthermore, the plan also mentions the appointment of 1.8 Full-Time Equivalent (FTE) staff to support the delivery of the Zero Net Action Plan, which is another form of resource allocation.",
+          "quote": {
+            "content": "ACTION Appoint 1.8 FTE staff to support the delivery of the Zero Net Action Plan and fast track Council’s approach to being carbon neutral by 2025. Investment in Zero Net Carbon Source upfront funding through loans or service agreements early on to fast track projects. ACTION Set up a revolving sustainability fund as a budget line item to reinvest savings from major energy efficiency projects.",
+            "page": 39,
+            "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Zero Net Carbon Action Plan by the local government does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines the need for 1.8 additional staff resources to facilitate emission reduction projects and deliver many aspects of the action plan. These roles include technical expertise to manage infrastructure upgrades and educate staff on climate change impacts and carbon neutrality, as well as community engagement and education for residents and businesses to reduce municipal emissions. The plan also mentions the appointment of 1.8 FTE staff to support the delivery of the Zero Net Action Plan and fast track the Council’s approach to being carbon neutral by 2025. Furthermore, the plan includes a budget line for staff time resourcing to manage delivery of on-ground projects and facilitate community and business education, indicating a clear allocation of institutional resources towards climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of the local government's efforts to empower and educate the community to support and work together to deliver climate action. The policy outlines a number of actions that involve community engagement and education. For instance, it mentions the need for dedicated staff resources to facilitate emission reduction projects and deliver many aspects of the action plan, including community engagement, behaviour change, and education for residents and businesses to reduce municipal emissions. The policy also mentions the Solar Savers service offered to residents, including low-income households, which provides support to install solar and save costs. Furthermore, the policy outlines plans to promote energy audits and environment upgrades for businesses and homes, and to investigate the establishment of 100% renewable public electric vehicle charging stations. These actions indicate a commitment to social mobilisation in the context of climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions include infrastructure upgrades of high energy usage sites, the use of renewable energy, and the implementation of energy efficiency measures. For instance, the plan mentions the changeover to LED lights for major roads street lighting and the participation in the Local Government Power Purchase Agreement for up to 100% renewable energy for all electricity use. Behaviour change is addressed through community engagement, education for residents and businesses, and staff training. The plan also mentions the development of an education program and approaches on how to adapt to minimise the impact of a changing climate. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Monash Zero Net Carbon Action Plan 2020-2025 indeed includes specific actions for climate adaptation and resilience. The plan acknowledges the need to adapt to changes in climate and outlines a strategy to minimize the impacts of a changing climate. The council is developing a tool called 'How Well Are We Adapting' to gather climate and resilience data. This data will be used to inform an education program and develop approaches to adapt and minimize the impact of a changing climate. The council also plans to align adaptation approaches with their zero net emission approach, which includes the development of an urban forest to reduce heat island effects. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+          "quote": {
+            "content": "Council will seek to align adaptation approaches with our zero net emission approach, including the development of an urban forest which can help reduce heat island effects. Council is currently involved in the development of the How Well Are We Adapting tool to collate climate and resilience data. This will inform an education program and develop approaches on how we can adapt to minimise impact of a changing climate.",
+            "page": 32,
+            "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions and strategies to reduce greenhouse gas emissions and adapt to climate change, such as reducing paper use, increasing energy efficiency, and developing a climate adaptation strategy, they do not provide specific evidence or data to support these actions. The documents mention the use of tools to collate climate and resilience data and the involvement of external organizations in the development of the action plan, but they do not provide details about the data collected or how it was used to inform the plan. Furthermore, the documents do not provide any references to scientific research or other sources that could provide evidence for the effectiveness of the proposed actions. Therefore, based on the provided documents, it cannot be affirmed that the local government's climate targets and actions are based on well-sourced evidence."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The provided documents do not offer clear evidence of specific measurable criteria to evaluate the success of the proposed actions in the Zero Net Carbon Action Plan. While the plan outlines various actions such as reducing paper use, moving to zero waste in landfill, and participating in the Local Government Power Purchase Agreement for up to 100% renewable energy, it does not provide explicit criteria or metrics for measuring the success of these actions. The documents mention a 'Reporting and Monitoring process' and an intention to 'report annually and communicate the results of the progress to achieving carbon neutrality', but they do not detail what specific measures or indicators will be used in this process. Therefore, based on the provided context, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The documents outline a number of actions and strategies to reduce greenhouse gas emissions and achieve carbon neutrality, such as infrastructure upgrades, energy efficiency projects, and community engagement. However, these actions appear to be based on existing knowledge and strategies, rather than new research conducted in the local community. The documents mention the development of an education program and approaches to adapt to climate change, but it is not clear whether this involves conducting research in the local community. Therefore, the question cannot be answered positively based on the provided context."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's Zero Net Carbon Action Plan outlines a variety of strategies to reduce greenhouse gas emissions and achieve carbon neutrality. These include transitioning to renewable energy sources, implementing energy efficiency measures, and promoting sustainable practices. For instance, the plan includes actions such as sourcing recycled content and carbon-neutral paper, increasing the use of recycled content and lower GHG emission asphalt and concrete, and specifying energy efficiency standards for the purchase of energy equipment. The plan also mentions the development of a climate adaptation strategy to minimize the impacts of climate change. These actions demonstrate a willingness to experiment with different approaches and technologies to address climate change, indicating a level of innovation in their policy approach.",
+          "quote": {
+            "content": "Some of these actions include:\n• \nParticipating in the Local Government Power Purchase Agreement for up to  \n100% renewable energy for all electricity use\n• \nMajor roads street lighting changeover to LED lights\n• \nMajor infrastructure upgrades of high energy usage sites, including our aquatic  \ncentres, to reduce energy use",
+            "page": 2,
+            "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents focus on the local government's own actions and strategies to reduce GHG emissions and achieve carbon neutrality. These include expanding current programs to reduce municipal GHG emissions, energy, and costs; reducing paper use; updating the Environmental Sustainable Development policy to address GHG emission reductions; participating in the Local Government Power Purchase Agreement for renewable energy; changing street lighting to LED lights; and major infrastructure upgrades to reduce energy use. The documents also mention the development of a climate adaptation strategy and the appointment of additional staff resources to facilitate emission reduction projects and deliver many aspects of the action plan. However, there is no mention of advocating to higher levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is taking steps to build local capacity for climate action across the council, local communities, and potentially neighbouring councils. The council has committed to a number of actions in response to climate change, including participating in the Local Government Power Purchase Agreement for up to 100% renewable energy and major infrastructure upgrades to reduce energy use. The council is also partnering with ClimateWorks Australia, the Monash Energy Institute, and the Monash Sustainable Development Institute to conduct research and develop solutions to energy and sustainability problems. Additionally, the council is developing a business resilience program to assist local businesses in improving energy efficiency. These actions indicate a commitment to building local capacity for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. The Eastern Alliance for Greenhouse Action (EAGA) is explicitly mentioned as a collaboration of eight Councils in Melbourne’s east, including Monash, working together on regional programs to reduce greenhouse gas emissions, support renewables, and facilitate adaptation. The EAGA is described as leading joint successful initiatives on behalf of members, typically beyond the reach of individual Councils. The document also mentions a partnership with Monash University, specifically with ClimateWorks Australia, the Monash Energy Institute, and the Monash Sustainable Development Institute, to conduct research and develop solutions to a wide range of energy and sustainability problems. The Council has nominated to be an advisory member to the proposed Australian Research Corporation (ARC) Linkage Project for Net Zero Precinct Transitions, in partnership with Monash University.",
+          "quote": {
+            "content": "Monash Council has nominated to be an advisory member to the proposed Australian Research Corporation (ARC) Linkage Project for Net Zero Precinct Transitions, in partnership with Monash University. [...] Partnering with such an innovative organisation could provide Monash City Council with access to state-of-the-art technologies and resources to aid in Council’s emissions reduction programs.",
+            "page": 31,
+            "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents detail various actions and strategies to mitigate climate change, such as reducing GHG emissions, sustainable procurement, and the development of an urban forest, they do not specifically address how these actions will impact vulnerable communities. The documents also do not discuss measures to ensure equity or social justice in the implementation of these climate change policies. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of equity and social justice. While the policy outlines various strategies for reducing greenhouse gas emissions and achieving carbon neutrality, it does not address the distribution of these benefits and opportunities among different social groups. The policy does mention initiatives such as sourcing offsets locally from Monash businesses and providing a Solar Savers service to residents, including low-income households. However, these initiatives are not discussed in the context of equity and social justice. Therefore, it cannot be definitively stated that the policy provides a clear plan for the equitable sharing of climate benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 10,
+    "num_questions": 20,
+    "attribute_score": 59.2
+  }
+}

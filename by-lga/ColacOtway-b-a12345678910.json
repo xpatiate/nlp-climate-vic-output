@@ -1,0 +1,310 @@
+{
+  "settings": {
+    "source_files": [
+      "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T14:16:44.851421",
+    "lga": "ColacOtway"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Colac Otway Shire Council’s Climate Change Action Plan, clearly identifies climate action as its core purpose. The policy outlines a comprehensive approach to addressing climate change, including mitigation, adaptation, and resilience-building measures. It emphasizes the importance of community engagement, stakeholder collaboration, and advocacy in achieving its climate action goals. The policy also outlines specific actions, such as promoting environmentally sustainable design and partnering with regional and government sectors on climate initiatives. Furthermore, the policy includes a monitoring and evaluation plan to assess the effectiveness of its actions and their environmental outcomes. This comprehensive approach to climate action, coupled with the specific actions and monitoring plan, strongly suggests that climate action is the core purpose of this policy.",
+          "quote": {
+            "content": "Embedded in forming this Action Plan is the imperative to prevent and ameliorate climate change impacts. The objective of Colac Otway Shire Council’s Climate Change Action Plan is to provide a pathway of clear and achievable climate change actions for Council to undertake over the coming decade.",
+            "page": 11,
+            "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly articulates the need for action on climate change. It acknowledges the significant global challenge posed by climate change and the necessity for a unified response. The document outlines the local government's commitment to reducing greenhouse gas emissions, building resilience to climate change impacts, and promoting sustainable development. The policy outlines a range of measures aimed at reducing greenhouse gas emissions, including energy efficiency and renewable energy, waste reduction and recycling, and sustainable transport. It also includes initiatives aimed at building resilience to climate change impacts, such as emergency management planning, land use planning, urban greening, and biodiversity conservation programs. The policy also emphasizes the importance of community engagement and education in raising awareness about climate change and promoting sustainable living."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. The policy recognizes the significant global challenge posed by climate change and the need for a concerted and unified response. It cites the latest report from the United Nation's Intergovernmental Panel on Climate Change (IPCC), which reveals that industrialized nations must re-evaluate their climate change targets to halve greenhouse gas emissions by 2030 and be carbon neutral by the early 2050s to prevent the most catastrophic harms of global warming. The policy also acknowledges the urgency of strong action to prevent these harms. Furthermore, the policy outlines key focus areas for climate action, including sustainable built environments, resource consumption, waste reduction, biodiversity protection, and leadership. It also emphasizes the need for community engagement and education to raise awareness about climate change and promote sustainable living.",
+          "quote": {
+            "content": "The latest report from the United Nation's Intergovernmental Panel on Climate Change (IPCC Report No. The demonstrable and impending impacts of a changing climate are recognised as a significant global challenge, requiring a concerted and unified response.",
+            "page": 4,
+            "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. It outlines a 10-year plan, identifying 48 actions to be undertaken over the next five years and beyond. The document also mentions that the implementation of the Action Plan will be monitored and reported to Council and the community, with a formal review after five years. Furthermore, the document provides a coding system within the Action Tables that includes timeframes for implementation, categorized as Short (1–3 years), Medium (4–6 years), and Long (7+ years). This indicates a clear sense of urgency and a structured approach to addressing climate change within specific timeframes."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents outline a comprehensive plan for addressing climate change, including mitigation and adaptation strategies, community engagement, and emissions reduction, they do not specifically state that these actions should take precedence over other policies. The documents emphasize the importance of climate action and outline a range of strategies and actions to address climate change. However, they do not provide a clear hierarchy of policy priorities, nor do they explicitly state that climate action should supersede other policy areas."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. They outline a range of actions and strategies related to climate change, including emergency management planning, land use planning, urban greening, biodiversity conservation programs, and community engagement and education. The documents also mention the development of an Environmental Sustainability Strategy and a Climate Change Action Plan, which include goals and actions related to climate change. However, there is no explicit requirement stated that all council activities must align with these policies. The documents do suggest that the council is committed to reducing its operational emissions and supporting communities and businesses to become more resilient to climate change, but this does not necessarily mean that all council activities must align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does allocate resources for climate action, but the specifics of the funding are not entirely clear. The plan outlines various actions related to climate change, including adaptation, mitigation, and advocacy. It also provides a cost estimate for each action, ranging from low to high. However, the plan does not provide specific dollar amounts or a detailed budget breakdown. Instead, it uses broad categories to indicate the cost of each action, such as 'Low ($0–$50,000)', 'Med ($50,000–$150,000)', and 'High (150,000+)'. The plan also indicates whether each action is funded within existing resources or subject to external funding and/or funding by Council as part of an annual budget process. While this does demonstrate a commitment to allocating resources for climate action, the lack of specific budget details makes it difficult to assess the adequacy of the funding."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a range of activities and actions that involve the mobilisation of staff and other institutional resources. For instance, the plan mentions the development of environmental sustainability targets, the prioritisation of climate change actions based on the level of Council control, and the consideration of resourcing limitations. Furthermore, the plan includes actions such as staff education and training to understand and implement the carbon emissions hierarchy. This suggests that the Council is committed to building internal capacity through staff education and training, which is a clear allocation of non-monetary institutional resources. However, the plan does not provide specific details on the number of staff allocated or the exact nature of the resources mobilised.",
+          "quote": {
+            "content": "Council will build internal capacity through staff education and training to understand and implement the carbon emissions hierarchy.",
+            "page": 21,
+            "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy is designed to actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a range of initiatives aimed at engaging with communities and stakeholders, including training programs, educational campaigns, and community engagement initiatives. These are designed to empower people to take action on climate change and implement climate solutions. The policy also emphasizes the importance of collaboration and partnerships in achieving its climate action goals. It outlines plans to work in partnership with governments, agencies, community groups, businesses, and key industries. The policy also includes specific actions aimed at supporting community engagement and education, raising awareness about climate change, promoting sustainable living, reducing greenhouse gas emissions, and encouraging community action.",
+          "quote": {
+            "content": "Empowering people to take action on climate change via initiatives like training programs, educational campaigns, and community engagement is important to help them implement climate solutions and create opportunities for participation and strong partnerships.",
+            "page": 31,
+            "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate Change Action Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a comprehensive approach that incorporates both adaptation and mitigation measures to ensure a sustainable future by building resilience and reducing the impacts of climate change on communities and ecosystems. The mitigation strategies mentioned in the plan include transitioning to renewable energy sources, improving energy efficiency, and implementing carbon capture and storage solutions. These strategies involve both technological solutions and behaviour change. For instance, transitioning to renewable energy sources and implementing carbon capture and storage solutions are technological approaches, while improving energy efficiency can involve changes in behaviour. The plan also includes measures aimed at reducing greenhouse gas emissions, such as waste reduction and recycling, and sustainable transport, which again involve both technological solutions and behaviour change.",
+          "quote": {
+            "content": "The Action Plan includes a range of measures aimed at reducing greenhouse gas emissions, including energy efficiency and renewable energy, waste reduction and recycling, and sustainable transport.",
+            "page": 11,
+            "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan recognizes the importance of adaptation measures and resilience building, which involve increasing the resilience of infrastructure and ecosystems, improving water management and planning, and developing heatwave and extreme weather plans. The plan also includes actions such as improved and adaptive infrastructure and building design and construction, natural resource management, emergency management, and community engagement. The plan also outlines the ways the council will collaborate and work in partnership with various stakeholders to adapt to a changing climate and mitigate further impacts. The plan identifies 48 actions to be undertaken over the next five years and beyond to adapt to a changing climate and urgently mitigate against further impacts.",
+          "quote": {
+            "content": "By continuing to invest in these actions, we can build a more resilient future and protect our communities and natural resources from the impacts of climate change. Adaptation measures are critical in reducing the vulnerability of communities and ecosystems to the impacts of climate change. Adaptation actions include improved and adaptive infrastructure and building design and construction, natural resource management, emergency management and community engagement, as well as research and innovation.",
+            "page": 33,
+            "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a range of actions to address climate change, including emergency management planning, land use planning, urban greening, and biodiversity conservation programs, it does not provide specific evidence or sources to justify these actions. The policy also mentions a review of the Council’s Environment Strategy 2010-2018 and its targets, but does not provide details on the findings of this review or how it informed the current policy. The policy does mention that it will be monitored and evaluated in three key ways, including quantitative measurement and analysis of environmental outcomes such as emissions reductions, but again, no specific evidence or sources are provided to justify these methods. Therefore, while the policy outlines a comprehensive approach to addressing climate change, it does not provide well-sourced evidence to justify its targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate change action plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines three key ways in which the implementation and impact of the actions will be monitored and evaluated. These include quantitative measurement and analysis of environmental outcomes such as emissions reductions, assessment of the effectiveness of changes to organisational processes and procedures, and community recognition and approval of the council's efforts in taking climate change action. The plan also mentions that it will be reviewed in 2028 and updated based on the findings of the review. This approach allows for the plan to adapt to the evolution of climate change science, information, technology, legislation, and available solutions, as well as to the impacts being experienced locally. Furthermore, the council's Environment Team will provide annual reporting to the council's Executive Management Team, councillors, and the community about the progress of the action plan's implementation and progress towards the council's Environmental Sustainability Targets.",
+          "quote": {
+            "content": "Community recognition and approval of Council’s efforts in taking climate change action. Quantitative measurement and analysis of environmental outcomes such as emissions reductions; 2. Assessment of the effectiveness of changes to organisational processes and procedures; and 3.",
+            "page": 35,
+            "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive approach to developing its Climate Change Action Plan, which includes a range of activities to gather information and insights. These activities include community surveys and drop-in sessions, targeted stakeholder workshops, and discussions with council staff, community members, other councils, climate change networks, and government agencies. This approach ensures that the plan is informed by a broad range of perspectives and is responsive to the specific needs and circumstances of the local community. The plan also includes provisions for monitoring and evaluating the implementation of the actions, with annual reporting to the Council's Executive Management Team, Councillors, and the community. This ongoing evaluation will provide further opportunities to gather feedback and refine the plan over time."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The local government's climate change action plan outlines a range of actions and strategies to address climate change, including emergency management planning, land use planning, urban greening, biodiversity conservation programs, and community engagement and education. However, these actions and strategies are largely standard responses to climate change, and there is no explicit mention of innovative or experimental policies. The plan does include a commitment to monitoring and evaluating the impact of its actions, and to updating the plan based on the findings of this review. This suggests a willingness to learn and adapt, but it does not necessarily indicate a commitment to innovation or experimentation."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines a series of actions that involve advocacy to higher levels of government. For instance, the local government plans to advocate for Environmentally Sustainable Design (ESD) and climate change adaptation and mitigation principles to be incorporated within the Planning Scheme by the State government. Additionally, the local government intends to advocate to State and Federal government for urgent and impactful action on climate change that benefits their local community, including households, local businesses, and the agricultural sector. These actions demonstrate a clear intent to engage in upward advocacy to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to leadership, partnerships, and advocacy, with a focus on empowering the council and communities to implement climate solutions. It emphasizes the importance of collaboration with other organizations, governments, businesses, and the community to share knowledge and resources, develop and implement climate change solutions, and amplify the impact of climate solutions. The policy also outlines specific actions such as partnering across the region and government sector to deliver on climate change initiatives through a collaborative approach, and advocating for Environmentally Sustainable Design (ESD) and climate change adaptation and mitigation principles. These actions demonstrate a clear commitment to building local capacity for climate action.",
+          "quote": {
+            "content": "Through this focus area, Council will develop and foster partnerships with leaders, stakeholders and communities across the region.",
+            "page": 19,
+            "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document indeed refers to specific regional associations, alliances, or other partnerships related to climate. It mentions the local government's plan to continue partnering across the region and government sector to deliver on climate change initiatives through a collaborative approach. Specific examples of these partnerships include the Barwon South West Climate Alliance and Sustainability Victoria programs. The document also mentions the local government's plan to encourage and foster the uptake of electric vehicles throughout the region through partnerships, advocacy, and strategic support. These partnerships and alliances are part of the local government's strategy to address climate change and promote sustainable practices.",
+          "quote": {
+            "content": "Barwon South West Climate Alliance, Sustainability Victoria programs and energy efficiency and partnership opportunities.",
+            "page": 31,
+            "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change will disproportionately affect certain population groups, including the elderly, young children, people with chronic diseases, and low-income households. The document also recognizes that climate change will increase community vulnerability and significantly impact these vulnerable cohorts. The policy outlines the need for planned, well-informed, and coordinated action to manage climate change impacts and continue providing quality public services to minimize negative outcomes for these vulnerable communities. It also emphasizes the importance of early action, which has significant financial and social benefits, including supporting social cohesion, equity, and wellbeing by reducing vulnerability and harnessing opportunity.",
+          "quote": {
+            "content": "Climate change increases community vulnerability and will significantly impact on vulnerable cohorts such as low-income households, people with disabilities, as well as infants and the elderly. Climate change impacts will increasingly impact on Council services. High fire danger days and extreme rainfall events are already impacting when it is safe for Council officers to work outdoors or travel to different parts of the Shire to deliver services. The demand on Council services will change and increase because of climate impacts.",
+            "page": 7,
+            "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention community engagement, collaboration, and education as part of its climate change action plan, it does not specifically address the equitable distribution of benefits and opportunities. The policy focuses on actions such as reducing greenhouse gas emissions, promoting sustainable living, and encouraging community action. It also discusses the development of an Environmental Sustainability Strategy and the prioritisation of climate change actions. However, these actions are not explicitly linked to equity and social justice in the context of sharing the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 15,
+    "num_questions": 20,
+    "attribute_score": 80
+  }
+}

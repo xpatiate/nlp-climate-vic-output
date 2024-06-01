@@ -1,0 +1,311 @@
+{
+  "settings": {
+    "source_files": [
+      "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+      "GreaterDandenong-Climate-Emergency-Strategy-2020.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T15:15:19.028757",
+    "lga": "GreaterDandenong"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the 'Climate Emergency Strategy 2020 – 2030 Action Plan', clearly identifies climate action as its core purpose. The policy outlines a comprehensive plan for the local government to respond to climate change, with a focus on both mitigation and adaptation strategies. The policy includes specific actions, roles, timeframes, responsibilities, outcomes, and indicators, demonstrating a high level of detail and commitment to addressing climate change. The policy also emphasizes the need for community engagement and education, indicating a holistic approach to climate action. The policy's commitment to climate action is further evidenced by its alignment with the Paris Agreement's target of limiting global temperature rise to below 1.5°C. The policy also acknowledges the need for additional measures and funding to implement the strategy, indicating a recognition of the resources required for effective climate action.",
+          "quote": {
+            "content": "Council’s Notice of Motion (28th January 2020) declaring a Climate and Ecological Emergency states that priority is to be given by Council to responding swiftly to climate change, in order to meet the Paris Agreement target of limiting the rise in global average temperatures to below 1.5oC.",
+            "page": 32,
+            "source": "GreaterDandenong-Climate-Emergency-Strategy-2020.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The local government has developed a Climate Emergency Strategy 2020-2030 Action Plan, which outlines the council's role, timeframe, responsibility, outcome/indicator, and resources for various actions related to climate change. The plan acknowledges the need for an integrated 'whole-of-organisation' approach to climate change across its operations and the need to support the community to lead effective responses to climate change. The plan also emphasizes the need to embed consideration of climate change into the development of Council’s 2021–25 Council Plan and supporting strategic documents. The documents also highlight the need to increase awareness within the community and within the council about the risks and impacts of climate change. The documents also mention the need to secure funding and resources to support community initiatives related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for urgent action on climate change. The Greater Dandenong City Council has declared a 'Climate and Ecological Emergency' and has committed to emergency action on climate change. The documents outline a Climate Emergency Strategy and Action Plan for 2020-2030, indicating a clear timeline for urgent action. The plan includes immediate actions such as the inclusion of roles and responsibilities in position descriptions that facilitate internal champions and accountability for Council’s response to the Climate and Ecological Emergency. The documents also emphasize the need for 'stronger, urgent action' in response to the Climate Emergency, focusing on achieving zero net carbon emissions as an initial target. The documents also highlight the need for 'emergency preparedness' and 'increasing organisational adaptive capacity' to respond to climate change impacts."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents indeed provide specific timeframes for the intended actions on climate. The Climate Emergency Strategy 2020 – 2030 Action Plan outlines a range of actions, each with a designated timeframe. For instance, the plan includes immediate actions such as the inclusion of roles and responsibilities in position descriptions that facilitate internal champions and accountability for Council’s response to the Climate and Ecological Emergency. Other actions are planned for the short term, such as the prioritisation of possible actions identified through vulnerability assessments. Medium-term actions include the assessment and planning for the implementation of prioritised actions based on the outcomes of vulnerability assessments. There are also ongoing actions, such as the continuation of Council's existing Environmental Education programs and activities that encourage community action towards sustainable buildings, energy efficiency, and renewable energy. These timeframes indicate a clear sense of urgency and a structured approach to addressing climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": true,
+          "answer": "The documents clearly state that the local government's response to the climate emergency is a high priority. The Climate Emergency Strategy and Action Plan explicitly prioritizes policies and actions that provide for both mitigation and adaptation in response to global warming and climate change. This is intended to drive emergency action to reduce greenhouse gases in line with global efforts to keep global warming below 1.5°C. The documents also emphasize that this continues to be a key priority in the next Council Plan. Furthermore, the documents detail the integration of climate change considerations into the development of Council’s 2021–25 Council Plan and supporting strategic documents. This includes the Council's updated Community Wellbeing Plan and other key supporting documents. Therefore, it is evident that the climate emergency response is given a high priority, even when compared to other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate a strong commitment to integrating climate change considerations into various aspects of council operations. For instance, the documents mention the development of a Climate & Ecological Emergency Policy, the embedding of climate change considerations into the Council's 2021-25 Council Plan and other strategic documents, and the inclusion of climate change roles and responsibilities in position descriptions. The documents also mention the development of organisational KPIs to monitor progress towards climate objectives. However, these measures do not necessarily equate to a requirement for all council activities to align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's plan does indeed allocate funding for climate action. The documents outline several initiatives related to climate change, each with a corresponding budget allocation. For instance, the plan includes the development of a Climate Change Community Engagement & Mobilisation Plan, which is to be funded from existing operational budgets. The plan also includes the incorporation of vulnerability assessments into the council's existing Asset Management Processes, with a budget of $50,000 allocated for 2021/22. Furthermore, the plan outlines the continuation of seeking external funding grants to increase local biodiversity and the urban forest, indicating a commitment to securing additional resources for climate action. However, it should be noted that some of these budget allocations are subject to annual operational budgets being approved as part of the council's annual budget, indicating that these allocations may not be guaranteed."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a number of actions that involve the allocation of staff resources. For instance, the plan includes the development of an annual program of staff training activities related to climate change, which would require the allocation of staff time and expertise. The plan also includes the updating of staff position descriptions to include roles and responsibilities related to climate action, which would require the allocation of human resources staff time and expertise. Furthermore, the plan includes the establishment of an internal Sustainability Advisory Group, which would require the allocation of staff members to this group. The plan also mentions the need to increase the capacity of the Council's Sustainability Team to facilitate the implementation of the Climate Change Emergency Strategy and Action Plan, which could involve the allocation of additional staff to this team.",
+          "quote": {
+            "content": "Our united corporate culture will focus on embedding climate change mitigation and resilience into decision-making processes, through strategic policies and strategies, day-to-day service delivery and workplans and performance measures.",
+            "page": 7,
+            "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively working to empower and educate the community to rally, support, and work together to deliver climate action. The Climate Emergency Community Engagement and Mobilisation Plan is a key initiative in this regard. The plan aims to increase community awareness and action, engage and empower the community to take climate action, and support the most vulnerable members of the community. The plan includes delivery of communication campaigns, enabling and encouraging community participation, and developing partnerships with community organisations. The government also plans to work with businesses and industries to increase their awareness of climate change and encourage them to transition to a low-carbon economy. Furthermore, the government plans to continue implementing environmental education programs that encourage community action towards sustainable buildings, energy efficiency, and renewable energy.",
+          "quote": {
+            "content": "Support for programs that bring people together to help build capacity Delivery of communication campaigns to increase community awareness and action 2. Enabling and encouraging the participation of our community through engagement activities 3.",
+            "page": 31,
+            "source": "GreaterDandenong-Climate-Emergency-Strategy-2020.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Climate Emergency Strategy 2020 – 2030 Action Plan does include specific actions for mitigation of greenhouse gas emissions. The plan outlines a comprehensive approach to reducing emissions and increasing resilience to climate change. It includes both technological solutions and behaviour change. For instance, the plan includes actions to increase awareness within the council and the community about the impacts of climate change and the benefits of energy efficiency and renewable energy. It also includes actions to facilitate the transition to energy efficient buildings and to increase the use of renewable energy. The plan also includes actions to increase the resilience of the community’s assets and land use to climate change. Furthermore, the plan includes actions to engage with the education sector and real estate agents to support behaviour change and compliant waste and recycling practices. Therefore, the plan includes a comprehensive approach to mitigating greenhouse gas emissions.",
+          "quote": {
+            "content": "Support Council’s response to the Climate and Ecological Emergency by increasing staff awareness and organisational adaptive capacity to achieve a city of energy efficient buildings powered by clean energy.",
+            "page": 31,
+            "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Emergency Strategy 2020 – 2030 Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change adaptation, which includes assessing the vulnerability of Council's key assets and infrastructure to climate change, increasing understanding of physical and financial impacts, and impacts on service delivery. The plan also includes actions to increase the adaptive capacity of the organization, such as developing an annual program of staff training activities to increase awareness of climate change impacts. Furthermore, the plan includes actions to embed consideration of climate change into Council's long-term financial planning processes and identify long-term mechanisms to fund Council's climate change measures. These actions demonstrate a clear commitment to climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide a detailed action plan for the local government's response to climate change, which includes specific actions, roles, timeframes, responsibilities, outcomes, and indicators. The plan is comprehensive and covers a wide range of areas, including leadership and governance, community wellbeing and culture, business and economy, energy and buildings, biodiversity and open space, transport and movement, assets, infrastructure and land use planning, and waste and resources. The plan also includes a commitment to ongoing monitoring, reporting, and review of its implementation, with an annual progress summary report to be made public on the Council's website. The plan also includes a commitment to embed consideration of climate change into the development of the Council's 2021-25 Council Plan and supporting strategic documents. This suggests a well-sourced and justified approach to its climate targets and actions.",
+          "quote": {
+            "content": "Council’s supporting documents that have a role in facilitating the implementation of the Climate Emergency Strategy include: Leadership & Governance, Community Wellbeing & Culture, Business & Economy, Energy & Buildings, Biodiversity & Open Space, Transport & Movement, Assets, Infrastructure & Land Use Planning, Waste & Resources.",
+            "page": 51,
+            "source": "GreaterDandenong-Climate-Emergency-Strategy-2020.pdf",
+            "search_score": 0.91
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's Climate Emergency Action Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a comprehensive monitoring and evaluation framework, which includes annual monitoring of progress towards the objectives, targets, and actions outlined in the plan through the Council's existing corporate reporting processes. Additionally, the Council will provide an annual summary on its website of the progress towards targets and highlight key outcomes. A complete evaluation and update of the Action Plan will be undertaken by FY 2024/25. Furthermore, each action in the plan has a stated Outcome/Indicator, and the effectiveness of these actions will be reviewed as part of an internal operational review after 5 years. This approach ensures that the plan's effectiveness can be measured and evaluated against specific criteria, allowing for adjustments and improvements to be made as necessary.",
+          "quote": {
+            "content": "A report on the five-year evaluation and review will be tabled at a Council meeting for noting. An internal operational review of this Strategy and Action Plan will occur after 5 years (2025–26) to enable a review of the effectiveness and relevance of the objectives and actions.",
+            "page": 32,
+            "source": "GreaterDandenong-Climate-Emergency-Strategy-2020.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive approach to assess current activities and identify new opportunities to work with the community. This includes raising awareness of climate change impacts, supporting community actions to mitigate greenhouse gas emissions, and building environmental resilience. The government also plans to deliver awareness and engagement programs through a diverse range of approaches to maximize effectiveness and reach within the community. Furthermore, the government intends to assess its current capacity to mobilize the community in response to the declaration of a Climate and Ecological emergency. These actions indicate a clear intention to conduct research within the local community to inform and guide climate actions.",
+          "quote": {
+            "content": "Assess current activities and new opportunities to inform and work with the community to increase awareness of climate change impacts to health and wellbeing and opportunities to reduce these risks in response to the Climate and Ecological Emergency.",
+            "page": 12,
+            "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. While the local government's Climate Emergency Strategy and Action Plan outline a comprehensive approach to addressing climate change, the actions and strategies described are largely standard practices in climate policy. These include embedding consideration of climate change into strategic documents, increasing awareness of climate change impacts within the council and community, seeking external funding for projects, and developing key performance indicators to monitor progress. The documents also mention the development of a schedule of climate change impact awareness and training programs for staff, which is a common approach to building adaptive capacity within an organization. However, these actions do not necessarily represent innovative or experimental approaches to climate policy. Therefore, based on the provided documents, the answer to the question is negative."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly demonstrate an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in several instances where the local government outlines its advocacy role. For instance, the local government plans to advocate for the State Government to facilitate local green infrastructure in accordance with Plan Melbourne’s Cooling and Greening policies. They also plan to call for the State and Federal governments to declare a Climate and Ecological Emergency, develop programs to reduce greenhouse gases, and establish a National Climate Response Plan. Furthermore, the local government intends to advocate to the Australian and Victorian governments for increased financial and other forms of support to improve the local government sectors’ capacity to respond to community needs. These actions demonstrate a clear intent to advocate for climate action at higher levels of government.",
+          "quote": {
+            "content": "Develop programs to drive emergency action to reduce greenhouse gases and meet the lower target of the Paris Agreement to keep global warming below 1.5 degrees iii. Declare a Climate and Ecological Emergency ii.",
+            "page": 13,
+            "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, their local communities, and neighbouring local councils for climate action. This is evident in the various strategies and plans outlined in the documents. For instance, the Climate Emergency Action Plan identifies actions that the council will take over the next five years, including those that aim to build the council's capacity to respond to the climate emergency. The council also plans to increase organisational adaptive capacity and staff awareness to facilitate the goal of increasing its urban forest to help cool the environment. Furthermore, the council is committed to advocacy activities that support investment in infrastructure that helps build the local community’s resilience to the impacts of climate change. The council also plans to continue participating in local government forums such as SECCCA, CASBE, Cities for Power Partnership, Climate Emergency Australia and other forums where appropriate, which indicates a commitment to partnership and collaboration with neighbouring local councils.",
+          "quote": {
+            "content": "This Action Plan identifies Council’s actions over the next five years where it: • It has direct operational control (Council Objectives) • It seeks to influence and support the community, other levels of government, our partners and key stakeholders to act.",
+            "page": 5,
+            "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Greater Dandenong City Council is shown to be actively involved in advocacy and collaboration with various stakeholders at different levels of government and within the community. The council is seen to be working with key stakeholders to participate in collaborative mitigation and adaptation opportunities across the municipality and region. It also advocates for the State and Federal governments to declare a Climate and Ecological Emergency, develop programs to reduce greenhouse gases, and establish a National Climate Response Plan. The council also works with regional partners to seek increased Federal and State Government support to meet the needs and priorities of local businesses to respond to climate change. Furthermore, the council is part of local government alliances such as South East Melbourne, the Eastern Transport Coalition, and the Monash National Employment and Innovation Cluster, which are instrumental in advocating for climate change resilience.",
+          "quote": {
+            "content": "Establish a National Climate Response Plan that involves the three levels of government mitigating climate-caused risks based on climate science evidence. Develop programs to drive emergency action to reduce greenhouse gases and meet the lower target of the Paris Agreement to keep global warming below 1.5 degrees.",
+            "page": 13,
+            "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. They outline a commitment to supporting these communities in mitigating and adapting to climate change impacts. The local government plans to increase community awareness of climate change impacts on health and wellbeing, particularly among diverse multicultural communities. They also aim to support disadvantaged households in reducing their exposure to climate risks and in minimizing utility usage and costs. Furthermore, the documents mention the provision of support to vulnerable households, such as older people and people with disabilities, to manage potential climate impacts and risks. This indicates a clear recognition of the differential impacts of climate change on vulnerable communities and a commitment to addressing these through various strategies and actions."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The documents do discuss how to equitably share the benefits and opportunities of a safe climate. The local government's Climate Emergency Strategy and Action Plan outline several measures to ensure equitable climate responses. These include increasing community awareness of climate change risks to health and wellbeing, and facilitating actions to reduce these risks. The strategy also emphasizes the need to support disadvantaged households in reducing their exposure to climate risks and minimizing utility consumption and associated costs. Furthermore, the plan includes measures to assist residents' equitable access to energy. These actions indicate a commitment to ensuring that the benefits and opportunities of a safe climate are shared equitably among the community."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 18,
+    "num_questions": 20,
+    "attribute_score": 92.5
+  }
+}

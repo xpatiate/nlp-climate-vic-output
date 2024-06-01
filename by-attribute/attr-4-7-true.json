@@ -1,0 +1,746 @@
+{
+  "attribute": 5,
+  "question": 7,
+  "finding": true,
+  "num": 84,
+  "responses": [
+    {
+      "answer": "The local government's plan does indeed allocate funding for climate action. The plan outlines various actions to be taken, each with a corresponding timeframe, funding source, and cost. For instance, the plan includes the establishment of a Monitoring, Evaluation, Reporting and Improvement (MERI) framework, the implementation of a cultural change program across the Council, and the establishment of a Climate Action Steering Committee. These actions are funded either through existing resources or new funding. The plan also includes actions to support the implementation of strategic plans in key areas such as waste and water, and to develop actions for new priority areas. These actions are funded through a combination of existing and new resources. However, the plan does not provide specific details on the amount of funding allocated for each action.",
+      "source": "Banyule-a-a12345678910.json",
+      "lga": "Banyule",
+      "quote": {
+        "content": "Year 1 - 4\nExisting\nnil",
+        "page": 41,
+        "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+        "search_score": 0.9
+      }
+    },
+    {
+      "answer": "The local government's plan does explicitly allocate funding for climate action. The plan outlines a series of actions to be taken over a four-year period (2020-2023), each with a specified timeframe, cost, and funding source. The funding sources are categorized as 'Existing', 'New', or a combination of both. For instance, the plan includes the establishment of a Monitoring, Evaluation, Reporting and Improvement (MERI) framework, which is funded from existing resources. Similarly, the plan outlines the implementation of a cultural change program across the Council, which is funded from new resources. The plan also includes actions to support renewable energy, such as investigating alternative procurement options, which are funded from new resources. Therefore, the plan does allocate funding for climate action, both from existing and new resources.",
+      "source": "Banyule-b-a12345678910.json",
+      "lga": "Banyule",
+      "quote": {
+        "content": "Support staff to undertake climate action \nwithin their own roles. Action\nDescription\nTimeframe Funding Cost\n1.1 Climate \naction culture\nIdentify best practice tools and techniques \nfor embedding a culture of climate action \nwithin the Council. Year 1\nExisting\nnil\n1.2 Culture \nchange program\nImplement a cultural change program across \nthe Council, embedding climate action as an \nall of staff responsibility.",
+        "page": 41,
+        "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The Bass Coast 2021 Climate Change Action Plan does explicitly allocate funding for climate action. The plan outlines a range of approaches available to the Council for funding climate action. It mentions that many foundational actions require small financial investments and are primarily driven using existing resources. The plan also discusses the potential for operational savings from certain actions, which have an initial capital cost. For adaptation actions, the plan notes that most actions assist in avoiding a significantly higher future cost. The plan also mentions that for capital expenditure, borrowing represents a viable option. Furthermore, the plan discusses the integration of climate risk into financial decision making, which implies the allocation of resources to address climate risks. However, the plan does not provide specific figures or percentages of the budget allocated to climate action.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "Many foundation actions require small financial investments, but are primarily driven using existing resources. To fund climate action there are a range of approaches available to Council. This plan has been developed with an early focus on setting the foundations for improved decision making to respond to climate risk and act on emissions reduction opportunities.",
+        "page": 47,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The plan does explicitly allocate funding for climate action. It outlines a range of approaches available to the Council for funding climate action. The plan has been developed with an early focus on setting the foundations for improved decision making to respond to climate risk and act on emissions reduction opportunities. Many of these foundation actions require small financial investments, but are primarily driven using existing resources. Additionally, a suite of actions contained within the plan have an initial capital cost which is quickly recouped through operational savings. The plan also mentions that for capital expenditure, borrowing represents a viable option. Furthermore, the plan discusses the integration of climate risk into financial decision making, which implies a financial commitment to climate action. Therefore, it is clear that the plan does allocate funding for climate action, although the exact amounts and sources of this funding are not specified in the provided context.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "Many foundation actions require small financial investments, but are primarily driven using existing resources. To fund climate action there are a range of approaches available to Council. This plan has been developed with an early focus on setting the foundations for improved decision making to respond to climate risk and act on emissions reduction opportunities.",
+        "page": 47,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The Climate Emergency Action Plan does explicitly allocate funding for climate action. The plan outlines a series of actions, each with a designated timeframe, cost, budget source, delivery complexity, responsible party, and expected outcome. The budget source for most of these actions is listed as the 'Existing operational budget'. The plan also mentions an additional allocation of $172,880 to purchase carbon offsets and achieve carbon neutrality from 2020. Furthermore, the plan explores innovative funding models to support investment in climate action, such as the implementation of Environmental Upgrade Finance for local businesses and residential properties. The cost of actions is categorized into low, medium, and high, with low being less than $50,000, medium being between $50,000 and $500,000, and high being more than $500,000. This detailed financial planning and allocation demonstrate a clear commitment to funding climate action.",
+      "source": "Bayside-a-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "An additional $172,880 has been allocated to purchase carbon offsets and achieve carbon neutrality from 2020. Existing Council budget will be allocated to departments continuing works and operations responding to the Climate Emergency.",
+        "page": 8,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Climate Emergency Action Plan does explicitly allocate funding for climate action. The plan outlines a series of actions, each with a designated budget source, which is primarily the existing operational budget. The plan also provides a cost estimate for each action, categorised as low, medium, or high. For instance, the plan includes actions such as establishing a coordinated program of community awareness and education, supporting vulnerable community members in the transition to 'zero carbon' energy, and exploring innovative funding models to support investment in climate action. Furthermore, the document mentions that an additional $172,880 has been allocated to purchase carbon offsets and achieve carbon neutrality from 2020. Therefore, it is clear that the plan not only allocates funding for climate action but also details how this funding will be used.",
+      "source": "Bayside-b-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "An additional $172,880 has been allocated to purchase carbon offsets and achieve carbon neutrality from 2020. Existing Council budget will be allocated to departments continuing works and operations responding to the Climate Emergency.",
+        "page": 8,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government policy does explicitly allocate funding for climate action. The policy mentions the need for additional funds for certain actions related to climate change. For instance, the policy outlines the need for funds to employ a consultant to ensure climate response is included in the next update of the Municipal Health and Wellbeing Plan. Additionally, the policy mentions the need for low-medium funding to support the community in transitioning away from peak oil and towards a Carbon Pollution Reduction Scheme. Furthermore, the policy also mentions the need for additional funds for some actions related to the implementation of the Climate Change Adaptation Action Plan. However, the policy does not provide specific details on the amount of funding allocated for these actions.",
+      "source": "Benalla-a-a12345678910.json",
+      "lga": "Benalla"
+    },
+    {
+      "answer": "The local government policy does explicitly allocate funding for climate action. The policy mentions the need for additional funds in several instances. For instance, the Municipal Health and Wellbeing Plan may require additional funds to employ a consultant to ensure climate response is included in the next update. The policy also mentions the need for low-medium funding to support the community in transitioning away from peak oil and towards a Carbon Pollution Reduction Scheme. Furthermore, the policy indicates that the implementation of the Climate Change Adaptation Action Plan may require additional funds for some actions. However, the policy does not provide specific details on the amount of funding allocated or the sources of this funding.",
+      "source": "Benalla-b-a12345678910.json",
+      "lga": "Benalla"
+    },
+    {
+      "answer": "The local government's climate action plan does allocate resources for climate action, although it does not explicitly mention financial resources. The plan outlines a range of actions to be taken in response to climate change, and for each action, it identifies the responsible department and the resources required. The resources are primarily staff time, indicating that the plan involves a significant commitment of human resources. However, the plan does not provide specific details about the financial resources that will be allocated to these actions. It is also worth noting that the plan includes a range of partnerships, both internal and external, which could potentially bring additional resources to the implementation of the plan.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "Resilient communities and service delivery\nTiming\nActions\nOpportunities, partnerships and advocacy\nResponsibility\nResourcing\nNow – \n2 years\n1.1\nUpdate the Council Plan and Community Plan (including \nMunicipal Public Health and Wellbeing Plan) to ensure climate \nchange is comprehensively considered in line with Climate \nChange Act (2017) legislative requirements.",
+        "page": 14,
+        "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does allocate resources for climate action, but it does not explicitly mention financial funding. The plan outlines a range of actions to be taken in response to climate change, and for each action, it identifies the responsible department and the resources required. The resources are primarily staff time, indicating that personnel will be allocated to these tasks. However, the plan does not provide specific details about the financial resources that will be allocated to these actions. It is also worth noting that the plan includes a range of potential partnerships, which could potentially bring additional resources to these actions. However, without specific details about the financial commitments associated with these actions, it is difficult to assess the extent of the local government's investment in climate action.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "Partners could include: Sustainability Victoria, \nDepartment of Health and Human Services, \nBrotherhood of St. Laurence, Climate",
+        "page": 14,
+        "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's climate change adaptation plan does explicitly allocate funding for climate action. The plan outlines a series of actions to be taken over a 10-year period, with each action associated with a specific timeframe, lead partner, and funding allocation. For instance, the plan includes the creation of a 'Climate Resilience Officer' role, with operational funding allocated for this position. Other actions, such as raising community awareness, identifying high-risk areas for development, and advocating for climate change adaptation initiatives, also have specific funding allocations. The plan also mentions the need for additional resources, such as the employment of two additional council officers, for which business cases will be developed. However, it should be noted that some actions are subject to the creation of a climate resilience officer, indicating that the implementation of these actions is contingent on the availability of resources.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "The sustainable design officer’s work will support actions in this strategy, the housing strategy and the Integrated Water Management Plan. The positions currently being considered are an environmental education officer and a sustainable design officer. The environmental education officer will work on key projects related to this strategy as well as actions related to the Integrated Water Management Plan.",
+        "page": 49,
+        "source": "Cardinia-Aspirational_Energy_Transition_Plan_2014_24.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's climate change adaptation plan does explicitly allocate funding for climate action. The plan outlines a series of actions to be taken over a 10-year period, with each action associated with a specific timeframe, lead partner, and funding allocation. For instance, the plan includes the creation of a 'Climate Resilience Officer' role, with operational funding allocated for this position. Other actions, such as raising community awareness, identifying high-risk areas for development, and advocating for climate change adaptation initiatives, also have specific funding allocations. The plan also mentions the need for additional resources, such as the employment of two additional council officers, for which business cases will be developed. Therefore, the plan not only identifies the actions to be taken but also provides a clear indication of the financial resources that will be mobilized to implement these actions.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "The sustainable design officer’s work will support actions in this strategy, the housing strategy and the Integrated Water Management Plan. The positions currently being considered are an environmental education officer and a sustainable design officer. The environmental education officer will work on key projects related to this strategy as well as actions related to the Integrated Water Management Plan.",
+        "page": 49,
+        "source": "Cardinia-Aspirational_Energy_Transition_Plan_2014_24.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Emissions Management Plan 2018-2022 by the City of Casey does explicitly allocate funding for climate action. The plan outlines a comprehensive investment action program prioritised on economic, environmental, and social benefits. The plan also mentions a significant investment in reducing operational and maintenance costs through energy efficiencies improvement. Furthermore, the plan details the City's commitment to invest in renewable energy technology and energy efficiency. The plan also mentions the successful implementation of the previous Emissions Management Plan 2012-17, which brought about annual cost savings of $1.5M per year by avoiding energy operational costs. This indicates that the City of Casey has a history of allocating resources for climate action and plans to continue doing so.",
+      "source": "Casey-a-a12345678910.json",
+      "lga": "Casey",
+      "quote": {
+        "content": "The successful implementation of the Emissions Management Plan 2012-17 brought about annual cost savings of $1.5M per year by avoiding energy operational costs.",
+        "page": 4,
+        "source": "Casey-2018-Emissions-Management-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Emissions Management Plan 2018-2022 by the City of Casey does explicitly allocate funding for climate action. The plan outlines a comprehensive investment action program prioritised on economic, environmental, and social benefits. The plan also mentions a significant investment in reducing operational and maintenance costs through energy efficiencies improvement. The plan further details the city's commitment to invest in renewable energy technology and energy efficiency. It also mentions the exploration of public-private partnerships for investment in large renewable energy projects. The plan also highlights the successful implementation of the previous Emissions Management Plan 2012-17, which brought about annual cost savings of $1.5M per year by avoiding energy operational costs. This indicates that the city has a track record of allocating and effectively using funds for climate action.",
+      "source": "Casey-b-a12345678910.json",
+      "lga": "Casey",
+      "quote": {
+        "content": "The successful implementation of the Emissions Management Plan 2012-17 brought about annual cost savings of $1.5M per year by avoiding energy operational costs.",
+        "page": 4,
+        "source": "Casey-2018-Emissions-Management-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does explicitly allocate funding for climate action. The plan outlines a range of actions related to climate change, and for each action, it specifies the responsible work area and the funding or resourcing status. Many of these actions are marked as having an 'Existing budget', indicating that funds have already been allocated for these initiatives. For instance, the plan includes actions to build staff capacity to incorporate sustainability and climate considerations into project specifications, investigate further opportunities to involve DJAARA in Local Planning Policy frameworks related to climate change, and include a climate action lens in the Council’s Engage! Youth Leadership Program. All these actions are supported by the existing budget. However, it should be noted that some actions are subject to future budget bids or external funding, indicating that additional resources may be needed to fully implement the plan.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "specification template, guidelines, training) All / supported by Procurement / Sustainability / Waste Existing budget Build staff capacity to develop project specifications that incorporate sustainability and climate considerations (eg.",
+        "page": 30,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does explicitly allocate funding for climate action. The plan outlines a range of initiatives and actions that are supported by existing budgets. For instance, the plan includes building staff capacity to develop project specifications that incorporate sustainability and climate considerations, investigating further opportunities to involve DJAARA in Local Planning Policy frameworks related to climate change adaptation and mitigation, and including a climate action lens in the Council's Engage! Youth Leadership Program. These initiatives are all supported by existing budgets. Additionally, the plan also mentions the need for future budget bids for certain actions, indicating a commitment to secure further funding for climate action. However, the plan does not provide specific details on the amount of funding allocated to each action or the total budget for climate action.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields"
+    },
+    {
+      "answer": "The local government's climate action plan does allocate funding for climate action, although the specifics of the funding sources and amounts are not explicitly detailed. The plan mentions that some actions are 'Funded within existing resources' or are 'Subject to external funding and/or funding by Council as part of an Annual Budget process in the applicable years'. This indicates that there is a commitment to mobilise resources for climate action, but the exact amounts and sources of funding are not specified. The plan also mentions that the cost of implementation for various actions can range from low to high, with specific figures given for what constitutes low, medium, and high costs. However, it does not provide a detailed breakdown of how much funding is allocated to each action or where the funding will come from. Therefore, while the plan does allocate funding for climate action, the lack of specific details makes it difficult to assess the adequacy and effectiveness of the funding allocation.",
+      "source": "ColacOtway-a-a12345678910.json",
+      "lga": "ColacOtway"
+    },
+    {
+      "answer": "The local government's climate action plan does allocate resources for climate action, but the specifics of the funding are not entirely clear. The plan outlines various actions related to climate change, including adaptation, mitigation, and advocacy. It also provides a cost estimate for each action, ranging from low to high. However, the plan does not provide specific dollar amounts or a detailed budget breakdown. Instead, it uses broad categories to indicate the cost of each action, such as 'Low ($0–$50,000)', 'Med ($50,000–$150,000)', and 'High (150,000+)'. The plan also indicates whether each action is funded within existing resources or subject to external funding and/or funding by Council as part of an annual budget process. While this does demonstrate a commitment to allocating resources for climate action, the lack of specific budget details makes it difficult to assess the adequacy of the funding.",
+      "source": "ColacOtway-b-a12345678910.json",
+      "lga": "ColacOtway"
+    },
+    {
+      "answer": "The plan does explicitly allocate funding for climate action. The documents indicate that the local government has set aside a budget for the implementation of the Climate Emergency plan. The budget allocation is $427,000, which includes $127,000 for direct programs and $300,000 for the purchase of GreenPower. Additionally, the plan outlines further resourcing requirements, including $20 million for the expansion of the Solar Saver program. This funding is divided into two $10 million programs proposed for consideration in the 2018-19 and 2020-21 budgets. The documents also mention that these funds would be recouped via the special rates scheme, but there would be a cost to the Darebin budget of borrowing charges. Therefore, it is clear that the plan has made explicit provisions for funding climate action.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Additional resourcing requirements include: $20 million for the expansion of the Solar Saver program, with this divided into two $10 million programs proposed for consideration in the 2018-19 and 2020-21 budgets.",
+        "page": 109,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The policy documents clearly indicate that the local government has allocated specific funding for climate action. The Climate Emergency Plan implementation has a current budget allocation of $427,000, which includes $127,000 for direct programs and $300,000 for the purchase of GreenPower. This funding will be reapportioned in line with recommended strategic directions. Additionally, there are resourcing requirements of $20 million for the expansion of the Solar Saver program, divided into two $10 million programs proposed for consideration in the 2018-19 and 2020-21 budgets. These funds would be recouped via the special rates scheme, but there would be a cost to the Darebin budget of borrowing charges. This explicit allocation of funds for climate action demonstrates a clear commitment to addressing climate change.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin"
+    },
+    {
+      "answer": "The local government's plan does explicitly allocate funding for climate action. The documents provide evidence of various actions related to climate change that are marked as 'Funded' or 'Partly funded'. For instance, the plan includes actions such as supporting the Victorian Government’s TAKE2 climate change pledge, investigating the benefits of joining organisations working on greenhouse mitigation, and staying abreast of the latest research and innovations emerging from Smart City technologies for Council assets. These actions are all marked as 'Funded'. Additionally, the plan includes working with regional greenhouse alliances to progress Council’s corporate emission reduction priorities and opportunities, which is marked as 'Partly funded'. Therefore, it is clear that the plan has allocated funding for climate action.",
+      "source": "Frankston-a-a12345678910.json",
+      "lga": "Frankston",
+      "quote": {
+        "content": "C9 Continue to support the Victorian Government’s TAKE2 climate change pledge and publically report on Council’s progress against committed actions.",
+        "page": 47,
+        "source": "Frankston-2019-zero-emissions-plan.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The local government's plan does explicitly allocate funding for climate action. The documents provide several instances where actions related to climate change mitigation and adaptation are marked as 'Funded' or 'Partly funded'. For instance, the plan includes actions such as supporting the Victorian Government’s TAKE2 climate change pledge, investigating the benefits of joining organisations working on greenhouse mitigation, and staying abreast of the latest research and innovations emerging from Smart City technologies. These actions are all marked as 'Funded'. Additionally, the plan includes working with regional greenhouse alliances to progress Council’s corporate emission reduction priorities and opportunities, which is marked as 'Partly funded'. Therefore, it is clear that the plan has allocated funding for climate action.",
+      "source": "Frankston-b-a12345678910.json",
+      "lga": "Frankston",
+      "quote": {
+        "content": "C9 Continue to support the Victorian Government’s TAKE2 climate change pledge and publically report on Council’s progress against committed actions.",
+        "page": 47,
+        "source": "Frankston-2019-zero-emissions-plan.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The local government policy does allocate funding for climate action, but the specifics of the allocation are not clearly detailed. The policy repeatedly mentions 'within existing budgets' as the source of funding for various climate action strategies. For instance, the policy outlines that the council will 'proactively lead the way and provide the community with mechanisms to facilitate community-based discussions on the environmental impact of climate change' and that this will be funded 'within existing budgets'. Similarly, the policy states that the council will 'ensure the impacts of climate change are incorporated into key plans and strategies' and this too will be funded 'within existing budgets'. However, the policy does not provide a clear breakdown of what these budgets are, how much is allocated specifically for climate action, or how these funds will be distributed among the various strategies. Therefore, while the policy does allocate funding for climate action, the lack of specific detail makes it difficult to assess the adequacy of this funding.",
+      "source": "Glenelg-a-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The local government policy does explicitly allocate funding for climate action, although the specifics of the funding amounts are not detailed in the provided documents. The policy repeatedly mentions that actions will be taken 'within existing budgets', indicating that there is a financial commitment to implementing the strategies outlined. For instance, the policy states that the impacts of climate change will be incorporated into key plans and strategies 'within existing budgets'. Similarly, the policy outlines that the Glenelg planning scheme will be regularly reviewed to reflect the most up-to-date climate change information 'within existing budgets'. However, the policy also acknowledges the need for external funding and assistance, suggesting that the existing budgets may not be sufficient to fully implement all the planned actions.",
+      "source": "Glenelg-b-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The local government's plan does indeed allocate funding for climate action. The documents outline several initiatives related to climate change, each with a corresponding budget allocation. For instance, the plan includes the development of a Climate Change Community Engagement & Mobilisation Plan, which is to be funded from existing operational budgets. The plan also includes the incorporation of vulnerability assessments into the council's existing Asset Management Processes, with a budget of $50,000 allocated for 2021/22. Furthermore, the plan outlines the continuation of seeking external funding grants to increase local biodiversity and the urban forest, indicating a commitment to securing additional resources for climate action. However, it should be noted that some of these budget allocations are subject to annual operational budgets being approved as part of the council's annual budget, indicating that these allocations may not be guaranteed.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The local government's policy does indeed allocate funding for climate action. The policy outlines several actions related to climate change, and for each action, it specifies the resources required. These resources are often described as 'Within anticipated operational budgets' or 'Within existing operational budgets', indicating that funding has been allocated for these actions. For instance, the policy mentions the development of a Climate Change Community Engagement & Mobilisation Plan, which is to be funded from existing operational budgets. Another example is the incorporation of vulnerability assessments into the council's existing Asset Management Processes, which has a budget of $50,000 in 2021/22. Therefore, it is clear that the policy not only plans for climate action but also allocates funding for these actions.",
+      "source": "GreaterDandenong-b-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The Climate Change Response Plan does explicitly allocate funding for climate action. The plan outlines several actions that involve the allocation of resources for climate change initiatives. For instance, the plan mentions the establishment of community climate change officers and the implementation of the Climate Change Response Plan, both of which are to be resourced by 2022. Additionally, the plan introduces a new funding model that supports community climate action partnerships, which will be used to provide additional support for climate action delivered by volunteers and not-for-profit groups in the community. The plan also mentions the allocation of resources to support local businesses in developing climate mitigation and adaptation programs, technologies, and solutions. Therefore, the plan does not only acknowledge the need for funding but also provides specific actions and timelines for the allocation of these resources.",
+      "source": "GreaterGeelong-a-a12345678910.json",
+      "lga": "GreaterGeelong"
+    },
+    {
+      "answer": "The Climate Change Response Plan of the local government does explicitly allocate funding for climate action. The plan outlines several actions that involve the allocation of resources for climate action. For instance, the plan mentions the establishment of community climate change officers and the implementation of the Climate Change Response Plan, both of which are to be resourced by 2022. Additionally, the plan introduces a new funding model that supports community climate action partnerships, which will be used to provide additional support for climate action delivered by volunteers and not-for-profit groups in the community. The plan also mentions the allocation of resources to support local businesses in developing climate mitigation and adaptation programs, technologies, and solutions. Therefore, the plan does explicitly allocate funding for climate action.",
+      "source": "GreaterGeelong-b-a12345678910.json",
+      "lga": "GreaterGeelong"
+    },
+    {
+      "answer": "The Hobsons Bay Response to Climate Change Action Plan does explicitly allocate funding for climate action. The plan outlines a series of actions to be taken in response to climate change, each of which is accompanied by a timeframe and a funding status. The funding status indicates whether the budget for the action has been confirmed or is subject to future funding considerations. For instance, the plan includes actions such as delivering a cohesive communications and engagement plan, providing advice services and programs, and seeking partnership and funding opportunities, all of which have an 'Established Operational Budget'. Other actions, such as conducting climate vulnerability assessments, are marked as 'Scalable - Extent and timing subject to annual Budget Allocation'. This indicates that the local government has made provisions for funding these climate actions, although the exact amounts and timing may be subject to change.",
+      "source": "HobsonsBay-a-a12345678910.json",
+      "lga": "HobsonsBay"
+    },
+    {
+      "answer": "The Hobsons Bay Response to Climate Change Action Plan does explicitly allocate funding for climate action. The plan outlines a series of actions, each with a specified timeframe and funding status. The funding is either confirmed or subject to future considerations. For instance, the plan includes actions such as delivering a cohesive communications and engagement plan, providing advice services and programs, and seeking partnership and funding opportunities, all of which have an 'Established Operational Budget'. Other actions, such as providing targeted advice and support to vulnerable residents, are subject to 'Annual Budget Allocation'. This indicates that the local government has made financial provisions for the implementation of these climate actions. However, the exact amount of funding is not specified in the provided documents.",
+      "source": "HobsonsBay-b-a12345678910.json",
+      "lga": "HobsonsBay"
+    },
+    {
+      "answer": "The Hume Climate Action Plan 2023-2028 does explicitly allocate funding for climate action. The plan outlines various actions and activities related to climate change, and for each of these, it specifies the budgetary provisions. The budgetary allocations are mentioned in terms of 'within current budgets', 'CAP Capital Works budget', and 'within procurement budgets'. For instance, the plan mentions the continuation of the solar, solar storage, and energy efficiency program for Council buildings, which is funded by the CAP Capital Works budget. Similarly, the plan also mentions the continuation of the delivery of the Sustainability and Climate Change Community of Practice, which is funded 'within current budgets'. However, it is important to note that the exact monetary values are not specified in the documents provided.",
+      "source": "Hume-a-a4.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "Higher energy use buildings will continue to be prioritised.",
+        "page": 30,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Hume Climate Action Plan 2023-2028 does explicitly allocate funding for climate action. The plan outlines various actions and activities related to climate change, and for each of these, it specifies the budgetary provisions. The budgetary allocations are mentioned in phrases such as 'Within current budgets', 'CAP Capital Works budget', and 'Within current budget and staff resourcing'. These allocations are tied to specific actions such as delivering the solar, solar storage, and energy efficiency program for Council buildings, supporting sustainable procurement, and developing communications campaigns for residents to take well-informed climate action. However, the plan does not provide specific monetary values or percentages, which could have offered a clearer picture of the financial commitment towards climate action.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "Higher energy use buildings will continue to be prioritised.",
+        "page": 30,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Climate Emergency Strategic Action Plan does not explicitly allocate funding for climate action, but it does indicate that funding and resources will be considered. The plan outlines strategic priorities, including cost and resource implications, which are indicated by a dollar sign system ($, $$, $$$), suggesting different levels of financial commitment. However, the specific amounts or percentages of the budget allocated to each action are not provided. The plan also mentions that the introduction of the Council’s Climate Change Policy will assist in resourcing for the Adaptation Plan, which will be embedded into Council documents such as team Service Plans and the Council Plan. This suggests that the policy will influence budgetary decisions related to climate change adaptation. However, without specific figures or a clear budget allocation, it is difficult to assess the extent of the financial commitment.",
+      "source": "Indigo-a-a12345678910.json",
+      "lga": "Indigo",
+      "quote": {
+        "content": "The policy acts as a driver for implementation of the Adaptation Plan which will be embedded into Council documents such as team Service Plans and the Council Plan. Resourcing for the Adaptation Plan will be assisted by the introduction of Council’s Climate Change Policy.",
+        "page": 19,
+        "source": "Indigo-2017-climate-adaptation-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Climate Emergency Strategic Action Plan does explicitly allocate resources for climate action, although it does not provide specific monetary values. The plan outlines strategic priorities and actions, and each action is associated with a cost indicator, represented by $, $$, or $$$, which presumably denote different levels of financial commitment. The plan also mentions that the implementation of the Adaptation Plan will be assisted by the introduction of the Council’s Climate Change Policy, which will inform future budgetary decisions. However, the documents do not provide specific budget allocations or detailed financial plans for the proposed actions. Therefore, while the plan does indicate a commitment to allocate resources for climate action, the lack of specific financial details makes it difficult to assess the adequacy or effectiveness of the funding allocation.",
+      "source": "Indigo-b-a12345678910.json",
+      "lga": "Indigo",
+      "quote": {
+        "content": "The Adaptation Plan recognises that demands on Council services may change as a result of climate change and will be used to inform future budgetary decisions. Resourcing for the Adaptation Plan will be assisted by the introduction of Council’s Climate Change Policy. The policy acts as a driver for implementation of the Adaptation Plan which will be embedded into Council documents such as team Service Plans and the Council Plan.",
+        "page": 19,
+        "source": "Indigo-2017-climate-adaptation-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Kingston Climate and Ecological Emergency Response Plan does explicitly allocate funding for climate action. The plan outlines 'institutional resource mobilisation' as a key component of its strategy, which includes 'adequate funding for action'. This indicates that the local government has committed to providing financial resources to support the implementation of the plan. However, the documents do not provide specific details about the amount of funding allocated, the sources of this funding, or how it will be distributed among the various initiatives outlined in the plan. Therefore, while the plan does commit to funding climate action, the lack of detail makes it difficult to assess the adequacy and effectiveness of this funding commitment.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston"
+    },
+    {
+      "answer": "The Kingston Climate and Ecological Emergency Response Plan does explicitly allocate funding for climate action. The plan outlines 'institutional resource mobilisation' as a key component of its strategy, which includes 'adequate funding for action'. This indicates that the local government has committed to providing financial resources to support the implementation of the plan. However, the documents do not provide specific details about the amount of funding allocated, the sources of this funding, or how it will be distributed among the various initiatives outlined in the plan. Therefore, while the plan does commit to funding climate action, the lack of detail makes it difficult to assess the adequacy of this funding commitment.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston"
+    },
+    {
+      "answer": "The Climate Response Plan does explicitly allocate funding for climate action. The plan outlines various actions to address climate change, including engaging with public sector service providers, developing financial impact analysis studies, identifying infrastructure requiring long-term adaptation measures, and undertaking feasibility studies. These actions are indicative of a financial commitment. Furthermore, the document provides specific monetary values for certain actions, such as 'Adapt and protect our buildings' and 'Climate Resilient Infrastructure', which are allocated $0.2m and $0.07m respectively. This explicit allocation of funds demonstrates a clear commitment to mobilising institutional resources for climate action. However, the document does not provide a comprehensive breakdown of the funding for all the actions listed, which could limit the transparency and accountability of the plan's implementation.",
+      "source": "Knox-a-a12345678910.json",
+      "lga": "Knox"
+    },
+    {
+      "answer": "The Climate Response Plan does explicitly allocate funding for climate action. The plan outlines various actions related to climate change, such as engaging with public sector service providers, developing financial impact analysis studies, identifying infrastructure requiring long-term adaptation measures, and undertaking feasibility studies of future-proofing the stormwater system. Each of these actions implies a financial commitment. More specifically, the document provides an approximate value of existing resources as $4.0m and an approximate total of $32.5m for the period 2021-31. This allocation of funds demonstrates a clear commitment to mobilising institutional resources for climate action. However, the document does not provide a detailed breakdown of how these funds will be distributed among the various actions, which could be a point of concern for ensuring the effective and efficient use of resources.",
+      "source": "Knox-b-a12345678910.json",
+      "lga": "Knox"
+    },
+    {
+      "answer": "The local government's policy does allocate funding for climate action, although the specifics of the allocation are not always clear. The policy outlines several actions related to environmental sustainability, some of which have budget allocations. For instance, the policy includes a plan to maintain a car pool policy with a budget of $5,000 (T2). Additionally, the policy outlines a plan to upgrade street lighting to high-efficiency technology with a budget of $80,000 (E7). However, it's worth noting that many of the actions listed in the policy do not have a specified budget, instead listing 'NIL' as the budget. This could indicate that these actions are expected to be carried out with existing resources or that the budget will be determined at a later date. Therefore, while the policy does allocate some funding for climate action, the extent and specifics of this funding are not entirely clear.",
+      "source": "Loddon-a-a12345678910.json",
+      "lga": "Loddon",
+      "quote": {
+        "content": "High S4, C5, C6 2014 – 2015 MINFPD $80,000",
+        "page": 4,
+        "source": "Loddon-Environmental-Sustainability-Strategy-Action-Plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The local government's policy does allocate funding for climate action, although the specifics of the allocation are not always clear. The policy outlines several actions related to environmental sustainability, some of which have budget allocations. For instance, the policy includes a plan to maintain a car pool policy with a budget of $5,000 (T2). Additionally, the policy outlines a plan to upgrade street lighting to high-efficiency technology with a budget of $80,000 (E7). However, many of the actions listed in the policy do not have a specified budget, instead listing 'NIL' under the budget column. This could indicate that these actions will be funded through other means, or that the budget for these actions has not yet been determined. It is also worth noting that the policy includes a plan to seek external funding for a part-time resource dedicated to environmental management (B6).",
+      "source": "Loddon-b-a12345678910.json",
+      "lga": "Loddon"
+    },
+    {
+      "answer": "The plan does allocate resources for climate action, but it does not explicitly mention the allocation of funding. The plan outlines a range of actions and initiatives to address climate change, and it indicates that resources will be allocated to these actions. For example, the plan mentions the continuation of existing activities, the promotion of climate change action to different sectors of the community, and the exploration of opportunities to provide information and deliver programs alongside existing community education programs. It also mentions the review of opportunities to facilitate climate change action through existing Council grant schemes. However, the plan does not provide specific details about the amount of funding that will be allocated to these actions, or how this funding will be distributed.",
+      "source": "MacedonRanges-a-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "Council can also explore opportunities to provide information and deliver programs alongside existing community education programs (for example, through neighbourhood houses) and review opportunities to facilitate climate change action through existing Council grant schemes. In the meantime, it is recommended that Council continue existing activities, and aim to promote climate change action to different sectors of the community and different population groups, customising messages and information to target audiences through a range of media, and utilising venues like libraries and aquatic centres to distribute information.",
+        "page": 49,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The plan does allocate resources for climate action, but it does not explicitly mention the allocation of funding. The plan outlines a range of actions and initiatives to address climate change, and for many of these, it indicates that they will be carried out using 'current resources'. This suggests that existing budget allocations will be used, rather than additional funding being provided. For example, the plan recommends that Council continue existing activities to promote climate change action, and it states that this will be done using current resources. Similarly, the plan proposes the integration of climate change into decision making across Council, particularly in regards to management of assets and delivery of services, and again it states that this will be done using current resources. However, the plan does not provide specific details about the amount of funding that will be allocated to these actions.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "Council can also explore opportunities to provide information and deliver programs alongside existing community education programs (for example, through neighbourhood houses) and review opportunities to facilitate climate change action through existing Council grant schemes. In the meantime, it is recommended that Council continue existing activities, and aim to promote climate change action to different sectors of the community and different population groups, customising messages and information to target audiences through a range of media, and utilising venues like libraries and aquatic centres to distribute information.",
+        "page": 49,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Manningham Council's Climate Emergency Response Plan does indicate that there will be financial commitment towards climate action. However, the plan does not provide explicit details on the amount of funding allocated or the specific climate actions that will be funded. The plan states that financial commitment to funding actions will be decided annually through the budgeting process. This suggests that the allocation of funding is flexible and will be determined on a yearly basis, depending on the climate actions that are prioritized for that particular year. While this approach allows for adaptability, it may also lead to uncertainty in terms of long-term funding for climate action. Therefore, while the plan does commit to allocating funding for climate action, the lack of specific details makes it difficult to assess the adequacy and effectiveness of this funding commitment.",
+      "source": "Manningham-a-a12345678910.json",
+      "lga": "Manningham",
+      "quote": {
+        "content": "Where necessary, financial commitment to funding actions will be decided annually through the budgeting process.",
+        "page": 8,
+        "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Manningham Council's Climate Emergency Response Plan does indicate that there will be financial commitment towards climate action. However, the plan does not provide explicit details on the amount of funding allocated or the specific climate actions that will be funded. The plan states that financial commitment to funding actions will be decided annually through the budgeting process. This suggests that the allocation of funding is flexible and will be determined on a yearly basis, depending on the climate actions that are prioritized each year. While the plan does commit to funding climate actions, the lack of specific details on the funding allocation may make it difficult to assess the adequacy of the funding and the effectiveness of the climate actions.",
+      "source": "Manningham-b-a12345678910.json",
+      "lga": "Manningham",
+      "quote": {
+        "content": "Where necessary, financial commitment to funding actions will be decided annually through the budgeting process.",
+        "page": 8,
+        "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Maribyrnong City Council Climate Emergency Action Plan does explicitly allocate funding for climate action. The plan outlines a series of actions to be taken in response to the climate emergency, each of which is accompanied by a timeline and a note on resources. The resources for all actions are listed as 'Within Council operating resources', indicating that the council has allocated its operational resources for these actions. This includes actions related to energy efficiency, land use, infrastructure, and community engagement, among others. However, the plan does not provide specific details on the amount of funding allocated for each action or the total budget for climate action. The allocation of operational resources suggests a commitment to climate action, but the lack of specific budget details makes it difficult to assess the adequacy of the funding.",
+      "source": "Maribyrnong-a-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The Maribyrnong City Council Climate Emergency Action Plan does explicitly allocate funding for climate action. The plan outlines a series of actions to be taken in response to the climate emergency, each of which is accompanied by a timeline and a note on resources. The resources for all actions are listed as 'Within Council operating resources', indicating that the council has allocated its operational resources for these actions. This suggests that the council has committed to mobilising its institutional resources to fund these actions. However, the plan does not provide specific details on the amount of funding allocated for each action or the total budget for climate action. The allocation of 'Council operating resources' could encompass a wide range of potential funding amounts, and without further detail, it is not possible to determine the extent of the council's financial commitment to climate action.",
+      "source": "Maribyrnong-b-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The local government's policy does allocate funding for climate action, although the specifics of the allocation are not detailed. The policy mentions 'usual budgets and processes' in relation to promoting actions needed to achieve emission reductions and identifying and addressing synergies, trade-offs, and feedback loops between various strategies. The policy also mentions 'Year 1 existing budget allocation, Years 2-5 subject to annual plan and budget processes' in relation to accelerating corporate Power Purchase Agreements. However, the policy does not provide specific figures or percentages of the budget that will be allocated to these actions. Therefore, while the policy does indicate that funding will be allocated for climate action, the lack of specific detail makes it difficult to assess the adequacy of this funding.",
+      "source": "Melbourne-a-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "Ensure communications are accessible and inclusive. Engage the \ncommunity through public art, festivals and events, and digital \nengagement.",
+        "page": 65,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The policy does allocate funding for climate action, although the specifics of the allocation are not detailed. The policy mentions 'usual budgets and processes' in relation to promoting actions needed to achieve emission reductions and identifying and addressing synergies, trade-offs, and feedback loops. The policy also mentions 'Year 1 existing budget allocation, Years 2-5 subject to annual plan and budget processes' in relation to accelerating corporate Power Purchase Agreements. However, the policy does not provide specific figures or percentages of the budget that will be allocated to these actions. Therefore, while the policy does allocate funding for climate action, the lack of specific detail makes it difficult to assess the adequacy of this funding.",
+      "source": "Melbourne-b-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "Ensure communications are accessible and inclusive. Engage the \ncommunity through public art, festivals and events, and digital \nengagement.",
+        "page": 65,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan does explicitly allocate funding for climate action. The documents indicate a clear commitment to financial resource allocation for various climate action initiatives. For instance, the plan proposes a $410k per annum allocation from 2020/21 for the City – Change Integrated Behaviour Change initiative. This initiative aims to engage staff across the council to raise awareness and integrate climate emergency response within council strategies, policies, planning, and services. Additionally, the plan outlines the allocation of an estimated $104k per annum from 2020/21 for a Climate Emergency Integration Officer. The plan also mentions a potential allocation of up to $200k per annum via a 5-year Funding Agreement to the Australian Energy Foundation for activities supportive of Zero Carbon Moreland 2040 goals. These explicit allocations demonstrate a clear commitment to mobilising institutional resources for climate action.",
+      "source": "Merribek-a-a12345678910.json",
+      "lga": "Merribek"
+    },
+    {
+      "answer": "The local government's plan does explicitly allocate funding for climate action. The documents indicate a clear commitment to financial resource allocation for various climate-related initiatives. For instance, there is a proposed allocation of $410k p/a from 2020/21 for City – Change Integrated Behaviour Change. This includes engaging staff across the council to raise awareness and integrate climate emergency response within council strategies, policies, planning, and services. Additionally, there is a mention of an estimated $104k p/a from 2020/21 for a Climate Emergency Integration Officer. Furthermore, the plan also mentions the provision of grant funding to the Australian Energy Foundation (AEF) for agreed activities supportive of Zero Carbon Moreland (ZCM) 2040 goals, amounting to $200k/pa via a 5-year Funding Agreement. These specific allocations demonstrate a clear commitment to funding climate action.",
+      "source": "Merribek-b-a12345678910.json",
+      "lga": "Merribek",
+      "quote": {
+        "content": "$104k p/a from 2020/21 for Climate Emergency Integration Officer (fixed term) plus funds within ZCM programs and.",
+        "page": 9,
+        "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The Community Climate Response Plan 2024-2029 does explicitly allocate funding for climate action. The plan outlines various actions to be taken in response to climate change, each of which is associated with a specific investment. For instance, the plan includes actions such as organising self-funding events for community tree planting, promoting the need for alternative fuel sources in agriculture and transport, and encouraging residents to choose sustainable transportation. Each of these actions is associated with a specific investment, denoted by dollar signs, indicating that funding has been allocated for these climate actions. However, the plan does not provide specific monetary values or percentages of the budget allocated to each action. Therefore, while it is clear that funding has been allocated for climate action, the exact amount of funding for each action is not specified.",
+      "source": "Mildura-a-a12345678910.json",
+      "lga": "Mildura",
+      "quote": {
+        "content": "Action\nDescription\nTime \nframe\nInvestment\nPartners\nPlant-a-tree \nfundraiser / \ncommunity \ngreening\nOrganise self-funding \nevents for the community \nto donate and plant trees \nand shrubs in public \nspaces.",
+        "page": 18,
+        "source": "Mildura-Community-Climate-Response-Plan-2024-2029.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Community Climate Response Plan 2024-2029 does explicitly allocate funding for climate action. The plan outlines various actions to be taken in response to climate change, each of which is associated with a specific investment. For instance, the plan includes actions such as organising self-funding events for community tree planting, promoting the need for alternative fuel sources in agriculture and transport, and encouraging residents to choose sustainable transportation options. Each of these actions is associated with a specific investment, denoted by dollar signs, indicating that funding has been allocated for these climate actions. However, the plan does not provide specific monetary values or percentages, making it difficult to assess the adequacy of the funding. The plan also does not detail the sources of the funding, whether it is from the local government budget, grants, or other sources.",
+      "source": "Mildura-b-a12345678910.json",
+      "lga": "Mildura",
+      "quote": {
+        "content": "Action\nDescription\nTime \nframe\nInvestment\nPartners\nPlant-a-tree \nfundraiser / \ncommunity \ngreening\nOrganise self-funding \nevents for the community \nto donate and plant trees \nand shrubs in public \nspaces.",
+        "page": 18,
+        "source": "Mildura-Community-Climate-Response-Plan-2024-2029.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Zero Net Carbon Action Plan 2020-2025 by the local government does explicitly allocate funding for climate action. The plan outlines several actions that involve financial investment. For instance, it mentions the establishment of a revolving sustainability fund as a budget line item to reinvest savings from major energy efficiency projects. This fund is a clear allocation of financial resources towards climate action. Additionally, the plan also discusses the need for upfront funding through loans or service agreements to fast track projects. This indicates a commitment to mobilize financial resources for the implementation of the plan. Furthermore, the plan also mentions the appointment of 1.8 Full-Time Equivalent (FTE) staff to support the delivery of the Zero Net Action Plan, which is another form of resource allocation.",
+      "source": "Monash-a-a12345678910.json",
+      "lga": "Monash",
+      "quote": {
+        "content": "ACTION Appoint 1.8 FTE staff to support the delivery of the Zero Net Action Plan and fast track Council’s approach to being carbon neutral by 2025. Investment in Zero Net Carbon Source upfront funding through loans or service agreements early on to fast track projects. ACTION Set up a revolving sustainability fund as a budget line item to reinvest savings from major energy efficiency projects.",
+        "page": 39,
+        "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The Zero Net Carbon Action Plan 2020-2025 by the local government does explicitly allocate funding for climate action. The plan outlines several strategies that involve financial investment. For instance, it mentions the establishment of a revolving sustainability fund as a budget line item to reinvest savings from major energy efficiency projects. This fund is a clear allocation of financial resources towards climate action. Additionally, the plan also discusses the need for upfront funding through loans or service agreements to fast track projects. This indicates a commitment to mobilize financial resources for climate action. Furthermore, the plan also mentions the appointment of 1.8 Full-Time Equivalent (FTE) staff to support the delivery of the Zero Net Action Plan, which is another form of resource allocation. Therefore, the plan does explicitly allocate funding and resources for climate action.",
+      "source": "Monash-b-a12345678910.json",
+      "lga": "Monash",
+      "quote": {
+        "content": "ACTION ACTION Appoint 1.8 FTE staff to support the delivery of the Zero Net Action Plan and fast track Council’s approach to being carbon neutral by 2025. Investment in Zero Net Carbon Source upfront funding through loans or service agreements early on to fast track projects. ACTION ACTION Set up a revolving sustainability fund as a budget line item to reinvest savings from major energy efficiency projects.",
+        "page": 39,
+        "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The plan does allocate resources for climate action, but it does not provide specific details about the amount of funding. The documents indicate that actions require resources to succeed and that the plan is underpinned by estimates. However, many tasks need further enquiry to be fully costed. The plan distinguishes between actions that can be delivered with existing or low budget and those that suggest a need for additional direct funding or human resources. The plan also mentions that resourcing information has been provided at the action level, allowing for flexibility as new data, technology, and funding sources arise. However, the documents do not provide specific figures or a detailed budget for the climate actions.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "This Plan is underpinned by estimates.",
+        "page": 4,
+        "source": "Mornington-2020-climate-emergency-response-part2.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The plan does allocate resources for climate action, but it does not provide explicit details about the amount of funding. The documents indicate that actions require resources to succeed and that the plan is underpinned by estimates. However, many tasks need further enquiry to be fully costed. The plan distinguishes between actions that can be delivered with existing or low budget and those that suggest a need for additional direct funding or human resources. The plan also mentions that resourcing information has been provided at the action level, allowing for flexibility as new data, technology, and funding sources arise. However, the documents do not provide specific figures or explicit details about the amount of funding allocated for climate action.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "This Plan is underpinned by estimates.",
+        "page": 4,
+        "source": "Mornington-2020-climate-emergency-response-part2.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines a strategy for adapting to climate change, and it includes a system for categorizing actions based on their resource requirements and timeframes. The policy uses a color-coded system to indicate the approximate direct costs to the Council for each action, with green representing costs less than $5k, orange representing costs between $5k and $10k, and red representing costs greater than $10k. The policy also acknowledges that the implementation of the actions listed within the strategy will require substantial investment of resources from the Council and potentially from external sources or partners. However, the policy does not provide specific details on the exact amounts of funding allocated for each action or the total amount of funding allocated for climate action.",
+      "source": "Moyne-a-a12345678910.json",
+      "lga": "Moyne",
+      "quote": {
+        "content": "State and/or Commonwealth governments). Implementation of the Actions listed within this strategy will unquestionably require substantial investment of resources from Council and, in may instances, external sources/partners (e.g.",
+        "page": 41,
+        "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's policy does explicitly allocate funding for climate action. The policy outlines a strategy for adapting to climate change, which includes a range of actions that are color-coded based on their estimated cost. The color codes are Green for actions costing less than $5k, Orange for those between $5k and $10k, and Red for those costing more than $10k. The policy acknowledges that implementing these actions will require substantial investment of resources from the Council and potentially external sources. However, it also notes that 79% of the 107 actions should cost less than $10k to implement, a figure considered reasonable for a project within a small rural shire such as Moyne. This suggests that the Council has made a commitment to funding these actions, even if the exact amounts and sources of funding are not specified in the policy.",
+      "source": "Moyne-b-a12345678910.json",
+      "lga": "Moyne",
+      "quote": {
+        "content": "State and/or Commonwealth governments). Implementation of the Actions listed within this strategy will unquestionably require substantial investment of resources from Council and, in may instances, external sources/partners (e.g.",
+        "page": 41,
+        "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Murrindindi Climate Change Action Plan does explicitly allocate funding for climate action. The plan outlines various actions related to climate change mitigation and adaptation, and for each action, it provides information on the estimated cost, time frame, funding source, and lead department. For instance, the plan includes actions such as supporting community groups to install renewable energy and boost energy and water efficiency, promoting community adoption of climate-adapted and low emissions technologies, and developing libraries and customer service centres as climate resilience hubs. The funding sources for these actions include allocated staff time (salaries), new initiatives (operational budget bid), and grant funding. This indicates that the local government has made a commitment to allocate resources, including funding, for the implementation of these climate actions.",
+      "source": "Murrindindi-a-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "These activities have been placed in a priority order determined by community voting in 2023. Provide direct resourcing, incentives, and support to households, community groups, businesses, farms and service providers for climate mitigation and adaptation activities.",
+        "page": 51,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The Murrindindi Climate Change Action Plan does explicitly allocate funding for climate action. The plan outlines various actions related to climate change mitigation and adaptation, and for each action, it provides details on the estimated cost, time frame, funding source, and lead department. For instance, the plan includes actions such as supporting community groups to install renewable energy and boost energy and water efficiency, promoting community adoption of climate-adapted and low emissions technologies, and developing libraries and customer service centres as climate resilience hubs. The funding sources for these actions include allocated staff time (salaries), new initiatives (operational budget bid), and grant funding. This indicates that the local government has made a financial commitment to implementing these climate actions.",
+      "source": "Murrindindi-b-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "MOCA 1 Support community groups who lease Council assets to install renewable energy and boost energy and water efficiency Staff time TBA Allocated staff time (salaries) Community development Provide direct resourcing, incentives, and support to households, community groups, businesses, farms and service providers for climate mitigation and adaptation activities. These activities have been placed in a priority order determined by community voting in 2023.",
+        "page": 51,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines several initiatives aimed at addressing climate change and improving resilience, and it provides specific monetary allocations for some of these initiatives. For instance, the policy mentions a budget of $3.629 million for implementing the Waste Management Strategy, which includes efforts to reduce waste to landfill and increase recycling. Additionally, the policy allocates $4.844 million for developing a cool spaces strategy and supporting community resilience to climate change. These allocations demonstrate a clear commitment to funding climate action. However, it is important to note that while the policy does allocate funding, it does not provide a comprehensive breakdown of how these funds will be used, which could limit the transparency and accountability of these initiatives.",
+      "source": "PortPhillip-a-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "$3.629 m... Support the community to lead, build and implement action plans responding to flooding, heatwaves and other climate impacts.",
+        "page": 48,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The local government's policy does indeed allocate funding for climate action. The policy outlines several initiatives related to climate change, such as exploring partnerships to protect against flooding and sea level rise, updating the Flood Preparedness Emergency Management and Heatwave Sub-plan, and implementing the Waste Management Strategy. Each of these initiatives requires resources, both human and financial, to be effectively implemented. The policy also mentions specific monetary amounts, such as $3.629 million for waste management and $4.844 million for developing a cool spaces strategy and other climate resilience measures. This indicates a clear allocation of funds towards climate action. However, the policy does not provide a comprehensive breakdown of how these funds will be distributed among the various initiatives or how their effectiveness will be measured.",
+      "source": "PortPhillip-b-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "Support $3.629 m \nExplore opportunities to support business waste \nmanagement needs and reduce waste to landfill \nthrough existing sustainability education and \nawareness programs. Introduce systems and behaviour change programs to \nincrease the diversion of waste generated in Council \nbuildings from landfill. Seek opportunities to integrate new waste-to-resource \nstreams into Council's infrastructure projects.",
+        "page": 49,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan does allocate funding for climate action, although the specific amounts and sources of this funding are not detailed in the provided documents. The plan outlines several initiatives that require funding, such as the implementation of programs to protect and enhance biodiversity, the upgrade and maintenance of critical water points, and the continuation of a tree planting program. The plan also mentions the need for investment in emergency management planning and response, which includes measures to deal with extreme weather events related to climate change. Furthermore, the plan indicates that the local government will advocate for additional funding for these initiatives. However, without more specific details on the amounts and sources of this funding, it is difficult to assess the adequacy of these financial resources for achieving the plan's climate action goals.",
+      "source": "Pyrenees-a-a12345678910.json",
+      "lga": "Pyrenees",
+      "quote": {
+        "content": "Increased tree planting in towns to provide cooler spaces \nContinue the tree planting program and commit \nfunds for ongoing tree maintenance \nMore extreme \nweather events \nIncreased risk due to \nnatural disaster \nInvestment in emergency management planning and \nresponse \nContinue to invest and advocate for funding for \nEmergency Management. t funding to implement programs to \nprotect and enhance biodiversity \nIncreased demand \nfor water \nUpgrade and maintain critical water points for emergency \nand for stock and domestic needs \nComplete Drought Communities program of works \nincluding the upgrade of critical water points. Work with water authorities to investigate and deliver \nimproved water supply systems for rural \ncommunities. Heatwave events \nHeatwave Plan: \nEducation and advise Places for relief (resource centres & \npools) \nContinue to review and implement Council’s \nHeatwave plan.",
+        "page": 1,
+        "source": "Pyrenees-2021-Climate-Change-Response-Mitigation-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan does allocate funding for climate action, although the specific amounts are not detailed in the provided documents. The plan outlines several initiatives that require funding, such as the implementation of programs to protect and enhance biodiversity, the upgrade and maintenance of critical water points, and the continuation of a tree planting program. The plan also mentions the need for investment in emergency management planning and response, which includes climate-related emergencies. Furthermore, the plan discusses the need for funding to improve water supply systems for rural communities and to continue the tree planting program. These initiatives all require financial resources, indicating that funding has been allocated for these climate actions. However, without specific figures or a detailed budget, it is not possible to evaluate the adequacy of the funding.",
+      "source": "Pyrenees-b-a12345678910.json",
+      "lga": "Pyrenees",
+      "quote": {
+        "content": "Heatwave events \nHeatwave Plan: \nEducation and advise Places for relief (resource centres & \npools) \nContinue to review and implement Council’s \nHeatwave plan. t funding to implement programs to \nprotect and enhance biodiversity \nIncreased demand \nfor water \nUpgrade and maintain critical water points for emergency \nand for stock and domestic needs \nComplete Drought Communities program of works \nincluding the upgrade of critical water points. Work with water authorities to investigate and deliver \nimproved water supply systems for rural \ncommunities.",
+        "page": 1,
+        "source": "Pyrenees-2021-Climate-Change-Response-Mitigation-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Climate Emergency Response Plan does explicitly allocate funding for climate action, although the specifics of the funding allocation are not detailed in the provided documents. The plan mentions that most of the action items will be subject to full or substantial grant funding. It also states that an Implementation Plan will be developed to detail resourcing implications, funding opportunities, project delivery plans, activity priorities, and governance. This indicates a clear intention to allocate resources, including funding, towards climate action. However, the exact amounts, sources, and allocation of this funding are not specified in the provided documents. The plan also mentions the development of key budget requirements, highlighting areas that can be met by Council, met by community, or require State or Federal Government assistance and funding. This suggests a multi-faceted approach to funding, involving various stakeholders.",
+      "source": "Queenscliffe-a-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "Post Council endorsement of the CERP, an Implementation Plan will be developed to detail resourcing implications, funding opportunities, project delivery plans, activity priorities and governance.",
+        "page": 41,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Climate Emergency Response Plan (CERP) does indicate that funding will be allocated for climate action, although it does not provide specific amounts or sources. The plan mentions that most of the action items will be subject to full or substantial grant funding. Additionally, the plan outlines the development of an Implementation Plan post Council endorsement of the CERP, which will detail resourcing implications, funding opportunities, project delivery plans, activity priorities, and governance. The Implementation Plan will also highlight areas that can be met by Council, met by community, or require State or Federal Government assistance and funding. However, the plan does not provide specific details on the amount of funding allocated or the exact sources of this funding.",
+      "source": "Queenscliffe-b-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "Post Council endorsement of the CERP, an Implementation Plan will be developed to detail resourcing implications, funding opportunities, project delivery plans, activity priorities and governance.",
+        "page": 41,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Stonnington 2021 Climate Emergency Action Plan does explicitly allocate funding for climate action. The plan outlines a series of actions, each with a specified timeframe, funding source (new or existing), and cost range. For instance, the plan includes actions such as 'Embed Council’s climate emergency commitment in the next iteration of its Council Plan and Municipal Public Health and Wellbeing Plan' and 'Incorporate climate emergency considerations into decision-making documentation'. These actions are marked as having 'existing' funding, indicating that resources have been allocated. However, the plan does not provide specific monetary values, instead using cost ranges such as '$ Low $0-$50k', '$$ Medium $50k-$250k', and '$$$ High >$250k'. This approach provides some level of financial commitment, but lacks precise detail on the exact amount of funding allocated to each action.",
+      "source": "Stonnington-a-a12345678910.json",
+      "lga": "Stonnington"
+    },
+    {
+      "answer": "The Climate Emergency Action Plan 2021-2024 of the local government does explicitly allocate funding for climate action. The plan outlines various actions related to climate change, each with a specified timeframe, funding source (new or existing), and cost range. For instance, the plan includes actions such as 'Embed Council’s climate emergency commitment in the next iteration of its Council Plan and Municipal Public Health and Wellbeing Plan' and 'Incorporate climate emergency considerations into decision-making documentation'. These actions are marked as having 'existing' funding, indicating that resources have been allocated. However, the documents do not provide specific monetary values or percentages of the budget allocated to these actions. The cost ranges are given in broad categories such as low ($0-$50k), medium ($50k-$250k), and high (>$250k). Therefore, while the plan does allocate funding for climate action, the exact amounts are not specified.",
+      "source": "Stonnington-b-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "» Embed Council’s climate emergency commitment in the next iteration of its Council Plan and Municipal Public Health and Wellbeing Plan, including strategic priorities and actions.",
+        "page": 44,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The Strathbogie Shire Council Climate Change Action Plan does explicitly allocate funding for climate action. The plan outlines a series of actions, each associated with a cost symbol, indicating that resources have been allocated for their implementation. For instance, the plan includes actions such as instituting a revolving energy fund for future projects, supporting projects and advocacy through the Goulburn Murray Climate Alliance, and developing fossil fuel divestment policy options. Each of these actions is associated with a cost symbol, suggesting that funding has been allocated. However, the documents do not provide specific monetary values or detailed budgetary information. Therefore, while it is clear that the plan does allocate resources for climate action, the exact amount of funding and the specifics of its distribution are not explicitly stated.",
+      "source": "Strathbogie-a-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "26 \nStrathbogie Shire Council \nClimate Change Action Plan \nDoc ID#723071 \n48 \nInstitute a revolving energy \nfund to fund future projects \nCorporate \n-Finance \nAdvocating \nfor Change \n \n$$ \n49 \nContinue to support projects \nand advocacy through the \nGoulburn Murray Climate \nAlliance \nCorporate \n-Environment \nand Waste \nAdvocating \nfor Change \n \n$ \n50 \nDevelop fossil fuel \ndivestment policy options \nfor the consideration of \nCouncil and consider \ncommunity submissions \nregarding divestment when \nupdating Council’s \ninvestment policy.",
+        "page": 25,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Strathbogie Shire Council Climate Change Action Plan does explicitly allocate funding for climate action. The plan outlines a series of actions, each associated with a cost symbol, indicating that resources have been allocated for their implementation. For instance, the plan includes actions such as instituting a revolving energy fund for future projects, supporting projects and advocacy through the Goulburn Murray Climate Alliance, and developing fossil fuel divestment policy options. Each of these actions is associated with a cost symbol, suggesting that funding has been allocated. However, the documents do not provide specific monetary values or detailed budgetary information. Therefore, while it is clear that the plan acknowledges the need for resource allocation for climate action, the exact amount or percentage of the budget allocated for this purpose is not specified.",
+      "source": "Strathbogie-b-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "26 \nStrathbogie Shire Council \nClimate Change Action Plan \nDoc ID#723071 \n48 \nInstitute a revolving energy \nfund to fund future projects \nCorporate \n-Finance \nAdvocating \nfor Change \n \n$$ \n49 \nContinue to support projects \nand advocacy through the \nGoulburn Murray Climate \nAlliance \nCorporate \n-Environment \nand Waste \nAdvocating \nfor Change \n \n$ \n50 \nDevelop fossil fuel \ndivestment policy options \nfor the consideration of \nCouncil and consider \ncommunity submissions \nregarding divestment when \nupdating Council’s \ninvestment policy.",
+        "page": 25,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Climate Emergency Response Plan 2021-2031 does explicitly allocate funding for climate action. The plan outlines a variety of actions, each with a designated lead, supporting teams, priority level, and resources or funding. The resources or funding column often mentions 'existing budget', 'external funding', 'Towards Environmental Leadership program', and 'subject to budget bid', indicating that there are funds allocated for these actions. However, the specifics of the budget allocation, such as the exact amounts or percentages, are not detailed in the provided context. It is also worth noting that some actions are subject to future budget bids, suggesting that additional funding may be sought in the future to support these actions.",
+      "source": "SurfCoast-a-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The Climate Emergency Response Plan 2021-2031 does explicitly allocate funding for climate action. The plan outlines a variety of actions, each with a designated lead, supporting teams, priority level, and resources or funding. The resources or funding column often mentions 'existing budget', 'external funding', 'Towards Environmental Leadership program', or 'subject to budget bid', indicating that there is a financial commitment towards these actions. However, the specifics of the budget allocation are not detailed in the provided context. It is also important to note that some actions are subject to future budget bids, suggesting that the allocation of funds may be contingent on future decisions or circumstances.",
+      "source": "SurfCoast-b-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The local government policy does allocate resources for climate action, but it does not explicitly mention the allocation of funding. The policy outlines several actions related to climate change, such as updating emergency management plans, reviewing council policies for climate adaptation opportunities, and investigating the long-term costs of climate change. For each of these actions, the policy states that they will be resourced 'Within existing resources'. This suggests that the local government has allocated resources, potentially including funding, for these actions. However, the policy does not provide specific details about the amount of funding allocated or the source of this funding. Therefore, while the policy does indicate a commitment to resourcing climate action, it does not provide clear evidence of explicit funding allocation.",
+      "source": "Wellington-a-a12345678910.json",
+      "lga": "Wellington"
+    },
+    {
+      "answer": "The local government's policy does explicitly allocate resources for climate action, although it does not specify the exact amount of funding. The policy outlines several actions related to climate change, such as updating emergency management plans, reviewing council policies for climate adaptation opportunities, and investigating the long-term costs of climate change. For each of these actions, the policy states that they will be resourced 'Within existing resources'. This suggests that the local government has allocated some portion of its existing resources to these climate actions. However, the policy does not provide specific details about the amount of funding allocated to each action, which could limit the effectiveness and accountability of these measures.",
+      "source": "Wellington-b-a12345678910.json",
+      "lga": "Wellington"
+    },
+    {
+      "answer": "The Climate Response Plan 2023-2026 indeed allocates funding for climate action. The plan outlines the allocation of additional staff resources and operational budget to implement the actions outlined in the plan. For instance, an annual budget of $21,465 is identified for Action 1a to make the current casual Sustainability Project Officer position permanent. The plan also includes a new budget of $10,000 per year for a climate response communication and training program for staff and councillors. Furthermore, the plan proposes a new staff resource and a consultant budget of $50,000 for developing a business case to transition Council buildings and assets off gas to electric. These allocations demonstrate a clear commitment to funding climate action.",
+      "source": "Whitehorse-a-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "*$21,465 per annum is identified against Action 1a as additional operational budget is required to make the current casual Sustainability Project Officer position permanent.",
+        "page": 11,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Climate Response Plan 2023-2026 indeed allocates funding for climate action. The plan outlines the allocation of both staff resources and operational budget to implement the actions outlined in the plan. For instance, an additional operational budget of $21,465 per annum is identified for Action 1a to make the current casual Sustainability Project Officer position permanent. The plan also includes a new budget of $10,000 per year for a climate response communication and training program for staff and councillors. Furthermore, the plan proposes a new staff resource and a consultant budget of $15,000 for an opportunities assessment for increasing the uptake of electric vehicles in the community. These allocations demonstrate a clear commitment to funding climate action.",
+      "source": "Whitehorse-b-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "*$21,465 per annum is identified against Action 1a as additional operational budget is required to make the current casual Sustainability Project Officer position permanent.",
+        "page": 11,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's climate change adaptation plan does allocate funding for climate action, although it does not provide specific details on the amount of funding or the exact sources. The plan mentions an increase in funding opportunities at both federal and state levels for climate action. For instance, Sustainability Victoria is noted as having provided specific funding for local governments. This suggests that the local government is actively seeking and utilizing external funding opportunities to support its climate action initiatives. However, the plan does not provide a detailed breakdown of the funding allocation, which would be necessary to fully assess the adequacy and effectiveness of the funding strategy.",
+      "source": "Wodonga-a-a12345678910.json",
+      "lga": "Wodonga",
+      "quote": {
+        "content": "For example, Sustainability Victoria has provided specific funding for local governments. There has been an increase to funding opportunities at both federal and state levels for climate action.",
+        "page": 24,
+        "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The Wodonga 2022 Climate Change Adaptation Plan does explicitly allocate funding for climate action. The plan mentions that there has been an increase in funding opportunities at both federal and state levels for climate action. For instance, Sustainability Victoria has provided specific funding for local governments. This indicates that the local government is aware of and plans to utilize external funding opportunities for climate action. However, the plan does not provide specific details about the amount of funding allocated or the specific projects that will be funded. It is also unclear whether the local government itself is allocating funds for climate action, or if it is primarily relying on external funding opportunities.",
+      "source": "Wodonga-b-a12345678910.json",
+      "lga": "Wodonga",
+      "quote": {
+        "content": "For example, \nSustainability Victoria has \nprovided specific funding for \nlocal governments. There has been an increase to \nfunding opportunities at both \nfederal and state levels for \nclimate action.",
+        "page": 24,
+        "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government policy does allocate funding for climate action, although the specifics of the funding are not clearly detailed. The policy mentions 'Existing Recurrent' as a source of funding for several actions related to climate change adaptation. For instance, the policy outlines that staff time, a critical resource in policy implementation, is included in the costs and is funded through 'Existing Recurrent' funding. This suggests that there is an ongoing, recurrent budget allocation for these climate actions. However, the policy does not provide specific figures or a detailed breakdown of the funding allocation. Therefore, while it is clear that there is some level of financial commitment towards climate action, the extent and adequacy of this funding cannot be determined based on the provided information.",
+      "source": "Wyndham-a-a12345678910.json",
+      "lga": "Wyndham"
+    },
+    {
+      "answer": "The local government policy does allocate funding for climate action, although the specifics of the funding are not clearly detailed. The policy mentions 'Existing Recurrent' as a source of funding for several actions related to climate change adaptation. For instance, the policy outlines that staff time, a critical resource in policy implementation, is included in the costs and is funded through 'Existing Recurrent' funds. This is mentioned in relation to integrating climate considerations into policy and strategy development processes, monitoring climate change and adaptation actions effectiveness, and undertaking regular knowledge sharing sessions with staff. However, the policy does not provide specific figures or a detailed breakdown of the funding allocation. Therefore, while it is clear that some funding has been allocated for climate action, the lack of detail makes it difficult to assess the adequacy of this funding.",
+      "source": "Wyndham-b-a12345678910.json",
+      "lga": "Wyndham"
+    },
+    {
+      "answer": "The Yarra Climate Emergency Plan 2020-2024 does explicitly allocate funding for climate action. The plan outlines a number of actions that are to be funded, either through existing resources or through future budget processes. For instance, the plan mentions the dedication of a substantial pool of community grant funds to accelerate community-led climate action. It also mentions the allocation of resources for community programs to accelerate climate action, including a 'community connectors' program and workshops to increase people's knowledge of the climate crisis. However, it is important to note that the plan also mentions that the resourcing for these actions has been revised in light of budget constraints due to the COVID-19 pandemic.",
+      "source": "Yarra-a-a12345678910.json",
+      "lga": "Yarra"
+    },
+    {
+      "answer": "The Yarra Climate Emergency Plan 2020-2024 does explicitly allocate funding for climate action. The plan outlines a number of actions to be taken in response to the climate emergency, many of which are associated with specific funding commitments. For instance, the plan commits to dedicating a substantial pool of community grant funds to accelerate community-led climate action. It also mentions the allocation of funds for the implementation of new initiatives and the expansion of existing ones. However, it should be noted that the plan also indicates that some actions will be delivered within existing resources or with a modest increase in resources, and that full costed project proposals and schedules will be prepared at a later time and be subject to future budget approval processes. Therefore, while the plan does allocate funding for climate action, the specifics of this funding are not always clearly defined.",
+      "source": "Yarra-b-a12345678910.json",
+      "lga": "Yarra"
+    },
+    {
+      "answer": "The local government's plan does indeed allocate funding for climate action. The documents outline several actions that have associated costs, indicating that funds have been allocated for these specific climate actions. For instance, the establishment of a Resilient Communities Program to help local communities invest in climate resilience measures has a cost of $250,000 per year. Similarly, the development and coordination of a comprehensive Sustainable Business Program to support the transition to a zero-carbon and circular economy has a cost of $100,000 per year. Additionally, the plan also mentions the administration of a dedicated Climate Action Fund to upgrade facilities and equipment, improving energy and water efficiency, building climate resilience, and continuing the shift to renewable resources. This demonstrates a clear allocation of funding for climate action.",
+      "source": "YarraRanges-a-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "Cost: $250,000/year*\nAction 7.2\nDevelop and coordinate a comprehensive \nSustainable Business Program to actively \nsupport the transition to a vibrant, zero-\ncarbon and circular economy.",
+        "page": 11,
+        "source": "YarraRanges-2020-liveable-climate-action-plan.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed allocate funding for climate action. The documents outline several actions that have associated costs, indicating a clear allocation of funds towards climate action. For instance, the establishment of a Resilient Communities Program is budgeted at $250,000 per year. Similarly, the development and coordination of a comprehensive Sustainable Business Program is allocated $100,000 per year. Additionally, a dedicated Climate Action Fund is mentioned, which is aimed at upgrading facilities and equipment to improve energy and water efficiency, build climate resilience, and continue the shift to renewable resources. This fund is also budgeted at $250,000 per year. These examples demonstrate a clear commitment to mobilising resources for climate action.",
+      "source": "YarraRanges-b-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "Cost: $250,000/year*\nAction 7.2\nDevelop and coordinate a comprehensive \nSustainable Business Program to actively \nsupport the transition to a vibrant, zero-\ncarbon and circular economy.",
+        "page": 11,
+        "source": "YarraRanges-2020-liveable-climate-action-plan.pdf",
+        "search_score": 0.94
+      }
+    }
+  ]
+}

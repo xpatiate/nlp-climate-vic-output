@@ -1,0 +1,280 @@
+{
+  "settings": {
+    "source_files": [
+      "Mildura-Community-Climate-Response-Plan-2024-2029.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T20:23:23.294690",
+    "lga": "Mildura"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy, titled 'Community Climate Response Plan 2024-2029', clearly indicates that climate action is the core purpose or goal. The policy outlines the local government's commitment to understanding the current climate situation and suggesting practical steps to reduce environmental impact while adapting to climate change. It acknowledges the adverse health impacts and displacement caused by worsening weather conditions and climate change. The policy also outlines specific actions in various areas such as health, farming, education, urban environment, and waste management, all aimed at mitigating the effects of climate change and promoting sustainability. These actions include promoting climate/heat health awareness, advocating for alternative fuel sources, offering quality training for educators on climate change, promoting sustainable transportation, and providing education on waste impact and reduction strategies. Therefore, it is evident that the core purpose of the policy is climate action.",
+          "quote": {
+            "content": "Our aim is to provide a clear understanding of the current climate situation and suggest practical steps to reduce our environmental impact while adapting to climate change.",
+            "page": 4,
+            "source": "Mildura-Community-Climate-Response-Plan-2024-2029.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It emphasizes the current climate situation and the necessity to reduce environmental impact while adapting to climate change. The document highlights the adverse health impacts and pressure on health services due to worsening weather conditions. It also mentions the displacement of people due to climate change-induced extreme weather events. The document further underscores the importance of education and engagement in reducing emissions and making the community sustainable. It also presents various opportunities for taking action against climate change and identifies critical actions required to address it. The document also discusses the role of urban environment and farming in climate change and the need for actions and strategies in these areas.",
+          "quote": {
+            "content": "Worsening weather conditions increase the risk of adverse health impacts and put immense pressure on existing health services. Our aim is to provide a clear understanding of the current climate situation and suggest practical steps to reduce our environmental impact while adapting to climate change.",
+            "page": 4,
+            "source": "Mildura-Community-Climate-Response-Plan-2024-2029.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. While the policy outlines a clear understanding of the current climate situation and suggests practical steps to reduce environmental impact, it does not express a sense of urgency or immediacy in its language. The policy does highlight the importance of taking action against climate change and has identified six priority areas for action, including health, waste, farming, education, natural environment, and urban environment. It also mentions the implementation of actions led by a group and supported by partners, with progress reviewed annually and the plan revised every four years. However, these details do not convey a sense of urgency or a need for rapid action. The policy appears to be more focused on long-term, sustained efforts to address climate change rather than immediate, urgent actions."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a clear timeline for the implementation of its climate response plan, categorizing actions into short-term (1-2 years), medium-term (2-4 years), and long-term (5 years+). This indicates a sense of urgency and a structured approach to addressing climate change. The document also mentions that the progress of implementing actions will be reviewed on an annual basis, and the plan will be revised every four years to ensure its relevance and effectiveness. This suggests a commitment to ongoing evaluation and adaptation of the plan in response to changing circumstances and needs. However, while the document provides these timeframes, it does not provide specific deadlines for each action, which could potentially impact the urgency and accountability of the plan's implementation."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the Mildura Rural City Council's Community Climate Response Plan for 2024-2029, which includes a declaration of a climate emergency and identifies six priority areas for action: Health, Waste, Farming, Education, Natural Environment, and Urban Environment. The plan provides guidance and information to stakeholders about the actions needed to address climate change. However, it does not explicitly state that these actions or the climate emergency response as a whole should take precedence over other policies. The documents emphasize the importance of addressing climate change and outline various actions to be taken in response, but they do not provide a clear hierarchy of policy priorities."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that all council activities must be aligned with the climate policy. The documents outline the Mildura Rural City Council's Community Climate Response Plan for 2024-2029, which includes a declaration of a climate emergency and a commitment to reduce emissions and develop strategies to mitigate and adapt to the impacts of climate change. The plan identifies six priority areas: Health, Waste, Farming, Education, Natural Environment, and Urban Environment. It also outlines various actions to be taken in these areas, such as promoting sustainable transportation and organizing climate/heat health awareness events. However, there is no explicit requirement stated that all council activities must align with this climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Community Climate Response Plan 2024-2029 does explicitly allocate funding for climate action. The plan outlines various actions to be taken in response to climate change, each of which is associated with a specific investment. For instance, the plan includes actions such as organising self-funding events for community tree planting, promoting the need for alternative fuel sources in agriculture and transport, and encouraging residents to choose sustainable transportation options. Each of these actions is associated with a specific investment, denoted by dollar signs, indicating that funding has been allocated for these climate actions. However, the plan does not provide specific monetary values or percentages, making it difficult to assess the adequacy of the funding. The plan also does not detail the sources of the funding, whether it is from the local government budget, grants, or other sources.",
+          "quote": {
+            "content": "Action\nDescription\nTime \nframe\nInvestment\nPartners\nPlant-a-tree \nfundraiser / \ncommunity \ngreening\nOrganise self-funding \nevents for the community \nto donate and plant trees \nand shrubs in public \nspaces.",
+            "page": 18,
+            "source": "Mildura-Community-Climate-Response-Plan-2024-2029.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents from the 'Community Climate Response Plan 2024-2029' do not explicitly allocate staff or other non-monetary institutional resources to climate action. The plan outlines various actions related to climate change, such as organising self-funding events for tree planting, promoting the need for alternative fuel sources, encouraging sustainable transportation, and offering quality training for educators. However, these actions are described in terms of partnerships with community groups, local businesses, and government entities, rather than specific allocation of staff or institutional resources. The plan also mentions potential investments, but these are represented by dollar signs, without clear indication of what these investments entail in terms of staff or institutional resources. Therefore, based on the provided context, the plan does not explicitly allocate non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The Community Climate Response Plan 2024-2029 indeed empowers and educates the community to rally, support, and work together to deliver climate action. The policy outlines a comprehensive approach to climate change, focusing on education, action, and community involvement. It emphasizes the importance of high-quality education across the region to equip the community with the knowledge and skills needed to create a greener future. The policy also outlines specific actions such as professional development for educators, promoting sustainable transportation, and community waste education. Furthermore, the policy encourages community involvement in addressing climate change, such as through tree-planting fundraisers and community-supported agriculture. The policy also emphasizes the importance of monitoring and reporting on the effectiveness of the Climate Response Plan, indicating a commitment to ongoing improvement and adaptation.",
+          "quote": {
+            "content": "By offering high-quality education across the region, we can help people make smart decisions and bring about change.",
+            "page": 17,
+            "source": "Mildura-Community-Climate-Response-Plan-2024-2029.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Community Climate Response Plan 2024-2029 does include specific actions for the mitigation of greenhouse gas emissions, both through technological solutions and behaviour change. The plan outlines a variety of strategies across different sectors, including health, urban environment, education, natural environment, and farming. Technological solutions are evident in the urban environment sector, where the plan includes actions such as installing electric vehicle charging stations and using energy-saving streetlights. Behaviour change is encouraged in several areas, such as promoting sustainable transportation and organising community greening events. The plan also emphasizes the importance of education and engagement in reducing emissions impacts and making the community sustainable for the future. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions.",
+          "quote": {
+            "content": "These might include better public transport and more parks. The Council has taken steps like planting trees, installing electric vehicle charging stations, and using streetlights that save energy to lower emissions. But air pollution and extreme weather still happen, so we need more actions and strategies to deal with energy use, the economy, and environmental issues.",
+            "page": 19,
+            "source": "Mildura-Community-Climate-Response-Plan-2024-2029.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Community Climate Response Plan 2024-2029 indeed includes specific actions for climate adaptation and resilience. The plan outlines actions in various sectors, including farming, health, and the natural environment, which are all crucial areas for climate adaptation. For instance, in the farming sector, the plan advocates for the promotion of alternative fuel sources and the investigation of opportunities for transitioning in agriculture and transport. This action is aimed at reducing greenhouse gas emissions, which is a key aspect of climate adaptation. In the health sector, the plan proposes organizing climate/heat health awareness events, which is a resilience measure to protect the community from the health impacts of climate change. In the natural environment sector, the plan suggests organizing self-funding events for the community to donate and plant trees and shrubs in public spaces, which is a climate adaptation measure aimed at enhancing the local ecosystem's resilience to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The document outlines a variety of actions and strategies to address climate change, including promoting sustainable transportation, organizing climate/heat health awareness events, offering professional development for educators, and organizing community greening events. However, it does not provide well-sourced evidence to justify these climate targets and actions. The document does not cite any scientific studies, data, or other forms of evidence to support the effectiveness of these actions in mitigating climate change. It also does not provide any specific targets or metrics for measuring the success of these actions. Therefore, while the document outlines a comprehensive plan for addressing climate change, it does not meet the high standard of evidence required to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The Community Climate Response Plan 2024-2029 does outline various actions to address climate change, such as promoting sustainable transportation, organizing climate/heat health awareness events, and providing community waste education. However, the plan does not provide specific measurable criteria to evaluate the success of these actions. While the plan does mention that the 'Mildura Rural City Council’s Annual Environmental Sustainability report will include a report on this plan', it does not detail what metrics or indicators will be used to measure the effectiveness of the actions. Therefore, it is unclear how the local government intends to assess whether the actions are achieving their intended outcomes. The lack of specific measurable criteria makes it difficult to track progress, evaluate the effectiveness of actions, and hold the local government accountable for their climate response efforts."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly describe plans to conduct research in the local community to inform climate actions. The Community Climate Response Plan 2024-2029 outlines various actions and strategies to address climate change, including education and engagement, promoting sustainable transportation, organizing tree-planting fundraisers, and providing professional development for educators. However, these actions appear to be based on general climate change mitigation strategies rather than specific research conducted within the local community. The plan does mention the importance of monitoring the impact of the actions within the plan and determining what is working and what is not, but this is more of an evaluation process rather than a research initiative. Therefore, based on the provided documents, it cannot be affirmed that the local government plans to conduct research in the local community to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The Community Climate Response Plan 2024-2029 does show evidence of innovation and policy experimentation in climate action. The policy outlines a variety of actions across different sectors, including farming, urban environment, and natural environment, indicating a comprehensive and multi-faceted approach to climate action. For instance, in the farming sector, the policy advocates for the promotion of alternative fuel sources, such as green hydrogen, and seeks funding for transitioning in agriculture and transport. This suggests an innovative approach to reducing carbon emissions in these sectors. In the urban environment, the policy encourages residents to choose sustainable transportation options, such as public transport, biking, electric vehicles, or walking for short trips. This is an example of policy experimentation, as it involves changing individual behaviors and societal norms. Furthermore, the policy includes a 'Plant-a-tree fundraiser/community greening' initiative, which is a creative and community-oriented approach to enhancing the natural environment."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The provided documents from the 'Community Climate Response Plan 2024-2029' do not explicitly show an intent to advocate upward to state and national governments to support climate action. The documents outline various actions and strategies related to climate change, such as promoting alternative fuel sources, organizing climate/heat health awareness events, and encouraging sustainable transportation. However, these actions seem to be primarily local in scope, involving partnerships with local entities such as farmers' associations, local health networks, and local government. There is no explicit mention of advocacy towards state and national governments. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention various partnerships and collaborations, such as with local businesses, energy companies, community groups, and schools, there is no specific mention of building capacity across the council, local communities, and neighbouring councils. The documents focus more on specific actions and strategies to address climate change, such as promoting green spaces, organising climate awareness events, advocating for affordable eco-friendly solutions, and promoting sustainable transportation. However, the emphasis is on the actions themselves rather than on building capacity for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document indeed refers to specific regional associations, alliances, or other partnerships related to climate. It outlines a variety of actions that involve collaboration with different partners. For instance, the local government plans to organize annual climate/heat health awareness events in collaboration with local agencies. They also aim to provide information sessions on coping with extreme weather conditions, which will involve local schools and community centres. Furthermore, the local government intends to advocate for affordable eco-friendly solutions, such as heating/cooling solutions and solar power, in partnership with energy companies. In the farming sector, the local government plans to promote the need for alternative fuel sources and pursue funding for transitioning in agriculture and transport, involving Farmers’ Associations and energy companies. These partnerships indicate a coordinated effort to address climate change at a local level."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do mention the importance of education, community engagement, and collective action in addressing climate change, they do not specifically address how climate change affects vulnerable communities or how the proposed actions would address equity and social justice issues. The documents focus more on general community response plans, such as promoting sustainable transportation, organizing plant-a-tree fundraisers, and offering professional development for educators. Therefore, without explicit mention or discussion of the impact of climate change on vulnerable communities, the question cannot be answered positively based on the provided context."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does outline various actions related to climate change, such as organising climate/heat health awareness events, providing information sessions on coping with extreme weather conditions, advocating for affordable eco-friendly solutions, and promoting sustainable transportation, it does not specifically address the equitable distribution of these benefits and opportunities. The policy does mention working with local residents, businesses, and community groups, and it does aim to support residents that are less able to respond/adapt to climate change. However, these references are not sufficient to conclude that the policy explicitly discusses how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 9,
+    "num_questions": 20,
+    "attribute_score": 55.8
+  }
+}

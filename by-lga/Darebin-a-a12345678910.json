@@ -1,0 +1,353 @@
+{
+  "settings": {
+    "source_files": [
+      "Darebin-2018-ClimateEmergencyPlan.pdf",
+      "Darebin-Draft_Climate_Emergency_Plan_2024-2030.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T14:25:28.190185",
+    "lga": "Darebin"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Darebin Climate Emergency Plan 2017-2022, clearly identifies climate action as its core purpose. The policy outlines a comprehensive plan to address climate change, with a focus on local, ground-up action. It acknowledges the urgency of the climate emergency and the need for swift, ambitious action. The policy outlines several key directions to achieve its goals, including climate emergency mobilisation and leadership, energy efficiency, renewable energy and fuel switching, zero emissions transport, consumption and waste minimisation, fossil fuel divestment, adaptation and resilience, engaging the community, and establishing Climate Emergency Darebin. These directions indicate a comprehensive approach to climate action, encompassing mitigation, adaptation, and community engagement. The policy also recognises the need for climate justice, ensuring that climate action does not exacerbate social inequality. Therefore, it is evident that climate action is the core purpose of this policy.",
+          "quote": {
+            "content": "Engaging the community 9. Climate Emergency mobilisation and leadership 2. Energy efficiency 3. Renewable energy and fuel switching 4. Zero emissions transport 5. Fossil fuel divestment 7. Adaptation and resilience 8.",
+            "page": 33,
+            "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, referring to it as a 'climate emergency' and emphasizing the need for immediate and comprehensive action. The documents underscore the insufficiency of past efforts by national and state governments, and the necessity for local, ground-up initiatives. They also acknowledge the need to prepare for the effects of climate change, such as increased frequency of heatwaves and floods, and the societal transitions required to support a safe climate. The documents further emphasize the importance of increasing climate change knowledge and action among residents and businesses, and supporting community groups working on climate action. They also outline specific objectives and actions to be taken, demonstrating a commitment to addressing the issue.",
+          "quote": {
+            "content": "We must aim to do as much as we possibly can, as quickly as possible and bring all levels of government and our community with us. The onset of the global climate emergency together with many years of insufficient action by the national and state governments are making targets difficult to achieve and making local ground-up action more important.",
+            "page": 29,
+            "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. The local government policy recognizes the state of climate emergency and the need for immediate action. The policy outlines the unprecedented rate of global warming and its impacts, such as melting polar ice caps, rising sea levels, and threats to food and water security. It emphasizes that action has been too slow and that emergency action is now the only rational response. The policy also acknowledges the scale and speed of transformation needed to change energy markets, economy, legislation, and behavior to eliminate greenhouse gas emissions and draw down excess CO2. The policy further highlights the need for a broad societal consensus to adopt an emergency response to climate change. The policy also outlines specific objectives and actions to address the climate emergency, including building local engagement, partnering with other organizations, supporting innovation, and demonstrating leadership.",
+          "quote": {
+            "content": "Action has been too slow, because economics has trumped physics.",
+            "page": 35,
+            "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for their intended actions on climate change. The Darebin Climate Emergency Plan outlines a five-year plan from 2017 to 2022, with a major review and evaluation of the plan commencing in 2021. The plan also mentions that it may be updated whenever necessary within this period. The document also provides specific timeframes for various actions, such as maintaining staff awareness programs on climate change from 2017-2022, establishing Climate Emergency Darebin in 2017, and undertaking an organisational review of all Council programs and policies to ensure alignment with Council’s Climate Emergency commitment from 2018-2021. These specific timeframes indicate a sense of urgency in the local government's actions towards addressing climate change.",
+          "quote": {
+            "content": "A major review and evaluation of the plan will commence in 2021 and the plan for the next period will be established. The Climate Emergency Plan covers the next five years, from 2017 to 2022.",
+            "page": 105,
+            "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government views the climate emergency response as a high priority. The policy outlines a comprehensive plan to address climate change, including specific actions, objectives, and strategies. The documents repeatedly emphasize the urgency of the climate emergency and the need for immediate and substantial action. The policy also outlines a hierarchy of actions, with the avoidance and reduction of energy use as the top priority, followed by increasing energy efficiency, generating renewable energy, and other steps. This hierarchy suggests that the climate emergency response is prioritized over other potential policies or actions. The policy also includes plans for regular reviews and updates, indicating a commitment to ongoing prioritization of the climate emergency response.",
+          "quote": {
+            "content": "Action has been too slow, because economics has trumped physics.",
+            "page": 35,
+            "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents clearly state that all council activities must be aligned with climate policy. The council has outlined a comprehensive plan to address climate change, which includes a review of all council programs and policies to ensure alignment with the council's Climate Emergency commitment. This is evident in the council's commitment to lead by example, ensuring that climate action is embedded throughout the council's operations and services. The council has also outlined specific actions to be undertaken to reach their goals, which are organized under nine key directions. These directions include energy efficiency, renewable energy, zero emissions transport, waste minimization, fossil fuel divestment, adaptation and resilience, engaging the community, and climate emergency mobilization and leadership. The council's commitment to align all activities with climate policy is further emphasized in their climate emergency principles, which guide their thinking, frameworks, and policy reviews.",
+          "quote": {
+            "content": "Undertake an organisational review of all Council programs and policies to ensure alignment with Council’s Climate Emergency commitment.",
+            "page": 37,
+            "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+            "search_score": 0.94
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The plan does explicitly allocate funding for climate action. The documents indicate that the local government has set aside a budget for the implementation of the Climate Emergency plan. The budget allocation is $427,000, which includes $127,000 for direct programs and $300,000 for the purchase of GreenPower. Additionally, the plan outlines further resourcing requirements, including $20 million for the expansion of the Solar Saver program. This funding is divided into two $10 million programs proposed for consideration in the 2018-19 and 2020-21 budgets. The documents also mention that these funds would be recouped via the special rates scheme, but there would be a cost to the Darebin budget of borrowing charges. Therefore, it is clear that the plan has made explicit provisions for funding climate action.",
+          "quote": {
+            "content": "Additional resourcing requirements include: $20 million for the expansion of the Solar Saver program, with this divided into two $10 million programs proposed for consideration in the 2018-19 and 2020-21 budgets.",
+            "page": 109,
+            "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Darebin Climate Emergency Plan does allocate non-monetary institutional resources to climate action. The plan outlines the allocation of staff resources for the implementation of various climate action programs. For instance, the plan mentions the recruitment and administration of special schemes in the preceding year of the Solar Saver program. This indicates that staff resources are being allocated for the implementation of this program. Additionally, the plan also mentions the use of internal communications such as e-newsletters and events to educate staff on climate change policies relevant to their work. This suggests that staff resources are being used to increase awareness and knowledge about climate change within the organization. Therefore, it can be concluded that the plan does allocate non-monetary institutional resources, specifically staff resources, to climate action.",
+          "quote": {
+            "content": "Recruitment and special scheme administration would be undertaken in the preceding year.",
+            "page": 111,
+            "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy is designed to actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a variety of strategies and actions aimed at engaging the community in climate change awareness and action. These include providing climate change information through various communication channels, facilitating community participation in council and community activities related to environmental sustainability, and supporting community groups to take action on the climate emergency. The policy also emphasizes the importance of community education on climate change and energy efficiency, and the need for community involvement in local emissions-elimination projects and advocacy for state and federal government action on the climate emergency. The policy's objectives and actions are designed to increase climate change knowledge and action among residents and businesses, and to support community groups working on climate action to be productive and work well together."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines nine key directions, which include energy efficiency, renewable energy and fuel switching, zero emissions transport, and consumption and waste minimisation. These directions indicate a combination of technological solutions and behaviour change. For instance, the plan mentions the use of new technologies and renewable energies, making older equipment more energy efficient, and changing management practices or consumer behaviour. The plan also highlights the development of a flagship Climate Emergency campaign and program, which suggests efforts towards behaviour change. Furthermore, the plan discusses the importance of community engagement in eliminating Darebin’s greenhouse gas emissions and contributing to the global effort on climate change. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions, involving both technological solutions and behaviour change.",
+          "quote": {
+            "content": "Engaging the community 9. Climate Emergency mobilisation and leadership 2. Energy efficiency 3. Renewable energy and fuel switching 4. Zero emissions transport 5. Fossil fuel divestment 7. Adaptation and resilience 8.",
+            "page": 33,
+            "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines measures to protect Council’s assets and minimize disruption to the local economy due to extreme weather events, storms, and floods. It also emphasizes the need to support the community in preparing for and adapting to the new conditions that a changing climate will bring. The plan includes actions such as delivering community education and capacity-building campaigns on energy literacy and efficiency, electrification, food resilience, and water saving. It also plans to develop a scoping study on food resilience and security in the context of a changing climate. Furthermore, the plan aims to work with community service organizations to build capacity, knowledge, and drive community initiatives which increase connectedness and climate resilience. The plan also outlines the development of water systems to support a resilient city and the implementation of community-based local food systems which reduce reliance on the carbon-intensive global food system.",
+          "quote": {
+            "content": "This includes roads and associated infrastructure, power lines, water supply, public transport networks. Climate adaptation measures are required to protect Council’s assets and minimise disruption to the local economy. Extreme weather events, storms and floods will impact on both public and private assets and infrastructure.",
+            "page": 81,
+            "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline the local government's recognition of the climate emergency and its commitment to taking action, they do not provide specific, well-sourced evidence to support the targets and actions they propose. The documents mention the need for action, the importance of community involvement, and the intention to increase climate change knowledge among residents and businesses. They also mention the intention to prepare the Council and community for the transition to a climate-safe society. However, they do not provide specific evidence or data to justify these targets and actions. The documents also lack specific details about the methods and strategies that will be used to achieve these targets. Therefore, based on the provided documents, it cannot be affirmed that the local government's climate targets and actions are justified by well-sourced evidence."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a range of data that will be used to measure progress in reducing greenhouse gas emissions and achieving other aims such as building community resilience, caring for Country, innovation, and leadership. This data includes quantitative measures such as the amount of greenhouse gas emissions reduced. The plan also mentions the use of different approaches to measure success, which will enable the Council to understand how they are progressing and identify areas for improvement. The plan also states that progress on the plan's actions will be measured and reported annually through the Council Plan and other communication channels. This indicates a commitment to regular evaluation and transparency in reporting progress."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do indicate plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive approach to community engagement and education, which includes gathering feedback from the community through discussions, workshops, interviews, and surveys. This feedback is then used to inform the development of the Climate Emergency Plan. The documents also mention the use of a range of data to measure progress in reducing greenhouse gas emissions, building community resilience, and achieving other aims. This data collection could be seen as a form of research that informs climate actions. Furthermore, the documents mention the provision of support and advice for groups seeking funding from other government and philanthropic grant processes, which could potentially include research initiatives.",
+          "quote": {
+            "content": "Residents participated in discussions, workshops, interviews and surveys. Between July and December 2016, Council consulted with the community on how they wanted to see Council respond to climate change.",
+            "page": 26,
+            "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents do show evidence of innovation and policy experimentation in climate action. The Darebin Climate Emergency Plan 2017-2022 and the draft plan for 2024-2030 both outline a comprehensive approach to addressing climate change, with a focus on fostering innovative solutions. The 2017-2022 plan emphasizes the need for 'emergency speed action' and the fostering of innovative solutions to respond to the climate emergency. It also mentions the possibility of updating the plan whenever necessary within the period, indicating a willingness to adapt and experiment with new strategies. The draft 2024-2030 plan continues this approach, with a focus on ambitious action, innovation, and strong community engagement. It also outlines a process for monitoring, evaluating, and reporting on the plan's actions, which could provide valuable feedback for future policy experimentation.",
+          "quote": {
+            "content": "We do not have all the answers; therefore, the plan also seeks to foster innovative solutions that respond to the Climate Emergency.",
+            "page": 6,
+            "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the Darebin Council has an explicit intent to advocate upward to state and national governments to support climate action. The council's Climate Emergency Plan outlines a strategic advocacy framework that includes large-scale campaigns, participation in alliance-led campaigns, and sustained advocacy at every relevant forum or opportunity. The plan also includes responsive advocacy, such as commenting on relevant government reviews, policy directions, news, and events. The council's advocacy is seen as a key part of the plan, as state and federal government policy, legislation, and funding will have the biggest impact on the Climate Emergency. The council also aims to engage, empower, and mobilise governments, communities, and organisations to take urgent action on the climate emergency.",
+          "quote": {
+            "content": "Undertake and collaborate on strong advocacy programs to State and Federal Governments to declare and act on the Climate Emergency as soon as possible.",
+            "page": 37,
+            "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government policy encourages building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a strategic approach to climate action that involves partnerships and collaborations with external partners, other councils, and community organisations. The policy also emphasises the importance of advocacy in accelerating climate action at the state and national levels. The policy further highlights the role of the council in leading by example, fostering innovation, and maximising impact through strategic climate advocacy and partnerships across all sectors. The policy also outlines specific actions to be undertaken to reach their goals, which include engaging the community, supporting community groups, and working with other councils and organisations. Therefore, the policy not only encourages but also provides a clear framework for building local capacity for climate action.",
+          "quote": {
+            "content": "4.3.1 Lead, contribute to and make new key alliances/networks and cross-sector partnerships",
+            "page": 19,
+            "source": "Darebin-Draft_Climate_Emergency_Plan_2024-2030.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Darebin Council has outlined its commitment to climate action through various partnerships and alliances. It has mentioned its participation in alliance-led campaigns and its intention to lead, contribute to, and form new key alliances/networks and cross-sector partnerships. The council also plans to seek partnership opportunities with the Victorian and Australian governments for innovative programs that align with Council priorities. Furthermore, the council has expressed its intention to join the Cities Power Partnership and the Global Covenant of Mayors for Climate and Energy. These alliances aim to support, celebrate, and accelerate the climate leadership municipal governments are demonstrating, on the national and international stages respectively. These alliances will amplify the council's ability to share its own models of success with others, and learn from the experiences and innovations of councils around Australia and the world.",
+          "quote": {
+            "content": "Joining these fora also provides an opportunity for us to spread the Climate Emergency message, and to invite other members to join us in declaring a state of Climate Emergency and committing to the actions that will restore a safe climate for current and future generations.",
+            "page": 35,
+            "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The policy acknowledges that climate change impacts are not felt equally across the community, with certain groups being more vulnerable. These include Aboriginal and Torres Strait Islander peoples, recent migrants, low-income households, people with disabilities or chronic illnesses, older residents, and young children. The policy also highlights the concept of 'Climate Justice', which involves prioritizing the most impacted groups when developing climate solutions. This is part of the council's 'Towards Equality Framework'. The policy also mentions the need to increase climate resilience and energy equity in Darebin, particularly for low-income households and renters. Therefore, the policy not only acknowledges the disproportionate impact of climate change on vulnerable communities but also outlines measures to address these disparities.",
+          "quote": {
+            "content": "This involves considering who in our community will be the most impacted by climate change and ensuring that they are prioritised when developing climate solutions.",
+            "page": 17,
+            "source": "Darebin-Draft_Climate_Emergency_Plan_2024-2030.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The documents do explicitly discuss how to equitably share the benefits and opportunities of a safe climate. The policy emphasizes the concept of 'Climate Justice', which involves considering who in the community will be most impacted by climate change and ensuring that they are prioritized when developing climate solutions. The policy identifies specific vulnerable groups, including Aboriginal and Torres Strait Islander peoples, recent migrants, low-income households, people with disabilities or chronic illnesses, older residents, and young children. The policy also outlines plans to deliver community education and capacity-building campaigns on energy literacy and efficiency, food resilience, and water saving, prioritizing areas of Darebin most vulnerable to heat stress and energy inequity. This approach ensures that the benefits and opportunities of a safe climate are shared equitably, particularly among those most at risk.",
+          "quote": {
+            "content": "This involves considering who in our community will be the most impacted by climate change and ensuring that they are prioritised when developing climate solutions.",
+            "page": 17,
+            "source": "Darebin-Draft_Climate_Emergency_Plan_2024-2030.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 19,
+    "num_questions": 20,
+    "attribute_score": 97.5
+  }
+}

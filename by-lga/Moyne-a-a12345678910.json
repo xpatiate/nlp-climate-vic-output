@@ -1,0 +1,292 @@
+{
+  "settings": {
+    "source_files": [
+      "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T22:10:54.780303",
+    "lga": "Moyne"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Moyne Environmental Sustainability Strategy, does indeed have climate action as a core purpose. The policy outlines a comprehensive approach to environmental sustainability, with a significant focus on climate-related issues. This is evident in the policy's objectives and actions, which are grouped under key themes including 'Greenhouse Gas Emissions' and 'Climate Change Adaptation Actions for Local Government'. Specific actions include offsetting Council's greenhouse emissions through annual community indigenous vegetation planting programs and preparing a Council adaptation strategy to climate change. The policy also acknowledges the importance of reducing greenhouse gas emissions at the local level, as demonstrated by the Council's previous participation in the Cities for Climate Protection Program. Therefore, it is clear that climate action is a central goal of this policy.",
+          "quote": {
+            "content": "Waste Management Practices 5. Education and Awareness 2. Water Quality & Water Conservation 3. Greenhouse Gas Emissions 4.",
+            "page": 13,
+            "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document does explicitly explain the need for action on climate change. It outlines the local government's commitment to environmental sustainability, with specific objectives and actions to improve greenhouse gas emissions. The document also mentions the Council's previous involvement in the Cities for Climate Protection Program™, through which it was able to reduce its corporate greenhouse gas emissions by 20% from 2002 levels by 2009. The document further emphasizes the need for continued vigilance in influencing external parties and projects to create positive outcomes within its own community. This indicates a clear recognition of the need for action on climate change, both in terms of reducing the Council's own emissions and in terms of broader community engagement and education.",
+          "quote": {
+            "content": "Through its involvement in this program, Council was able to reduce its corporate greenhouse gas emissions by 20% from 2002 levels by 2009. In recognition of the importance of reducing greenhouse gas emissions at the local level, Moyne Shire Council resolved in December 2002 to participate in the Cities for Climate Protection Program™.",
+            "page": 24,
+            "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. While they outline various objectives and actions related to environmental sustainability and reducing greenhouse gas emissions, the language used does not convey a sense of urgency or immediacy. The timeframe for the actions is often categorized as short term (within 2 years), medium term (2-5 years), or long term (more than 5 years), but this does not necessarily indicate urgency. Furthermore, the impact of these actions is categorized as low, medium, or high, but this refers to the expected impact on environmental sustainability, not the urgency of the action. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit call for rapid and urgent action on climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a variety of objectives and actions, each with a designated timeframe and impact level. For instance, the document mentions offsetting Council's fleet emissions through annual community indigenous vegetation planting programs, which is a short-term action with a high impact. Another action is to prepare a Council adaptation strategy to climate change, which is a long-term action with a medium impact. The document also mentions the production of an annual financial summary on the implementation of the Environmental Sustainability Strategy, which is a short-term action with a high impact. These examples demonstrate that the document provides specific timeframes for its climate-related actions, indicating a sense of urgency and commitment to addressing climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline various environmental sustainability strategies and actions, including those related to climate change, such as offsetting greenhouse emissions and preparing a council adaptation strategy to climate change. However, these actions are presented alongside other environmental sustainability actions, and there is no explicit statement prioritizing climate emergency response over other policies. The documents also mention the need for resources and timeframes for implementing these actions, but again, there is no explicit prioritization of climate emergency response. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response must have higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline several objectives and actions related to reducing greenhouse gas emissions and promoting environmental sustainability. For instance, the council plans to offset its fleet emissions through community vegetation planting programs and promote understanding and awareness of energy consumption and greenhouse gas emissions. It also aims to reduce its greenhouse gas emissions through reduced energy consumption, with specific actions such as designing new council buildings to meet a minimum 8-star energy rating and establishing an energy audit program for key council buildings. However, these actions are specific to certain areas and do not necessarily imply that all council activities must align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines a strategy for adapting to climate change, and it includes a system for categorizing actions based on their resource requirements and timeframes. The policy uses a color-coded system to indicate the approximate direct costs to the Council for each action, with green representing costs less than $5k, orange representing costs between $5k and $10k, and red representing costs greater than $10k. The policy also acknowledges that the implementation of the actions listed within the strategy will require substantial investment of resources from the Council and potentially from external sources or partners. However, the policy does not provide specific details on the exact amounts of funding allocated for each action or the total amount of funding allocated for climate action.",
+          "quote": {
+            "content": "State and/or Commonwealth governments). Implementation of the Actions listed within this strategy will unquestionably require substantial investment of resources from Council and, in may instances, external sources/partners (e.g.",
+            "page": 41,
+            "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's policy does explicitly allocate non-monetary institutional resources to climate action. The policy outlines several actions related to climate change, such as offsetting Council's greenhouse emissions, increasing Council and community understanding and awareness of energy consumption, and promoting participation in National Earth Hour. These actions are expected to be implemented within specific timeframes and are associated with varying levels of impact. The policy also acknowledges that the implementation of these actions will require substantial investment of resources from the Council and, in many instances, external sources or partners. However, it does not provide specific details on the allocation of staff to these actions.",
+          "quote": {
+            "content": "State and/or Commonwealth governments). Implementation of the Actions listed within this strategy will unquestionably require substantial investment of resources from Council and, in may instances, external sources/partners (e.g.",
+            "page": 41,
+            "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government policy does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a number of objectives and actions that are designed to increase community understanding and awareness of energy consumption and the impacts of greenhouse gas emissions on the environment. For instance, the policy includes actions such as promoting and participating in National Earth Hour and ride/walk to work day. The policy also acknowledges the importance of community groups and volunteers in enhancing and protecting the natural environment and raising community awareness of environmental issues. Furthermore, the policy emphasizes the need for continual education and increased awareness of the local environment and the requirements for its protection and enhancement.",
+          "quote": {
+            "content": "Without continual education and increased awareness of Moyne Shire‟s environment and the requirements for its protection and enhancement, there is little chance of ensuring the future environmental sustainability of the Shire.",
+            "page": 15,
+            "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a combination of technological solutions and behaviour change. Technological solutions include designing new Council buildings to meet a minimum 8-star energy rating, establishing an energy audit program for key Council buildings and infrastructure, and offsetting Council's fleet emissions through annual community indigenous vegetation planting programs. Behaviour change is encouraged through initiatives such as promoting and participating in National Earth Hour and ride/walk to work day. These actions demonstrate a commitment to both reducing energy consumption and increasing awareness of energy consumption and the impacts of greenhouse gas emissions on the environment."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a plan to 'Prepare a Council adaptation strategy to climate change' as a long-term action. This indicates a commitment to developing a comprehensive strategy to address the impacts of climate change. However, the policy does not provide specific details about what this adaptation strategy will entail, which could include measures such as infrastructure improvements, community education, or changes to land use planning. The policy also mentions the promotion of 'transition towns' within the municipality, which are communities that seek to increase self-sufficiency to reduce the potential effects of economic instability, resource depletion, and climate change. However, again, the policy does not provide specific details about how it will support and promote these transition towns."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents provided do not offer well-sourced evidence to justify the local government's climate targets and actions. While the policy outlines various objectives and actions related to environmental sustainability, such as offsetting Council’s greenhouse emissions and increasing understanding and awareness of energy consumption, it does not provide specific evidence or sources to justify these targets. The policy does mention the implementation of actions based on resources, timeframe, and impact, but it does not detail how these factors were determined or what evidence was used to support these decisions. Furthermore, while the policy refers to various national strategies and acts, it does not explicitly link these to the local government's own targets and actions. Therefore, the policy lacks the well-sourced evidence necessary to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a system of monitoring and review, which includes the development of appropriate performance measures for key staff. This system is designed to track the progress of the Environmental Sustainability Strategy. The plan also includes a provision for the production of an annual summary on implementation achievements of the Environmental Sustainability Strategy. Furthermore, the plan includes a bi-yearly review of the Environmental Sustainability Strategy by the Council's Conservation and Environment Committee. This review is intended to ensure that the listed objectives and actions align with any significant changes in the attitudes of the community or environmental priorities. Therefore, the plan not only includes specific measurable criteria, but also a system for regular review and adjustment of these criteria in response to changing circumstances.",
+          "quote": {
+            "content": "Monitoring and accountability will be provided through the development of appropriate performance measures for key staff.",
+            "page": 39,
+            "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined several actions to increase awareness and understanding of environmental issues, including climate change, among its staff and the broader community. These actions include conducting training for Council staff and raising awareness within the community on the roadside conservation GIS maps, conducting at least four annual on-ground community activities to protect and enhance biodiversity and habitat values, and implementing a 'creeping backyards' program to encourage responsible planting in gardens. These actions suggest that the local government is planning to conduct research in the local community to inform its climate actions. The documents also mention the preparation of a Council adaptation strategy to climate change, which would likely involve research into the local community's vulnerability to climate change and potential adaptation measures."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. While the local government has outlined various strategies and plans related to environmental sustainability, including the 'Climate Change Adaptation Actions for Local Government 2007', 'National Greenhouse Strategy 2000', and 'Moyne Shire Council Local Greenhouse Reduction Action Plan 2004', these documents do not provide specific details about the nature of these plans or how they represent innovative or experimental approaches to climate action. The documents mention the preparation of a council adaptation strategy to climate change and actions to offset council's greenhouse emissions, but again, these do not necessarily indicate innovation or experimentation. They could be seen as standard responses to climate change. Therefore, based on the provided documents, it cannot be affirmed that there is evidence of innovation and policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government has outlined several strategies and actions that align with national and state policies on environmental sustainability and climate change. These include the National Water Quality Management Strategy 1992, National Greenhouse Strategy 2000, and Climate Change Adaptation Actions for Local Government 2007. The local government also plans to offset its greenhouse emissions through annual community indigenous vegetation planting programs. Furthermore, the local government acknowledges the importance of external parties such as Sustainability Victoria, the Environmental Protection Authority, and the South West Sustainability Partnership in achieving positive outcomes within its community. This suggests an intent to advocate and collaborate with higher levels of government and other organizations to support climate action.",
+          "quote": {
+            "content": "Council must continue to remain vigilant it its quest to influence external parties (such as Sustainability Victoria, the Environmental Protection Authority, the South West Sustainability Partnership, local Transition Towns groups) and projects in a bid to create positive outcomes within its own community.",
+            "page": 24,
+            "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention various initiatives aimed at reducing greenhouse gas emissions and promoting environmental sustainability, they do not specifically address the aspect of 'coordination, partnerships and advocacy for action' in the context of building local capacity for climate action. The documents discuss actions such as offsetting council fleet emissions, promoting awareness of energy consumption and greenhouse gas emissions, and increasing the use of renewable energy sources. However, these actions are primarily focused on the council's own operations and the local community, with no explicit mention of coordination or partnerships with neighbouring local councils."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Moyne Shire Council has been involved in the Cities for Climate Protection Program, which allowed the council to reduce its corporate greenhouse gas emissions by 20% from 2002 levels by 2009. Although this program was dissolved in 2009, the council has continued to build on the momentum gained through its participation. The council also acknowledges the need to influence external parties such as Sustainability Victoria, the Environmental Protection Authority, the South West Sustainability Partnership, and local Transition Towns groups in order to create positive outcomes within its own community. These references indicate that the council is not only aware of the importance of partnerships and alliances in addressing climate change, but is also actively involved in such collaborations."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's Environmental Sustainability Strategy, outlining objectives and actions related to environmental sustainability, greenhouse gas emissions, and climate change adaptation. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities or any measures to address these impacts in terms of equity and social justice. Therefore, based on the provided documents, the answer to the question is negative."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents focus on the local government's environmental sustainability strategy, including objectives and actions related to offsetting greenhouse emissions, increasing understanding and awareness of energy consumption and its impacts, and reviewing the strategy on a bi-yearly basis. However, there is no specific mention or discussion on the equitable distribution of benefits and opportunities arising from a safe climate. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 12,
+    "num_questions": 20,
+    "attribute_score": 66.7
+  }
+}

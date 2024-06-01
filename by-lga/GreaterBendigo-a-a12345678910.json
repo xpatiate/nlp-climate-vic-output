@@ -1,0 +1,304 @@
+{
+  "settings": {
+    "source_files": [
+      "GreaterBendigo-2021-climate-environment-strategy.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T15:08:49.398890",
+    "lga": "GreaterBendigo"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the 'Climate Change and Environment Strategy', clearly identifies climate action as its core purpose. The policy is designed to address climate change and environmental sustainability, as evidenced by its title and the content of the documents. The policy outlines a strategy that incorporates the 'One Planet Living principles' of 'Health and happiness', 'Equity and local economy', and 'Culture and community', all of which are intrinsically linked to climate action. The policy also acknowledges the need for 'environmental sustainability (including climate change risk)' to be promoted. Furthermore, the policy outlines specific action areas and goals related to climate change, such as 'Zero carbon' and 'Biodiversity and regeneration'. The policy also mentions the establishment of a 'Climate and Environment Working Group' to support implementation and collaboration across the organization. Therefore, it is evident that climate action is the core purpose of this policy."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It acknowledges the global issue of climate change and its potential local impacts, citing the United Nations Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report. The document also highlights the risks posed by climate change, including physical risks arising from changes in weather patterns and transition risks associated with adjusting to a low-carbon economy. The strategy also emphasizes the need to reduce human impacts on the climate while protecting and restoring ecosystems. The document further outlines the need for effective governance to oversee the successful implementation of the strategy, and the importance of collaboration at various levels, including households, organizations, city-wide projects, and regional advocacy, to achieve a zero carbon economy.",
+          "quote": {
+            "content": "We need to act now to reduce human impacts to climate whilst also protecting and restoring our ecosystems. Climate change and biodiversity breakdowns now threaten the ecosystems that support life on earth.",
+            "page": 9,
+            "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document does indeed call for rapid and urgent action on climate change. It cites the IPCC Sixth Assessment Report, which states that unless deep reductions in CO2 and other greenhouse gas emissions occur in the coming decades, global warming of 1.5°C and 2°C will be exceeded during the 21st century. The document also refers to a report from the United Nations Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), which found that the health of ecosystems is deteriorating more rapidly than ever before, eroding the foundations of human economies, livelihoods, food security, health, and quality of life. The document further outlines the City of Greater Bendigo's response, which includes a strategy designed to support action to restore and regenerate ecosystems and mitigate against climate change through reducing carbon emissions and sequestering carbon. This strategy also includes action to adapt to climate change, with the document stating that by adapting early, we can reduce our exposure to climate risks."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the documents acknowledge the urgency of addressing climate change and biodiversity breakdown, and outline the need for action at all levels from local to global, they do not specify when these actions should be initiated or completed. The documents mention the development of an annual Implementation Plan and a strategy renewal every five years, but these are general timelines for the strategy's implementation and renewal, not specific timeframes for individual actions. The documents also mention that the strategy is a 'living document' that will be routinely updated based on context, priorities, and resources, suggesting that the timing of actions may be flexible and subject to change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change and its impacts, they do not explicitly prioritize this over other policies. The Climate Change and Environment Strategy is designed to complement other key Council strategies like the Economic Development Strategy and the Health and Wellbeing Plan, rather than supersede them. The strategy includes actions to restore and regenerate ecosystems, reduce carbon emissions, sequester carbon, and adapt to a harsher climate. However, these actions are presented as part of a holistic approach to community wellbeing and sustainability, rather than as a higher priority than other policy areas."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing climate change and environmental sustainability, they do not specifically mandate that all council activities must align with these goals. The documents outline various strategies and actions related to climate change, such as assessing climate risk and vulnerability, incorporating evidence-based planning into decision-making processes, and promoting sustainable outcomes. However, these are presented as specific initiatives or projects, rather than as a blanket requirement for all council activities. Furthermore, while the documents mention the need for strategic planning and decision-making to consider climate and environmental risks, this is not the same as requiring all activities to align with a specific climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that funding has been allocated for climate action. While the policy outlines a range of actions and strategies to address climate change, including assessing climate risk and vulnerability, planning and implementing infrastructure retrofits, and supporting innovation, there is no clear mention of specific funding or budget allocation for these initiatives. The policy does mention the need for investment and the role of the public sector in supporting innovation, but it does not provide specific details about the source or amount of this investment. Therefore, based on the available information, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines the establishment of a Climate and Environment Working Group, which is a dedicated group made up of representatives across the organization. This group's role is to support the implementation and collaboration across the organization, which implies the allocation of staff resources to climate action. Additionally, the plan mentions the employment of an Environmental Education and Community Liaison Officer, which is a clear allocation of staff resources. The plan also includes the implementation of various programs and projects, which would require the allocation of institutional resources for their execution.",
+          "quote": {
+            "content": "They will also support the design, delivery. Their role is to support implementation and collaboration across the organisation.",
+            "page": 13,
+            "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy outlines a multi-level collaboration strategy that includes households, organisations, city-wide projects, and regional advocacy. Households are encouraged to create climate action plans and participate in local community climate projects. Organisations, including businesses and schools, are supported to create climate action plans and commit to a 2030 target. City-wide projects aim to bring the community together to fund collective climate projects. Regional advocacy involves councils from the Loddon Campaspe regional network to create and design regional-scale climate projects. The policy also encourages the community to participate in the Greater Bendigo Climate Collaboration, retrofit homes with energy-efficient appliances, support local businesses to transition to renewable electricity, and support locally owned renewable energy generation and storage projects.",
+          "quote": {
+            "content": "These plans will include actions to reduce household emissions.",
+            "page": 20,
+            "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions include retrofitting buildings for energy efficiency, transitioning the council's vehicle fleet to electric vehicles, and installing electric vehicle charging stations powered by renewable energy. The plan also mandates no new gas connections in council-owned and operated buildings. In terms of behaviour change, the plan includes actions to support households, businesses, schools, and organisations in creating climate action plans. It also aims to raise awareness and support community groups in preparing for climate change and creating zero carbon homes and lifestyles. These actions demonstrate a comprehensive approach to mitigating greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to assessing climate risk and vulnerability for all Council buildings and infrastructure, and identifying necessary adaptation actions. It also includes the assessment of climate risk and vulnerability across the municipality to understand current and projected hazards and vulnerable sectors. The plan also includes the design and implementation of building and infrastructure retrofits, which can be seen as a measure to enhance resilience. Furthermore, the policy emphasizes the importance of innovation and design thinking to identify new ways of working and programs that build community adaptive capacity. These actions demonstrate a clear commitment to both climate adaptation and resilience.",
+          "quote": {
+            "content": "Report this publicly via the Global Covenant of Mayors \n \nIncorporate evidence based and scenario planning into Council decision making process \n \nPlanning, designing, and implementing buildings and infrastructure retrofits \n \nAssessment of Council’s systems and policies to identify improvements and efficiencies in line with \nthe goals of this strategy \n \nSupporting innovation and design thinking to identify new ways of working and programs that build \ncommunity adaptive capacity. This flagship project involves:  \n \nGrowing an internal culture and capability to drive and demonstrate sustainable outcomes \n \nAssessing climate risk and vulnerability for all Council buildings and infrastructure and identify \nnecessary adaptation actions \n \nAssessing climate risk and vulnerability across the municipality to understand current and projected \nhazards and vulnerable sectors.",
+            "page": 19,
+            "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of actions related to climate change, such as assessing climate risk and vulnerability, incorporating evidence-based planning into decision-making processes, and supporting innovation, it does not provide specific, well-sourced evidence to justify these actions. The policy mentions the use of scenario planning and the assessment of climate risks, but it does not detail the sources of data or the methodologies used in these assessments. Furthermore, while the policy mentions the Global Covenant of Mayors and the Local Government Act 2020, it does not provide specific evidence or data from these sources to justify its climate targets and actions. Therefore, based on the provided documents, it cannot be affirmed that the policy provides well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate change and environment strategy does indeed include specific measurable criteria to evaluate the success of its proposed actions. The strategy outlines a comprehensive monitoring and evaluation plan, which includes program logics, interim targets, monitoring indicators, and detailed key evaluation questions. The strategy also includes a 'living document' Implementation Plan that sets actions focused on achieving interim targets. The plan is routinely updated based on context, priorities, and resources. The strategy's implementation is monitored and reported annually, allowing for understanding of progress and adaptation to shifts in the operating environment and broader context. The strategy also includes specific goals and targets, such as 'no net loss of native habitat in the municipality from 2016 baseline' and 'the population of indicator species (determined by 2026) has increased from the baseline'. These specific, measurable criteria provide a clear framework for evaluating the success of the strategy's actions.",
+          "quote": {
+            "content": "There is a comprehensive monitoring and evaluation plan for the Strategy, which includes program logics, interim targets, monitoring indicators, and more detailed key evaluation questions.",
+            "page": 15,
+            "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive strategy to assess climate risks and vulnerabilities across the municipality, which includes understanding current and projected hazards and vulnerable sectors. This assessment will be reported publicly via the Global Covenant of Mayors, indicating a commitment to transparency and accountability. The strategy also includes the development of greenhouse gas emissions inventories, defining ambitious climate change mitigation targets, and developing integrated climate action plans. Furthermore, the strategy involves supporting innovation and design thinking to identify new ways of working and programs that build community adaptive capacity. This suggests a proactive approach to understanding and addressing climate risks at the local level, with a focus on evidence-based planning and decision-making.",
+          "quote": {
+            "content": "Supporting innovation and design thinking to identify new ways of working and programs that build community adaptive capacity.",
+            "page": 19,
+            "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+            "search_score": 0.91
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's strategy includes a flagship project that supports innovation and design thinking to identify new ways of working and programs that build community adaptive capacity. This approach indicates a willingness to experiment with new methods and policies to address climate change. The strategy also includes a commitment to assess climate risk and vulnerability across the municipality, which suggests a data-driven approach to policy development. Furthermore, the strategy emphasizes the importance of incorporating evidence-based and scenario planning into the Council's decision-making process, which suggests a commitment to informed, innovative action. The strategy also includes a commitment to transparency, with plans to report publicly on climate risks and vulnerabilities via the Global Covenant of Mayors.",
+          "quote": {
+            "content": "Supporting innovation and design thinking to identify new ways of working and programs that build community adaptive capacity.",
+            "page": 19,
+            "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+            "search_score": 0.91
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. This is evident in the 'Regional Advocacy' section of the policy, which outlines the local government's plan to collaborate with councils from the Loddon Campaspe regional network to create and design regional-scale climate projects for advocacy. This suggests that the local government is not only taking action at the local level but is also advocating for climate action at the regional level. Furthermore, the document mentions the council's commitment to the Global Covenant of Mayors for Climate and Energy, which includes reporting on climate risks and vulnerabilities, defining ambitious climate change mitigation targets, and developing integrated climate action plans. This commitment indicates that the local government is advocating for climate action at an international level."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a comprehensive approach to climate change, including the promotion of environmental sustainability, engagement in strategic planning and decision making, and collaboration with other councils. The policy also outlines specific actions such as assessing climate risk and vulnerability for all council buildings and infrastructure, incorporating evidence-based and scenario planning into council decision-making processes, and supporting innovation and design thinking to identify new ways of working and programs that build community adaptive capacity. Furthermore, the policy encourages households, businesses, schools, and organisations to create climate action plans and commit to a 2030 target. This is a clear indication of the policy's commitment to building local capacity for climate action.",
+          "quote": {
+            "content": "Their connection to the community means they are well placed to understand local needs and invest in making their communities more resilient to climate change. Under the new Local Government Act 2020, it is a requirement that all Councils consider climate and environment risks, including mitigation and planning for climate risks. These considerations must be embedded across Council’s services, strategies, policies and processes. Local councils have played a leading role in climate action to date.",
+            "page": 9,
+            "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations and partnerships related to climate action. It mentions the establishment of a project working group consisting of experienced professionals across the council, including staff from various fields such as health and wellbeing, biodiversity, parks and open space, transport, economic development, emergency management, and climate change. This group was responsible for co-writing the Climate Change and Environment Strategy. Furthermore, the document outlines a plan for regional advocacy, which involves bringing together councils from the Loddon Campaspe regional network to create and design regional-scale climate projects. This indicates a clear intention to collaborate with regional partners to address climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The document explicitly discusses the impact of climate change on vulnerable communities. It acknowledges that social factors such as age, gender, health status, socioeconomic status, access to public services and transportation, social capital, and housing infrastructure will influence the extent to which climate change impacts are felt by individuals and communities. The document further emphasizes that the impacts of climate change will not be shared uniformly across communities and the more vulnerable populations are likely to be most impacted. This includes people with disabilities and pre-existing or chronic medical conditions, low-income earners, those with limited English, First Nations people, children, pregnant women, and the elderly. The document also highlights the risks of prolonged heatwaves to the mortality of the elderly and vulnerable members of the community.",
+          "quote": {
+            "content": "This demonstrates that the impacts of climate change will not be shared uniformly across communities and the more vulnerable populations are likely to be most impacted. Factors such as age and gender, health status, socioeconomic status, access to public services and transportation, social capital and housing infrastructure will influence the extent to which climate change impacts are felt by individuals and communities.",
+            "page": 11,
+            "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While the policy does mention 'Equity and local economy' as one of the three One Planet Living principles that shape the development of goals and targets, it does not provide specific details on how this principle will be implemented in relation to climate change. The documents also mention the importance of considering social factors such as age, gender, health status, socioeconomic status, and access to public services in understanding the impacts of climate change. However, these references do not directly address the question of how to equitably share the benefits and opportunities of a safe climate. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 72.5
+  }
+}

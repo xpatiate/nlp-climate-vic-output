@@ -1,0 +1,328 @@
+{
+  "settings": {
+    "source_files": [
+      "Nillumbik-2022-climate-action-plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T22:20:30.801363",
+    "lga": "Nillumbik"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy, titled 'Nillumbik 2022 Climate Action Plan', clearly identifies climate action as its core purpose. The policy outlines a comprehensive plan to address climate change, with a focus on both mitigation and adaptation strategies. It sets specific goals such as achieving net zero emissions in Council operations by 2030 and a 2035 net zero emissions target for the community. The policy also identifies eight focus areas for proactive climate action. The policy is accompanied by a clear implementation schedule and a commitment to evaluate and report on its progress at regular intervals. The policy also emphasizes the importance of embedding climate action into the Council's day-to-day operations and decision-making processes. Therefore, it is evident that climate action is the core purpose of this policy.",
+          "quote": {
+            "content": "It identifies eight focus areas for proactive climate action. The Plan emphasises mitigation and adaptation – in Council’s activities and operations, as well as in the broader community. It sets a goal of net zero emissions in Council operations by 2030 and a 2035 net zero emissions target for our community.",
+            "page": 4,
+            "source": "Nillumbik-2022-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly articulates the need for action on climate change. It outlines the local government's commitment to addressing climate change through a variety of strategies and actions. The Climate Action Plan 2022-2032 is described as a roadmap for the Council and community to work together to address climate change over the next decade. The document also states that the Council has declared a climate emergency, which provides the overarching impetus for the objectives and strategies contained in the plan. The plan emphasizes mitigation and adaptation in Council's activities and operations, as well as in the broader community. It sets a goal of net zero emissions in Council operations by 2030 and a 2035 net zero emissions target for the community. The document also acknowledges the devastating impacts of fires, floods, and other extreme weather events, which further underscores the need for action on climate change.",
+          "quote": {
+            "content": "This public declaration is integral as it provides the overarching impetus for the objectives and strategies contained in the plan. This is why, as part of this Plan, Council has declared a climate emergency.",
+            "page": 4,
+            "source": "Nillumbik-2022-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The Nillumbik 2022 Climate Action Plan indeed calls for rapid and urgent action on climate change. The document explicitly declares a climate emergency, indicating a clear sense of urgency and a call to action. The plan recognizes climate change as a threat and foreseeable risk, and it commits to a proactive climate response. The document also emphasizes the need for dynamic and responsive decision-making in climate action, suggesting the need for swift and adaptable strategies. Furthermore, the plan acknowledges the international commitment to limit the temperature increase to 1.5⁰C, which requires urgent action. The document also states that the council will incorporate a stronger climate lens into its work than ever before, indicating a sense of urgency in addressing climate change in all aspects of its operations.",
+          "quote": {
+            "content": "Council therefore Declares a Climate Emergency, commits to a climate emergency response, and will proactively integrate climate change mitigation and adaptation into all Council actions.",
+            "page": 3,
+            "source": "Nillumbik-2022-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. The policy is titled 'Climate Action Plan 2022-2032', indicating a 10-year timeframe for the plan's implementation. Furthermore, the document mentions specific goals such as achieving 'net zero emissions in Council operations by 2030' and a '2035 net zero emissions target for our community'. These specific timeframes demonstrate the local government's commitment to taking urgent action on climate change. The policy also mentions an 'accompanying, regularly updated, Implementation Plan' which suggests that the actions and progress will be regularly reviewed and updated, further emphasizing the urgency of the actions.",
+          "quote": {
+            "content": "An accompanying, regularly updated, Implementation Plan will drill down further.",
+            "page": 7,
+            "source": "Nillumbik-2022-climate-action-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the Nillumbik Shire Council takes the climate emergency seriously and has developed a comprehensive Climate Action Plan, they do not explicitly state that this response should supersede other policies. The documents highlight the Council's commitment to integrating a climate lens into their strategies and plans, and to considering climate impacts in their day-to-day operations and decision-making processes. However, these actions suggest an integration of climate considerations into existing policies and strategies, rather than a prioritisation over them. Therefore, based on the provided documents, it cannot be conclusively stated that a climate emergency response is given higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government is making a concerted effort to align all council activities with climate policy. The council has outlined a comprehensive Climate Action Plan that incorporates a 'climate lens' into all its strategies and plans, including the Biodiversity Strategy, Housing Strategy, Integrated Transport Strategy, Heatwave Strategy, Open Space Strategy, and others. The council also plans to consider climate impact in day-to-day operations and decision-making processes, and to embed the delivery of the Climate Action Plan within the CEO’s contract/performance plan. Furthermore, the council aims to support and encourage all staff to engage in or support climate action within their roles. This indicates a broad and deep commitment to aligning all council activities with climate policy.",
+          "quote": {
+            "content": "Examples may include Council’s Biodiversity Strategy, Housing Strategy, Integrated Transport Strategy, Heatwave Strategy, Open Space Strategy, reviews of the Nillumbik Planning Scheme, the next Council Plan, the next Health and Wellbeing Plan, and so on.",
+            "page": 22,
+            "source": "Nillumbik-2022-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of funding for climate action in the local government's plan. While the plan outlines various strategies and objectives related to climate action, such as strong climate action leadership, a climate resilient community and environment, sustainable transport, and zero waste economy, it does not provide specific details on how these initiatives will be financially supported. The plan also mentions the development of an implementation plan, but it does not specify whether this includes budgetary provisions. Therefore, based on the available information, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Nillumbik 2022 Climate Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines that the delivery of the Climate Action Plan will be embedded within the CEO's contract/performance plan, indicating a clear allocation of staff resources towards climate action. Furthermore, the plan encourages all Council staff to be engaged in undertaking or supporting climate action within their roles. This suggests that the plan not only allocates staff to climate action but also seeks to integrate climate action into the day-to-day operations of all staff. The plan also mentions leveraging relationships with agencies, organisations, and groups to keep abreast of best practice climate action and opportunities for continuous improvement, indicating a commitment to using institutional resources for climate action.",
+          "quote": {
+            "content": "1.2 To consider climate impact in day-to-day operations and when making Council decisions a. Embed delivery of the Climate Action Plan within the CEO’s contract / performance plan b.",
+            "page": 21,
+            "source": "Nillumbik-2022-climate-action-plan.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines various community-led initiatives such as Sustainable House Day, community food gardens, and climate crisis public forums. These initiatives are designed to amplify climate action reach and encourage community participation. The policy also mentions the establishment of a Climate Action Hub, which could provide more climate action education opportunities for school groups and others. Furthermore, the policy highlights the role of community groups in advocating for climate action and encouraging community participation. For example, the Nillumbik Climate Emergency Action Team submitted a petition to the Council, and Clean Energy Nillumbik has delivered bulk purchase programs and education campaigns. These actions demonstrate a clear effort to mobilize the community around climate action.",
+          "quote": {
+            "content": "Through advocacy, lobbying and communication they encourage the community and all levels of government to take urgent climate action and are forums for like-minded individuals to collaborate. Various climate action and emergency community groups have formed.",
+            "page": 14,
+            "source": "Nillumbik-2022-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Nillumbik 2022 Climate Action Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a dual approach to managing climate change, which includes both mitigation and adaptation strategies. Mitigation efforts are aimed at reducing greenhouse gas emissions and preventing more severe climate changes. The plan identifies eight focus areas for proactive climate action, including strong climate action leadership and culture, a climate resilient natural environment, climate responsive council services, facilities and infrastructure, council and community zero emissions energy use, sustainable transport, a zero waste and circular economy, and integrated water management. Technological solutions are implied in the plan's commitment to increase the energy efficiency of council assets and operations, and to maximise the use of clean, renewable energy. Behaviour change is encouraged through the promotion of sustainable transport, such as public transport, car-pooling, walking, and cycling, which can reduce greenhouse gas emissions.",
+          "quote": {
+            "content": "The Plan identifies eight focus areas for proactive climate action.",
+            "page": 4,
+            "source": "Nillumbik-2022-climate-action-plan.pdf",
+            "search_score": 0.91
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Nillumbik Climate Action Plan 2022-2032 indeed includes specific actions for climate adaptation and resilience. The plan outlines a dual approach to managing climate change, which includes both mitigation and adaptation strategies. The plan's focus areas include creating a climate resilient, adaptive, and safe community, and a climate resilient natural environment. It also aims to ensure climate responsive Council services, facilities, and infrastructure. Specific strategies include reducing risks from climate change impacts on the delivery of Council services and the use of council facilities, planning for the increasing risk of bushfire, and establishing and enhancing urban tree canopy to reduce urban heat. The plan also mentions the need to encourage sustainable agriculture and enhance the local food system. These strategies demonstrate a comprehensive approach to climate adaptation and resilience.",
+          "quote": {
+            "content": "Reduce the risks from climate change impacts \non the ability to use council facilities Reduce the risks from climate change impacts \non the delivery of Council services \nb. Consider whether additional or modified \nservices may be required to support \ncommunity safety and wellbeing in a changing \nclimate\n4.2 To have Council \ninfrastructure and \nfacilities that are \nappropriate in a \nchanging climate\n(i.e. roads, \nfootpaths, drainage, \nbuildings, facilities, \nopen space, parks)\na.",
+            "page": 27,
+            "source": "Nillumbik-2022-climate-action-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the Climate Action Plan outlines a process for developing the plan, including reviewing previous plans, researching legislative requirements, consulting with councillors, committees, and the community, and conducting a risk assessment, it does not explicitly state the sources of evidence used to justify its climate targets and actions. The plan does mention the use of indicators and targets, and a commitment to review and update these as improved data collection methods become available. However, it does not provide specific details about these indicators and targets, or how they were derived. The plan also mentions the intention to incorporate a 'climate lens' into the development of other council strategies and plans, but again, it does not provide specific details about what this involves or how it will be implemented."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Climate Action Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a clear implementation schedule and a commitment to evaluate and report on its progress at regular intervals. It specifies key climate action initiatives that will be prepared every year and considered in the Council’s annual budget process. The plan also includes a system of evaluation that will enable the Council to measure its effectiveness in delivering and supporting ongoing positive climate action. This evaluation will consider targets, indicators, and specific initiative outcomes. The plan also mentions that over the life of the Plan, indicators and targets will be reviewed and updated where improved data collection is available or where it is identified that more can be achieved. This suggests a commitment to continuous improvement and adaptability in the face of new information or changing circumstances.",
+          "quote": {
+            "content": "We’ll consider our targets, indicators and specific initiative outcomes. An Implementation Plan that specifies key climate action initiatives will be prepared every year. These key climate initiatives will be considered in Council’s annual budget process. Outcome evaluation - Are the goals of the Plan being achieved?",
+            "page": 38,
+            "source": "Nillumbik-2022-climate-action-plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a six-phase plan for the development of their Climate Action Plan. Phase 2 involves research into legislative requirements, policy, data, and best practices to inform the development of the plan. Phase 4 involves asking the community about their priorities, with 400 phone survey responses and 397 online survey responses collected. This indicates a commitment to understanding the local community's perspectives and needs, which is crucial for effective climate action. Furthermore, the documents mention that the community's top ten climate change priorities for the Council to focus on were identified through a consultation survey. This further underscores the local government's commitment to informed, community-centric climate action planning."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has developed a comprehensive Climate Action Plan for 2022-2032, which includes a variety of strategies and plans, all incorporating a stronger climate lens. The plan is not static but is designed to be updated regularly, indicating a willingness to adapt and experiment with new approaches. The plan also includes a commitment to evaluate and report on its progress at regular intervals, which suggests an openness to learning and adjusting based on outcomes. The plan's development involved extensive research, consultation, and an independent climate change risk assessment, indicating a thorough and informed approach to policy development. The council has also undertaken innovative initiatives such as exploring the possibility of transforming the Edendale Community Environment Farm into a climate action hub. This suggests a creative approach to leveraging existing resources for climate action.",
+          "quote": {
+            "content": "We’ll be exploring the possibility and will do what we can.",
+            "page": 24,
+            "source": "Nillumbik-2022-climate-action-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The Nillumbik 2022 Climate Action Plan clearly demonstrates an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines a commitment to collaborate and advocate for broad and urgent climate action by all levels of government to reduce and respond to climate change. This includes advocating for climate action opportunities that will support the Nillumbik community to participate in, and contribute to, climate action. The policy also emphasizes the importance of leveraging relationships with agencies, organizations, and groups to stay informed about best practice climate action and opportunities for continuous improvement. This suggests a proactive approach to advocacy and collaboration, with the aim of influencing higher levels of government and other key stakeholders to support and implement effective climate action.",
+          "quote": {
+            "content": "Collaborate and advocate for broad and urgent climate action by all levels of government to reduce and respond to climate change. 1.3 To collaborate and advocate for climate action by local, state and federal government that will support the Nillumbik and broader community and environment.",
+            "page": 21,
+            "source": "Nillumbik-2022-climate-action-plan.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The Nillumbik 2022 Climate Action Plan does explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The plan outlines a commitment to climate action leadership and culture, and a climate resilient, adaptive, and safe community. It also emphasizes the importance of collaboration between communities, businesses, and all levels of government for effective climate action. The plan includes strategies to embed climate action within the CEO’s contract/performance plan, support and encourage all Council staff to engage in climate action within their roles, and leverage relationships with agencies, organisations, and groups to keep abreast of best practice climate action. Furthermore, the plan advocates for broad and urgent climate action by all levels of government to reduce and respond to climate change, and for climate action opportunities that will support the Nillumbik community to participate in, and contribute to, climate action.",
+          "quote": {
+            "content": "Collaborate and advocate for broad and urgent climate action by all levels of government to reduce and respond to climate change.",
+            "page": 21,
+            "source": "Nillumbik-2022-climate-action-plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate action. While the policy does emphasize the importance of collaboration and advocacy for climate action at all levels of government, it does not specify any particular organizations or partnerships. The policy also mentions leveraging relationships with agencies, organizations, and groups to stay informed about best practices in climate action, but again, no specific entities are named. Therefore, based on the provided documents, it cannot be confirmed that the policy refers to specific regional associations, alliances, or other partnerships related to climate."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents from the Nillumbik 2022 Climate Action Plan do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the impacts of climate change on health and wellbeing, and the need to support vulnerable community members, they do not specifically address the differential impacts on vulnerable communities or discuss these impacts in the context of equity and social justice. The documents focus more on the general impacts of climate change on the community and the environment, and the local government's plans for mitigation and adaptation."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents from the Nillumbik 2022 Climate Action Plan do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change adaptation and mitigation, such as promoting climate action leadership, creating a climate resilient community, and managing health impacts of extreme weather events, there is no specific mention of how these benefits and opportunities will be distributed equitably among different social groups. The documents also do not address issues of social justice in relation to climate change. Therefore, based on the provided documents, the answer to the question is negative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 74.2
+  }
+}

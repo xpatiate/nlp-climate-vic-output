@@ -1,0 +1,304 @@
+{
+  "settings": {
+    "source_files": [
+      "Hindmarsh-2012-climate-adaptation.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T15:42:32.747965",
+    "lga": "Hindmarsh"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Climate Change Adaptation Strategy, clearly identifies climate action as its core purpose. The policy aims to help the Council and stakeholders understand the impacts of climate change in the region, identify the risks and opportunities presented by climate change and reduced water availability, clarify the Council's role and scope for action on these issues, and identify measures the Council can adopt to address risks and act on opportunities. The policy focuses on the impact of climate change and reduced water availability across four main themes: the regional economy, utilities infrastructure, community infrastructure, and the Council's capacity to meet the needs of its community as the climate and water availability changes. The policy also outlines specific actions for the Council to take in preparation for climate change and reduced water availability, such as advocating for ongoing research and development to assist the agricultural industry adapt to the changing climate.",
+          "quote": {
+            "content": "The purpose of the Climate Change Adaptation Strategy is to: \n§ Help Council and stakeholders understand the impacts of climate change in the region \n§ Identify the risks and opportunities climate change and reduced water availability present for the \nregion \n§ Clarify Council’s role and scope for taking action on these issues \n§ Identify measures Council can adopt to address risks and act on opportunities.",
+            "page": 18,
+            "source": "Hindmarsh-2012-climate-adaptation.pdf",
+            "search_score": 0.92
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government recognizes the need for action on climate change. The policy outlines several strategies and actions to address climate change, including the review and update of the Road Asset Management plan to consider climate change risks, the investigation of alternative road materials more resistant to temperature extremes, and the incorporation of climate change and water availability scenarios into Council assets management plans. The policy also mentions the Hindmarsh Climate Change Adaptation Strategy, which further emphasizes the need for action. The strategy includes actions such as community engagement, community action planning, and the implementation of the Integrated Water Management plan. These actions indicate a proactive approach to managing the impacts of climate change.",
+          "quote": {
+            "content": "Council staff review and analyse current asset management plans under a range of climate change and water availability scenarios e.g.",
+            "page": 184,
+            "source": "Hindmarsh-2012-climate-adaptation.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the Hindmarsh Climate Change Adaptation Strategy, detailing various actions, responsibilities, and timeframes for implementation. The documents discuss the incorporation of climate change and water availability scenarios into Council asset management plans, the review and development of Council building maintenance programs, and the adoption and implementation of the Hindmarsh Township Climate Change Adaptation Plan. However, these actions are presented as part of a strategic plan rather than as urgent measures. The documents do not provide a sense of urgency or immediacy in their language or tone. Instead, they present a structured and planned approach to climate change adaptation."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the implementation of their climate change adaptation actions. For instance, the 'Hindmarsh Climate Change Adaptation Strategy' and 'Hindmarsh Integrated Water Management Plan' both outline the actions, responsibilities, and implementation timeframes for climate change adaptation. The documents detail the actions to be taken, who within the council is responsible for implementing them, and the timeframe for their implementation. For example, one action mentioned is the review and update of the Road Asset Management plan, which is to be completed within a three-year timeframe. This action is to be undertaken by the Infrastructure Services department and is considered budget neutral. The documents also highlight actions that are project ready or underway and can be undertaken within the current budget. Therefore, the documents do provide specific timeframes for their intended actions on climate change.",
+          "quote": {
+            "content": "Actions highlighted in green are project ready or underway and can be undertaken within current budget.",
+            "page": 58,
+            "source": "Hindmarsh-2012-climate-adaptation.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents discuss the importance of climate change adaptation and outline various strategies and actions related to climate change, such as the review of council buildings and assets, the implementation of the Hindmarsh Township Climate Change Adaptation Plan, and the incorporation of climate change and water availability scenarios into council asset management plans. However, these actions are presented as part of a broader strategic plan, and there is no explicit statement prioritizing them over other policies. The documents also mention other policies and plans, such as the Municipal Fire Prevention Plan and the Municipal Public Health Plan, but do not rank them in terms of priority."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. They do, however, outline a Climate Change Adaptation Strategy, which includes measures such as incorporating climate change and water availability scenarios into council asset management plans, embedding climate change and water availability risk assessment into future planning, and considering and implementing alternative service delivery models. The documents also mention the need for community engagement on council plans and strategies to adapt to climate change. However, these measures do not necessarily imply that all council activities must be aligned with the climate policy, but rather that climate change considerations should be integrated into certain aspects of council planning and decision-making."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy does outline various strategies and actions related to climate change adaptation, such as updating climate change and water availability scenarios, reviewing asset management plans, and engaging the community, there is no clear mention of specific funding allocation for these actions. The documents do mention 'budget neutral' in relation to some actions, but this does not provide a clear indication of any dedicated funding for climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines a number of actions that involve the use of staff resources. For instance, it mentions that council staff will review and analyze current asset management plans under a range of climate change and water availability scenarios. This includes areas such as stormwater drainage capacity maintenance, road construction and design, and building maintenance, upgrade, and design. The policy also mentions the need for community engagement, which would likely involve staff resources. Furthermore, the policy discusses the need to regularly update and consider climate change and water availability scenarios in the analysis of future asset management plans and broader council planning. This again would require the allocation of staff resources. Therefore, it is clear that the policy does allocate non-monetary institutional resources, specifically staff, to climate action.",
+          "quote": {
+            "content": "Council staff review and analyse current asset management plans under a range of climate change and water availability scenarios e.g.",
+            "page": 184,
+            "source": "Hindmarsh-2012-climate-adaptation.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government policy does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a number of key actions to address climate change risks, including community engagement and community action planning. These actions suggest a focus on social mobilisation, as they involve the community in the process of climate change adaptation and decision-making. The policy also includes plans for recruitment planning, which could potentially involve rallying community members to participate in climate action initiatives. Furthermore, the policy outlines the implementation of the Integrated Water Management plan, which could involve community participation and cooperation. Therefore, it can be concluded that the policy does actively empower and educate the community to rally, support, and work productively together to deliver climate action.",
+          "quote": {
+            "content": "The key actions identified to address these risks included: \n§ Community engagement \n§ Community action planning \n§ Recruitment planning \n§ Implementation of the Integrated Water Management plan",
+            "page": 185,
+            "source": "Hindmarsh-2012-climate-adaptation.pdf",
+            "search_score": 0.91
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The provided documents from the Hindmarsh Township Climate Change Adaptation Plan do not provide clear evidence of specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The focus of the documents appears to be on adaptation strategies to climate change risks, such as incorporating climate change considerations into council building maintenance programs, emergency response planning, and community engagement. There are mentions of actions like reviewing and updating the Road Asset Management Plan and developing a risk register for all Council buildings considering climate change. However, these actions are more related to adapting to the impacts of climate change rather than mitigating greenhouse gas emissions. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for greenhouse gas mitigation."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Township Climate Change Adaptation Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines key actions such as community engagement, community action planning, recruitment planning, and the implementation of the Integrated Water Management plan. More detailed actions include emergency response and community engagement to ensure a general understanding of roles and responsibilities during emergencies. The plan also includes actions to address climate change risks in the review and development of Council building maintenance programs, and to incorporate the findings of climate change risks on Council buildings in the annual review of insurance cover. Furthermore, the plan includes actions to review and analyze current asset management plans under a range of climate change and water availability scenarios. These actions demonstrate a comprehensive approach to climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide a detailed plan for addressing climate change impacts, with a focus on specific areas such as the regional economy, local development infrastructure, local community infrastructure, and the council's capacity to meet community needs. The policy outlines specific actions such as incorporating climate change and water availability scenarios into asset management plans, and engaging the community in climate change adaptation. The policy also includes a plan for regular audits of council water use to monitor usage and identify areas for improvement. However, while the policy is detailed and specific, it does not provide explicit sources or evidence to justify its climate targets and actions. The policy appears to be based on a review of existing regional and local plans, policies, and programs, but it does not cite specific sources or data. Therefore, while the policy is detailed and appears to be well thought out, it does not meet the highest standards of evidence-based policy making.",
+          "quote": {
+            "content": "Following a review of existing regional and local plans, policies and programs, it was decided that this project will focus on the impact of climate change and reduced water availability across the following four areas: The regional economy, The local development infrastructure, The local community infrastructure, Council’s capacity to meet the needs of its community.",
+            "page": 188,
+            "source": "Hindmarsh-2012-climate-adaptation.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The provided documents do not present specific measurable criteria to evaluate the success of the proposed actions in the local government's plan. The documents outline various actions and strategies, such as community engagement, community action planning, and the implementation of the Integrated Water Management plan. However, they do not provide clear, quantifiable metrics or benchmarks that would allow for the evaluation of the success or effectiveness of these actions. The documents mention the need for community engagement and the development of Community Action Plans, but they do not specify how the success of these initiatives will be measured. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a number of key actions to address climate change risks, including community engagement and community action planning. These actions suggest a commitment to understanding the local community's needs and perspectives, which is a form of research. The government also plans to work with Township Committees to ensure a general understanding of roles and responsibilities during emergencies, which implies a need for research to understand current levels of knowledge and areas for improvement. Furthermore, the government received funding from the Commonwealth Government’s Strengthening Basin Communities program to plan for the effects of climate change and reduced water availability. This involved engaging businesses, industry, government agencies, utilities, and townships through workshops to assess the risks posed by a changing climate and identify options for managing these risks, which is a clear example of research being conducted to inform climate actions.",
+          "quote": {
+            "content": "Council has engaged businesses, industry, government agencies, utilities and townships through a range of workshops to assess the risks posed to Hindmarsh by a changing climate and identify options for managing these risks into the future.",
+            "page": 91,
+            "source": "Hindmarsh-2012-climate-adaptation.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of innovation and policy experimentation in climate action. The local government's planned actions primarily involve traditional methods of addressing climate change, such as incorporating climate change and water availability scenarios into council asset management plans, community engagement, and emergency response planning. While these actions are important and necessary, they do not represent innovative or experimental approaches to climate action. The documents also mention the implementation of a Climate Change Adaptation Plan and an Integrated Water Management Plan, but without specific details about these plans, it is not possible to determine whether they involve innovative strategies. Therefore, based on the provided documents, the local government's climate action does not appear to involve policy experimentation or innovative practices."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government's climate change adaptation strategy includes seeking funding from state or federal governments as a stand-alone project, which implies advocacy to these higher levels of government. The strategy also includes actions that are to be undertaken in partnership with a regional body or agency, or advocated to a regional, state, or federal agency. This suggests that the local government is not only planning to take action on its own, but also intends to work with and advocate to other entities, including those at the state and national level, to support climate action.",
+          "quote": {
+            "content": "There are four main avenues for implementation of the actions proposed in this strategy: Incorporation into Council’s annual plans as part of the regular cycle of review, Seek funding from State or Federal governments as a stand-alone project, Undertaken in partnership with a regional body or agency, Advocate to a regional, State or Federal agency.",
+            "page": 57,
+            "source": "Hindmarsh-2012-climate-adaptation.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a number of strategies and actions that aim to build capacity and engage the community in climate change adaptation. For instance, the policy mentions the need to regularly update and consider climate change and water availability scenarios in the analysis of future asset management plans and broader council planning. It also emphasizes the importance of community engagement in communicating council's adaptation and sustainability projects. Furthermore, the policy suggests that services should be reviewed in some towns and/or consolidated to a smaller number of towns as part of future service delivery planning. These strategies and actions suggest a concerted effort to build local capacity for climate action.",
+          "quote": {
+            "content": "Council staff review and analyse current asset management plans under a range of climate change and water availability scenarios e.g.",
+            "page": 184,
+            "source": "Hindmarsh-2012-climate-adaptation.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do refer to specific regional associations and partnerships related to climate change. The local government has developed a Climate Change Adaptation Strategy, an Integrated Water Management Plan, and an Economic Development Position Paper. These documents outline the government's approach to climate change adaptation, including partnerships with various stakeholders. For instance, the government is working with Township Committees to ensure understanding of emergency response procedures in the context of climate change. The documents also mention the involvement of other agencies and industry groups, such as the DPI and BCG, in ongoing research and development to assist the agricultural industry adapt to the changing climate. Therefore, the documents do provide evidence of coordination, partnerships, and advocacy for action on climate change at the regional level."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the impacts of climate change on various sectors such as the regional economy, local development infrastructure, local community infrastructure, and the council's capacity to meet community needs, there is no specific mention of how these impacts might disproportionately affect vulnerable communities. The documents also outline various climate change adaptation strategies and measures, but again, there is no explicit discussion of how these strategies might address issues of equity and social justice among vulnerable communities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents focus primarily on the impacts of climate change, the risks it presents, and the measures the council can adopt to address these risks. There is mention of the council's role in relation to climate change, the need for community refuges, and the challenges of providing a safe work environment for staff. However, these references do not directly address the equitable distribution of benefits and opportunities of a safe climate. Therefore, the question cannot be answered positively based on the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 11,
+    "num_questions": 20,
+    "attribute_score": 55
+  }
+}

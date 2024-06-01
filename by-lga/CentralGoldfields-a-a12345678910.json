@@ -1,0 +1,334 @@
+{
+  "settings": {
+    "source_files": [
+      "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T14:07:10.160763",
+    "lga": "CentralGoldfields"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The Central Goldfields Climate Action Plan is indeed centered around climate action as its core purpose. The policy outlines a comprehensive approach to addressing climate change, including both mitigation and adaptation strategies. Mitigation strategies aim to reduce greenhouse gas emissions, while adaptation strategies prepare for unavoidable changes to the climate. The policy identifies six priority areas for action: Education, Collaboration & Mobilisation, Health & Wellbeing, Renewable Energy & Energy Efficiency, Built Environment & Transport, Waste & the Circular Economy, and Land & Water. The policy also emphasizes the importance of community engagement and collaboration in achieving its climate action goals. It outlines specific actions to be taken in the initial two years of the plan, demonstrating a commitment to immediate action.",
+          "quote": {
+            "content": "Both mitigation and adaptation goals are captured to ensure we are actively reducing our contribution to global greenhouse gas emissions, as well as preparing for and adapting to a changing climate.",
+            "page": 21,
+            "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The Central Goldfields Climate Action Plan clearly articulates the need for action on climate change. The document acknowledges the urgency of global action on climate change, citing the World Research Institute's findings on the rise in global temperatures and the increase in natural disasters. It also references the Intergovernmental Panel on Climate Change (IPCC) report, which warns of reaching the 1.5ºC level within the next two decades unless drastic cuts in carbon emissions are made. The document further emphasizes the responsibility of governments, businesses, individuals, and communities to take action to protect each other and the environment. It also outlines the legislative context, including the Paris Agreement and Australia's commitment to net zero emissions by 2050. The document's focus on both mitigation and adaptation strategies underscores the comprehensive approach required to address climate change.",
+          "quote": {
+            "content": "The latest Intergovernmental Panel on Climate Change (IPCC) report 2022 has warned that the world is set to reach the 1.5ºC level within the next two decades and only the most drastic cuts in carbon emissions from now will help prevent an environmental disaster. According to the World Research Institute, global temperatures have risen by 1.1ºC so far, and already we are seeing an increase in natural disasters such as flooding, fires, droughts and other climatic events.",
+            "page": 5,
+            "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The Central Goldfields Climate Action Plan does explicitly call for rapid and urgent action on climate change. The document acknowledges the clear scientific consensus on climate change and its impacts, and recognizes the urgency for global action. It cites the Intergovernmental Panel on Climate Change (IPCC) report 2022, which warns that the world is set to reach the 1.5ºC level within the next two decades, and that only the most drastic cuts in carbon emissions from now will help prevent an environmental disaster. The document also outlines the local government's commitment to net zero emissions for Council operations by 2030, indicating a sense of urgency in implementing mitigation strategies. Furthermore, the document emphasizes the importance of community engagement and collaboration in addressing climate change, suggesting a comprehensive and urgent approach to climate action.",
+          "quote": {
+            "content": "The latest Intergovernmental Panel on Climate Change (IPCC) report 2022 has warned that the world is set to reach the 1.5ºC level within the next two decades and only the most drastic cuts in carbon emissions from now will help prevent an environmental disaster.",
+            "page": 5,
+            "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+            "search_score": 0.93
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The Central Goldfields Climate Action Plan 2022-2030 does provide specific timeframes for its intended actions on climate change. The document outlines a plan for the local government to achieve net zero council emissions by 2030. It also details an implementation plan for the initial two years of the Climate Action Plan (2022-2024). The document further mentions that a partnership approach will be established within six months of the adoption of the plan, which will oversee, govern, and activate the implementation, monitoring, and evaluation of the plan. These specific timeframes indicate a clear sense of urgency and commitment to taking action on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Central Goldfields Climate Action Plan does outline a comprehensive approach to addressing climate change, including six priority areas for mitigation and adaptation, and a commitment to achieving net zero emissions for Council operations by 2030. However, these actions are presented as part of the Council's overall responsibilities and goals, rather than as a higher priority than other policies. The documents also mention the importance of collaboration, education, and advocacy in achieving climate action goals, but again, these are not presented as having precedence over other policy areas."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do highlight the council's commitment to mitigating and adapting to climate change, including a goal of net zero emissions for council operations by 2030, they do not explicitly require all council activities to align with this policy. The documents mention various strategies and actions related to climate change, such as promoting environmental sustainability, planning for climate change risks, and implementing a climate action plan. However, these are presented as specific initiatives or areas of focus, rather than as a blanket requirement for all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does explicitly allocate funding for climate action. The plan outlines a range of actions related to climate change, and for each action, it specifies the responsible work area and the funding or resourcing status. Many of these actions are marked as having an 'Existing budget', indicating that funds have already been allocated for these initiatives. For instance, the plan includes actions to build staff capacity to incorporate sustainability and climate considerations into project specifications, investigate further opportunities to involve DJAARA in Local Planning Policy frameworks related to climate change, and include a climate action lens in the Council’s Engage! Youth Leadership Program. All these actions are supported by the existing budget. However, it should be noted that some actions are subject to future budget bids or external funding, indicating that additional resources may be needed to fully implement the plan.",
+          "quote": {
+            "content": "specification template, guidelines, training) All / supported by Procurement / Sustainability / Waste Existing budget Build staff capacity to develop project specifications that incorporate sustainability and climate considerations (eg.",
+            "page": 30,
+            "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Central Goldfields Climate Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines several actions that involve the allocation of staff resources to climate-related initiatives. For instance, the plan includes building staff capacity to develop project specifications that incorporate sustainability and climate considerations. It also involves staff in investigating further opportunities to involve DJAARA in Local Planning Policy frameworks, particularly in relation to climate change adaptation and mitigation. Furthermore, the plan includes the allocation of staff resources to develop a climate-focused education program and to support community groups and organisations in building climate action capacity. These actions indicate a clear commitment to mobilising institutional resources, including staff, for climate action.",
+          "quote": {
+            "content": "Support community groups and organisations who work with elderly, people living with a disability, culturally and linguistically diverse, female and LGBTIQ+ populations to build climate action capacity Develop a climate focused education program... 64.",
+            "page": 32,
+            "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy outlines a series of actions and initiatives aimed at fostering community engagement and collaboration. These include the development of a climate-focused education program, support for community groups working with diverse populations to build climate action capacity, and the establishment of a community energy group. The policy also emphasizes the importance of partnerships, community ownership, and consistent messaging across the Shire. Furthermore, the policy outlines plans for a seed funding program to support community-led action, and a website to share information and resources. These actions demonstrate a commitment to social mobilization in the context of climate action.",
+          "quote": {
+            "content": "Support community groups and organisations who work with elderly, people living with a disability, culturally and linguistically diverse, female and LGBTIQ+ populations to build climate action capacity.",
+            "page": 32,
+            "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Central Goldfields Climate Action Plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines both technological solutions and behaviour change as part of its mitigation strategy. Technological solutions include the installation of rooftop solar, upgrading to energy efficient technologies, and the installation of electric vehicle charging stations. These actions aim to reduce greenhouse gas emissions by transitioning to renewable energy sources and improving energy efficiency. The plan also emphasizes the importance of behaviour change, such as home composting, which can reduce the amount of organic waste sent to landfill and thus decrease methane emissions. The plan's approach to mitigation is comprehensive, addressing both the supply (through technological solutions) and demand (through behaviour change) sides of greenhouse gas emissions.",
+          "quote": {
+            "content": "Mitigation – actions seeking to avoid and reduce greenhouse gas emissions in the atmosphere.",
+            "page": 12,
+            "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Central Goldfields Climate Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a two-pronged approach to addressing climate change, which includes both mitigation and adaptation actions. The document provides examples of adaptation actions such as preparing for floods, storms, and fires, improving water efficiency, and building community resilience. The plan also outlines six priority areas for mitigation and adaptation, which include Education, Collaboration & Mobilisation, Health & Wellbeing, Renewable Energy & Energy Efficiency, Built Environment & Transport, Waste & the Circular Economy, and Land & Water. Furthermore, the plan includes specific actions such as investigating partnership opportunities to support resilience and connection, supporting sporting clubs to assess risks and adapt to increasing temperatures, and mapping opportunities to activate community cool zones. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+          "quote": {
+            "content": "Adaptation actions help us to prepare for these changes in order to minimise harm, act on opportunities or cope with the consequences of changes to our natural and human systems. Adaptation – Some changes to our climate are now unavoidable or already being experienced.",
+            "page": 12,
+            "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a comprehensive plan for climate action, with a clear focus on both mitigation and adaptation strategies. It outlines six priority areas for action, including education, collaboration, mobilisation, health and wellbeing, renewable energy and energy efficiency, built environment and transport, waste and the circular economy, and land and water. The plan also includes an implementation plan for the period of June 2022 to June 2024, indicating a commitment to immediate action. The document also mentions the involvement of the community in the development of the plan, suggesting a bottom-up approach to policy-making. Furthermore, the document refers to the latest IPCC climate report, indicating that the policy is informed by the latest scientific research. However, while the document provides a clear framework for action, it does not provide specific evidence or data to justify its specific targets and actions.",
+          "quote": {
+            "content": "Both mitigation and adaptation goals are captured to ensure we are actively reducing our contribution to global greenhouse gas emissions, as well as preparing for and adapting to a changing climate.",
+            "page": 21,
+            "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific measurable criteria to evaluate the success of the proposed actions in the local government's climate action plan. While the plan outlines various actions to be taken in areas such as education, collaboration, mobilisation, health and wellbeing, renewable energy, energy efficiency, built environment, transport, waste, circular economy, and land and water, it does not explicitly state how the success of these actions will be measured. The documents mention an implementation plan, monitoring, and evaluation, but they do not provide specific details about the criteria or metrics that will be used to assess the effectiveness of the actions. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has engaged in a collaborative approach to climate action, inviting the Central Goldfields community to participate. This approach included a series of community workshops that took place from August to November 2021. These workshops provided valuable insights and direction for the development of the Climate Action Plan. The local government also conducted targeted consultations with Council staff and regional service providers during the Plan's development. This was done to ensure that the Plan built on existing work and captured important opportunities. Furthermore, the local government plans to implement a community-led project, Climate Conversation Week, to gather insights from the broader community around risks and potential actions, which will inform the ongoing implementation of the Climate Action Plan.",
+          "quote": {
+            "content": "These workshops provided valuable insights and direction for the development of this Plan. A series of community workshops took place from August through to November 2021.",
+            "page": 9,
+            "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The Central Goldfields Climate Action Plan demonstrates evidence of innovation and policy experimentation in climate action. The policy outlines a variety of mitigation and adaptation strategies, including the installation of rooftop solar, upgrading to energy-efficient technologies, and preparing for climate-related disasters. The plan also includes a community-led project, Climate Conversation Week, which aims to raise awareness and foster community mobilisation around climate change. This initiative is innovative as it encourages community members to lead conversations in their homes, schools, or workplaces, and provides them with a conversation kit to facilitate these discussions. Furthermore, the policy outlines a plan to review and update procurement policy and procedures to strengthen environmental sustainability and circular economy outcomes. This shows a willingness to experiment with different policy approaches to achieve climate goals.",
+          "quote": {
+            "content": "Community members interested in leading a conversation in their homes, school, \nsporting club, or workplace will be provided with a conversation kit. Climate Conversation Week\nOur collaborative group is looking to lead a whole of community event involving \n‘kitchen-table’ style conversations around climate change.",
+            "page": 25,
+            "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The Central Goldfields Climate Action Plan clearly indicates an intent to advocate upward to state and national governments to support climate action. The policy emphasizes the role of advocacy in achieving climate action goals and influencing broader systemic changes required to address climate change at regional, state, and national levels. The policy also outlines specific actions such as advocating for funding to provide a regional focus to enable delivery of actions that address both state and federal sustainability policies. This shows a clear intent to engage with higher levels of government to secure necessary resources and align local actions with broader policy objectives. The policy also highlights the importance of partnerships in delivering the plan, which could potentially include partnerships with state and national government entities.",
+          "quote": {
+            "content": "Advocacy will play an important role in achieving our climate action goals and influencing broader systemic changes required to address climate change at a regional, state and national level. Advocacy provides the opportunity to seek investment from the State and Commonwealth governments for initiatives and developments that are needed and important and wanted by communities.",
+            "page": 24,
+            "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The Central Goldfields Climate Action Plan indeed encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy emphasizes the importance of a partnership approach, involving various stakeholders such as community leaders, schools, health organizations, farmers, industry, business, and regional agencies. This approach is aimed at creating a meaningful impact on emissions reduction and adaptation to local climate challenges. The policy also highlights the role of advocacy in achieving climate action goals and influencing broader systemic changes. Furthermore, the policy outlines plans for community education, collaboration, and mobilization, including the provision of seed funding for community-led action and the development of a climate-focused education program. While the policy does not explicitly mention neighbouring local councils, the emphasis on collaboration and partnerships suggests a potential for engagement with these entities."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Central Goldfields Climate Action Plan emphasizes the importance of a partnership approach to tackle climate change. It mentions the involvement of various stakeholders, including Dja Dja Wurrung Traditional Owners, community leaders, community services, schools, health organizations, farmers, industry, business, and regional agencies. These stakeholders are expected to work together to oversee, govern, and activate the implementation, monitoring, and evaluation of the Plan. The Plan also mentions the establishment of a community energy group to investigate and facilitate renewable energy opportunities that benefit the community. Furthermore, the Plan highlights the role of advocacy in achieving climate action goals and influencing broader systemic changes at regional, state, and national levels."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It outlines the local government's commitment to supporting groups most vulnerable to the effects of climate change, including the elderly, people living with disabilities, culturally and linguistically diverse populations, females, and LGBTIQ+ communities. The policy also acknowledges the need to support outdoor workers, farmers, and those living in fire or flood-prone areas. The document further emphasizes the importance of climate adaptation and emissions reduction in its decision-making and operations. It also highlights the direct and indirect impacts of climate change on the health and wellbeing of the community, including the potential for increased infectious diseases and mental health impacts such as climate anxiety. The policy's focus on equity and social justice is evident in its commitment to ensuring that its climate action supports those most at risk.",
+          "quote": {
+            "content": "our mitigation and adaptation action must be sure to support those most at \nrisk, including our elderly, low socio-economic, people living with mental and physical \ndisabilities, Dja Dja Wurrung and other Traditional Owners living on Djaara Country, \nculturally and linguistically diverse, female and LGBTIQ+ communities; as well as \noutdoor workers, farmers and those living in fire or flood prone areas.",
+            "page": 15,
+            "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The policy document does discuss how to equitably share the benefits and opportunities of a safe climate. It emphasizes the importance of supporting vulnerable groups in climate action, including the elderly, people living with disabilities, and diverse cultural and gender groups. The policy also outlines plans to develop a climate-focused education program and to support the establishment of a community energy group to facilitate renewable energy opportunities. These actions suggest an intention to distribute climate benefits and opportunities across the community. However, the document does not provide specific details on how these benefits and opportunities will be equitably shared. It is also unclear how the policy will ensure that these actions are implemented in a way that is fair and just.",
+          "quote": {
+            "content": "Support community groups and organisations who work with elderly, people living with a disability, culturally and linguistically diverse, female and LGBTIQ+ populations to build climate action capacity",
+            "page": 32,
+            "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 17,
+    "num_questions": 20,
+    "attribute_score": 87.5
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "settings": {
+    "source_files": [
+      "Warrnambool-Green-Warrnambool.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "c4f69506b17e4e8e9e1474113bf76c4bd2543b7a",
+    "rundate": "2024-05-25T14:41:50.989817",
+    "lga": "Warrnambool"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review clearly identifies climate action as its core purpose. The policy's primary goal is to address the challenges of climate change and to reduce the local government's emissions by 30% by 2020. The policy outlines a Climate Change Action Plan that assesses and explores the impact of climate change on the city's systems, including water supply, transport, communications, energy services, emergency services, and the built environment. The policy also acknowledges the need to look beyond the 2020 target for future emissions reductions. The policy's focus on climate action is further emphasized by its identification of key climate change risks, including less rainfall, more chance of drought, extreme heatwaves and bushfires, more intense rainfall and wind storms, and sea level rise.",
+          "quote": {
+            "content": "Council’s Climate Change Action Plan outlines how we will achieve our target of reducing Council’s emissions by 30 per cent by the year 2020 and we now need to look beyond this for future emissions reductions. Climate Change is the most pressing economic and environmental issue of our time. Council acknowledges the need to tackle the root causes of climate change.",
+            "page": 10,
+            "source": "Warrnambool-Green-Warrnambool.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The local government acknowledges climate change as the most pressing economic and environmental issue of our time and outlines a Climate Change Action Plan to tackle its root causes. The plan aims to reduce the Council's emissions by 30% by 2020 and explores the impact of climate change on various city systems including water supply, transport, communications, energy services, emergency services, and the built environment. The documents also identify key climate change risks such as less rainfall, more chance of drought, extreme heatwaves and bushfires, more intense rainfall and wind storms, and sea level rise. The need for action is further emphasized by the commitment to develop a Sustainable Building Design Policy, review and update the Climate Change Action Plan, and support the construction and development of Zero Net Carbon Neighbourhoods.",
+          "quote": {
+            "content": "Council’s Climate Change Action Plan outlines how we will achieve our target of reducing Council’s emissions by 30 per cent by the year 2020 and we now need to look beyond this for future emissions reductions. Climate Change is the most pressing economic and environmental issue of our time. Council acknowledges the need to tackle the root causes of climate change.",
+            "page": 10,
+            "source": "Warrnambool-Green-Warrnambool.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline the local government's Climate Change Action Plan, which includes a target of reducing emissions by 30% by 2020, and acknowledges the need to look beyond this for future emissions reductions. The documents also detail the risks posed by climate change, such as less rainfall, more chance of drought, extreme heatwaves, bushfires, more intense rainfall, wind storms, and sea level rise. However, while the documents clearly acknowledge the seriousness of climate change and the need for action, they do not use language that would suggest a sense of urgency or a call for rapid action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Council's Climate Change Action Plan outlines a target of reducing Council’s emissions by 30 per cent by the year 2020. The Victorian Government has committed to renewable energy generation targets of 25 per cent by 2020 and 40 per cent by 2025. The Australian Government’s climate change plan includes reducing emissions by 5 per cent below 2000 levels by 2020 and by 26 to 28 per cent below 2005 levels by 2030. The Council also has immediate actions such as commencing the development of a Sustainable Building Design Policy and Guide, and reviewing and updating the Climate Change Action Plan. By 2026, the Council aims to have a Sustainable Building Design Policy and Guide in use, and all new Council buildings constructed from 2026 onward will operate as zero net emission buildings."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various initiatives, such as reducing emissions, improving the resilience of the built environment, and protecting biodiversity, there is no explicit statement prioritizing these actions over other policies. The documents discuss the importance of climate change action and outline various strategies and targets, but they do not explicitly state that these actions should take precedence over other policy areas. Therefore, based on the provided documents, the answer to the question is negative."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents outline the council's commitment to addressing climate change through various initiatives and plans, such as the Climate Change Action Plan and the Green Warrnambool objectives, there is no explicit requirement stated that all council activities must align with these climate policies. The documents do indicate that the council plans to review and update these policies regularly, and that they will be used to guide the council's actions in relation to climate change. However, this does not equate to a mandate for all council activities to align with these policies."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that funding has been allocated for climate action. While the documents outline various plans, targets, and actions related to climate change, such as the Victorian Renewable Energy targets, the 'Take 2' pledge program, and the New Energy Jobs Fund, they do not provide specific details about the allocation of funding for these initiatives. The documents mention the development of various plans and projects, such as the Warrnambool Zero 2040 Plan and the Warrnambool Renewable Futures Project, but again, no specific funding details are provided. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents outline various climate action plans, targets, and strategies, they do not specify the allocation of institutional resources such as staff time, expertise, or other non-monetary resources. The documents mention the development of various plans and strategies, the commitment to reducing emissions, and the intention to support community energy projects, among other actions. However, these are stated as goals or actions to be taken, without clear details on the institutional resources that will be mobilized to achieve these goals. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. It outlines a number of initiatives aimed at engaging the community in climate action, such as community energy projects, which are described as playing a critical role in driving change at the grassroots level. The document also mentions the provision of tools to the community to develop neighbourhood level energy systems. Furthermore, the document acknowledges the importance of the commitment and involvement of residents, community groups, schools, businesses, and government agencies in achieving the outlined goals. It also outlines plans to support and promote local producers and businesses, and to develop and support behaviour change programs to encourage and educate about sustainable transport. This indicates a comprehensive approach to social mobilisation for climate action.",
+          "quote": {
+            "content": "There are significant opportunities for community energy and Council will support the community and give the tools to develop neighbourhood level energy systems. Community energy projects will play a critical role in driving change at the grassroots level. The community will be engaged and supported to come together to act on climate change.",
+            "page": 6,
+            "source": "Warrnambool-Green-Warrnambool.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a combination of technological solutions and behaviour change strategies. Technological solutions include the installation of renewable energy systems in homes and businesses, with a goal of sourcing all of Warrnambool’s energy from renewables by 2040. The plan also mentions the development of neighbourhood level energy systems and the increased use of electric vehicles. Behaviour change strategies include the development of programs to encourage sustainable transport and the engagement of the community in climate change action. The plan also outlines the goal of creating a '20 minute city', where residents can access all major services within a 20-minute walk, cycle, or public transport ride, thereby reducing the reliance on vehicles and associated emissions.",
+          "quote": {
+            "content": "This will ensure our transport systems are efficient and have a reduced environmental footprint. Transport produces considerable emissions and these will reduce over time by increased use of walk and bicycle paths, uptake of electric vehicles and other new technologies. Our urban areas will be compact, creating a ‘20 minute city’ where residents can walk, cycle or take public transport to all major services in twenty minutes or less. This will ensure our transport systems are efficient and have a reduced environmental footprint.",
+            "page": 6,
+            "source": "Warrnambool-Green-Warrnambool.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a broad range of actions, such as addressing risks to State Government operations and assets, helping Victorian communities adapt to climate change, and preparing for and responding to extreme weather events. The plan also includes specific actions such as the development of a Sustainable Building Design Policy and Guide, the review and update of the Climate Change Action Plan, and the support for the construction and development of Zero Net Carbon Neighbourhoods. These actions demonstrate a comprehensive approach to climate adaptation and resilience, addressing both the immediate and long-term impacts of climate change.",
+          "quote": {
+            "content": "Broad Actions (these are further detailed in the plan):\n• \nLeading by example: addressing risks to State \nGovernment operations and assets\n• \nHelping Victorian communities adapt to climate change \n- Guidance and authoritative up-to-date information\n• \nA partnership with local government\n• \nEmbedding adaptation in core sectors of our \ncommunity\n• \nAddressing the impacts on health and human services\n• \nPreparing for and responding to extreme weather events\n• \nManaging impacts on the natural environment and \nProtecting biodiversity\n•",
+            "page": 30,
+            "source": "Warrnambool-Green-Warrnambool.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of climate change risks and the areas of the city's systems that will be impacted, it does not provide specific evidence or data to support these claims. The policy also outlines a number of actions and targets, such as reducing Council’s emissions by 30 per cent by the year 2020, but it does not provide any evidence or reasoning to justify these specific targets. Furthermore, the policy does not provide any details on how these targets were determined or any research or data that was used to inform these decisions. Therefore, while the policy does outline a number of actions and targets related to climate change, it does not provide well-sourced evidence to justify these actions and targets."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Green Warrnambool Plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a review process that will occur every four years, during which new short-term targets will be set for the following four years. This process allows the Council to continually work towards achieving the vision and principles set out in the plan. Additionally, an annual report will be prepared to assess progress towards the targets and the actions within the issue-specific plans. These reporting mechanisms include the annual Sustainability Report and Environment Report, as well as reports on specific programs such as green procurement, greenhouse reporting, and externally funded grants. Baseline data will be developed and used to assess whether the targets in Green Warrnambool are being achieved and whether environmental sustainability is improving, declining, or remaining constant.",
+          "quote": {
+            "content": "An annual report will be prepared on progress towards the targets and the actions within the issue specific plans. The Green Warrnambool objectives will be reviewed every four years, including setting new short term targets for the following 4 years. This will enable Council to continually work towards achieving the vision and principles set out.",
+            "page": 29,
+            "source": "Warrnambool-Green-Warrnambool.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined several initiatives that involve gathering information and assessing local conditions to guide their climate change response. For instance, the 'Green Warrnambool' document mentions the development of a Local Fresh Food Plan, which would require research into local consumption trends and statistics. Additionally, the council plans to identify rural land use trends and issues to inform the assessment of the agricultural capability of rural land. The 'Adaptable Warrnambool' document also mentions the commencement of a leading practice Sustainable Building Design Policy and Guide, which would likely involve research into local building practices and sustainability measures. Furthermore, the council plans to review and update the Climate Change Action Plan, which would necessitate an understanding of the current local climate situation and the effectiveness of existing measures.",
+          "quote": {
+            "content": "Identify rural land use trends and issues to inform the assessment of the agricultural capability of rural land. Develop the Local Fresh Food Plan and build baseline information of current trends and statistics related to consumption choices.",
+            "page": 28,
+            "source": "Warrnambool-Green-Warrnambool.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's Climate Change Action Plan outlines a comprehensive approach to reducing emissions, with a specific target of a 30% reduction by 2020. The plan also identifies key climate change risks and assesses their impact on various city systems, demonstrating a holistic approach to climate action. The Victorian State Government's Climate Change Adaptation Plan also shows evidence of policy experimentation, with broad actions that include addressing risks to government operations, helping communities adapt, and embedding adaptation in core sectors. The plan also includes a partnership with local government, indicating a collaborative approach to climate action. The documents also mention the development of a Sustainable Building Design Policy and Guide, the implementation of green infrastructure, and the promotion of renewable energy, all of which are innovative strategies for climate action.",
+          "quote": {
+            "content": "Council’s Climate Change Action Plan outlines how we will achieve our target of reducing Council’s emissions by 30 per cent by the year 2020 and we now need to look beyond this for future emissions reductions.",
+            "page": 10,
+            "source": "Warrnambool-Green-Warrnambool.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the Victorian State Government's Climate Change Adaptation Plan does mention a 'partnership with local government', it does not specify the nature of this partnership or whether it involves advocacy for climate action. Similarly, the Warrnambool City Council's Climate Change Action Plan outlines various actions and strategies to address climate change at the local level, but does not mention advocacy to higher levels of government. Therefore, based on the provided documents, it cannot be conclusively stated that there is an explicit intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The document does encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. It outlines a number of initiatives and actions that are aimed at engaging and supporting the community to act on climate change. For instance, the document mentions the development of neighbourhood level energy systems and the promotion of community energy projects. It also emphasizes the importance of community involvement in achieving the council's climate change goals. However, the document does not explicitly mention coordination or partnerships with neighbouring local councils. The focus is primarily on the local community and the council itself.",
+          "quote": {
+            "content": "There are significant opportunities for community energy and Council will support the community and give the tools to develop neighbourhood level energy systems. Community energy projects will play a critical role in driving change at the grassroots level. The community will be engaged and supported to come together to act on climate change.",
+            "page": 6,
+            "source": "Warrnambool-Green-Warrnambool.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss various actions and plans related to climate change, such as the Victorian Climate Change Adaption Plan, the Victorian Renewable Energy targets, and the Council's Climate Change Action Plan, they do not specify any partnerships or alliances. The documents do mention the concept of working together and partnerships in a general sense, such as 'a partnership with local government' and 'our institutions, agencies, universities, industries, businesses and community leaders will partner to develop the world’s best responses.' However, these references are not specific and do not name any particular associations or alliances."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the policy outlines the local government's plans to tackle climate change, including reducing emissions, managing impacts on the natural environment, protecting biodiversity, and building resilience in transport systems, it does not specifically address how these actions will affect vulnerable communities. The policy does mention the need for community engagement and the provision of information to the community about climate change impacts, but it does not explicitly link these actions to equity or social justice concerns. Therefore, based on the provided documents, the policy does not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and plans related to climate change adaptation and mitigation, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The documents focus more on the technical and strategic aspects of climate change, such as reducing emissions, adapting to climate risks, and investing in clean technology. They also mention the importance of community engagement and the role of local government in climate change action. However, they do not delve into the specifics of how these benefits and opportunities will be shared equitably among different social groups or how social justice will be ensured in the process."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 10,
+    "num_questions": 20,
+    "attribute_score": 55.8
+  }
+}

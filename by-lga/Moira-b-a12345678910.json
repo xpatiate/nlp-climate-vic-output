@@ -1,0 +1,274 @@
+{
+  "settings": {
+    "source_files": [
+      "Moira-2018-corporate-emissions-reduction-plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T20:29:08.244482",
+    "lga": "Moira"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The core purpose of the policy, as indicated by the documents, is to reduce greenhouse gas emissions, which is a key aspect of climate action. The policy outlines a series of actions and strategies aimed at reducing emissions in various sectors, including the workplace, waste management, and building operations. The policy also includes a commitment to monitor and evaluate progress towards these goals. While the policy does not explicitly state that 'climate action' is its core purpose, the focus on emissions reduction and the implementation of strategies to achieve this goal align with the broader objectives of climate action. Therefore, it can be inferred that climate action is a core purpose of the policy.",
+          "quote": {
+            "content": "Reduce emissions  \nfrom street lighting\n7. 2021 target \nReduce emissions \nby 35 per cent \nbelow 2008-09 \nlevels. Priorities \n1. Develop a low carbon \nworkplace\n2. Reduce emissions  \nfrom waste\n3. Reduce emissions  \nfrom fleet\n4. Reduce emissions  \nfrom buildings\n5. Reduce emissions from \nparks and reserves\n6.",
+            "page": 1,
+            "source": "Moira-2018-corporate-emissions-reduction-plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly explain the need for action on climate change. They outline the local government's Corporate Emissions Reduction Plan for 2018-2021, which includes strategies for reducing emissions from various sources such as waste, fleet, buildings, parks and reserves, and street lighting. The plan also includes measures to develop a low carbon workplace and monitor and evaluate progress. However, the documents do not provide a clear rationale or explanation for why these actions are necessary in the context of climate change. They do not discuss the impacts of climate change, the role of greenhouse gas emissions in contributing to climate change, or the potential benefits of emissions reduction for mitigating climate change. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a plan for the local government to reduce emissions in various sectors, including the workplace, waste, fleet, buildings, parks and reserves, and street lighting. The plan spans from 2018 to 2021, indicating a gradual approach rather than an urgent one. The documents mention the development of a low carbon workplace, reducing emissions from waste, and installing rooftop solar and energy efficiency measures on buildings. However, these actions are planned over several years, suggesting a steady, long-term approach to emissions reduction rather than an immediate, urgent response to climate change. Therefore, based on the provided documents, the local government's policy does not explicitly call for rapid and urgent action on climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate. The Corporate Emissions Reduction Plan 2018-2021 outlines a series of actions to be taken over the course of four years (2017-18, 2018-19, 2019-20, 2020-21) across various work areas. These actions include developing a low carbon workplace, reducing emissions from waste, fleet, buildings, parks and reserves, and street lighting, and monitoring and evaluating progress. Each action is accompanied by a timeline indicating the years in which it will be implemented. This level of detail suggests a clear commitment to taking timely action on climate change. However, it should be noted that the document does not explicitly state the urgency of these actions, but the inclusion of specific timeframes implies a recognition of the need for prompt action.",
+          "quote": {
+            "content": "Implementation of Emissions Reduction Plan 2018-2021 Priority 1: Develop a low carbon workplace Action Work Area 2017-18 2018-19 2019-20 2020-21 1.1 Continue to use the internal Green Team to raise awareness and encourage change Environmental Services ü ü ü ü 1.2 Facilitate staff education sessions to encourage low carbon behaviours Environmental Services ü ü ü ü 1.3 Report on the status of emissions reduction projects being implemented Environmental Services ü ü ü ü 1.4 Promote Council’s commitment to reducing greenhouse gas emissions at our facilities to encourage users to make sustainable choices for transport, purchases, and avoiding waste Environmental Services ü ü ü ü",
+            "page": 11,
+            "source": "Moira-2018-corporate-emissions-reduction-plan.pdf",
+            "search_score": 0.92
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents focus on the Moira Shire Council's Corporate Emissions Reduction Plan 2018-2021, outlining various strategies and actions to reduce emissions in different areas such as the workplace, waste, fleet, buildings, parks and reserves, and street lighting. The plan also includes a commitment to monitor and evaluate progress. However, there is no explicit statement prioritizing these climate response actions over other policies. The documents do indicate a commitment to reducing emissions and promoting environmental sustainability, but they do not provide a clear hierarchy of policy priorities."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. The documents outline a series of actions and priorities aimed at reducing emissions in various areas such as the workplace, waste, fleet, buildings, parks and reserves, and street lighting. These actions include developing a low carbon workplace, reducing emissions from waste, investigating the use of alternative-fuelled vehicles, and installing rooftop solar on high priority buildings. However, these actions are specific initiatives under the council's Emissions Reduction Plan 2018-2021 and do not necessarily imply that all council activities must align with this policy. The documents also mention the council's role in assisting the community to reduce emissions, but this is stated to be outside the scope of the plan."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various actions to reduce emissions, such as investigating the use of alternative-fuelled vehicles, promoting sustainable transport options, and installing energy-efficient measures in buildings, there is no clear mention of specific budget allocations or funding sources for these initiatives. The documents do mention a 'Back to Earth Initiative' funded by the Victorian Government, but this is in relation to waste management, not climate action specifically. Therefore, based on the available information, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's policy does indeed allocate staff and other non-monetary institutional resources to climate action. The policy outlines a number of actions that involve staff participation and institutional resources. For instance, the policy mentions the use of an internal Green Team to raise awareness and encourage change, as well as facilitating staff education sessions to encourage low carbon behaviours. The policy also promotes walking, cycling, and carpooling options to staff and provides incentives for staff to use more sustainable transport options. Furthermore, the policy mentions the Environmental Services department's role in collating, evaluating, and communicating the Council’s annual emissions profile. These actions clearly indicate that the policy allocates both staff and institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of the local government actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy primarily focuses on the council's internal actions to reduce emissions, such as developing a low carbon workplace, reducing emissions from waste, fleet, buildings, parks and reserves, and street lighting. The council acknowledges its role in assisting the community to reduce emissions in the Environmental Sustainability Strategy 2017-2021, but this is stated to be outside the scope of the current plan. While there are mentions of promoting council's commitment to reducing emissions and encouraging sustainable choices, these actions seem to be directed more towards the council's staff and facility users, rather than the broader community."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Emissions Reduction Plan 2018-2021 indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a comprehensive approach that combines both technological solutions and behaviour change. Technological solutions include the installation of rooftop solar and energy efficiency measures on high priority buildings, improving the energy intelligence of buildings, and working with Powercor to change inefficient street lights to more efficient alternatives. Behaviour change is addressed through the development of a low carbon workplace, which includes the use of an internal Green Team to raise awareness and encourage change, facilitating staff education sessions to encourage low carbon behaviours, and promoting the Council’s commitment to reducing greenhouse gas emissions. The plan also considers signing a pledge that demonstrates the Council's commitment to reducing greenhouse gas emissions. Therefore, the plan provides a multi-faceted approach to mitigating greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents from the Corporate Emissions Reduction Plan 2018-2021 do not include specific actions for climate adaptation and resilience. The plan primarily focuses on reducing corporate emissions, which is the council's primary responsibility. The documents detail various strategies and actions to reduce emissions from different sectors such as waste, fleet, buildings, parks and reserves, and street lighting. It also emphasizes the importance of monitoring and evaluating progress. However, these actions are geared towards mitigation of climate change by reducing greenhouse gas emissions, rather than adaptation to the impacts of a changing climate or enhancing resilience. Adaptation and resilience would involve strategies to cope with the effects of climate change, such as extreme weather events or rising temperatures, which are not mentioned in the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a clear target of reducing emissions by 35% below 2008-09 levels by 2021, it does not provide any specific evidence or data to justify this target. The policy does mention a number of actions to be taken, such as developing a low carbon workplace, reducing emissions from waste, fleet, buildings, parks and reserves, and street lighting, and monitoring and evaluating progress. However, these actions are not backed up by any well-sourced evidence or data that would justify their effectiveness in achieving the stated target. The policy also lacks any detailed explanation or analysis of how these actions were chosen or why they are expected to be effective. Therefore, the policy does not meet the high standard of evidence and specific detail required to answer the question in the affirmative."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's Corporate Emissions Reduction Plan 2018-2021 does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a systematic approach to monitoring and evaluating progress. It includes a commitment to continually review progress annually and in detail every four years. This review process includes assessing achievements against actions and reassessing priorities and actions based on new information, drivers, and trends. The plan also includes specific actions to be taken in different years, which provides a clear timeline for implementation and evaluation. However, while the plan does provide a framework for evaluation, it does not provide specific metrics or targets for each action, which could limit the effectiveness of the evaluation process.",
+          "quote": {
+            "content": "Continually review progress (as a snapshot annually and in detail every four years), including achievements against actions and a reassessment of priorities and actions (considering new information, drivers and trends).",
+            "page": 10,
+            "source": "Moira-2018-corporate-emissions-reduction-plan.pdf",
+            "search_score": 0.93
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents provided do not describe any plans to conduct research in the local community to inform climate actions. The focus of the documents is primarily on the local government's internal operations and strategies to reduce emissions. These include developing a low carbon workplace, reducing emissions from waste, fleet, buildings, parks and reserves, and street lighting, and monitoring and evaluating progress. The documents mention the council's role in assisting the community to reduce emissions, but this is stated to be outside the scope of the plan. There are also references to educating staff and the community about low carbon behaviours and appropriate waste disposal methods, but these do not involve conducting research in the community."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has implemented a Corporate Emissions Reduction Plan 2018-2021, which focuses on reducing corporate emissions, a primary responsibility of the council. The plan includes actions such as continually reviewing progress, reassessing priorities and actions, and investigating the potential to reduce emissions from lighting. The council also plans to work with Powercor to change inefficient street lights to more efficient alternatives. Additionally, the council has implemented a kerbside organics service, which has resulted in 2700 tonnes of organic waste being processed into compost annually, reducing Council’s CO2-e by an estimated 800 tonnes per year. The council is also involved in a project reviewing councils’ fleet data to determine if some vehicles are suitable for replacement with electric vehicles. These actions demonstrate a commitment to innovation and policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The focus of the documents is primarily on the local government's own actions and strategies to reduce emissions within its jurisdiction. These include measures such as reducing emissions from corporate activities, street lighting, and buildings, as well as promoting a low carbon workplace and reducing emissions from waste. The documents also mention the role of the Environmental Services Department in monitoring and evaluating progress against these targets. However, there is no mention of any intent to advocate for climate action at the state or national level."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The focus of the documents is primarily on the actions of the Moira Shire Council itself, with specific actions and strategies outlined for reducing emissions within the council's operations. These include developing a low carbon workplace, reducing emissions from waste, fleet, buildings, parks and reserves, and street lighting, and monitoring and evaluating progress. While the council acknowledges its role in assisting the community to reduce emissions, this is stated to be outside the scope of the plan. There is no explicit mention of building local capacity or fostering partnerships with neighbouring local councils for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do indeed refer to specific regional associations and alliances related to climate action. The Goulburn Broken Greenhouse Alliance is mentioned as a facilitator for reporting at a regional scale. This suggests that the local government is not working in isolation but is part of a broader network of councils working towards similar environmental goals. The documents also mention a Collaborative Climate Change Reporting project, which has developed a set of environmental sustainability reporting indicators to help develop consistent reporting across the six councils involved. This indicates a coordinated effort to standardize and streamline the process of reporting on climate change-related initiatives and progress.",
+          "quote": {
+            "content": "The Goulburn Broken Greenhouse Alliance will facilitate reporting at a regional scale. The Collaborative Climate Change Reporting project has developed a set of environmental sustainability reporting indicators to help develop consistent reporting across the six councils involved.",
+            "page": 10,
+            "source": "Moira-2018-corporate-emissions-reduction-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents, which focus on the local government's Corporate Emissions Reduction Plan 2018-2021, do not explicitly discuss the impact of climate change on vulnerable communities in relation to equity and social justice. The documents primarily detail the council's strategies and actions to reduce corporate emissions, including measures such as energy-efficient lighting, waste management, and staff education. However, there is no specific mention or discussion of how climate change affects vulnerable communities, or any measures to address these impacts in terms of equity and social justice. Therefore, based on the provided documents, the answer to the question is negative."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The focus of the documents is primarily on the reduction of corporate emissions, with specific actions and strategies outlined to achieve this goal. These include developing a low carbon workplace, reducing emissions from waste and fleet, and monitoring and evaluating progress. While these actions are important for mitigating climate change, they do not directly address the distribution of benefits and opportunities arising from these efforts. The documents do not provide any specific measures or strategies to ensure that the benefits of a safe climate are shared equitably among different social groups or address issues of social justice in the context of climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 7,
+    "num_questions": 20,
+    "attribute_score": 33.3
+  }
+}

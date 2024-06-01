@@ -1,0 +1,434 @@
+{
+  "attribute": 9,
+  "question": 12,
+  "finding": true,
+  "num": 42,
+  "responses": [
+    {
+      "answer": "The documents provide well-sourced evidence to justify its climate targets and actions. The Alpine Shire Council's Climate Action Plan aligns with international, federal, state, and regional policies and commitments to mitigate climate change. The Council's commitment to achieving net zero greenhouse gas emissions by July 2023 is clearly stated. The plan outlines a pathway to achieve this target, which includes measures such as reducing corporate emissions, supporting community emissions reduction, and developing a Climate Adaptation and Resilience Plan. The plan also includes a commitment to review the document in three years to ensure it remains current with climate science, technology, and community expectations. The Council's approach to climate change mitigation involves a continuous improvement process that is adaptive and responsive to changing needs. This process ensures that the targets set and the means to achieve them are environmentally, financially, and socially sustainable both now and in the future.",
+      "source": "Alpine-a-a12345678910.json",
+      "lga": "Alpine",
+      "quote": {
+        "content": "We are committed to the ambitious target of achieving net zero greenhouse gas emissions from Council operations by July 2023. Through this Climate Action Plan, Council is accountable for the impact our operations have on global greenhouse gas emissions.",
+        "page": 3,
+        "source": "Alpine-2021-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide well-sourced evidence to justify its climate targets and actions. The local government's Climate Action Plan is aligned with international, federal, state, and regional policies and commitments to mitigate climate change. The plan is in line with Australia's commitment to The Paris Agreement, which aims to limit global warming to well below 2, preferably 1.5°C, by achieving a climate-neutral world by 2050. The plan also aligns with the Victorian Climate Change Act 2017, which sets a long-term GHG emissions reduction target for the state of net zero emissions by 2050. The local government has set an ambitious target of achieving net zero greenhouse gas emissions from Council operations by July 2023. The plan outlines a pathway to achieve this target, which includes measures such as reducing corporate emissions, supporting the community in reducing their emissions, and developing a Climate Adaptation and Resilience Plan. The plan will be reviewed in three years to ensure it remains current with climate science, technology, and community expectations.",
+      "source": "Alpine-b-a12345678910.json",
+      "lga": "Alpine",
+      "quote": {
+        "content": "State The Victorian Climate Change Act 2017 sets a long-term GHG emissions reduction target for the state of net zero emissions by 2050. The Council’s Climate Action Plan supports commitments at all levels of government, including: International Australia is committed to The Paris Agreement, a “legally binding international treaty on climate change. Its goal is to limit global warming to well below 2, preferably 1.5°C” by achieving a climate neutral world by 2050 (United Nations Climate Change 2021).",
+        "page": 7,
+        "source": "Alpine-2021-climate-action-plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The document provides a well-structured plan for achieving net zero emissions by 2030. It outlines specific areas of action, such as developing low emissions infrastructure, advocating for zero emissions vehicles, and implementing net zero design standards in new developments. The plan also includes a monitoring, reporting, and review process, with annual reporting on progress and a plan review scheduled for 2025. The document acknowledges the need for cross-sectoral collaboration and community engagement, and it details the use of workshops and other mechanisms to gather input and build consensus. The plan's target aligns with the Paris Agreement's goal of limiting temperature increase to 1.5°C above pre-industrial levels. However, while the document outlines a clear plan and rationale, it does not provide specific sources or data to justify its targets and actions.",
+      "source": "Ballarat-a-a12345678910.json",
+      "lga": "Ballarat",
+      "quote": {
+        "content": "This plan identifies key areas of action for the Ballarat community to transition to net zero emissions by 2030. Achieving the ambitious target of net zero emissions by 2030 will require substantial action by the Victorian and Australian Government beyond currently planned actions and targets, as well as from the Ballarat community.",
+        "page": 4,
+        "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document provides a well-structured plan for achieving net zero emissions by 2030. It outlines specific areas of action, such as Net Zero Business, Net Zero Homes, Net Zero New Developments, Net Zero Transport, and Net Zero Waste. The plan also includes a monitoring, reporting, and review process, with annual reporting on progress and a review scheduled for 2025. The plan's target aligns with the Paris Agreement's goal of limiting temperature increase to 1.5°C above pre-industrial levels. The document also acknowledges the need for cross-sectoral collaboration and community engagement, and it includes specific actions such as advocating for zero emissions vehicles. However, while the document outlines a clear plan and target, it does not provide specific sources or data to justify these targets and actions.",
+      "source": "Ballarat-b-a12345678910.json",
+      "lga": "Ballarat",
+      "quote": {
+        "content": "This plan identifies key areas of action for the Ballarat community to transition to net zero emissions by 2030. Achieving the ambitious target of net zero emissions by 2030 will require substantial action by the Victorian and Australian Government beyond currently planned actions and targets, as well as from the Ballarat community.",
+        "page": 4,
+        "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Climate Change Action Plan 2020 - 2030 provides a comprehensive approach to addressing climate change, with a clear focus on evidence-based decision making. The plan outlines a detailed process for developing actions, which includes data gathering and analysis, community engagement, and internal engagement. This process ensures that the actions are technically feasible, economically beneficial, and socially desirable. The plan also includes a monitoring framework to evaluate the effectiveness of the actions and their implementation. This framework focuses on four key areas: foundations for strong, collective climate action, emissions reduction, climate change impacts and effectiveness of adaptation responses, and reach and engagement of the community. The plan also acknowledges the challenges of monitoring progress in relation to climate adaptation and resilience, and outlines a method for setting indicators of effectiveness. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "In reality, they necessarily overlapped and influenced each other. The three key elements of the process – engagement, emissions analysis and adaptation planning – are described in the following pages. They are described separately for the sake of clarity.",
+        "page": 71,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The Climate Change Action Plan 2020 - 2030 provides a comprehensive approach to addressing climate change, with a clear focus on evidence-based decision making. The plan outlines four key areas for monitoring and evaluation, including emissions reduction and climate change impacts. It also details a high-level framework for monitoring progress and evaluating the effectiveness of actions. The plan was developed through an extensive technical and consultation process, which included data gathering and analysis, community engagement, and adaptation planning. The process sought to find actions where technical and financial viability overlapped with social desirability. The plan also includes a review of available research, technology, and other information, as well as a re-evaluation of climate change data and projections. This suggests that the plan's climate targets and actions are well-sourced and justified.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "In reality, they necessarily overlapped and influenced each other. The three key elements of the process – engagement, emissions analysis and adaptation planning – are described in the following pages. They are described separately for the sake of clarity.",
+        "page": 71,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents provide a detailed Climate Emergency Action Plan, which outlines specific actions, deliverables, and outcomes related to climate change. The plan includes a review of over 81 policies, strategies, and plans, indicating a comprehensive approach to developing the action plan. The plan also incorporates actions from previous strategies, such as the Climate Change Strategy 2012 and the Carbon Neutrality Action Plan 2018-20, demonstrating continuity and progression in the local government's approach to climate change. The plan outlines specific actions such as updating procurement policies to address climate change impacts, providing information on Environmentally Sustainable Development standards, and supporting vulnerable community members in the transition to 'zero carbon' energy. The plan also includes a monitoring and reporting mechanism, with progress reported annually to the Council. This suggests a commitment to transparency and accountability in the implementation of the plan.",
+      "source": "Bayside-a-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "Actions from the Carbon Neutrality Action Plan 2018-20 appropriate to continue have also been incorporated into this Action Plan. Actions not yet implemented from the Climate Change Strategy have been incorporated, with updated wording to consider the current context.",
+        "page": 47,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide a detailed outline of the local government's Climate Emergency Action Plan, which includes a comprehensive review of existing policies, strategies, and plans. The plan incorporates actions from previous strategies that have not yet been implemented, as well as actions from the Carbon Neutrality Action Plan 2018-20. The plan also includes a 'Gaps and Opportunities' assessment, which evaluates each policy, strategy, and plan for its strengths, gaps, and opportunities. The plan outlines specific actions, deliverables, and outcomes, along with their associated timeframes, costs, budget sources, and delivery complexities. The plan also includes a monitoring and reporting mechanism, with progress on the delivery of actions reported annually to the Council. The actions will be reviewed and updated after the first year of implementation, and then biennially. The plan will be fully reviewed in 2024/25. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.",
+      "source": "Bayside-b-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "Actions from the Carbon Neutrality Action Plan 2018-20 appropriate to continue have also been incorporated into this Action Plan. This Action Plan replaces the Climate Change Strategy 2012. Actions not yet implemented from the Climate Change Strategy have been incorporated, with updated wording to consider the current context.",
+        "page": 47,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide a detailed plan for addressing climate change, including specific actions, timelines, and responsible parties. The Cardinia Shire Council's Climate Change Adaptation Strategy outlines a 10-year costed action plan that incorporates evaluation, review, and assessment of initiatives. This plan is designed to be flexible and adaptable, with a midterm review to ensure the most up-to-date data is used in identifying risks and adaptation priorities. The documents also detail specific actions such as raising community awareness, identifying high-risk areas for development, and participating in regional climate adaptation projects. These actions are linked to specific timeframes and responsible departments, indicating a well-structured and accountable approach. However, while the documents provide a clear plan of action, they do not explicitly cite external sources or evidence to justify the specific targets and actions. The documents do reference a 'CCIR assessment' which seems to be the basis for their risk identification and action planning, but the details of this assessment and its methodology are not provided in the given context.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "Developing a 10-year costed action plan that incorporates the evaluation, review and assessment of the delivered initiatives will ensure Council remains flexible in its approach to adapting the systems in the shire to climate change.",
+        "page": 25,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The documents provide a detailed plan for addressing climate change, including specific actions, timelines, and responsible parties. The Cardinia Shire Council's Climate Change Adaptation Strategy outlines a 10-year costed action plan that incorporates evaluation, review, and assessment of initiatives. It also emphasizes the need for a midterm review to ensure the plan is based on the most up-to-date and accurate data. The strategy identifies seven high-risk categories and proposes action pathways for each. The documents also mention specific initiatives such as raising community awareness, identifying high-risk areas for development, and participating in regional climate adaptation projects. The strategy is backed by a Climate Change Impact and Risk (CCIR) assessment, which identifies local risks associated with climate change for both near-future (2030) and far-future (2070) time horizons. Therefore, the documents provide well-sourced evidence to justify its climate targets and actions.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "A risk rating category consisting of, extreme, high, medium, and low was used to categorise identified climate risks. The CCIR assessment identified local risks associated with climate change for both near-future (2030) and far-future (2070) time horizons.",
+        "page": 18,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document provides well-sourced evidence to justify its climate targets and actions. It outlines the City of Casey's commitment to reducing greenhouse gas emissions and investing in renewable energy technology. The policy aligns with national and state-level climate change commitments, such as the Paris Agreement and Victoria’s Climate Change Act 2017. The policy also outlines specific actions to achieve these targets, including improving energy efficiencies, investing in renewable energy technology, and incorporating best practice in Ecological Sustainable Design. The policy also provides a strategic pathway for the City of Casey to invest in energy efficiency and renewable technology to maximise economic and environmental benefits. The policy also provides a clear communication strategy to engage with stakeholders and the community, which is crucial for the successful implementation of the policy.",
+      "source": "Casey-a-a12345678910.json",
+      "lga": "Casey",
+      "quote": {
+        "content": "It incorporates ambitious evidence-based targets in line with a comprehensive investment action program prioritised on economic, environmental and social benefits to ensure benefits are realised by the City.",
+        "page": 3,
+        "source": "Casey-2018-Emissions-Management-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document provides well-sourced evidence to justify its climate targets and actions. It aligns its targets with national and state policies, such as the Paris Agreement and Victoria’s Climate Change Act 2017, which set specific greenhouse gas reduction targets. The City of Casey's Emissions Management Plan 2017-22 is based on best practice principles and includes specific actions such as improving energy efficiencies and investing in renewable energy technology. The plan also includes a commitment to regular reporting and communication of progress, indicating a commitment to transparency and accountability. The document also provides evidence of past success in reducing emissions, demonstrating the effectiveness of their approach.",
+      "source": "Casey-b-a12345678910.json",
+      "lga": "Casey",
+      "quote": {
+        "content": "Victoria’s Climate Change Act 2017 establishes a long-term target of net zero greenhouse gas emissions by 2050 as well as five yearly interim emissions reduction targets, to keep Victoria on track to meet this target. Under International Climate Agreements Australian Government has committed to a 26-28 percent reduction in greenhouse gas emissions below 2005 levels by 2030 (under the Paris Agreement) as well as a 5 per cent reduction in emissions below 2000 by 2020 (under the Kyoto Protocol).",
+        "page": 3,
+        "source": "Casey-2018-Emissions-Management-Plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The document provides a comprehensive plan for climate action, with a clear focus on both mitigation and adaptation strategies. It outlines six priority areas for action, including education, collaboration, mobilisation, health and wellbeing, renewable energy and energy efficiency, built environment and transport, waste and the circular economy, and land and water. The plan also includes an implementation plan for the period of June 2022 to June 2024, indicating a commitment to immediate action. The document also mentions the involvement of the community in the development of the plan, suggesting a bottom-up approach to policy-making. Furthermore, the document refers to the latest IPCC climate report, indicating that the policy is informed by the latest scientific research. However, while the document provides a clear framework for action, it does not provide specific evidence or data to justify its specific targets and actions.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "Both mitigation and adaptation goals are captured to ensure we are actively reducing our contribution to global greenhouse gas emissions, as well as preparing for and adapting to a changing climate.",
+        "page": 21,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document provides a comprehensive plan for climate action, with a clear focus on both mitigation and adaptation strategies. It outlines six priority areas for action, including education, collaboration, mobilisation, health and wellbeing, renewable energy and energy efficiency, built environment and transport, waste and the circular economy, and land and water. The plan also includes an implementation plan for the period from June 2022 to June 2024, with specific actions linked to the goals in each priority area. The document also mentions the involvement of the community in identifying climate risks and opportunities, and the use of workshops to gather insights for the development of the plan. Furthermore, the document refers to the latest IPCC climate report and other legislative obligations as sources that guide their climate action. Therefore, the document appears to provide well-sourced evidence to justify its climate targets and actions.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "Both mitigation and adaptation goals are captured to ensure we are actively reducing our contribution to global greenhouse gas emissions, as well as preparing for and adapting to a changing climate.",
+        "page": 21,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document provides a comprehensive plan for addressing climate change, with a clear focus on evidence-based decision making. The policy outlines a series of actions, programs, and projects to be undertaken over the next four years, with the aim of integrating climate change action into all aspects of Council operations. The policy also includes a monitoring and evaluation framework, which will track progress and ensure accountability. Key questions, indicators, and targets have been identified for each goal, and a combination of quantitative and qualitative data will be collected and reported throughout the implementation of the strategy. The policy also commits to leveraging existing data from reliable sources such as State and Federal Governments, peak bodies, universities, and other research institutions, and to establishing new measurement and monitoring systems where necessary. This approach demonstrates a commitment to evidence-based decision making and a clear focus on achieving measurable outcomes.",
+      "source": "GlenEira-b-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "The actions are deliberately broad, as they capture a wide range of specific actions, programs and projects Council will undertake over the four years. The Strategy is support by Our Action Plan, which sets out 70 actions to be undertaken over the life of the Strategy to achieve the identified goals and objectives.",
+        "page": 27,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The document does provide well-sourced evidence to justify its climate targets and actions. It outlines a comprehensive plan for climate action, which includes a detailed process for the development of actions. This process involves a review of more than 10 current Climate Emergency Plans from other councils, screening of comments based on value for money and feasibility, and classification of comments into eight focus areas. The plan also includes specific actions, each with a start year and a focus on either mitigation or adaptation. The actions are also informed by consultation with stakeholders, including the community, businesses, and council staff. Furthermore, the plan is supported by the Golden Plains Shire Council Plan 2021-2025 and the Environment Strategy 2019-2027, and it relies on peer-reviewed science from reputable organizations like the Commonwealth Science and Industrial Research Organisation, The Bureau of Meteorology, and the Intergovernmental Panel on Climate Change.",
+      "source": "GoldenPlains-a-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "Comments from the engagement were then screened based on value for money, feasibility within legislative bounds, the resourcing required to deliver the action and whether the action was already happening through a different Council area.",
+        "page": 34,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does provide well-sourced evidence to justify its climate targets and actions. The policy outlines a comprehensive plan for climate action, which includes a detailed process for the development of actions. This process involves a review of more than 10 current Climate Emergency Plans from other councils, screening of comments based on value for money and feasibility, and classification of comments into focus areas. The policy also outlines specific actions, their commencement years, and whether they focus on mitigation or adaptation. Furthermore, the policy is informed by peer-reviewed science from reputable organizations such as the Commonwealth Science and Industrial Research Organisation, The Bureau of Meteorology, and the Intergovernmental Panel on Climate Change. Therefore, the policy appears to be well-grounded in evidence and provides a clear and detailed plan for climate action.",
+      "source": "GoldenPlains-b-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "To inform its response, Council relied on peer-reviewed science from the Commonwealth Science and Industrial Research Organisation, The Bureau of Meteorology and the Intergovernmental Panel on Climate Change (IPCC).",
+        "page": 8,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide a detailed action plan for the local government's response to climate change, which includes specific actions, roles, timeframes, responsibilities, outcomes, and indicators. The plan is comprehensive and covers a wide range of areas, including leadership and governance, community wellbeing and culture, business and economy, energy and buildings, biodiversity and open space, transport and movement, assets, infrastructure and land use planning, and waste and resources. The plan also includes a commitment to ongoing monitoring, reporting, and review of its implementation, with an annual progress summary report to be made public on the Council's website. The plan also includes a commitment to embed consideration of climate change into the development of the Council's 2021-25 Council Plan and supporting strategic documents. This suggests a well-sourced and justified approach to its climate targets and actions.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong",
+      "quote": {
+        "content": "Council’s supporting documents that have a role in facilitating the implementation of the Climate Emergency Strategy include: Leadership & Governance, Community Wellbeing & Culture, Business & Economy, Energy & Buildings, Biodiversity & Open Space, Transport & Movement, Assets, Infrastructure & Land Use Planning, Waste & Resources.",
+        "page": 51,
+        "source": "GreaterDandenong-Climate-Emergency-Strategy-2020.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The documents provide a detailed plan for addressing climate change impacts, with a focus on specific areas such as the regional economy, local development infrastructure, local community infrastructure, and the council's capacity to meet community needs. The policy outlines specific actions such as incorporating climate change and water availability scenarios into asset management plans, and engaging the community in climate change adaptation. The policy also includes a plan for regular audits of council water use to monitor usage and identify areas for improvement. However, while the policy is detailed and specific, it does not provide explicit sources or evidence to justify its climate targets and actions. The policy appears to be based on a review of existing regional and local plans, policies, and programs, but it does not cite specific sources or data. Therefore, while the policy is detailed and appears to be well thought out, it does not meet the highest standards of evidence-based policy making.",
+      "source": "Hindmarsh-a-a12345678910.json",
+      "lga": "Hindmarsh",
+      "quote": {
+        "content": "Following a review of existing regional and local plans, policies and programs, it was decided that this project will focus on the impact of climate change and reduced water availability across the following four areas: The regional economy, The local development infrastructure, The local community infrastructure, Council’s capacity to meet the needs of its community.",
+        "page": 188,
+        "source": "Hindmarsh-2012-climate-adaptation.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents provide a detailed plan for addressing climate change, including specific actions, responsibilities, and timeframes. The policy focuses on four key areas: the regional economy, local development infrastructure, local community infrastructure, and the council's capacity to meet community needs. The policy outlines specific actions such as incorporating climate change and water availability scenarios into asset management plans, and community engagement. The policy also includes a plan for monitoring and reducing water use, which is a key aspect of climate change adaptation. The policy is based on a review of existing regional and local plans, policies, and programs, and the council has engaged businesses, industry, government agencies, utilities, and townships in its development. Therefore, the policy appears to be well-sourced and justified.",
+      "source": "Hindmarsh-b-a12345678910.json",
+      "lga": "Hindmarsh",
+      "quote": {
+        "content": "Following a review of existing regional and local plans, policies and programs, it was decided that this project will focus on the impact of climate change and reduced water availability across the following four areas: The regional economy, The local development infrastructure, The local community infrastructure, Council’s capacity to meet the needs of its community.",
+        "page": 188,
+        "source": "Hindmarsh-2012-climate-adaptation.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The Hume Climate Action Plan 2023-2028 provides well-sourced evidence to justify its climate targets and actions. The plan is based on a variety of inputs including previous action plans, recommendations from the Hume Sustainability Taskforce, community views, and policy context. The plan also outlines specific actions, their budget, responsibility, priority level, and timeframe, indicating a well-structured and detailed approach. The plan's commitment to rely on scientific evidence and projections, and to take a strategic and evidence-based approach to climate action, further supports its credibility. The plan also includes a commitment to report annually to the National Greenhouse and Energy Reporting (NGER) program, indicating a commitment to transparency and accountability. However, while the plan is well-sourced and detailed, it would benefit from more explicit links between the evidence and the specific targets and actions.",
+      "source": "Hume-a-a5678910.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The Hume Climate Action Plan 2023-2028 provides well-sourced evidence to justify its climate targets and actions. The plan is based on a variety of inputs including previous action plans, recommendations from the Hume Sustainability Taskforce, community views, and reports on emission reduction opportunities. The plan also takes into account the policy context, including the Paris Agreement and other commitments from different levels of government. The plan sets a carbon neutral target by 2030 for Council operations, which is described as both bold and achievable. The plan also includes actions to reduce emissions, such as the adoption of electric vehicles and the reduction of greenhouse gas emissions. The plan also commits to applying a 'climate lens' to all decisions, strategies, and plans, indicating a comprehensive approach to addressing climate change.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "The Climate Action Plan sets a carbon neutral target by 2030 for Council operations which is both bold and achievable.",
+        "page": 58,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document provides a detailed plan for climate action, with specific targets and actions that are backed by evidence. The policy outlines a commitment to reduce emissions by 40% by 2025 and achieve net zero by 2030. It also includes plans to reduce Council’s corporate emissions to net zero by 2025, expand waste services to reduce waste to landfill, improve sustainable building design, and support low emission. The policy also outlines a range of priority actions, each with a responsible area, priority level, and estimated cost. These actions include energy efficiency retrofits for homes, low emissions infrastructure, and transitioning business and industry towards more energy efficient technology. The policy also includes a plan for monitoring, evaluation, review, and learning, which will contribute to growing the knowledge base in local government and ensure emissions reductions are well targeted and effective. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston"
+    },
+    {
+      "answer": "The document provides a comprehensive plan for addressing climate change, with a focus on evidence-based, actionable, and inclusive solutions. The policy outlines a range of actions, including community education programs, sustainable transport options, and infrastructure adaptations. The policy also emphasizes the importance of regular evaluation and revisions based on the best available data and changes in climate risks. The policy's targets and actions are informed by community consultation, reflecting the priorities and aspirations of the Knox community. The policy also acknowledges the need for actions at other levels of government and by major businesses and industries, recognizing that Council's efforts alone will not be sufficient to address climate change. Therefore, the document does provide well-sourced evidence to justify its climate targets and actions.",
+      "source": "Knox-a-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "Evidence-based: Reflect best practice scientific The actions included throughout the Climate Response Plan are intended to be: Ambitious: Set goals and implement actions that evolve towards an ambitious vision. Inclusive: Involve community, business, and other stakeholders in finding solutions. Fair: Seek solutions that equitably address the risks of climate change and share the costs and benefits of action across the community. Relevant: Deliver local benefits and support local development priorities. Actionable: Propose cost-effective actions that are realistic. Actionable: Propose cost-effective actions that are realistic.",
+        "page": 6,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The document provides a comprehensive plan for addressing climate change, with a clear focus on evidence-based and actionable measures. The policy outlines ambitious, inclusive, fair, relevant, and cost-effective actions that are grounded in scientific knowledge and local understanding. The actions include community education programs, sustainable transport options, policy reviews, and infrastructure adaptations. The policy also emphasizes the importance of monitoring and evaluation, with regular revisions of the plan based on the best available data and innovations. The policy's targets and actions are also informed by extensive community consultation, with over 370 people providing feedback. This feedback led to the adoption of a more ambitious community net zero target. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.",
+      "source": "Knox-b-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "Evidence-based: Reflect best practice scientific knowledge and local understanding. The actions included throughout the Climate Response Plan are intended to be: Ambitious: Set goals and implement actions that evolve towards an ambitious vision. Inclusive: Involve community, business, and other stakeholders in finding solutions. Fair: Seek solutions that equitably address the risks of climate change and share the costs and benefits of action across the community. Relevant: Deliver local benefits and support local development priorities. Actionable: Propose cost-effective actions that are realistic. Actionable: Propose cost-effective actions that are realistic.",
+        "page": 6,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The document provides a detailed plan for climate action, including specific targets and actions, and a methodology for achieving these targets. It outlines a comprehensive approach to climate change mitigation, including reducing greenhouse gas emissions, promoting energy efficiency, and transitioning to renewable energy sources. The plan also includes a commitment to review and potentially amend the targets in mid-2020 to account for external drivers for climate change action. The document also outlines how the Council will work with stakeholders and the local community to reduce greenhouse emissions within a broader context. The plan also includes a commitment to monitor and evaluate the effectiveness of the actions on an ongoing basis. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "In addition to outlining how Council will achieve its targets, the Climate Change Action Plan outlines how Council will work with stakeholders and the local community to reduce greenhouse emissions within a broader context.",
+        "page": 5,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document provides a detailed plan for climate action, with specific targets and actions that are well justified. The Mansfield Shire Council's Climate Action Plan is based on the Victorian Local Government Act 2020, which mandates councils to promote environmental sustainability and plan for climate change risks. The plan outlines specific actions such as implementing projects that demonstrate cost-savings and good value to Council operations, supporting the broader community to implement climate action and emissions reduction projects, and participating in collaborative efforts for emissions reduction initiatives. The plan also sets a target for the Council to sign up to 100% renewable electricity by 2025. The Council's interventions in community emissions reduction are also well detailed, with key sectors identified and specific interventions selected. The document also acknowledges that the Council only has a limited amount of control and influence over many of the community emissions sources, indicating a realistic understanding of the challenges involved.",
+      "source": "Mansfield-a-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "It establishes a timeline for Council’s corporate emissions and identifies opportunities within, but not limited to, the following key areas of Council’s operations: energy efficiency improvements in buildings; renewable energy generation; low emissions technology upgrades in buildings and fleet; renewable energy power purchase; and options for offsetting remaining emissions to achieve net zero emissions status. The Plan outlines best practice approaches, trends and opportunities for Council to reduce greenhouse gas emissions (emissions), both in their own operations and throughout the community.",
+        "page": 11,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document provides well-sourced evidence to justify its climate targets and actions. The Climate Action Plan is based on the Victorian Local Government Act 2020, which mandates councils to promote environmental sustainability and plan for climate change risks. The plan outlines specific actions to reduce greenhouse gas emissions, such as implementing energy-efficient buildings and solar PV, upgrading street lighting, transitioning the fleet, and purchasing offsets. The plan also sets a target for the council to sign up to 100% renewable electricity by 2025. The council's interventions to drive community climate action are also outlined, focusing on key sectors such as transport, residential and commercial energy, agriculture, land use, and waste. The council's climate action plan is developed within the framework of the national carbon budget as outlined by the IPCC, with the objective of making a fair contribution towards limiting global temperature rises.",
+      "source": "Mansfield-b-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "This establishes a requirement for councils to consider and reduce the greenhouse gas emissions (emissions) of both their own operations and the whole municipality. Within the Victorian Local Government Act 2020, an overarching governance principle is ‘the economic, social and environmental sustainability of the municipal district, including mitigation and planning for climate change risks, is to be promoted’.",
+        "page": 11,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents provide well-sourced evidence to justify its climate targets and actions. The local government's climate change policy is based on data from reputable sources such as the Intergovernmental Panel on Climate Change (IPCC), the national science body CSIRO, and the Bureau of Meteorology. The policy also aligns with the Melbourne Metropolitan Planning Strategy (Plan Melbourne 2017-2050) and Victoria’s Climate Change Adaptation Plan 2017-2020. The policy outlines specific actions such as reducing the State's greenhouse gas emissions, building the resilience of the State's infrastructure, and managing the State's natural resources. The policy also includes a detailed breakdown of roles and responsibilities for managing the impacts and risks of climate change. Furthermore, the policy includes a commitment to ongoing monitoring and evaluation of progress, indicating a commitment to evidence-based decision making.",
+      "source": "Maroondah-a-a12345678910.json",
+      "lga": "Maroondah",
+      "quote": {
+        "content": "The Melbourne Metropolitan Planning Strategy (Plan Melbourne 2017-2050) identifies that the Melbourne of 2050 needs to have become a low-carbon city designed to cope with the effects of climate change. The Plan identifies roles and responsibilities for managing the impacts and risks of climate change. A detailed breakdown is included in Appendix A.",
+        "page": 10,
+        "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide well-sourced evidence to justify its climate targets and actions. The local government's climate change policy is based on scientific evidence from reputable sources such as the Intergovernmental Panel on Climate Change (IPCC), the national science body CSIRO, and the Bureau of Meteorology. The policy also aligns with the Melbourne Metropolitan Planning Strategy (Plan Melbourne 2017-2050) and Victoria’s Climate Change Adaptation Plan 2017-2020. The policy outlines specific actions such as reducing the State's greenhouse gas emissions, building the resilience of the State's infrastructure, and managing the State's natural resources. The policy also includes a detailed breakdown of roles and responsibilities for managing the impacts and risks of climate change. Furthermore, the policy includes a commitment to ongoing monitoring and evaluation of progress, with results reported back to Council. This evidence-based approach ensures that the policy's climate targets and actions are grounded in scientific understanding and best practice.",
+      "source": "Maroondah-b-a12345678910.json",
+      "lga": "Maroondah",
+      "quote": {
+        "content": "The Melbourne Metropolitan Planning Strategy (Plan Melbourne 2017-2050) identifies that the Melbourne of 2050 needs to have become a low-carbon city designed to cope with the effects of climate change. The Plan identifies roles and responsibilities for managing the impacts and risks of climate change. A detailed breakdown is included in Appendix A.",
+        "page": 10,
+        "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document provides a comprehensive plan for climate action, which appears to be well-sourced and justified. It outlines a strategy that aligns with the Paris Climate Agreement, indicating a commitment to internationally recognized targets. The strategy includes a mix of delivery mechanisms such as engaging, facilitating, collaborating, and partnering, suggesting a multi-faceted approach. The document also mentions the development of a rolling five-year Implementation Plan under the Victorian Climate Change Act 2017, indicating a commitment to regular review and adjustment of the strategy. The plan includes interim targets to be met by 2025, demonstrating a commitment to short-term as well as long-term goals. The document also mentions an evidence-based approach to prioritizing actions and a commitment to transparency through annual reporting of progress. This suggests a commitment to accountability and evidence-based decision making.",
+      "source": "Melbourne-a-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "These include our Climate Change Adaptation, Nature in the City, Urban Forest Strategy, Transport, and Waste and Resource Recovery strategies. This strategy is part of a suite of strategies delivering step-change for our community as part of our Council Plan 2017–2021.",
+        "page": 11,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does provide well-sourced evidence to justify its climate targets and actions. It outlines a strategy that aligns with the Paris Climate Agreement and the Victorian Climate Change Act 2017, indicating a commitment to internationally recognized climate goals. The strategy includes a mix of delivery mechanisms such as engaging, facilitating, collaborating, and partnering, and it is based on an analysis of four scenarios, including Business as Usual (BAU), Significant Action to reduce emissions, Accelerated Action to reduce emissions, and Purchasing Offsets from 2020. The strategy also includes a rolling five-year Implementation Plan, which sets interim targets to be met by 2025. This plan is designed to be adaptable to changes in Victorian and Australian Government policy settings. The document also emphasizes the use of an evidence-based approach, with a commitment to report progress publicly and evaluate the implementation of the strategy by 2025.",
+      "source": "Melbourne-b-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "We will lead the delivery of actions within our powers and advocate for policy change and action from others.",
+        "page": 9,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide a detailed framework for climate change adaptation, with specific actions, responsibilities, and timelines. The Climate Change Adaptation Plan is organized into five themes, each with specific actions. For instance, the plan includes actions to strengthen planning controls related to climate change adaptation, and to advocate for improved building standards. The plan also includes a commitment to monitor climate change impacts on council service delivery and operations, using the 'How Well Are We Adapting' tool developed by the Western Alliance for Greenhouse Action. The plan's actions are based on best available evidence and are adjustable to changes in circumstances and available information. The plan also includes a commitment to consider multiple scenarios and to take into account social, economic, and environmental factors. However, the documents do not provide specific sources for the evidence used to justify the climate targets and actions.",
+      "source": "Melton-a-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The documents provide a detailed plan for climate change adaptation, with specific actions, rationales, and responsibilities outlined. The Melton Climate Change Adaptation Plan 2020-2030, for instance, is organized into five themes, each with specific actions. These actions are supported by rationales and opportunities, indicating a well-thought-out approach. The plan also includes a review of planning controls related to climate change adaptation, suggesting a commitment to continuous improvement. The plan's actions are based on best available evidence and are adjustable to changes in circumstances and available information, indicating a robust and flexible approach. The plan also includes a commitment to monitor climate change impacts on council service delivery and operations, suggesting a commitment to evidence-based decision making. However, the documents do not provide specific sources for their evidence, which may raise questions about the robustness of the evidence base.",
+      "source": "Melton-b-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The document provides a comprehensive plan for addressing climate change, including specific actions and strategies. It outlines the major drivers of change and the macro-context for the Council’s response, including understanding and mitigating climate risks, reducing greenhouse emissions, and improving water efficiency. The Council has already taken steps to reduce water consumption and find more sustainable sources. The document also mentions an Energy and Water assessment of Council’s operations by Ironbark Sustainability. The Council acknowledges that it can only directly control some issues, and can only influence others indirectly or through advocacy. The document also mentions a mid-term review of the Strategy after five years to determine progress and identify areas for improvement. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.",
+      "source": "Moorabool-b-a12345678910.json",
+      "lga": "Moorabool",
+      "quote": {
+        "content": "The major drivers of change and the macro-context for Council’s response include: Climate Change.",
+        "page": 14,
+        "source": "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The documents provide a comprehensive plan for addressing climate change, with a clear focus on evidence-based decision making. The local government's actions are informed by advice from experts and professional consultants, with local community input and feedback. Many tasks rely on the gathering of further high-quality and relevant data to enable informed and appropriate decisions. This is particularly evident in Action 19, which aims to 'Strengthen and Integrate Climate Data into Decision Making'. The documents also outline a clear framework for allocating resources, undertaking essential work, and tracking and reporting progress. The Shire's actions and tasks will be led by teams with relevant experience and capacity, and the plan's success is dependent on concise and transparent reporting on its successes and failures. Targets, actions, and tasks will be reviewed annually to ensure they reflect the best available knowledge, experience, and approaches.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "The tasks in the Plan include this, especially within Action 19 ‘Strengthen and Integrate Climate Data into Decision Making’. The actions were informed by advice from Shire-wide experts and professional consultants, with local community input and feedback. Many tasks rely on the gathering of further high quality and relevant data, to enable informed and appropriate decisions. This is a significant challenge.",
+        "page": 2,
+        "source": "Mornington-2020-climate-emergency-response-part2.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide a detailed plan of action for addressing climate change, with a clear emphasis on evidence-based decision making. The local government's actions are informed by advice from experts and professional consultants, with local community input and feedback. Many tasks rely on the gathering of further high-quality and relevant data to enable informed and appropriate decisions. This is particularly evident in Action 19, which aims to 'Strengthen and Integrate Climate Data into Decision Making'. The documents also outline a clear framework for allocating resources, tracking progress, and reporting on successes and failures. The plan's actions and tasks will be led by teams with relevant experience and capacity, and will involve collaboration with the community and other stakeholders. The documents also mention the development of a 'Climate Change Adaptation Plan' and the incorporation of the latest climate knowledge into the Municipal Health and Wellbeing Plan. Therefore, the documents provide well-sourced evidence to justify its climate targets and actions.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "The tasks in the Plan include this, especially within Action 19 ‘Strengthen and Integrate Climate Data into Decision Making’. The actions were informed by advice from Shire-wide experts and professional consultants, with local community input and feedback. Many tasks rely on the gathering of further high quality and relevant data, to enable informed and appropriate decisions. This is a significant challenge.",
+        "page": 2,
+        "source": "Mornington-2020-climate-emergency-response-part2.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document provides a detailed plan for addressing climate change, with specific goals, targets, and actions. The plan was developed over a two-year period, with the methodology informed by a review of best-practice local government climate action planning for small and rural Councils, and advice from colleagues across the state of Victoria. The plan includes a commitment to achieving net zero by 2035, with interim targets of 20% by 2025, and 75% by 2030. The plan also includes measures for monitoring and reporting progress, with an annual climate action report detailing actions taken and progress towards achieving set targets. The plan also includes a commitment to educating staff and Councillors on managing climate risks and communicating these to the public. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.",
+      "source": "Murrindindi-a-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "The methodology below was informed by a review of best-practice local government climate action planning for small and rural Councils, and advice from colleagues across the state of Victoria.",
+        "page": 64,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document provides a well-structured and detailed plan for addressing climate change, with clear goals, targets, and actions. The plan was developed over a two-year period, indicating a thorough and thoughtful process. The plan's goals include governance foundations, climate mitigation, climate adaptation, and community mobilisation. The targets are specific, such as achieving net zero by 2035 with interim targets of 20% by 2025, and 75% by 2030. The plan also includes a detailed methodology for its formation, including data gathering and analysis, assessing draft action lists, and internal engagement. The plan also includes a commitment to monitoring and reporting, with an annual climate action report detailing progress towards targets. This suggests a commitment to transparency and accountability. The plan also acknowledges community perspectives, indicating a level of public consultation and engagement in its formation.",
+      "source": "Murrindindi-b-a12345678910.json",
+      "lga": "Murrindindi"
+    },
+    {
+      "answer": "The document provides a detailed plan for climate change adaptation, with specific actions, timelines, and key performance indicators (KPIs). It outlines the criteria for developing adaptation actions, including effectiveness, practicability, economic efficiency, co-benefits, equity implications, and greenhouse gas emission implications. The plan also includes specific actions such as modifying construction practices for infrastructure, facilitating sustainable agricultural practices, and developing an Urban Forest and Open Space Assets Strategy. Each action is linked to relevant risks, has a timeline for completion, identifies the action owner and partnerships, specifies the resources required, and sets KPIs. This level of detail suggests a well-thought-out plan based on a thorough understanding of the local context and climate risks. However, the document does not provide explicit sources of evidence to justify its climate targets and actions. The evidence appears to be implicit in the detailed planning and the reference to the Australian Standard for consideration of climate risk.",
+      "source": "SouthernGrampians-a-a12345678910.json",
+      "lga": "SouthernGrampians",
+      "quote": {
+        "content": "Further, the following criteria were considered when adaptation actions were developed as per recommendations by the Australian Standard for consideration of climate risk in settlements and infrastructure9: Effectiveness and robustness of the adaptation – over its lifetime, including flexibility of the option in terms of ability to respond to changing climate / socioeconomic environment; Practicability of implementation and ease of maintenance; Economic efficiency of operation and ongoing maintenance; Co-benefits over and above those that come from the direct treatment of the risk, or net benefits under a range of plausible future climates; Equity implications of the adaptation option for all potential affected stakeholders; and Greenhouse gas emission implications of adaptation options.",
+        "page": 13,
+        "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document provides a detailed plan for climate change adaptation, with specific actions, timelines, and key performance indicators. It outlines the criteria for developing adaptation actions, including effectiveness, practicability, economic efficiency, co-benefits, equity implications, and greenhouse gas emission implications. The plan also includes specific actions such as modification of construction practices, sustainable agricultural practices, and development of an Urban Forest and Open Space Assets Strategy. Each action is linked to relevant risks, has a timeline for completion, identifies the action owner and partnerships, resources required, and key performance indicators. This level of detail suggests a well-thought-out plan based on a thorough understanding of the local context and climate risks. However, the document does not provide explicit sources of evidence to justify its climate targets and actions, such as scientific studies or data. The evidence appears to be implicit in the detailed planning and consideration of various factors.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians",
+      "quote": {
+        "content": "Further, the following criteria were considered when adaptation actions were developed as per recommendations by the Australian Standard for consideration of climate risk in settlements and infrastructure9: Effectiveness and robustness of the adaptation – over its lifetime, including flexibility of the option in terms of ability to respond to changing climate / socioeconomic environment; Practicability of implementation and ease of maintenance; Economic efficiency of operation and ongoing maintenance; Co-benefits over and above those that come from the direct treatment of the risk, or net benefits under a range of plausible future climates; Equity implications of the adaptation option for all potential affected stakeholders; and Greenhouse gas emission implications of adaptation options.",
+        "page": 13,
+        "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents provide a detailed plan of action for addressing climate change, with specific targets and actions outlined. The policy demonstrates a commitment to including climate change and sustainability criteria in all relevant documents and policies, which is assessed by reviewing Council documents and policies. The policy also outlines four main focus areas related to the environment, including building environmentally sustainable communities, reducing waste, combating climate change, and protecting waterways. These focus areas are linked to six key priority areas, indicating a comprehensive approach to addressing climate change. The policy also outlines specific actions to be taken, such as responding to adverse weather events, ensuring sustainability criteria are strengthened for community grants, and continuing the staff Eco Leaders team. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.",
+      "source": "Wangaratta-a-a12345678910.json",
+      "lga": "Wangaratta"
+    }
+  ]
+}

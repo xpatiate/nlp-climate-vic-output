@@ -1,0 +1,304 @@
+{
+  "settings": {
+    "source_files": [
+      "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-14T14:48:53.615941",
+    "lga": "SurfCoast"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Climate Emergency Response Plan 2021-2031, clearly identifies climate action as its core purpose. The policy outlines the local government's commitment to addressing the climate emergency through mitigation, adaptation, and mobilisation strategies. It sets specific targets such as achieving net zero greenhouse gas emissions and sourcing 100% of its electricity from renewable energy sources. The policy also includes a commitment to develop a new action plan every two years to respond to emerging climate projections and innovations. Furthermore, the policy acknowledges the impacts of climate change on the local environment, such as increased severe weather events and sea level rises, and the need for action to address these impacts. Therefore, it is evident that the core purpose of the policy is climate action.",
+          "quote": {
+            "content": "A new action plan will be developed every two years, to enable us to respond to emerging climate projections, innovations and opportunities for our community and environment. This plan is a living document that will be reviewed regularly so we don’t lose focus of the challenges and new opportunities arising.",
+            "page": 4,
+            "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly articulates the need for action on climate change. It outlines the local government's commitment to climate mitigation, adaptation, and mobilisation, and recognises climate change as the 'single biggest and most urgent challenge' faced in our lifetime. The document also acknowledges the impacts of climate change on local operations, such as increased severe weather events and sea level rises affecting open space maintenance. The policy further commits to regular reviews and updates to respond to emerging climate projections and opportunities. It also sets specific targets, such as achieving net zero greenhouse gas emissions and sourcing 100% renewable electricity. The policy's focus on partnerships and community-led responses further underscores the perceived urgency and scale of the climate emergency."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document indeed calls for rapid and urgent action on climate change. It is evident from the language used throughout the document that the local government perceives climate change as an immediate and pressing issue that requires swift action. The document refers to the situation as a 'climate emergency', a term that inherently implies urgency. The local government's Climate Emergency Response Plan 2021-2031 is a testament to their commitment to taking immediate action. The plan outlines specific actions, such as integrating climate emergency considerations into all Council decision making, reporting quarterly on progress, and committing to purchasing 100% renewable electricity and becoming a carbon neutral organisation in 2021-22. These actions, coupled with the language used in the document, clearly indicate a call for rapid and urgent action on climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate. It outlines a Climate Emergency Action Plan for 2021-2023, indicating a two-year period for the implementation of the plan's actions. The document also mentions that a new action plan will be developed every two years, allowing for adjustments based on emerging climate projections and opportunities. Furthermore, specific objectives within the plan have set deadlines. For instance, Objective 12 targets 80% of actions to be implemented/completed by June 2023. This suggests a clear timeframe and urgency in the policy's approach to addressing climate change.",
+          "quote": {
+            "content": "Target: 80% of actions implemented/completed by June 2023. Measure: Number of actions completed from Action Plan (section 4). Target: 80% of actions implemented/completed by June 2023.",
+            "page": 27,
+            "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a comprehensive Climate Emergency Response Plan for 2021-2031, including prioritisation of actions based on set criteria such as high impact actions, there is no explicit statement indicating that these climate emergency responses should supersede other policies. The documents detail various actions, targets, and commitments related to climate change, such as achieving net zero greenhouse gas emissions, integrating climate emergency considerations into all Council decision-making, and supporting community-led climate action. However, these are presented as part of a broader policy framework, not as priorities above all other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do highlight the council's commitment to addressing climate change, including prioritising and confirming suggested actions based on set criteria, integrating climate emergency consideration into all council decision making, and incorporating climate change into the Council’s Municipal Health and Wellbeing Plan, they do not explicitly require all council activities to align with the climate policy. The documents also mention the development of a new action plan every two years to respond to emerging climate projections and innovations, and the commitment to supporting community-led climate action. However, these do not equate to a requirement for all council activities to align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Climate Emergency Response Plan 2021-2031 does explicitly allocate funding for climate action. The plan outlines a variety of actions, each with a designated lead, supporting teams, priority level, and resources or funding. The resources or funding column often mentions 'existing budget', 'external funding', 'Towards Environmental Leadership program', and 'subject to budget bid', indicating that there are funds allocated for these actions. However, the specifics of the budget allocation, such as the exact amounts or percentages, are not detailed in the provided context. It is also worth noting that some actions are subject to future budget bids, suggesting that additional funding may be sought in the future to support these actions."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Climate Emergency Response Plan 2021-2031 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific actions, each with a designated lead and supporting teams. For instance, the 'Manager Community Strengthening' and 'Environmental Sustainability' team are tasked with promoting the Council’s Small Grants Environment Stream (MO9). Similarly, the 'Coordinator Community Emergency Management' and 'Facilities Management, Environmental Sustainability' teams are responsible for establishing a Climate Adapted Building demonstration site (A8). The plan also includes the 'Manager Planning and Development' and 'Environmental Sustainability' team joining the Council Alliance for the Sustainable Built Environment (C9). These examples demonstrate a clear allocation of staff resources to specific climate actions.",
+          "quote": {
+            "content": "Action\nLead \nSupporting team/s\nPriority\nResources/Funding\nMO9\nPromote Council’s Small Grants Environment Stream, and \ndevelop the capacity of community groups and individuals to \nwrite successful grant applications.",
+            "page": 37,
+            "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a number of initiatives aimed at mobilising the community to respond to the climate emergency. These include the 'Community Climate Mobiliser' program, which aims to instigate broader community conversations to identify priority actions for the community's climate emergency response. The policy also commits to sharing climate change data, stories, solutions, and information through a variety of platforms to inspire action amongst council officers, councillors, and the community. Furthermore, the policy recognises the community's skills and capabilities in leading localised action on climate change and commits to playing a role in inspiring, informing, enabling, and connecting people so the community and environment can thrive for generations to come.",
+          "quote": {
+            "content": "Our 2021 survey told us that providing local climate data, information, mapping and projections are the most useful things Council can do to help our community prepare for a changing climate. Council’s role will be to inspire, inform, enable and connect people to develop a localised, community owned and led response.",
+            "page": 26,
+            "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Climate Emergency Response Plan 2021-2031 by the Surf Coast Shire Council indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a clear objective to reduce the Council’s greenhouse gas emissions and measures this by the tonnes of carbon dioxide equivalent greenhouse gas emissions emitted to the atmosphere. The plan also commits to reaching net zero emissions for Council operations and obtaining 100% of its electricity from renewable energy sources, which are both technological solutions. The plan also includes actions such as expanding the Council’s existing street tree program and establishing a Climate Adapted Building demonstration site, which can be seen as behaviour change initiatives. Furthermore, the plan commits to integrating climate emergency considerations into all Council decision making, which can also be seen as a form of behaviour change. Therefore, the plan includes both technological solutions and behaviour change as part of its mitigation strategies.",
+          "quote": {
+            "content": "Council will obtain 100% of its electricity from renewable energy sources.",
+            "page": 11,
+            "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+            "search_score": 0.91
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Climate Emergency Response Plan 2021-2031 indeed includes specific actions for climate adaptation and resilience. The plan outlines a variety of actions aimed at enhancing the resilience of the local community and environment to the impacts of climate change. For instance, the plan includes actions such as reviewing the Open Space Landscape Standards for developers and Council’s Open Space Strategy with consideration for climate change, increasing street trees and enhancing vegetation in reserves (A16). It also includes actions to monitor and adapt the pest, plant and animal management program as required to respond to a changing climate, and new and emerging pest, plants and animals or diseases (A17). Furthermore, the plan includes actions to manage Council reserves to improve resilience to climate change (A18). These actions are led by different teams within the council and are given a medium priority with funding from the existing budget."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of actions and targets related to climate change, such as reporting on progress, integrating climate emergency considerations into decision making, and incorporating climate change into the Council’s Municipal Health and Wellbeing Plan, it does not provide specific evidence or sources to justify these actions or targets. The policy does mention the impacts of climate change, such as increased severe weather events and sea level rises, but it does not link these impacts to the specific actions or targets outlined in the policy. Furthermore, the policy does not provide any sources or references to support its claims about the impacts of climate change. Therefore, while the policy does outline a number of actions and targets related to climate change, it does not provide well-sourced evidence to justify these actions or targets."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Climate Emergency Response Plan 2021-2031 does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines clear objectives, measures, and targets for each goal. For instance, under 'Goal 6 – Our Organisation is a Climate Emergency Leader', Objective 12 states that the actions in the Climate Emergency Action Plan 2021-2023 and future plans are to be delivered. The measure for this objective is the 'Number of actions completed from Action Plan (section 4)', with a target of '80% of actions implemented/completed by June 2023'. This provides a clear, quantifiable measure of success. Furthermore, the plan includes a system for reporting progress quarterly to the Executive Management Team, Councillors, and the community, using a traffic light status update system. This ensures regular evaluation and transparency in the implementation of the plan.",
+          "quote": {
+            "content": "Target: 80% of actions implemented/completed by June 2023. Measure: Number of actions completed from Action Plan (section 4). Target: 80% of actions implemented/completed by June 2023.",
+            "page": 27,
+            "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The Climate Emergency Response Plan 2021-2031 does indeed outline plans to conduct research in the local community to inform climate actions. The document emphasizes the importance of community involvement in climate action and outlines specific actions to facilitate this. For instance, the plan includes actions such as supporting the community to develop Community Climate Emergency Responses, facilitating localised climate change discussions, and collecting data to encourage informed action. The plan also includes the sharing of climate change data, stories, solutions, and information through various platforms to inspire action amongst Council officers, Councilors, and the community. These actions indicate a commitment to conducting research and gathering data from the local community to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The Surf Coast Shire Council's Climate Emergency Response Plan 2021-2031 demonstrates evidence of innovation and policy experimentation in climate action. The plan is described as a 'living document' that will be reviewed regularly to respond to emerging climate projections and innovations. This suggests a willingness to adapt and experiment with new approaches as they become available. The plan also includes a range of actions that demonstrate innovative thinking. For example, the plan includes the establishment of a Climate Adapted Building demonstration site, the expansion of the Council's existing street tree program to mitigate urban heat impacts, and the integration of climate emergency considerations into all Council decision-making. The Council also plans to work in partnership with organisations like the Barwon South West Climate Alliance and Climate Emergency Australia, which suggests a commitment to collaborative innovation. Furthermore, the Council's commitment to supporting and facilitating community-led climate action indicates a recognition of the potential for innovation within the community.",
+          "quote": {
+            "content": "A new action plan will be developed every two years, to enable us to respond to emerging climate projections, innovations and opportunities for our community and environment. This plan is a living document that will be reviewed regularly so we don’t lose focus of the challenges and new opportunities arising.",
+            "page": 4,
+            "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The provided documents from the Climate Emergency Response Plan 2021-2031 do not explicitly show an intent to advocate upward to state and national governments to support climate action. The documents detail various actions and strategies the local government plans to undertake to address climate change, including reporting on progress, integrating climate considerations into decision-making, and working in partnership with various organisations. However, these actions are primarily focused on local and community-level initiatives. There is no explicit mention of advocacy towards state and national governments. Therefore, based on the provided context, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government is committed to building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a variety of actions and strategies aimed at fostering local capacity for climate action. These include inspiring, informing, enabling, and connecting people to develop a localised, community-owned and led response to climate change. The council also commits to supporting and facilitating sustained community-led climate action, sharing climate change data, stories, solutions, and information through various platforms to inspire action. Furthermore, the council plans to work in partnership with organisations like the Barwon South West Climate Alliance and Climate Emergency Australia, which could potentially include neighbouring local councils. Therefore, the policy does explicitly encourage building local capacity for climate action.",
+          "quote": {
+            "content": "Council’s role will be to inspire, inform, enable and connect people to develop a localised, community owned and led response.",
+            "page": 26,
+            "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document indeed refers to specific regional associations, alliances, or other partnerships related to climate. It mentions the Council Alliance for the Sustainable Built Environment, which the local government plans to join to access networks and resources. This alliance is expected to help reduce emissions associated with new developments. The document also mentions the Barwon South West Climate Alliance and Climate Emergency Australia as organizations with which the local government will continue to work in partnership. These partnerships are part of the local government's strategy to address climate change and reduce emissions. The document also mentions working with Wadawurrung and Eastern Maar Registered Aboriginal Parties to increase understanding of culturally significant sites on Council managed land and the need to protect them from climate change impacts. This indicates a commitment to collaboration and partnership in addressing climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The local government recognizes that certain ecosystems, geographic areas, and members of the community are more vulnerable to the impacts of climate change than others. They have identified that communities within forested and bushland areas face a higher risk from extreme fire events than those in urban or rural grassy areas. Urban, inland communities will be more exposed to hotter, longer heatwaves than coastal communities. Communities, natural ecosystems, and significant cultural sites close to the coast at low elevation will be more severely impacted by sea level rise. The local government has committed to continue identifying and better understanding these local vulnerabilities so they can work with the community to plan for, and respond to, changing local conditions.",
+          "quote": {
+            "content": "We will continue to identify and better understand these local vulnerabilities so we can work with our community to plan for, and respond to, our changing local conditions. We recognise that certain ecosystems, geographic areas and members of our community are more vulnerable to the impacts of climate change than others.",
+            "page": 16,
+            "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various actions and strategies related to climate change mitigation and adaptation, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The documents focus on actions such as updating the Corporate Risk Register with recent climate risk data, adapting public health programs to respond to climate change, and working with Aboriginal Parties to protect culturally significant sites. However, these actions do not directly relate to the equitable sharing of benefits and opportunities. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 15,
+    "num_questions": 20,
+    "attribute_score": 79.2
+  }
+}

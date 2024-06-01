@@ -1,0 +1,305 @@
+{
+  "settings": {
+    "source_files": [
+      "Hume-2018-greenhouse-action-plan.pdf",
+      "Hume-Climate-Action-Plan-2023-2028.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "26ecfd61eb5f2e8ea1c95fb76fd6435ed39a175a",
+    "rundate": "2024-04-13T18:58:20.374273",
+    "lga": "Hume"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy's core purpose is indeed climate action. The Hume City Council's Climate Action Plan is a key component of Hume’s leadership response to climate change and aims to enhance and expand action in response to the urgency and magnitude of the current climate situation. The policy outlines a commitment to reducing greenhouse gas emissions, adapting to climate impacts, and lobbying for further climate action. It also emphasizes the importance of integrating climate action across the whole organization and in work with partners and the community. The policy also includes specific actions and activities, such as developing communication campaigns for residents to take well-informed climate action and integrating climate considerations into all decisions, strategies, and plans."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of reducing greenhouse gas emissions to avoid the worst impacts of climate change, and the necessity of adapting to climate impacts that are already occurring. The documents also emphasize the importance of lobbying and advocating for further climate action, indicating that transformational change is required across all aspects of society to avoid a climate crisis. The documents further underscore the importance of integrating climate action across the whole organization and in work with partners and the community, applying a 'climate lens' to all decisions, programs, strategies, and plans. The documents also note the importance of leadership in taking climate action, advocating on behalf of the community, and working in partnership to inspire others."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. The Hume Climate Action Plan 2023-2028, as outlined in the documents, emphasizes the need for immediate action to address climate change. The documents highlight the community's concern about climate change and the need for the council to take action. The council's plan includes a bold position on climate change, including fast adoption of electric vehicles, phasing out of gas, and other significant greenhouse emission reduction initiatives. The documents also mention the need for transformational change across all aspects of society to avoid a climate crisis, indicating the urgency of the situation. The council's commitment to carbon neutrality by 2030 further underscores the urgency of the actions being taken."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The Hume Climate Action Plan 2023-2028 does provide specific timeframes for its intended actions on climate. The document outlines a variety of actions, each with a designated timeframe for implementation. For instance, the plan includes an action to continue delivering the solar, solar storage, and energy efficiency program for Council buildings, with an ongoing timeframe. Another action is to join and participate in the Cities Power Partnership, with a timeframe set for 2023 and ongoing. The document also mentions an action to support sustainable procurement and the Circular Economy by embedding these considerations across Council purchasing decisions, with a timeframe set for 2023 and ongoing. Therefore, the document does provide specific timeframes for its intended actions on climate, indicating a sense of urgency and commitment to addressing climate change.",
+          "quote": {
+            "content": "Higher energy use buildings will continue to be prioritised.",
+            "page": 30,
+            "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government is taking climate change seriously, with various actions and initiatives outlined, there is no explicit statement prioritising climate change response over other policies. The documents highlight the importance of climate change action, with references to a 'Climate Emergency Plan', 'Climate Action Plan', and the need for 'fast action'. However, these references do not necessarily imply that these actions are prioritised above all other policies. It is also important to note that the documents emphasise the need for a holistic approach, involving all levels of government, industry, business, not-for-profits, organisations, and citizens. This suggests a recognition of the interconnectedness of various policies and the need for a balanced approach."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents do indicate that all council activities should be aligned with climate policy. The Climate Action Plan 2023-2028 outlines a commitment to apply a 'climate lens' to all decisions, programs, strategies, and plans. This means that climate impacts and opportunities should be considered in all aspects of the council's operations. The plan also emphasizes the need for climate action to be integrated across the whole organization, not just the responsibility of a small team or a few individuals. This suggests a comprehensive approach to climate action that permeates all council activities. Furthermore, the plan includes specific actions and responsibilities for different departments within the council, indicating a broad organizational commitment to climate action.",
+          "quote": {
+            "content": "We need to consider climate impacts and opportunities in all decisions, programs, strategies, and plans.",
+            "page": 22,
+            "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Hume Climate Action Plan 2023-2028 does explicitly allocate funding for climate action. The plan outlines various actions and activities related to climate change, and for each of these, it specifies the budgetary provisions. The budgetary allocations are mentioned in phrases such as 'Within current budgets', 'CAP Capital Works budget', and 'Within current budget and staff resourcing'. These allocations are tied to specific actions such as delivering the solar, solar storage, and energy efficiency program for Council buildings, supporting sustainable procurement, and developing communications campaigns for residents to take well-informed climate action. However, the plan does not provide specific monetary values or percentages, which could have offered a clearer picture of the financial commitment towards climate action.",
+          "quote": {
+            "content": "Higher energy use buildings will continue to be prioritised.",
+            "page": 30,
+            "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Hume Climate Action Plan 2023-2028 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines various actions and activities, each with a designated lead and support team, indicating a clear allocation of staff resources. For instance, the 'Climate Action Integration Team' is frequently mentioned as either leading or supporting various initiatives. The plan also mentions the 'Community Health and Wellbeing' team, 'People and Culture', 'Organisational Performance and Engagement', and 'Economic Development' among others. These allocations suggest a cross-departmental approach to climate action, integrating efforts across different sectors of the local government. The plan also outlines the use of existing budgets for many of the actions, indicating a commitment of financial resources. However, it is worth noting that many of the actions are to be carried out 'within current budgets', suggesting that additional funding may not be allocated specifically for these climate actions.",
+          "quote": {
+            "content": "Within current budget.",
+            "page": 35,
+            "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The Hume Climate Action Plan 2023-2028 does indeed provide evidence of social mobilisation efforts to empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a range of initiatives aimed at engaging the community and building capacity for climate action. For instance, the policy mentions the delivery of the 'Household Energy Program' which includes workshops and information about energy efficiency in the home, and support for residents to access relevant rebates and programs. The policy also mentions the continuation of the 'Sustainability and Climate Change Community of Practice' to get input from staff and build staff engagement on sustainability and climate change action. Furthermore, the policy outlines plans to develop communication campaigns for residents to take well-informed climate action and integrate communications into relevant services and programs. These initiatives indicate a concerted effort to mobilise the community and foster a collective response to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Hume City Council Climate Action Plan 2023-2028 indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a comprehensive approach to reducing emissions, which includes both technological solutions and behaviour change. For instance, the plan mentions the adoption of electric vehicles and the transition away from gas, which are technological solutions aimed at reducing greenhouse gas emissions. The plan also includes actions to investigate and implement improved data management systems and processes, which can help monitor and manage emissions more effectively. Furthermore, the plan emphasizes the importance of behaviour change, as it includes actions to develop communication campaigns for residents to take well-informed climate action. These campaigns aim to encourage changes in behaviour that can contribute to emission reductions, such as supporting the FOGO service to achieve high success rates and promoting the benefits of electric vehicles charged with renewable energy.",
+          "quote": {
+            "content": "The plan includes an action to investigate bringing this target forward if the Sunbury Landfill is closed or changes ownership.",
+            "page": 58,
+            "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+            "search_score": 0.94
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Hume City Council Climate Action Plan 2023-2028 does include specific actions for climate adaptation and resilience. The plan outlines a commitment to mitigating climate change, strengthening resilience, and enhancing abilities to adapt to climate impacts. It also mentions the development of communication campaigns for residents to take well-informed climate action, which includes adapting to climate impacts. The plan also identifies key stakeholders in the Climate Action Plan, including those more vulnerable to climate impacts, indicating a focus on resilience and adaptation strategies. Furthermore, the plan emphasizes the need to consider climate impacts and opportunities in all decisions, programs, strategies, and plans, often referred to as applying the 'climate lens'. This suggests a comprehensive approach to climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The Hume Climate Action Plan 2023-2028 provides well-sourced evidence to justify its climate targets and actions. The plan is based on a variety of inputs including previous action plans, recommendations from the Hume Sustainability Taskforce, community views, and reports on emission reduction opportunities. The plan also takes into account the policy context, including the Paris Agreement and other commitments from different levels of government. The plan sets a carbon neutral target by 2030 for Council operations, which is described as both bold and achievable. The plan also includes actions to reduce emissions, such as the adoption of electric vehicles and the reduction of greenhouse gas emissions. The plan also commits to applying a 'climate lens' to all decisions, strategies, and plans, indicating a comprehensive approach to addressing climate change.",
+          "quote": {
+            "content": "The Climate Action Plan sets a carbon neutral target by 2030 for Council operations which is both bold and achievable.",
+            "page": 58,
+            "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Hume City Council Climate Action Plan 2023-2028 does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a multi-criteria analysis with twelve criteria used to shortlist actions with the highest priority. The three main criteria are emissions reduction impact, level of Council control or influence, and strategic alignment with Council priorities. The plan also includes specific actions, each with a designated budget, responsibility, level of priority, and timeframe for completion. This allows for clear tracking and evaluation of each action's progress and success. Furthermore, the plan includes a commitment to rely on scientific evidence and projections, a strategic and evidence-based approach to taking climate action, and well-informed decision-making. This commitment suggests that the success of the plan's actions will be evaluated based on their alignment with scientific evidence and their effectiveness in achieving strategic climate action goals."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The Hume City Council Climate Action Plan 2023-2028 does indeed describe plans to conduct research in the local community to inform climate actions. The document outlines a commitment to rely on scientific evidence and projections, a strategic and evidence-based approach to taking climate action, and well-informed decision-making. The plan also includes actions to build the capacity of councilors and staff to apply a 'climate lens' in their roles, which suggests an intention to use research and evidence to inform their actions. Furthermore, the document mentions community engagement with key stakeholders, which could be seen as a form of research. This engagement includes focus groups with representatives from various sectors, which suggests a commitment to understanding the specific needs and perspectives of different community groups. This approach is likely to result in more effective and targeted climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The Hume City Council Climate Action Plan 2023-2028 demonstrates a commitment to innovation and policy experimentation in climate action. The plan outlines a comprehensive approach to addressing climate change, including a commitment to rely on scientific evidence and projections, and to take a strategic and evidence-based approach to climate action. The plan also includes a commitment to make well-informed decisions and to innovate for leadership. The council has set a bold target of achieving carbon neutrality by 2030 for council operations, which is a significant undertaking due to the high emissions from the Sunbury landfill and the cost of offsets that will be required to be purchased annually to achieve carbon neutrality. The plan also includes an action to investigate bringing this target forward if the Sunbury Landfill is closed or changes ownership. This shows a willingness to experiment with different approaches and to adjust plans based on changing circumstances.",
+          "quote": {
+            "content": "The Plan includes an \naction to investigate \nbringing this target \nforward if the Sunbury \nLandfill�is�closed�or�\nchanges ownership.\" \"The Climate Action Plan \nsets a carbon neutral \ntarget by 2030 for Council \noperations which is both \nbold and achievable. The \ntarget�is�a�significant�\nundertaking for Council \ndue to the high emissions \nfrom�Sunbury�landfill�\nand the cost of offsets \nthat will be required to \nbe purchased annually to \nachieve carbon neutrality.",
+            "page": 58,
+            "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 4,
+        "num_questions": 4,
+        "score": 1
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The Hume City Council Climate Action Plan 2023-2028 indeed shows an explicit intent to advocate upward to state and national governments to support climate action. The document outlines a series of actions and activities that the council plans to undertake, including advocacy to other levels of government for enhanced climate action on behalf of the Hume community, including business and industry. The advocacy issues listed include support for residents vulnerable to bill stress and climate impacts, support for business and industry to transition to low or no carbon operations, and the extension of bans on non-recyclable materials. The council also plans to continue to provide hosting support and participate in the Climate Emergency Australia network, and join and participate in the Cities Power Partnership. These actions demonstrate a clear intent to engage with and advocate to higher levels of government for climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The Hume Climate Action Plan 2023-2028 indeed encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines several actions and activities that aim to build capacity and foster collaboration. For instance, the policy mentions the continuation of the 'Sustainability and Climate Change Community of Practice' to engage staff and build their capacity on sustainability and climate change action. It also mentions the plan to build the capacity of staff and councillors to apply a climate lens. Furthermore, the policy highlights the importance of advocacy and collaboration with other levels of government for enhanced climate action on behalf of the Hume community. The policy also mentions the continuation of hosting and participating in the Northern Alliance for Greenhouse Action, which implies collaboration with neighbouring local councils. Therefore, the policy does encourage building local capacity for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate action. The Hume City Council is actively involved in several partnerships and networks to address climate change. For instance, the council is part of the Climate Emergency Australia network and the Cities Power Partnership. The council also hosts and participates in the Northern Alliance for Greenhouse Action, a network of councils working together to respond to climate change. These partnerships and networks are crucial for sharing resources, knowledge, and best practices, and for advocating for climate action at higher levels of government. The council's involvement in these networks demonstrates its commitment to collaborative climate action and its recognition of the importance of partnerships in addressing the complex issue of climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The Hume Climate Action Plan 2023-2028 explicitly discusses the impact of climate change on vulnerable communities. The document acknowledges that the impacts of climate change are experienced disproportionately by vulnerable members of the community. It identifies that Hume City's demographic has a high proportion of residents who are vulnerable to direct climate impacts like severe weather events such as heatwaves or storms, and indirect climate impacts like cost of living increases due to rising energy and fuel costs and impacts on food growing. Vulnerability is affected by financial situation, educational background, health and well-being, social connectedness, and cultural and communication differences. The document also identifies key stakeholders in the Climate Action Plan, including those more vulnerable to climate impacts or bill stress, such as lower socio-economic demographics, people with chronic illness or disability, very young people, old people, Aboriginal and Torres Strait Islanders, and new arrivals and people from diverse cultural backgrounds. The document's commitment to social justice in terms of climate change action means equity and fairness for future generations and protection of other species and ecosystems.",
+          "quote": {
+            "content": "Hume City’s demographic shows a high proportion of residents who are vulnerable to direct climate impacts like severe weather events such as heatwaves or storms, and indirect climate impacts like cost of living increases due to rising energy and fuel costs and impacts on food growing.",
+            "page": 20,
+            "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The Hume City Council Climate Action Plan 2023-2028 does discuss how to equitably share the benefits and opportunities of a safe climate, although it does not provide specific strategies or actions. The document emphasizes the importance of social justice in terms of climate change action, which it defines as equity and fairness for future generations, other species, and ecosystems. It also highlights the need to protect vulnerable residents from direct and indirect climate impacts, such as severe weather events and cost of living increases due to rising energy and fuel costs. The document further mentions the need to consider climate impacts and opportunities in all decisions, programs, strategies, and plans, which suggests an intention to distribute the benefits and opportunities of a safe climate equitably. However, the document does not provide specific details on how these benefits and opportunities will be shared equitably.",
+          "quote": {
+            "content": "Enhancing climate change action is a necessary component of protection for our highly valued wildlife, conservation areas and waterways. Social justice in terms of climate change action also means equity and fairness for future generations and protection of other species and ecosystems. Hume has a strong tradition in investing in biodiversity protection in Hume City.",
+            "page": 20,
+            "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 19,
+    "num_questions": 20,
+    "attribute_score": 95
+  }
+}

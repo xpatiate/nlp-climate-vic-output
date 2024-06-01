@@ -1,0 +1,298 @@
+{
+  "settings": {
+    "source_files": [
+      "Ballarat-2022-Net-Zero-Emissions-Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T12:57:39.719453",
+    "lga": "Ballarat"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The core purpose of the policy is indeed climate action. The policy is designed to guide the City of Ballarat and its community towards achieving net zero emissions by 2030. This is a clear commitment to climate action, as reducing emissions is a key strategy in mitigating the impacts of climate change. The policy outlines specific action areas, including Net Zero Business, Net Zero Homes, Net Zero New Developments, Net Zero Transport, and Net Zero Waste. These areas indicate a comprehensive approach to climate action, encompassing various sectors of the community and economy. The policy also acknowledges the need for collaboration and engagement with various stakeholders, including other levels of government, businesses, and the community, further emphasizing its commitment to climate action.",
+          "quote": {
+            "content": "Our aspiration is to become a net zero emissions city and municipality. To achieve a target of net zero emissions by 2030 is no mean feat. However, putting in place the foundations necessary to work towards this target is a crucial step to addressing one of the most pressing issues of our time.",
+            "page": 3,
+            "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. It highlights the adverse effects of climate change on the region's biodiversity, ecology, agriculture, tourism sectors, energy supply, urban form, and water supply. It emphasizes the critical role of communities and governments in reducing the future risk of catastrophic and irreversible climate change by reducing emissions. The document also aligns with the Paris Agreement commitment, which aims to keep global warming below 1.5°C higher than pre-industrial levels. The document further outlines the City of Ballarat's aspiration to become a net zero emissions city and municipality by 2030, indicating a clear need for action on climate change.",
+          "quote": {
+            "content": "In addition to adapting to these environmental changes, it is critical that communities and governments of all types respond by reducing the future risk of catastrophic and irreversible climate change by reducing emissions. In the Central Western region of Victoria, the impacts of climate change will adversely affect the region’s biodiversity and ecology, agriculture, nature-based tourism sectors, energy supply, urban form and water supply.",
+            "page": 5,
+            "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document indeed calls for rapid and urgent action on climate change. It acknowledges the climate emergency and the need for urgent action by all levels of government, including local councils, to reduce carbon emissions. The City of Ballarat has set an ambitious target of achieving net zero emissions by 2030, which is a clear indication of the urgency with which they are approaching the issue. The document also mentions that without considered climate action, Ballarat’s carbon budget will be used up within 10 years, further emphasizing the urgency of the situation. The plan includes specific actions and strategies, such as advocating for stronger climate action and investment, developing low emissions infrastructure, and promoting incentives for zero emissions vehicles, which are all aimed at rapidly reducing emissions.",
+          "quote": {
+            "content": "During the 21 November 2018 council meeting Council acknowledged the Climate Emergency and the need for urgent action by all levels of government, including local councils, to reduce carbon emissions.",
+            "page": 5,
+            "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+            "search_score": 0.94
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The City of Ballarat has outlined a plan to advocate and promote incentives for zero emissions vehicles, with a timeline of 1-2 years. The plan also mentions that the City of Ballarat will report annually on the progress, key achievements, highlights, and areas of improvement. Furthermore, the plan will be reviewed in 2025 and updated based on the success of programs while taking into account State and Federal Government policy, funding opportunities, technology accessibility, and other collaborative opportunities. The plan is set to expire in 2030, the year of the aspirational target of achieving net zero emissions for the municipality."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents from the City of Ballarat's Net Zero Emissions Plan do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do emphasize the importance of addressing climate change, outlining the city's commitment to achieving net zero emissions by 2030, and detailing various strategies and actions to reduce emissions. However, they do not explicitly prioritize these actions over other policies. The documents also highlight the need for collaboration and engagement across various sectors and levels of government, suggesting a holistic approach to policy implementation rather than a hierarchical one."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. The City of Ballarat's Net Zero Emissions Plan outlines a roadmap for collaborative action to achieve net zero emissions by 2030. It includes a series of stakeholder consultation workshops, annual reporting on progress, and a review in 2025. The plan identifies key areas of action for the Ballarat community, including net zero business, homes, new developments, transport, and waste. However, it does not specifically mandate that all council activities align with this climate policy. The plan does emphasize the importance of cross-sectoral collaboration and strategic direction, but it stops short of requiring all council activities to adhere to the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents from the Ballarat 2022 Net Zero Emissions Plan do not explicitly mention the allocation of funding for climate action. The plan outlines various actions and strategies to reduce emissions and promote sustainability, such as advocating for zero emissions vehicles, coordinating transport logistics, and developing low emissions infrastructure. However, these documents do not provide specific details on how these actions will be funded. The plan does mention that the City of Ballarat will report annually on progress and key achievements, and that the plan will be reviewed in 2025, taking into account State and Federal Government policy, funding opportunities, and technology accessibility. However, this does not constitute a clear allocation of funding for the climate actions outlined in the plan."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents from the Ballarat 2022 Net Zero Emissions Plan do not explicitly allocate staff or other non-monetary institutional resources to climate action. The documents outline various actions and strategies for reducing emissions and promoting sustainability, such as advocating for zero emissions vehicles, coordinating transport logistics, developing low emissions infrastructure, and increasing the use of public and active transport modes. However, these actions are described in terms of their benefits and timeframes, and the roles of various entities (such as the City of Ballarat, community groups, and businesses) in delivering or supporting these actions. There is no specific mention of the allocation of staff or other non-monetary institutional resources to these actions. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates such resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government of Ballarat is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines several initiatives that involve community participation and support. For instance, the policy advocates for promoting incentives for zero emissions vehicles and expanding the role of local community sustainability groups. It also encourages community participation in discussions on local sustainability initiatives, technologies, and programs. Furthermore, the policy promotes success stories associated with all-electric houses, which can serve as an educational tool for the community. The policy also outlines plans to work with public and private stakeholders in identifying transport logistics challenges and to support businesses to understand the potential benefits of implementing biomass projects. These initiatives indicate a clear effort to mobilize the community and involve them in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Ballarat 2022 Net Zero Emissions Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of strategies, both technological and behavioural, to achieve its goal of net zero emissions by 2030. Technological solutions include advocating for zero emissions vehicles and developing low emissions infrastructure. For instance, the plan proposes to apply innovative solutions to use waste products in operations, such as recycled content in building materials. It also plans to review infrastructure design guidelines to require all building materials for roads, paths, kerb and channel, and concrete to use high recycled content and/or low emissions materials. Behavioural changes are encouraged through community engagement and awareness-raising initiatives. The plan aims to continue to support, promote and expand the role of local community sustainability groups and to promote success stories associated with all-electric houses. These actions demonstrate a comprehensive approach to reducing greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Ballarat Net Zero Emissions Plan does include specific actions for climate adaptation and resilience. The plan outlines a variety of strategies aimed at reducing emissions and adapting to the impacts of climate change. For instance, it mentions the integration of adequate shading and tree canopy cover in new development and precinct plans to enable active transport, which can help mitigate urban heat and promote community health and well-being. The plan also emphasizes the importance of designing new areas to be resilient to extreme weather and climate-related events. Furthermore, the plan includes a commitment to report annually on progress, key achievements, and areas of improvement, which suggests an adaptive approach to managing climate change impacts. However, while the plan does include specific actions, it could benefit from more detailed information on how these actions will be implemented and evaluated."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a well-structured plan for achieving net zero emissions by 2030. It outlines specific areas of action, such as Net Zero Business, Net Zero Homes, Net Zero New Developments, Net Zero Transport, and Net Zero Waste. The plan also includes a monitoring, reporting, and review process, with annual reporting on progress and a review scheduled for 2025. The plan's target aligns with the Paris Agreement's goal of limiting temperature increase to 1.5°C above pre-industrial levels. The document also acknowledges the need for cross-sectoral collaboration and community engagement, and it includes specific actions such as advocating for zero emissions vehicles. However, while the document outlines a clear plan and target, it does not provide specific sources or data to justify these targets and actions.",
+          "quote": {
+            "content": "This plan identifies key areas of action for the Ballarat community to transition to net zero emissions by 2030. Achieving the ambitious target of net zero emissions by 2030 will require substantial action by the Victorian and Australian Government beyond currently planned actions and targets, as well as from the Ballarat community.",
+            "page": 4,
+            "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Ballarat 2022 Net Zero Emissions Plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a monitoring and evaluation framework that will be developed and implemented. This framework will review the uptake and effectiveness of specific actions and redirect its course if necessary. The City of Ballarat will report annually on the progress, key achievements, highlights, and areas of improvement. These updates and lessons learned will be shared with the community in the City of Ballarat’s Annual Report. The plan will be reviewed in 2025 and updated based on the success of programs while taking into account State and Federal Government policy, funding opportunities, technology accessibility, and other collaborative opportunities. The plan will expire in 2030, the year of the aspirational target of achieving net zero emissions for the municipality.",
+          "quote": {
+            "content": "The City of Ballarat will report annually on the progress, key achievements, highlights and areas of improvement. A monitoring and evaluation framework will be developed for this plan. Through ongoing monitoring, the City of Ballarat will review the uptake and effectiveness of specific actions and redirect its course if necessary.",
+            "page": 30,
+            "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The City of Ballarat's 'Net' Zero Emissions Plan was developed with extensive community engagement and involvement. This included the publication and distribution of a background paper detailing recommended program areas focused on community emissions reduction, and a series of online and face-to-face workshops with stakeholder groups to discuss existing and planned developments in each identified action area. These sessions provided strategic direction in the recommendation and framing of key action areas, and helped the project team understand community priorities and perspectives on climate action. The plan also includes a commitment to report annually on progress, key achievements, highlights, and areas of improvement, and to review and update the plan in 2025 based on the success of programs and other factors. This suggests a commitment to ongoing research and community engagement to inform and refine climate actions.",
+          "quote": {
+            "content": "As a document that seeks to ensure that the maximum number of emissions are reduced, the recommendations within it rely heavily on cross-sectoral collaboration and a clear and unified strategic direction. This ‘Net’ Zero Emissions Plan was sponsored by the City of Ballarat and included extensive community engagement and involvement.",
+            "page": 9,
+            "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The City of Ballarat's 'Net Zero Emissions Plan' outlines a strategic direction and a series of actions to reduce emissions, but these actions appear to be based on established practices and strategies, such as community engagement, cross-sectoral collaboration, and the development of low emissions infrastructure. The plan also includes a monitoring, reporting, and review process, which could potentially allow for policy experimentation, but the documents do not provide specific details about this process. Furthermore, while the plan does mention the possibility of 'additional actions' to deliver net zero emissions, it does not provide any details about what these actions might be or how they might represent innovative approaches to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The City of Ballarat's Net Zero Emissions Plan outlines a clear commitment to work in partnership with the community, businesses, community leaders, and other levels of government to achieve sustainability and net zero emissions by 2030. The plan acknowledges the critical role of state and federal governments in supporting local governments and communities to deliver the actions necessary towards achieving net zero emissions. This includes the development or review of policy and legislation to allow appropriate climate action, and through grants and funding to support emissions reduction projects and activities. The plan also highlights the need for ongoing engagement with local governments and multiple sectors and different stakeholders groups for the development of policies, appropriate planning of projects and services, and for adequate resourcing to implement these.",
+          "quote": {
+            "content": "These include review or development of policy and legislation to allow appropriate climate action, and through grants and funding to support emissions reduction projects and activities. The State and Federal Governments play an important role in supporting local governments and communities to deliver the actions necessary towards achieving net zero emissions.",
+            "page": 10,
+            "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The document does explicitly encourage building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The City of Ballarat's Net Zero Emissions Plan outlines a collaborative approach to achieving its climate goals. The plan emphasizes the importance of cross-sectoral collaboration and a clear and unified strategic direction. It also highlights the role of the community in reducing emissions, stating that the plan is designed to be implemented in partnership with the community. The document mentions that the City of Ballarat will support and/or facilitate most actions outlined in the plan, but it is the community, including individuals, businesses, and community groups, that will be driving change on the ground. While the document does not explicitly mention neighbouring local councils, the emphasis on collaboration and partnership suggests that they could be included in these efforts.",
+          "quote": {
+            "content": "It is the Ballarat community including individuals, businesses, and community groups that will be driving change on the ground. While City of Ballarat is expected to lead and/or facilitate most actions outlined in this plan, the plan is designed to be implemented in partnership with the community.",
+            "page": 10,
+            "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate action. While the documents do discuss the City of Ballarat's commitment to climate action, including workshops, community engagement, and various planned actions for emissions reduction, they do not specify any partnerships with regional associations or alliances. The documents emphasize the importance of cross-sectoral collaboration and community involvement in achieving net zero emissions, but they do not provide details about specific partnerships or alliances. Therefore, based on the provided documents, it cannot be confirmed that the policy refers to specific regional associations, alliances, or other partnerships related to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents from the Ballarat 2022 Net Zero Emissions Plan do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on strategies for emissions reduction, community resilience, and economic impact. They outline various initiatives such as promoting zero emissions vehicles, supporting businesses to plan for net zero, developing low emissions infrastructure, and coordinating transport logistics. While these actions indirectly contribute to the well-being of all community members, including potentially vulnerable groups, there is no specific mention of how climate change impacts these groups differently or any targeted measures to address such impacts."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents from the Ballarat 2022 Net Zero Emissions Plan do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents focus on the City of Ballarat's plans and actions towards achieving net zero emissions, including advocating for zero emissions vehicles, supporting businesses to plan for and deliver net zero, and promoting local offsetting opportunities. However, there is no specific mention or discussion on how these benefits and opportunities will be equitably shared among different social groups or how social justice will be ensured in the process. Therefore, based on the provided documents, the question cannot be answered positively."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 12,
+    "num_questions": 20,
+    "attribute_score": 64.2
+  }
+}

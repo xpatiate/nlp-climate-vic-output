@@ -1,0 +1,43 @@
+{
+  "attribute": 6,
+  "question": 9,
+  "finding": false,
+  "num": 7,
+  "responses": [
+    {
+      "answer": "The documents provided do not provide clear evidence of the local government actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The focus of the documents is primarily on the actions and responsibilities of the local government and its staff. While there are mentions of fostering a culture of climate action within the council and establishing a Climate Action Steering Committee, these actions are directed at the internal operations of the council rather than the wider community. There is no explicit mention of social mobilisation efforts such as community education programs, public consultations, or community-led initiatives. Therefore, based on the provided documents, it cannot be affirmed that the local government is actively empowering and educating the community for social mobilisation in relation to climate action.",
+      "source": "Banyule-a-a12345678910.json",
+      "lga": "Banyule"
+    },
+    {
+      "answer": "The documents provided do not provide clear evidence of the local government actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy documents focus primarily on the actions of the local government itself, such as establishing a Climate Action Steering Committee, fostering collaboration and innovation within the organisation, and implementing a cultural change program across the Council. While these actions may indirectly influence the community by setting an example and creating a culture of climate action, they do not directly involve the community or provide them with tools or education to take action themselves. Therefore, the question cannot be answered in the affirmative based on the provided context.",
+      "source": "Banyule-b-a12345678910.json",
+      "lga": "Banyule"
+    },
+    {
+      "answer": "The documents do not provide clear evidence of the local government actively empowering and educating the community to rally, support, and work productively together to deliver climate action. While the documents mention the importance of communication with stakeholders and the community, and the sharing of information through various channels, they do not explicitly detail any initiatives or programs aimed at social mobilisation for climate action. The documents focus more on the government's commitments and plans to reduce greenhouse gas emissions and increase renewable energy use. They outline various strategies and actions, such as improving energy efficiency, investing in renewable energy technology, and setting emissions reduction targets. However, these are largely government-led initiatives, and there is no explicit mention of efforts to actively involve the community in these actions.",
+      "source": "Casey-b-a12345678910.json",
+      "lga": "Casey"
+    },
+    {
+      "answer": "The documents provided do not provide clear evidence of the local government actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy primarily focuses on the council's internal actions to reduce emissions, such as developing a low carbon workplace, reducing emissions from waste, fleet, buildings, parks and reserves, and street lighting. While the council acknowledges its role in assisting the community to reduce emissions in the Environmental Sustainability Strategy 2017-2021, it is stated that this is outside the scope of the current plan. The policy does mention some actions aimed at staff education and raising awareness, but these are internal measures and do not extend to the wider community. Therefore, in terms of 'social mobilisation', the documents do not provide evidence of active community empowerment and education for collective climate action.",
+      "source": "Moira-a-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The documents provided do not provide clear evidence of the local government actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy primarily focuses on the council's internal actions to reduce emissions, such as developing a low carbon workplace, reducing emissions from waste, fleet, buildings, parks and reserves, and street lighting. The council acknowledges its role in assisting the community to reduce emissions in the Environmental Sustainability Strategy 2017-2021, but this is stated to be outside the scope of the current plan. While there are mentions of promoting council's commitment to reducing emissions and encouraging sustainable choices, these actions seem to be directed more towards the council's staff and facility users, rather than the broader community.",
+      "source": "Moira-b-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The documents provided do not provide clear evidence that the local government policy actively empowers and educates the community to rally, support, and work productively together to deliver climate action. While the policy does mention the engagement of the municipal community in strategic planning and decision making, it does not specify how this engagement will occur or what form it will take. The policy also mentions the development of a new Climate Action Plan with extensive internal and community consultation, but again, it does not provide specific details on how this consultation will be conducted or how it will empower and educate the community. Therefore, based on the provided documents, it cannot be conclusively stated that the policy actively empowers and educates the community to rally, support, and work productively together to deliver climate action.",
+      "source": "SouthGippsland-a-a12345678910.json",
+      "lga": "SouthGippsland"
+    },
+    {
+      "answer": "The documents provided do not offer clear evidence that the local government policy actively empowers and educates the community to rally, support, and work productively together to deliver climate action. While the policy does mention the engagement of the municipal community in strategic planning and decision making, it does not specify the methods or strategies for such engagement. The policy also mentions the development of a new Climate Action Plan with extensive internal and community consultation, but it does not provide details on how this consultation will be conducted or how it will empower and educate the community. Therefore, based on the provided documents, it cannot be conclusively stated that the policy actively empowers and educates the community for social mobilisation in climate action.",
+      "source": "SouthGippsland-b-a12345678910.json",
+      "lga": "SouthGippsland"
+    }
+  ]
+}

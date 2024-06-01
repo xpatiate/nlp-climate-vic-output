@@ -1,0 +1,398 @@
+{
+  "attribute": 11,
+  "question": 19,
+  "finding": false,
+  "num": 78,
+  "responses": [
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the Alpine Shire Council's Climate Action Plan and Position Statement acknowledge the vulnerability of the region's natural and built environment, economic prosperity, and community health to climate change, they do not specifically address the differential impacts on vulnerable communities. The documents focus primarily on mitigation strategies, such as reducing greenhouse gas emissions, and adaptation strategies, such as planning for extreme weather events. However, they do not delve into the social dimensions of climate change, such as how it might exacerbate existing social inequalities or disproportionately affect certain communities.",
+      "source": "Alpine-a-a12345678910.json",
+      "lga": "Alpine"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the Alpine Shire Council's Climate Action Plan and Position Statement acknowledge the vulnerability of the region's natural and built environment, economic prosperity, and community health to climate change, they do not specifically address the differential impacts on vulnerable communities. The documents focus primarily on mitigation strategies, such as reducing greenhouse gas emissions, and adaptation strategies, such as planning for extreme weather events. However, they do not delve into the social justice implications of climate change, such as how it might disproportionately affect certain communities or exacerbate existing inequalities.",
+      "source": "Alpine-b-a12345678910.json",
+      "lga": "Alpine"
+    },
+    {
+      "answer": "The provided documents from the City of Ballarat's 2022 Net Zero Emissions Plan do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents focus on various strategies and actions to reduce emissions, promote sustainability, and build community resilience. These include advocating for zero emissions vehicles, supporting businesses to plan for and deliver net zero, developing low emissions infrastructure, and coordinating transport logistics. While these actions indirectly contribute to the welfare of all community members, including potentially vulnerable groups, there is no specific mention or discussion of the differential impacts of climate change on such groups or explicit strategies to address these in terms of equity and social justice.",
+      "source": "Ballarat-a-a12345678910.json",
+      "lga": "Ballarat"
+    },
+    {
+      "answer": "The provided documents from the Ballarat 2022 Net Zero Emissions Plan do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on strategies for emissions reduction, community resilience, and economic impact. They outline various initiatives such as promoting zero emissions vehicles, supporting businesses to plan for net zero, developing low emissions infrastructure, and coordinating transport logistics. While these actions indirectly contribute to the well-being of all community members, including potentially vulnerable groups, there is no specific mention of how climate change impacts these groups differently or any targeted measures to address such impacts.",
+      "source": "Ballarat-b-a12345678910.json",
+      "lga": "Ballarat"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do acknowledge the need for urgent action to mitigate the effects of climate change and outline a plan for reducing emissions, they do not specifically address how climate change might disproportionately affect certain communities or discuss measures to ensure social justice in their climate response. The documents focus primarily on the technical and operational aspects of the local government's climate action plan, such as reducing emissions from council operations and transitioning to renewable energy sources.",
+      "source": "Banyule-a-a12345678910.json",
+      "lga": "Banyule"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do acknowledge the need for urgent action to mitigate the effects of climate change and outline a plan for reducing emissions, they do not specifically address how climate change might disproportionately affect certain communities. The documents focus primarily on the local government's commitment to reducing emissions and the technical and cultural steps necessary to achieve this goal. They also highlight the potential consequences of climate change, such as increased heatwaves and other extreme weather events, but do not link these consequences to impacts on vulnerable communities.",
+      "source": "Banyule-b-a12345678910.json",
+      "lga": "Banyule"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do provide a detailed analysis of the local government's Climate Action Plan, including community feedback and proposed actions, they do not specifically address how climate change might disproportionately affect certain vulnerable groups within the community. The documents focus primarily on general community responses, emissions targets, and various sustainability actions. However, they do not delve into the social justice implications of climate change or the specific impacts on vulnerable populations. Therefore, based on the provided documents, the local government's policy does not explicitly address the intersection of climate change, equity, and social justice.",
+      "source": "Boroondara-a-a12345678910.json",
+      "lga": "Boroondara"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's Climate Action Plan, including community feedback, proposed actions, and areas of focus. Key themes include the need for stronger emissions targets, urgency, and the lack of a timeline or budget. Other areas of focus include waste management, policy and planning, and the environment. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities or any measures to address equity and social justice in the context of climate change.",
+      "source": "Boroondara-b-a12345678910.json",
+      "lga": "Boroondara"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do mention the potential impacts of climate change on the community, economy, and environment, they do not specifically address how these impacts might disproportionately affect vulnerable populations. The documents focus on the general community's concerns about climate change, mitigation and adaptation strategies, and actions to reduce emissions and enhance climate-related opportunities. However, they do not delve into the specific vulnerabilities or needs of marginalized or disadvantaged groups within the community. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Buloke-a-a12345678910.json",
+      "lga": "Buloke"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the potential impacts of climate change on the community, economy, and environment, they do not specifically address how these impacts might disproportionately affect vulnerable populations. The documents focus on general mitigation and adaptation strategies, such as waste reduction, energy efficiency, and building improvements, without discussing how these strategies might be implemented in a way that addresses social inequities. Furthermore, while the documents mention community concerns about the impact of climate change on quality of life and economic viability, they do not delve into how these concerns might be heightened for vulnerable communities.",
+      "source": "Buloke-b-a12345678910.json",
+      "lga": "Buloke"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do acknowledge the impacts of climate change on the community, business, industry, and the environment, and outline various strategies for mitigation and adaptation, they do not specifically address how these impacts might disproportionately affect vulnerable populations. The documents focus on general community resilience, energy and water consumption, sustainable energy options, and greenhouse gas emissions, among other things. However, they do not delve into the social justice aspects of climate change, such as how the effects of climate change might be unevenly distributed among different communities or populations.",
+      "source": "Campaspe-a-a12345678910.json",
+      "lga": "Campaspe"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The policy documents focus on the general impacts of climate change on the community, business, industry, and the environment. They outline the local government's plans for climate change mitigation and adaptation, including managing energy and water consumption, promoting sustainable energy options, and planning for climate change risks. However, they do not specifically address the differential impacts of climate change on vulnerable communities or discuss these impacts in terms of equity and social justice.",
+      "source": "Campaspe-b-a12345678910.json",
+      "lga": "Campaspe"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the need for climate change adaptation measures, the identification of climate risks, and the planning for climate resilience, they do not specifically address how these issues relate to vulnerable communities or the concepts of equity and social justice. The documents focus more on the general impacts of climate change on the community, assets, and service delivery, rather than on specific social groups or issues of social justice. Therefore, based on the provided context, the question cannot be answered in the affirmative.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the need for climate change adaptation measures, the identification of climate risks, and the development of action plans to address these risks, they do not specifically address the differential impacts of climate change on vulnerable communities. The documents focus more on general community preparedness, organisational resilience, and the inclusion of climate change adaptation measures in council policies. Therefore, based on the provided context, it cannot be affirmed that the documents discuss the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. The focus of the documents is primarily on the City of Casey's efforts to reduce greenhouse gas emissions, improve energy efficiency, and increase renewable technology uptake. The documents outline the city's commitment to achieving carbon neutrality by 2040, and detail various strategies and indicators to guide council actions. These include managing waste, water, biodiversity, and energy use, encouraging modes of transport that reduce emissions and congestion, and planning, delivering, and managing assets and resources to meet the needs of current and future communities. However, there is no specific mention of the impact of these policies on vulnerable communities or any discussion of equity and social justice in relation to climate change.",
+      "source": "Casey-a-a12345678910.json",
+      "lga": "Casey"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. The focus of the documents is primarily on the City of Casey's efforts to reduce greenhouse gas emissions and increase energy efficiency. These efforts include setting ambitious targets for emissions reduction, investing in renewable energy technology, and implementing various strategies and indicators to guide Council actions. While these actions are likely to have indirect benefits for all community members, including potentially vulnerable groups, the documents do not specifically address the differential impacts of climate change on these groups or outline strategies to address such impacts.",
+      "source": "Casey-b-a12345678910.json",
+      "lga": "Casey"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the need to increase community understanding of local climate variability impacts, vulnerability, and adaptation, they do not specifically address the impact on vulnerable communities. The documents focus more on the general community and the local government's strategies to mitigate and adapt to climate change. They discuss the need for planning, collaboration, and adaptation in response to climate variability, but do not delve into the specific impacts on vulnerable communities or discuss these impacts in the context of equity and social justice.",
+      "source": "Corangamite-a-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the need to increase community understanding of local climate variability impacts, vulnerability, and adaptation, they do not specifically address the effects on vulnerable communities. The documents focus on general community awareness and planning for climate variability, but do not delve into the specific impacts on different social groups or discuss these impacts in the context of equity and social justice. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Corangamite-b-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The provided documents from the East Gippsland Shire Council Environmental Sustainability Strategy 2022-2032 do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. The documents focus on the general community's participation in climate response, the need for environmental sustainability, and the potential impacts of climate change such as extreme heat, harsher bushfires, sea level rise, and flooding. However, there is no specific mention or discussion about how these changes might disproportionately affect vulnerable communities or any measures to address such impacts in terms of equity and social justice.",
+      "source": "EastGippsland-a-a12345678910.json",
+      "lga": "EastGippsland"
+    },
+    {
+      "answer": "The provided documents from the East Gippsland Shire Council Environmental Sustainability Strategy 2022-2032 do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. The documents focus on the general community's participation in climate response, the need for climate resilience, and the potential opportunities that arise from adapting to climate change. They also mention the risks that the East Gippsland region faces due to climate change, such as extreme heat, bushfires, sea level rise, and heavy rainfalls. However, there is no specific mention or discussion about how these climate change impacts might disproportionately affect vulnerable communities, or any measures to address such impacts in the context of equity and social justice.",
+      "source": "EastGippsland-b-a12345678910.json",
+      "lga": "EastGippsland"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's plans and actions to mitigate climate change, such as reducing greenhouse gas emissions, supporting the Victorian Government's TAKE2 climate change pledge, and investigating the benefits of joining organizations working on greenhouse mitigation. The documents also mention the need for public reporting on the council's energy costs, usage, and greenhouse gas emissions, and the importance of educating and engaging the community in energy efficiency and renewable energy technologies. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities or any measures being taken to address these effects.",
+      "source": "Frankston-a-a12345678910.json",
+      "lga": "Frankston"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's plans and actions to mitigate climate change, such as reducing greenhouse gas emissions, supporting the Victorian Government's TAKE2 climate change pledge, and investigating the benefits of joining organizations working on greenhouse mitigation. The documents also mention the importance of public reporting on the council's energy costs, usage, and greenhouse gas emissions, and the need to stay abreast of the latest research and innovations in Smart City technologies. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities or any measures being taken to address these effects in terms of equity and social justice.",
+      "source": "Frankston-b-a12345678910.json",
+      "lga": "Frankston"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the policy outlines a comprehensive approach to mitigating and adapting to climate change, including transitioning to renewable energy, reducing emissions, and increasing community resilience, it does not specifically address how these actions will impact or benefit vulnerable communities. The policy does mention the need to 'assist the community to be more resilient to the effects of climate change' and to 'facilitate action on climate change as relevant to their circumstances', but it does not elaborate on what these communities are or how they are specifically affected by climate change. Therefore, the policy does not provide clear evidence to answer the question in the affirmative.",
+      "source": "Gannawarra-a-a12345678910.json",
+      "lga": "Gannawarra"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the policy outlines various strategies for mitigating and adapting to climate change, including transitioning to renewable energy, reducing emissions, and increasing community resilience, it does not specifically address how these actions will affect vulnerable populations. The policy does mention the need to 'assist the community to be more resilient to the effects of climate change' and to 'facilitate action on climate change as relevant to their circumstances', but these statements are general and do not specifically refer to vulnerable communities or social justice issues. Therefore, based on the provided documents, the policy does not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Gannawarra-b-a12345678910.json",
+      "lga": "Gannawarra"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the implications of climate change for local communities, they do not specifically address how these impacts might disproportionately affect vulnerable populations. The documents focus on the environmental impacts of climate change, the need for community engagement and education, and the incorporation of climate change impacts into planning and strategies. However, they do not delve into the social justice aspects of these impacts, such as how they might exacerbate existing inequalities or disproportionately burden certain communities. Therefore, the documents do not provide clear evidence to affirmatively answer the question.",
+      "source": "Glenelg-a-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the implications of climate change for local communities, they do not specifically address how these impacts might disproportionately affect vulnerable populations. The documents focus on the general environmental impacts of climate change, the need for community engagement and education, and the incorporation of climate change impacts into planning and strategies. However, they do not delve into the social justice aspects of these impacts, such as how they might exacerbate existing inequalities or disproportionately burden certain communities.",
+      "source": "Glenelg-b-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change resilience, such as reducing urban heat and flood risk, enhancing open spaces, and developing community awareness campaigns, they do not specifically address how these actions will impact vulnerable communities from an equity and social justice perspective. The documents also mention the need for community and stakeholder investment, as well as state and federal government support, but again, there is no explicit discussion on the impact on vulnerable communities.",
+      "source": "GreaterShepparton-a-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents outline various strategies and actions related to climate change resilience, such as reducing urban heat and flood risk, enhancing open spaces, and developing community awareness campaigns, they do not specifically address how these actions will impact vulnerable communities from an equity and social justice perspective. The documents do mention the need for community and stakeholder investment and the role of state and federal governments in enabling and supporting local governments and communities. However, these references do not directly relate to the impact on vulnerable communities in terms of equity and social justice.",
+      "source": "GreaterShepparton-b-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the impacts of climate change on various sectors such as the regional economy, local development infrastructure, local community infrastructure, and the council's capacity to meet community needs, there is no specific mention of how these impacts might disproportionately affect vulnerable communities. The documents also outline various climate change adaptation strategies and measures, but again, there is no explicit discussion of how these strategies might address issues of equity and social justice among vulnerable communities.",
+      "source": "Hindmarsh-a-a12345678910.json",
+      "lga": "Hindmarsh"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the impacts of climate change on various sectors such as the regional economy, local development infrastructure, local community infrastructure, and the council's capacity to meet the needs of its community, there is no specific mention of how these impacts would affect vulnerable communities. The documents also outline the potential impacts of climate change such as increased severity and frequency of extreme events, reduced humidity, increased number of hot days, and reduced water availability, but these are not linked to impacts on vulnerable communities. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Hindmarsh-b-a12345678910.json",
+      "lga": "Hindmarsh"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the potential impacts of climate change, such as increased cost of living, health costs, and insurance costs, as well as the potential for more frequent and severe natural disasters, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents also outline some of the local government's planned actions in response to climate change, such as incorporating environmental impact risk assessments into the planning of major projects and developing procurement policies that favor environmentally friendly products. However, these actions are not discussed in relation to their potential effects on vulnerable communities.",
+      "source": "Horsham-a-a12345678910.json",
+      "lga": "Horsham"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the potential impacts of climate change, such as increased cost of living, health costs, and insurance costs, as well as the potential for more frequent and severe natural disasters, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents also outline some of the local government's planned actions in response to climate change, such as incorporating environmental impact risk assessments into the planning of major projects and developing procurement policies that favor environmentally friendly products. However, these actions are not discussed in relation to equity or social justice issues.",
+      "source": "Horsham-b-a12345678910.json",
+      "lga": "Horsham"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change adaptation and mitigation, they do not specifically address how these measures will affect or benefit vulnerable communities. The documents focus on general community impacts and responses, strategic objectives, risk assessments, and policy considerations. However, they do not delve into the specific implications for equity and social justice, or how climate change might disproportionately affect certain vulnerable groups within the community.",
+      "source": "Indigo-a-a12345678910.json",
+      "lga": "Indigo"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the need for adaptation to climate change, and outline various strategies and actions to address climate change risks, they do not specifically address the differential impacts on vulnerable communities. The documents focus more on general strategies for climate change adaptation and mitigation, such as incorporating climate change considerations into planning and policy, increasing resilience of infrastructure, and promoting sustainable practices. Therefore, based on the provided documents, it cannot be affirmed that there is a specific focus on the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Indigo-b-a12345678910.json",
+      "lga": "Indigo"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the policy documents do mention the potential adverse impacts of a price on carbon emissions on the local community, they do not specifically identify or discuss vulnerable communities or the differential impacts of climate change on these groups. The focus of the policy appears to be on transitioning to a low carbon economy, with an emphasis on job creation and economic development. The documents also mention the establishment of a committee with diverse representation, but do not specify whether this includes representatives of vulnerable communities. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Latrobe-a-a12345678910.json",
+      "lga": "Latrobe"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the policy documents do mention the potential adverse impacts of a price on carbon emissions on the local community, they do not specifically identify or discuss vulnerable communities or the differential impacts of climate change on these groups. The focus of the policy appears to be on transitioning to a low carbon economy, with an emphasis on job creation and economic development. The documents also discuss the establishment of committees and the development of strategies to manage the transition, but there is no explicit mention of equity and social justice considerations in relation to vulnerable communities.",
+      "source": "Latrobe-b-a12345678910.json",
+      "lga": "Latrobe"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. The documents primarily focus on the local government's environmental sustainability strategy and action plan, which includes actions related to energy management, water management, biodiversity, land management, sustainable transport, waste, and business development. While these actions indirectly contribute to the well-being of all community members, including potentially vulnerable groups, there is no specific mention of the differential impacts of climate change on such groups. Therefore, it cannot be affirmed that the policy explicitly addresses the impact of climate change on vulnerable communities from an equity and social justice perspective.",
+      "source": "Loddon-a-a12345678910.json",
+      "lga": "Loddon"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's environmental sustainability strategy and action plan, which includes actions related to energy management, water management, biodiversity, land management, sustainable transport, waste, and business development. While these actions indirectly contribute to mitigating the impacts of climate change, they do not specifically address its impact on vulnerable communities or discuss it in the context of equity and social justice. Therefore, based on the provided documents, the local government's policy does not explicitly consider the social justice implications of climate change.",
+      "source": "Loddon-b-a12345678910.json",
+      "lga": "Loddon"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do outline the local government's plans and actions to mitigate climate change, including reducing greenhouse gas emissions, promoting renewable energy, and integrating climate considerations into decision-making processes, they do not specifically address how these actions will affect vulnerable communities. The documents also mention community engagement and support initiatives, but these are not specifically targeted at vulnerable communities or framed in terms of equity and social justice. Therefore, based on the provided context, the documents do not meet the criteria to answer the question in the affirmative.",
+      "source": "MacedonRanges-a-a12345678910.json",
+      "lga": "MacedonRanges"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do outline various strategies and actions for mitigating and adapting to climate change, they do not specifically address how these measures will affect or benefit vulnerable communities. The documents focus primarily on reducing greenhouse gas emissions, promoting renewable energy, and integrating climate change considerations into decision-making processes. They also mention community engagement and support for climate action, but do not explicitly link these efforts to equity or social justice concerns. Therefore, based on the provided context, the documents do not meet the high standard of evidence required to affirmatively answer the question.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline the local government's commitment to mitigating climate change impacts and reducing greenhouse gas emissions, they do not specifically address how these efforts will affect or benefit vulnerable communities. The documents mention the development of a Climate Action Plan, the promotion of low emissions transitions, and the advocacy for a supportive policy environment for climate change mitigation and adaptation. However, these actions are not explicitly linked to the concept of 'equity and social justice' or to the impact on vulnerable communities. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses the impact of climate change on vulnerable communities in terms of 'equity and social justice'.",
+      "source": "Mansfield-a-a12345678910.json",
+      "lga": "Mansfield"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline the local government's commitment to mitigating climate change impacts and reducing greenhouse gas emissions, they do not specifically address how these efforts will affect or benefit vulnerable communities. The documents mention the development of a Climate Action Plan, the promotion of low emissions transitions, and the advocacy for a supportive policy environment for climate change mitigation and adaptation. However, these actions are not explicitly linked to the impact on vulnerable communities or discussed within the framework of social justice or equity. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Mansfield-b-a12345678910.json",
+      "lga": "Mansfield"
+    },
+    {
+      "answer": "The provided documents from the Maribyrnong City Council's Climate Emergency Action Plan do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do outline the council's recognition of the global climate emergency and its impacts on society, economy, and environment, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents focus on the council's plans and actions to address the climate emergency, such as managing greenhouse emissions, supporting local communities, and advocating for climate emergency responses. However, these actions are not explicitly linked to addressing equity and social justice issues related to climate change. Therefore, based on the provided documents, the question cannot be answered in the affirmative.",
+      "source": "Maribyrnong-a-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The provided documents from the Maribyrnong City Council's Climate Emergency Action Plan do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do outline the council's recognition of the global climate emergency and its impacts on society, economy, and environment, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents focus more on the council's plans and actions to address the climate emergency, such as managing greenhouse emissions, working with the local community, and advocating for climate emergency responses. However, these actions are not explicitly linked to addressing equity and social justice issues related to climate change.",
+      "source": "Maribyrnong-b-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the importance of education, community engagement, and actions to mitigate the effects of climate change, they do not specifically address how these actions relate to vulnerable communities or social justice. The documents focus on general community-wide strategies such as promoting sustainable transportation, organizing climate/heat health awareness events, and planting trees. However, they do not delve into the specific impacts of these strategies on different social groups or discuss how they might address existing social inequities. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Mildura-a-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do mention the importance of education, community engagement, and collective action in addressing climate change, they do not specifically address how climate change affects vulnerable communities or how the proposed actions would address equity and social justice issues. The documents focus more on general community response plans, such as promoting sustainable transportation, organizing plant-a-tree fundraisers, and offering professional development for educators. Therefore, without explicit mention or discussion of the impact of climate change on vulnerable communities, the question cannot be answered positively based on the provided context.",
+      "source": "Mildura-b-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The provided documents, which focus on the local government's Corporate Emissions Reduction Plan 2018-2021, do not explicitly discuss the impact of climate change on vulnerable communities in relation to equity and social justice. The documents primarily focus on the council's strategies and actions to reduce corporate emissions, monitor and evaluate progress, and promote sustainable practices within the workplace and community. These include actions such as reducing emissions from waste and lighting, and promoting low carbon behaviours among staff. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities, or any measures to address equity and social justice in this context.",
+      "source": "Moira-a-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The provided documents, which focus on the local government's Corporate Emissions Reduction Plan 2018-2021, do not explicitly discuss the impact of climate change on vulnerable communities in relation to equity and social justice. The documents primarily detail the council's strategies and actions to reduce corporate emissions, including measures such as energy-efficient lighting, waste management, and staff education. However, there is no specific mention or discussion of how climate change affects vulnerable communities, or any measures to address these impacts in terms of equity and social justice. Therefore, based on the provided documents, the answer to the question is negative.",
+      "source": "Moira-b-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents detail various actions and strategies to mitigate climate change, such as reducing GHG emissions, sustainable procurement, and the development of an urban forest, they do not specifically address how these actions will impact vulnerable communities. The documents also do not discuss measures to ensure equity or social justice in the implementation of these climate change policies. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Monash-a-a12345678910.json",
+      "lga": "Monash"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents detail various actions and strategies to mitigate climate change, such as reducing GHG emissions, sustainable procurement, and the development of an urban forest, they do not specifically address how these actions will affect vulnerable communities. The documents also do not discuss any measures to ensure that the impacts of these climate change mitigation strategies are equitably distributed or that they do not disproportionately affect vulnerable communities. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Monash-b-a12345678910.json",
+      "lga": "Monash"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do detail the local government's plans to mitigate the effects of climate change, such as reducing greenhouse emissions, improving water efficiency, and planning for climate risks, they do not specifically address how these actions will impact vulnerable communities. The documents focus more on the general community and the council's operations, rather than on specific vulnerable groups. Therefore, without explicit mention or discussion of the impact on vulnerable communities, the question cannot be answered positively.",
+      "source": "Moorabool-a-a12345678910.json",
+      "lga": "Moorabool"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do detail the local government's plans to mitigate the effects of climate change, such as reducing greenhouse emissions, improving water efficiency, and planning for extreme weather events, they do not specifically address how these actions will impact vulnerable communities. The documents focus more on the general community and the council's operations, rather than on specific groups within the community. Therefore, without explicit mention or discussion of vulnerable communities and the impact of climate change on them in terms of equity and social justice, the question cannot be answered in the affirmative.",
+      "source": "Moorabool-b-a12345678910.json",
+      "lga": "Moorabool"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's Environmental Sustainability Strategy, outlining objectives and actions related to environmental sustainability, greenhouse gas emissions, and climate change adaptation. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities or any measures to address these impacts in terms of equity and social justice. Therefore, based on the provided documents, the answer to the question is negative.",
+      "source": "Moyne-a-a12345678910.json",
+      "lga": "Moyne"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's Environmental Sustainability Strategy, including objectives and actions related to greenhouse gas emissions, environmental sustainability practices, and the review process of the strategy. While there are mentions of community involvement and awareness, there is no specific discussion or mention of vulnerable communities or the impact of climate change on these communities from an equity and social justice perspective.",
+      "source": "Moyne-b-a12345678910.json",
+      "lga": "Moyne"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do outline various strategies and actions for addressing climate change, including measures to reduce greenhouse gas emissions, promote sustainability, and adapt to changing conditions, they do not specifically address how these changes will affect vulnerable populations. The documents mention the need for adaptation measures and the importance of community engagement, but they do not delve into the specific impacts on vulnerable communities or discuss these impacts in terms of equity and social justice.",
+      "source": "MtAlexander-a-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions for addressing climate change, including measures to reduce greenhouse gas emissions, promote sustainability, and adapt to changing conditions, they do not specifically address how these efforts will impact or benefit vulnerable communities. The documents do mention the need for community engagement and partnerships, as well as the provision of information about climate change risks to the community. However, these references do not specifically address the impact on vulnerable communities or discuss these issues in the context of equity and social justice.",
+      "source": "MtAlexander-b-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention community concerns about climate change, the focus is primarily on general community perspectives, emergency management, agricultural emissions, and transport emissions. The documents also discuss the council's role in supporting the transition to a net zero region and the community's efforts to increase renewable energy. However, there is no specific mention or discussion about the differential impacts of climate change on vulnerable communities or any measures to address equity and social justice in the context of climate change.",
+      "source": "Murrindindi-a-a12345678910.json",
+      "lga": "Murrindindi"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the impacts of climate change on the community and the local government's efforts to mitigate these impacts, they do not specifically address how these impacts might disproportionately affect vulnerable populations. The documents also do not discuss measures to ensure equity and social justice in the local government's climate change policies or actions. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Murrindindi-b-a12345678910.json",
+      "lga": "Murrindindi"
+    },
+    {
+      "answer": "The provided documents from the Nillumbik 2022 Climate Action Plan do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the impacts of climate change on health and wellbeing, and the need to support vulnerable community members, they do not specifically address the differential impacts on vulnerable communities or discuss these impacts in the context of equity and social justice. The documents focus more on the general impacts of climate change on the community and the environment, and the local government's plans for mitigation and adaptation.",
+      "source": "Nillumbik-a-a12345678910.json",
+      "lga": "Nillumbik"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the impacts of climate change on various aspects of life, including health, wellbeing, and economic resilience, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents also outline plans for mitigation and adaptation, but these are not explicitly linked to equity or social justice concerns. Therefore, based on the provided documents, it cannot be affirmed that the policy discusses the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Nillumbik-b-a12345678910.json",
+      "lga": "Nillumbik"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do express concerns about climate change impacts on the natural environment, rising sea levels, erosion, and habitat destruction, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents also mention the community's desire for action on climate change, including investment in renewable energy and changes to waste management. However, these discussions do not explicitly connect to the issue of equity and social justice for vulnerable communities. Therefore, based on the provided documents, the local government policy does not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Queenscliffe-a-a12345678910.json",
+      "lga": "Queenscliffe"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do express concerns about climate change impacts on the natural environment, rising sea levels, erosion, and habitat destruction, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents also mention the community's desire to reduce the impacts of climate change on people, including future generations, but they do not delve into the specific impacts on vulnerable communities or discuss these impacts in the context of equity and social justice.",
+      "source": "Queenscliffe-b-a12345678910.json",
+      "lga": "Queenscliffe"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does outline actions to improve community resilience and social connectedness, it does not specifically address the differential impacts of climate change on vulnerable communities. The plan does mention the promotion of education programs for business and household resilience, which could indirectly benefit vulnerable communities, but it does not explicitly state this. The documents also discuss the formation of an internal community resilience advisory team and the need for partnerships with various stakeholders, but again, there is no explicit mention of equity implications or the specific needs of vulnerable communities in the face of climate change.",
+      "source": "SouthernGrampians-a-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does outline actions to improve community resilience and social connectedness, it does not specifically address the differential impacts of climate change on vulnerable communities. The plan does mention promoting and supporting education programs for business and household resilience, which could indirectly benefit vulnerable communities, but it does not explicitly state this. The documents also discuss the formation of an internal community resilience advisory team and the potential for increased visitation for nature-based tourism during cooler months, but again, these do not directly address the impact on vulnerable communities. Therefore, based on the provided documents, the local government policy does not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the need for mitigation and planning for climate change risks, and the obligation of the South Gippsland Shire Council to adapt to the irreversible impacts of a changing climate, there is no specific mention of vulnerable communities or the social justice implications of climate change. The documents focus more on the general impacts of climate change on the municipality, the need for strategic planning and decision making, and the importance of reducing municipal emissions. Therefore, based on the provided documents, the question cannot be answered in the affirmative.",
+      "source": "SouthGippsland-a-a12345678910.json",
+      "lga": "SouthGippsland"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the need for mitigation and planning for climate change risks, and the obligation of the South Gippsland Shire Council to adapt to the impacts of a changing climate and work towards reducing emissions, there is no specific mention of how these changes and actions will affect vulnerable communities. The documents also do not discuss any measures or strategies to ensure equity and social justice in the face of climate change. Therefore, based on the provided documents, the question cannot be answered in the affirmative.",
+      "source": "SouthGippsland-b-a12345678910.json",
+      "lga": "SouthGippsland"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do outline a number of actions and strategies related to climate change, such as promoting environmental sustainability, advocating for change, and developing a climate change action plan, they do not specifically address the effects of climate change on vulnerable populations. The documents focus more on general environmental sustainability and climate change mitigation strategies, rather than addressing the specific impacts on vulnerable communities. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Strathbogie-a-a12345678910.json",
+      "lga": "Strathbogie"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do outline a number of actions and strategies related to climate change, such as promoting environmental sustainability, advocating for change, and developing a climate change action plan, they do not specifically address the effects of climate change on vulnerable populations. The documents focus more on general environmental sustainability, climate change mitigation, and adaptation strategies. Therefore, without explicit mention or discussion of the impact of climate change on vulnerable communities, the question cannot be answered in the affirmative.",
+      "source": "Strathbogie-b-a12345678910.json",
+      "lga": "Strathbogie"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do acknowledge the challenges posed by climate change, such as fluctuations in climate, the impact on the agricultural sector, and the need for sustainable water management, they do not specifically address how these challenges might disproportionately affect vulnerable communities. The documents focus more on the general strategies for addressing climate change, such as encouraging community participation in sustainability programs, developing partnerships for implementing sustainability goals, and facilitating community efforts to adapt to climate change. However, the specific impact of these challenges on vulnerable communities, and the measures to address such impacts in the context of equity and social justice, are not explicitly discussed.",
+      "source": "SwanHill-a-a12345678910.json",
+      "lga": "SwanHill"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do acknowledge the challenges of climate change and its effects on rural communities, such as fluctuations in climate, restructuring of water management, and demographic changes, they do not specifically address how these challenges might disproportionately affect vulnerable communities. The documents focus more on the general impacts of climate change and the strategies for mitigating these impacts, such as sustainability programs, biodiversity protection, and water management. Therefore, without explicit mention or discussion of the impact of climate change on vulnerable communities in relation to equity and social justice, the question cannot be answered positively.",
+      "source": "SwanHill-b-a12345678910.json",
+      "lga": "SwanHill"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do acknowledge the impacts of climate change on the community as a whole, and the need to increase community resilience, they do not specifically address how climate change might disproportionately affect vulnerable populations. The documents focus on general community resilience, environmental sustainability, and the mitigation of climate change impacts, but do not delve into the social justice implications of these impacts. Therefore, without explicit mention or discussion of the effects of climate change on vulnerable communities, the question cannot be answered in the affirmative.",
+      "source": "Wangaratta-a-a12345678910.json",
+      "lga": "Wangaratta"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do acknowledge the impacts of climate change on the community as a whole, and the need to increase community resilience, they do not specifically address how climate change might disproportionately affect vulnerable populations. The documents focus on general community resilience, environmental sustainability, and the mitigation of climate change impacts, but do not delve into the social justice implications of these impacts. Therefore, without explicit mention or discussion of the effects of climate change on vulnerable communities, the question cannot be answered in the affirmative.",
+      "source": "Wangaratta-b-a12345678910.json",
+      "lga": "Wangaratta"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the policy outlines the local government's plans to tackle climate change, including reducing emissions, managing impacts on the natural environment, protecting biodiversity, and building resilience in transport systems, it does not specifically address how these actions will affect vulnerable communities. The policy does mention the need for community engagement and the provision of information to the community about climate change impacts, but it does not explicitly link these actions to equity or social justice concerns. Therefore, based on the provided documents, the policy does not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Warrnambool-a-a12345678910.json",
+      "lga": "Warrnambool"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the policy outlines various strategies to address climate change, including reducing emissions, adapting to climate risks, and building resilience in various sectors such as water supply, transport, and energy services, it does not specifically mention how these actions will affect or benefit vulnerable communities. The policy also does not provide any specific measures or strategies aimed at addressing the social justice implications of climate change. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "Warrnambool-b-a12345678910.json",
+      "lga": "Warrnambool"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the need for local governments to consider climate change impacts and develop adaptation plans, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents discuss the potential impacts of climate change on various aspects such as health, wellbeing, safety, nature, economy, and infrastructure, but they do not delve into the social justice implications or the equity concerns related to these impacts. Therefore, based on the provided context, the question cannot be answered in the affirmative.",
+      "source": "Wodonga-a-a12345678910.json",
+      "lga": "Wodonga"
+    },
+    {
+      "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the need for local governments to consider climate change impacts and develop adaptation plans, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents discuss the potential impacts of climate change on various aspects such as health, wellbeing, safety, nature, economy, and infrastructure, but they do not delve into the social justice implications or the equity concerns related to these impacts. Therefore, based on the provided context, the question cannot be answered in the affirmative.",
+      "source": "Wodonga-b-a12345678910.json",
+      "lga": "Wodonga"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions to mitigate and adapt to climate change, they do not specifically address how these measures will affect or benefit vulnerable communities. The documents focus on general community resilience, energy efficiency, and emission reduction, but do not delve into the specific impacts on different social groups or communities. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "YarraRanges-a-a12345678910.json",
+      "lga": "YarraRanges"
+    },
+    {
+      "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do outline various strategies and actions to mitigate and adapt to climate change, they do not specifically address how these measures will affect or benefit vulnerable communities. The documents mention community resilience, community support, and ensuring no one is left behind in the transition to a low carbon future. However, these references are not specific to vulnerable communities and do not explicitly address equity and social justice issues. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice.",
+      "source": "YarraRanges-b-a12345678910.json",
+      "lga": "YarraRanges"
+    }
+  ]
+}

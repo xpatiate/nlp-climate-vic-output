@@ -1,0 +1,88 @@
+{
+  "attribute": 10,
+  "question": 17,
+  "finding": false,
+  "num": 16,
+  "responses": [
+    {
+      "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents outline the Alpine Shire Council's commitment to reducing greenhouse gas emissions and developing a Climate Adaptation and Resilience Plan, they do not specifically mention efforts to build local capacity or partnerships with neighbouring councils for climate action. The documents focus primarily on the council's own operations and strategies, such as planning scheme amendments, support to community groups, and education opportunities. However, the explicit encouragement of capacity building across council, local communities, and neighbouring councils is not mentioned.",
+      "source": "Alpine-a-a12345678910.json",
+      "lga": "Alpine"
+    },
+    {
+      "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents outline the Alpine Shire Council's commitment to reducing greenhouse gas emissions and developing a Climate Adaptation and Resilience Plan, they do not specifically mention efforts to build local capacity or partnerships with neighbouring councils for climate action. The documents focus primarily on the council's own operations and strategies, such as planning scheme amendments, support to community groups, and education opportunities. However, the explicit encouragement of capacity building across council, local communities, and neighbouring councils is not mentioned.",
+      "source": "Alpine-b-a12345678910.json",
+      "lga": "Alpine"
+    },
+    {
+      "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the City of Casey's Emissions Management Plan 2018-2022 outlines various strategies and actions to reduce greenhouse gas emissions, improve energy efficiency, and increase renewable technology uptake, it does not specifically mention building local capacity or fostering partnerships with neighbouring councils for climate action. The plan does mention the City's commitment to the TAKE2 Pledge and its goal to be carbon neutral by 2040, but these do not directly relate to the question of building local capacity or partnerships with other councils.",
+      "source": "Casey-a-a12345678910.json",
+      "lga": "Casey"
+    },
+    {
+      "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the City of Casey's Emissions Management Plan 2017-2022 outlines various strategies and actions to reduce greenhouse gas emissions, improve energy efficiency, and increase renewable technology uptake, it does not specifically mention building local capacity or fostering partnerships with neighbouring councils for climate action. The plan does mention the intention to 'continue to explore opportunities to partner with SECCCA, other councils, state and federal government and commercial operators', but this is not explicitly tied to building local capacity for climate action.",
+      "source": "Casey-b-a12345678910.json",
+      "lga": "Casey"
+    },
+    {
+      "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the importance of community participation in climate response, they do not specifically address the aspect of building local capacity across different stakeholders. The documents focus on the role of the community, local businesses, community organisations, and individuals in climate response. They also mention the council's role in providing climate data and modelling, and the importance of communication and engagement in implementing the strategy. However, there is no explicit mention of building capacity across council, local communities, and neighbouring local councils for climate action.",
+      "source": "EastGippsland-a-a12345678910.json",
+      "lga": "EastGippsland"
+    },
+    {
+      "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the importance of community participation in climate response, and the council's role in providing climate data and modelling, there is no specific mention of building local capacity across different councils. The documents also mention the council's intention to work with a range of agencies, groups, and individuals to implement their environmental sustainability goals, but again, this does not specifically refer to building capacity across different councils. Therefore, based on the provided documents, it cannot be conclusively stated that the policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action.",
+      "source": "EastGippsland-b-a12345678910.json",
+      "lga": "EastGippsland"
+    },
+    {
+      "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the policy does mention actions such as reducing emissions, adapting to future climate scenarios, integrating climate change principles into existing policies, and developing new procedures to address climate change, it does not specifically mention building local capacity across different sectors. The policy also mentions working with community sectors to facilitate action on climate change, but it does not specify whether this includes neighbouring local councils. Therefore, without explicit mention or clear evidence, it cannot be affirmed that the policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action.",
+      "source": "Gannawarra-a-a12345678910.json",
+      "lga": "Gannawarra"
+    },
+    {
+      "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the policy does mention actions such as reducing emissions, adapting to future climate scenarios, integrating climate change principles into existing policies, and developing new procedures to address climate change, it does not specifically mention building local capacity across different sectors. The policy also mentions working with community sectors to facilitate action on climate change, but it does not explicitly mention building capacity or partnering with neighbouring local councils. Therefore, the policy does not meet the specific criteria set out in the question.",
+      "source": "Gannawarra-b-a12345678910.json",
+      "lga": "Gannawarra"
+    },
+    {
+      "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention various partnerships and collaborations, such as with local businesses, energy companies, community groups, and schools, there is no specific mention of building capacity across the council, local communities, and neighbouring councils. The documents focus more on specific actions and strategies to address climate change, such as promoting green spaces, organising climate awareness events, advocating for affordable eco-friendly solutions, and promoting sustainable transportation. However, the emphasis is on the actions themselves rather than on building capacity for climate action.",
+      "source": "Mildura-b-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The focus of the documents is primarily on the actions of the Moira Shire Council itself, with specific actions and strategies outlined for reducing emissions within the council's operations. These include developing a low carbon workplace, reducing emissions from waste, fleet, buildings, parks and reserves, and street lighting, and monitoring and evaluating progress. While there are mentions of working with other councils on specific projects, such as the Collaborative Climate Change Reporting project, these do not specifically relate to building local capacity for climate action. Furthermore, the documents do not provide any explicit strategies or actions for engaging with local communities or neighbouring councils to build their capacity for climate action.",
+      "source": "Moira-a-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The focus of the documents is primarily on the actions of the Moira Shire Council itself, with specific actions and strategies outlined for reducing emissions within the council's operations. These include developing a low carbon workplace, reducing emissions from waste, fleet, buildings, parks and reserves, and street lighting, and monitoring and evaluating progress. While the council acknowledges its role in assisting the community to reduce emissions, this is stated to be outside the scope of the plan. There is no explicit mention of building local capacity or fostering partnerships with neighbouring local councils for climate action.",
+      "source": "Moira-b-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The documents do not explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. While the documents do mention the importance of understanding climate risks and planning for mitigation, they do not specifically mention building local capacity across different stakeholders for climate action. The documents do mention the council's role in influencing sustainable land management and advocating for environmental programs, but these are not explicitly tied to building local capacity for climate action. The documents also mention the council's role in assisting the community and businesses to reduce emissions and energy costs, but again, this is not explicitly tied to building local capacity for climate action.",
+      "source": "Moorabool-a-a12345678910.json",
+      "lga": "Moorabool"
+    },
+    {
+      "answer": "The documents do not explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. While the documents do mention the importance of understanding climate risks and planning for mitigation, they do not specifically mention building local capacity across different stakeholders for climate action. The documents do mention the council's role in influencing sustainable land management and advocating for environmental programs, but these are not explicitly tied to building local capacity for climate action. The documents also mention the council's role in assisting the community and businesses to reduce emissions and energy costs, but again, this is not explicitly tied to building local capacity for climate action.",
+      "source": "Moorabool-b-a12345678910.json",
+      "lga": "Moorabool"
+    },
+    {
+      "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention various initiatives aimed at reducing greenhouse gas emissions and promoting environmental sustainability, they do not specifically address the aspect of 'coordination, partnerships and advocacy for action' in the context of building local capacity for climate action. The documents discuss actions such as offsetting council fleet emissions, promoting awareness of energy consumption and greenhouse gas emissions, and increasing the use of renewable energy sources. However, these actions are primarily focused on the council's own operations and the local community, with no explicit mention of coordination or partnerships with neighbouring local councils.",
+      "source": "Moyne-a-a12345678910.json",
+      "lga": "Moyne"
+    },
+    {
+      "answer": "The provided documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the engagement of the municipal community in strategic planning and decision making, and the consideration of regional, state, and national plans and policies during Council’s strategic planning and decision making, they do not specifically address the aspect of 'coordination, partnerships and advocacy for action' in terms of building local capacity for climate action. The documents do outline the Council's responsibilities and future plans regarding climate change mitigation and adaptation, but these do not specifically involve building local capacity across different stakeholders.",
+      "source": "SouthGippsland-a-a12345678910.json",
+      "lga": "SouthGippsland"
+    },
+    {
+      "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the importance of climate change mitigation and planning, and the engagement of the municipal community in strategic planning and decision making, they do not specifically address the aspect of 'coordination, partnerships and advocacy for action' in terms of building local capacity across different stakeholders for climate action. The documents do mention the development of a new Climate Action Plan with extensive internal and community consultation, but there is no explicit mention of building capacity or fostering partnerships with neighbouring local councils for this purpose.",
+      "source": "SouthGippsland-b-a12345678910.json",
+      "lga": "SouthGippsland"
+    }
+  ]
+}

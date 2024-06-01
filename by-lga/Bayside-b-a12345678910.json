@@ -1,0 +1,322 @@
+{
+  "settings": {
+    "source_files": [
+      "Bayside-Climate-Emergency-Action-Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T13:18:11.472722",
+    "lga": "Bayside"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The Climate Emergency Action Plan clearly identifies climate action as its core purpose. The policy is designed to address the climate emergency by identifying actions the Council will take to reduce environmental impact. This includes both mitigation strategies to minimize greenhouse gas emissions and adaptation strategies to reduce vulnerability to the impacts of climate change. The policy also emphasizes the Council's role as a leader and advocate for change across other tiers of government, and its role to encourage and facilitate community participation and collaboration. The policy also outlines a commitment to making the climate emergency one of the highest priorities, leveraging resources to respond to the climate emergency, and making decisions based on the best available evidence to address the economic, social, and environmental impacts of climate change.",
+          "quote": {
+            "content": "The Plan includes actions to both minimise greenhouse gas emissions (mitigation) and reduce vulnerability (adaptation) to the impacts of climate change. The purpose of this Plan is to identify actions Council will take to respond to the Climate Emergency, as well as support our local community to take action to reduce impact on the environment.",
+            "page": 33,
+            "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. It outlines the purpose of the Climate Emergency Action Plan, which is to identify actions the Council will take to respond to the Climate Emergency and to support the local community in reducing their environmental impact. The plan includes actions to both minimize greenhouse gas emissions (mitigation) and reduce vulnerability (adaptation) to the impacts of climate change. The document also emphasizes the Council's role as a leader and advocate for change across other tiers of government, and its role to encourage and facilitate community participation and collaboration. The document also mentions the declaration of a 'Climate Emergency' which recognizes the need for urgent, meaningful action on human-induced climate change at all levels of government, including local government.",
+          "quote": {
+            "content": "The Plan includes actions to both minimise greenhouse gas emissions (mitigation) and reduce vulnerability (adaptation) to the impacts of climate change. The purpose of this Plan is to identify actions Council will take to respond to the Climate Emergency, as well as support our local community to take action to reduce impact on the environment.",
+            "page": 33,
+            "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly indicate a sense of urgency in addressing climate change. The local government has declared a 'Climate Emergency', which inherently implies a need for rapid and urgent action. The Climate Emergency Action Plan is designed to respond to this declared emergency, further emphasizing the urgency of the situation. The plan includes measures such as leveraging new and existing resources, potentially curtailing non-essential functions and consumption, and making resourcing decisions with a long-term view that considers the future cost of inaction or inadequate action. The plan also includes regular reporting on progress, which suggests a commitment to timely action. Furthermore, the plan was developed following an extensive community engagement process, indicating a recognition of the urgency of the issue among the local community."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate. The Climate Emergency Action Plan outlines a series of actions, each with a designated timeframe for completion. For instance, the plan includes the action to 'Review and update the Risk Management Framework to ensure climate risks are appropriately assessed and managed' by June 2025. Another action, 'Include consideration of the response to the ‘Climate Emergency’ in all reports to Council', is marked as 'Ongoing'. The action to 'Include requirements to address environmental impact into leases of Council property' is set for completion by June 2024. These examples demonstrate that the policy document does not only acknowledge the urgency of action on climate change but also sets specific timeframes for these actions, thereby providing a clear roadmap for implementation.",
+          "quote": {
+            "content": "Action \nTimeframe \nCost \nBudget \nSource \nDelivery \ncomplexity \nResponsible \nDeliverable \n1.8 Review and update the Risk \nManagement Framework to ensure \nclimate risks are appropriately assessed and managed.",
+            "page": 12,
+            "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.9
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": true,
+          "answer": "The documents clearly state that the climate emergency response is a high priority for the local government. The Climate Emergency Action Plan outlines that the climate emergency is one of the highest priorities, and wherever possible, new and existing resources are leveraged to respond to it. Non-essential functions and consumption may be curtailed or rationed through an emergency lens prioritisation process. The documents also mention that all reports to the council consider and address the implications of the climate emergency, and the climate emergency is considered in all council and organisational decisions. This indicates that the climate emergency response is prioritised over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that all council activities must be aligned with climate policy. The policy explicitly states that the response to the 'Climate Emergency' must be included in all reports to the council, indicating that all council activities must consider and address the implications of the climate emergency. The policy also emphasizes that the 'Climate Emergency' should be one of the highest priorities and should be considered in all council and organizational decisions. This is further supported by the council's commitment to make resourcing decisions with a long-term view that considers the future cost of inaction or inadequate action on climate change. The policy also outlines the council's role in leading by example in their operations and actions, further indicating that all council activities must align with the climate policy.",
+          "quote": {
+            "content": "2.",
+            "page": 44,
+            "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Climate Emergency Action Plan does explicitly allocate funding for climate action. The plan outlines a series of actions, each with a designated budget source, which is primarily the existing operational budget. The plan also provides a cost estimate for each action, categorised as low, medium, or high. For instance, the plan includes actions such as establishing a coordinated program of community awareness and education, supporting vulnerable community members in the transition to 'zero carbon' energy, and exploring innovative funding models to support investment in climate action. Furthermore, the document mentions that an additional $172,880 has been allocated to purchase carbon offsets and achieve carbon neutrality from 2020. Therefore, it is clear that the plan not only allocates funding for climate action but also details how this funding will be used.",
+          "quote": {
+            "content": "An additional $172,880 has been allocated to purchase carbon offsets and achieve carbon neutrality from 2020. Existing Council budget will be allocated to departments continuing works and operations responding to the Climate Emergency.",
+            "page": 8,
+            "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Bayside Climate Emergency Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines several actions that involve staff roles and responsibilities, such as embedding the Climate Emergency into all staff roles and responsibilities, and performance planning (Action 1.1). It also mentions the development of an Employee Value Proposition to include a response to the Climate Emergency. Furthermore, the plan includes actions that require the involvement of various departments within the local government, such as Environmental Sustainability, Community Services, and Procurement. These actions range from supporting vulnerable community members in the switch to 'zero carbon' energy (Action 7.6) to reviewing and updating the Procurement Policy and procedures to address climate change impacts (Action 1.5). Therefore, it is clear that the plan not only allocates staff but also institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document outlines a comprehensive plan for social mobilisation in response to climate change. It details a range of initiatives aimed at empowering and educating the community to support and actively participate in climate action. These include establishing a coordinated program of community awareness, education, engagement, and behaviour change initiatives (Action 2.1), and implementing a school-focused education and engagement program (Action 2.2). The plan also includes actions to support local businesses in their climate actions through education and incentives (Action 2.3), and to provide information and education regarding best practice Environmentally Sustainable Development (ESD) standards (Action 4.4). Furthermore, the plan acknowledges the need to support vulnerable community members in the transition to 'zero carbon' energy (Action 7.6). These actions demonstrate a clear commitment to social mobilisation in response to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Bayside Climate Emergency Action Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of strategies, both technological and behavioural, to address climate change. Technological solutions include the decarbonisation of the energy system through the adoption of renewable energy solutions such as solar and wind power. The plan also includes actions to support vulnerable community members in the transition to 'zero carbon' energy, and to include environmental impact considerations in council property leases. Behavioural changes are encouraged through a coordinated program of community awareness, education, and engagement initiatives. The plan also sets an ambitious target to reduce Bayside’s community greenhouse gas emissions by 75% below 2005 levels by 2030, and achieve net zero emissions by 2035, or earlier. These actions demonstrate a comprehensive approach to mitigating greenhouse gas emissions.",
+          "quote": {
+            "content": "Under Action 1.7 of the Climate Emergency Action Plan 2020 – 2025, Council has set an ambitious target to reduce Bayside’s community greenhouse gas emissions by 75% below 2005 levels by 2030; and achieve net zero emissions by 2035, or earlier.",
+            "page": 14,
+            "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Emergency Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a variety of strategies to ensure the community is prepared for the impacts of climate change. For instance, it emphasizes the need to transform the built environment to withstand climate-related shocks and stressors such as extreme heat, flooding, and sea level rise. The plan also highlights the need for new infrastructure to be designed to higher environmental standards and for existing infrastructure to be retrofitted to reduce environmental impact and improve resilience. Furthermore, the plan includes actions to support vulnerable community members in the switch to 'zero carbon' energy, which is a form of adaptation to a changing energy landscape. The plan also outlines the need to review and update the Risk Management Framework to ensure climate risks are appropriately assessed and managed.",
+          "quote": {
+            "content": "Existing infrastructure has to be retrofitted to reduce environmental impact \nand to improve resilience. Theme 4: Transform to a climate responsive built environment \nEnsure the built environment provides comfortable, liveable spaces for people \nand will withstand climate related shocks and stressors, such as extreme heat, \nflooding and sea level rise. The Climate Emergency requires that new infrastructure be designed to higher \nenvironmental standards and is located with consideration to future flood and storm \nsurge risk.",
+            "page": 20,
+            "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide a detailed outline of the local government's Climate Emergency Action Plan, which includes a comprehensive review of existing policies, strategies, and plans. The plan incorporates actions from previous strategies that have not yet been implemented, as well as actions from the Carbon Neutrality Action Plan 2018-20. The plan also includes a 'Gaps and Opportunities' assessment, which evaluates each policy, strategy, and plan for its strengths, gaps, and opportunities. The plan outlines specific actions, deliverables, and outcomes, along with their associated timeframes, costs, budget sources, and delivery complexities. The plan also includes a monitoring and reporting mechanism, with progress on the delivery of actions reported annually to the Council. The actions will be reviewed and updated after the first year of implementation, and then biennially. The plan will be fully reviewed in 2024/25. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.",
+          "quote": {
+            "content": "Actions from the Carbon Neutrality Action Plan 2018-20 appropriate to continue have also been incorporated into this Action Plan. This Action Plan replaces the Climate Change Strategy 2012. Actions not yet implemented from the Climate Change Strategy have been incorporated, with updated wording to consider the current context.",
+            "page": 47,
+            "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Climate Emergency Action Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a Monitoring and Reporting Framework that details how each action will be monitored and reported, the frequency of measurement, the area of Council which reports, and the measurement of success. The key indicators of success of the Plan include completion of scheduled actions and deliverables in the Climate Emergency Action Plan, which can be measured through Action Completion and Annual Reporting. Furthermore, the Council Plan Key Performance Indicators, such as the reduction of greenhouse gas emissions from Council operations, are also used as a measure of success. This approach ensures that the plan's implementation is not only action-oriented but also results-oriented, with a clear framework for accountability and assessment of progress.",
+          "quote": {
+            "content": "Reduction of greenhouse gas emissions from Council operations. Actions will be reviewed and updated after the first year of implementation, and then biennially. Key indicators of success of the Plan will be: Completion of scheduled actions and deliverables in the Climate Emergency Action Plan. This can be measured through: Action Completion; Annual Reporting; and Council Plan Key Performance Indicators, i.e.",
+            "page": 49,
+            "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy outlines various actions related to climate change, such as providing up-to-date information on climate change, promoting environmentally sustainable development standards, and supporting vulnerable community members. However, these actions seem to be based on existing knowledge and strategies, rather than new research conducted within the local community. The policy does mention 'research into best practice' as part of the process of identifying opportunities for action, but it does not specify that this research will be conducted within the local community. Therefore, based on the provided documents, it cannot be conclusively stated that the local government plans to conduct research in the local community to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. The Climate Emergency Action Plan outlines a comprehensive approach to addressing climate change, including the review of existing policies and strategies, community engagement, and the development of new actions. However, the documents do not explicitly mention any innovative or experimental policies. The plan seems to be more focused on building upon existing strategies and incorporating best practices from other local governments. While this approach is practical and likely effective, it does not necessarily indicate innovation or experimentation. The documents do mention the aspiration for the Action Plan to be 'Leading' or 'Transformational', but without specific examples or details of innovative or experimental policies, it is not possible to affirm this aspiration."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The document does indeed show an explicit intent to advocate upward to state and national governments to support climate action. This is evident in the outlined principles and action plans. The local government aims to leverage new and existing resources to respond to the climate emergency, making it one of their highest priorities. They also plan to make decisions based on the best available evidence to address the economic, social, and environmental impacts of climate change. Furthermore, the document emphasizes the importance of proactive advocacy, drawing on relevant expertise and local experience to develop advocacy positions. The local government intends to be bold in advocating to state and federal governments and work with others advocating for urgent change. This shows a clear intent to engage with higher levels of government to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government is encouraging the building of local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a holistic approach to addressing the climate emergency, with each area responsible for actions being invested in the delivery of their part of the plan. The council is taking a leadership role in ensuring the health, safety, and resilience of their community. The policy also mentions the South East Councils Climate Change Alliance, indicating collaboration with neighbouring councils. Furthermore, the policy outlines actions such as supporting local food production, providing in-kind support for community groups responding to the climate emergency, and establishing a coordinated program of community awareness, education, engagement, and behaviour change initiatives.",
+          "quote": {
+            "content": "It is clear that actions to address the Climate Emergency must expand beyond the organisational boundary and be met with response and commitment from the community, businesses, neighbouring councils and other tiers of government. As Council becomes carbon neutral for its operations from 2020, we acknowledge the inherent limitations of having direct control over greenhouse gas emissions beyond our operations.",
+            "page": 48,
+            "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. The policy does mention the establishment of a coordinated program of community awareness, education, engagement, and behavior change initiatives (Action 2.1), and the provision of in-kind support for action responding to the Climate Emergency led by community groups (Action 2.4). However, these actions do not specify any particular regional associations or alliances. The policy also mentions working with partners (Action 7.7), but it does not specify who these partners are. Therefore, based on the provided documents, it cannot be confirmed that the policy refers to specific regional associations, alliances, or other partnerships related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The policy outlines a commitment to support vulnerable members of the community in the transition to 'zero carbon' energy. This is an ongoing action with low cost and complexity, funded by the existing operational budget. The responsible departments are Environmental Sustainability and Community Services. The deliverables include offering subsidised home energy assessments and supporting access to affordable energy efficiency upgrades for vulnerable community members. The policy also mentions the development of new opportunities to support vulnerable community members in preparing for and responding to heatwaves and extreme weather events. This indicates a recognition of the disproportionate impact of climate change on vulnerable communities and a commitment to address this inequity.",
+          "quote": {
+            "content": "- Support vulnerable community members to access affordable energy efficiency upgrade.",
+            "page": 32,
+            "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The policy document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. It outlines a commitment to ensuring that all parts of the community can participate in climate action and that vulnerability and equity are addressed in the transition. The policy also includes specific actions to support vulnerable community members in the switch to 'zero carbon' energy. This includes offering subsidised home energy assessments and supporting access to affordable energy efficiency upgrades. These actions demonstrate a clear intention to ensure that the benefits and opportunities of a safe climate are shared equitably across the community, particularly with those who are most vulnerable.",
+          "quote": {
+            "content": "● Make it accessible for all parts of our community and our organisation to participate \n● Strengthen actions through partnerships with the community and like-minded organisations \n● Strive to address vulnerability and equity in the transition",
+            "page": 6,
+            "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 17,
+    "num_questions": 20,
+    "attribute_score": 91.7
+  }
+}

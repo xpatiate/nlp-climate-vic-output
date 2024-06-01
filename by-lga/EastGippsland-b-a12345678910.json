@@ -1,0 +1,286 @@
+{
+  "settings": {
+    "source_files": [
+      "EastGippsland-Environmental_Sustainbility_Strategy_EGSC_final_compressed.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T14:36:18.328259",
+    "lga": "EastGippsland"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The policy does not explicitly state that climate action is the core purpose or goal. Instead, it outlines a broader environmental sustainability strategy, of which climate action is a significant part. The policy is built around seven central goals, one of which is 'Community participation in the climate response'. This goal focuses on the extent to which the whole community (local businesses, community organisations, individuals, and Traditional Owners) undertake and participate in the climate response. However, other goals include conservation of the natural environment and biodiversity, sustainable management of natural resources, respect and alignment with the rights of Traditional Owner Groups, and environmental sustainability supporting sustainable economic growth. Therefore, while climate action is a key aspect of the policy, it is not the sole or core purpose."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. It emphasizes the importance of community participation in the climate response, which includes building awareness, providing access to tools for action, and encouraging community leadership and ownership. The document also highlights the urgency of focusing on the sustainability of our environment as the impacts of a changing climate emerge. It further outlines the opportunities that arise from adapting to climate change, such as new investments, industries, jobs, and improved health and wellbeing outcomes. The document also suggests that the community can adopt climate resilience measures in their lifestyle, such as investing in sustainability measures that increase energy efficiency and better regulate temperature in buildings.",
+          "quote": {
+            "content": "As the impact of a changing climate emerges, the need for us individually and collectively to focus on the sustainability of our environment is desperately needed right now.",
+            "page": 26,
+            "source": "EastGippsland-Environmental_Sustainbility_Strategy_EGSC_final_compressed.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The East Gippsland Shire Council Environmental Sustainability Strategy 2022-2032 does explicitly call for urgent action on climate change. The document emphasizes the need for immediate and collective focus on environmental sustainability in response to the emerging impacts of climate change. It underscores the importance of community participation in climate response, including building awareness, providing tools for action, and encouraging leadership and ownership. The document also highlights the opportunities that arise from climate change adaptation, such as new investments, industries, jobs, and improved health and wellbeing outcomes. However, it does not provide specific timelines or deadlines for these actions, which could potentially dilute the sense of urgency. Nonetheless, the overall tone and content of the document suggest a clear call for rapid and urgent action.",
+          "quote": {
+            "content": "As the impact of a changing climate emerges, the need for us individually and collectively to focus on the sustainability of our environment is desperately needed right now.",
+            "page": 26,
+            "source": "EastGippsland-Environmental_Sustainbility_Strategy_EGSC_final_compressed.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents outline the importance of community participation in the climate response and the need for action, they do not provide concrete deadlines or timelines for these actions. The documents mention the need for action 'right now' and the strategy's duration from 2022-2032, but these are not tied to specific actions or goals. The documents also mention that progress will be reported to the Council and the community periodically, but again, no specific timeframes are given for these reports. Therefore, the documents do not meet the high standard of evidence required to affirm that they provide specific timeframes for their intended actions on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The East Gippsland Shire Council Environmental Sustainability Strategy 2022-2032 outlines a comprehensive approach to environmental sustainability, including climate change mitigation and community participation in the climate response. However, it does not explicitly prioritize these actions over other policies. The strategy is built around seven central goals, including conservation of the natural environment and biodiversity, sustainable management of natural resources, and community participation in the climate response. These goals are not ranked in terms of priority, but rather are presented as a holistic approach to environmental sustainability. The strategy also emphasizes the importance of integrating environmental sustainability into other areas of policy and planning, rather than prioritizing it above them."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the council's Environmental Sustainability Strategy is designed to address environmental and sustainability challenges, including climate change, and that it aligns with the United Nations Sustainability Development Goals. The strategy includes goals related to the conservation of the natural environment, sustainable management of natural resources, and community participation in the climate response. It also mentions the importance of resilience in the face of climate change and natural disasters. However, these documents do not explicitly require all council activities to align with this climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. While the policy outlines various goals and strategies related to climate change mitigation and community participation in the climate response, it does not provide specific details about the financial resources that will be mobilized to achieve these goals. The policy mentions the development of action plans to ensure these high-level goals lead to measurable action, but it does not specify whether these plans include budgetary provisions. Therefore, based on the available information, it cannot be confirmed that the plan allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy outlines various goals and strategies related to climate change mitigation and community participation in the climate response, it does not specify the allocation of institutional resources such as staff time or expertise to these efforts. The documents mention the development of action plans and the implementation of various strategies, but these references do not provide specific details about resource allocation. Therefore, based on the provided context, it cannot be confirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents do indicate that the local government is taking steps to empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a strategy for community participation in the climate response, which includes building awareness, providing access to tools for action, encouraging people to take action, and fostering community leadership and ownership. The policy also mentions the development of action plans to ensure these high-level goals lead to measurable action. Furthermore, the policy acknowledges the role of various community stakeholders, including local businesses, community organisations, and individuals, in the climate response. It also highlights the opportunities that climate change presents for new investment, industries, jobs, and improved health and wellbeing outcomes. However, the policy does not provide specific details on how these strategies will be implemented or how success will be measured.",
+          "quote": {
+            "content": "This includes considering their awareness, the tools they need for action, and the level of ownership and leadership they demonstrate to drive change. This Goal focuses specifically on the extent to which the whole community (local businesses, community organisations, individuals, and Traditional Owners) undertake and participate in the climate response.",
+            "page": 26,
+            "source": "EastGippsland-Environmental_Sustainbility_Strategy_EGSC_final_compressed.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The East Gippsland Shire Council Environmental Sustainability Strategy 2022-2032 does include specific actions for the mitigation of greenhouse gas emissions. The strategy emphasizes the importance of community participation in the climate response, including local businesses, community organizations, individuals, and Traditional Owners. The strategy also outlines the need for awareness, tools for action, and leadership to drive change. The strategy further highlights the opportunities that arise from adapting to climate change, such as new investments, industries, jobs, and improved health and wellbeing outcomes. The strategy also encourages the community to adopt climate resilience measures, such as investing in sustainability measures that increase energy efficiency. Furthermore, the strategy promotes the use of Environmental Sustainable Design (ESD) to reduce the risk profile of assets, lower operating costs through energy and water efficiencies, and provide an environmental dividend through the use of recycled and repurposed building materials.",
+          "quote": {
+            "content": "This Goal focuses specifically on the extent to which the whole community (local businesses, community organisations, individuals, and Traditional Owners) undertake and participate in the climate response. It is an important element and linked to many of the other outcomes.",
+            "page": 26,
+            "source": "EastGippsland-Environmental_Sustainbility_Strategy_EGSC_final_compressed.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The East Gippsland Shire Council Environmental Sustainability Strategy 2022-2032 does include specific actions for climate adaptation and resilience. The policy emphasizes the importance of community participation in the climate response, and outlines strategies for building awareness, providing tools for action, encouraging people to take action, and fostering community leadership and ownership. The policy also highlights the need for resilience in the face of increasing climate risk and natural disasters. This resilience is considered through the lens of people, buildings and infrastructure, businesses and the broader economy, and the natural environment. The policy also suggests specific measures such as developing guidelines for sports during extreme weather events, investing in sustainability measures that increase energy efficiency, and capturing water for reuse.",
+          "quote": {
+            "content": "Other measures could include investing in sustainability measures that increase energy efficiency, better regulate temperature in community, residential or commercial buildings or capturing water for reuse. The community can also adopt climate resilience measures in the way they live. This might include, for example, developing guidelines for sports during extreme weather events like heatwaves and drought.",
+            "page": 28,
+            "source": "EastGippsland-Environmental_Sustainbility_Strategy_EGSC_final_compressed.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of goals and strategies related to climate change, such as community participation in the climate response, building awareness, and providing access to tools for action, it does not provide specific, well-sourced evidence to support these targets and actions. The policy mentions working with other organizations to increase community awareness and mentions several organizations such as ClimateWorks, Beyond Zero Emissions, CSIRO, Cities Power Partnership, Sustainability Victoria, and Project Drawdown. However, it does not detail how these organizations' work informs the policy's targets and actions. Furthermore, the policy does not provide specific data or research to justify its strategies and actions. Therefore, the policy does not meet the high standard of evidence required to affirm that it provides well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a Monitoring, Evaluation, Reporting and Improvement (MERI) framework, which is a clear indication of a systematic approach to measure the success of the plan's actions. The plan also mentions the development of four-year action plans and 'State of the Environment' reports every four years, with the first due by 2024. These are clear, time-bound indicators that will be used to measure the success of the plan's actions. Furthermore, the plan includes specific targets such as 'Reduce the decline in biodiversity loss' and 'Increase in the quantity and quality of vulnerable land, habitat and biodiversity on council and private land', which are measurable outcomes. Therefore, the plan does include specific measurable criteria to evaluate the success of its proposed actions.",
+          "quote": {
+            "content": "Open reporting along with clear mandates from Council and the CEO allows for community review of the Strategy’s performance.",
+            "page": 15,
+            "source": "EastGippsland-Environmental_Sustainbility_Strategy_EGSC_final_compressed.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy outlines a strategy for community participation in the climate response, including building awareness, providing access to tools for action, and encouraging community leadership. It also mentions the development of action plans to ensure high-level goals lead to measurable action. However, these documents do not explicitly mention conducting research in the local community to inform these actions. The strategy seems to be more focused on encouraging and facilitating community participation in climate response, rather than conducting research to inform these actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. While the local government's policy does outline a strategy for community participation in climate response, it does not detail any innovative or experimental approaches to this issue. The policy emphasizes the importance of building awareness, providing access to tools for action, and encouraging community leadership and ownership. It also mentions the potential for environmental sustainable design (ESD) to provide opportunities for building owners to reduce risk and operating costs. However, these strategies are fairly standard in climate action policies and do not represent innovative or experimental approaches. The policy does not provide specific examples of novel methods or techniques being used to address climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The provided documents do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents focus on the local government's strategies and actions to address climate change, including community participation, climate change mitigation, and the development of a circular economy. The documents mention the involvement of various community stakeholders, such as local businesses, community organisations, and individuals, in the climate response. However, there is no explicit mention of advocacy towards state and national governments. The documents also discuss alignment with the United Nations Sustainability Development Goals, but this does not necessarily imply advocacy towards higher levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the importance of community participation in climate response, and the council's role in providing climate data and modelling, there is no specific mention of building local capacity across different councils. The documents also mention the council's intention to work with a range of agencies, groups, and individuals to implement their environmental sustainability goals, but again, this does not specifically refer to building capacity across different councils. Therefore, based on the provided documents, it cannot be conclusively stated that the policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not refer to any specific regional associations, alliances, or other partnerships related to climate. While the documents do discuss the importance of community participation in climate response, and mention the need for action by various community stakeholders, they do not specify any particular organizations or partnerships. The documents also mention the need for communication and engagement, and the use of various tools to enable community engagement and partnership formation. However, these references are general in nature and do not point to any specific regional associations or alliances related to climate. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents from the East Gippsland Shire Council Environmental Sustainability Strategy 2022-2032 do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. The documents focus on the general community's participation in climate response, the need for climate resilience, and the potential opportunities that arise from adapting to climate change. They also mention the risks that the East Gippsland region faces due to climate change, such as extreme heat, bushfires, sea level rise, and heavy rainfalls. However, there is no specific mention or discussion about how these climate change impacts might disproportionately affect vulnerable communities, or any measures to address such impacts in the context of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention community participation in climate response, the focus on opportunities for new investment, industries, jobs, and improved health and wellbeing outcomes, they do not specifically address the equitable distribution of these benefits. The documents also discuss the role of various community stakeholders, including local businesses, community organisations, and individuals, in climate response. However, these references do not explicitly address the issue of equity or social justice in the context of sharing the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 6,
+    "num_questions": 20,
+    "attribute_score": 42.5
+  }
+}

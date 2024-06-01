@@ -1,0 +1,304 @@
+{
+  "settings": {
+    "source_files": [
+      "BassCoast-2021-Climate-Change-Action-Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T13:10:59.117047",
+    "lga": "BassCoast"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The Climate Change Action Plan 2020 - 2030 is a policy that has climate action as its core purpose. The policy outlines a comprehensive plan for addressing climate change, including data gathering and analysis, community engagement, and the development of action plans. It also includes a monitoring framework to ensure the effective and efficient delivery of the plan. The policy is designed to address climate change impacts and the effectiveness of adaptation responses, as well as emissions reduction at both the council operations and community level. The policy also emphasizes the importance of community actions and the role of the community in climate action. Therefore, it is clear that the core purpose of this policy is to address climate change through a variety of actions and strategies.",
+          "quote": {
+            "content": "Deliver community \nengagement\nHow can Council \nmaximise it’s  \nimpact and integrate \nclimate action? Climate Change Action Plan 2020 - 2030\nClimate Change Action Plan 2020 - 2030\nWhat is the  \ncurrent state? Data gathering  \nand analysis\nWhat are the  \nbest actions  \nfrom a technical \nperspective? Develop draft  \nactions V1\nWhat does the  \ncommunity  \nneed and want?",
+            "page": 72,
+            "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents provided do explicitly explain the need for action on climate change. The Climate Change Action Plan 2020 - 2030 outlines a comprehensive approach to addressing climate change at the local government level. The plan acknowledges the climate emergency and emphasizes the need for immediate action. It outlines specific, time-bound actions for the council, households, businesses, industry, and the agricultural sector. The plan also includes a monitoring framework to ensure effective and efficient delivery of the actions. The rationale for these actions is clearly stated, with the plan noting the very real risks posed by climate change to the council and the land and infrastructure it manages. The plan also highlights the economic benefits of climate action, noting that many actions require small financial investments but are primarily driven using existing resources. Furthermore, the plan emphasizes the role of the community in climate action and encourages community members to take immediate and medium-term actions."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document indeed calls for rapid and urgent action on climate change. It outlines a Climate Change Action Plan for the period 2020 - 2030, indicating a clear timeline for the implementation of the actions. The document emphasizes the need for immediate action, stating that the context of the climate emergency dictates that the work starts immediately, with foundational and high impact actions prioritized. The document also mentions that a number of priority actions have already commenced or will be rapidly implemented to reflect the urgency of climate emergency action. These actions include embedding the Climate Emergency into all staff roles and responsibilities, integrating climate risk into financial decision making, and powering the Council with 100% renewable energy, among others. The document's emphasis on immediate and rapid action underscores its call for urgency in addressing climate change.",
+          "quote": {
+            "content": "The context of the climate emergency dictates that the work starts immediately, with foundational and high impact actions prioritised.",
+            "page": 7,
+            "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate. The Climate Change Action Plan is set to cover the period from 2020 to 2030, indicating a ten-year timeframe for the implementation of the plan. The document also mentions that the work starts immediately, with foundational and high impact actions prioritized. This suggests that certain actions are to be undertaken as soon as possible. Furthermore, the document mentions that the Council will progressively implement this plan over the next ten years with regular review. This indicates a structured and time-bound approach to the implementation of the plan. However, it should be noted that while the document provides a general timeframe for the plan, it does not provide specific deadlines for each individual action within the plan.",
+          "quote": {
+            "content": "The context of the climate emergency dictates that the work starts immediately, with foundational and high impact actions prioritised. The Council and the community actions in this Plan have been developed through a detailed assessment process to ensure they are technically feasible, economically beneficial and socially desirable and cover the period 2020 to 2030.",
+            "page": 7,
+            "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The Climate Change Action Plan 2020 - 2030 outlines a comprehensive approach to addressing climate change, including specific actions, timelines, and resources. It emphasizes the urgency of the climate emergency and the need for immediate action. However, it does not explicitly state that these actions should take precedence over other policies. The plan is designed to be integrated into the council's overall operations and decision-making processes, suggesting that it is one of many priorities the council is balancing. The documents also mention the need for regular review and adaptation of the plan, indicating a flexible approach that may allow for adjustments based on other policy priorities."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the Climate Change Action Plan 2020 - 2030 does outline a comprehensive approach to addressing climate change, including actions for the Council, households, businesses, industry, and the agricultural sector, it does not mandate that all council activities must align with this policy. The plan does state that the Council will use the plan to guide internal decision making about operational priorities, investment, budgets, and resource allocations. However, this does not necessarily mean that all activities must align with the climate policy. The documents also mention that the Council will advocate to State and Federal Government for support in achieving the outcomes of the Climate Change Action Plan, but again, this does not explicitly require all council activities to align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The plan does explicitly allocate funding for climate action. It outlines a range of approaches available to the Council for funding climate action. The plan has been developed with an early focus on setting the foundations for improved decision making to respond to climate risk and act on emissions reduction opportunities. Many of these foundation actions require small financial investments, but are primarily driven using existing resources. Additionally, a suite of actions contained within the plan have an initial capital cost which is quickly recouped through operational savings. The plan also mentions that for capital expenditure, borrowing represents a viable option. Furthermore, the plan discusses the integration of climate risk into financial decision making, which implies a financial commitment to climate action. Therefore, it is clear that the plan does allocate funding for climate action, although the exact amounts and sources of this funding are not specified in the provided context.",
+          "quote": {
+            "content": "Many foundation actions require small financial investments, but are primarily driven using existing resources. To fund climate action there are a range of approaches available to Council. This plan has been developed with an early focus on setting the foundations for improved decision making to respond to climate risk and act on emissions reduction opportunities.",
+            "page": 47,
+            "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines several actions that are to be led or supported by various departments within the local government. For instance, the 'Sustainable Environment' and 'Economic Development' departments are tasked with leading and supporting the expansion of the 'Climate Governance and Leadership program'. Similarly, the 'Asset Management' department is to lead the refresh of the 'Economic Development Strategy'. The 'Human Resources' department is also involved in embedding climate emergency response into the roles of council staff. These allocations suggest that staff time and expertise, which are crucial non-monetary institutional resources, are being directed towards climate action. However, the plan does not provide specific details on the number of staff allocated or the exact nature of their roles in these actions."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indeed indicate that the local government is taking steps to empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a plan to empower community groups to respond to climate impacts affecting their areas of interest, such as drought-proofing active open spaces and ensuring a sustainable ecotourism sector. It also plans to equip residential, community groups, and business owners to have and normalize climate change conversations within their networks. The policy also mentions the development of a climate resilience toolkit and campaign to improve knowledge within businesses and households to lower environmental impact and increase climate resilience. Furthermore, the policy outlines the establishment of a Climate Emergency Community Grants category to support the initiatives of community groups and organizations."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Climate Change Action Plan 2020 - 2030 indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a dual pathway approach, which includes both adaptation and mitigation strategies. The mitigation strategies, referred to as 'emission reduction' in the plan, aim to address the root cause of climate change by reducing greenhouse gas emissions. The plan includes technological solutions such as transitioning to all-electric and zero carbon energy, building and retrofitting homes and infrastructure to make them sustainable and climate resilient, and switching to more sustainable transport like walking, cycling, ride sharing and electric vehicles. The plan also encourages behaviour change, such as buying less, recycling and reusing more to achieve zero waste, and supporting sustainable and local businesses. The plan also mentions the integration of climate risks in corporate processes, which can be seen as a mitigation strategy at the organizational level.",
+          "quote": {
+            "content": "Support sustainable and Recycle and reuse more to achieve zero waste\n • Buy local. Recycle and reuse more to achieve zero waste\n • Buy local.",
+            "page": 21,
+            "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Climate Change Action Plan 2020 - 2030 indeed includes specific actions for climate adaptation and resilience. The plan outlines three types of actions: foundational, emissions reduction, and adaptation. The adaptation actions are designed to support a resilient local environment, infrastructure, and communities in the face of climate change impacts. The plan recognizes that to build adaptive capacity, individuals, institutions, and communities must simultaneously build five types of capital: human, social, natural, infrastructure, and financial capital. The plan also provides specific actions for different sectors, such as businesses and farming and agriculture. For instance, businesses are encouraged to use the Climate Resilience Toolkit to make their premises more resilient to climate change impacts, while farmers are advised to develop a Farm Climate Adaptation Plan. The plan also includes a process for monitoring progress in relation to climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The Climate Change Action Plan 2020 - 2030 provides a comprehensive approach to addressing climate change, with a clear focus on evidence-based decision making. The plan outlines four key areas for monitoring and evaluation, including emissions reduction and climate change impacts. It also details a high-level framework for monitoring progress and evaluating the effectiveness of actions. The plan was developed through an extensive technical and consultation process, which included data gathering and analysis, community engagement, and adaptation planning. The process sought to find actions where technical and financial viability overlapped with social desirability. The plan also includes a review of available research, technology, and other information, as well as a re-evaluation of climate change data and projections. This suggests that the plan's climate targets and actions are well-sourced and justified.",
+          "quote": {
+            "content": "In reality, they necessarily overlapped and influenced each other. The three key elements of the process – engagement, emissions analysis and adaptation planning – are described in the following pages. They are described separately for the sake of clarity.",
+            "page": 71,
+            "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's Climate Change Action Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a comprehensive approach to monitoring the effectiveness of these actions. This includes collaboration with DELWP to establish a set of agreed indicators, establishing a baseline of the current levels of 'adaptive capacity' within the Council and the broader community, and a qualitative assessment of Foundation and Adaptation actions in relation to their effectiveness. The plan also mentions an 'Action Tracker' which sets out the action number and name, indicator, target date, tool, frequency, and monitoring responsibility. This tracker will be used to monitor progress against Council corporate emissions targets and other actions. Furthermore, the plan includes community indicators to understand climate action participation within the community, focusing on the reach of Council programs and the awareness and level of climate action of community members."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's Climate Change Action Plan 2020 - 2030 outlines a comprehensive approach to gathering data and analyzing it to inform their climate actions. The plan includes a detailed assessment process to ensure the actions are technically feasible, economically beneficial, and socially desirable. The plan also emphasizes the importance of community engagement in developing, selecting, shaping, and prioritizing actions. Over 580 people were actively engaged in the process of developing the plan. The community's insights were used to support the development of the plan, indicating a strong desire from individuals to work with local community groups to take climate change action. The plan also includes a monitoring framework to ensure effective and efficient delivery of the actions.",
+          "quote": {
+            "content": "Over 580 people actively engaged \nin the process of developing this \nPlan.",
+            "page": 73,
+            "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The Climate Change Action Plan 2020 - 2030 does show evidence of innovation and policy experimentation in climate action. The policy outlines a comprehensive approach to climate action, which includes a detailed assessment process to ensure actions are technically feasible, economically beneficial, and socially desirable. The policy also demonstrates a commitment to staying abreast of climate action trends and opportunities, and to integrate new ideas as the plan is updated. This suggests a willingness to experiment with new approaches and technologies as they become available. The policy also includes a monitoring framework to evaluate the effectiveness of actions and their implementation, which could provide opportunities for learning and innovation. However, the policy does not provide specific examples of innovative or experimental actions, which would have provided stronger evidence of this aspect.",
+          "quote": {
+            "content": "Through its extensive government, community and academic networks and partnerships, Council is committed to staying abreast of climate action trends and opportunities, and to integrate new ideas as this Plan is updated.",
+            "page": 52,
+            "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.93
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 4,
+        "num_questions": 4,
+        "score": 1
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines a partnership approach to implementing the action plan, which includes government partnerships. The council plans to deliver actions in partnership with other governments and associated entities, such as the South East Councils Climate Change Alliance. This indicates a clear intent to collaborate with higher levels of government to support climate action. Furthermore, the policy mentions that the exact delivery mechanism for each action will be determined in response to opportunities and funding that arise from state and national governments. This suggests that the council is actively seeking support from these higher levels of government to implement their climate action plan."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government is committed to building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a partnership approach to implementing the action plan, which includes direct delivery by the council, government partnerships, community partnerships, and community funding. The council is committed to working with community groups and organisations to deliver actions. The policy also mentions the council's intention to advocate to State and Federal Government for climate action, indicating a willingness to collaborate with other levels of government. Furthermore, the policy outlines plans to empower community groups to respond to climate impacts and to equip residential, community groups, and business owners to have and normalise climate change conversations within their networks. This demonstrates a clear intention to build local capacity for climate action.",
+          "quote": {
+            "content": "Given this finding, Council is committed to delivering actions through the following mechanisms: Direct delivery by Council. There was also a desire from individuals to collaborate with Council.",
+            "page": 47,
+            "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations, alliances, or other partnerships related to climate. It mentions the need for regional collaboration to reduce effort and share learnings in adaptation efforts. It also highlights the role of external collaborators such as DELWP, Bass Coast Landcare, and community groups and organizations in leading and supporting sustainable environment planning and asset management. Furthermore, the document outlines the importance of convening a multi-stakeholder workshop to identify climate-related risks, challenges, and opportunities. This suggests a commitment to partnership and collaboration in addressing climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The document explicitly discusses the impact of climate change on vulnerable communities, particularly in relation to equity and social justice. It outlines a plan to deliver targeted financial and advisory services to vulnerable households, such as the elderly, rentals, and culturally and linguistically diverse (CALD) communities. The policy recognizes that without targeted assistance, these vulnerable groups could miss out on the benefits of climate change action, be unfairly disadvantaged with household costs, and be more exposed to extreme weather. The policy also emphasizes the importance of social connectedness to improve social resilience to climate change and the need to leverage available state and federal government assistance for housing upgrades. The policy's focus on these vulnerable communities demonstrates a commitment to equity and social justice in its climate change response."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate, particularly focusing on vulnerable households. It outlines a plan to deliver targeted financial and advisory services to these households, which include the elderly, rentals, and culturally and linguistically diverse (CALD) communities. The aim is to help these households respond to climate change impacts, improve social resilience, and reduce energy costs. The document acknowledges that without targeted assistance, these vulnerable groups could miss out on the benefits of climate change action and be more exposed to extreme weather. The policy also emphasizes the importance of fairness and equity, and plans to leverage existing and new programs and funding streams to deliver this assistance. Therefore, the policy does explicitly discuss how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 18,
+    "num_questions": 20,
+    "attribute_score": 90
+  }
+}

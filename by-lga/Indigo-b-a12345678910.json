@@ -1,0 +1,299 @@
+{
+  "settings": {
+    "source_files": [
+      "Indigo-2017-climate-adaptation-action-plan.pdf",
+      "Indigo-2020-climate-emergency-strategic-action-plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T19:33:07.316551",
+    "lga": "Indigo"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Climate Emergency Strategic Action Plan, clearly identifies climate action as its core purpose. The policy is designed to respond to the climate emergency by integrating strong mitigation, adaptation, and advocacy measures across all Indigo Shire Council (ISC) services. The policy sets six strategic priorities to focus the climate emergency response, with more detailed actions to be developed and costed under each strategic priority. The policy also emphasizes the importance of embedding the climate change lens into all operational and strategic policy and decision making, and increasing the resilience of Council’s infrastructure and service delivery by building internal capacity to absorb, adapt, and adjust to the expected shocks of climate change. The policy also aims to cultivate a climate change culture within the council, valuing, prioritizing, and championing the application of a climate change lens to all council decisions, operations, and functions."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The Climate Emergency Strategic Action Plan, adopted in September 2020, outlines the local government's commitment to addressing the climate emergency through mitigation, adaptation, and advocacy measures across all its services. The plan sets strategic priorities to focus the climate emergency response, with detailed actions to be developed under each strategic priority. The Climate Change Adaptation Action Plan also emphasizes the need for adaptation to climate change, stating that despite efforts to mitigate climate change, some form of adaptation is inevitable. The plan aims to increase the resilience of Council’s infrastructure and service delivery by building internal capacity to absorb, adapt, and adjust to the expected shocks of climate change. These documents demonstrate a clear understanding of the need for action on climate change and a commitment to implementing strategies to address this issue."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a strategic action plan for addressing climate change, including embedding climate change considerations into council plans, reducing the council's carbon footprint, cultivating a climate change culture, promoting environmentally sustainable development, engaging the community, and collaborating and advocating with others. The documents also detail the process of evaluating action ideas based on criteria such as climate change impact, indicative cost, timeframe, stakeholder importance, and complexity. However, while the documents clearly indicate a commitment to addressing climate change, they do not explicitly express a sense of urgency or call for rapid action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the intended actions on climate. The Climate Emergency Strategic Action Plan outlines a range of actions with varying timeframes. For instance, it mentions actions that are considered 'quick wins', which are immediate actions, actions to be completed within 1 year (S), within 2-3 years (M), and those that will take 3+ years (L). The document also mentions that the new Council has 12 months to deliver the Council Plan and that the review of plans and policies could start before this. Furthermore, the document mentions that culture change is a long-term undertaking, indicating a timeframe that extends beyond the immediate future. Therefore, the document does provide specific timeframes for its intended actions on climate, ranging from immediate actions to those planned for the longer term."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": true,
+          "answer": "The documents clearly state that the climate emergency response is a high priority for the local government. The Climate Emergency Strategic Action Plan outlines the need to embed the climate emergency response into the Council Plan, which is described as 'vital' for consistent organisational commitment to considering climate change in all actions. The documents also mention the need to review all policies, plans, and procedures through the climate emergency lens and make any changes required to align with the Climate Change Policy and this Action Plan. This suggests that the climate emergency response is not only a priority, but it is also a lens through which all other policies should be viewed and evaluated. Therefore, it can be inferred that the climate emergency response is given a higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents clearly state that all council activities must be aligned with climate policy. The Climate Emergency Strategic Action Plan outlines a commitment to considering climate change in all council activities. This commitment is to be achieved through the review of all policies, plans, and procedures through the lens of the climate emergency. The plan also includes the integration of climate change information into the new Council induction program, the review of key strategic documents to ensure climate change mitigation and adaptation opportunities are considered, and the application of risk management processes to develop, implement, and monitor adaptation strategies and actions. The plan also prioritizes sustainable procurement throughout the supply chain, including the consideration of environment/climate change criteria when evaluating quotations for applicable goods and services. This comprehensive approach to integrating climate change considerations into all council activities demonstrates a clear alignment with climate policy.",
+          "quote": {
+            "content": "This will flow through to reviewing all policies, plans and procedures through the climate emergency lens and making any changes required to align with the Climate Change Policy and this Action Plan. to gain consistent organisational commitment to considering climate change in everything that we do.",
+            "page": 2,
+            "source": "Indigo-2020-climate-emergency-strategic-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Climate Emergency Strategic Action Plan does explicitly allocate resources for climate action, although it does not provide specific monetary values. The plan outlines strategic priorities and actions, and each action is associated with a cost indicator, represented by $, $$, or $$$, which presumably denote different levels of financial commitment. The plan also mentions that the implementation of the Adaptation Plan will be assisted by the introduction of the Council’s Climate Change Policy, which will inform future budgetary decisions. However, the documents do not provide specific budget allocations or detailed financial plans for the proposed actions. Therefore, while the plan does indicate a commitment to allocate resources for climate action, the lack of specific financial details makes it difficult to assess the adequacy or effectiveness of the funding allocation.",
+          "quote": {
+            "content": "The Adaptation Plan recognises that demands on Council services may change as a result of climate change and will be used to inform future budgetary decisions. Resourcing for the Adaptation Plan will be assisted by the introduction of Council’s Climate Change Policy. The policy acts as a driver for implementation of the Adaptation Plan which will be embedded into Council documents such as team Service Plans and the Council Plan.",
+            "page": 19,
+            "source": "Indigo-2017-climate-adaptation-action-plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Climate Emergency Strategic Action Plan does explicitly allocate non-monetary institutional resources to climate action. The plan outlines a strategy for integrating climate change considerations into all aspects of the local government's operations. This includes reviewing all policies, plans, and procedures through a 'climate emergency lens' and making any necessary changes to align with the Climate Change Policy and Action Plan. The plan also emphasizes the importance of staff training and education to support individuals and work teams in identifying and implementing climate change and emissions reduction actions. Furthermore, the plan highlights the need for consistent leadership that champions climate change in all applicable decisions and processes. This suggests a significant allocation of staff time and effort towards climate action. However, the plan does not provide specific details on the number of staff or the amount of time that will be dedicated to these efforts.",
+          "quote": {
+            "content": "• \nApply risk management processes to develop, implement and monitor adaptation strategies and actions \n(including potential failure to adapt to climate change). • \nCommence review of key strategic documents (plans, policies and strategies) that inform the delivery of \nCouncil’s functions across procurement, infrastructure design, maintenance, built environment, health and \nwellbeing, community engagement, plant, equipment and fleet to ensure climate change mitigation and \nadaptation opportunities are considered.",
+            "page": 2,
+            "source": "Indigo-2020-climate-emergency-strategic-action-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is taking steps to actively empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines several strategies to engage the community in climate change mitigation and adaptation. These include facilitating and supporting community events focused on climate change, supporting youth-led climate action initiatives, and enabling community groups working on climate change and the environment. The policy also emphasizes the need for effective community engagement and communication about the local government's climate change actions and projects. Furthermore, the policy advocates for the inclusion of climate change information in the new Council induction program, suggesting an effort to educate not just the community, but also council members and staff about climate change. However, the documents also highlight the need for clarity on how support will be provided, considering resource constraints.",
+          "quote": {
+            "content": "Support and enable community groups working on climate change and the environment. Facilitate/support community events to engage the broader community on climate change mitigation and adaptation. Facilitate/support community events to engage the broader community on climate change mitigation and adaptation. Support the Indigo Shire Youth for Climate Action climate change summit. Support and enable community groups working on climate change and the environment.",
+            "page": 3,
+            "source": "Indigo-2020-climate-emergency-strategic-action-plan.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Climate Emergency Strategic Action Plan does include specific actions for the mitigation of greenhouse gas emissions. The plan emphasizes the importance of integrating a climate change response into all aspects of the council's operations and functions. This includes the review of key strategic documents to ensure climate change mitigation and adaptation opportunities are considered. The plan also highlights the need for regular and ongoing education and staff training to support individuals and work teams in identifying and implementing climate change and emissions reduction actions. Furthermore, the plan suggests the prioritization of sustainable procurement throughout the supply chain, which could lead to reduced emissions. However, the plan does not provide specific details on technological solutions or behaviour changes for greenhouse gas mitigation.",
+          "quote": {
+            "content": "Commence review of key strategic documents (plans, policies and strategies) that inform the delivery of Council’s functions across procurement, infrastructure design, maintenance, built environment, health and wellbeing, community engagement, plant, equipment and fleet to ensure climate change mitigation and adaptation opportunities are considered.",
+            "page": 2,
+            "source": "Indigo-2020-climate-emergency-strategic-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan, referred to as the 'Adaptation Plan', has been developed in response to the recognition that adaptation to climate change is inevitable. The plan identifies risks to the continued delivery of services and protection of assets from future climate impacts and develops responses to address these risks. These responses, when implemented, become adaptation actions aimed at increasing the Council’s resilience and preparedness for the future. The plan also acknowledges that climate change risks will change over time and that some adaptation actions may become redundant as new knowledge or technologies emerge. Therefore, a process of regular monitoring and review is included in the plan. The plan also includes a focus on building adaptive capacity within the organization, which involves embedding considerations about climate change risks and impacts into 'business as usual' structures.",
+          "quote": {
+            "content": "The plan has identified risks to the continued delivery of services and protection of assets from future climate impacts, and developed responses to address these risks. This Adaptation Plan has been developed in response to a recognition that despite efforts to mitigate climate change some form of adaptation is inevitable.",
+            "page": 23,
+            "source": "Indigo-2017-climate-adaptation-action-plan.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of strategic priorities and actions related to climate change, they do not provide specific, well-sourced evidence to support these actions. The documents mention the integration of climate change considerations into various aspects of council operations, the development of adaptation actions, and the prioritization of sustainable procurement. However, they do not provide detailed, evidence-based justifications for these actions. The documents also mention the use of risk management processes and the development of project plans and costing for endorsed priorities, but again, no specific evidence or sources are provided to justify these actions. Therefore, while the documents outline a number of actions related to climate change, they do not meet the high standard of evidence required to justify these actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's policy does indeed include specific measurable criteria to evaluate the success of its proposed actions. The policy outlines a multi-criteria analysis (MCA) system for evaluating proposed treatments or actions. This system scores each proposed treatment against a set of criteria, including priority, cost, effectiveness and flexibility, opportunity, and implementation. Each criterion is scored out of five, with a higher total score indicating better adaptation practice. The policy also mentions the development of indicators to monitor processes or outcomes, although the development of these indicators is stated to be outside the scope of the current plan. The policy also mentions the use of a continuous improvement cycle for identifying and delivering adaptation actions, which suggests an ongoing process of evaluation and adjustment.",
+          "quote": {
+            "content": "Treatments are scored on the criteria of: \n \nPriority – based on the risk assessment results \n \nCost – where low cost (<$5000) will receive a higher score A set of principles or criteria was used to explore and rate treatment options for the multi criteria analysis (MCA). Having thought of possible ways to deal with particular risks or opportunities, a set of criteria or principles help guide towards the most appropriate treatments with which to proceed. These may be used to compare a number of options being chosen between to deal with a particular risk, or may assist with filtering and prioritising a broader range of treatments, and allocating resources to the most ‘worthy’ options. Criteria may be weighted according to the needs of an organisation.",
+            "page": 13,
+            "source": "Indigo-2017-climate-adaptation-action-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. While the documents do outline various strategies and actions related to climate change adaptation, these primarily focus on internal processes within the council, such as reviewing strategic documents, integrating climate change considerations into decision-making, and developing adaptation actions in response to identified risks. The documents also mention the use of existing knowledge and technology, and the need for continuous improvement in identifying and managing climate risks. However, there is no specific mention of conducting research in the local community as a means of informing these actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The Indigo Shire Council has developed a Climate Change Adaptation Action Plan and a Climate Emergency Strategic Action Plan. These plans outline the council's approach to addressing climate change, including the identification of risks and the development of adaptation actions. The council has also committed to integrating climate change considerations into all operational and strategic policy and decision-making processes. This includes reviewing all policies, plans, and procedures through a 'climate emergency lens' and making any necessary changes to align with the Climate Change Policy and the Action Plan. The council has also committed to applying risk management processes to develop, implement, and monitor adaptation strategies and actions. This approach demonstrates a willingness to experiment with different strategies and to adapt these strategies as new knowledge and technology become available."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The Climate Emergency Strategic Action Plan, adopted on 15 September 2020, outlines a strategic priority to 'collaborate and advocate'. This includes partnering with others in the climate emergency movement to increase impact, leverage funding, and lobby state and federal governments to take action. The plan specifically mentions advocating to state and federal governments to commit to and deliver the transformational changes required to avoid overwhelming climate damage. This demonstrates a clear intent to advocate for climate action at higher levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents indeed encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The Indigo Shire Council's Climate Change Adaptation Action Plan (2017-2021) and Climate Emergency Strategic Action Plan (2020) both emphasize the importance of collaboration and partnerships in addressing climate change. The documents highlight the need for embedding climate change considerations into all operational and strategic policy and decision-making processes. They also stress the importance of building adaptive capacity within the organization and the community. The documents further advocate for collaboration with other councils that have declared a climate emergency, and for active contribution to Climate Emergency Australia (CEA), a collective of councils across Australia. The documents also mention the need to lobby state and federal governments for action on climate change.",
+          "quote": {
+            "content": "Partner with others in the climate emergency movement to increase our impact, leverage funding and lobby the state and federal governments to take action.",
+            "page": 3,
+            "source": "Indigo-2020-climate-emergency-strategic-action-plan.pdf",
+            "search_score": 0.91
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Indigo Shire Council's Climate Emergency Strategic Action Plan, adopted in September 2020, mentions the council's active contribution to Climate Emergency Australia (CEA), an organization formed by 90 councils across Australia that have declared a climate emergency. This indicates a clear commitment to collaboration and advocacy at a regional and national level. Furthermore, the 2017 Climate Change Adaptation Action Plan refers to a partnership project between Indigo Shire Council, Towong Shire Council, and Wodonga Council, funded by the Victorian Government under the Victorian Adaptation and Sustainability Partnership. This project aimed to develop a Climate Change Adaptation Action Plan for each partner council, demonstrating a coordinated regional approach to climate change adaptation."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the need for adaptation to climate change, and outline various strategies and actions to address climate change risks, they do not specifically address the differential impacts on vulnerable communities. The documents focus more on general strategies for climate change adaptation and mitigation, such as incorporating climate change considerations into planning and policy, increasing resilience of infrastructure, and promoting sustainable practices. Therefore, based on the provided documents, it cannot be affirmed that there is a specific focus on the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents focus on the strategic actions and plans of the local government in response to climate change, including mitigation and adaptation strategies, risk assessments, and potential actions. These include introducing environmental considerations in planning and building applications, undertaking land availability assessments for sustainable agriculture, and promoting environmentally sustainable development. However, these actions are not framed in terms of equity or social justice, nor do they explicitly discuss the distribution of benefits and opportunities. Therefore, based on the provided documents, it cannot be affirmed that there is a clear focus on equitably sharing the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 15,
+    "num_questions": 20,
+    "attribute_score": 80
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "settings": {
+    "source_files": [
+      "SouthGippsland-Environmental_Sustainbility_Strategy_Framework_2021.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-14T14:32:30.115603",
+    "lga": "SouthGippsland"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as a core purpose. The policy outlines the local government's future work in climate change, which will be governed through the implementation of a new Climate Action Plan. This plan will include emissions reduction targets and pathways for the Council, as well as detailed and concrete actions to achieve the Council’s goals in both climate change mitigation and adaptation. The policy also emphasizes the need to adapt to the changing climate and mitigate the municipality's impact on the environment by reducing emissions. The policy is guided by the Local Government Act 2020, which mandates that the Council must give effect to the overarching governance principles, including the principle that mitigation and planning for climate change risks is to be promoted.",
+          "quote": {
+            "content": "The Climate Action Plan will include emissions reduction targets and pathways for Council going forward, as well as detailed and concrete actions to be undertaken in order to achieve Council’s goals in both climate change mitigation and adaptation. Council’s future work in climate change will be governed through implementation of a new Climate Action Plan, which will be developed with extensive internal and community consultation to reflect the community’s desires and ambition in this space.",
+            "page": 11,
+            "source": "SouthGippsland-Environmental_Sustainbility_Strategy_Framework_2021.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. It outlines the local government's future work in climate change, which will be governed through the implementation of a new Climate Action Plan. This plan will include emissions reduction targets and pathways for the Council, as well as detailed and concrete actions to achieve the Council’s goals in both climate change mitigation and adaptation. The document also emphasizes the Council's responsibilities under the Local Government Act 2020, which mandates that 'mitigation and planning for climate change risks, is to be promoted'. This indicates a clear recognition of the need for action on climate change, both in terms of reducing emissions and planning for the impacts of climate change.",
+          "quote": {
+            "content": "The Climate Action Plan will include emissions reduction targets and pathways for Council going forward, as well as detailed and concrete actions to be undertaken in order to achieve Council’s goals in both climate change mitigation and adaptation. Council’s future work in climate change will be governed through implementation of a new Climate Action Plan, which will be developed with extensive internal and community consultation to reflect the community’s desires and ambition in this space.",
+            "page": 11,
+            "source": "SouthGippsland-Environmental_Sustainbility_Strategy_Framework_2021.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They do acknowledge the seriousness of climate change, stating that it is 'the biggest threat we face, both as a local community and as a global society' and that the challenges of addressing climate change are 'real and present'. The documents also outline the local government's moral and legal obligations to adapt to the impacts of climate change and work towards reducing emissions. However, there is no specific language used that would indicate a call for immediate or urgent action. The documents focus more on the need for strategic planning, mitigation, and adaptation, and the importance of considering climate change risks in decision-making processes. They also reference various acts and legislation that oblige the Council to act on environmental sustainability and climate change, but again, there is no explicit call for rapid action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the documents mention the development of a new Climate Action Plan, which will include emissions reduction targets and pathways for the Council going forward, as well as detailed and concrete actions to be undertaken, no specific timeframes for these actions are given. The documents also mention that the Climate Action Plan will be considered by an elected Council following elections scheduled for late 2021, but this is a timeframe for consideration of the plan, not for the implementation of the actions it contains. Therefore, the documents do not meet the high standard of evidence required to answer the question in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of climate change mitigation and planning, and the Local Government Act 2020 mandates that councils must give effect to overarching governance principles, including climate change mitigation, there is no explicit statement prioritizing a climate emergency response over other policies. The documents also mention the development of a new Climate Action Plan, which will include emissions reduction targets and actions for both climate change mitigation and adaptation. However, the priority of this plan relative to other policies is not explicitly stated."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, emphasize the importance of climate change mitigation and planning in the council's strategic planning and decision-making processes. The Local Government Act 2020 is mentioned as a guiding principle, stating that the council must 'give effect to the overarching governance principles', which include climate change mitigation and planning. The council also plans to develop a new Climate Action Plan, which will include emissions reduction targets and pathways, as well as detailed actions for climate change mitigation and adaptation. However, these documents do not explicitly state that all council activities must be aligned with these climate policies."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines the local government's commitment to climate change mitigation and adaptation, it does not provide specific details about the allocation of financial resources for these actions. The policy mentions the development of a new Climate Action Plan, which will include emissions reduction targets and pathways for the Council, as well as detailed actions to achieve the Council's goals in climate change mitigation and adaptation. However, there is no mention of specific funding or resource allocation for these actions. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents do outline the local government's commitment to climate change mitigation and planning, and mention the development of a new Climate Action Plan, they do not provide specific details about the allocation of institutional resources such as staff time or expertise. The documents emphasize the importance of community engagement and taking into account regional, state, and national plans and policies in strategic planning and decision making. However, without explicit mention of resource allocation, it cannot be confirmed that the plan allocates non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence that the local government policy actively empowers and educates the community to rally, support, and work productively together to deliver climate action. While the policy does mention the engagement of the municipal community in strategic planning and decision making, it does not specify how this engagement will occur or what form it will take. The policy also mentions the development of a new Climate Action Plan with extensive internal and community consultation, but again, it does not provide specific details on how this consultation will be conducted or how it will empower and educate the community. Therefore, based on the provided documents, it cannot be conclusively stated that the policy actively empowers and educates the community to rally, support, and work productively together to deliver climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's policy does indeed include specific actions for the mitigation of greenhouse gas emissions. The policy outlines the development of a new Climate Action Plan, which will include emissions reduction targets and pathways for the Council. This plan will also detail concrete actions to be undertaken to achieve the Council's goals in climate change mitigation. The policy also mentions the Council's intention to expand measures to reduce emissions from both Council operations and the broader municipality. However, the policy does not provide specific details on the technological solutions or behaviour changes that will be implemented for greenhouse gas mitigation. The policy does state that it will be developed with extensive internal and community consultation, suggesting that these details may be determined through this process.",
+          "quote": {
+            "content": "This Action Plan will include emissions reduction targets and pathways for Council going forward, as well as detailed and concrete actions to be undertaken in order to achieve Council’s goals in both climate change mitigation and adaptation.",
+            "page": 11,
+            "source": "SouthGippsland-Environmental_Sustainbility_Strategy_Framework_2021.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's policy does indeed include specific actions for climate adaptation and resilience. The policy outlines the council's commitment to broadening its work in planning to adapt to climate change and facilitating adaptation measures across the municipality. The policy also mentions the development of a new Climate Action Plan, which will include detailed and concrete actions to achieve the council's goals in both climate change mitigation and adaptation. The Climate Action Plan will be developed with extensive internal and community consultation, reflecting the community's desires and ambition in this area. The policy also acknowledges the need to adapt to the changing climate in a way that rediscovers the balance between people and the environment. Therefore, the policy does include specific actions for climate adaptation and resilience.",
+          "quote": {
+            "content": "Council’s future work in climate change will be governed through implementation of a new Climate Action Plan, which will be developed with extensive internal and community consultation to reflect the community’s desires and ambition in this space. Opportunities exist for Council to broaden its work in planning to adapt to climate change, helping facilitate adaptation measures across the municipality. In addition, Council will consider expanding measures to reduce emissions from both Council operations and the broader municipality, to assist with the mitigation of climate change.",
+            "page": 11,
+            "source": "SouthGippsland-Environmental_Sustainbility_Strategy_Framework_2021.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a commitment to developing a Climate Action Plan, which will include emissions reduction targets and pathways, it does not provide specific details or evidence to justify these targets and actions. The policy mentions that the Climate Action Plan will be developed with extensive internal and community consultation, but it does not specify what this consultation will entail or how it will inform the targets and actions. Furthermore, the policy states that the Climate Action Plan will be considered by an elected Council, but it does not provide details on how this consideration process will take place or how it will ensure that the targets and actions are evidence-based. Therefore, while the policy demonstrates a commitment to addressing climate change, it does not provide well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific measurable criteria to evaluate the success of the proposed actions in the plan. While the documents mention the development of action plans that will set targets, specify actions, and detail desired outcomes, they do not provide explicit details about these targets or how they will be measured. The documents also state that the strategy will be a 'living document', updated and renewed on an 'as needed' basis in response to various factors. However, they do not specify what criteria will be used to determine when updates or renewals are needed. Therefore, based on the provided documents, it cannot be definitively stated that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy does mention the development of a new Climate Action Plan with extensive internal and community consultation, which suggests some level of community engagement. However, this does not necessarily imply conducting research in the local community. The policy also states that the municipal community is to be engaged in strategic planning and decision making, but again, this does not explicitly refer to conducting research. The policy does not provide specific details on how the community consultation will be conducted, what kind of research will be done, or how the findings will inform the Climate Action Plan."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The local government's policy documents outline a commitment to climate change mitigation and adaptation, as well as the development of a new Climate Action Plan. This plan is said to include emissions reduction targets and pathways for the Council, as well as detailed actions to achieve these goals. However, the documents do not provide specific details about what these actions might be, nor do they indicate that these actions will involve innovative or experimental approaches. The documents also mention that the Council will take into account regional, state, and national plans and policies in its strategic planning and decision making, but again, there is no specific mention of innovation or experimentation in these plans and policies."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 4,
+        "score": 0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state an intent to advocate upward to state and national governments to support climate action. While the documents do mention the need for the local government to consider regional, state, and national plans and policies in their strategic planning and decision making, they do not specify any intent to advocate for climate action to these higher levels of government. The documents also mention the development of a new Climate Action Plan, but the details of this plan, including whether it involves advocacy to state and national governments, are not provided. Therefore, based on the provided documents, it cannot be conclusively stated that there is an explicit intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the engagement of the municipal community in strategic planning and decision making, and the consideration of regional, state, and national plans and policies during Council’s strategic planning and decision making, they do not specifically address the aspect of 'coordination, partnerships and advocacy for action' in terms of building local capacity for climate action. The documents do outline the Council's responsibilities and future plans regarding climate change mitigation and adaptation, but these do not specifically involve building local capacity across different stakeholders."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not refer to any specific regional associations, alliances, or other partnerships related to climate change. The policy does mention that regional, state, and national plans and policies are to be taken into account during the Council's strategic planning and decision making. However, it does not specify any particular partnerships or alliances. The policy also outlines the development of a new Climate Action Plan, which will include emissions reduction targets and pathways for the Council, as well as detailed actions for climate change mitigation and adaptation. But again, no specific partnerships or alliances are mentioned in this context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the need for mitigation and planning for climate change risks, and the obligation of the South Gippsland Shire Council to adapt to the irreversible impacts of a changing climate, there is no specific mention of vulnerable communities or the social justice implications of climate change. The documents focus more on the general impacts of climate change on the municipality, the need for strategic planning and decision making, and the importance of reducing municipal emissions. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention the importance of engaging the municipal community in strategic planning and decision making, and achieving the best outcomes for the municipal community, including future generations, they do not provide specific details on how these outcomes will be equitably distributed. The documents focus more on the mitigation and planning for climate change risks, and the need for the council to act on environmental sustainability and climate change. However, they do not delve into the specifics of how the benefits and opportunities arising from these actions will be shared equitably among the community."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 4,
+    "num_questions": 20,
+    "attribute_score": 30
+  }
+}

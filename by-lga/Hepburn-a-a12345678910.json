@@ -1,0 +1,305 @@
+{
+  "settings": {
+    "source_files": [
+      "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+      "Hepburn-toward-zero-emissions-road-map.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T15:35:50.970708",
+    "lga": "Hepburn"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review clearly indicates that climate action is a core purpose or goal. The policy outlines a range of actions and strategies aimed at addressing climate change, including reducing greenhouse gas emissions, promoting sustainability, and preparing for the impacts of climate change. The policy also emphasizes the importance of community involvement and education in achieving these goals. The policy's focus on climate change is further underscored by its commitment to aligning with the UN Sustainable Development Goals, which include urgent action to combat climate change and its impacts. The policy also outlines specific actions such as implementing a 'Towards Zero Emissions Roadmap Action Plan', developing a 'Sustainability and Climate Change Policy', and prioritizing 'Local renewable energy supply' to ready services and assets for the impacts of climate change.",
+          "quote": {
+            "content": "To build the resilience of the State’s infrastructure, built environment and communities through effective adaptation and disaster preparedness action. To reduce the State’s greenhouse gas emissions consistently with the long-term emissions reduction target and interim emissions reduction targets; 2.",
+            "page": 29,
+            "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, with references to the 'climate catastrophe' and the need for 'ambitious emissions reductions'. The documents also emphasize the importance of adaptation to the impacts of climate change, which are already happening and are expected to intensify in the future. The policy objectives of the Climate Change Act 2017 are outlined, which include reducing greenhouse gas emissions, building resilience, and managing natural resources to promote their resilience. The documents also mention the need for transformative change, with rapid and far-reaching actions, to achieve a sustainable global future. The policy also outlines specific actions to be taken, such as implementing the Towards Zero Emissions Roadmap Action Plan, and developing a Sustainability and Climate Change policy.",
+          "quote": {
+            "content": "It also takes centuries to millennia for the Earth system to fully respond to changes in the greenhouse effect. The inertia of the climate system – The long lifetime of CO2 in the atmosphere means that its climate warming effect responds to a reduction in CO2 emissions only gradually, over many years.",
+            "page": 34,
+            "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document indeed calls for rapid and urgent action on climate change. It emphasizes the severity of the climate crisis, stating that we are 'sleepwalking to climate catastrophe' and that the 'climate emergency is evolving faster than predicted.' The document also highlights the need for 'ambition and urgency' in our response to climate change. It further underscores the importance of immediate action by stating that even under a very low emissions scenario, there is now less than a 50% chance of limiting warming to 1.5°C. This suggests that the situation is critical and requires immediate and drastic action. The document also mentions the need for 'transformative change with rapid and far-reaching actions of a type never before attempted.' This further emphasizes the urgency and scale of the action required to address the climate crisis.",
+          "quote": {
+            "content": "We must accelerate our response, with ambition and urgency.",
+            "page": 30,
+            "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the documents discuss the urgency of climate change and the need for action, they do not outline a clear timeline or schedule for implementing the proposed measures. The documents mention the need for emissions to halve by 2030 and reach net zero in the 2050s, but these are global targets set by the Intergovernmental Panel on Climate Change (IPCC), not specific actions planned by the local government. The documents also mention the development and implementation of various policies and plans, such as a Sustainability and Climate Change Policy and a Towards Zero Emissions Roadmap Action Plan, but again, no specific timeframes for these actions are provided."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of climate change action and sustainability, they do not explicitly rank these issues above other policy areas. The documents outline a range of actions and strategies related to climate change, such as reducing greenhouse gas emissions, building resilience to climate change impacts, and promoting renewable energy. However, these are presented as part of a broader policy framework, rather than as overriding priorities. The documents also emphasize the importance of community engagement and consultation in shaping these policies, suggesting a balanced approach to policy prioritization."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing climate change through various initiatives, such as reducing greenhouse gas emissions, promoting renewable energy, and implementing a Sustainable Hepburn Strategy, they do not explicitly mandate that all council activities must align with these climate policies. The documents also mention the development of a Sustainability and Climate Change policy, but it is not explicitly stated that all council activities must adhere to this policy. Therefore, while the council clearly prioritizes climate change mitigation and adaptation in its activities, it does not explicitly require all activities to align with a specific climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various strategies and actions to address climate change, such as developing a climate resilience plan for green spaces, implementing a Sustainable Hepburn Strategy, and creating a council culture that recognises climate change action as a priority, there is no clear mention of specific funding allocations for these initiatives. The documents mention the need for funding in general terms, such as 'secure funding from State &/or Federal government to upgrade infrastructure to withstand severe weather events', but they do not provide specific details about the amount of funding allocated, the source of the funding, or how it will be distributed among the various initiatives. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate non-monetary institutional resources to climate action. The policy outlines the need for a knowledgeable workforce, indicating that staff will be equipped with the capacity, tools, skills, and resources to make a positive difference in climate action. This suggests that staff time and expertise will be allocated to implementing the policy's climate action strategies. Furthermore, the policy emphasizes collaboration and inclusivity, suggesting that staff will work together and with the community to achieve climate goals. This further implies the allocation of staff resources to facilitate partnerships, collaborations, and community engagement. However, the policy does not provide specific details on the number of staff allocated, the specific roles they will play, or the amount of time they will dedicate to these tasks."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of the local government's efforts to empower and educate the community to work together on climate action. The policy outlines a range of initiatives aimed at fostering community engagement and action. For instance, the policy mentions the development of a 'Shire wide “better prepared/know your neighbour” program' to build local awareness and understanding of climate change impacts. This includes awareness-raising workshops and community events, indicating an effort to educate the community. The policy also encourages residents to take action on waste reduction, biodiversity, water, and climate protection, suggesting a mobilisation of the community towards these goals. Furthermore, the policy outlines plans to 'build a council culture that recognises climate change action and sustainability as a priority', which could further encourage community involvement and support for climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The policy objectives of the Climate Change Act 2017, as outlined in the documents, include reducing the State’s greenhouse gas emissions in line with long-term and interim emissions reduction targets. The plan also aims to support the transition to a net zero greenhouse gas emissions economy. This involves managing changes across industries and communities, including capturing new opportunities and addressing impacts arising from the need to reduce greenhouse gas emissions. The plan also mentions the promotion of new building innovations and the management of natural resources to promote resilience. Furthermore, the plan includes a focus on local renewable energy supply as a priority for mitigating climate change impacts. Therefore, the plan includes both technological solutions, such as renewable energy and building innovations, and behaviour change, such as managing resources and transitioning to a net zero emissions economy.",
+          "quote": {
+            "content": "To reduce the State’s greenhouse gas emissions consistently with the long-term emissions reduction target and interim emissions reduction targets; 4.",
+            "page": 29,
+            "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a strategic and coordinated approach to adapt to climate change, focusing on managing climate risks and building community resilience. It emphasizes the importance of community cohesion and behavior change for successful adaptation. The plan also includes actions such as supporting new building innovations, managing forests and reserves to reduce fire risks, and implementing water management strategies to reduce flooding risks. It also highlights the need for strategic partnerships for planning on water issues and the provision of greater limits on bore use. Furthermore, the plan includes the development of a climate resilience plan for green spaces, which includes actions like restoring wetlands and implementing greening main street plans. The plan also emphasizes the importance of community preparedness for climate change impacts and outlines actions to raise awareness and understanding of these impacts.",
+          "quote": {
+            "content": "Water resilience and integrated water \nmanagement including:\n• water reform \n• clear drainage ditches and waterways and open up \nwaterways to reduce the risks of flooding\n• strategic partnerships with Council / Coliban / \nNWCMA / Goulburn-Murray planning on water issues\n• higher Step 2 and 3 water rates\n• provide greater limits on bore use. • support new build building innovations that value \npractical solutions over fashionable solutions such as \nthat ban dark roofs which become heat banks similar to \nCalifornia\n• thin forests appropriately to reduce fire risk\n• roadside and reserves managed to prevent fire risks.",
+            "page": 123,
+            "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline various actions and strategies related to climate change, such as focusing on local renewable energy supply, climate-proofing future development and infrastructure, and water resilience, they do not provide specific, well-sourced evidence to justify these actions. The documents mention surveys and participant feedback as sources of information, but they do not provide detailed data or references to scientific research to support their climate targets and actions. Furthermore, the documents do not clearly articulate how these actions will contribute to specific climate targets. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not meet the high standard of evidence required to justify their climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government policy does not provide specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines various actions and objectives related to climate change and sustainability, it does not provide clear, quantifiable metrics or benchmarks for assessing the effectiveness or success of these actions. For instance, the policy mentions the development of a Landscape Connectivity Plan, the implementation of sustainability certification schemes, and the promotion of renewable energy. However, it does not specify how the success of these initiatives will be measured, such as through specific targets or key performance indicators. This lack of specificity makes it difficult to assess whether the policy's actions are achieving their intended outcomes and to hold the local government accountable for its performance in these areas."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has conducted surveys and focus group discussions to gather community input on climate change actions. The community's responses have been used to rank actions in order of importance, with local renewable energy supply being a top priority. The government has also developed a 'Shire wide “better prepared/know your neighbour” program' to build local awareness and understanding of climate change impacts. This program includes awareness-raising workshops and scenario planning for future disasters. Furthermore, the government plans to develop climate resilience guidelines for future land use and building design in a changing climate. These actions demonstrate a commitment to informed action planning based on community input and research.",
+          "quote": {
+            "content": "Participants in the individual online survey ranked actions in order of importance with “Local renewable energy supply” as a top priority for Council to focus on to ready services and assets for the impacts of climate change.",
+            "page": 106,
+            "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government is considering a range of innovative approaches to address climate change. For instance, they are exploring the use of local renewable energy supplies, which was ranked as a top priority by survey participants. They are also considering the implementation of updated requirements for buildings to respond to climate change impacts. The documents also mention the development of a climate resilience plan for green spaces, which includes the use of rain gardens and shade trees. Furthermore, the local government is planning to work with indigenous groups on flood, fire, and storm mitigation practices, which is an innovative approach that leverages traditional knowledge. The documents also mention the development of a 'better prepared/know your neighbour' program to build local awareness and understanding of climate change impacts."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines a commitment to work in partnership with other agencies and landowners to reduce fire risk to communities, which implies a level of advocacy to higher levels of government. The policy also mentions securing funding from State and/or Federal government to upgrade infrastructure to withstand severe weather events, which is a clear indication of intent to advocate for support from higher levels of government. Furthermore, the policy mentions the implementation of the Grampians Region Adaptation Strategy 2020-25, which is supported by the Department of Environment, Land, Water and Planning (DELWP), indicating a willingness to work in partnership with state-level entities.",
+          "quote": {
+            "content": "Secure funding from State &/or Federal government to upgrade infrastructure to withstand severe weather events.",
+            "page": 109,
+            "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents indeed encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy outlines a range of actions and strategies that involve various stakeholders, including local community groups, business communities, and other regional partners such as other Local Government Areas (LGAs), Water Authorities, Landcare, local farmers, universities, state and federal government. The policy also emphasizes the importance of partnerships and coordination with community and other agencies for climate adaptation. It also mentions the development and delivery of a climate emergency capacity building program to all council staff, which indicates an effort to build capacity within the council itself. Furthermore, the policy encourages the council to partner with local and other stakeholders to provide training and practical experience across a range of vital sustainable buildings and energy efficiency areas."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government has committed to supporting the implementation of the Grampians Region Adaptation Strategy 2020-25, which is a regional initiative for climate change adaptation. This strategy is supported by the Department Environment Land Water and Planning (DELWP), indicating a partnership at the state level. The documents also mention the involvement of Djaara, Landcare groups, and other agencies in climate adaptation for biodiversity. Furthermore, the local government is working with telecommunications companies to build backup capacity into communications systems for blackouts and disasters, which is a part of their climate resilience plan. These partnerships and collaborations demonstrate the local government's commitment to a coordinated approach to climate change adaptation and resilience.",
+          "quote": {
+            "content": "Our Region’s biodiversity and natural ecosystems are protected and resilient. Council has committed to supporting the implementation of the Grampians Region Adaptation Strategy 2020-25 which has the following goals: Our regional responses to climate change are coordinated, resourced and evidence based. Our Region’s biodiversity and natural ecosystems are protected and resilient.",
+            "page": 83,
+            "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change risks include both physical and transition risks, with physical risks arising from increased frequency and severity of extreme weather events, long-term changes in weather patterns, and sea level rise. These risks have serious implications for various sectors, including human health, which can disproportionately affect vulnerable communities. The document also emphasizes the concept of climate justice, which recognizes that not everyone is impacted equally by climate change. It further highlights the need to support vulnerable communities and promote social justice and intergenerational equity in the face of climate change. Therefore, the document clearly acknowledges the differential impacts of climate change on vulnerable communities and underscores the need for equity and social justice in climate change responses.",
+          "quote": {
+            "content": "Climate resilience brings with it a lens of climate justice and makes sure we look out for those who are less able to look after themselves.",
+            "page": 20,
+            "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate, although it does not provide extensive detail. The policy emphasizes the importance of climate justice and social equity, particularly in relation to vulnerable communities. It outlines a commitment to promoting and supporting the state's regions, industries, and communities in transitioning to a net zero greenhouse gas emissions economy. This includes capturing new opportunities and addressing any impacts arising from the need to reduce greenhouse gas emissions across the economy. The policy also mentions the development of a local share economy to reduce the impact on lifestyle due to climate change and to connect the community with each other. This is linked with community resilience hubs and focuses on social equity and inclusion. However, the document does not provide specific strategies or measures to ensure the equitable sharing of benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 75
+  }
+}

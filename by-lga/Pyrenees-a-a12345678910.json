@@ -1,0 +1,293 @@
+{
+  "settings": {
+    "source_files": [
+      "Pyrenees-2020-heatwave-plan.pdf",
+      "Pyrenees-2021-Climate-Change-Response-Mitigation-Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T22:26:57.518825",
+    "lga": "Pyrenees"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the 'Climate Change Response and Mitigation Action Plan', clearly indicates that climate action is the core purpose or goal. The policy outlines a range of measures aimed at addressing climate change, including monitoring and reporting on the council's energy use, advocating for government leadership in setting greenhouse gas reduction targets, and participating in joint procurement of renewable power. The policy also outlines responses to the impacts of climate change, such as hotter and drier weather, increased demand for water, and more extreme weather events. These responses include measures to protect and enhance biodiversity, upgrade and maintain critical water points, and implement a heatwave plan. The policy also includes a commitment to review and enhance the council's climate change commitment and policy, and to review its procurement policy to encourage sustainable procurement. Therefore, it is clear that the core purpose of the policy is to take action on climate change."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents provide a clear indication of the need for action on climate change. The 'Climate Change Response and Mitigation Action Plan' adopted by the council outlines various measures to respond to the impacts of climate change. These include planning for flood events, investing in resilient infrastructure, and reducing greenhouse gas emissions. The plan acknowledges the ongoing increase in greenhouse gas emissions and the community's expectation of the council's responsibility to minimize environmental footprint. The 'Heatwave Plan' also acknowledges the impact of climate change, specifically the increase in frequency and intensity of heatwaves. It outlines a strategic action plan to minimize the adverse effects of extreme heat-related events on vulnerable members of the community. These documents demonstrate the local government's recognition of the need for action on climate change and their commitment to implementing measures to mitigate its impacts."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a series of measures and plans that the local government has put in place to respond to and mitigate the impacts of climate change, such as the Climate Change Response and Mitigation Action Plan and the Heatwave Plan. These plans include actions such as tree planting, improving water supply systems, and advocating for government leadership in setting targets for greenhouse gas reduction. However, these actions are presented as ongoing or planned responses, rather than urgent or immediate actions. The documents do not express a sense of urgency or immediacy in their tone or language. Instead, they present a measured and planned approach to dealing with the impacts of climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for some of its intended actions on climate. The 'Climate Change Response and Mitigation Action Plan' adopted by the council in February 2021 outlines measures to be taken from 2021 to 2024. These measures include planning for flood events, investing in resilient roads and bridges, monitoring and reporting on the council's energy use, and advocating for government leadership in setting targets and funding for greenhouse gas reduction. The plan also includes measures to reduce waste and vehicle travel, promote the use of electric vehicles, and support waste to energy innovation. The 'Heatwave Plan' also outlines a strategic action plan to minimise the adverse effects of extreme heat related events upon vulnerable members of the community. However, it should be noted that while the documents provide a timeframe for the overall plan, they do not provide specific deadlines for each individual action within the plan."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Climate Change Response and Mitigation Action Plan adopted by the council outlines various measures to address climate change impacts, such as planning for flood events, investing in resilient infrastructure, and reducing greenhouse gas emissions. However, these actions are presented as part of the council's overall responsibilities and initiatives, not as a priority over other policies. The Heatwave Plan also outlines strategies to mitigate the impacts of heatwaves, but again, this is presented as part of the council's duty of care and legislative requirements, not as a priority over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is prioritized over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of actions and strategies related to climate change mitigation and adaptation, such as reducing greenhouse gas emissions, advocating for government leadership in setting targets, and planning for flood events, they do not explicitly require all council activities to align with these climate policies. The documents also detail measures such as reducing vehicle travel, promoting the use of electric vehicles, and investing in renewable energy. However, these are presented as individual actions or strategies, rather than as part of a comprehensive requirement for all council activities to align with a specific climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's plan does allocate funding for climate action, although the specific amounts and sources of this funding are not detailed in the provided documents. The plan outlines several initiatives that require funding, such as the implementation of programs to protect and enhance biodiversity, the upgrade and maintenance of critical water points, and the continuation of a tree planting program. The plan also mentions the need for investment in emergency management planning and response, which includes measures to deal with extreme weather events related to climate change. Furthermore, the plan indicates that the local government will advocate for additional funding for these initiatives. However, without more specific details on the amounts and sources of this funding, it is difficult to assess the adequacy of these financial resources for achieving the plan's climate action goals.",
+          "quote": {
+            "content": "Increased tree planting in towns to provide cooler spaces \nContinue the tree planting program and commit \nfunds for ongoing tree maintenance \nMore extreme \nweather events \nIncreased risk due to \nnatural disaster \nInvestment in emergency management planning and \nresponse \nContinue to invest and advocate for funding for \nEmergency Management. t funding to implement programs to \nprotect and enhance biodiversity \nIncreased demand \nfor water \nUpgrade and maintain critical water points for emergency \nand for stock and domestic needs \nComplete Drought Communities program of works \nincluding the upgrade of critical water points. Work with water authorities to investigate and deliver \nimproved water supply systems for rural \ncommunities. Heatwave events \nHeatwave Plan: \nEducation and advise Places for relief (resource centres & \npools) \nContinue to review and implement Council’s \nHeatwave plan.",
+            "page": 1,
+            "source": "Pyrenees-2021-Climate-Change-Response-Mitigation-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action, particularly in the form of staff responsibilities and roles. The documents outline a variety of actions and measures that involve the mobilisation of staff and institutional resources. For instance, the Heatwave Plan outlines specific roles and responsibilities for staff during heatwave events, including the activation of cooling centres, implementation of heat health support plans, and maintaining communication lines. The Climate Change Response and Mitigation Action Plan also outlines staff involvement in various climate action initiatives, such as monitoring and reporting on the council's energy consumption, advocating for government leadership in setting greenhouse gas reduction targets, and participating in joint procurement of renewable power. These actions clearly involve the allocation of staff time and expertise, demonstrating a commitment of institutional resources to climate action.",
+          "quote": {
+            "content": "Customer Service Staff notified of Cooling Places. Managers of the facilities identified as cooling centres notified. Manager’s roster staff to ensure adequate staff available at cooler places.",
+            "page": 24,
+            "source": "Pyrenees-2020-heatwave-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of the local government's efforts to empower and educate the community to work together in response to climate change. The Climate Change Response and Mitigation Action Plan outlines various measures to respond to climate change, including community education, advocating for government leadership, and participation with other bodies to bring about effective change. The Heatwave Plan also emphasizes the importance of community education and training of staff to recognize signs of heat-related illness. It also mentions the development of partnerships and collaborative arrangements with stakeholders, community service, and health providers to better respond to heatwaves. These measures indicate a proactive approach to social mobilization, with the aim of rallying the community to support and work together in delivering climate action.",
+          "quote": {
+            "content": "This information can also be included in community newsletters and provided to community groups, centres and partner organisations. This can be done in parallel with existing bushfire preparedness community education activities. ACTION: Heatwave information leaflets are to be distributed at community bushfire preparedness forums.",
+            "page": 12,
+            "source": "Pyrenees-2020-heatwave-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate Change Response and Mitigation Action Plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of both technological solutions and behaviour changes. Technological solutions include the implementation of energy efficient lighting in street lights, the promotion and support of electric vehicles, including advocating for and considering funding for EV charging stations, and the investigation of waste to energy innovation and opportunities. Behaviour changes are also addressed, with the plan outlining measures such as reducing vehicle travel by providing virtual meetings and remote working options for staff, and reviewing the council's procurement policy to encourage sustainable procurement and local content. The plan also includes measures to monitor and report on the council's energy consumption and to advocate for government leadership in setting targets and funding for greenhouse gas reduction."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a variety of measures to respond to the impacts of climate change. These include planning for flood events and incorporating these plans into the planning scheme, undertaking amendments to include overlays for specific areas, and implementing flood mitigation measures. The policy also includes investment in resilient infrastructure such as roads and bridges that can withstand flood events. In response to increasing greenhouse gas emissions, the policy outlines measures to monitor and report on the council's energy consumption, advocate for government leadership in setting targets and funding for greenhouse gas reduction, and participate in joint procurement of renewable power. The policy also includes measures to respond to heatwave events, such as the development and implementation of a Heatwave Plan, which includes actions like increased tree planting in towns to provide cooler spaces and investment in emergency management planning and response.",
+          "quote": {
+            "content": "Plan for flood events and incorporate into planning scheme \nUndertake Planning Scheme Amendments to incorporate \noverlays for: \n• \nUpper Mt Emu creek \n• \nAvoca River \n• \nRaglan \nAdditional flood mitigation measures \nInvestigate and implement flood mitigation \nmeasures where appropriate \nInvest in resilient roads and bridges \n(e.g.",
+            "page": 2,
+            "source": "Pyrenees-2021-Climate-Change-Response-Mitigation-Plan.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a variety of actions and measures to address climate change, such as the implementation of a Heatwave Plan, increased tree planting, and advocating for greenhouse gas reduction, they do not provide specific, well-sourced evidence to justify these actions. The documents do not provide data, research, or other forms of evidence to support the effectiveness of these measures or to justify why these specific actions were chosen over others. Furthermore, the documents do not provide clear, measurable targets for their climate actions, making it difficult to assess the adequacy or ambition of these actions. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not meet the high standard of evidence and specific detail required to positively answer the question."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines various actions to be taken in response to heatwave events, such as the development of support plans for vulnerable clients, the implementation of a communications plan, and the review of heatwave management outcomes, it does not specify how the success of these actions will be measured. The plan mentions a review process, but it does not detail what criteria will be used in this review to assess whether the actions taken were successful or not. Therefore, it is unclear how the local government will determine if its actions have achieved the desired outcomes. The lack of specific measurable criteria makes it difficult to assess the effectiveness of the plan and to identify areas for improvement."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. While the documents outline various strategies and actions to mitigate the impacts of climate change, such as heatwave planning, tree planting, and emergency management planning, they do not explicitly mention conducting research within the local community as a means to inform these actions. The documents do mention the use of research to inform the agricultural sector of mitigation options and working with regional councils and other bodies to assist the sector. However, this does not directly involve conducting research within the local community. Therefore, the question cannot be answered positively based on the provided context."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action by the local government. The Climate Change Response and Mitigation Action Plan outlines a variety of measures to address climate change, including the promotion of thermally protective building codes, insulation purchase and installation schemes, and the installation of water bottle filling stations. The plan also includes measures to increase tree planting to provide cooler spaces and to work with water authorities to improve water supply systems. The Heatwave Plan also shows evidence of policy experimentation, with the development of a register of vulnerable residents who will be contacted during a heatwave, and the implementation of policies for staff working in heat. These measures demonstrate a proactive and innovative approach to climate change mitigation and adaptation.",
+          "quote": {
+            "content": "Examples of possible urban environment adaption measures include: Installation of water bottle filling stations and bubble taps; Promotion of thermally protective building codes; Promotion of insulation purchase and installation schemes; Increase of",
+            "page": 14,
+            "source": "Pyrenees-2020-heatwave-plan.pdf",
+            "search_score": 0.92
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the local government's commitment to advocating for government leadership in setting targets and funding for greenhouse gas (GHG) reduction. This indicates a clear intent to engage with higher levels of government to ensure that adequate measures are taken to address climate change. The policy also highlights the local government's participation with other bodies to investigate measures and bring about effective change, further demonstrating its commitment to advocacy and partnership in the fight against climate change."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government is actively encouraging the building of local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a range of measures that involve collaboration and partnership with other bodies to bring about effective change in reducing greenhouse gas emissions. This includes participating with regional councils and other bodies to identify measures and take action, advocating for government leadership in setting targets and funding for greenhouse gas reduction, and participating in joint procurement of renewable power with other councils. The policy also outlines measures to reduce environmental footprint, such as reducing vehicle travel by providing virtual meetings and remote working options for staff, promoting the use of electric vehicles, and investigating waste to energy innovation. These actions demonstrate a commitment to building local capacity for climate action.",
+          "quote": {
+            "content": "CVGA, DELWP Regional Climate Change Planning) Participate with regional councils, GVGA, GNet and others where appropriate to identify measures and take action to bring about a reduction in net GHG emissions. Participation with other bodies to investigate measures and bring about effective change (e.g.",
+            "page": 2,
+            "source": "Pyrenees-2021-Climate-Change-Response-Mitigation-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government's climate change response and mitigation plan outlines several instances of collaboration with regional councils and other bodies. For instance, the plan mentions working with regional councils and peak bodies like DELWP (Department of Environment, Land, Water and Planning) to access government funding for programs aimed at protecting and enhancing biodiversity. The plan also mentions participation with regional councils, GVGA, GNet, and others to identify measures and take action to reduce net greenhouse gas emissions. Furthermore, the plan refers to joint procurement of renewable power with other participating councils. These instances demonstrate a clear commitment to coordination, partnerships, and advocacy for action on climate change at a regional level."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The Pyrenees Shire Council's Climate Change Response and Mitigation Action Plan and Heatwave Plan both outline measures to address the impacts of climate change, including heatwaves, on the community. The Heatwave Plan specifically identifies vulnerable population groups, such as older people, infants/young children, those with existing medical conditions, and people taking medications that may affect their reaction to heat. The Climate Change Response and Mitigation Action Plan outlines measures to mitigate the impacts of climate change, including flood events and greenhouse gas emissions. These measures are designed to protect the community and its infrastructure, demonstrating a commitment to social justice and equity by ensuring that all community members, including the most vulnerable, are considered in climate change mitigation and adaptation strategies.",
+          "quote": {
+            "content": "However, there are certain groups of people who are more susceptible to the health impacts of heat than others, including older people, infants/young children, those with existing medical conditions and people taking medications that may affect their reaction to heat.” The Victorian Department of Health and Human Servicespublication, “The Population Health Impacts of Heat, 2011” states, “Heatwaves, or brief periods of extreme heat, can affect anyone in the population.",
+            "page": 7,
+            "source": "Pyrenees-2020-heatwave-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various measures to mitigate the impacts of climate change and heatwaves, such as flood mitigation measures, investment in resilient infrastructure, and the development of a heatwave plan, they do not specifically address the equitable distribution of these benefits and opportunities. The documents focus more on the practical aspects of climate change mitigation and adaptation, rather than the social justice implications. Therefore, without explicit evidence in the documents, it cannot be affirmed that they discuss how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 72.5
+  }
+}

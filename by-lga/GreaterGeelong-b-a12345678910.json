@@ -1,0 +1,316 @@
+{
+  "settings": {
+    "source_files": [
+      "GreaterGeelong-climatechangeresponseplanfinal.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T15:26:41.834818",
+    "lga": "GreaterGeelong"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as a core purpose. It outlines a comprehensive plan to integrate climate action into decision-making processes, prioritizing climate over financial outcomes. The policy also emphasizes the need for a climate-conscious procurement policy for all city purchases. It further highlights the need for the city to advocate to state and federal governments for stronger emphasis on climate action. The policy also outlines plans to ensure local planning schemes, standards, codes, and policies support the use of best available climate data. It also mentions the need for a coordinated approach to building community awareness about climate change and the importance of a collaborative, coordinated approach to climate action. The policy also sets a target of reaching net zero emissions by 2025 for its operations.",
+          "quote": {
+            "content": "Prioritising climate over financial outcomes in all decision making was also highlighted.",
+            "page": 18,
+            "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It emphasizes the urgency of the situation, stating that the time for debate is over and that extensive and urgent action is required to address the climate crisis. The document also highlights the risks posed by climate change and the need for managing these risks for the best long-term outcomes for the community. It further underscores the importance of integrating climate action into decision-making processes, despite the challenges posed by the complexity of local governments and the multiple pieces of legislation that guide them. The document also acknowledges the need for a coordinated and collaborative approach to climate action, involving all levels of government, businesses, and the community. It also stresses the importance of monitoring progress and adapting to changes.",
+          "quote": {
+            "content": "We need to act urgently and extensively as a municipal community to be part of the solution to the climate crisis. The science tells us that we must aim for net zero emissions as soon as possible (by 2050 at the latest) and that we need rapid decarbonisation during this decade. The overwhelming message from community groups, businesses and other organisations is that the time for debate is over.",
+            "page": 11,
+            "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. The language used throughout the documents emphasizes the need for immediate and extensive action. The documents acknowledge the climate crisis as a 'global emergency' and stress the importance of a 'municipal-wide response'. The documents also highlight the need for a 'coordinated and collaborative approach' to address the climate crisis. The documents further state that 'the time for debate is over' and that 'we need to act urgently and extensively'. The documents also mention the need for 'rapid decarbonisation' during this decade and aim for 'net zero emissions as soon as possible (by 2050 at the latest)'. The documents also call for 'prioritising climate over financial outcomes in all decision making'.",
+          "quote": {
+            "content": "We need to act urgently and extensively as a municipal community to be part of the solution to the climate crisis. The science tells us that we must aim for net zero emissions as soon as possible (by 2050 at the latest) and that we need rapid decarbonisation during this decade. The overwhelming message from community groups, businesses and other organisations is that the time for debate is over.",
+            "page": 11,
+            "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. It outlines a series of actions, each with a designated lead, support, timeframe, and cost. For instance, the document mentions the development of a community campaign to raise awareness of the region’s climate risks, impacts, and responses by 2022. It also mentions the implementation of new risk management and reporting software solutions to manage risks and enable integrated reporting by 2022. Furthermore, the document states the city's commitment to reaching net zero emissions by 2025 for its operations. These examples demonstrate that the document not only acknowledges the urgency of action on climate change but also provides specific timeframes for its planned actions."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government's climate change response plan prioritizes climate action over other policies. The documents highlight the importance of integrating climate action into decision-making processes, even suggesting that climate considerations should take precedence over financial outcomes. The documents also suggest that funds should be redirected away from projects that are not environmentally sustainable or that inhibit the city's ability to adapt to climate change. Furthermore, the documents emphasize the need for a climate-conscious procurement policy for all city purchases. This suggests a clear prioritization of climate action in the city's policy-making and financial decisions.",
+          "quote": {
+            "content": "Prioritising climate over financial outcomes in all decision making was also highlighted.",
+            "page": 18,
+            "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents emphasize the importance of integrating climate action into decision-making processes and prioritizing climate over financial outcomes, they do not mandate that all council activities must be aligned with the climate policy. The documents highlight the need for a coordinated approach to climate action, the development of a climate-conscious procurement policy, and the importance of considering climate change risks in new strategies and plans. However, these points do not equate to a requirement for all council activities to be aligned with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Climate Change Response Plan of the local government does explicitly allocate funding for climate action. The plan outlines several actions that involve the allocation of resources for climate action. For instance, the plan mentions the establishment of community climate change officers and the implementation of the Climate Change Response Plan, both of which are to be resourced by 2022. Additionally, the plan introduces a new funding model that supports community climate action partnerships, which will be used to provide additional support for climate action delivered by volunteers and not-for-profit groups in the community. The plan also mentions the allocation of resources to support local businesses in developing climate mitigation and adaptation programs, technologies, and solutions. Therefore, the plan does explicitly allocate funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Climate Change Response Plan does allocate non-monetary institutional resources to climate action. The plan outlines a number of actions that involve the allocation of staff resources. For instance, the City is tasked with monitoring, evaluating, and reporting on climate change adaptation readiness, implementing new risk management and reporting software solutions, and integrating climate change risk management into investment decisions. These actions imply the allocation of staff time and expertise. Additionally, the City is also tasked with collaborating with primary producers to investigate the impact of climate change on agriculture and sustainable land use, and partnering with Traditional Owners to integrate their values and expertise into climate adaptation planning. These actions suggest the allocation of staff resources for collaboration and partnership-building. Therefore, the plan does allocate non-monetary institutional resources, specifically staff resources, to climate action.",
+          "quote": {
+            "content": "Partner with Traditional Owners to ensure their cultural, ecological and economic values and expertise are integrated into climate adaptation planning.",
+            "page": 43,
+            "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+            "search_score": 0.92
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The policy indeed outlines a comprehensive plan to empower and educate the community to rally, support, and work together to deliver climate action. The policy emphasizes the importance of community awareness and education, and it plans to build this through a collaborative, coordinated approach using existing community knowledge and skills. The policy also highlights the role of community-based networks in sharing information and galvanizing local community efforts. The policy further outlines the roles of residents, businesses, and community organizations in driving climate action. It also mentions the establishment of a 'community climate action partnership fund' to support climate action delivered by volunteers and not-for-profit groups in the community. However, while the policy outlines these plans, the effectiveness of these measures in achieving social mobilization for climate action would depend on their successful implementation.",
+          "quote": {
+            "content": "Such an approach will help address the issue of misinformation in the climate debate by giving the community a trusted local source of climate information. We need a collaborative, coordinated approach to building community awareness about climate change. This approach will use existing community knowledge and skills, as well as local networks.",
+            "page": 23,
+            "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Climate Change Response Plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to technological solutions such as adopting leading technologies to improve energy efficiency in city-owned and operated facilities, upgrading lighting, heating, and cooling systems, and transitioning to gas-free operations. The plan also includes a commitment to behavioural change, as it encourages individuals and organisations to use the plan as a roadmap for guiding their individual and collective responses to climate change. The plan also highlights the need for a coordinated and collective response, with all levels of government, business, and community playing an active role. However, while the plan does outline specific actions, it is important to note that the success of these actions will depend on the commitment and cooperation of all stakeholders involved."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Climate Change Response Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a range of actions that the City will undertake to adapt to climate change. These include monitoring, evaluating, and reporting on climate change adaptation readiness, integrating climate change risk management into investment decisions, and pursuing financial divestment away from fossil-fuel-aligned investments. The plan also includes actions to improve understanding of local changes in temperature, rainfall, and variables related to urban infrastructure condition and function. Furthermore, the plan outlines actions to ensure critical decisions consider climate change mitigation and adaptation implications, and to improve coordination of policy development and implementation between various levels of government. These actions demonstrate a comprehensive approach to climate adaptation and resilience, with a focus on both immediate and long-term strategies."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions and targets related to climate change, such as reaching net zero emissions by 2025 for their operations, and integrating climate action into decision-making, they do not provide specific sources or data to justify these targets. The documents mention the use of a 'science-based data approach' and the development of a 'long-term framework based on state-wide risk assessments', but they do not provide details about these methods or how they were used to inform the plan's targets and actions. Furthermore, while the documents mention the need for monitoring and evaluation, they do not provide specific metrics or indicators that will be used to measure progress towards the plan's targets. Therefore, based on the provided documents, it cannot be confirmed that the climate targets and actions are justified by well-sourced evidence."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's Climate Change Response Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a commitment to regular, public, and transparent reporting, monitoring, target setting, and evaluation. It also emphasizes the need for actions to be supported by clear timelines and measurable outcomes. The plan further details the development and implementation of a comprehensive plan for monitoring, evaluating, and reporting climate action efforts and effectiveness, aligning with the Sustainable Development Goals by 2022. Additionally, the plan mentions the endorsement of a series of Sustainability Performance Indicators and Targets that will be publicly reported on annually, including a carbon reduction target and supporting programs. The evaluation will also be aligned with relevant United Nations Sustainable Development Goals. These elements collectively indicate a robust framework for evaluating the success of the plan's proposed actions using specific measurable criteria.",
+          "quote": {
+            "content": "[...] In June 2021, our Council endorsed a series of Sustainability Performance Indicators and Targets that will be publicly reported on annually, including a carbon reduction target and supporting programs.",
+            "page": 21,
+            "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined several actions that involve research and data collection to guide their climate response. For instance, they plan to improve understanding of local changes in temperature, rainfall, and variables related to urban infrastructure condition and function by making existing climate data and information more accessible and useful for the community. They also plan to monitor, evaluate, report, and improve climate change adaptation by developing and implementing a long-term framework based on state-wide risk assessments. Furthermore, they aim to support community involvement in citizen science programs to collect climate-change-related data. These actions indicate a commitment to informed decision-making based on research and data collection.",
+          "quote": {
+            "content": "Monitor, evaluate, report and improve climate change adaptation by developing and implementing a long-term framework based on state-wide risk assessments.",
+            "page": 38,
+            "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+            "search_score": 0.92
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The Climate Change Response Plan shows evidence of innovation and policy experimentation in climate action. The plan outlines a variety of strategies and actions that demonstrate a commitment to innovative and experimental approaches. For instance, the plan includes the development of a climate-conscious procurement policy for all city purchases, which suggests an innovative approach to integrating climate considerations into everyday decision-making processes. The plan also outlines a commitment to direct funds away from projects that are not environmentally sustainable, indicating a willingness to experiment with new funding models. Furthermore, the plan includes a commitment to monitor, evaluate, and report on climate change adaptation readiness, which suggests an innovative approach to tracking progress and learning from experience. The plan also includes a commitment to integrate climate change risk management into investment decisions, which suggests an experimental approach to financial management. Finally, the plan includes a commitment to pursue financial divestment away from fossil-fuel-aligned investments, which is a clear example of policy experimentation.",
+          "quote": {
+            "content": "• There were also calls for a climate-conscious procurement policy for all City purchases. • Some respondents called for action to direct funds away from projects that are either not environmentally sustainable, or inhibit the City’s ability to adapt to climate change.",
+            "page": 18,
+            "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the need for a coordinated approach to climate change response, which includes advocating to higher levels of government. The policy acknowledges the importance of collaboration and partnerships in achieving its climate action goals. It also highlights the role of the Sustainability Advisory Committee in supporting the implementation of the plan. Furthermore, the policy outlines specific actions such as establishing the Barwon South West Climate Alliance and improving coordination of policy development and implementation between various levels of government. These actions demonstrate a clear intent to engage with and advocate to state and national governments."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents indeed encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy emphasizes the need for a coordinated and collaborative approach to climate change, with the council facilitating this approach and the community's support being crucial. The policy also highlights the importance of the Sustainability Advisory Committee in supporting the implementation of the plan. The policy further mentions the establishment of the Barwon South West Climate Alliance to build networks and cross-agency relationships in climate change adaptation planning and identify opportunities to collaborate across tenures and boundaries. The policy also encourages community involvement in citizen science programs to collect climate-change-related data and work in partnership with community groups, businesses, and other organizations to promote and educate the community about sustainable practices."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. The local government has established various working groups and partnerships in critical risk areas of coastal planning, health and wellbeing, and emergency management. They have also formed a Sustainability Advisory Committee to support the implementation of the plan. The document also mentions the establishment of the Barwon South West Climate Alliance, which will provide an opportunity for knowledge sharing, advocacy coordination, and collaborative climate action across the region. Furthermore, the local government plans to collaborate with primary producers, Traditional Owners, community groups, businesses, and other organizations to promote sustainable practices and educate the community about climate change. These partnerships and alliances are integral to the local government's coordinated and collaborative approach to climate action.",
+          "quote": {
+            "content": "On a broader regional scale, the new Barwon South West Climate Alliance will provide an opportunity for us to share knowledge, coordinate advocacy and deliver collaborative climate action across the region.",
+            "page": 42,
+            "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The policy acknowledges that climate change has implications for every aspect of how we live, including our social systems. It also recognizes that climate change directly affects health through extreme weather events, prolonged heatwaves, flooding, and bushfires, and indirectly through poorer air quality, an increasing incidence of infectious disease, risks to food safety and drinking water quality, and impacts on mental health. These impacts are likely to disproportionately affect vulnerable communities. The policy also mentions the need for increased resilience to, and reduced risk of, the urban heat island effect, which is a significant issue for vulnerable communities living in urban areas. Furthermore, the policy acknowledges the need for more frequent disruptions to transport routes and higher costs for repairing damage to road infrastructure, which can also disproportionately affect vulnerable communities.",
+          "quote": {
+            "content": "It also has indirect health impacts, such as poorer air quality, an increasing incidence of infectious disease, risks to food safety and drinking water quality and impacts on mental health.",
+            "page": 43,
+            "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline the local government's plans and strategies for addressing climate change, including setting emissions reduction targets, promoting community involvement, and implementing a coordinated approach, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The documents mention the importance of community involvement and collaboration, the establishment of a Sustainability Advisory Committee, and the implementation of a community climate action partnership fund. However, these references do not directly relate to the equitable sharing of benefits and opportunities. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 17,
+    "num_questions": 20,
+    "attribute_score": 87.5
+  }
+}

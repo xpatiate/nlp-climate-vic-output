@@ -1,0 +1,324 @@
+{
+  "settings": {
+    "source_files": [
+      "Kingston-2018-climate-strategy.pdf",
+      "Kingston-2020-urban-cooling-strategy.pdf",
+      "Kingston-2021-climate-ecological-emergency-response-plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T21:10:32.510397",
+    "lga": "Kingston"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as its core purpose. The policy is designed to address the climate and ecological emergency, with a focus on reducing emissions and adapting to climate change. The policy outlines specific goals and targets, such as supporting the community to reduce emissions by 40% by 2025 and achieving net zero by 2030. It also includes a commitment to reduce Council’s corporate emissions to achieve net zero by 2025. The policy also outlines a range of actions to achieve these goals, including expanding waste services to reduce waste to landfill, improving sustainable building design, and supporting low emission. The policy also includes a timeframe for these actions, with high priority actions commencing in the next 12 months, medium priority actions by 2023, and low priority actions by 2025."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, stating that the benefits of acting are significant but the opportunity to do so is rapidly diminishing. The documents also emphasize the real, climate-related impacts for Kingston, including the creation of new jobs, cheaper power, reduced air pollution, and enhanced urban forest. The documents further underscore the importance of reducing emissions in line with science-derived targets, supporting the community to reduce emissions, and improving sustainable building design. The documents also note that the Local Government Bill 2018 makes 'mitigation and planning for climate change risks' a legal requirement for Council. Therefore, the documents not only explain the need for action on climate change but also provide a detailed plan for how to achieve this."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document indeed calls for rapid and urgent action on climate change. It outlines a series of priority actions, with high priority actions commencing within the next 12 months, medium priority actions by 2023, and low priority actions by 2025. This timeline indicates a sense of urgency in implementing these actions. The document also acknowledges the climate emergency and states that Kingston's response will reflect the scope, scale, and urgency of that emergency. Furthermore, it emphasizes that there is not a minute to lose and that working to reduce emissions as soon as possible is a clear intent of the plan. The document also states that the scale of reductions required is exceptionally high, further emphasizing the urgency of the situation.",
+          "quote": {
+            "content": "Given our declaration of a Climate and Ecological Emergency, high priority actions (those with the highest emission abatement potential) will commence in the next 12 months; medium priority actions by 2023 and low priority actions by 2025.",
+            "page": 11,
+            "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a plan of action that is set to commence from 2021 and have a duration of 3-4 years depending on the project type. The document further breaks down the commencement of actions based on their priority. High priority actions, those with the highest emission abatement potential, are set to commence within the next 12 months from the time of the document's creation. Medium priority actions are set to commence by 2023, and low priority actions by 2025. This indicates a clear timeline and sense of urgency in the policy's approach to addressing climate change.",
+          "quote": {
+            "content": "Given our declaration of a Climate and Ecological Emergency, high priority actions (those with the highest emission abatement potential) will commence in the next 12 months; medium priority actions by 2023 and low priority actions by 2025.",
+            "page": 11,
+            "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a comprehensive plan for addressing climate change, including various priority actions, responsible areas, and estimated costs, they do not explicitly rank these actions in relation to other non-climate-related policies. The documents emphasize the importance of addressing climate change and outline a detailed plan for doing so, but they do not make a direct comparison between the priority of this plan and the priority of other policies. Therefore, without explicit evidence, we cannot affirm that the climate emergency response is given higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing climate change and outline various actions and strategies to reduce emissions, they do not explicitly require all council activities to align with these climate policies. The documents mention the development of an implementation plan with targets, responsibilities, and budget once the detailed program design is complete. They also mention the establishment of a community advisory group focused on climate action and the review and evaluation of Kingston's community emissions reduction action plan. However, these actions do not necessarily imply that all council activities must align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Kingston Climate and Ecological Emergency Response Plan does explicitly allocate funding for climate action. The plan outlines 'institutional resource mobilisation' as a key component of its strategy, which includes 'adequate funding for action'. This indicates that the local government has committed to providing financial resources to support the implementation of the plan. However, the documents do not provide specific details about the amount of funding allocated, the sources of this funding, or how it will be distributed among the various initiatives outlined in the plan. Therefore, while the plan does commit to funding climate action, the lack of detail makes it difficult to assess the adequacy and effectiveness of this funding commitment."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Kingston Climate and Ecological Emergency Response Plan does allocate non-monetary institutional resources to climate action. The plan outlines a commitment to re-orientate its operations to respond holistically to the climate emergency. This includes the allocation of staff resources, with senior leaders holding their departments accountable for climate action. The plan also mentions the development and implementation of training for staff focused on Council’s response to the Climate and Ecological Emergency and their role. This indicates that staff resources are being allocated to climate action, with a focus on building competencies relevant to climate emergency action into staff roles and responsibilities. Furthermore, the plan mentions the need for collaboration with Traditional Owners on Council’s Climate and Ecological Emergency response, which implies the allocation of staff resources for this collaboration.",
+          "quote": {
+            "content": "Embed competencies relevant to climate emergency action into staff roles The initial focus will be on staff with purchasing power and contractor and event management responsibilities.",
+            "page": 22,
+            "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a range of actions and strategies aimed at reducing emissions and addressing climate change. These include supporting the community to reduce emissions by 40% by 2025 and achieve net zero by 2030, expanding waste services to reduce waste to landfill, and improving sustainable building design. The policy also emphasizes the importance of community action planning, education, and engagement. It outlines plans to develop and deliver staff and community education, establish a community advisory group focused on climate action, and report on Council’s response to the Climate and Ecological Emergency through Council’s Quarterly Reporting to the community. This suggests a commitment to transparency, accountability, and community involvement in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate and Ecological Emergency Response Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions include energy efficiency retrofits for homes, low emissions infrastructure, and transitioning businesses and industries towards more energy-efficient technology. The plan also includes the use of new technologies and renewable energies, making older equipment more energy efficient, and changing management practices or consumer behaviour. Behaviour change is encouraged through educational workshops with service providers and engagement with local businesses. The plan also includes a commitment to reduce Council’s corporate emissions to achieve net zero by 2025 and support the community to reduce emissions by 40% by 2025 and achieve net zero by 2030. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions.",
+          "quote": {
+            "content": "It involves taking practical actions to manage risks from climate impacts, protect communities and strengthen the resilience of the economy. The plan outlines a number of recommendations to reduce greenhouse gas emissions. Adaptation is the principal way to deal with the impacts of a changing climate.",
+            "page": 3,
+            "source": "Kingston-2018-climate-strategy.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate and Ecological Emergency Response Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to adapt to the impacts of climate change. It includes the development and delivery of a Climate Adaptation Plan, which aims to assess the vulnerability of Kingston’s built, natural, and coastal environment to climate change impacts. The plan also seeks to identify pathways to address these vulnerabilities over time, including planning for sea level rise impacts in low-lying coastal areas. Furthermore, the plan aims to strengthen the resilience of the community to the impacts of climate change, including food security. The plan also includes the development of the Council’s climate adaptation capabilities and the implementation of regional climate adaptation programs in partnership with Federal and State Government agencies, neighbouring local governments, industry, and the community.",
+          "quote": {
+            "content": "-  Work in partnership with Federal and State Government agencies, neighbouring local \ngovernments, industry and the community to implement regional climate adaptation programs. -  Identify pathways to address vulnerabilities in our natural and built environment over time, \nincluding planning for sea level rise impacts in our low-lying coastal areas. -  Strengthen the resilience of our community to the impacts of climate change including food \nsecurity. -  Develop Council’s climate adaptation capabilities. -  Develop Council’s climate adaptation capabilities.",
+            "page": 25,
+            "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a detailed plan for climate action, with specific targets and actions that are backed by evidence. The policy outlines a commitment to reduce emissions by 40% by 2025 and achieve net zero by 2030. It also includes plans to reduce Council’s corporate emissions to net zero by 2025, expand waste services to reduce waste to landfill, improve sustainable building design, and support low emission. The policy also outlines a range of priority actions, each with a responsible area, priority level, and estimated cost. These actions include energy efficiency retrofits for homes, low emissions infrastructure, and transitioning business and industry towards more energy efficient technology. The policy also includes a plan for monitoring, evaluation, review, and learning, which will contribute to growing the knowledge base in local government and ensure emissions reductions are well targeted and effective. Therefore, the document provides well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a Monitoring, Evaluation, and Learning (MEL) plan, which will guide the assessment of the strategy. This MEL plan will specify key evaluation questions, indicators, data sources, measurement frequency, and responsibility for measuring and reporting. Furthermore, the plan includes a review timeline for the strategy. The plan also mentions progress monitoring, which refers to the internal monitoring of the implementation of the plan. This will ensure that the response plan has been implemented as intended. The plan also includes impact monitoring, which measures the success of the plan in terms of CO2e abated. This monitoring will be conducted at regular intervals during the implementation of the plan.",
+          "quote": {
+            "content": "The MEL plan will specify: Key evaluation questions to guide the assessment of the Strategy; Indicators, source of data and frequency of measurement; Responsibility for measuring and reporting against the Urban Cooling Strategy; and Review timeline for the Strategy. A Monitoring, Evaluation and Learning (MEL) plan will be developed which will outline the review framework for this strategy.",
+            "page": 18,
+            "source": "Kingston-2020-urban-cooling-strategy.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Kingston City Council has initiated a Community Action Planning process in collaboration with Ironbark Sustainability. This process is aimed at understanding how to support community emission reductions and facilitate actions at a regional level to increase the scale of opportunity and cost-effectiveness. The Council acknowledges the importance of understanding the emissions reductions that are already happening in the community and finding ways to accelerate them. The Council also plans to engage with specific stakeholders to ensure the actions are scalable, robust, and cost-effective. This engagement process will be co-designed alongside a program of monitoring, review, evaluation, and reporting to establish performance indicators and identify trigger points.",
+          "quote": {
+            "content": "We now have a thorough understanding of how we can support community emission reductions. In early 2020, Kingston City Council began working with Ironbark Sustainability on a Community Action Planning process.",
+            "page": 10,
+            "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The Kingston City Council's Climate and Ecological Emergency Response Plan outlines a comprehensive approach to climate action, which includes innovative strategies and policy experimentation. The plan includes a focus on emissions reductions, with a commitment to understanding current emissions and finding ways to accelerate reductions. The council is also working with Ironbark Sustainability on a Community Action Planning process, indicating a willingness to collaborate with external partners and experiment with new approaches. The plan also outlines a range of priority actions across different sectors, including low carbon living, future-proofing business and industry, sustainable transport, and council operations. These actions suggest a willingness to innovate and experiment with different strategies to achieve climate goals. Furthermore, the plan includes a commitment to monitoring, evaluation, review, and learning, which is a key aspect of policy experimentation. This approach allows for the assessment of the effectiveness of different strategies and the ability to adapt and change course as necessary.",
+          "quote": {
+            "content": "We now have a thorough understanding of how In early 2020, Kingston City Council began working with Ironbark Sustainability on a Community Action Planning process.",
+            "page": 10,
+            "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 4,
+        "num_questions": 4,
+        "score": 1
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government has an explicit intent to advocate upward to state and national governments to support climate action. This is part of their four-pronged advocacy and engagement approach, which includes upwards, sideways, inwards, and outwards directions. The 'upwards' direction specifically refers to lobbying state and national governments to adopt and fund a climate emergency response. This approach is part of their Climate and Ecological Emergency Response Plan, which is evidence-based and aims to ensure that the most vulnerable in the community are not disadvantaged. The plan also includes a commitment to institutional resource mobilisation, which includes senior management accountability and leadership. Therefore, the documents provide clear evidence of an explicit intent to advocate for climate action at higher levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents indeed provide evidence of the local government's commitment to building local capacity across council, their local communities, and neighbouring local councils for climate action. The Kingston City Council's Climate and Ecological Emergency Response Plan outlines a comprehensive approach to climate action that includes facilitating community actions at a regional level, which implies collaboration with neighbouring councils. The plan also emphasizes the importance of education and training, professional development, and financial mechanisms, which are key elements of capacity building. Furthermore, the plan outlines a commitment to 'engagement with specific stakeholders' and 'a program of monitoring, review, evaluation and reporting', which are indicative of a coordinated approach to climate action. The council also acknowledges the need for 'substantial contributions from businesses and industry, residents, as well as representative organisations and the state and federal government', which suggests a partnership-based approach.",
+          "quote": {
+            "content": "Implementation is detailed in Section 5. We now have a thorough understanding of how we can support community emission reductions. We have committed to a series of actions that can facilitate community emission reductions. Facilitating community actions at a regional level increases the scale of opportunity and cost effectiveness.",
+            "page": 10,
+            "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations and alliances related to climate action. The Kingston City Council, as part of its Climate and Ecological Emergency Response Plan, has mentioned its membership with the South East Councils Climate Change Alliance (SECCCA). This alliance is a collaborative effort among local councils to address climate change. The council has also acknowledged the Northern Alliance for Greenhouse Action (NAGA) for their resources. These alliances and partnerships are crucial for the council to leverage resources, share knowledge, and coordinate efforts in addressing climate change at a regional level. The council's commitment to these alliances indicates its dedication to collaborative and coordinated climate action.",
+          "quote": {
+            "content": "This was based on the interpretation of regional and global impacts of an increase of “well below 2°C” being an unacceptable risk to SECCCA councils and communities and an acknowledgement of the role Victoria. Kingston as a member of the South East Councils Climate Change Alliance (SECCCA), recently advocated to the Victorian State Government to adopt a “1.5°C” target.",
+            "page": 7,
+            "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The policy acknowledges that the most vulnerable people often have the least capacity to respond and cope with the impacts of climate change. It recognizes that these individuals have typically made the least contribution to the problem. The policy emphasizes the need for a just transition, ensuring that the most vulnerable community members are not disadvantaged. This shows a clear understanding of the social justice implications of climate change and a commitment to addressing these in a fair and equitable way. The policy also acknowledges the potential impact of rising electricity and gas prices on the ability of some community members to heat and cool their properties, indicating an awareness of the economic challenges that climate change can pose for vulnerable individuals.",
+          "quote": {
+            "content": "A just transition, ensuring our most vulnerable community members are not disadvantaged is a priority of the plan. Council recognises that any major transition needs to occur in a fair and socially equitable way. The most vulnerable people have typically made the least contribution to the problem and often have less capacity to respond and cope with the impacts.",
+            "page": 5,
+            "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. It emphasizes the importance of a 'just transition', ensuring that the most vulnerable community members are not disadvantaged. This is a priority of the plan, indicating a commitment to social equity in the face of climate change. The plan also recognizes that the most vulnerable people often have the least capacity to respond and cope with the impacts of climate change, and have typically made the least contribution to the problem. This recognition of inequity is a crucial step towards ensuring that the benefits and opportunities of a safe climate are shared equitably. The plan also mentions the need for capacity building and professional development, which could be interpreted as measures to ensure that all community members have the opportunity to benefit from a safe climate.",
+          "quote": {
+            "content": "A just transition, ensuring our most vulnerable community members are not disadvantaged is a priority of the plan. Council recognises that any major transition needs to occur in a fair and socially equitable way. The most vulnerable people have typically made the least contribution to the problem and often have less capacity to respond and cope with the impacts.",
+            "page": 5,
+            "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 18,
+    "num_questions": 20,
+    "attribute_score": 90
+  }
+}

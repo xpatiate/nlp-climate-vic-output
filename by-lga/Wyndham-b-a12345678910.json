@@ -1,0 +1,323 @@
+{
+  "settings": {
+    "source_files": [
+      "Wyndham-2016-climate-adaptation-strategy.pdf",
+      "Wyndham-2018-Greenhouse-Action.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-14T15:41:08.358057",
+    "lga": "Wyndham"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy documents clearly indicate that climate action is a core purpose of the policy. The policy outlines a comprehensive approach to addressing climate change, including both mitigation and adaptation strategies. The policy includes specific actions to reduce emissions, manage water use, reduce urban heat, empower a resilient community, protect biodiversity, and build climate-resilient infrastructure. The policy also emphasizes the importance of integrating climate considerations into policy and strategy development processes. Furthermore, the policy acknowledges the need for a shared response from all levels of government, stakeholders, and the community to effectively manage the impacts of climate change. Therefore, it is evident that climate action is not just a component, but a central goal of the policy.",
+          "quote": {
+            "content": "While Wyndham is doing a lot already, the Climate Change Adaptation Strategy seeks to formalise our response and ensure we are systematically considering climate change in the work we do. In response Wyndham has undertaken actions to reduce our emissions alongside action to mitigate the risk of a changing climate.",
+            "page": 1,
+            "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the commitment of the local government to address climate change and reduce greenhouse gas emissions. The documents also mention the goal of reaching net zero greenhouse gas emissions by 2050. The local government recognizes the impact of climate change on most areas of council operations and functions, and the importance of integrating climate change considerations into relevant strategies and plans. The documents also outline the local government's adaptation strategy, which includes actions to manage climate risks, integrate climate change considerations into council policies and systems, foster community understanding and leadership around climate change impacts, and monitor and evaluate climate change risks and the effectiveness of actions taken. The documents also mention the need for urgent action on climate change, in line with the findings of the Intergovernmental Panel on Climate Change (IPCC) and the commitments of the Paris Agreement."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for urgent action on climate change. The documents highlight the critical state of global warming, citing the Intergovernmental Panel on Climate Change (IPCC) report that warns of the planet warming by an estimated 3-4°C, much higher than the 1.5-2°C pledged as part of the Paris agreement. The documents also emphasize the need for immediate action, stating that there are only 12 years left to limit global warming to a maximum of 1.5°C. The documents further underscore the urgency by stating that the next few years are probably the most important in our history. The local government's policy is to help Victoria reach net zero greenhouse gas emissions by 2050, indicating a commitment to urgent action. The documents also reveal that the majority of residents in the Western region believe that urgent action on climate change is required.",
+          "quote": {
+            "content": "In October 2018, the Intergovernmental Panel \non Climate Change (IPCC) released the report \nGlobal Warming on 1.5°C... The latest science tells us we need  \nto act urgently.",
+            "page": 9,
+            "source": "Wyndham-2018-Greenhouse-Action.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for intended actions on climate. The Wyndham 2016 Climate Adaptation Strategy outlines a number of actions with specific completion timings. For instance, it mentions an action to 'Investigate top priority buildings for opportunities and plan for increase tree plantings around buildings' with a completion timing of June 2020. Another action to 'Develop baseline and monitor climate impacts on road maintenance requirements' is also set for completion by June 2020. The Wyndham 2018 Greenhouse Action Plan also mentions a review and monitoring of the plan in 2020/2021. These specific timeframes indicate a sense of urgency in implementing and reviewing the actions outlined in the policy.",
+          "quote": {
+            "content": "Investigate top priority buildings for opportunities and plan for increase \ntree plantings around buildings \n \nJune 2020 \n12. Action \nCompletion \ntiming \n10.",
+            "page": 17,
+            "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline a comprehensive approach to addressing climate change, including the identification of adaptation priorities, the integration of climate change considerations into council policies and systems, and the monitoring of climate change risks and the effectiveness of actions taken. However, these actions are presented as part of a broader strategy, not as a response to a declared climate emergency that would supersede other policies. The documents also emphasize the importance of a collaborative approach, involving other government authorities and the community, suggesting that the climate change response is seen as one aspect of the council's overall responsibilities, rather than a singular priority."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do indicate that the council is taking steps to integrate climate change considerations into their policies, strategies, and planning schemes, and that they are undertaking projects to learn about effective adaptation strategies, there is no explicit requirement stated that all council activities must align with climate policy. The documents outline a number of actions and priorities related to climate change, including integrating climate considerations into policy and strategy development processes, monitoring climate change and adaptation actions' effectiveness, and building climate resilient infrastructure. However, these actions seem to be specific initiatives rather than a blanket requirement for all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does allocate funding for climate action, although the specifics of the funding are not clearly detailed. The policy mentions 'Existing Recurrent' as a source of funding for several actions related to climate change adaptation. For instance, the policy outlines that staff time, a critical resource in policy implementation, is included in the costs and is funded through 'Existing Recurrent' funds. This is mentioned in relation to integrating climate considerations into policy and strategy development processes, monitoring climate change and adaptation actions effectiveness, and undertaking regular knowledge sharing sessions with staff. However, the policy does not provide specific figures or a detailed breakdown of the funding allocation. Therefore, while it is clear that some funding has been allocated for climate action, the lack of detail makes it difficult to assess the adequacy of this funding."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate staff time to climate action. The policy outlines various actions related to climate change, such as integrating climate considerations into policy and strategy development, monitoring climate impacts on road maintenance and council buildings, and engaging with the community on climate change. In each of these actions, 'staff time' is explicitly mentioned as a cost, indicating that staff resources are being allocated to these climate actions. However, the policy does not provide specific details on the number of staff involved, the amount of time they will spend on these actions, or the specific roles they will play. Therefore, while the policy does allocate staff resources to climate action, the lack of detail makes it difficult to assess the adequacy of these resources."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is actively working to empower and educate the community on climate change. The policy outlines a two-way conversation model to build the capacity of the community to understand the potential range of impacts likely under climate change and to understand how the community is already adapting. The policy also includes plans for community engagement and the development of an engagement plan. The policy acknowledges the need for a collaborative approach with the community to manage the potential impacts of climate change. It also highlights the need to understand the current levels of capacity to deal with immediate risks such as heatwaves and to promote capacity so that the community can build self-reliance. The policy also indicates that the community is concerned about climate change and expects the local government to act.",
+          "quote": {
+            "content": " \nBuild our understanding of how our community is already adapting. Engaging with our community on climate change \n \nLeveraging Wyndham’s district planning model, we will facilitate a two way conversation to: \n \nBuild the capacity of our community to understand the potential range of impacts likely under climate change.",
+            "page": 22,
+            "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions are mentioned in the context of 'rapid advances in technology in the last 10 years, including lighting, renewable energy and storage batteries.' The plan also mentions the use of 'smart technologies' in projects, which could potentially include energy-efficient technologies. In terms of behaviour change, the plan mentions the need to 'avoid energy use' and 'reduce energy use', which implies efforts to change behaviours to reduce energy consumption. The plan also includes a commitment to 'monitor and report annually on Council's greenhouse gas emissions', which is a crucial part of any mitigation strategy. However, the plan could be improved by providing more specific details on the technological solutions and behaviour change strategies that will be implemented.",
+          "quote": {
+            "content": "Monitoring, Evaluation and Reporting\nMEASURING OUR SUCCESS In�2020/2021,�the�Greenhouse�Action�Plan�will�\nbe reviewed and new targets set towards our \nlong term goals, building on the successes and \nlearnings from the current plan.",
+            "page": 30,
+            "source": "Wyndham-2018-Greenhouse-Action.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The Climate Change Adaptation Strategy formalizes the response to climate change, with actions designed to reduce emissions and mitigate climate change risks. The strategy includes a number of projects aimed at learning about the most effective ways to adapt to climate change, with actions and responses embedded into council processes, policies, and planning schemes. The adaptation priorities have been determined through a rigorous climate change risk assessment. The strategy outlines actions that respond to identified climate risk priorities and also seek to build resilience within the municipality. These actions fall within key themes such as managing water use and urban heat reduction, empowering a resilient community, protecting biodiversity, building climate resilient infrastructure, and establishing adaptation excellence. Each theme has specific actions, responsibilities, and timeframes associated with it.",
+          "quote": {
+            "content": "Actions included in this Strategy respond to identified climate risk priorities but also seek to build resilience within our municipality.",
+            "page": 1,
+            "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions and strategies related to climate change adaptation, they do not provide specific, well-sourced evidence to justify these actions. The documents mention the need for actions such as trialling technologies to reduce the impacts of urban heat, engaging with the community, and building knowledge of climate projections. However, they do not provide specific evidence or sources to justify these actions or to explain how they will effectively address climate change. Furthermore, the documents do not provide clear, measurable targets related to climate change, making it difficult to assess the adequacy of their proposed actions. Therefore, based on the provided documents, it cannot be affirmed that the local government's planned actions are justified by well-sourced evidence."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a clear process for the development and implementation of actions, including setting objectives, developing risk context worksheets, and identifying adaptation actions. The plan also includes a monitoring and evaluation framework, which is designed to understand climate vulnerabilities and the effectiveness of actions. This framework is part of the Western Alliance for Greenhouse Action (WAGA) 'How well are we adapting?' project. The plan also includes actions to monitor climate impacts on road maintenance and building maintenance requirements, and to develop measures of cooling impacts from increased tree planting. These actions are designed to provide a baseline for understanding future climate change impacts, indicating a commitment to ongoing monitoring and evaluation. Therefore, the plan does include specific measurable criteria to evaluate the success of its proposed actions.",
+          "quote": {
+            "content": "The project is \ndeveloping a regional monitoring and evaluation framework to understand climate vulnerabilities \nand the effectiveness of actions. The Western Alliance for Greenhouse Action (WAGA) ‘How well are we adapting?’ Project \n \nWyndham is also involved in the WAGA How well are we adapting? project.",
+            "page": 18,
+            "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Wyndham City Council's Environment & Sustainability Department has developed a climate adaptation strategy that includes engaging with the community on climate change. This engagement is intended to build the community's capacity to understand the potential range of impacts likely under climate change and to understand how the community is already adapting. The strategy also includes plans to further embed climate change considerations in the revised Municipal Health, Wellbeing and Safety Plan, leveraging the information collected through the community engagement action. This approach indicates a commitment to informed action based on community input and research.",
+          "quote": {
+            "content": "Build our understanding of how our community is already adapting.",
+            "page": 22,
+            "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The Wyndham City Council's Climate Change Adaptation Strategy outlines a series of actions designed to address the impacts of climate change. These actions are not only reactive but also proactive, indicating a level of innovation in their approach. For instance, the strategy includes trialling urban heat mitigating actions within a council built carpark, investigating the benefits of urban cooling strategies, and engaging with the community on climate change. These actions suggest a willingness to experiment with different approaches and learn from these experiments to inform future policy and practice. The strategy also emphasizes the importance of building knowledge about climate projections and the impacts of climate change, which suggests a commitment to evidence-based policy making. Furthermore, the strategy outlines a process for monitoring and evaluating the effectiveness of these actions, which is a key aspect of policy experimentation.",
+          "quote": {
+            "content": "We will embed actions and responses into our council processes, policies and planning scheme that are built on the evidence collected.",
+            "page": 8,
+            "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+            "search_score": 0.93
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent by the local government to advocate upward to state and national governments to support climate action. While the documents do mention collaboration with other government and non-governmental stakeholders to manage climate risks and build the region’s capacity to adapt, they do not specify any intent to advocate for climate action at higher levels of government. The documents focus more on the local government's own strategies and actions to address climate change, such as integrating climate considerations into policy and strategy development processes, monitoring climate change and adaptation actions' effectiveness, and engaging with the community on climate change. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. The policy outlines a collaborative approach to managing the potential impacts of climate change, emphasizing the need to understand the current levels of capacity to deal with immediate risks such as heatwaves, and to promote capacity so that the community can build self-reliance. The policy also highlights the importance of engaging with the community to understand how they are already adapting to climate change and to build their capacity to understand the potential range of impacts likely under climate change. Furthermore, the policy encourages the integration of climate change considerations into council policies and systems, fostering community understanding and leadership around climate change impacts, and building on existing and developing new stakeholder relationships to establish a clear understanding of roles and responsibilities in relation to climate risks.",
+          "quote": {
+            "content": "We need to understand the current levels of capacity to deal with immediate risks such as heatwaves, but also promote capacity so that our community can build self-reliance, strengthening our community. Managing the potential impacts of climate change requires a collaborative approach, not only with other government authorities, but importantly with our community.",
+            "page": 12,
+            "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do refer to specific regional associations and alliances related to climate change. The Wyndham local government is working collaboratively with other government and non-government stakeholders to manage climate risks and build the region’s capacity to adapt. One such partnership is with the Western Alliance for Greenhouse Action (WAGA). The documents mention the implementation of the WAGA regional framework and the WAGA Adaptation Monitoring project. These references suggest that the local government is not only aware of the need for regional collaboration in addressing climate change but is actively participating in such efforts. The specific mention of WAGA indicates a concrete partnership aimed at climate change adaptation.",
+          "quote": {
+            "content": "Western Alliance for Greenhouse Action – How well are we adapting and regional Adaptation Plan.",
+            "page": 28,
+            "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. They identify that climate risks relating to the vulnerable are ranked highly due to the potentially deadly impacts of heatwaves on the elderly and sick. The documents also highlight that people more likely to be vulnerable to climate change include those that live alone, have difficult socio-economic circumstances, come from racial or ethnic groups, or those in aged care facilities. The interaction of age, illness, and income is identified as a strong determinant of vulnerability to climate change within Wyndham. The documents also outline plans to engage with the community to build their capacity to understand the potential range of impacts likely under climate change and to understand how the community is already adapting. This indicates a commitment to social justice by ensuring that vulnerable communities are not left behind in the adaptation process."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The documents do discuss the equitable sharing of benefits and opportunities in the context of climate change, although not in those exact terms. The policy outlines plans for community-based projects designed to provide financial savings to residents, particularly those from low socio-economic or vulnerable demographics. This suggests an intention to distribute the benefits of climate change mitigation and adaptation measures in a way that addresses social inequity. The policy also mentions the potential for these savings to stimulate economic growth and employment in the region, indicating an understanding of the broader opportunities that can arise from climate action. However, the documents do not provide specific details on how these benefits and opportunities will be equitably shared, and there is no explicit mention of 'equity and social justice' in the context of a safe climate.",
+          "quote": {
+            "content": "Savings to business has the potential to stimulate economic growth and employment in the region.",
+            "page": 10,
+            "source": "Wyndham-2018-Greenhouse-Action.pdf",
+            "search_score": 0.91
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 16,
+    "num_questions": 20,
+    "attribute_score": 84.2
+  }
+}

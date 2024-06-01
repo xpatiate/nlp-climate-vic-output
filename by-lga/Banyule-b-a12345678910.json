@@ -1,0 +1,310 @@
+{
+  "settings": {
+    "source_files": [
+      "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T13:03:43.653835",
+    "lga": "Banyule"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as its core purpose. The policy outlines a comprehensive plan to address climate change, with a focus on reducing emissions and adapting to a changing climate. The policy acknowledges the urgency of climate action, citing the United Nations warning that we have until 2030 to keep global temperature rise to a maximum of 1.5 degrees. The policy also outlines specific actions to be taken, such as embedding a culture of climate action within the Council, implementing a cultural change program, and establishing a Climate Action Steering Committee. These actions demonstrate a commitment to climate action at all levels of the Council. Furthermore, the policy includes a Monitoring, Evaluation, Reporting and Improvement (MERI) framework, which will allow for the effectiveness of the climate action measures to be assessed and improved upon. This further underscores the centrality of climate action to the policy.",
+          "quote": {
+            "content": "That’s the purpose of this plan.",
+            "page": 7,
+            "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It emphasizes the urgency of the situation, citing a warning from the United Nations that we have until 2030 to limit global temperature rise to a maximum of 1.5 degrees. The document also highlights the local impacts of climate change, noting that the climate in Banyule is becoming warmer and drier, with more extreme weather and heatwaves expected in the future. The document further underscores the need for action by stating that taking action now will reduce pressure on the Earth's vital ecosystems. It also outlines a plan for action, including the establishment of a Climate Action Steering Committee, fostering collaboration and innovation across the organization, and implementing a cultural change program to embed climate action as a responsibility of all staff.",
+          "quote": {
+            "content": "The United Nations has warned that we have just a decade, until 2030, to keep global temperature rise to a maximum of 1.5 degrees.",
+            "page": 7,
+            "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. The local government of Banyule has recognized the state of climate emergency and the need for immediate action from all levels of government, including local councils. This is evident in their declaration of a climate emergency in October 2019, which signifies their commitment to urgent action to reduce emissions and mitigate the effects of climate change. The documents also outline a plan for the next four years, indicating a sense of urgency in implementing actions to reduce emissions. The plan includes a range of actions, such as the establishment of a Climate Action Steering Committee, the implementation of a cultural change program across the Council, and the identification of best practice tools and techniques for embedding a culture of climate action within the Council. These actions are designed to be implemented immediately or in the near future, further emphasizing the urgency of the situation.",
+          "quote": {
+            "content": "Banyule Council recognise that we are in a state of climate emergency which requires urgent action by all levels of government, including local councils.",
+            "page": 4,
+            "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+            "search_score": 0.93
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a plan for the years 2020-2023, indicating a clear timeframe for the actions it intends to take. The document also mentions the establishment of an annual implementation plan, which suggests a yearly review and update of the actions. Furthermore, the document details specific actions such as 'Climate action culture' to be implemented in 'Year 1' and a 'Culture change program' to be implemented 'Ongoing'. The document also mentions the establishment of a Climate Action Steering Committee as an ongoing action. Therefore, the document does provide specific timeframes for its intended actions on climate change.",
+          "quote": {
+            "content": "This plan: \n2020-2023\nNext plan: \n2024-2027\nCommunity Climate  \nAction Plan\nCouncil operations\nBanyule municipality\nACTIONS FOR ZERO NET EMISSIONS",
+            "page": 8,
+            "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government recognizes the urgency of climate change and has declared a climate emergency, they do not explicitly state that this policy should take precedence over all others. The documents outline a number of actions and strategies to address climate change, including a commitment to reduce emissions, a plan to become completely electrified in stationary energy use before 2030, and the establishment of a Climate Action Steering Committee. However, these actions are presented as part of a comprehensive approach to addressing climate change, rather than as a policy that should supersede all others."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a number of initiatives and strategies aimed at promoting a culture of climate action within the council. These include the establishment of a Climate Action Steering Committee, the implementation of a cultural change program, and the identification of best practice tools and techniques for embedding a culture of climate action within the council. The documents also mention the need for all staff to participate in these efforts and for climate action to become the new norm. However, these are general statements about the council's intentions and do not constitute a clear directive that all council activities must be aligned with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's plan does explicitly allocate funding for climate action. The plan outlines a series of actions to be taken over a four-year period (2020-2023), each with a specified timeframe, cost, and funding source. The funding sources are categorized as 'Existing', 'New', or a combination of both. For instance, the plan includes the establishment of a Monitoring, Evaluation, Reporting and Improvement (MERI) framework, which is funded from existing resources. Similarly, the plan outlines the implementation of a cultural change program across the Council, which is funded from new resources. The plan also includes actions to support renewable energy, such as investigating alternative procurement options, which are funded from new resources. Therefore, the plan does allocate funding for climate action, both from existing and new resources.",
+          "quote": {
+            "content": "Support staff to undertake climate action \nwithin their own roles. Action\nDescription\nTimeframe Funding Cost\n1.1 Climate \naction culture\nIdentify best practice tools and techniques \nfor embedding a culture of climate action \nwithin the Council. Year 1\nExisting\nnil\n1.2 Culture \nchange program\nImplement a cultural change program across \nthe Council, embedding climate action as an \nall of staff responsibility.",
+            "page": 41,
+            "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a number of actions that involve the mobilisation of staff and institutional resources. For instance, the plan includes the establishment of a Climate Action Steering Committee to guide the implementation of new climate action projects and increase collaboration between departments. This suggests that staff time and expertise will be allocated to this committee. Additionally, the plan outlines a cultural change program across the Council, embedding climate action as a responsibility of all staff. This implies that staff will be expected to incorporate climate action into their roles, which is a significant allocation of human resources. Furthermore, the plan includes the development of actions for new priority areas such as waste, business travel, paper use, and water use, which will likely require the allocation of staff resources for research, planning, and implementation.",
+          "quote": {
+            "content": "Support staff to undertake climate action within their own roles.",
+            "page": 41,
+            "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of the local government actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy documents focus primarily on the actions of the local government itself, such as establishing a Climate Action Steering Committee, fostering collaboration and innovation within the organisation, and implementing a cultural change program across the Council. While these actions may indirectly influence the community by setting an example and creating a culture of climate action, they do not directly involve the community or provide them with tools or education to take action themselves. Therefore, the question cannot be answered in the affirmative based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions, incorporating both technological solutions and behaviour change. The plan outlines a staged approach to actions, with a focus on electrifying Council assets to leverage renewable energy and delivering efficiency actions such as energy efficiency in buildings. This indicates a clear technological strategy for reducing emissions. The plan also includes a cultural change program across the Council, embedding climate action as an all-staff responsibility, which signifies a behavioural change approach. Over the next four years, 30 key actions will be implemented, focusing on shifting buildings and vehicles off technology that relies on fossil fuels to clean, renewable energy, reducing energy use, and improving the way energy is used. These actions demonstrate a comprehensive approach to mitigating greenhouse gas emissions.",
+          "quote": {
+            "content": "Recognising this, we will address our highest emitting activities in the first instance and become completely electrified in our stationary energy use well before 2030.",
+            "page": 18,
+            "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents do not contain specific actions for climate adaptation and resilience. The focus of the policy appears to be on reducing emissions and achieving a net-zero target, with actions such as fostering a climate action culture, implementing a cultural change program, and establishing a Climate Action Steering Committee. The policy also outlines a technical approach to achieving these goals, which includes an emergency scale response and a staged approach to actions. However, these actions are geared towards mitigation efforts, not adaptation or resilience. While the policy acknowledges the need for climate action due to increasing temperatures and extreme weather events, it does not provide specific strategies or actions to adapt to these changes or enhance resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a plan for achieving zero net emissions, it does not provide specific sources or data to support its targets or the effectiveness of its proposed actions. The policy mentions the use of SMART (Specific, Measurable, Agreed upon, Realistic, and Time-bound) goals and a monitoring, evaluation, reporting, and improvement (MERI) framework, but it does not detail how these will be applied or what specific metrics will be used. The policy also mentions the need for climate action and the consequences of inaction, but it does not cite specific sources or data to support these claims. Therefore, while the policy outlines a plan for climate action, it does not provide well-sourced evidence to justify its targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a Monitoring, Evaluation, Reporting and Improvement (MERI) framework, which is designed to track progress towards the zero net emissions target. This framework will be used to identify the effectiveness of carbon abatement actions and areas for improvement. The plan also mentions the use of SMART goals (Specific, Measurable, Agreed upon, Realistic, Time bound) to assist in tracking and oversight of performance. Furthermore, the plan includes a summary table for each area of action, indicating when the action will be undertaken, whether funding has been assigned, and a high-level indication of the cost of the action. This level of detail suggests a commitment to measurable criteria and a structured approach to evaluating the success of the plan's actions.",
+          "quote": {
+            "content": "Report on key progress on the anniversary of the climate action resolution (mid December of each year). Establish an annual implementation plan, identifying cost and benefits ($ and emission reductions). Identify areas for improvement.",
+            "page": 44,
+            "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy outlines a process for developing a plan, which includes understanding existing climate actions in Banyule policies and strategies, understanding best practice from other councils, and developing a long list of emission reduction actions based on those taking place in Banyule and other councils. However, this process does not explicitly mention conducting research in the local community. The policy also mentions the establishment of a Climate Action Steering Committee to guide the implementation of new climate action projects and increase collaboration between departments, but it does not specify that this committee will conduct research in the local community. Therefore, the question cannot be answered in the affirmative based on the provided context."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The document does show evidence of innovation and policy experimentation in climate action. The local government has outlined a comprehensive plan for climate action, which includes a variety of innovative strategies. For instance, the plan includes the establishment of a Climate Action Steering Committee to guide the implementation of new climate action projects and foster collaboration across the organization. This suggests an innovative approach to policy implementation, as it involves multiple departments and stakeholders in the process. The plan also includes a Monitoring, Evaluation, Reporting and Improvement (MERI) framework, which will allow the government to track the effectiveness of their actions and identify areas for improvement. This shows a commitment to continuous improvement and policy experimentation, as it allows for the adjustment and refinement of strategies based on their performance. Furthermore, the plan includes a range of specific actions, such as the implementation of a cultural change program and the development of zero net emissions buildings, which suggest a willingness to experiment with new and innovative approaches to climate action.",
+          "quote": {
+            "content": "A monitoring, evaluation, reporting and improvement (MERI) framework will provide the basis for us to understand how we are tracking against our ambitious zero net emissions target.",
+            "page": 38,
+            "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The policy focuses primarily on local actions and initiatives, such as establishing a Climate Action Steering Committee, fostering collaboration and innovation across the organization, and implementing a cultural change program within the Council. The policy also outlines the need for climate action and the consequences of inaction, but it does not explicitly state that the local government will advocate to higher levels of government for support in climate action. The policy does mention the Paris Climate Change Agreement and Australia's national target to reduce emissions, but this is more of a contextual reference rather than an explicit intent to advocate to state and national governments."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a collaborative approach, emphasizing the role of all staff members in climate action and fostering collaboration and innovation across the organization. It also mentions the establishment of a Climate Action Steering Committee to guide the implementation of new climate action projects and increase collaboration between lead departments. Furthermore, the policy encourages a culture change program across the council, embedding climate action as an all-staff responsibility. This approach is indicative of an effort to build capacity within the council itself. However, the documents do not provide specific details on how the council plans to build capacity within local communities and neighbouring councils.",
+          "quote": {
+            "content": "We are taking a collaborative approach, working across our departments, as well as closely with our community and other Councils in the region. We recognise that reaching our carbon neutrality target is both a cultural and technical task. We recognise that reaching our carbon neutrality target is both a cultural and technical task. Everyone in Council plays a part.",
+            "page": 4,
+            "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate action. The policy does emphasize the importance of collaboration and coordination within the local government, particularly through the establishment of a Climate Action Steering Committee and fostering a culture of climate action across all departments. However, these efforts appear to be internally focused, with no explicit mention of external partnerships or alliances. The policy also outlines plans for leading in planning for, and responding to, climate change, but again, no specific external entities are named in this context. Therefore, based on the provided documents, it cannot be affirmed that the policy refers to specific regional associations, alliances, or other partnerships related to climate."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do acknowledge the need for urgent action to mitigate the effects of climate change and outline a plan for reducing emissions, they do not specifically address how climate change might disproportionately affect certain communities. The documents focus primarily on the local government's commitment to reducing emissions and the technical and cultural steps necessary to achieve this goal. They also highlight the potential consequences of climate change, such as increased heatwaves and other extreme weather events, but do not link these consequences to impacts on vulnerable communities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy outlines various actions and strategies to combat climate change and reduce emissions, it does not delve into the distribution of benefits and opportunities that may arise from these actions. The policy emphasizes collaboration, continuous improvement, and innovation across the organization, and it also mentions the need for a culture of climate action within the Council. However, these points do not directly address the question of equity and social justice in the context of climate change benefits and opportunities. Therefore, based on the provided documents, the question cannot be answered positively."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 10,
+    "num_questions": 20,
+    "attribute_score": 48.3
+  }
+}

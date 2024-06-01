@@ -1,0 +1,305 @@
+{
+  "settings": {
+    "source_files": [
+      "Maroondah-2018-climate-risk-adaptation.pdf",
+      "Maroondah-sustainability-strategy-2022-2031.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T21:35:13.456678",
+    "lga": "Maroondah"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy documents clearly indicate that climate action is a core purpose of the local government's policy. The policy outlines a comprehensive approach to addressing climate change, including both mitigation and adaptation strategies. The policy objectives include reducing greenhouse gas emissions, building resilience in infrastructure and communities, and managing natural resources to promote their resilience. The policy also outlines specific actions to be taken, such as planning for climate change risks, seeking partnerships for climate change adaptation, and using the natural environment to build adaptive capacity. The policy also emphasizes the importance of 'leading by example' and working together with others to adapt to the challenges of a changing climate. Therefore, it is evident that climate action is not just a component, but a central goal of the policy.",
+          "quote": {
+            "content": "The policy objectives of this Act are—  \n(a) to reduce the State's greenhouse gas emissions consistently with the long-term emissions reduction \ntarget and interim emissions reduction targets; and  \n(b) to build the resilience of the State's infrastructure, built environment and communities through \neffective adaptation and disaster preparedness action; and  \n(c) to manage the State's natural resources, ecosystems and biodiversity to promote their resilience;",
+            "page": 7,
+            "source": "Maroondah-sustainability-strategy-2022-2031.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the importance of understanding and managing the risks and impacts of climate change, with the Melbourne Metropolitan Planning Strategy (Plan Melbourne 2017-2050) emphasizing the need for Melbourne to become a low-carbon city designed to cope with climate change effects. The Maroondah 2018 Climate Risk Adaptation document outlines the community's desire for the Council to 'lead by example' in adapting to climate change challenges. The Maroondah Sustainability Strategy 2022-2031 further emphasizes the need to embed climate change thinking into Council projects, operations, planning, and strategies, and to improve climate education across Council staff and the community. The documents also highlight the need for proactive management of climate change risks and the importance of early planning to reduce impacts.",
+          "quote": {
+            "content": "The Melbourne Metropolitan Planning Strategy (Plan Melbourne 2017-2050) identifies that the Melbourne of 2050 needs to have become a low-carbon city designed to cope with the effects of climate change.",
+            "page": 10,
+            "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents do call for urgent action on climate change, although the language used is not always explicitly urgent. The policy outlines a proactive approach to managing the risks associated with climate change, emphasizing the need for early planning to reduce impacts. The policy also calls for the integration of climate change thinking into Council projects, operations, planning, and strategies, using climate science to act with urgency. This suggests a recognition of the need for immediate action. Furthermore, the policy outlines the need to adapt Council's practices to future climate scenarios, which implies a sense of urgency given the accelerating impacts of climate change. However, the policy does not provide specific timelines or deadlines for these actions, which could have underscored the urgency more effectively."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents outline various strategies and plans for addressing climate change, such as embedding climate change thinking into Council projects, improving climate education, and adapting practices to future climate scenarios, they do not provide explicit deadlines or schedules for these actions. The documents emphasize the importance and urgency of addressing climate change, but they do not specify the exact timeframes within which these actions should be completed. Therefore, it is not possible to affirm that the document gives specific timeframes for its intended actions on climate change based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government is taking climate change seriously and has implemented a range of strategies to address it, there is no explicit statement prioritizing these actions over other policies. The documents discuss the importance of climate change adaptation and mitigation, the need for community engagement and education, and the intention to reduce greenhouse gas emissions. They also outline specific strategies and actions, such as improving climate education, maintaining the council's carbon neutral status, and planning for climate change risks. However, these are presented as part of the council's overall responsibilities and objectives, rather than as a higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the importance of integrating climate change thinking into council projects, operations, planning, and strategies, and mention the need for climate change adaptation and risk management, they do not explicitly mandate that all council activities must align with climate policy. The documents also mention the development of a Climate Change Plan to guide council and community actions, but again, this does not explicitly require all council activities to align with this plan or broader climate policy. Therefore, while the documents suggest a strong commitment to addressing climate change, they do not provide clear evidence that all council activities must be aligned with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents outline various strategies, objectives, and actions related to climate change adaptation and mitigation, there is no specific mention of budget allocation or funding sources for these initiatives. The documents emphasize the importance of climate change adaptation, the need for collaboration with various stakeholders, and the integration of climate change considerations into council projects, operations, planning, and strategies. However, without explicit mention of funding allocation, it is unclear how these initiatives will be financially supported. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does allocate non-monetary institutional resources to climate action. The policy outlines the need for staff involvement in various aspects of climate action, including climate education, data collection, spatial planning, and GIS capacity. The policy also mentions the establishment of a cross-directorate team to monitor progress, which implies the allocation of staff resources. Furthermore, the policy emphasizes the importance of fostering a culture of innovation, cooperation, commitment, communication, and continuous improvement within the council, which suggests an institutional commitment to climate action. However, the policy does not provide specific details on the number of staff allocated, their roles, or the time they are expected to dedicate to these tasks."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy outlines a number of initiatives aimed at fostering community engagement and action on climate change. For instance, the policy mentions the 'Solar Savers' program, which supports local pensioners to install solar with no upfront costs, and the 'Let’s Get Ready' project, which engages youth in preparedness education, including climate change impacts. The policy also highlights the importance of community feedback in shaping the local government's climate change strategy. Furthermore, the policy outlines plans to improve climate education across Council staff and the community, and to investigate the creation of sustainable communities with active community leaders to develop locally-led sustainability initiatives. These initiatives demonstrate a clear commitment to social mobilisation in the context of climate action.",
+          "quote": {
+            "content": "Council was an initiating project partner of the ‘Let’s Get Ready’ project in 2016, to engage youth in preparedness education, including climate change impacts.",
+            "page": 27,
+            "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to both technological solutions and behaviour change. Technological solutions are evident in the plan's intention to maintain the Council's carbon neutral status and to support residents and businesses in reducing their carbon emissions. This is further supported by programs such as Solar Savers and Council’s Environmental Upgrade Agreements, which aim to enhance environmentally sustainable design practices and reduce building emissions. Behaviour change is encouraged through the plan's commitment to improve climate education across Council staff and the community. The plan also aims to adapt Council’s practices to future climate scenarios and further embed climate change thinking into Council projects, operations, planning, and strategies. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions, including both technological solutions and behaviour change.",
+          "quote": {
+            "content": "The plan will also highlight the role of climate change adaptation and risk management to ensure the safety and security for the municipality and include actions to further embed adaptation into Council’s operations and infrastructure, and support building community resilience to climate change. This Climate Change Plan will address climate change mitigation and greenhouse gas emissions, outlining actions Council will take to achieve emissions reduction targets.",
+            "page": 18,
+            "source": "Maroondah-sustainability-strategy-2022-2031.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a proactive approach to managing the risks associated with climate change, with strategies and actions aimed at moving towards climate-resilient pathways for sustainable development. The plan also emphasizes the importance of early planning for climate change to help reduce impacts. The plan includes 25 key directions to assist the Council in achieving a climate-adapted Maroondah, with a detailed Action Plan to complement these. The plan also outlines the roles and responsibilities of local governments in managing climate change risks, including developing and delivering locally-appropriate adaptation responses, building the resilience of local assets and services, and planning for emergency management at the municipal level. The plan also includes a commitment to review the strategy every two years to track implementation progress, evaluation, continuous improvement, and when further review is required.",
+          "quote": {
+            "content": "The preparation of a detailed Action Plan will complement these. The plan includes 25 key directions to assist Council to move towards achieving a climate adapted Maroondah.",
+            "page": 4,
+            "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide well-sourced evidence to justify its climate targets and actions. The local government's climate change policy is based on data from reputable sources such as the Intergovernmental Panel on Climate Change (IPCC), the national science body CSIRO, and the Bureau of Meteorology. The policy also aligns with the Melbourne Metropolitan Planning Strategy (Plan Melbourne 2017-2050) and Victoria’s Climate Change Adaptation Plan 2017-2020. The policy outlines specific actions such as reducing the State's greenhouse gas emissions, building the resilience of the State's infrastructure, and managing the State's natural resources. The policy also includes a detailed breakdown of roles and responsibilities for managing the impacts and risks of climate change. Furthermore, the policy includes a commitment to ongoing monitoring and evaluation of progress, indicating a commitment to evidence-based decision making.",
+          "quote": {
+            "content": "The Melbourne Metropolitan Planning Strategy (Plan Melbourne 2017-2050) identifies that the Melbourne of 2050 needs to have become a low-carbon city designed to cope with the effects of climate change. The Plan identifies roles and responsibilities for managing the impacts and risks of climate change. A detailed breakdown is included in Appendix A.",
+            "page": 10,
+            "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a number of 'Indicators of progress' which serve as measurable criteria for evaluating the success of the plan's actions. For instance, in the area of climate change, the plan mentions 'Delivery of a Climate Change Plan and updated emissions reduction targets' and 'Retention of Council’s carbon neutral status' as indicators of progress. Similarly, in the area of green infrastructure, 'Canopy coverage' is mentioned as an indicator of progress. These indicators provide a clear, measurable way to assess whether the plan's actions are achieving their intended outcomes. Therefore, the plan does include specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has undertaken significant community engagement in the preparation of their Climate Change Risk and Adaptation Strategy. This engagement includes a discussion paper, an online survey, Council’s Café Consult marquee at the 2016 Maroondah Festival, and meetings with key stakeholders. The feedback from these engagements is used to inform the local government's climate change policies and strategies. Furthermore, the local government has a commitment to improve climate education across Council staff and the community, which suggests an ongoing effort to research and understand the local community's needs and perspectives on climate change. This approach ensures that the local government's climate actions are informed by the local community's experiences and needs.",
+          "quote": {
+            "content": "Council received 138 \nwritten responses to questions posed. This was done through a range of methods including:\n•� A discussion paper (Maroondah City Council 2016) which drew together a range of \nresearch and data on climate change adaptation in Maroondah. •� An online survey. •� Council’s Café Consult marquee at the 2016 Maroondah Festival.",
+            "page": 24,
+            "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. While the local government has outlined a number of strategies and plans to address climate change, these largely involve traditional methods such as reducing greenhouse gas emissions, improving climate education, and adapting existing practices to future climate scenarios. The documents mention the use of climate science and the need for urgency, as well as the importance of collaboration and community engagement. However, these are standard approaches in climate change policy and do not necessarily indicate innovation or experimentation. The documents also refer to the development of a detailed Action Plan and the tracking of progress, but again, these are common elements of policy implementation and do not suggest a novel or experimental approach. Therefore, based on the provided documents, it cannot be affirmed that there is evidence of innovation and policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The local government's policy outlines a commitment to work in partnership with other government agencies, businesses, and community members to advocate for and deliver green infrastructure within projects in Maroondah. This is indicative of an intent to engage in advocacy at higher levels of government. Furthermore, the policy also mentions the local government's support for the mid-2016 local government workshops on the development of Victoria’s Climate Change Adaptation Plan 2017-2020. This participation in state-level initiatives further demonstrates an intent to advocate for climate action at the state level. Therefore, the documents provide clear evidence of an intent to advocate for climate action at both state and national levels."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents indeed encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a proactive approach to managing the risks associated with climate change, with a focus on early planning to reduce impacts. It emphasizes the importance of partnerships and collaboration with stakeholders and the community in supporting climate change adaptation. The policy also highlights the role of local government in providing leadership and good governance, representing the needs and values of local communities, and fostering community cohesion. The policy further encourages the integration of climate change risk management and adaptation into council operations and infrastructure, and supports building community resilience to climate change. The policy also advocates for the use of the natural environment to build adaptive capacity and encourages future-proofing design to adapt to change and respond to current and future risks."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The Eastern Alliance for Greenhouse Action (EAGA) is mentioned multiple times as a significant collaborative effort. EAGA is a formal collaboration of eight councils in Melbourne's east, working together on regional programs that reduce greenhouse gas emissions and facilitate regional adaptation. The documents also mention the Maroondah Environment Advisory Committee, which advises the Council on environmental and sustainability issues. Furthermore, the documents refer to the collaboration with the Victorian Government and the community in managing the impacts and risks of climate change. These partnerships and alliances are crucial in the Council's efforts to address climate change, as they allow for shared resources, knowledge, and coordinated action.",
+          "quote": {
+            "content": "EAGA is a formal collaboration of eight Councils in Melbourne’s east, working together on regional programs that reduce greenhouse gas emissions and facilitate regional adaptation. Input was also obtained from the Eastern Alliance for Greenhouse Action (EAGA) of which Council is a member.",
+            "page": 8,
+            "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. They highlight that vulnerable people in the community, including those who already receive community care, the sick and disabled, indigenous, low income, socially isolated, the elderly and very young, and CALD communities, are at greater risk of sickness, death, and significant financial and social impacts from climate change. This includes impacts from heat, heatwaves, and the urban heat island effect. The documents also note that those with poor quality housing face increased vulnerability to heatwaves. The documents further emphasize that reduced Council services during heatwave events pose health risks to vulnerable members of the community. Therefore, the documents clearly recognize the disproportionate impact of climate change on vulnerable communities and the need for policies and actions that address these impacts.",
+          "quote": {
+            "content": "Those with poor quality housing also face increased vulnerability to heatwave. Vulnerable people in the community are at greater risk of sickness, death and significant financial and social impacts from climate change, including heat, heatwaves and the urban heat island effect. This includes those who already receive community care, the sick and disabled, indigenous, low income, socially isolated, the elderly and very young and CALD communities.",
+            "page": 27,
+            "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While the documents do mention the concept of 'intergenerational equity considerations' and the importance of 'fairness of justice between generations', they do not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The documents focus more on the strategies and actions to mitigate and adapt to climate change, such as upscaling stormwater reuse, enhancing energy efficiency, adopting integrated transport, and fostering urban greening. However, these strategies are not explicitly linked to the equitable sharing of benefits and opportunities. Therefore, based on the provided documents, it cannot be affirmed that there is a clear plan or policy for the equitable sharing of the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 72.5
+  }
+}

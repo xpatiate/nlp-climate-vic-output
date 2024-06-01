@@ -1,0 +1,1397 @@
+{
+  "attribute": 2,
+  "question": 2,
+  "finding": true,
+  "num": 141,
+  "responses": [
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the vulnerability of the region's natural environment, economic prosperity, and community health to the impacts of climate change. The documents underscore the urgency of immediate mitigation measures to minimize the Council's Greenhouse Gas (GHG) emissions. The documents also acknowledge the irreversible impacts of climate change evident in recent weather events and projected further extreme weather events. The Council is committed to reducing GHG emissions from its own operations to net zero by July 2023. The documents also mention the development of a Climate Adaptation and Resilience Plan to address these threats of a changing climate to Council’s assets, community townships, and the municipality as a whole.",
+      "source": "Alpine-a-a12345678910.json",
+      "lga": "Alpine",
+      "quote": {
+        "content": "Council is committed to taking immediate mitigation measures – actions that will minimise Council’s Greenhouse Gas (GHG) emissions. The Alpine Shire Council (Council) recognises that the beauty and diversity of our region’s natural environment is fundamental to the prosperity of the local community, making the region incredibly susceptible to the impacts of climate change. The predicted changing weather patterns pose a significant threat to the natural and built environment, economic prosperity and community health.",
+        "page": 2,
+        "source": "Alpine-2021-climate-action-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The Alpine Shire Council recognizes the vulnerability of the region's natural and built environment, economic prosperity, and community health to climate change. The Council is committed to taking immediate mitigation measures to minimize its greenhouse gas emissions. The documents highlight the predicted changing weather patterns that pose a significant threat to the natural and built environment, economic prosperity, and community health. The Council's Climate Action Plan supports commitments at all levels of government, including international and state commitments to mitigate the risk of climate change. The Council has set an ambitious target of achieving net zero greenhouse gas emissions from Council operations by July 2023. The documents also mention the development of a Climate Adaptation and Resilience Plan to ensure Council assets, and the community, are climate-ready by addressing the consequences and impacts of changing weather patterns.",
+      "source": "Alpine-b-a12345678910.json",
+      "lga": "Alpine",
+      "quote": {
+        "content": "The Alpine Shire Council (Council) recognises that the beauty and diversity of our region’s natural environment is fundamental to the prosperity of the local community, making the region incredibly susceptible to the impacts of climate change.",
+        "page": 2,
+        "source": "Alpine-2021-climate-action-plan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It highlights the adverse effects of climate change on the region's biodiversity, ecology, agriculture, tourism sectors, energy supply, urban form, and water supply. It emphasizes the critical role of communities and governments in reducing the future risk of catastrophic and irreversible climate change by reducing emissions. The document also aligns with the Paris Agreement commitment, which aims to keep global warming below 1.5°C higher than pre-industrial levels. The document further outlines the City of Ballarat's plan to achieve net zero emissions by 2030, which includes actions in business, homes, new developments, transport, and waste. The plan also includes monitoring, reporting, and review mechanisms to track progress and make necessary adjustments.",
+      "source": "Ballarat-a-a12345678910.json",
+      "lga": "Ballarat",
+      "quote": {
+        "content": "In addition to adapting to these environmental changes, it is critical that communities and governments of all types respond by reducing the future risk of catastrophic and irreversible climate change by reducing emissions. In the Central Western region of Victoria, the impacts of climate change will adversely affect the region’s biodiversity and ecology, agriculture, nature-based tourism sectors, energy supply, urban form and water supply.",
+        "page": 5,
+        "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It highlights the adverse effects of climate change on the region's biodiversity, ecology, agriculture, tourism sectors, energy supply, urban form, and water supply. It emphasizes the critical role of communities and governments in reducing the future risk of catastrophic and irreversible climate change by reducing emissions. The document also aligns with the Paris Agreement commitment, which aims to keep global warming below 1.5°C higher than pre-industrial levels. The document further outlines the City of Ballarat's aspiration to become a net zero emissions city and municipality by 2030, indicating a clear need for action on climate change.",
+      "source": "Ballarat-b-a12345678910.json",
+      "lga": "Ballarat",
+      "quote": {
+        "content": "In addition to adapting to these environmental changes, it is critical that communities and governments of all types respond by reducing the future risk of catastrophic and irreversible climate change by reducing emissions. In the Central Western region of Victoria, the impacts of climate change will adversely affect the region’s biodiversity and ecology, agriculture, nature-based tourism sectors, energy supply, urban form and water supply.",
+        "page": 5,
+        "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It emphasizes the urgency of the situation, citing a warning from the United Nations that we have until 2030 to limit global temperature rise to a maximum of 1.5 degrees. The document also highlights the local impacts of climate change, noting that the climate in Banyule is becoming warmer and drier, with more extreme weather and heatwaves expected in the future. The document further underscores the need for action by stating that taking action now will reduce pressure on the Earth's vital ecosystems. It also outlines a plan for the local government to lead in planning for, and responding to, climate change, with specific actions and targets set for the next four years.",
+      "source": "Banyule-a-a12345678910.json",
+      "lga": "Banyule",
+      "quote": {
+        "content": "The United Nations has warned that we have just a decade, until 2030, to keep global temperature rise to a maximum of 1.5 degrees.",
+        "page": 7,
+        "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It emphasizes the urgency of the situation, citing a warning from the United Nations that we have until 2030 to limit global temperature rise to a maximum of 1.5 degrees. The document also highlights the local impacts of climate change, noting that the climate in Banyule is becoming warmer and drier, with more extreme weather and heatwaves expected in the future. The document further underscores the need for action by stating that taking action now will reduce pressure on the Earth's vital ecosystems. It also outlines a plan for action, including the establishment of a Climate Action Steering Committee, fostering collaboration and innovation across the organization, and implementing a cultural change program to embed climate action as a responsibility of all staff.",
+      "source": "Banyule-b-a12345678910.json",
+      "lga": "Banyule",
+      "quote": {
+        "content": "The United Nations has warned that we have just a decade, until 2030, to keep global temperature rise to a maximum of 1.5 degrees.",
+        "page": 7,
+        "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provided clearly articulate the need for action on climate change. The Climate Change Action Plan 2020 - 2030 outlines a comprehensive approach to addressing climate change at the local government level. The plan acknowledges the climate emergency and emphasizes the need for immediate action, with foundational and high impact actions prioritized. The plan also recognizes the role of the community in climate action, with tailored priority actions designed for households, businesses, organizations, and the agricultural sector. The plan further outlines the need to monitor and evaluate the effectiveness of the actions and their implementation, highlighting the importance of accountability and transparency in this process. The rationale for action is also clearly stated, with climate change posing very real risks for the Council and the land and infrastructure it manages. The plan aims to quantify these risks, prioritize those that require further attention, and establish a process for managing these higher priority risks effectively.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "The context of the climate emergency dictates that the work starts immediately, with foundational and high impact actions prioritised. The Council and the community actions in this Plan have been developed through a detailed assessment process to ensure they are technically feasible, economically beneficial and socially desirable and cover the period 2020 to 2030.",
+        "page": 7,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provided do explicitly explain the need for action on climate change. The Climate Change Action Plan 2020 - 2030 outlines a comprehensive approach to addressing climate change at the local government level. The plan acknowledges the climate emergency and emphasizes the need for immediate action. It outlines specific, time-bound actions for the council, households, businesses, industry, and the agricultural sector. The plan also includes a monitoring framework to ensure effective and efficient delivery of the actions. The rationale for these actions is clearly stated, with the plan noting the very real risks posed by climate change to the council and the land and infrastructure it manages. The plan also highlights the economic benefits of climate action, noting that many actions require small financial investments but are primarily driven using existing resources. Furthermore, the plan emphasizes the role of the community in climate action and encourages community members to take immediate and medium-term actions.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It presents the 'Climate Emergency Action Plan' as a response to the declared 'Climate Emergency', which signifies the urgency for meaningful action on human-induced climate change at all levels of government, including local government. The document also emphasizes the importance of responding to the impacts of climate change through initiatives to both reduce greenhouse gas emissions and adapt to the impacts of a changing climate. The plan includes specific actions, such as updating procurement policies to address climate change impacts and embedding the climate emergency into all staff roles and responsibilities. The document also highlights the need for long-term resourcing decisions that consider the future cost of inaction or inadequate action on climate change.",
+      "source": "Bayside-a-a12345678910.json",
+      "lga": "Bayside"
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It outlines the purpose of the Climate Emergency Action Plan, which is to identify actions the Council will take to respond to the Climate Emergency and to support the local community in reducing their environmental impact. The plan includes actions to both minimize greenhouse gas emissions (mitigation) and reduce vulnerability (adaptation) to the impacts of climate change. The document also emphasizes the Council's role as a leader and advocate for change across other tiers of government, and its role to encourage and facilitate community participation and collaboration. The document also mentions the declaration of a 'Climate Emergency' which recognizes the need for urgent, meaningful action on human-induced climate change at all levels of government, including local government.",
+      "source": "Bayside-b-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "The Plan includes actions to both minimise greenhouse gas emissions (mitigation) and reduce vulnerability (adaptation) to the impacts of climate change. The purpose of this Plan is to identify actions Council will take to respond to the Climate Emergency, as well as support our local community to take action to reduce impact on the environment.",
+        "page": 33,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They acknowledge the reality of climate change, attributing it largely to human-induced greenhouse gas emissions. The documents also highlight the complexity of the risks posed by climate change across all areas of community development, economic development, and environmental and natural resource health. The local government's response to these risks is outlined in their Environment Strategy, which includes the implementation of a Climate Change Adaptation Action Plan. This plan is designed to help the council and community adapt to the impacts of climate change and reduce greenhouse gas emissions. The documents also note the importance of regular updates to this plan, indicating an understanding of the ongoing and evolving nature of climate change challenges.",
+      "source": "Benalla-a-a12345678910.json",
+      "lga": "Benalla"
+    },
+    {
+      "answer": "The document does explicitly explain the need for action on climate change. It acknowledges climate change as a significant driver of change and challenge across all areas of community development, economic development, and environmental and natural resource health. The document also recognizes the human-induced nature of climate change and the consensus within the scientific community regarding its reality and impacts. The document further outlines the local government's commitment to implementing a Climate Change Adaptation Action Plan, which is updated every five years. This plan includes defined, measurable actions designed to meet specific outcomes, indicating a clear recognition of the need for action on climate change.",
+      "source": "Benalla-b-a12345678910.json",
+      "lga": "Benalla",
+      "quote": {
+        "content": "Implement Climate Change Adaptation Action Plan and ensure it is updated every five years.",
+        "page": 51,
+        "source": "Benalla-Environment_Strategy_2016_20.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents do explicitly explain the need for action on climate change. The Climate Action Plan is described as a plan to reduce the city's environmental footprint, indicating an understanding of the need to mitigate environmental impact. The community research report reveals that 89% of the community supports the development of a Climate Action Plan due to the perception that climate change is an urgent issue and action is required. The report also includes community feedback that calls for a sense of urgency, a declaration of a climate emergency, and the need for action to occur. The implementation plan outlines specific actions to be taken, such as offsetting corporate greenhouse gas emissions and purchasing 100% renewable energy for all Council sites, which further underscores the recognition of the need for action on climate change.",
+      "source": "Boroondara-a-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "This support is given due to the perception that climate change is an urgent issue and that action is required.",
+        "page": 2,
+        "source": "Boroondara-Community-Research-Report.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do explicitly explain the need for action on climate change. They outline a Climate Action Plan that includes a range of actions to mitigate and adapt to the effects of climate change. The plan is described as setting the municipality on a path to meet specific targets, with some actions ready to roll out and others requiring further planning and development. The documents also indicate that the actions have been identified as achievable priorities by the community and staff, and through researched best practice. The documents also highlight the need for commitments from partners and the wider availability of certain technologies. The documents also reveal that the community strongly supports the development of a Climate Action Plan due to the perception that climate change is an urgent issue and that action is required.",
+      "source": "Boroondara-b-a12345678910.json",
+      "lga": "Boroondara"
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The 'Climate Change Adaptation Framework 2017-2022' provides strategic direction for building climate resilience within the Brimbank community and within Council’s services and operations. It acknowledges the need to prepare and respond to anticipated long-term climate change impacts. The 'Brimbank Climate Emergency Plan 2020-2025' also emphasizes the urgency of the climate emergency and the need for rapid and far-reaching transitions in community behaviour, energy, land use, urban form, and infrastructure. It highlights the need for individual commitment and community involvement in decision-making processes. The documents also outline specific actions and strategies to address climate change, such as integrating adaptation priorities within relevant policies and strategies, and establishing a representative Climate Emergency Citizens Assembly.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "Where the Brimbank Greenhouse Reduction Strategy 2013-2023 addresses the need to reduce the causes of climate change (greenhouse emissions), this Framework presents all the ways in which Council prepares and responds to anticipated long-term climate change impacts.",
+        "page": 2,
+        "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The 'Climate Change Adaptation Framework 2017-2022' is designed to provide strategic direction for building climate resilience within the Brimbank community and within Council’s services and operations. It acknowledges the need to prepare and respond to anticipated long-term climate change impacts. The 'Brimbank Climate Emergency Plan 2020-2025' also emphasizes the urgency of the climate emergency and the need for transformational change. It states that climate change must be a lens for all decision making, by all aspects of society. The plan also highlights the environmental, economic, social, and political implications of global warming and the need for a profound response. The documents also mention the role of local government in responding to climate change, stating that local governments are on the frontline of effective climate change adaptation response.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "Where the Brimbank Greenhouse Reduction Strategy 2013-2023 addresses the need to reduce the causes of climate change (greenhouse emissions), this Framework presents all the ways in which Council prepares and responds to anticipated long-term climate change impacts.",
+        "page": 2,
+        "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly explain the need for action on climate change. It outlines the direct and indirect impacts of climate change on the environment, economy, and people, and identifies both risks and opportunities arising from these impacts. The document also highlights the importance of both mitigation and adaptation strategies in addressing climate change. Mitigation refers to measures to avoid and reduce greenhouse gas emissions, while adaptation refers to measures to adjust to current and expected impacts of climate change. The document further emphasizes that mitigating climate change will help to avoid future climate change scenarios and adaptation will help manage the effects of climate change impacts that are unavoidable. Therefore, the document clearly articulates the need for action on climate change.",
+      "source": "Buloke-a-a12345678910.json",
+      "lga": "Buloke",
+      "quote": {
+        "content": "These impacts can be in the form of both risks and opportunities arising from physical impacts, or transitional impacts (from the process of adjusting to a changing climate and a low carbon economy). Climate change can have direct and indirect impacts on our environment, economy and people.",
+        "page": 1,
+        "source": "Buloke-2021-climate-action-plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It acknowledges the direct and indirect impacts of climate change on the environment, economy, and people. These impacts are identified as both risks and opportunities arising from physical impacts or transitional impacts, which are the process of adjusting to a changing climate and a low carbon economy. The document also highlights the community's concerns about the increase in extreme temperature days, fire risks, reduced annual rainfall, and disruption to essential services. It further emphasizes the community's efforts towards climate change mitigation and adaptation, such as waste reduction, improving energy efficiency, installing solar panels, and making property improvements. However, it also identifies the lack of systems and infrastructure, and funding as key barriers to mitigating and adapting to climate change.",
+      "source": "Buloke-b-a12345678910.json",
+      "lga": "Buloke",
+      "quote": {
+        "content": "These impacts can be in the form of both risks and opportunities arising from physical impacts, or transitional impacts (from the process of adjusting to a changing climate and a low carbon economy). Climate change can have direct and indirect impacts on our environment, economy and people.",
+        "page": 1,
+        "source": "Buloke-2021-climate-action-plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It acknowledges the impacts of climate change on the resilience and success of the community, business, industry, and the environment. It also recognizes that extreme weather events and natural disasters are increasing in frequency and severity due to climate change. The document further states that the community wants action taken to reduce the impacts of climate change. The council is required to manage energy and water consumption responsibly, promote sustainability, and plan for climate change risks. It also aims to achieve net-zero greenhouse gas emissions for Council operations by 2035. The document emphasizes that adapting to climate change now will reduce future costs and ensure the community's long-term prosperity.",
+      "source": "Campaspe-a-a12345678910.json",
+      "lga": "Campaspe",
+      "quote": {
+        "content": "• \nThe community wants action taken to reduce the \nimpacts of climate change. Council acknowledges:\n• \nThe impacts of climate change influence the resilience \nand success of the community, business, industry and \nthe environment. • \nExtreme weather events have already impacted our \ncommunities and services, and these are predicted to \nbecome more frequent. Since the 1950s our climate \nhas become warmer and drier. • \nNatural disasters are increasing in frequency and \nseverity as a result of the changing climate.",
+        "page": 21,
+        "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It acknowledges the impacts of climate change on the resilience and success of the community, business, industry, and the environment. It also recognizes that extreme weather events, which have already impacted communities and services, are predicted to become more frequent due to climate change. The document further states that natural disasters are increasing in frequency and severity as a result of the changing climate. The council is urged to responsibly manage energy and water consumption with the aim of increasing efficiency, which reduces costs and impacts on the environment. The council is also tasked with promoting the economic, social, and environmental sustainability of the municipal district, including mitigation and planning for climate change risks. The document emphasizes that adapting to climate change now will reduce future costs and ensure the community’s long-term prosperity.",
+      "source": "Campaspe-b-a12345678910.json",
+      "lga": "Campaspe",
+      "quote": {
+        "content": "Natural disasters are increasing in frequency and severity as a result of the changing climate. Extreme weather events have already impacted our communities and services, and these are predicted to become more frequent. Since the 1950s our climate has become warmer and drier.",
+        "page": 21,
+        "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight climate change as a global challenge caused by the increased concentration of carbon dioxide and other greenhouse gases in the atmosphere, primarily due to human activities such as the burning of fossil fuels. The documents underscore the adverse effects of climate change on social, economic, and environmental systems, which necessitates adaptation actions to mitigate these consequences. The documents also outline the local government's commitment to addressing climate change through various strategies and action plans. These include mainstreaming climate risk considerations in council policies, programs, and service delivery, and identifying action pathways to increase adaptive capacity and foster climate change resilience across the shire. The documents also emphasize the need for a 10-year costed action plan to address the most urgent climate risks and strengthen the community's adaptive capacity to the intensifying impacts of climate change.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "Human activities such as the burning of fossil fuels like coal, gas and oil have fundamentally increased the atmospheric greenhouse gases and contributed to global warming. Climate change is a global challenge that is caused by the increased concentration of carbon dioxide and other greenhouse gases in the atmosphere.",
+        "page": 6,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight that climate change is a global challenge caused by the increased concentration of carbon dioxide and other greenhouse gases in the atmosphere, primarily due to human activities such as the burning of fossil fuels. The documents underscore that these activities have led to global warming and climate change, with localised impacts that have adverse effects on social, economic, and environmental systems. The documents further emphasise that adapting to these changes requires taking actions to lessen the adverse consequences of climate change. The documents also outline specific objectives and action plans to address climate change, including raising community awareness, identifying high-risk areas for development, and advocating for climate change adaptation initiatives. These details underscore the urgency and necessity of taking action on climate change.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "Human activities such as the burning of fossil fuels like coal, gas and oil have fundamentally increased the atmospheric greenhouse gases and contributed to global warming. Climate change is a global challenge that is caused by the increased concentration of carbon dioxide and other greenhouse gases in the atmosphere.",
+        "page": 6,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents do explicitly explain the need for action on climate change. The City of Casey's Emissions Management Plan 2018-2022 outlines a strategic pathway for the city to invest in energy efficiency and renewable technology to maximize economic and environmental benefits. The plan aligns with the National Carbon Offset Standard (NCOS) and adopts science-based emission targets in line with the level of decarbonisation required to keep global temperature increase within 2°C of pre-industrial levels. The plan also acknowledges the significant opportunities that eventuate in a low carbon economy. The documents also highlight the city's commitment to reducing its corporate emissions through sound investment in energy efficiency and renewable energy technology. The city has set ambitious targets for emissions reduction and renewable energy, and has a plan in place to achieve these targets.",
+      "source": "Casey-b-a12345678910.json",
+      "lga": "Casey",
+      "quote": {
+        "content": "Taking action on Climate Change in-line with City of Casey’s emission reduction aspirations will enable Council to capitalise on the significant opportunities that eventuate in a low carbon economy. Adopting science-based emission targets in line with the level of decarbonisation required to keep global temperature increase within 2°C of pre-industrial levels.",
+        "page": 4,
+        "source": "Casey-2018-Emissions-Management-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan clearly articulates the need for action on climate change. The document acknowledges the urgency of global action on climate change, citing the World Research Institute's findings on the rise in global temperatures and the increase in natural disasters. It also references the Intergovernmental Panel on Climate Change (IPCC) report, which warns of reaching the 1.5ºC level within the next two decades unless drastic cuts in carbon emissions are made. The document further emphasizes the responsibility of governments, businesses, individuals, and communities to take action to protect each other and the environment. It also outlines the legislative context, including the Paris Agreement and Australia's commitment to net zero emissions by 2050. The document's focus on both mitigation and adaptation strategies underscores the comprehensive approach required to address climate change.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "The latest Intergovernmental Panel on Climate Change (IPCC) report 2022 has warned that the world is set to reach the 1.5ºC level within the next two decades and only the most drastic cuts in carbon emissions from now will help prevent an environmental disaster. According to the World Research Institute, global temperatures have risen by 1.1ºC so far, and already we are seeing an increase in natural disasters such as flooding, fires, droughts and other climatic events.",
+        "page": 5,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan clearly articulates the need for action on climate change. The document acknowledges the urgency of global action on climate change, citing the World Research Institute's findings on rising global temperatures and the increase in natural disasters. It also references the Intergovernmental Panel on Climate Change (IPCC) report, which warns of reaching the 1.5ºC level within the next two decades unless drastic cuts in carbon emissions are made. The document further emphasizes the responsibility of governments, businesses, individuals, and communities to take action to protect each other and the environment. It also outlines the legislative context, including the Paris Agreement and Australia's commitment to net zero emissions by 2050. The document's focus on both mitigation and adaptation strategies underscores the comprehensive approach to addressing climate change.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "The latest Intergovernmental Panel on Climate Change (IPCC) report 2022 has warned that the world is set to reach the 1.5ºC level within the next two decades and only the most drastic cuts in carbon emissions from now will help prevent an environmental disaster. According to the World Research Institute, global temperatures have risen by 1.1ºC so far, and already we are seeing an increase in natural disasters such as flooding, fires, droughts and other climatic events.",
+        "page": 5,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It acknowledges the significant global challenge posed by climate change and the necessity for a unified response. The document outlines the local government's commitment to reducing greenhouse gas emissions, promoting sustainable living, and building resilience to climate change impacts. It also emphasizes the importance of community engagement and education in raising awareness about climate change and encouraging community action. The document further outlines a 10-year plan identifying 48 actions to adapt to a changing climate and mitigate further impacts. The plan includes measures such as energy efficiency, renewable energy, waste reduction and recycling, sustainable transport, emergency management planning, and land use planning. The document also mentions the need for monitoring and evaluation of the plan's implementation and its impact.",
+      "source": "ColacOtway-a-a12345678910.json",
+      "lga": "ColacOtway"
+    },
+    {
+      "answer": "The document clearly articulates the need for action on climate change. It acknowledges the significant global challenge posed by climate change and the necessity for a unified response. The document outlines the local government's commitment to reducing greenhouse gas emissions, building resilience to climate change impacts, and promoting sustainable development. The policy outlines a range of measures aimed at reducing greenhouse gas emissions, including energy efficiency and renewable energy, waste reduction and recycling, and sustainable transport. It also includes initiatives aimed at building resilience to climate change impacts, such as emergency management planning, land use planning, urban greening, and biodiversity conservation programs. The policy also emphasizes the importance of community engagement and education in raising awareness about climate change and promoting sustainable living.",
+      "source": "ColacOtway-b-a12345678910.json",
+      "lga": "ColacOtway"
+    },
+    {
+      "answer": "The document does explicitly explain the need for action on climate change. It outlines the local government's commitment to developing locally specific adaptation responses to climate variability, increasing community understanding of local climate variability impacts, and identifying climate variability impacts and opportunities when undertaking internal planning processes and operations. The document also emphasizes the importance of collaboration with agencies, industry, research institutes, and the community to fill knowledge gaps and identify climate impacts to the local environment, community, and economy. The policy also highlights the need for the council to lead by example in reducing its environmental impact and transitioning the Shire to be more environmentally sustainable with an increased capacity to respond and adapt to drivers of change such as climate variability.",
+      "source": "Corangamite-a-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The document does explicitly explain the need for action on climate change. It outlines the local government's commitment to developing locally specific adaptation responses to climate variability, increasing community understanding of local climate variability impacts, and identifying climate variability impacts and opportunities when undertaking internal planning processes and operations. The document also mentions the need for Council to lead by example in reducing its environmental impact and becoming more environmentally sustainable, which is an indirect reference to the need for action on climate change. The document further emphasizes the need for the community to plan for anticipated climate events and to develop the capacity to respond to the challenges and opportunities that a changed climate may present.",
+      "source": "Corangamite-b-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, referring to it as a 'climate emergency' and emphasizing the need for immediate and comprehensive action. The documents underscore the insufficiency of past efforts by national and state governments, and the necessity for local, ground-up initiatives. They also acknowledge the need to prepare for the effects of climate change, such as increased frequency of heatwaves and floods, and the societal transitions required to support a safe climate. The documents further emphasize the importance of increasing climate change knowledge and action among residents and businesses, and supporting community groups working on climate action. They also outline specific objectives and actions to be taken, demonstrating a commitment to addressing the issue.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "We must aim to do as much as we possibly can, as quickly as possible and bring all levels of government and our community with us. The onset of the global climate emergency together with many years of insufficient action by the national and state governments are making targets difficult to achieve and making local ground-up action more important.",
+        "page": 29,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, referring to it as a 'climate emergency' and emphasizing the need for immediate and comprehensive action. The documents underscore the insufficiency of past efforts by national and state governments, stressing the importance of local, ground-up initiatives. They also acknowledge the need to prepare for the effects of climate change, such as increased frequency of heatwaves and floods, and the societal transitions required to support a safe climate. The documents further emphasize the need for community engagement and education, and the importance of leadership in climate emergency action. They also outline specific objectives and actions to increase climate change knowledge and action among residents and businesses, and to support community groups working on climate action.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "We must aim to do as much as we possibly can, as quickly as possible and bring all levels of government and our community with us. The onset of the global climate emergency together with many years of insufficient action by the national and state governments are making targets difficult to achieve and making local ground-up action more important.",
+        "page": 29,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does explicitly explain the need for action on climate change. It emphasizes the importance of community participation in the climate response, and the need for individuals, businesses, and community organizations to take ownership and leadership in driving change. The document also highlights the urgency of the situation, stating that the impact of a changing climate is emerging and the need for action is 'desperately needed right now'. It further outlines the potential benefits of taking action, such as new investment opportunities, job creation, and improved health and wellbeing outcomes. The document also suggests that the community can adopt climate resilience measures in their lifestyle, such as investing in sustainability measures that increase energy efficiency and better regulate temperature in buildings.",
+      "source": "EastGippsland-a-a12345678910.json",
+      "lga": "EastGippsland",
+      "quote": {
+        "content": "As the impact of a changing climate emerges, the need for us individually and collectively to focus on the sustainability of our environment is desperately needed right now.",
+        "page": 26,
+        "source": "EastGippsland-Environmental_Sustainbility_Strategy_EGSC_final_compressed.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It emphasizes the importance of community participation in the climate response, which includes building awareness, providing access to tools for action, and encouraging community leadership and ownership. The document also highlights the urgency of focusing on the sustainability of our environment as the impacts of a changing climate emerge. It further outlines the opportunities that arise from adapting to climate change, such as new investments, industries, jobs, and improved health and wellbeing outcomes. The document also suggests that the community can adopt climate resilience measures in their lifestyle, such as investing in sustainability measures that increase energy efficiency and better regulate temperature in buildings.",
+      "source": "EastGippsland-b-a12345678910.json",
+      "lga": "EastGippsland",
+      "quote": {
+        "content": "As the impact of a changing climate emerges, the need for us individually and collectively to focus on the sustainability of our environment is desperately needed right now.",
+        "page": 26,
+        "source": "EastGippsland-Environmental_Sustainbility_Strategy_EGSC_final_compressed.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly explain the need for action on climate change. It outlines the local government's commitment to reducing greenhouse gas emissions, transitioning to low carbon fuel sources, and achieving zero net emissions by 2025. The document also highlights the co-benefits of taking action, such as reduced energy costs, resource conservation, less pollution, and improved comfort for building occupants. Furthermore, the document emphasizes the importance of leadership and collaboration in addressing climate change. It also mentions the need for ongoing monitoring and evaluation of the implemented actions. Therefore, the document not only acknowledges the global problem of climate change but also provides a detailed plan for local action.",
+      "source": "Frankston-a-a12345678910.json",
+      "lga": "Frankston",
+      "quote": {
+        "content": "Council has set a target for zero net emissions (carbon neutrality) by 2025. Council is committed to reducing greenhouse gas emissions, saving energy and transitioning to low carbon fuel sources.",
+        "page": 5,
+        "source": "Frankston-2019-zero-emissions-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It identifies the primary cause of climate change as the release of greenhouse gas emissions primarily from human activities, such as the burning of fossil fuels, agriculture, and land clearing. The local government is committed to reducing these emissions, saving energy, and transitioning to low carbon fuel sources. The document also highlights the co-benefits of taking action on climate change, including reduced energy costs, resource conservation, less pollution, probable property value increases, improved comfort for building occupants, reduced maintenance costs, and supporting the electricity grid. The document's purpose is to provide a forward plan with prioritized actions for the Council to decrease its greenhouse gas emissions and set the foundation to become carbon neutral by 2025.",
+      "source": "Frankston-b-a12345678910.json",
+      "lga": "Frankston",
+      "quote": {
+        "content": "Council has set a target for zero net emissions (carbon neutrality) by 2025. Council is committed to reducing greenhouse gas emissions, saving energy and transitioning to low carbon fuel sources.",
+        "page": 5,
+        "source": "Frankston-2019-zero-emissions-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It acknowledges the scientific evidence and the risk that climate change presents to the community and the planet. The policy outlines the council's strategic framework for mitigating and adapting to climate change, with objectives such as reducing environmental impacts and operating costs, transitioning to 100% renewable energy, and achieving net zero emissions by certain deadlines. The policy also emphasizes the need for community engagement, education, and action to reduce emissions. Furthermore, it recognizes the vulnerability of the Gannawarra region to the adverse effects of climate change and the necessity for early measures to increase resilience. The policy also highlights the potential for the region to become a top renewable energy producing municipality by reducing greenhouse gas emissions and shifting to 100% renewables.",
+      "source": "Gannawarra-a-a12345678910.json",
+      "lga": "Gannawarra"
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It acknowledges the scientific evidence and the risk that climate change presents to the community and the planet. The policy outlines the council's strategic framework for mitigating and adapting to climate change, with objectives such as reducing environmental impacts and operating costs, transitioning to renewable energy, and achieving net zero emissions. The policy also emphasizes the need for public engagement, education, and action to reduce community emissions. Furthermore, the document recognizes that the Gannawarra is particularly vulnerable to the adverse effects of climate change and needs to commence early measures to increase the municipalities’ resilience. It also highlights the potential for Gannawarra to become a top renewable energy producing municipality by reducing greenhouse gas emissions and shifting to 100% renewables.",
+      "source": "Gannawarra-b-a12345678910.json",
+      "lga": "Gannawarra"
+    },
+    {
+      "answer": "The document clearly articulates the need for action on climate change. It emphasizes the urgency of the climate emergency and the necessity for all stakeholders, including individuals, organizations, governments, and communities, to respond by rapidly reducing emissions and strengthening resilience to growing impacts. The document also outlines the goals and objectives that will guide the local government's response to the climate emergency, which include embedding climate action into all aspects of work, making climate change action a priority in every strategy, plan, and policy, and leveraging financial, administrative, and reporting systems to drive climate action. The document also highlights the need for clear strategy to ensure that staff, partners, and the community understand the direction of the climate action, how to get there, and how to stay on track.",
+      "source": "GlenEira-a-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "The urgency of the climate emergency requires all of us to do as much as we each can, as individuals, organisations, governments and communities to respond by rapidly reducing emissions and strengthening our resilience to the growing impacts.",
+        "page": 22,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document clearly articulates the need for action on climate change. It emphasizes the urgency of the climate emergency and the necessity for all stakeholders, including individuals, organizations, governments, and communities, to respond by rapidly reducing emissions and strengthening resilience to growing impacts. The document also outlines the goals and objectives that will allow prioritization, resourcing, communication, and evaluation of the response to the climate emergency. It further emphasizes the need for a clear strategy to guide staff, partners, and the community in their efforts to tackle climate change. The document also provides an action plan, which includes 70 actions to be undertaken over the life of the strategy to achieve the identified goals and objectives.",
+      "source": "GlenEira-b-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "The urgency of the climate emergency requires all of us to do as much as we each can, as individuals, organizations, governments and communities to respond by rapidly reducing emissions and strengthening our resilience to the growing impacts.",
+        "page": 22,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The documents do explicitly explain the need for action on climate change. They outline the local government's strategy to address climate change impacts, including the incorporation of climate change considerations into key plans and strategies, and the facilitation of community-based discussions on the environmental impact of climate change. The documents also highlight the importance of keeping the public informed about climate change and its impacts. Furthermore, the documents mention the development of decision-making tools and market-based instruments to address climate change impacts on coastal, estuarine, and marine ecosystems. The documents also emphasize the need for environmental education and awareness-raising projects and events, including those related to climate change impacts.",
+      "source": "Glenelg-a-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The document does explicitly explain the need for action on climate change. It acknowledges the reality and significance of climate change, attributing it to fossil fuel consumption and recognizing its potential threats to both man-made and natural assets. The document also outlines the local government's planned actions in response to climate change, such as incorporating the impacts of climate change into key plans and strategies, and facilitating community-based discussions on the environmental impact of climate change. The document also mentions the development of an environmental education and awareness program on energy conservation and greenhouse gas abatement actions. These actions indicate a clear recognition of the need to address climate change and its impacts.",
+      "source": "Glenelg-b-a12345678910.json",
+      "lga": "Glenelg",
+      "quote": {
+        "content": "Through increased global temperatures and more erratic weather patterns, climate change poses a threat to both our man-made assets and also our natural assets, such as biodiversity, water supplies, healthy waterways and ocean acidi Council recognises that climate change due to an enhanced greenhouse effect produced by fossil fuel consumption is real and significant.",
+        "page": 76,
+        "source": "Glenelg-2010-environment-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It emphasizes that climate change is a pressing issue for local government, presenting legal, social, economic, and environmental risks. The Golden Plains Shire Council has declared a Climate Emergency, necessitating immediate and urgent action to reverse global warming and adapt to unavoidable changes. The document also highlights the importance of a coordinated response to the Climate Emergency, with the risk of actions being ad-hoc and limited without a comprehensive plan. The plan outlines the pathway towards net zero emissions for Council operations by 2025 and details mitigation and adaptation actions to create a more sustainable future. The document also underscores the importance of collaboration across all sectors of the Shire and beyond, indicating that the next 10 years of action are critical.",
+      "source": "GoldenPlains-a-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "The Plan outlines the pathway toward net zero emissions for Council operations by 2025 and the mitigation and adaptation actions Council and the community will take together to create a more sustainable future for Golden Plains Shire. In July 2021, Golden Plains Shire Council (Council) declared a Climate Emergency, a resolution for immediate and urgent action to reverse global warming and adapt to changes that society cannot avoid.",
+        "page": 5,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document clearly articulates the need for action on climate change. It identifies climate change as a pressing issue for local government, presenting legal, social, economic, and environmental risks. The Golden Plains Shire Council has declared a Climate Emergency, necessitating immediate and urgent action to reverse global warming and adapt to unavoidable changes. The document outlines a Climate Emergency Plan, which is described as an essential tool for informing collective response to climate change. The plan outlines the pathway towards net zero emissions for Council operations by 2025 and details mitigation and adaptation actions to be taken by the Council and the community. The document emphasizes the importance of strong action, foresight, and unprecedented levels of collaboration across all sectors of the Shire and beyond. The need for action is further underscored by the Council's commitment to support renewable energy, facilitate sustainable transport and development, and develop adaptation-focused land management strategies.",
+      "source": "GoldenPlains-b-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "In July 2021, Golden Plains Shire Council (Council) declared a Climate Emergency, a resolution for immediate and urgent action to reverse global warming and adapt to changes that society cannot avoid. Climate change is a pressing issue for local government that is already manifesting as a legal, social, economic and environmental risk.",
+        "page": 7,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It acknowledges the global issue of climate change and its potential local impacts, citing the United Nations Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report. The document also highlights the risks posed by climate change, including physical risks arising from changes in weather patterns and transition risks associated with adjusting to a low-carbon economy. The strategy also emphasizes the need to reduce human impacts on the climate while protecting and restoring ecosystems. The document further outlines the need for effective governance to oversee the successful implementation of the strategy, and the importance of collaboration at various levels, including households, organizations, city-wide projects, and regional advocacy, to achieve a zero carbon economy.",
+      "source": "GreaterBendigo-a-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "We need to act now to reduce human impacts to climate whilst also protecting and restoring our ecosystems. Climate change and biodiversity breakdowns now threaten the ecosystems that support life on earth.",
+        "page": 9,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It acknowledges the global issue of climate change and its potential local impacts, citing the United Nations Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report. The document also highlights the risks posed by climate change, including physical risks from extreme weather events and long-term changes in weather patterns, and transition risks associated with adjusting to a low-carbon economy. The strategy also includes a commitment to reduce human impacts on the climate while protecting and restoring ecosystems. The document further emphasizes the need for action by outlining the potential financial impacts of climate change, including effects on revenues, expenditures, assets and liabilities, and capital and financing.",
+      "source": "GreaterBendigo-b-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "We need to act now to reduce human impacts to climate whilst also protecting and restoring our ecosystems. Climate change and biodiversity breakdowns now threaten the ecosystems that support life on earth.",
+        "page": 9,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The local government has developed a Climate Emergency Strategy 2020-2030 Action Plan, which outlines the council's role, timeframe, responsibility, outcome/indicator, and resources for various actions related to climate change. The plan acknowledges the need for an integrated 'whole-of-organisation' approach to climate change across its operations and the need to support the community to lead effective responses to climate change. The plan also emphasizes the need to embed consideration of climate change into the development of Council’s 2021–25 Council Plan and supporting strategic documents. The documents also highlight the need to increase awareness within the community and within the council about the risks and impacts of climate change. The documents also mention the need to secure funding and resources to support community initiatives related to climate change.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The local government has developed a Climate Emergency Strategy 2020-2030 Action Plan, which outlines the council's role, timeframe, responsibility, outcome/indicator, and resources for various actions related to climate change. The plan acknowledges the need for an integrated 'whole-of-organisation' approach to climate change across its operations and the need to support the community to lead effective responses to climate change. The plan also emphasizes the need to embed consideration of climate change into the development of Council’s 2021–25 Council Plan and supporting strategic documents. The documents also highlight the need to increase awareness within the community and within the council about the risks and impacts of climate change. The council also plans to seek external funding grants to increase local biodiversity and the urban forest, indicating a proactive approach to addressing climate change.",
+      "source": "GreaterDandenong-b-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It emphasizes the urgency of the situation, stating that the time for debate is over and that extensive and urgent action is required to address the climate crisis. The document also highlights the need for a coordinated and collaborative approach to climate change, with the local government playing a critical role in planning for urban growth and development, setting strategic directions for the region, and managing and delivering services. The document further underscores the importance of integrating climate action into decision-making processes, prioritizing climate over financial outcomes, and directing funds away from projects that are not environmentally sustainable. It also calls for a climate-conscious procurement policy for all city purchases.",
+      "source": "GreaterGeelong-a-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "We need to act urgently and extensively as a municipal community to be part of the solution to the climate crisis. The 2021 International Panel on Climate Change warns that we are getting close to exceeding the Paris Agreement Goals of limiting average global temperature rise to 1.5°C. The science tells us that we must aim for net zero emissions as soon as possible (by 2050 at the latest) and that we need rapid decarbonisation during this decade. The overwhelming message from community groups, businesses and other organisations is that the time for debate is over.",
+        "page": 11,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It emphasizes the urgency of the situation, stating that the time for debate is over and that extensive and urgent action is required to address the climate crisis. The document also highlights the risks posed by climate change and the need for managing these risks for the best long-term outcomes for the community. It further underscores the importance of integrating climate action into decision-making processes, despite the challenges posed by the complexity of local governments and the multiple pieces of legislation that guide them. The document also acknowledges the need for a coordinated and collaborative approach to climate action, involving all levels of government, businesses, and the community. It also stresses the importance of monitoring progress and adapting to changes.",
+      "source": "GreaterGeelong-b-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "We need to act urgently and extensively as a municipal community to be part of the solution to the climate crisis. The science tells us that we must aim for net zero emissions as soon as possible (by 2050 at the latest) and that we need rapid decarbonisation during this decade. The overwhelming message from community groups, businesses and other organisations is that the time for debate is over.",
+        "page": 11,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The Greater Shepparton Climate Emergency Action Plan is designed to support the transition to a decarbonised economy and build a resilient community. The plan acknowledges the role of the local government in facilitating actions in partnership with the community to address the climate emergency. The plan also outlines specific actions, such as implementing a Climate Emergency Communication and Engagement Strategy, supporting youth to be informed and act on climate change, and encouraging sustainable and zero emission industrial development. These actions are aimed at reducing emissions, sharing knowledge, building community resilience, and demonstrating climate leadership. The plan also emphasizes the importance of community engagement and partnership in achieving its goals.",
+      "source": "GreaterShepparton-a-a12345678910.json",
+      "lga": "GreaterShepparton",
+      "quote": {
+        "content": "A strong focus of the Action Plan is to engage with the community, build partnerships, and to further understand what adapting to a changing climate looks like to the Greater Shepparton community.",
+        "page": 24,
+        "source": "GreaterShepparton-2022-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The Greater Shepparton Climate Emergency Action Plan is designed to support the transition to a decarbonised economy and build a resilient community. The plan emphasizes the importance of engaging with the community, building partnerships, and understanding what adapting to a changing climate means for the Greater Shepparton community. The plan also highlights the role of the Council in facilitating actions in partnership with the community. The documents also outline specific actions, such as implementing a Climate Emergency Communication and Engagement Strategy, supporting youth to be informed and act on climate change, and encouraging sustainable and zero-emission industrial development. These actions are aimed at reducing emissions, sharing knowledge, and building community resilience.",
+      "source": "GreaterShepparton-b-a12345678910.json",
+      "lga": "GreaterShepparton",
+      "quote": {
+        "content": "A strong focus of the Action Plan is to engage with the community, build partnerships, and to further understand what adapting to a changing climate looks like to the Greater Shepparton community.",
+        "page": 24,
+        "source": "GreaterShepparton-2022-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, with references to the 'climate catastrophe' and the need for 'ambitious emissions reductions'. The documents also emphasize the importance of adaptation to the impacts of climate change, which are already happening and are expected to intensify in the future. The policy objectives of the Climate Change Act 2017 are outlined, which include reducing greenhouse gas emissions, building resilience, and managing natural resources to promote their resilience. The documents also mention the need for transformative change, with rapid and far-reaching actions, to achieve a sustainable global future. The policy also outlines specific actions to be taken, such as implementing the Towards Zero Emissions Roadmap Action Plan, and developing a Sustainability and Climate Change policy.",
+      "source": "Hepburn-a-a12345678910.json",
+      "lga": "Hepburn",
+      "quote": {
+        "content": "It also takes centuries to millennia for the Earth system to fully respond to changes in the greenhouse effect. The inertia of the climate system – The long lifetime of CO2 in the atmosphere means that its climate warming effect responds to a reduction in CO2 emissions only gradually, over many years.",
+        "page": 34,
+        "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the significant and foreseeable risks posed by climate change, emphasizing the duty of decision-makers to consider these risks as part of their responsibilities. The documents also underscore the urgency of the situation, noting that we are 'sleepwalking into a climate catastrophe' and that strong action is required to build resilience and protect vulnerable communities. The documents further stress the importance of reducing greenhouse gas emissions and adapting to the impacts of climate change. They also highlight the need for transformative change, including a shift in values concerning nature and economic progress. The documents also outline specific actions and strategies to address climate change, such as implementing a 'Towards Zero Emissions Roadmap Action Plan', developing a 'Sustainability and Climate Change Policy', and focusing on local renewable energy supply.",
+      "source": "Hepburn-b-a12345678910.json",
+      "lga": "Hepburn",
+      "quote": {
+        "content": "It also takes centuries to millennia for the Earth system to fully respond to changes in the greenhouse effect. The inertia of the climate system – The long lifetime of CO2 in the atmosphere means that its climate warming effect responds to a reduction in CO2 emissions only gradually, over many years.",
+        "page": 34,
+        "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government recognizes the need for action on climate change. The policy outlines several strategies and actions to address climate change, including the review and update of the Road Asset Management plan to consider climate change risks, the investigation of alternative road materials more resistant to temperature extremes, and the incorporation of climate change and water availability scenarios into Council assets management plans. The policy also mentions the Hindmarsh Climate Change Adaptation Strategy, which further emphasizes the need for action. The strategy includes actions such as community engagement, community action planning, and the implementation of the Integrated Water Management plan. These actions indicate a proactive approach to managing the impacts of climate change.",
+      "source": "Hindmarsh-a-a12345678910.json",
+      "lga": "Hindmarsh",
+      "quote": {
+        "content": "Council staff review and analyse current asset management plans under a range of climate change and water availability scenarios e.g.",
+        "page": 184,
+        "source": "Hindmarsh-2012-climate-adaptation.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents provide explicit evidence of the need for action on climate change. The local government's policy outlines a series of actions and strategies aimed at adapting to and mitigating the effects of climate change. These include reviewing and updating the Road Asset Management plan to consider climate change risks, investigating alternative road materials more resistant to temperature extremes, and incorporating climate change and water availability scenarios into Council assets management plans. The policy also mentions the need to update the role of the council in relation to climate change. These actions indicate a recognition of the potential impacts of climate change on local infrastructure and the need to adapt accordingly. The policy also outlines the implementation of the Hindmarsh Township Climate Change Adaptation Plan, further emphasizing the need for action on climate change.",
+      "source": "Hindmarsh-b-a12345678910.json",
+      "lga": "Hindmarsh",
+      "quote": {
+        "content": "Council staff review and analyse current asset management plans under a range of climate change and water availability scenarios e.g.",
+        "page": 184,
+        "source": "Hindmarsh-2012-climate-adaptation.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It states that climate change is a significant challenge that will worsen unless collective action is taken to reduce greenhouse gas emissions and prepare for a changing climate. The document also highlights the importance of mitigation and adaptation strategies. Mitigation involves reducing greenhouse gas emissions to prevent future increases in global temperatures and other climate impacts. Adaptation involves taking actions to protect human health and wellbeing, physical assets, and the natural environment from the impacts of a changing climate such as rising sea levels and extreme weather events. The document also emphasizes the need for the local government to comply with legislation, meet commitments in the Council Plan, and support the delivery of Council’s suite of environment and climate-related policies.",
+      "source": "HobsonsBay-a-a12345678910.json",
+      "lga": "HobsonsBay",
+      "quote": {
+        "content": "Hobsons Bay City Council recognises that climate change is a current and significant challenge that will only become worse unless we all work together to reduce greenhouse gas emissions and prepare for a changing climate.",
+        "page": 4,
+        "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It recognizes climate change as a significant challenge that will worsen without collective efforts to reduce greenhouse gas emissions and prepare for a changing climate. The document also highlights the importance of both mitigation and adaptation strategies. Mitigation involves reducing greenhouse gas emissions to prevent future increases in global temperatures and other climate impacts. Adaptation involves taking actions to protect human health and wellbeing, physical assets, and the natural environment from the impacts of a changing climate such as rising sea levels and extreme weather events. The document also emphasizes the legal responsibilities of the Council under the Local Government Act 2020 and the Climate Change Act 2017, which require the promotion of environmental sustainability and planning for climate change risks.",
+      "source": "HobsonsBay-b-a12345678910.json",
+      "lga": "HobsonsBay",
+      "quote": {
+        "content": "Hobsons Bay City Council recognises that climate change is a current and significant challenge that will only become worse unless we all work together to reduce greenhouse gas emissions and prepare for a changing climate.",
+        "page": 4,
+        "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The Victorian Climate Change Green Paper, released in 2009, is the government's response to climate change, aiming to stimulate discussion about policy responses. The proposed policy response focuses on three key areas: complementing the national Carbon Pollution Reduction Scheme, positioning Victoria to take advantage of opportunities created by the transition to a carbon-constrained economy, and adapting to the impacts of climate change that can no longer be avoided. The documents also highlight the potential adverse impacts of climate change on community lifestyle, health, and wellbeing, including increased costs of living, health impacts, and insurance costs. The Environment Sustainability Strategy also outlines objectives to reduce greenhouse gas emissions and promote sustainable practices.",
+      "source": "Horsham-a-a12345678910.json",
+      "lga": "Horsham",
+      "quote": {
+        "content": "The Green Paper is intended to stimulate discussion about the Victorian Governments policy response to climate change. Released in June 2009, the Victorian Climate Change Green Paper is the Government’s next step in response to climate change.",
+        "page": 61,
+        "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The Victorian Climate Change Green Paper, released in 2009, is the government's response to climate change, aiming to stimulate discussion about policy responses. The proposed policy response focuses on three key areas: complementing the national Carbon Pollution Reduction Scheme, positioning Victoria to take advantage of opportunities created by the transition to a carbon-constrained economy, and adapting to the impacts of climate change that can no longer be avoided. The Environment Sustainability Strategy 2010 also outlines objectives to reduce greenhouse gas emissions, develop procurement policies favoring environmentally friendly products, and plan responses to extreme events. The documents also highlight the potential adverse impacts of climate change, such as increased cost of living, health costs, and insurance costs, and the need to protect natural assets from these impacts.",
+      "source": "Horsham-b-a12345678910.json",
+      "lga": "Horsham",
+      "quote": {
+        "content": "Adapting to the impacts of climate change that can no longer be avoided. The Green Paper is intended to stimulate discussion about the Victorian Governments policy response to climate change. The proposed policy response is based on focusing action in three key areas: 1. Complementing the proposed national Carbon Pollution Reduction Scheme (CPRS) to drive emissions reduction in areas of market failure or those sectors not covered by the CPRS; 2. Positioning Victoria to take advantage of the opportunities created by the transition to a carbon constrained economy; and 3.",
+        "page": 61,
+        "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of addressing climate change, emphasizing the importance of reducing greenhouse gas emissions, adapting to climate impacts, and advocating for further climate action. The documents also underscore the importance of integrating climate action across the entire organization, in all decisions, strategies, and plans. The documents further stress the need for leadership in climate action, including sharing the reality of the current situation, taking action beyond immediate responsibilities, supporting climate action across the city, undertaking innovative climate action projects, and advocating for climate action on behalf of the community. The documents also highlight the importance of relying on scientific evidence and projections, and making well-informed decisions to innovate for leadership.",
+      "source": "Hume-a-a123.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of reducing greenhouse gas emissions to avoid the worst impacts of climate change, and the necessity of adapting to climate impacts that are already occurring. The documents also emphasize the importance of lobbying and advocating for further climate action, indicating that transformational change is required across all aspects of society to avoid a climate crisis. The documents further underscore the importance of integrating climate action across the whole organization and in work with partners and the community, applying a 'climate lens' to all decisions, programs, strategies, and plans. The documents also note the importance of leadership in taking climate action, advocating on behalf of the community, and working in partnership to inspire others.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The Climate Emergency Strategic Action Plan, adopted in September 2020, outlines the local government's commitment to addressing the climate emergency through mitigation, adaptation, and advocacy measures across all its services. The plan sets six strategic priorities to focus the climate emergency response, with more detailed actions to be developed under each strategic priority. The Climate Change Adaptation Action Plan also emphasizes the need for adaptation to climate change, stating that despite efforts to mitigate climate change, some form of adaptation is inevitable. The plan aims to increase the resilience of Council’s infrastructure and service delivery by building internal capacity to absorb, adapt, and adjust to the expected shocks of climate change. These documents demonstrate a clear understanding of the need for action on climate change and a commitment to implementing strategies to address this issue.",
+      "source": "Indigo-a-a12345678910.json",
+      "lga": "Indigo"
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The Climate Emergency Strategic Action Plan, adopted in September 2020, outlines the local government's commitment to addressing the climate emergency through mitigation, adaptation, and advocacy measures across all its services. The plan sets strategic priorities to focus the climate emergency response, with detailed actions to be developed under each strategic priority. The Climate Change Adaptation Action Plan also emphasizes the need for adaptation to climate change, stating that despite efforts to mitigate climate change, some form of adaptation is inevitable. The plan aims to increase the resilience of Council’s infrastructure and service delivery by building internal capacity to absorb, adapt, and adjust to the expected shocks of climate change. These documents demonstrate a clear understanding of the need for action on climate change and a commitment to implementing strategies to address this issue.",
+      "source": "Indigo-b-a12345678910.json",
+      "lga": "Indigo"
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, stating that the benefits of acting are significant but the opportunity to do so is rapidly diminishing. The documents also emphasize the real, climate-related impacts for Kingston, including the creation of new jobs, cheaper power, reduced air pollution, and enhanced urban forest. The documents further underscore the importance of reducing emissions in line with science-derived targets, supporting the community to reduce emissions, and improving sustainable building design. The documents also note that the Local Government Bill 2018 makes 'mitigation and planning for climate change risks' a legal requirement for Council. Therefore, the documents not only explain the need for action on climate change but also provide a detailed plan for how to achieve this.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston"
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, stating that climate change poses one of the biggest threats to our future and that immediate action is required to reduce emissions and prepare for the future. The documents also emphasize the benefits of taking decisive climate action, including new jobs, cheaper power, reduced air pollution, preparedness and resilience to the impacts of climate change, and healthier habitats. Furthermore, the documents underscore the legal requirement for the council to mitigate and plan for climate change risks, as stipulated in Victoria's new Local Government Act. The documents also acknowledge the need for significant contributions from various sectors, including business, industry, residents, and government, to achieve the necessary emissions reductions.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "We \ncannot wait for others to \ntake action on climate \nchange; the science is \nvery clear that we must \nstart to reduce our \nemissions and prepare \nfor the future now. How we respond will \ndetermine the future \nwellbeing and prosperity \nof our organisation and \nthe community.",
+        "page": 2,
+        "source": "Kingston-2018-climate-strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It acknowledges the state of climate emergency and the necessity to reduce environmental impact and prepare for the effects of a changing climate. The document also recognizes the negative consequences of climate change, such as health issues, infrastructure damage, agricultural challenges, water scarcity, and biodiversity loss due to increased frequency and intensity of heatwaves and storms. The document further emphasizes the importance of reducing emissions and achieving a net-zero emissions target. It acknowledges that the Council's efforts alone will not be sufficient and that changes must occur at other levels of government, within the community, and by major business and industry.",
+      "source": "Knox-a-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "We are starting to see some of its effects and will continue to see an increase in warmer and drier conditions, which will have negative consequences for health, infrastructure, agriculture, water, and biodiversity.",
+        "page": 2,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It acknowledges the state of climate emergency and the necessity to reduce environmental impact and prepare for the effects of a changing climate. The document outlines the Climate Response Plan 2021-2031, which sets targets and provides a roadmap with measurable actions to manage greenhouse gas emissions and respond to climate change. The plan includes actions such as community education programs, sustainable transport options, and policy reviews to consider climate change impacts. The document also emphasizes the importance of monitoring and evaluating the impact of these actions in terms of emission reduction, climate risk reduction, and the delivery of social, environmental, and economic benefits.",
+      "source": "Knox-b-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "As a community, we need to take action to reduce our impact on the environment and to prepare for the effects of a changing climate. Knox City Council recognises that we are in a state of climate emergency.",
+        "page": 1,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The policy 'Positioning Latrobe City for a Low Carbon Emissions Future' was adopted in 2010 with the aim of transitioning to a low carbon economy. The policy was developed in response to the Australian Government's consideration of a price on carbon emissions, indicating an understanding of the economic and environmental implications of carbon emissions. The policy is underpinned by three themes, one of which is 'Pursuing and realising opportunities', suggesting a proactive approach to the challenges and opportunities presented by a low carbon future. The policy also includes a commitment to work with the government of the day to achieve the best possible outcome for the community, demonstrating an ongoing commitment to addressing climate change. The policy's actions were assessed against the Victorian Government’s White Paper on Climate Change and were found to be relevant and complementary, further indicating the policy's alignment with broader climate change action.",
+      "source": "Latrobe-a-a12345678910.json",
+      "lga": "Latrobe",
+      "quote": {
+        "content": "In less than one year, Council had gone from being a low carbon transition observer with a limited understanding of the proposed scheme, its opportunities and challenges for the community, to being ahead of the game. Council formally adopted the policy on 6 April 2010 and began implementing the policy actions immediately.",
+        "page": 4,
+        "source": "Latrobe-2014-low-carbon.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The local government's policy, 'Positioning Latrobe City for a Low Carbon Emissions Future', was adopted in 2010 with the aim of transitioning to a low carbon economy. The policy was developed in response to the Australian Government's consideration of a price on carbon emissions, which would directly affect the local community due to its intensive brown coal energy generation industry. The policy was designed to proactively address the challenges and opportunities presented by a proposed carbon emissions pricing scheme. The policy contains 30 actions, 11 of which are considered complete, with 18 ongoing and one superseded by other initiatives. The policy's effectiveness is underscored by the fact that it was found to be relevant and complementary to the previous Victorian Government’s White Paper on Climate Change.",
+      "source": "Latrobe-b-a12345678910.json",
+      "lga": "Latrobe",
+      "quote": {
+        "content": "In less than one year, Council had gone from being a low carbon transition observer with a limited understanding of the proposed scheme, its opportunities and challenges for the community, to being ahead of the game. Council formally adopted the policy on 6 April 2010 and began implementing the policy actions immediately.",
+        "page": 4,
+        "source": "Latrobe-2014-low-carbon.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It acknowledges the significant challenges that climate change presents for the present and future, and emphasizes the role of local government councils in addressing these challenges. The document outlines the council's plans to reduce emissions from its own activities, influence key stakeholders, and support the community in reducing emissions. It also highlights the importance of climate change mitigation, resilience, and adaptation, and aims to incorporate climate change considerations into all decision-making processes of the council. The document also recognizes the influence of international, national, and state-level legislative and policy contexts on the council's work in climate change, and the need to align with these broader frameworks.",
+      "source": "MacedonRanges-a-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "Local government councils have the opportunity to reduce emissions from a range of services and operations, as well as being in a position to influence both the community and state government stakeholders in climate change action.",
+        "page": 3,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's Climate Change Action Plan, which is focused on reducing greenhouse gas emissions and adapting to the impacts of a changing climate. The plan includes actions to reduce energy consumption, increase energy efficiency, and transition away from coal-fired power to renewable energy sources. The documents also highlight the role of local government in influencing community and state government stakeholders in climate change action. The plan is presented as a response to the broader legislative and policy context at international, national, and state levels, including Australia's commitment to the Paris Agreement to reduce greenhouse gas emissions. The documents also acknowledge the influence of community action on climate change and the need for localised community climate action plans.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "Local government councils have the opportunity to reduce emissions from a range of services and operations, as well as being in a position to influence both the community and state government stakeholders in climate change action.",
+        "page": 3,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents explicitly explain the need for action on climate change. They highlight the shared commitment of the local government and the community to increase action on climate change, as demonstrated by their history of climate change action, the climate emergency resolution, community feedback, and the Council Plan 2021-2025. The documents also emphasize the importance of climate mitigation targets to drive increased action. They note that governments, businesses, and the international community are all moving towards taking more urgent action on climate change, which is essential to reduce greenhouse gas emissions and mitigate the impacts of climate change. The documents further state that everyone needs to play their part by reducing their own carbon footprints, supporting businesses that are taking action on climate change, and advocating for stronger government action.",
+      "source": "Manningham-a-a12345678910.json",
+      "lga": "Manningham",
+      "quote": {
+        "content": "It is important we aspire to climate mitigation targets to drive us to take increased action. Together with the community, we are committed to increasing action on climate change. Our shared commitment is demonstrated by our history of climate change action, the climate emergency resolution, community feedback and our Council Plan 2021-2025.",
+        "page": 6,
+        "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the shared commitment of the local government and the community to increase action on climate change, as demonstrated by their history of climate change action, the climate emergency resolution, community feedback, and the Council Plan 2021-2025. The documents also emphasize the importance of climate mitigation targets to drive increased action. They note that governments, businesses, and the international community are all moving towards taking more urgent action on climate change, which is essential to reduce greenhouse gas emissions and mitigate the impacts of climate change. The documents further stress that everyone needs to play their part by reducing their own carbon footprints, supporting businesses that are taking action on climate change, and advocating for stronger government action.",
+      "source": "Manningham-b-a12345678910.json",
+      "lga": "Manningham",
+      "quote": {
+        "content": "It is important we aspire to climate \nmitigation targets to drive us to take \nincreased action. Together with the community,  \nwe are committed to increasing \naction on climate change. Our shared commitment is \ndemonstrated by our history of \nclimate change action, the climate \nemergency resolution, community \nfeedback and our Council Plan \n2021-2025.",
+        "page": 6,
+        "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The Mansfield Shire Council acknowledges climate change as a threat to the community's way of life and has committed to mitigating its impacts within Council's operations and supporting the community to reduce greenhouse gas emissions. The Council's Climate Action Plan outlines key actions to be undertaken to achieve the goal of emissions reduction, including renewable power purchase, energy-efficient buildings and solar PV, street lighting upgrades, fleet transition, and purchase of offsets. The plan also identifies key sectors for community emissions reduction action areas, such as transport, residential and commercial energy, agriculture, land use, and waste. The Council is committed to demonstrating leadership in emissions reductions and climate change management, implementing cost-saving projects, supporting the community to implement climate action, and participating in collaborative efforts for emissions reduction initiatives.",
+      "source": "Mansfield-a-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "In doing so, Mansfield Shire Council has made a firm commitment to mitigate the impacts of climate change within Council’s own operations and to support the community to reduce municipal greenhouse gas emissions and adapt to a changing climate. Mansfield Shire Council (Council) acknowledges that climate change is a threat to our community’s way of life. In response, Council has passed a Councillor initiated resolution to develop a Mansfield Shire Climate Action Plan as outlined in Mansfield Shire’s Environment Strategy 2019-2023.",
+        "page": 4,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The Mansfield Shire Council acknowledges climate change as a threat to the community's way of life and has committed to mitigating its impacts within Council's operations and supporting the community to reduce greenhouse gas emissions. The Council's Climate Action Plan outlines key actions to be undertaken to achieve the goal, targets, and objectives outlined in the plan. These actions include renewable power purchase, energy-efficient buildings and solar PV, street lighting upgrades, fleet transition, and purchase of offsets. The plan also identifies key sectors for community emissions reduction action areas, including transport, residential and commercial energy, agriculture, land use, and waste. The Council is committed to supporting the community in establishing and furthering local climate initiatives, with a particular focus on climate change mitigation.",
+      "source": "Mansfield-b-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "In doing so, Mansfield Shire Council has made a firm commitment to mitigate the impacts of climate change within Council’s own operations and to support the community to reduce municipal greenhouse gas emissions and adapt to a changing climate. Mansfield Shire Council (Council) acknowledges that climate change is a threat to our community’s way of life. In response, Council has passed a Councillor initiated resolution to develop a Mansfield Shire Climate Action Plan as outlined in Mansfield Shire’s Environment Strategy 2019-2023.",
+        "page": 4,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Maribyrnong City Council's Climate Emergency Action Plan 2021-2025 clearly articulates the need for action on climate change. The document acknowledges the global climate emergency as an unprecedented threat to society, economy, and environment. It recognizes that the local community is already experiencing the impacts of climate change through extreme weather events, heat waves, flooding, health impacts, bushfire smoke, and other impacts to air and water quality. The document also highlights the benefits of taking climate action, such as increased vegetation and greening, decreased truck and vehicle pollution, more connected and safe cycling and walking options, and more comfortable housing. The Council's commitment to addressing the climate emergency is reflected in its key objectives, which include ceasing emissions of greenhouse gases by Council and working with the community to transition to zero greenhouse gas emissions by 2030, drawing down existing and future greenhouse gas emissions from the atmosphere, and empowering and mobilising community action and building community resilience.",
+      "source": "Maribyrnong-a-a12345678910.json",
+      "lga": "Maribyrnong",
+      "quote": {
+        "content": "Locally, our community is already experiencing the impacts of climate change through extreme weather events, heat waves, flooding, health impacts, bushfire smoke and other impacts to air and water quality — and these will only worsen as the climate emergency continues. Maribyrnong City Council recognises that the global climate emergency affects everyone, and poses an unprecedented threat to our society, economy and environment.",
+        "page": 5,
+        "source": "Maribyrnong-2021-climate-emergency-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Maribyrnong City Council's Climate Emergency Action Plan 2021-2025 clearly articulates the need for action on climate change. The document acknowledges the global climate emergency as an unprecedented threat to society, economy, and environment. It recognizes that the local community is already experiencing the impacts of climate change through extreme weather events, heat waves, flooding, health impacts, bushfire smoke, and other impacts to air and water quality. The document also emphasizes that these impacts will only worsen as the climate emergency continues. The council's commitment to addressing the climate emergency is reflected in its overarching goal to restore a safe climate at emergency speed to provide maximum protection for people and species. It also outlines key objectives and actions to cease emissions of greenhouse gases, draw down existing and future greenhouse gas emissions from the atmosphere, and empower and mobilize community action.",
+      "source": "Maribyrnong-b-a12345678910.json",
+      "lga": "Maribyrnong",
+      "quote": {
+        "content": "Locally, our community is already experiencing the impacts of climate change through extreme weather events, heat waves, flooding, health impacts, bushfire smoke and other impacts to air and water quality — and these will only worsen as the climate emergency continues. Maribyrnong City Council recognises that the global climate emergency affects everyone, and poses an unprecedented threat to our society, economy and environment.",
+        "page": 5,
+        "source": "Maribyrnong-2021-climate-emergency-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the importance of understanding and managing the risks and impacts of climate change, with the Melbourne Metropolitan Planning Strategy (Plan Melbourne 2017-2050) emphasizing the need for Melbourne to become a low-carbon city designed to cope with climate change effects. The Maroondah 2018 Climate Risk Adaptation document outlines the community's desire for the Council to 'lead by example' in adapting to climate change challenges. The Maroondah Sustainability Strategy 2022-2031 further emphasizes the need to embed climate change thinking into Council projects, operations, planning, and strategies, and to improve climate education across Council staff and the community. The documents also highlight the need for proactive management of climate change risks and the importance of early planning to reduce impacts.",
+      "source": "Maroondah-a-a12345678910.json",
+      "lga": "Maroondah",
+      "quote": {
+        "content": "The Melbourne Metropolitan Planning Strategy (Plan Melbourne 2017-2050) identifies that the Melbourne of 2050 needs to have become a low-carbon city designed to cope with the effects of climate change.",
+        "page": 10,
+        "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the importance of understanding and managing the risks and impacts of climate change, with the Melbourne Metropolitan Planning Strategy (Plan Melbourne 2017-2050) emphasizing the need for Melbourne to become a low-carbon city designed to cope with climate change effects. The Maroondah Climate Change Risk and Adaptation Strategy 2018/19 - 2021/22 outlines a plan of action for the next four years, enabling the Council to prepare for the long-term risks of climate change. It aims to guide the Council's efforts to integrate climate change risk management and adaptation. The documents also mention the importance of community engagement in strategic planning and decision-making related to climate change. The Maroondah Sustainability Strategy 2022-2031 further emphasizes the need to reduce Council's carbon inventory, adapt Council's practices to future climate scenarios, and improve climate education across Council staff and community.",
+      "source": "Maroondah-b-a12345678910.json",
+      "lga": "Maroondah",
+      "quote": {
+        "content": "The Melbourne Metropolitan Planning Strategy (Plan Melbourne 2017-2050) identifies that the Melbourne of 2050 needs to have become a low-carbon city designed to cope with the effects of climate change.",
+        "page": 10,
+        "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document clearly articulates the need for action on climate change. It aligns its strategy with the Paris Climate Agreement and the Victorian Climate Change Act 2017, indicating a recognition of the global and local legislative frameworks that mandate action on climate change. The document also refers to the Intergovernmental Panel on Climate Change's message that climate change is already impacting communities and that urgent action is needed. The policy outlines a commitment to act on the emissions that cause climate change and sets ambitious emissions reduction targets for 2030, with a goal to achieve net zero emissions before 2050. The document also acknowledges the role of cities in taking action on climate change and positions the City of Melbourne as a leader in this area.",
+      "source": "Melbourne-a-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "This provides a fresh opportunity for the City of Melbourne to pursue our long-standing commitment to act on the emissions that cause climate change. The Intergovernmental Panel on Climate Change has conveyed a clear message to leaders around the world that climate change is already impacting communities and that urgent action is needed. The Australian Government has ratified the Paris Climate Agreement and the Victorian Government has introduced the Climate Change Act 2017.",
+        "page": 8,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document clearly articulates the need for action on climate change. It aligns its strategy with the Paris Climate Agreement and the Victorian Climate Change Act 2017, indicating a commitment to reduce greenhouse gas emissions and achieve net zero emissions before 2050. The document also acknowledges the role of cities in addressing climate change and outlines a plan for the City of Melbourne to lead by example. It emphasizes the urgency of action, citing the Intergovernmental Panel on Climate Change's message that climate change is already impacting communities. The document also presents four scenarios for action, including 'Business as Usual', 'Significant Action', 'Accelerated Action', and 'Purchasing Offsets', demonstrating a comprehensive approach to tackling climate change.",
+      "source": "Melbourne-b-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "This provides a fresh opportunity for the City of Melbourne to pursue our long-standing commitment to act on the emissions that cause climate change. The Intergovernmental Panel on Climate Change has conveyed a clear message to leaders around the world that climate change is already impacting communities and that urgent action is needed. The Australian Government has ratified the Paris Climate Agreement and the Victorian Government has introduced the Climate Change Act 2017.",
+        "page": 8,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They outline a comprehensive Climate Change Adaptation Plan, which is a response to current and anticipated future changes due to climate change. The plan acknowledges that climate change will affect most areas of council operations, services, and functions, and therefore, it is important to embed climate change considerations in relevant strategies and plans. The documents also highlight the need to update existing strategies, policies, and processes to embed climate change adaptation considerations. The plan is designed to be adjustable to changes in circumstances and available information, and it aims to provide maximum net benefit (social, economic, environmental). The documents also mention the need to build staff understanding of climate change impacts and opportunities, indicating an understanding of the importance of climate change action at all levels of the organization.",
+      "source": "Melton-a-a12345678910.json",
+      "lga": "Melton",
+      "quote": {
+        "content": "While Council is already managing many of these impacts, this Plan provides a formal and coordinated climate change adaptation framework and action plan for the future.",
+        "page": 2,
+        "source": "Melton-Climate-Change-Adaptation-Plan-2020-2030.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They outline a comprehensive Climate Change Adaptation Plan, which is a response to current and anticipated future changes due to climate change. The plan is designed to reduce the local government's own contribution to climate change, achieve net zero emissions by 2040, and adapt to the unavoidable impacts of climate change. The documents highlight that climate change will affect most areas of council operations, services, and functions, and therefore, it is important to embed climate change considerations in relevant strategies and plans. The documents also emphasize the need to update existing strategies, policies, and processes to embed climate change adaptation considerations. The plan includes specific actions, such as improving understanding of climate change related exposure to legal and financial risk, integrating climate change considerations in relevant plans, policies, and processes, and monitoring climate change impacts on Council service delivery and operations.",
+      "source": "Melton-b-a12345678910.json",
+      "lga": "Melton",
+      "quote": {
+        "content": "While Council is already managing many of these impacts, this Plan provides a formal and coordinated climate change adaptation framework and action plan for the future.",
+        "page": 2,
+        "source": "Melton-Climate-Change-Adaptation-Plan-2020-2030.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It acknowledges the state of climate emergency that requires urgent action by all levels of government and society. The document recognizes the scale and speed of transformation needed to change energy markets, economy, legislation, and lifestyles to eliminate and draw down greenhouse gas emissions. It emphasizes the need for a nationwide and global emergency response. The document also highlights the role of civil society and businesses in demanding emergency-mode action on climate change. It further outlines the council's commitment to support the community in taking individual and collective action and advocating for urgent and effective policy and legislative reform at the state and federal government levels.",
+      "source": "Merribek-a-a12345678910.json",
+      "lga": "Merribek",
+      "quote": {
+        "content": "We will be engaging more deeply to support our community to take individual and collective action and collaborating in our advocacy to State and Federal Government for urgent and effective policy and legislative reform. We acknowledge the need to step up further.",
+        "page": 4,
+        "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It acknowledges the state of climate emergency that requires urgent action by all levels of government and society. The document recognizes the scale and speed of transformation needed to change energy markets, economy, legislation, and lifestyles to eliminate and draw down greenhouse gas emissions. It emphasizes the need for a nationwide and global emergency response. The document also highlights the role of civil society and businesses in demanding emergency-mode action on climate change. It further outlines the council's commitment to engage more deeply to support the community in taking individual and collective action and advocating for urgent and effective policy and legislative reform.",
+      "source": "Merribek-b-a12345678910.json",
+      "lga": "Merribek",
+      "quote": {
+        "content": "However, more and more households, businesses and councils are facing the urgent challenge of responding to the climate emergency, together. More extreme heatwaves, flash floods and loss of reliable seasonal rains are just some of the impacts hurting our people and wildlife.",
+        "page": 3,
+        "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document clearly articulates the need for action on climate change. It outlines the current climate situation and the adverse impacts of climate change, such as worsening weather conditions, rising sea levels, and increased frequency and intensity of extreme weather events. These changes are causing displacement of people and putting pressure on health services. The document also emphasizes the importance of education and engagement in reducing emissions and making the community sustainable. It presents various opportunities for taking action against climate change across different sectors, including health, waste, farming, and urban environment. The document also highlights the need for strategies that help both people and the environment while supporting economic growth.",
+      "source": "Mildura-a-a12345678910.json",
+      "lga": "Mildura",
+      "quote": {
+        "content": "Our aim is to provide a clear understanding of the current climate situation and suggest practical steps to reduce our environmental impact while adapting to climate change.",
+        "page": 4,
+        "source": "Mildura-Community-Climate-Response-Plan-2024-2029.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It emphasizes the current climate situation and the necessity to reduce environmental impact while adapting to climate change. The document highlights the adverse health impacts and pressure on health services due to worsening weather conditions. It also mentions the displacement of people due to climate change-induced extreme weather events. The document further underscores the importance of education and engagement in reducing emissions and making the community sustainable. It also presents various opportunities for taking action against climate change and identifies critical actions required to address it. The document also discusses the role of urban environment and farming in climate change and the need for actions and strategies in these areas.",
+      "source": "Mildura-b-a12345678910.json",
+      "lga": "Mildura",
+      "quote": {
+        "content": "Worsening weather conditions increase the risk of adverse health impacts and put immense pressure on existing health services. Our aim is to provide a clear understanding of the current climate situation and suggest practical steps to reduce our environmental impact while adapting to climate change.",
+        "page": 4,
+        "source": "Mildura-Community-Climate-Response-Plan-2024-2029.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It presents the 'Climate Emergency Action Plan' which outlines priority actions for Mitchell Shire to implement by 2030 to both reduce emissions and adapt to a changing climate. The plan includes actions to be undertaken by the Council within its own operations and assets, actions aimed at supporting the community, and actions focused on advocating to the State Government, Federal Government, and local service providers. The document also emphasizes the role of the Council in driving emissions reductions within the community, through its leadership role in the Shire. Furthermore, the document outlines six goals derived from community engagement activities, which are designed for the Council and the community to overcome barriers and challenges to climate change.",
+      "source": "Mitchell-a-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "It encompasses a range of actions \nincluding those to be undertaken  \nby Council within its own  \noperations and assets, actions aimed  \nat supporting the community, and \nactions focused on advocating to the \nState Government, Federal Government, \nand local service providers. This Action Plan presents priority  \nactions for Mitchell Shire to implement \nby 2030 to both reduce emissions \nand adapt to a changing climate.",
+        "page": 28,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It presents a Climate Emergency Action Plan, which includes priority actions for Mitchell Shire to implement by 2030 to both reduce emissions and adapt to a changing climate. The plan acknowledges the role of the council in driving emissions reductions within the community, through its leadership role in the Shire. The document also emphasizes the importance of community involvement in reducing emissions and adapting to climate change. It provides a checklist of actions that individuals or groups can take to reduce their climate impacts and help reduce emissions in the Shire. The document also presents climate adaptation and emissions reduction opportunities for the council to undertake to address the climate emergency.",
+      "source": "Mitchell-b-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "It encompasses a range of actions \nincluding those to be undertaken  \nby Council within its own  \noperations and assets, actions aimed  \nat supporting the community, and \nactions focused on advocating to the \nState Government, Federal Government, \nand local service providers. This Action Plan presents priority  \nactions for Mitchell Shire to implement \nby 2030 to both reduce emissions \nand adapt to a changing climate.",
+        "page": 28,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The local government's Zero Net Carbon Action Plan 2020-2025 outlines a series of actions aimed at reducing greenhouse gas emissions and mitigating the impacts of climate change. The plan includes strategies such as reducing paper use, updating the Environmental Sustainable Development policy, and developing a climate adaptation strategy. The plan also emphasizes the importance of energy efficiency, solar energy, and carbon offsets. The documents also mention the development of an urban forest to reduce heat island effects and the need to adapt buildings and infrastructure to changes in climate. The plan also includes actions to engage and educate the community about climate change and the importance of reducing emissions.",
+      "source": "Monash-a-a12345678910.json",
+      "lga": "Monash",
+      "quote": {
+        "content": "priority is to reduce GHG emissions and minimise the impacts of climate change through mitigation actions described in this action plan such as energy efficiency, solar and offsets.",
+        "page": 32,
+        "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It outlines a comprehensive plan to reduce greenhouse gas (GHG) emissions and mitigate the impacts of climate change. The plan includes strategies such as reducing paper use, updating the Environmental Sustainable Development policy, and developing a climate adaptation strategy. The document also mentions the development of an urban forest to reduce heat island effects. Furthermore, the document emphasizes the importance of community engagement and education in achieving carbon neutrality. It also highlights the need for sustainable procurement to reduce waste and embodied energy. The document clearly states that these actions are necessary to address the impacts of climate change and improve energy efficiency.",
+      "source": "Monash-b-a12345678910.json",
+      "lga": "Monash",
+      "quote": {
+        "content": "priority is to reduce GHG emissions and minimise the impacts of climate change through mitigation actions described in this action plan such as energy efficiency, solar and offsets.",
+        "page": 32,
+        "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's commitment to reducing greenhouse gas emissions, diverting waste from landfill, protecting and recycling valuable drinking water supplies, enhancing the urban environment and ecology, and keeping the city green and cool. The documents also mention the declaration of a climate emergency in October 2019, which is designed to accelerate sustained and meaningful action by all levels of government. The documents further detail specific actions to be taken, such as undertaking mapping and analysis of urban heat island effects, encouraging community members to improve tree canopy cover, and developing an internal Council program to respond to the climate emergency. These actions are part of a broader strategic direction to make the city cool and climate-adapted.",
+      "source": "MooneeValley-a-a12345678910.json",
+      "lga": "MooneeValley",
+      "quote": {
+        "content": "The climate emergency declaration is designed to accelerate sustained and meaningful action by all levels of government, and for people globally to engage with the challenge of avoiding catastrophic climate change and restoring a safe climate. Managing our city’s impact on the environment and adapting to climate change is a crucial part of making our city healthy. In October 2019, Council declared and acknowledged the climate emergency.",
+        "page": 3,
+        "source": "MooneeValley-mv2040-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They outline a comprehensive plan, the MV2040 Action Plan, which is aimed at reducing greenhouse gas emissions, diverting waste from landfill, protecting and recycling valuable drinking water supplies, enhancing the urban environment and ecology, and keeping the city green and cool. The plan acknowledges the climate emergency and is designed to accelerate sustained and meaningful action by all levels of government, and for people globally to engage with the challenge of avoiding catastrophic climate change and restoring a safe climate. The plan also includes specific actions such as undertaking mapping and analysis of urban heat island effects, encouraging community members to improve tree canopy cover, and developing an internal Council program to respond to the climate emergency.",
+      "source": "MooneeValley-b-a12345678910.json",
+      "lga": "MooneeValley",
+      "quote": {
+        "content": "The climate emergency declaration is designed to accelerate sustained and meaningful action by all levels of government, and for people globally to engage with the challenge of avoiding catastrophic climate change and restoring a safe climate. In October 2019, Council declared and acknowledged the climate emergency.",
+        "page": 3,
+        "source": "MooneeValley-mv2040-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It identifies climate change as a major driver of change and outlines the increasing frequency and danger of climate impacts such as extreme heat waves, bushfires, and drought. The document emphasizes the need for the Council to plan for these impacts, understand the climate risks to the council and its community, and take steps to mitigate these risks. It also highlights the need to reduce greenhouse emissions, improve water efficiency, and ensure a more localized food supply. The document further underscores the importance of reducing the community's and businesses' emissions and energy costs, and facilitating access to renewable energy. The document's explicit call for action is grounded in the recognition of the severe and increasing impacts of climate change, and the need to mitigate these impacts through strategic planning and action.",
+      "source": "Moorabool-a-a12345678910.json",
+      "lga": "Moorabool"
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It identifies climate change as a major driver of change and highlights the increasing frequency and danger of climate impacts such as extreme heat waves, bushfires, and drought. The document emphasizes the need for the Council to plan and mitigate for these climate risks, reduce greenhouse emissions, and assist the community and businesses in cutting their emissions and energy costs. It also underscores the importance of reducing water consumption and improving water efficiency to mitigate future drought and low water supplies. The document further stresses the need for a more localized food supply as part of the climate change response. The Western Alliance for Greenhouse Action's strategies and action plans are also referenced, indicating the Council's alignment with broader climate change initiatives.",
+      "source": "Moorabool-b-a12345678910.json",
+      "lga": "Moorabool"
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They acknowledge the reality of climate change and its potential catastrophic effects on the planet's ecosystems. The documents highlight the urgency of the situation, stating that we are at a crisis point and that every bit of warming matters. The documents also outline the local government's commitment to reversing climate change trends, setting targets to reduce emissions and reach net zero. They emphasize the need for action at multiple levels, including local government, state, national, and global levels. The documents also highlight the role of the community in advocating for climate action and participating in community action. The documents further outline a series of steps and actions to address the climate emergency, indicating a clear plan of action.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "As a community, we recognise that climate change is real and we are at a crisis point in terms of reducing the catastrophic effects of humanity’s effect on the planet’s ecosystems.",
+        "page": 11,
+        "source": "Mornington-2020-climate-emergency-response-part1.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They acknowledge the reality of climate change and its potential catastrophic effects on the planet's ecosystems. The documents outline a plan to reverse climate change trends, setting targets to reduce municipality emissions and reach net zero. They also highlight the risks associated with inaction or insufficient action, such as long-lasting or irreversible changes associated with warming of 1.5˚C or higher. The documents further emphasize the need for resources, community engagement, and advocacy at various levels of government to successfully implement the plan. They also acknowledge the need for adaptation to unavoidable impacts of climate change, indicating a comprehensive approach to addressing the climate emergency.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "Every extra bit of warming matters, especially since warming of 1.5˚C or higher increases the risk associated with long-lasting or irreversible changes. As a community, we recognise that climate change is real and we are at a crisis point in terms of reducing the catastrophic effects of humanity’s effect on the planet’s ecosystems.",
+        "page": 11,
+        "source": "Mornington-2020-climate-emergency-response-part1.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The document does explicitly explain the need for action on climate change. It outlines the local government's commitment to environmental sustainability, with specific objectives and actions to improve greenhouse gas emissions. The document also mentions the Council's previous involvement in the Cities for Climate Protection Program™, through which it was able to reduce its corporate greenhouse gas emissions by 20% from 2002 levels by 2009. The document further emphasizes the need for continued vigilance in influencing external parties and projects to create positive outcomes within its own community. This indicates a clear recognition of the need for action on climate change, both in terms of reducing the Council's own emissions and in terms of broader community engagement and education.",
+      "source": "Moyne-a-a12345678910.json",
+      "lga": "Moyne",
+      "quote": {
+        "content": "Through its involvement in this program, Council was able to reduce its corporate greenhouse gas emissions by 20% from 2002 levels by 2009. In recognition of the importance of reducing greenhouse gas emissions at the local level, Moyne Shire Council resolved in December 2002 to participate in the Cities for Climate Protection Program™.",
+        "page": 24,
+        "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly explain the need for action on climate change. It outlines the local government's commitment to environmental sustainability, with specific objectives and actions to improve greenhouse gas emissions. The document also mentions the Council's previous involvement in the Cities for Climate Protection Program™, through which it was able to reduce its corporate greenhouse gas emissions by 20% from 2002 levels by 2009. The document further emphasizes the need for continued vigilance in influencing external parties and projects to create positive outcomes within its own community. This indicates a clear recognition of the need for action on climate change, both in terms of reducing the Council's own emissions and in promoting broader community awareness and action.",
+      "source": "Moyne-b-a12345678910.json",
+      "lga": "Moyne",
+      "quote": {
+        "content": "Through its involvement in this program, Council was able to reduce its corporate greenhouse gas emissions by 20% from 2002 levels by 2009. In recognition of the importance of reducing greenhouse gas emissions at the local level, Moyne Shire Council resolved in December 2002 to participate in the Cities for Climate Protection Program™.",
+        "page": 24,
+        "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the human influence on global warming and the associated impacts on people and ecosystems. The local government is committed to reducing greenhouse gas emissions and addressing climate change vulnerability, with a goal to become carbon neutral by 2025. The documents outline key actions to achieve this goal, including reducing methane pollution from landfills, installing renewable energy capacity, optimizing and gradually electrifying the vehicle fleet, and implementing substantial energy efficiency measures. The documents also emphasize the importance of adaptation measures, particularly for the most vulnerable people and places, and the role of community-based and regional climate change response projects. The need for action is further underscored by the commitment to integrate a climate change lens into all of the council's activities, and to hold the council accountable for the actions in the plan.",
+      "source": "MtAlexander-a-a12345678910.json",
+      "lga": "MtAlexander",
+      "quote": {
+        "content": "Council supports efforts to radically reduce greenhouse gas emissions and address climate change vulnerability, and intends to become carbon neutral in 2025. Human influence on the global climate system is responsible for global warming and the related impacts on people and ecosystems.",
+        "page": 4,
+        "source": "MtAlexander-2016-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the human influence on global warming and the associated impacts on people and ecosystems. The local government is committed to reducing greenhouse gas emissions and addressing climate change vulnerability, with a specific target to become carbon neutral by 2025. The documents outline key actions to achieve this goal, including reducing methane pollution from landfills, installing renewable energy capacity, optimizing and electrifying the vehicle fleet, and implementing substantial energy efficiency measures. The documents also emphasize the importance of adaptation measures for vulnerable people and places, and the provision of support and advocacy for community-based and regional climate change response projects. The need for action is further underscored by the commitment to integrate a climate change lens into all of the council's activities, and to hold the council accountable for the actions in the plan.",
+      "source": "MtAlexander-b-a12345678910.json",
+      "lga": "MtAlexander",
+      "quote": {
+        "content": "Council supports efforts to radically reduce greenhouse gas emissions and address climate change vulnerability, and intends to become carbon neutral in 2025. Human influence on the global climate system is responsible for global warming and the related impacts on people and ecosystems.",
+        "page": 4,
+        "source": "MtAlexander-2016-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provided do explicitly explain the need for action on climate change. The Climate Change Action Plan outlines four central goals, which include developing internal knowledge and systems to consider climate change in decision making, achieving net zero emissions by 2035, and minimizing the impacts of climate change on Council’s infrastructure and services. The plan also acknowledges the community's concern about climate change and their support for the plan. It further outlines specific actions, targets, and strategic directions to address climate change, demonstrating a clear understanding of the need for action. The plan also emphasizes the importance of leading by example to inspire and motivate others to take action on climate change.",
+      "source": "Murrindindi-a-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "CLIMATE ADAPTATION Minimising the impacts of climate change on Council’s infrastructure and services. In keeping with our commitment, this Plan addresses climate change through four central goals. These are: 1. GOVERNANCE FOUNDATIONS Developing internal knowledge and systems so that climate change is considered in decision making across the organisation. 2. CLIMATE MITIGATION Addressing the crisis at its root by achieving net zero by 2035 and meeting our interim targets of 20% by 2025, and 75% by 2030 (reduction based on 2016/17 baseline levels). 3. 3.",
+        "page": 34,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does explicitly explain the need for action on climate change. It outlines a Climate Change Action Plan, which is a strategic approach to addressing climate change through four central goals: Governance Foundations, Climate Mitigation, Climate Adaptation, and Community Mobilisation. The document also provides specific targets for each goal, such as achieving net zero emissions by 2035 and interim targets of 20% by 2025, and 75% by 2030. The document also acknowledges the community's concern about climate change and the need for the local government to take action. It further emphasizes the need for the local government to lead by example in addressing climate change.",
+      "source": "Murrindindi-b-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "CLIMATE MITIGATION Addressing the crisis at its root by achieving net zero by 2035 and meeting our interim targets of 20% by 2025, and 75% by 2030 (reduction based on 2016/17 baseline levels). In keeping with our commitment, this Plan addresses climate change through four central goals. These are: 1. GOVERNANCE FOUNDATIONS Developing internal knowledge and systems so that climate change is considered in decision making across the organisation. 2.",
+        "page": 34,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document clearly articulates the need for action on climate change. It outlines the local government's commitment to addressing climate change through a variety of strategies and actions. The Climate Action Plan 2022-2032 is described as a roadmap for the Council and community to work together to address climate change over the next decade. The document also states that the Council has declared a climate emergency, which provides the overarching impetus for the objectives and strategies contained in the plan. The plan emphasizes mitigation and adaptation in Council's activities and operations, as well as in the broader community. It sets a goal of net zero emissions in Council operations by 2030 and a 2035 net zero emissions target for the community. The document also acknowledges the devastating impacts of fires, floods, and other extreme weather events, which further underscores the need for action on climate change.",
+      "source": "Nillumbik-a-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "This public declaration is integral as it provides the overarching impetus for the objectives and strategies contained in the plan. This is why, as part of this Plan, Council has declared a climate emergency.",
+        "page": 4,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It outlines the local government's commitment to addressing climate change through a variety of strategies and plans. The Climate Action Plan 2022-2032 is described as a roadmap for the Council and community to work together to address climate change over the next decade. The document also mentions the declaration of a climate emergency, which underscores the urgency and importance of taking action. The plan emphasizes both mitigation and adaptation in Council's activities and operations, as well as in the broader community. It sets a goal of net zero emissions in Council operations by 2030 and a 2035 net zero emissions target for the community. The document also acknowledges the international commitment to limit the temperature increase to 1.5⁰C, and the role of local government in helping to curb emissions to achieve this goal.",
+      "source": "Nillumbik-b-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "This is why, as part of this Plan, Council has declared a climate emergency.",
+        "page": 4,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document clearly articulates the need for action on climate change. It emphasizes the urgency of the situation, stating that climate change is affecting every country and disrupting national economies. The document also highlights the increasing pressure on life-sustaining systems such as the atmosphere, land, oceans, and biodiversity due to rising greenhouse gas emissions. It further underscores the importance of reducing these emissions and transitioning from fossil fuels to renewable energy to tackle the climate emergency. The document also mentions the need to support vulnerable populations and protect essential systems and services from the impacts of climate change. It encourages residents and businesses to take meaningful action to reduce their emissions and become more climate resilient.",
+      "source": "PortPhillip-a-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "We encourage residents and businesses to take meaningful action to reduce their emissions, learn how to become more climate resilient and prepare for a changing climate. Responding requires investment in our assets, changing how we deliver our services and working with our community and partners to mitigate and adapt to climate change.",
+        "page": 33,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It emphasizes the urgency of the situation, stating that climate change is affecting every country and disrupting national economies. The document also highlights the increasing pressure on life-sustaining systems such as the atmosphere, land, oceans, and biodiversity due to rising temperatures, increased flooding, rising sea levels, changing rainfall patterns, and more extreme storms. It further notes that greenhouse gas emissions from human activities are at their highest levels in history, driving climate change. The document underscores the importance of reducing greenhouse gas emissions and transitioning from fossil fuels to renewable energy to tackle the climate emergency. It also mentions the need to support vulnerable people and prioritize solutions that will help protect essential systems and services. The document also states that action is crucial because climate change impacts everyone in the community, with vulnerable members most affected.",
+      "source": "PortPhillip-b-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "The IPCC says that urgent climate action can secure a liveable future for all. Responding to the climate emergency is possible.",
+        "page": 24,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide a clear indication of the need for action on climate change. The 'Climate Change Response and Mitigation Action Plan' adopted by the council outlines various measures to respond to the impacts of climate change. These include planning for flood events, investing in resilient infrastructure, and reducing greenhouse gas emissions. The plan acknowledges the ongoing increase in greenhouse gas emissions and the community's expectation of the council's responsibility to minimize environmental footprint. The 'Heatwave Plan' also acknowledges the impact of climate change, specifically the increase in frequency and intensity of heatwaves. It outlines a strategic action plan to minimize the adverse effects of extreme heat-related events on vulnerable members of the community. These documents demonstrate the local government's recognition of the need for action on climate change and their commitment to implementing measures to mitigate its impacts.",
+      "source": "Pyrenees-a-a12345678910.json",
+      "lga": "Pyrenees"
+    },
+    {
+      "answer": "The documents provide explicit reasons for the need for action on climate change. The Climate Change Response and Mitigation Action Plan adopted by the council outlines the changing climate conditions, such as hotter and dryer weather, increased greenhouse gas emissions, and increased demand for water. These changes are impacting the local community and environment, affecting agriculture, natural biodiversity, and community infrastructure. The documents also highlight the community's expectation of the council's social responsibility to minimize environmental footprint. The council's response includes measures to mitigate flood events, invest in resilient infrastructure, monitor and reduce energy consumption, and advocate for government leadership in setting targets for greenhouse gas reduction. The Heatwave Plan also acknowledges the increasing frequency and intensity of heatwaves due to climate change, and the need for preparedness to protect vulnerable community members.",
+      "source": "Pyrenees-b-a12345678910.json",
+      "lga": "Pyrenees"
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It refers to the United Nations Intergovernmental Panel on Climate Change (IPCC) report, which warns of the impacts of global warming and the limited time left to avert a climate crisis. The document also defines the climate emergency, emphasizing the immediate and significant risk it poses, and the urgent need for action to avoid that risk. The policy outlines a Climate Emergency Response Plan, which includes actions that reduce emissions, prepare for changes in the climate, and influence others towards mitigation and adaptation actions. The document also emphasizes the importance of aligning with the United Nations Sustainable Development Goals (SDGs) to contribute to global climate action efforts.",
+      "source": "Queenscliffe-a-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "Emergencies have the following essential elements: Immediate and significant risk, Require action to avoid that risk. An increase of global warming at current rates will significantly increase the risk of drought, floods, extreme heat and climate-related poverty for millions of people across the world. This is the Climate Emergency.",
+        "page": 11,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document clearly explains the need for action on climate change. It refers to the United Nations Intergovernmental Panel on Climate Change (IPCC) report, which warns of a climate crisis if significant changes are not made within a specific timeframe. The document also defines a climate emergency as a situation with immediate and significant risk that requires action to avoid. It further emphasizes the need for every level of government and community to work together to address this emergency. The document also outlines the community's desire for climate action, with a focus on renewable energy, changes to waste management, and becoming a zero-carbon community. The document's emphasis on the urgency of the situation and the need for immediate action underscores the necessity of addressing climate change.",
+      "source": "Queenscliffe-b-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "Emergencies have the following essential elements: Immediate and significant risk, Require action to avoid that risk. An increase of global warming at current rates will significantly increase the risk of drought, floods, extreme heat and climate-related poverty for millions of people across the world. This is the Climate Emergency.",
+        "page": 11,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It states that the purpose of the Climate Change Adaptation Plan is to enable people, businesses, infrastructure, and the environment to cope with an increasingly variable and volatile climate. The document acknowledges the broad-ranging impacts of climate change in the Shire, and asserts that adaptation is essential. The plan sets out priority risks and action areas for the next ten years, including both short-term and long-term actions. The document also emphasizes the importance of working in partnership to respond to risks that cross organizational boundaries. The plan's objectives include leading the community and business to build resilience and proactively consider climate risk, and working with key financial partners to increase consideration of climate risk.",
+      "source": "SouthernGrampians-a-a12345678910.json",
+      "lga": "SouthernGrampians",
+      "quote": {
+        "content": "Where there are risks that cross organisational boundaries, we are committed to working in partnership to respond. The Plan sets out our priority risks and action areas for the next ten years, with the prioritised risks including those to Council operations as well as those relevant to our community. To respond, we have broken down actions into short term and long term.",
+        "page": 2,
+        "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The Climate Change Adaptation Plan is designed to enable the local community, businesses, infrastructure, and environment to cope with an increasingly variable and volatile climate. The plan acknowledges the broad-ranging impacts of climate change in the Shire, and emphasizes the necessity of adaptation. The plan sets out priority risks and action areas for the next ten years, including both short-term and long-term actions. The plan also outlines six prioritized adaptation actions, each with a range of sub-actions, and provides implementation details for each. These actions are designed to address various aspects of climate change, including greenhouse gas emissions, community resilience, water management, construction practices, and more. The plan also includes a commitment to working in partnership to respond to risks that cross organizational boundaries.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians",
+      "quote": {
+        "content": "Where there are risks that cross organisational boundaries, we are committed to working in partnership to respond. The Plan sets out our priority risks and action areas for the next ten years, with the prioritised risks including those to Council operations as well as those relevant to our community. To respond, we have broken down actions into short term and long term.",
+        "page": 2,
+        "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It outlines the local government's future work in climate change, which will be governed through the implementation of a new Climate Action Plan. This plan will include emissions reduction targets and pathways for the Council, as well as detailed and concrete actions to achieve the Council’s goals in both climate change mitigation and adaptation. The document also emphasizes the Council's responsibilities under the Local Government Act 2020, which mandates that 'mitigation and planning for climate change risks, is to be promoted'. This indicates a clear recognition of the need for action on climate change, both in terms of reducing emissions and planning for the impacts of climate change.",
+      "source": "SouthGippsland-a-a12345678910.json",
+      "lga": "SouthGippsland",
+      "quote": {
+        "content": "The Climate Action Plan will include emissions reduction targets and pathways for Council going forward, as well as detailed and concrete actions to be undertaken in order to achieve Council’s goals in both climate change mitigation and adaptation. Council’s future work in climate change will be governed through implementation of a new Climate Action Plan, which will be developed with extensive internal and community consultation to reflect the community’s desires and ambition in this space.",
+        "page": 11,
+        "source": "SouthGippsland-Environmental_Sustainbility_Strategy_Framework_2021.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It outlines the local government's future work in climate change, which will be governed through the implementation of a new Climate Action Plan. This plan will include emissions reduction targets and pathways for the Council, as well as detailed and concrete actions to achieve the Council's goals in both climate change mitigation and adaptation. The document also emphasizes the Council's responsibilities under the Local Government Act 2020, which mandates that mitigation and planning for climate change risks must be promoted. Furthermore, the document highlights the need for the Council to broaden its focus on both adaptation and mitigation of climate change, and to consider expanding measures to reduce emissions from both Council operations and the broader municipality.",
+      "source": "SouthGippsland-b-a12345678910.json",
+      "lga": "SouthGippsland",
+      "quote": {
+        "content": "This Action Plan will include emissions reduction targets and pathways for Council going forward, as well as detailed and concrete actions to be undertaken in order to achieve Council’s goals in both climate change mitigation and adaptation. Council’s future work in climate change will be governed through implementation of a new Climate Action Plan, which will be developed with extensive internal and community consultation to reflect the community’s desires and ambition in this space. The Climate Action Plan will then be considered by an elected Council following elections scheduled for late 2021.",
+        "page": 11,
+        "source": "SouthGippsland-Environmental_Sustainbility_Strategy_Framework_2021.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It emphasizes the urgency of the situation, referring to it as a 'global climate emergency' that requires immediate action. The document acknowledges the local impacts of climate change, including effects on the environment, economy, and community health and wellbeing. It also recognizes the human activities contributing to climate change, such as burning fossil fuels, manufacturing, agricultural practices, and deforestation. The document outlines the local government's commitment to act on climate change and lead local action. It presents a Climate Emergency Action Plan, which outlines climate adaptation and mitigation priorities and steps for immediate and urgent action on climate change. The plan also includes a commitment to reduce greenhouse gas emissions and prepare the city and community for a changing climate.",
+      "source": "Stonnington-a-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "We need to act, before it is too late. We are in the midst of a global climate emergency and we need to act now. While climate change is a global issue, it has local impacts, affecting our environment, economy and the health and wellbeing of our community.",
+        "page": 4,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They emphasize the urgency of the situation, referring to it as a 'global climate emergency' that requires 'immediate and urgent action'. The documents also highlight the local impacts of climate change, including effects on the environment, human health, and the local economy. The Climate Emergency Action Plan is presented as a response to this urgent need, outlining the local government's climate adaptation and mitigation priorities. The plan is aimed at reducing greenhouse gas emissions, preparing the city and community for a changing climate, and embedding climate emergency response throughout the organization. The documents also note the responsibility of the local government to lead local action on climate change.",
+      "source": "Stonnington-b-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "We need to act, before it is too late. We are in the midst of a global climate emergency and we need to act now. While climate change is a global issue, it has local impacts, affecting our environment, economy and the health and wellbeing of our community.",
+        "page": 4,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan clearly outlines the need for action on climate change. The document emphasizes the council's role in shaping the local area's environmental potential and performance, and it outlines a series of actions to address climate change. These actions include advocating for and investigating local net zero emissions community energy solutions, instituting a revolving energy fund for future projects, and developing fossil fuel divestment policy options. The document also mentions the negative impacts of climate change on future generations, indicating a recognition of the long-term consequences of inaction. Furthermore, the council has set a target of achieving net zero emissions by 2025 for council operations, demonstrating a commitment to taking concrete steps to address climate change.",
+      "source": "Strathbogie-a-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "To achieve our Shire targets, we will continue to engage in, and urge robust, progressive partnerships between all levels of government, the private sector, and the community.",
+        "page": 24,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan clearly outlines the need for action on climate change. The document emphasizes the council's role in promoting environmental sustainability and mitigating the negative impacts of climate change on future generations. The council has set a goal of achieving net zero emissions by 2025 for its operations, indicating a clear recognition of the urgency of climate action. The plan includes specific actions such as advocating for local net zero emissions community energy solutions, instituting a revolving energy fund for future projects, and developing fossil fuel divestment policy options. The council also plans to review the plan every five years to ensure it remains proactive and embraces best practice opportunities. This demonstrates a commitment to ongoing improvement and adaptation in response to the evolving challenges of climate change.",
+      "source": "Strathbogie-b-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "Much of this can be gained through the addition of renewable energy, capping a legacy landfill, and transitioning our fleet.",
+        "page": 11,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document clearly articulates the need for action on climate change. It outlines the local government's commitment to climate mitigation, adaptation, and mobilisation, and recognises climate change as the 'single biggest and most urgent challenge' faced in our lifetime. The document also acknowledges the impacts of climate change on local operations, such as increased severe weather events and sea level rises affecting open space maintenance. The policy further commits to regular reviews and updates to respond to emerging climate projections and opportunities. It also sets specific targets, such as achieving net zero greenhouse gas emissions and sourcing 100% renewable electricity. The policy's focus on partnerships and community-led responses further underscores the perceived urgency and scale of the climate emergency.",
+      "source": "SurfCoast-a-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The document clearly articulates the need for action on climate change. It outlines the local government's commitment to climate mitigation, adaptation, and mobilisation, and recognises climate change as the 'single biggest and most urgent challenge' faced in our lifetime. The document also acknowledges the impacts of climate change on local operations, such as increased severe weather events and sea level rises affecting open space maintenance. The policy further commits to specific actions, such as purchasing 100% renewable electricity and becoming a carbon neutral organisation in 2021-22. It also sets targets for action completion and reporting, demonstrating a commitment to accountability and progress tracking. The document's emphasis on partnerships with the community, other councils, and agencies underscores the importance of collective action in addressing climate change.",
+      "source": "SurfCoast-b-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The document does explicitly explain the need for action on climate change. It outlines the local government's strategic tasks related to climate change, such as facilitating community efforts to adapt to climate change, developing a mechanism to measure greenhouse gas emissions, and working with stakeholders to develop a coordinated approach to climate variability adaptation and mitigation. The document also acknowledges the challenges facing rural communities, such as climate change, both short and longer term fluctuations, and the need for agricultural sector restructuring in response to domestic and global market forces. These challenges, while restricting community capacity to achieve sustainability, are seen as providing substantial new opportunities for innovation and capacity building. Therefore, the document clearly communicates the need for action on climate change.",
+      "source": "SwanHill-a-a12345678910.json",
+      "lga": "SwanHill",
+      "quote": {
+        "content": "These challenges, while restricting community capacity to achieve sustainability, provide substantial new opportunities for innovation and capacity building. There are many challenges facing rural communities, such as climate change, both short and longer term fluctuations; agricultural sector restructuring in response to domestic and global market forces and financial market volatility; restructuring of water management regimes through sustainable diversion limits imposed by the Murray Darling Basin Authorities Basin Plan; demographic changes expressed through increasing ageing population and overall population decline in many of the outlying communities.",
+        "page": 3,
+        "source": "SwanHill-Sustainable-Living-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does explicitly explain the need for action on climate change. It outlines the local government's strategic tasks related to climate change, such as facilitating community efforts to adapt to climate change, developing a mechanism to measure greenhouse gas emissions, and working with stakeholders to develop a coordinated approach to climate variability adaptation and mitigation. The document also acknowledges the challenges facing rural communities, such as climate change, and the need for innovation and capacity building to achieve sustainability. It further emphasizes the importance of regularly reviewing and updating relevant plans and policies in relation to climate variability and change, and energy efficiency.",
+      "source": "SwanHill-b-a12345678910.json",
+      "lga": "SwanHill",
+      "quote": {
+        "content": "These challenges, while restricting community capacity to achieve sustainability, provide substantial new opportunities for innovation and capacity building. There are many challenges facing rural communities, such as climate change, both short and longer term fluctuations; agricultural sector restructuring in response to domestic and global market forces and financial market volatility; restructuring of water management regimes through sustainable diversion limits imposed by the Murray Darling Basin Authorities Basin Plan; demographic changes expressed through increasing ageing population and overall population decline in many of the outlying communities.",
+        "page": 3,
+        "source": "SwanHill-Sustainable-Living-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of addressing climate change, recognizing it as an immediate threat, not a distant one. The documents underscore the impacts of climate change on all aspects of council operations and community life. They also acknowledge the recent 2020 bushfires as a stark reminder of how climate change can affect lives, emphasizing the risks associated with increased adverse weather events. The documents further outline the council's commitment to creating an environmentally sustainable municipality by minimizing adverse impacts from the built environment and improving urban ecology. They also detail specific actions to reduce greenhouse gas emissions and improve environmental outcomes, such as developing a carbon reduction action plan and investigating the feasibility of community-owned renewable energy generation.",
+      "source": "Wangaratta-a-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "The recent 2020 bushfires are a sharp reminder of how climate change can impact upon our lives, it highlights the risks we face with increased adverse weather events and the urgency required to reduce our greenhouse gas emissions if we are to rise to the challenge of creating a better life for future generations. Climate change is not a distant threat.",
+        "page": 2,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of addressing climate change, recognizing it as an imperative issue that influences all aspects of council operations and community life. The documents identify climate change as a key environmental challenge, along with unsustainable resource use, pest plants and animals, changes to land use, loss of habitat, water resource availability, soil health issues, and adverse weather events. The recent 2020 bushfires are cited as a stark reminder of the impacts of climate change, emphasizing the urgency to reduce greenhouse gas emissions for future generations. The documents also acknowledge the need to increase community resilience to mitigate and adapt to climate changes, which will affect many health pillars identified in the Municipal Health & Wellbeing Plan. Therefore, the documents explicitly explain the need for action on climate change.",
+      "source": "Wangaratta-b-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "The recent 2020 bushfires are a sharp reminder of how climate change can impact upon our lives, it highlights the risks we face with increased adverse weather events and the urgency required to reduce our greenhouse gas emissions if we are to rise to the challenge of creating a better life for future generations. Climate change is not a distant threat.",
+        "page": 2,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The local government acknowledges climate change as the most pressing economic and environmental issue of our time and outlines a Climate Change Action Plan to tackle its root causes. The plan aims to reduce the Council's emissions by 30% by 2020 and explores the impact of climate change on various city systems including water supply, transport, communications, energy services, emergency services, and the built environment. The documents also identify key climate change risks such as less rainfall, more chance of drought, extreme heatwaves and bushfires, more intense rainfall and wind storms, and sea level rise. The need for action is further emphasized by the commitment to develop a Sustainable Building Design Policy, review and update the Climate Change Action Plan, and support the construction and development of Zero Net Carbon Neighbourhoods.",
+      "source": "Warrnambool-a-a12345678910.json",
+      "lga": "Warrnambool",
+      "quote": {
+        "content": "Council’s Climate Change Action Plan outlines how we will achieve our target of reducing Council’s emissions by 30 per cent by the year 2020 and we now need to look beyond this for future emissions reductions. Climate Change is the most pressing economic and environmental issue of our time. Council acknowledges the need to tackle the root causes of climate change.",
+        "page": 10,
+        "source": "Warrnambool-Green-Warrnambool.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The local government acknowledges climate change as the most pressing economic and environmental issue of our time and outlines a Climate Change Action Plan to tackle its root causes. The plan aims to reduce Council’s emissions by 30 per cent by the year 2020 and explores future emissions reductions. The documents identify four key climate change risks: less rainfall and more chance of drought, extreme heatwaves and bushfires, more intense rainfall and wind storms, and sea level rise; inundation and erosion. The plan also assesses the impact of these risks on the city’s systems, including water supply, transport, communications, energy services, emergency services, and the built environment. The documents further outline actions to manage impacts on the natural environment, protect biodiversity, adapt to coastal changes, protect water resources, improve the resilience of the built environment, and address heat in the urban environment.",
+      "source": "Warrnambool-b-a12345678910.json",
+      "lga": "Warrnambool",
+      "quote": {
+        "content": "Council’s Climate Change Action Plan outlines how we will achieve our target of reducing Council’s emissions by 30 per cent by the year 2020 and we now need to look beyond this for future emissions reductions. Climate Change is the most pressing economic and environmental issue of our time. Council acknowledges the need to tackle the root causes of climate change.",
+        "page": 10,
+        "source": "Warrnambool-Green-Warrnambool.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It acknowledges the consensus of the UN Intergovernmental Panel on Climate Change (IPCC) that human-induced climate change is real and is already impacting communities. The document also recognizes that if emissions continue unabated, these impacts will significantly jeopardize the health, livelihoods, and socio-economic basis of communities. It further notes that climate change will have both negative and potential positive effects on the region, and understanding these impacts is critical for effective long-term planning. The document also highlights the connection between the built environment, climate change, and public health. It emphasizes the need to support vulnerable communities with high exposure to climate change impacts and to prioritize them in a reduced funding environment.",
+      "source": "Wellington-a-a12345678910.json",
+      "lga": "Wellington",
+      "quote": {
+        "content": "Climate change will have both negative and potential positive effects on the region, and understanding those impacts are critical for effective long-term planning. Global warming is already impacting on our communities and if emissions continue unabated these impacts will significantly jeopardise the health, livelihoods and socio-economic basis of our communities. We will plan for a range of scenarios.",
+        "page": 22,
+        "source": "Wellington-Sustainability-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They acknowledge the consensus of the UN Intergovernmental Panel on Climate Change (IPCC) that human-induced climate change is real and already impacting communities. The documents also recognize that if emissions continue unabated, these impacts will significantly jeopardize the health, livelihoods, and socio-economic basis of communities. The documents further highlight the need to support vulnerable communities with high exposure to climate change impacts. They also emphasize the close connection between the built environment, climate change, and public health. The documents underscore the urgency of action, stating that under current warming scenarios, urgent action is required for the global community to have a chance to stay under 2°C warming to limit the severity of impacts.",
+      "source": "Wellington-b-a12345678910.json",
+      "lga": "Wellington",
+      "quote": {
+        "content": "We will plan for a range of scenarios. Global warming is already impacting on our communities and if emissions continue unabated these impacts will significantly jeopardise the health, livelihoods and socio-economic basis of our communities.",
+        "page": 22,
+        "source": "Wellington-Sustainability-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the global challenge of climate change and the necessity of local solutions. The documents emphasize the urgency of climate action to minimize impacts such as increased stormwater runoff, flash flooding, damage to buildings and infrastructure, pressure on emergency services, heat-related deaths, loss of biodiversity, and interruptions to supply chains and food production. The documents also underscore the importance of reducing emissions to limit temperature rise to 1.5 degrees Celsius above pre-industrial levels. The local government's planned actions include mitigation, adaptation, and systemic actions to address climate change. These actions are embedded in various strategies, policies, and plans, demonstrating a comprehensive approach to tackling climate change.",
+      "source": "Whitehorse-a-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "Climate action is essential and urgent to minimise these impacts, reduce emissions to limit temperature rise to 1.5 degrees Celsius above pre-industrial levels, and achieve the Whitehorse 2040 Community Vision.",
+        "page": 3,
+        "source": "Whitehorse-Climate-Response-Strategy-2023-2030.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the local and global impacts of climate change, including increased stormwater runoff, flash flooding, damage to buildings and infrastructure, pressure on emergency services, heat-related deaths, loss of biodiversity, and interruptions to supply chains and food production. The documents emphasize that climate action is essential and urgent to minimize these impacts, reduce emissions to limit temperature rise to 1.5 degrees Celsius above pre-industrial levels, and achieve the Whitehorse 2040 Community Vision. The documents also underscore the importance of collective effort, collaboration, and partnerships in addressing climate change. They outline specific actions that the local government plans to take, such as integrating climate change and sustainability information across all areas of Council’s operations, advocating for stronger climate response and increased adaptation funding, and ensuring that Council-owned buildings, infrastructure, and services are resilient to climate change impacts.",
+      "source": "Whitehorse-b-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "Climate action is essential and urgent to minimise these impacts, reduce emissions to limit temperature rise to 1.5 degrees Celsius above pre-industrial levels, and achieve the Whitehorse 2040 Community Vision.",
+        "page": 3,
+        "source": "Whitehorse-Climate-Response-Strategy-2023-2030.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document clearly outlines the need for action on climate change. It acknowledges the unprecedented challenge that climate change presents both globally and locally, with the increasing frequency and severity of extreme weather events such as bushfires, floods, storms, and droughts. The document identifies human activities, particularly the burning of fossil fuels for electricity, transport, and manufacturing, as the dominant cause of climate change. It emphasizes the urgency of climate action to stabilize the changing climate and reduce overall emissions. The document also highlights the role of the Council and the community in working together to create a climate-resilient future and limit global temperature rise to 1.5 degrees Celsius, as outlined in the 2015 Paris Agreement and strengthened in the 2021 Glasgow Climate Pact.",
+      "source": "Whittlesea-a-a12345678910.json",
+      "lga": "Whittlesea",
+      "quote": {
+        "content": "As greenhouse gas (GHG) emissions from human activities such as burning fossil fuels for generating electricity, transport, and manufacturing, are the dominant cause of climate change, urgent climate action is required to stabilise the changing climate. The frequency and severity of extreme weather events such as bushfires, floods, storms and droughts are on the rise.",
+        "page": 2,
+        "source": "Whittlesea-climate-change-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document explicitly explains the need for action on climate change. It acknowledges that climate change presents an unprecedented global and local challenge, with the frequency and severity of extreme weather events such as bushfires, floods, storms, and droughts on the rise. The document identifies human activities, particularly the burning of fossil fuels for electricity, transport, and manufacturing, as the dominant cause of climate change. It emphasizes the urgency of climate action to stabilize the changing climate and reduce overall emissions. The document also outlines the local government's role in minimizing its own emissions and supporting the community to take climate action to mitigate and adapt to climate change. It further highlights the importance of keeping global temperature rise to 1.5 degrees Celsius as outlined in the 2015 Paris Agreement and strengthened in the 2021 Glasgow Climate Pact.",
+      "source": "Whittlesea-b-a12345678910.json",
+      "lga": "Whittlesea",
+      "quote": {
+        "content": "As greenhouse gas (GHG) emissions from human activities such as burning fossil fuels for generating electricity, transport, and manufacturing, are the dominant cause of climate change, urgent climate action is required to stabilise the changing climate. The frequency and severity of extreme weather events such as bushfires, floods, storms and droughts are on the rise.",
+        "page": 2,
+        "source": "Whittlesea-climate-change-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The local government recognizes the severity of climate change and understands that adaptation planning is fundamental to mitigating the adverse impacts associated with it. The Climate Change Adaptation Action Plan (CCAAP) is presented as a demonstration of the council's actions to adapt and mitigate the impacts of climate change. The plan is designed to reduce the vulnerability of the council's assets and services, while empowering the community to be healthy, connected, and resilient. The council has used an evidence-based approach for the development of the CCAAP, prioritizing actions based on climate risks and opportunities specific to their local region. The documents also highlight the legislative responsibilities of local governments to incorporate climate risk mitigation and adaptation actions into all operations.",
+      "source": "Wodonga-a-a12345678910.json",
+      "lga": "Wodonga"
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. The local government recognizes the severity of climate change and understands that adaptation planning is fundamental to mitigating the adverse impacts associated with it. The Climate Change Adaptation Action Plan (CCAAP) demonstrates the council's actions to adapt and mitigate the impacts of climate change and ways to support the community. The council has used an evidence-based approach for the development of the CCAAP by prioritizing actions based on climate risks and opportunities specific to their local region. The documents also highlight the role of local government in addressing climate change and the responsibility to incorporate climate risk mitigation and adaptation actions into all operations. The council aims to reduce the vulnerability of its assets and services, while empowering the community to be healthy, connected, and resilient.",
+      "source": "Wodonga-b-a12345678910.json",
+      "lga": "Wodonga"
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the commitment of the local government to address climate change and reduce greenhouse gas emissions. The documents also mention the goal of reaching net zero greenhouse gas emissions by 2050. The local government recognizes the impact of climate change on most areas of council operations and functions, and the importance of integrating climate change considerations into relevant strategies and plans. The documents also outline specific actions to be taken, such as integrating climate considerations into policy and strategy development processes, and monitoring climate change and adaptation actions' effectiveness. The documents also acknowledge the need for a shared response from all levels of government, stakeholders, and the community to effectively adapt to climate change.",
+      "source": "Wyndham-a-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "In recognition of this, it is \nimportant that relevant strategies and plans consider \nclimate change and respond in an appropriate way.",
+        "page": 7,
+        "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the commitment of the local government to address climate change and reduce greenhouse gas emissions. The documents also mention the goal of reaching net zero greenhouse gas emissions by 2050. The local government recognizes the impact of climate change on most areas of council operations and functions, and the importance of integrating climate change considerations into relevant strategies and plans. The documents also outline the local government's adaptation strategy, which includes actions to manage climate risks, integrate climate change considerations into council policies and systems, foster community understanding and leadership around climate change impacts, and monitor and evaluate climate change risks and the effectiveness of actions taken. The documents also mention the need for urgent action on climate change, in line with the findings of the Intergovernmental Panel on Climate Change (IPCC) and the commitments of the Paris Agreement.",
+      "source": "Wyndham-b-a12345678910.json",
+      "lga": "Wyndham"
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the climate emergency as a dangerous threat to all life on the planet, with the earth already being too hot. The documents also acknowledge the harmful impacts of climate change on people, plants, and animals, including widespread and continuing droughts, frequent floods, heatwaves, and bushfires. The documents further emphasize the need for urgent, effective, and meaningful climate policies and action across all levels of government, businesses, and the community. They also underscore the importance of community engagement in climate action, with the aim of enabling 10,000 people in Yarra to take action on the climate emergency by 2024.",
+      "source": "Yarra-a-a12345678910.json",
+      "lga": "Yarra",
+      "quote": {
+        "content": "This heating is having harmful impacts on people, plants and animals. The science tells us that the earth has heated, and is continuing to heat, as a result of human activity.",
+        "page": 3,
+        "source": "Yarra-2020-climate-emergency.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They highlight the climate emergency as a significant threat to all life on the planet, with the earth already being too hot due to human activities. The documents underscore the harmful impacts of climate change, including widespread and continuing droughts, frequent floods, heatwaves, and bushfires. They also emphasize the social equity aspect, noting that the most vulnerable people, who have typically made the least contribution to the problem, often have less capacity to respond and cope with the impacts. The documents further stress the need for collective action across all levels of government, businesses, and the community to effectively respond to the climate emergency. They also highlight the community's desire for climate action, with surveys showing that climate change is a leading worry for Australians.",
+      "source": "Yarra-b-a12345678910.json",
+      "lga": "Yarra",
+      "quote": {
+        "content": "This heating is having harmful impacts on people, plants and animals. The science tells us that the earth has heated, and is continuing to heat, as a result of human activity.",
+        "page": 3,
+        "source": "Yarra-2020-climate-emergency.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's commitment to addressing climate change through a variety of strategic objectives and actions. The purpose of the plan is to provide a corporate response that links to the Council’s strategic objectives and sustainable excellence principles, prioritises strategic directions, promotes actions that can be adopted, identifies risks related to carbon pollution and climate change, and fits into existing strategies, policies, and action plans. The documents also highlight the importance of reducing greenhouse gas emissions, transitioning towards strategies that reduce reliance on oil, and building resilience to climate change. The documents further acknowledge the risks posed by climate change, including increasing energy costs, health impacts, policy changes, changes in community needs, disruptions in service delivery, and budget pressures.",
+      "source": "YarraRanges-a-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "•� Identifies risks that relate to impacts  \nfrom carbon pollution, climate change  \nand peak oil. The purpose is to provide Council with a corporate response that:\n•� Links to Council’s strategic objectives and \nsustainable excellence principles. •� Prioritises a set of strategic directions for \nour organisation. •� Promotes actions that can be adopted to  \nimplement prioritised directions.",
+        "page": 4,
+        "source": "YarraRanges-2020-adapting.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's commitment to addressing climate change through a variety of strategic objectives and actions. The documents highlight the importance of reducing greenhouse gas emissions, transitioning to renewable energy, and building resilience to climate change. They also emphasize the role of the council in leading by example, engaging with the community, and advocating for climate action at the state and federal level. The documents acknowledge the risks posed by climate change, including increasing energy costs, health impacts, policy uncertainty, changes in community needs, service disruptions, and budget pressures. The need for action is further underscored by the council's commitment to annual assessments of the plan's progress and the establishment of clear targets.",
+      "source": "YarraRanges-b-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "Council recognises that global efforts to reduce greenhouse gas emissions have so far been inadequate, and that we are now in a state of climate change that requires urgent action by all levels of government and all sectors of the community.",
+        "page": 10,
+        "source": "YarraRanges-2020-liveable-climate-plan.pdf",
+        "search_score": 1
+      }
+    }
+  ]
+}

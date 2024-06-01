@@ -1,0 +1,292 @@
+{
+  "settings": {
+    "source_files": [
+      "Horsham-Environment_Sustainability_Strategy.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T15:54:19.305189",
+    "lga": "Horsham"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The policy does not explicitly state that climate action is the core purpose or goal. While the policy does address climate change, it does so as part of a broader environmental sustainability strategy. The policy's stated purpose is to guide the local government's decision-making and management practices to achieve environmentally responsible and sustainable outcomes for the municipality. It also aims to address the potential adverse impacts of climate change and promote the adoption of environmentally sustainable practices within the municipality. However, these are components of the policy's broader environmental sustainability focus, rather than being the core purpose or goal."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The Victorian Climate Change Green Paper, released in 2009, is the government's response to climate change, aiming to stimulate discussion about policy responses. The proposed policy response focuses on three key areas: complementing the national Carbon Pollution Reduction Scheme, positioning Victoria to take advantage of opportunities created by the transition to a carbon-constrained economy, and adapting to the impacts of climate change that can no longer be avoided. The documents also highlight the potential adverse impacts of climate change on community lifestyle, health, and wellbeing, including increased costs of living, health impacts, and insurance costs. The Environment Sustainability Strategy also outlines objectives to reduce greenhouse gas emissions and promote sustainable practices.",
+          "quote": {
+            "content": "The Green Paper is intended to stimulate discussion about the Victorian Governments policy response to climate change. Released in June 2009, the Victorian Climate Change Green Paper is the Government’s next step in response to climate change.",
+            "page": 61,
+            "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the Victorian Government's policy response to climate change, focusing on three key areas: complementing the proposed national Carbon Pollution Reduction Scheme (CPRS), positioning Victoria to take advantage of opportunities created by the transition to a carbon-constrained economy, and adapting to unavoidable impacts of climate change. The documents also discuss the potential impacts of climate change, such as increased frequency of extreme weather events and associated damage. However, they do not explicitly express a sense of urgency or call for rapid action. Instead, they focus on long-term strategies and plans, such as developing procurement policies favoring environmentally friendly products and services, reducing water consumption, and managing risks to Council-managed natural assets associated with potential adverse impacts of climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the policy outlines a plan to develop and implement an environmental purchasing policy by December 2010. It also mentions a target to reduce water consumption by Council in its buildings and operations by 20% by 2015. Furthermore, the policy aims to establish a target for greenhouse gas reduction by June 2010. These specific timeframes indicate a sense of urgency in the policy's approach to addressing climate change. However, it should be noted that the documents are dated around 2009-2010, and it is unclear whether these targets were met or whether the policy has been updated since."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline the Victorian Government's policy response to climate change, which includes complementing the proposed national Carbon Pollution Reduction Scheme (CPRS), positioning Victoria to take advantage of opportunities created by the transition to a carbon-constrained economy, and adapting to unavoidable impacts of climate change. However, these actions are presented as part of a broader policy response, not as a prioritized emergency response. The documents also detail various environmental sustainability strategies, such as incorporating environmental impact risk assessment into major Council projects and developing procurement policies that favor environmentally friendly products. However, these strategies are not explicitly prioritized over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government has made environmental sustainability a key consideration in its activities. This is demonstrated through the development of procurement policies that favor environmentally friendly products and services, provided they do not compromise value for money. The council also plans to reduce its water consumption through improved efficiency measures. Furthermore, the council has committed to ensuring that environmental sustainability is a primary consideration in all future strategies and plans. This includes revising the structure of council reports to incorporate how actions align with the council's Environment Sustainability Strategy and deliver on its sustainability priorities. Therefore, it can be inferred that the council's activities must be aligned with its climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various strategies and actions related to climate change, such as incorporating environmental impact risk assessments into major projects, sustainable design in building projects, and reducing water consumption, there is no clear mention of specific funding or budget allocation for these initiatives. The policy does mention the development of procurement policies favoring environmentally friendly products and services, but again, no specific funding details are provided. Therefore, based on the available information, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's policy does indeed allocate non-monetary institutional resources to climate action. The policy outlines a number of actions related to environmental sustainability and climate change, and assigns responsibility for these actions to specific departments within the council. For instance, the Corporate Services and Economic Development department is tasked with ensuring environmental sustainability is a primary consideration in all future Council strategies and plans. The Technical Services department is responsible for supporting the establishment of new groups with a focus on environmental sustainability actions. These allocations of responsibility suggest that staff time and expertise, both valuable institutional resources, are being directed towards climate action. However, the policy does not provide specific details on the amount of staff time or the level of expertise required for these tasks.",
+          "quote": {
+            "content": "Corporate Services and \nEconomic Development\nOngoing\nL14\nReview and revise the structure of Council reports to \nincorporate how relevant actions align with Council’s \nEnvironment Sustainability Strategy and how they deliver on \nCouncil sustainability priorities. Action\nResponsible Department\nTimeline\nStrategic direction\nL13\nEnsure environmental sustainability is a primary consideration \nin all future Council strategies and plans.",
+            "page": 19,
+            "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indeed indicate that the local government is taking steps to empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a number of strategies that involve community engagement and education. For instance, it mentions the use of Council’s communication mediums and community networks to promote environmentally sustainable practices to the wider community. It also talks about advocating on behalf of the local community to other agencies and levels of government on issues of local environmental sustainability concern. Furthermore, the policy mentions supporting events and programs in the community that promote awareness of environmental sustainability issues. These strategies suggest a commitment to social mobilisation, as they involve educating the community about environmental sustainability and encouraging them to take action.",
+          "quote": {
+            "content": "Support events and programs in the community that promote awareness of environmental sustainability issues. Utilise Council’s communication mediums and community networks to promote environmentally sustainable practices to the wider community. Advocate on behalf of the local community to other agencies and levels of government on issues of local environmental sustainability concern.",
+            "page": 58,
+            "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's policy does indeed include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a multi-faceted approach to addressing climate change, which includes both technological solutions and behaviour change. Technological solutions are evident in the policy's focus on sustainable design in council building and refurbishment projects, as well as the aim to reduce greenhouse gas emissions across all council operations, including buildings, fleet, public lighting, and waste facilities. The policy also mentions the investigation of offsetting residual corporate greenhouse gas emissions that cannot be reduced or avoided, with the aim of achieving carbon neutrality. Behaviour change is encouraged through the promotion of greenhouse gas emission reduction by households and businesses in the municipality. The policy also sets targets for greenhouse gas reductions and energy consumption reduction, demonstrating a commitment to measurable outcomes.",
+          "quote": {
+            "content": "5.3 Promote reduction of greenhouse gas emissions by households and businesses in the municipality. 5.2 Investigate offsetting residual corporate greenhouse gas emissions that cannot be reduced or avoided, with the aim of achieving carbon neutrality.",
+            "page": 57,
+            "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a commitment to incorporate environmental impact risk assessment and mitigation into the planning of major Council projects. This includes identifying and managing risks to Council-managed natural assets associated with the potential adverse impacts of climate change. The policy also aims to incorporate sustainable design into the planning of Council building and refurbishment projects. Furthermore, the policy outlines a commitment to reduce Council’s water consumption through the development and implementation of improved efficiency measures. These actions demonstrate a clear focus on climate adaptation and resilience, as they aim to mitigate the potential impacts of climate change and promote sustainable practices.",
+          "quote": {
+            "content": "Reduce Council’s water consumption through development and implementation of improved efficiency measures.",
+            "page": 56,
+            "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines several objectives and targets related to climate change, such as incorporating environmental impact risk assessment into the planning of major projects, incorporating sustainable design into building projects, and managing risks to Council-managed natural assets, it does not provide specific evidence or sources to justify these targets. The policy mentions the Victorian Climate Change Green Paper as a step in response to climate change, but it does not detail how this paper informs the specific targets and actions outlined in the policy. Furthermore, the policy does not provide specific data or research to support its targets, such as the target to reduce Council's water consumption by 20% by 2015. Therefore, the policy lacks well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The documents provide several examples of such criteria, often referred to as 'indicators of success' or 'targets'. These indicators are clearly defined and quantifiable, allowing for objective evaluation of the policy's effectiveness. For instance, in the area of solid waste management, success is defined by the development of targets for waste reduction, a decrease in waste generation from Council offices by 15% compared to a 2010 baseline, and an increase in the proportion of waste recycled to 85%, among other criteria. Similarly, in the area of sustainable water use, success is marked by a 20% reduction in water consumption in Council buildings and operations compared to a 2009/2010 baseline, and the establishment of low water use gardens throughout public spaces in the municipality. These specific, measurable criteria provide a clear framework for evaluating the success of the policy's proposed actions.",
+          "quote": {
+            "content": "The proportion of waste recycled is increased to 85%, compared to 2010 baseline. Waste generation from Council offices and buildings is reduced by 15%, compared to 2010 baseline.",
+            "page": 33,
+            "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents provided do not describe any plans to conduct research in the local community to inform climate actions. The policy documents outline various strategies and objectives related to environmental sustainability and climate change mitigation, such as incorporating environmental impact risk assessments into major council projects, incorporating sustainable design into council building projects, and managing risks to council-managed natural assets. However, these strategies and objectives do not involve conducting research in the local community. The documents also mention the use of existing research and projections to inform planning and decision-making, but there is no mention of plans to conduct new research in the local community."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of innovation and policy experimentation in climate action. While the Victorian Climate Change Green Paper and the Environment Sustainability Strategy outline the local government's planned actions in response to climate change, these actions appear to be largely conventional and do not indicate a significant degree of innovation or experimentation. The proposed policy response is based on complementing the proposed national Carbon Pollution Reduction Scheme, positioning Victoria to take advantage of opportunities created by the transition to a carbon constrained economy, and adapting to unavoidable impacts of climate change. These strategies, while important, do not suggest a departure from standard approaches to climate policy. Furthermore, the documents do not provide specific examples of innovative or experimental policies that have been or will be implemented."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents primarily focus on the local government's own strategies and actions in response to climate change. These include complementing the proposed national Carbon Pollution Reduction Scheme (CPRS), positioning Victoria to take advantage of opportunities created by the transition to a carbon-constrained economy, and adapting to unavoidable impacts of climate change. The documents also mention the development of procurement policies favoring environmentally friendly products and services, and the incorporation of sustainable design into the planning of Council building and refurbishment projects. However, these actions are all within the local government's own purview and do not involve advocating to higher levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a number of strategies that aim to promote environmental sustainability. These include encouraging and supporting Council’s volunteer Section 86 committees to adopt environmentally sustainable practices, establishing collaborative partnerships with the community, other local government bodies, business groups, and relevant organisations that promote environmental sustainability, and advocating on behalf of the local community to other agencies and levels of government on issues of local environmental sustainability concern. The policy also mentions the use of Council’s communication mediums and community networks to promote environmental sustainability practices to the wider community.",
+          "quote": {
+            "content": "Utilise Council’s communication mediums and community networks to promote environmental sustainability practices to the wider community. Establish collaborative partnerships with the community, other Local Government bodies, business groups and relevant organisations that promote environmental sustainability. Advocate on behalf of the local community to other agencies and levels of government on issues of local environmental sustainability concern.",
+            "page": 58,
+            "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The provided documents do not provide any specific information about regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the local government's response to climate change, including the development of an Environment Sustainability Strategy and the incorporation of sustainable design into council projects, they do not mention any specific partnerships or collaborations with other organizations or entities in this effort. Therefore, it cannot be confirmed that the local government is working with specific regional associations, alliances, or other partnerships in its climate change efforts."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the potential impacts of climate change, such as increased cost of living, health costs, and insurance costs, as well as the potential for more frequent and severe natural disasters, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents also outline some of the local government's planned actions in response to climate change, such as incorporating environmental impact risk assessments into the planning of major projects and developing procurement policies that favor environmentally friendly products. However, these actions are not discussed in relation to their potential effects on vulnerable communities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the local government's response to climate change, the impacts of climate change on the community, and the strategies to mitigate these impacts. They mention the need for sustainable design, risk assessment, and adaptation to climate change impacts. However, they do not provide specific details on how the benefits and opportunities arising from these actions will be equitably shared among different social groups. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 9,
+    "num_questions": 20,
+    "attribute_score": 55.8
+  }
+}

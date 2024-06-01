@@ -1,0 +1,292 @@
+{
+  "settings": {
+    "source_files": [
+      "Manningham-2023-Climate-Emergency-Response-Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T20:00:37.434409",
+    "lga": "Manningham"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The core purpose of the policy, as outlined in the Manningham Council's Climate Emergency Response Plan, is indeed climate action. The policy is designed to address climate change in the Manningham area through increased climate action. The policy aims to enhance the liveability of Manningham, promote community health and well-being, and boost the resilience of natural and built environments, as well as the economy. The policy outlines a commitment to ambitious aspirational climate mitigation or greenhouse gas emission reduction targets. The policy also emphasizes the importance of community involvement and feedback in shaping and implementing climate actions. The policy's commitment to climate action is further demonstrated by its provision for annual monitoring and reporting on climate actions and greenhouse gas emissions levels.",
+          "quote": {
+            "content": "Through increased climate action, we aim to enhance the liveability of Manningham, promote community health and well-being, and boost the resilience of our natural and built environments, as well as the economy.",
+            "page": 2,
+            "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the shared commitment of the local government and the community to increase action on climate change, as demonstrated by their history of climate change action, the climate emergency resolution, community feedback, and the Council Plan 2021-2025. The documents also emphasize the importance of climate mitigation targets to drive increased action. They note that governments, businesses, and the international community are all moving towards taking more urgent action on climate change, which is essential to reduce greenhouse gas emissions and mitigate the impacts of climate change. The documents further stress that everyone needs to play their part by reducing their own carbon footprints, supporting businesses that are taking action on climate change, and advocating for stronger government action.",
+          "quote": {
+            "content": "It is important we aspire to climate \nmitigation targets to drive us to take \nincreased action. Together with the community,  \nwe are committed to increasing \naction on climate change. Our shared commitment is \ndemonstrated by our history of \nclimate change action, the climate \nemergency resolution, community \nfeedback and our Council Plan \n2021-2025.",
+            "page": 6,
+            "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document does explicitly call for urgent action on climate change. It is evident from the 'Climate Emergency Response Plan' that the Manningham Council acknowledges the state of serious climate and environmental change and the need for urgent action by all levels of government, including local government. The document also mentions the need to significantly scale up support for climate action and the commitment to increasing action on climate change. The plan also includes a commitment to annual monitoring and reporting on climate actions and greenhouse gas emissions levels, indicating a sense of urgency in tracking progress and making necessary adjustments. However, it should be noted that while the document calls for urgent action, it does not provide specific timelines or deadlines for the proposed actions, which could potentially affect the perceived urgency."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific timeframes for the intended actions on climate. While the documents mention the development of an implementation plan in 2023, and the commitment to annual monitoring and reporting on climate actions and greenhouse gas emissions levels, they do not provide explicit deadlines or schedules for the execution of specific climate actions. The documents also mention net zero target years of 2028 and 2035, but these are overall goals rather than specific action deadlines. Therefore, the documents do not meet the high standard of evidence required to affirm that they provide specific timeframes for their intended actions on climate."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of climate action and the urgency of addressing climate change, they do not explicitly rank this policy above others. The Climate Emergency Response Plan is described as linking in with a range of other policies and work, suggesting that it is part of a broader policy framework rather than being prioritised above all else. Furthermore, the documents mention that there are some community members who believe there are more important priorities to focus on than climate action. Therefore, while the documents clearly support climate action, they do not explicitly state that it should be prioritised above all other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do indicate that the local government has a Climate Emergency Response Plan and that this plan is linked with other policies and work, there is no explicit requirement stated that all council activities must align with this climate policy. The documents mention that the Climate Emergency Response Plan will be developed and implemented, and that it will integrate climate change alongside other areas such as enhancing the natural environment and biodiversity, reducing waste, and improving water sustainability. However, these details do not equate to a mandate for all council activities to align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Manningham Council's Climate Emergency Response Plan does indicate that there will be financial commitment towards climate action. However, the plan does not provide explicit details on the amount of funding allocated or the specific climate actions that will be funded. The plan states that financial commitment to funding actions will be decided annually through the budgeting process. This suggests that the allocation of funding is flexible and will be determined on a yearly basis, depending on the climate actions that are prioritized each year. While the plan does commit to funding climate actions, the lack of specific details on the funding allocation may make it difficult to assess the adequacy of the funding and the effectiveness of the climate actions.",
+          "quote": {
+            "content": "Where necessary, financial commitment to funding actions will be decided annually through the budgeting process.",
+            "page": 8,
+            "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents from the Manningham Council Climate Emergency Response Plan do not explicitly allocate staff or other non-monetary institutional resources to climate action. The documents outline various climate actions, such as monitoring and reporting on climate actions and greenhouse gas emissions levels, educating the community in climate adaptation, and exploring the socio-economic implications of climate actions. However, they do not specify the allocation of staff or other non-monetary institutional resources to these actions. The documents mention that financial commitment to funding actions will be decided annually through the budgeting process, but this does not directly address the allocation of non-monetary resources."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is actively working to empower and educate the community to support and work together on climate action. The policy outlines a range of climate actions that the community can take, including installing solar power, switching to green power, reducing waste, and advocating for more action from governments and businesses. The policy also emphasizes the need for community action and shared responsibility in addressing climate change. It mentions the development of a broad range of climate actions that the community can take, including initiatives to reduce greenhouse gas emissions and adapt to climate change. The policy also includes plans for annual monitoring and reporting on climate actions and greenhouse gas emissions levels, which could serve to educate and mobilize the community. Furthermore, the policy outlines plans to raise awareness and facilitate community education, including reaching out to diverse and hard-to-reach audiences.",
+          "quote": {
+            "content": "They include climate mitigation or initiatives to reduce greenhouse gas emissions, initiatives to adapt to climate change already occurring or imminent and advocacy. We have explored and are developing a broad range of climate actions that we and the Manningham community can take.",
+            "page": 2,
+            "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate Emergency Response Plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to ambitious climate action and the adoption of aspirational emissions reduction targets. The plan includes both technological solutions and behaviour change as part of its strategy. Technological solutions include the use of renewable energy sources, such as wind farms and solar power, and the implementation of energy-efficient measures, such as energy-efficient streetlights and low-emission fleet vehicles. The plan also encourages behaviour change within the community, suggesting actions such as installing solar power, switching to green power, reducing consumption and waste, and advocating for more action from governments and businesses. The plan also includes a commitment to annual monitoring and reporting on climate actions and greenhouse gas emissions levels, which will inform future climate mitigation actions.",
+          "quote": {
+            "content": "Our 100% renewable electricity is powered by two wind farms in Victoria, these were built through a collaborative procurement project with 51 other Victorian councils.",
+            "page": 15,
+            "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Manningham Council's Climate Emergency Response Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a commitment to educate the community in climate adaptation through capacity building sessions, such as resilience circles. It also mentions the use of smart technology to effectively irrigate sports ovals, ensuring they remain safe and available for play despite changing climate conditions. Furthermore, the plan highlights the development of an Integrated Water Management Strategy, which seeks a collaborative approach to planning for and managing water resources within the context of adaptation to climate change. The plan also acknowledges the need to explore and build understanding of gender and socio-economic implications of climate actions, indicating a comprehensive approach to climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline the local government's commitment to climate change mitigation and adaptation, including a commitment to net zero emissions for the council by 2028 and for the community by 2035, they do not provide specific, well-sourced evidence to justify these targets. The documents mention the implementation of a Climate Emergency Response Plan, annual monitoring and reporting on climate actions, and the development of an implementation plan in 2023. However, these are broad strategies and do not provide detailed, evidence-based justifications for the specific targets and actions. The documents also mention community feedback and submissions from community groups, but again, these are not presented as well-sourced evidence to justify the climate targets and actions. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Climate Emergency Response Plan does include a mechanism for evaluating the success of its proposed actions, although it does not provide specific measurable criteria. The plan outlines an annual monitoring and reporting process on climate actions and greenhouse gas emissions levels. This process is intended to track the progress of the implementation of the plan and to inform future adjustments to the ongoing program of climate mitigation actions. However, the plan does not detail the specific metrics or benchmarks that will be used in this evaluation process. Therefore, while there is a system in place for evaluation, the lack of specific measurable criteria may limit the effectiveness and transparency of this evaluation."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has engaged with the community through various means such as the 'Your Say Manningham' website, community advisory committees, and a community-authored survey. The feedback received from these engagements has been incorporated into the Climate Emergency Response Plan. The government has also conducted a Gender Impact Assessment (GIA) to understand how different genders and socio-economic groups are affected by climate change and their capacity to take climate action. This information is used to refine the actions in the Climate Emergency Response Plan. Furthermore, the government plans to develop an implementation plan in 2023, which will detail the actions in the Climate Emergency Response Plan. This indicates a commitment to ongoing research and engagement with the community to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. While the local government's Climate Emergency Response Plan outlines a range of actions to address climate change, these largely appear to be standard measures such as reducing greenhouse gas emissions, adapting to climate change, and advocating for climate action. The plan also mentions the use of smart technology for irrigation and the use of renewable energy for electric vehicles and chargers. However, these actions are not particularly innovative or experimental, as they are commonly adopted in many climate action plans. The documents also mention the development of an implementation plan with details on the actions in the Climate Emergency Response Plan during 2023, but no specific innovative or experimental policies are mentioned in this regard."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government has outlined a plan to collaborate with other councils and the state government on various climate action initiatives. These include advanced waste technology, separated glass recycling, container deposit schemes, and understanding land use change for net zero carbon sinks. The local government also plans to participate in the Cities Power Partnership or Climate Emergency Australia, Northern Alliance for Greenhouse Action, and International Council Local Environment Initiatives. These partnerships indicate a clear intent to advocate for climate action at higher levels of government. The local government's commitment to annual monitoring and reporting on climate actions and greenhouse gas emissions levels further underscores this intent, as it provides a mechanism for holding state and national governments accountable for their climate action commitments."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents indeed encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a collaborative approach to planning and managing water resources within the context of climate change adaptation. It also emphasizes the council's responsibility to promote the economic, social, and environmental sustainability of the municipal district, including planning for climate risks. The policy also encourages collaboration with other councils on advanced waste technology and climate action. It also mentions collaboration with the State Government on various climate-related initiatives. The policy also highlights the need for community education and awareness-raising, including reaching diverse and hard-to-reach audiences. The policy also mentions the need for annual monitoring and reporting on climate actions and greenhouse gas emissions levels, which could be seen as a way to build capacity by ensuring accountability and continuous learning."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate action. The local government has expressed its commitment to collaborate with other councils on climate action and participate in various partnerships. These include the Cities Power Partnership, Climate Emergency Australia, Northern Alliance for Greenhouse Action, and International Council Local Environment Initiatives. These partnerships are crucial for sharing resources, knowledge, and best practices to address climate change effectively. The document also mentions collaboration with the State Government on several initiatives, indicating a multi-level approach to climate action. This shows the local government's commitment to working in partnership with various stakeholders to address climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. They highlight the intersectionality of attributes and the compounding effect of these attributes, which can feed into socio-economic inequality. This inequality can make some people more vulnerable to climate impacts. The documents also note that this intersectionality and socio-economic inequality can influence people's capacity to take climate action and their preferences for what type of actions to take. The policy emphasizes the need to be mindful of and responsive to this differing impact and differing capacity and preferences for action. It also suggests that if there are climate change mitigation or adaptation actions that also help progress socio-economic equality, these should be pursued. The policy also acknowledges that people of different genders, income levels, and other attributes can experience the impacts of climate change differently and there will also be varying capacity for people to take climate action.",
+          "quote": {
+            "content": "This intersectionality and socio-economic inequality can also influence people’s capacity to take climate action and preferences of what type of actions to take. The intersectionality of attributes or the compounding effect of attributes can feed into socio-economic inequality that means some people are more vulnerable to climate impacts.",
+            "page": 3,
+            "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate, although it does not provide a detailed plan. It acknowledges the intersectionality of attributes and socio-economic inequality, and how these factors can influence people's capacity to take climate action and their preferences for what type of actions to take. The document emphasizes the need to be mindful of and responsive to these differing impacts and capacities for action. It also suggests that climate change mitigation or adaptation actions that also help progress socio-economic equality should be pursued. Furthermore, the document mentions the need to avoid taking climate action that worsens inequality. However, the document does not provide specific strategies or actions to ensure the equitable sharing of benefits and opportunities.",
+          "quote": {
+            "content": "We should also be careful not to take climate action that worsens inequality. The intersectionality of attributes or the compounding effect of attributes can feed into socio-economic inequality that means some people are more vulnerable to climate impacts. This intersectionality and socio-economic inequality can also influence people’s capacity to take climate action and preferences of what type of actions to take. We need to be mindful of and responsive to this differing impact and differing capacity and preferences for action. If there are climate change mitigation or adaption actions that also help progress socio-economic equality, these should be pursued.",
+            "page": 3,
+            "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 75
+  }
+}

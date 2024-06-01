@@ -1,0 +1,316 @@
+{
+  "settings": {
+    "source_files": [
+      "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-14T15:00:39.782473",
+    "lga": "Wangaratta"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "While the policy clearly acknowledges the importance of climate action and incorporates it into various aspects of its strategic planning, it does not explicitly state that climate action is the core purpose or goal of the policy. The policy outlines a broad range of focus areas and priority areas, including building environmentally sustainable communities, reducing waste, enhancing resource recovery, and protecting waterways. Climate action is one of these focus areas, but it is not singled out as the primary goal. The policy also acknowledges that the impacts of climate change influence all aspects of council operations and community life, indicating a holistic approach to policy planning rather than a singular focus on climate action."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of addressing climate change, recognizing it as an immediate threat, not a distant one. The documents underscore the impacts of climate change on all aspects of council operations and community life. They also acknowledge the recent 2020 bushfires as a stark reminder of how climate change can affect lives, emphasizing the risks associated with increased adverse weather events. The documents further outline the council's commitment to creating an environmentally sustainable municipality by minimizing adverse impacts from the built environment and improving urban ecology. They also detail specific actions to reduce greenhouse gas emissions and improve environmental outcomes, such as developing a carbon reduction action plan and investigating the feasibility of community-owned renewable energy generation.",
+          "quote": {
+            "content": "The recent 2020 bushfires are a sharp reminder of how climate change can impact upon our lives, it highlights the risks we face with increased adverse weather events and the urgency required to reduce our greenhouse gas emissions if we are to rise to the challenge of creating a better life for future generations. Climate change is not a distant threat.",
+            "page": 2,
+            "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document does indeed call for urgent action on climate change. It acknowledges that climate change is not a distant threat, but a present reality that is already impacting the community. The document highlights the recent 2020 bushfires as a stark reminder of the devastating impacts of climate change, emphasizing the urgency required to reduce greenhouse gas emissions for the sake of future generations. The policy also outlines specific actions to combat climate change, such as reducing waste, enhancing resource recovery, and building environmentally sustainable communities. These actions are part of the council's commitment to addressing climate change and its impacts, demonstrating a clear sense of urgency in their approach.",
+          "quote": {
+            "content": "The recent 2020 bushfires are a sharp reminder of how climate change can impact upon our lives, it highlights the risks we face with increased adverse weather events and the urgency required to reduce our greenhouse gas emissions if we are to rise to the challenge of creating a better life for future generations. Climate change is not a distant threat.",
+            "page": 2,
+            "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. For instance, the 'Greenhouse Gas Emissions & Energy Reduction' section outlines actions to be taken from 2021 to 2024 and 2021 to 2026. Similarly, the 'Sustainable Communities' section details actions to be taken from 2021 to 2026. These timeframes indicate a clear commitment to addressing climate change within a specific period, demonstrating an understanding of the urgency of action required to mitigate climate change impacts. The inclusion of these timeframes also allows for the evaluation of the policy's effectiveness and the progress of its implementation over time.",
+          "quote": {
+            "content": "2021-26",
+            "page": 18,
+            "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government is committed to addressing climate change and sustainability issues, they do not specify that these concerns should take precedence over all other policies. The documents outline a comprehensive approach to environmental sustainability, including the establishment of six priority areas: Biodiversity, Built Environment, Greenhouse Gas Emissions & Energy Reduction, Healthy Waterways, Sustainable Communities, and Waste Reduction & Resource Recovery. Each of these areas is divided into specific objectives and actions, indicating a broad and multifaceted approach to environmental sustainability. However, the documents do not explicitly prioritize these actions over other policy areas."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do indicate a strong commitment to addressing climate change and sustainability, with specific actions and objectives outlined, they do not explicitly require all council activities to align with these policies. The council's commitment is demonstrated through the inclusion of climate change and sustainability criteria in relevant documents and policies, and the establishment of six priority areas, including Biodiversity, Built Environment, Greenhouse Gas Emissions & Energy Reduction, Healthy Waterways, Sustainable Communities, and Waste Reduction & Resource Recovery. However, the documents do not explicitly state that all council activities must be aligned with these policies."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various strategies and actions related to climate change, such as identifying opportunities for green infrastructure development, considering the impacts of climate change on storm events, and planning for climate change impacts on green spaces, it does not specify any budget or funding allocation for these actions. The documents mention the years for which these actions are planned, but no specific financial commitment is mentioned. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's policy does allocate non-monetary institutional resources to climate action. The policy outlines several actions that would require the allocation of staff resources. For instance, the policy mentions the need to 'identify opportunities for green/blue infrastructure development', 'consider the impacts of climate change on storm events when planning renewal of infrastructure', and 'update relevant Council plans with sustainable stormwater management considerations'. These actions imply the involvement of staff in planning, implementing, and managing these initiatives. Furthermore, the policy also mentions the continuation of the 'staff Eco Leaders team to increase awareness and actions regarding environmental sustainability', which directly points to the allocation of staff resources for climate action. Therefore, it can be concluded that the policy does allocate non-monetary institutional resources, specifically staff resources, to climate action.",
+          "quote": {
+            "content": "Continue the staff Eco Leaders team to increase awareness and actions regarding environmental sustainability.",
+            "page": 32,
+            "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+            "search_score": 0.93
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a number of initiatives aimed at increasing community engagement and education on climate change. These include the formation of a 126-member Shape Wangaratta Panel, which helped develop the policy documents through online and in-person facilitated sessions. The policy also outlines plans to work collaboratively with external stakeholders on community-based environment and sustainability initiatives, and to engage and empower the community to reduce energy consumption and carbon emissions. The policy also includes plans to work with partners to inform, educate, and assist the community in promoting and increasing the uptake of renewable energy. These initiatives demonstrate a clear commitment to social mobilisation in the context of climate action.",
+          "quote": {
+            "content": "Therefore, Council aims to partner and assist our residents, businesses and community groups to build capacity and resilience and to support our community in this energy transition. We recognise the important role the community plays in reducing emissions for the municipality through behaviour change, the uptake of renewables and retrofitting.",
+            "page": 24,
+            "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a combination of technological solutions and behaviour change to achieve this goal. Technological solutions include investigating the feasibility of community-owned renewable energy generation and developing landfill emission reporting for the municipality. The plan also mentions the possibility of purchasing renewable energy through power purchasing agreements. Behaviour change is addressed through the support of community leaders wishing to set targets for the reduction of emissions and the recognition of the important role the community plays in reducing emissions through the uptake of renewables and retrofitting. The plan also aims to build capacity and resilience within the community to support this energy transition.",
+          "quote": {
+            "content": "We recognise the important role the community plays in reducing emissions for the municipality through behaviour change, the uptake of renewables and retrofitting.",
+            "page": 24,
+            "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a commitment to increase the resilience capacity of the community to mitigate and adapt to changes driven by climate change. It also includes actions to respond to adverse weather events through the review and continual update of emergency preparedness and response actions. The plan also includes strategic actions such as ensuring changing rainfall, flooding, bushfire, and drought patterns are included in all Council strategies and asset management plans where applicable. Furthermore, the plan includes the development and implementation of a Sustainable Building Policy for Council buildings and the embedding of Climate Resilient Infrastructure checklists into relevant processes for designing and maintaining infrastructure. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+          "quote": {
+            "content": "Develop and implement a Sustainable Building Policy for Council buildings.",
+            "page": 22,
+            "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide a detailed plan of action for addressing climate change, with specific targets and actions outlined. The policy demonstrates a commitment to including climate change and sustainability criteria in all relevant documents and policies, which is assessed by reviewing Council documents and policies. The policy also outlines four main focus areas related to the environment, including building environmentally sustainable communities, reducing waste, combating climate change, and protecting waterways. These focus areas are linked to six key priority areas, indicating a comprehensive approach to addressing climate change. The policy also outlines specific actions to be taken, such as responding to adverse weather events, ensuring sustainability criteria are strengthened for community grants, and continuing the staff Eco Leaders team. Therefore, the document provides well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's policy does include specific measurable criteria to evaluate the success of its proposed actions. The policy outlines a performance objective to demonstrate commitment through the inclusion of climate change and sustainability criteria in all relevant documents and policies. The success of this objective is to be assessed by reviewing Council documents and policies. Furthermore, the policy outlines specific actions to be taken in various areas such as responding to adverse weather events, strengthening sustainability criteria for community grants, and increasing awareness and actions regarding environmental sustainability. Each of these actions is associated with a specific timeframe, indicating that the policy has a mechanism for tracking progress over time. However, while the policy does include specific actions and a method for assessing progress, it does not provide explicit details on the metrics or standards that will be used to evaluate the success of these actions.",
+          "quote": {
+            "content": "INDICATOR: Assessed by reviewing Council documents & policies.",
+            "page": 35,
+            "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. While the documents do outline a number of strategies and actions related to climate change, these seem to be based on existing knowledge and frameworks rather than new research. For instance, the documents mention the development of a sustainability indicator tool, the review and update of emergency preparedness and response actions, and the inclusion of climate change and sustainability criteria in all relevant documents and policies. However, these actions appear to be more about implementing and improving existing measures rather than conducting new research. The documents also mention community engagement and collaboration with external stakeholders, but it is not clear whether this involves research or simply consultation and cooperation."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has implemented a range of strategies to combat climate change and promote sustainability. These include the development of a Sustainable Building Policy for Council buildings, the inclusion of climate change considerations in all Council strategies and asset management plans, and the investigation of a target for the use of recycled material in works programs. The Council also plans to embed Climate Resilient Infrastructure checklists into relevant processes for designing and maintaining infrastructure. Furthermore, the Council has engaged the community in the development of these policies, as evidenced by the community survey and the formation of the Shape Wangaratta Panel. This suggests a willingness to experiment with different approaches and to innovate in response to the challenges posed by climate change.",
+          "quote": {
+            "content": "Embed Climate Resilient Infrastructure checklists into relevant processes for designing and maintaining infrastructure (Once Sustainable Building Policy Completed) Investigate adopting a target for the use of recycled material in our works program. Develop and implement a Sustainable Building Policy for Council buildings.",
+            "page": 22,
+            "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the various actions and strategies outlined in the documents. For instance, the local government plans to advocate for improved firewood regulations and the re-establishment of research hubs within the region to work with the agricultural sector, local government, and other agencies on sustainable agriculture and other environmental issues. Additionally, the local government is committed to strengthening partnerships and collaboration with various stakeholders, including Youth Council, businesses, and local community groups, to increase the resilience of the community to mitigate and adapt to climate changes. These actions demonstrate a clear intent to advocate for climate action at higher levels of government.",
+          "quote": {
+            "content": "Advocate for the re-establishment of research hubs within the region to work with the agricultural sector, local government and other agencies on sustainable agriculture and other environmental issues.",
+            "page": 19,
+            "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a commitment to strengthening partnerships and collaboration with various stakeholders, including Youth Council, businesses, and local community groups. This indicates an intention to build local capacity within the council and the local community. The policy also acknowledges the role of the community in reducing emissions through behaviour change, the uptake of renewables, and retrofitting. This suggests an intention to build capacity within the local community for climate action. While the documents do not explicitly mention neighbouring local councils, the council's participation in the Goulburn Murray Climate Alliance and Cities Power Partnership suggests a willingness to collaborate and build capacity with other councils.",
+          "quote": {
+            "content": "We are a part of the Goulburn Murray Climate Alliance (GMCA), Cities Power Partnership (CPP) and recently signed a CPP joint statement committing to economic recovery solutions that create jobs while tackling climate change.",
+            "page": 24,
+            "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific information about regional associations, alliances, or other partnerships related to climate change. While the documents do mention the local government's commitment to strengthening partnerships and collaboration with various stakeholders, including Youth Council, businesses, and local community groups, these are not explicitly linked to climate change. The documents also mention the council's intention to work collaboratively with external stakeholders on community-based environment and sustainability initiatives, but again, no specific regional associations, alliances, or partnerships are named. Therefore, the documents do not provide clear evidence to answer the question in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do acknowledge the impacts of climate change on the community as a whole, and the need to increase community resilience, they do not specifically address how climate change might disproportionately affect vulnerable populations. The documents focus on general community resilience, environmental sustainability, and the mitigation of climate change impacts, but do not delve into the social justice implications of these impacts. Therefore, without explicit mention or discussion of the effects of climate change on vulnerable communities, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention social equity as one of the health pillars in the Municipal Health & Wellbeing Plan, it does not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The policy focuses more on the actions to mitigate and adapt to climate change, such as developing a sustainability indicator tool, co-sponsoring a regional conference on climate risk in agriculture, and planning for climate change impacts on green spaces. However, these actions do not directly address the equitable distribution of benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 12,
+    "num_questions": 20,
+    "attribute_score": 64.2
+  }
+}

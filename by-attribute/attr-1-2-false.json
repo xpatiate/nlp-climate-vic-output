@@ -1,0 +1,33 @@
+{
+  "attribute": 2,
+  "question": 2,
+  "finding": false,
+  "num": 5,
+  "responses": [
+    {
+      "answer": "The documents provided do not explicitly explain the need for action on climate change. They outline the City of Casey's Emissions Management Plan, including its targets and strategies for reducing greenhouse gas emissions and investing in renewable energy. They also detail the city's past achievements in emissions reduction and its alignment with national and state climate change policies. However, they do not provide a clear rationale or justification for these actions in terms of the impacts or risks of climate change. The documents focus more on the actions being taken and the targets set, rather than the reasons behind these actions and targets.",
+      "source": "Casey-a-a12345678910.json",
+      "lga": "Casey"
+    },
+    {
+      "answer": "The provided documents do not explicitly explain the need for action on climate change. While the documents do outline a number of actions related to environmental sustainability, such as advocating for renewable energy projects, incorporating educational material on environmental sustainability, and investigating the opportunity to employ an environmental sustainability officer, they do not provide a clear rationale or explanation for why these actions are necessary in the context of climate change. The documents seem to assume an understanding of the importance of these actions, without explicitly stating the reasons for their implementation. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly explains the need for action on climate change.",
+      "source": "Loddon-a-a12345678910.json",
+      "lga": "Loddon"
+    },
+    {
+      "answer": "The provided documents do not explicitly explain the need for action on climate change. While the documents do outline a number of actions related to environmental sustainability, such as advocating for renewable energy projects, improving environmental sustainability within local households and businesses, and considering energy efficiency in procurement processes, they do not provide a clear rationale or explanation for why these actions are necessary in the context of climate change. The documents seem to assume an understanding of the importance of these actions, without explicitly stating the reasons for their implementation. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly explains the need for action on climate change.",
+      "source": "Loddon-b-a12345678910.json",
+      "lga": "Loddon"
+    },
+    {
+      "answer": "The documents provided do not explicitly explain the need for action on climate change. They outline the local government's Corporate Emissions Reduction Plan for 2018-2021, which includes strategies for reducing emissions from various sources such as waste, fleet, buildings, parks and reserves, and street lighting. The plan also includes measures for developing a low carbon workplace and monitoring and evaluating progress. However, the documents do not provide a clear rationale or explanation for why these actions are necessary in the context of climate change. They do not discuss the impacts of climate change, the role of greenhouse gas emissions in contributing to climate change, or the potential benefits of emissions reduction for mitigating climate change. Therefore, based on the provided documents, the question cannot be answered in the affirmative.",
+      "source": "Moira-a-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The documents provided do not explicitly explain the need for action on climate change. They outline the local government's Corporate Emissions Reduction Plan for 2018-2021, which includes strategies for reducing emissions from various sources such as waste, fleet, buildings, parks and reserves, and street lighting. The plan also includes measures to develop a low carbon workplace and monitor and evaluate progress. However, the documents do not provide a clear rationale or explanation for why these actions are necessary in the context of climate change. They do not discuss the impacts of climate change, the role of greenhouse gas emissions in contributing to climate change, or the potential benefits of emissions reduction for mitigating climate change. Therefore, based on the provided documents, the question cannot be answered in the affirmative.",
+      "source": "Moira-b-a12345678910.json",
+      "lga": "Moira"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "settings": {
+    "source_files": [
+      "Cardinia-Aspirational_Energy_Transition_Plan_2014_24.pdf",
+      "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+      "Cardinia-Climate_Change_Adaptation_Strategy___Action_plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T13:58:28.288314",
+    "lga": "Cardinia"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the 'Climate Change Adaptation Strategy 2022–33', clearly identifies climate action as its core purpose. The policy is designed to address the impacts of climate change on the economic, social, and environmental sustainability of the local area. It outlines objectives such as mainstreaming climate risk considerations and adaptation actions in Council policies, programs, and service delivery, and identifying action pathways to increase the adaptive capacity and foster timely opportunities to strengthen climate change resilience across the shire. The policy also includes a 10-year costed action plan to address the most urgent climate risks. The policy's purpose is not only to mitigate the effects of climate change but also to ensure that the community is resilient and sustainable in the face of these challenges.",
+          "quote": {
+            "content": "Adapting to this change requires taking actions to lessen the adverse consequences of climate. Climate change is a global challenge that is caused by the increased concentration of carbon dioxide and other greenhouse gases in the atmosphere.",
+            "page": 6,
+            "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight that climate change is a global challenge caused by the increased concentration of carbon dioxide and other greenhouse gases in the atmosphere, primarily due to human activities such as the burning of fossil fuels. The documents underscore that these activities have led to global warming and climate change, with localised impacts that have adverse effects on social, economic, and environmental systems. The documents further emphasise that adapting to these changes requires taking actions to lessen the adverse consequences of climate change. The documents also outline specific objectives and action plans to address climate change, including raising community awareness, identifying high-risk areas for development, and advocating for climate change adaptation initiatives. These details underscore the urgency and necessity of taking action on climate change.",
+          "quote": {
+            "content": "Human activities such as the burning of fossil fuels like coal, gas and oil have fundamentally increased the atmospheric greenhouse gases and contributed to global warming. Climate change is a global challenge that is caused by the increased concentration of carbon dioxide and other greenhouse gases in the atmosphere.",
+            "page": 6,
+            "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for urgent action on climate change. They highlight the critical need for immediate action to mitigate the impacts of climate change. The International Panel on Climate Change (IPCC) is quoted as stating that the world has just 10 years to reverse surging carbon emissions or risk runaway climate change that could make many parts of the planet uninhabitable. The documents also mention the need to eliminate all major emissions sources on a global scale and work on drawing down carbon that is already in the atmosphere. Furthermore, the documents outline a 10-year costed action plan that incorporates the evaluation, review, and assessment of the delivered initiatives to ensure flexibility in adapting to climate change. The documents also advocate for climate change adaptation initiatives from all levels of government."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for their intended actions on climate change. The 'Climate Change Adaptation Plan - Action plan' outlines a variety of actions with specific timeframes. For instance, it mentions raising community awareness and increasing preparedness for climate hazards amongst different age groups over a period of 9 years from 2024-25 onwards. It also mentions identifying high-risk areas for development and developing resources to assist the community over a period of 2 years from 2024-25 to 2025-26. Furthermore, the document mentions a midterm review of the action plan to be conducted in 1 year in 2027-28. The 'Climate Change Adaptation Strategy 2022–33' also mentions a 10-year life for the CCAS Action Plan, with a review at the 5-year mark. These specific timeframes indicate a clear schedule for the implementation of the climate change actions.",
+          "quote": {
+            "content": "The CCAS Action Plan has a 10 year life and will be reviewed at the 5 year mark.",
+            "page": 5,
+            "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of climate change adaptation and the need for action, they do not explicitly prioritize these actions over other policies. The documents outline a variety of actions and strategies to address climate change, including raising community awareness, identifying high-risk areas for development, and advocating for climate change adaptation initiatives. However, these actions are presented as part of a broader strategy, rather than as a priority over other policies. Furthermore, the documents suggest that climate change adaptation should be integrated into all council policies, rather than prioritized above them. Therefore, based on the provided documents, it cannot be conclusively stated that a climate emergency response must have higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, emphasize the importance of integrating climate change adaptation measures into council policies and operations. The Cardinia Shire Council has developed a 10-year costed action plan to address urgent climate risks and to strengthen the adaptive capacity of the community and Council to the immediate and imminent localised risks associated with the intensifying impacts of climate change. The documents also mention the need for a midterm review of progress towards the action plan, and the importance of updating council policies to include climate change adaptation measures. However, there is no explicit requirement stated that all council activities must align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's climate change adaptation plan does explicitly allocate funding for climate action. The plan outlines a series of actions to be taken over a 10-year period, with each action associated with a specific timeframe, lead partner, and funding allocation. For instance, the plan includes the creation of a 'Climate Resilience Officer' role, with operational funding allocated for this position. Other actions, such as raising community awareness, identifying high-risk areas for development, and advocating for climate change adaptation initiatives, also have specific funding allocations. The plan also mentions the need for additional resources, such as the employment of two additional council officers, for which business cases will be developed. Therefore, the plan not only identifies the actions to be taken but also provides a clear indication of the financial resources that will be mobilized to implement these actions.",
+          "quote": {
+            "content": "The sustainable design officer’s work will support actions in this strategy, the housing strategy and the Integrated Water Management Plan. The positions currently being considered are an environmental education officer and a sustainable design officer. The environmental education officer will work on key projects related to this strategy as well as actions related to the Integrated Water Management Plan.",
+            "page": 49,
+            "source": "Cardinia-Aspirational_Energy_Transition_Plan_2014_24.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate change adaptation plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines the creation of a 'Climate Resilience Officer' role, which is an explicit allocation of staff resources towards climate action. This role is described as 'ongoing', indicating a long-term commitment to this position. Furthermore, the plan includes actions such as 'Raise community awareness and increase preparedness for climate hazards', 'Identify high-risk areas for development and develop resources to assist the community', and 'Provide support for staff directly affected by climate hazard events or involved in relief and recovery efforts'. These actions suggest that the local government is not only allocating staff to climate action but also investing in training and support for these staff members. The plan also mentions the allocation of resources for specific projects, such as the creation of a demonstration garden for climate-tolerant plant species."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is taking steps to educate and involve the community in climate action. The Climate Change Adaptation Plan outlines several actions aimed at raising community awareness and preparedness for climate hazards. These include updating the community through website updates, workshops, and targeted newsletters. The plan also includes actions to identify high-risk areas for development and develop resources to assist the community. Furthermore, the government plans to activate and encourage the community to use outdoor, open space areas, including bushland reserves. These actions suggest a commitment to social mobilisation, as they involve educating the community about climate risks and encouraging their active participation in climate action. However, the documents do not provide specific details on how these actions will be implemented or how their effectiveness will be measured."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The provided documents primarily focus on climate change adaptation strategies, rather than mitigation of greenhouse gas emissions. The strategies outlined are aimed at increasing resilience to climate change impacts and managing associated risks. These include raising community awareness, identifying high-risk areas for development, advocating for climate change adaptation initiatives, and conducting climate change risk assessments. While these actions are crucial for adapting to the impacts of climate change, they do not directly address the mitigation of greenhouse gas emissions through technological solutions or behaviour change. Mitigation strategies would typically involve actions to reduce greenhouse gas emissions, such as transitioning to renewable energy sources, improving energy efficiency, or promoting sustainable transportation and land use practices. Such specific mitigation actions are not evident in the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Change Adaptation Strategy 2022-33 indeed includes specific actions for climate adaptation and resilience. The strategy identifies 51 climate-related risks and categorizes them into extreme, high, medium, and low. It also outlines a 10-year costed action plan to address the most urgent climate risks. The plan includes actions such as raising community awareness, identifying high-risk areas for development, and advocating for climate change adaptation initiatives. The strategy also mentions the creation of a Climate Resilience Officer role to oversee these actions. Furthermore, the strategy includes a midterm review of the action plan to ensure the adaptation planning considers the most up-to-date and accurate data available. Therefore, the policy not only acknowledges the need for climate adaptation and resilience but also provides a detailed plan to achieve it.",
+          "quote": {
+            "content": "The 7 risks identified with a high risk rating for near future (2030) identified through the CCIR assessment have been central to the development this Climate Change Adaptation Strategy and the connected 10-year Action Plan (2023-2033).",
+            "page": 18,
+            "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+            "search_score": 0.91
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide a detailed plan for addressing climate change, including specific actions, timelines, and responsible parties. The Cardinia Shire Council's Climate Change Adaptation Strategy outlines a 10-year costed action plan that incorporates evaluation, review, and assessment of initiatives. It also emphasizes the need for a midterm review to ensure the plan is based on the most up-to-date and accurate data. The strategy identifies seven high-risk categories and proposes action pathways for each. The documents also mention specific initiatives such as raising community awareness, identifying high-risk areas for development, and participating in regional climate adaptation projects. The strategy is backed by a Climate Change Impact and Risk (CCIR) assessment, which identifies local risks associated with climate change for both near-future (2030) and far-future (2070) time horizons. Therefore, the documents provide well-sourced evidence to justify its climate targets and actions.",
+          "quote": {
+            "content": "A risk rating category consisting of, extreme, high, medium, and low was used to categorise identified climate risks. The CCIR assessment identified local risks associated with climate change for both near-future (2030) and far-future (2070) time horizons.",
+            "page": 18,
+            "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate change adaptation plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a 10-year costed action plan that addresses the most urgent climate risks. The plan also includes a mid-term review in year 5 to monitor implementation progress, evaluate actions, and improve the delivery of the action plan. In year 10, a more detailed review of the entire strategy will take place, including a climate change impact and risks assessment to identify new and emerging climate risks for the next 10 years. This approach ensures that the plan remains flexible and responsive to the dynamic nature of climate change. Furthermore, the plan outlines specific adaptation indicators that will be used to monitor the progress of the strategy and the strategy objectives the risk relates to. These indicators provide a clear and measurable way to assess the effectiveness of the plan's actions.",
+          "quote": {
+            "content": "Table 13 outlines the adaptation indicators that will be used to monitor the progress of the strategy and the strategy objectives the risk relates to. A mid-term review of the strategy will be undertaken in year 5 to monitor implementation progress, evaluate actions and continuously improve delivery of the action plan. In year 10 a more detailed review of the entire strategy will take place, including a climate change impact and risks assessment to identify new and emerging climate risks for the next 10 years.",
+            "page": 27,
+            "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government's Climate Change Adaptation Strategy and Action Plan outlines a comprehensive approach to addressing climate change risks. The strategy includes a 10-year costed action plan developed through rigorous consultation with community and internal stakeholders. This plan is designed to address the most urgent climate risks between 2023 to 2033, with a focus on strengthening the adaptive capacity of the community and Council to the immediate and imminent localised risks associated with the intensifying impacts of climate change. The documents also mention a midterm review of the action plan and a climate change risk impact and risk assessment in preparation for the development of a new strategy. These actions suggest a commitment to ongoing research and adaptation based on the changing needs and conditions of the local community.",
+          "quote": {
+            "content": "The CCAS 10-year Action Plan prescribes resources and initiatives to lessen the risks associated with the localised impacts of climate change in Cardinia Shire.",
+            "page": 5,
+            "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of innovation and policy experimentation in climate action. The Cardinia Shire Council's Climate Change Adaptation Strategy and Action Plan outline a comprehensive approach to addressing climate change risks, including the development of a 10-year costed action plan, midterm review of progress, and identification of high-risk areas for development. However, these actions represent standard best practices in climate change adaptation planning, rather than innovative or experimental approaches. The documents mention actions such as raising community awareness, advocating for climate change adaptation initiatives, and conducting a climate change risk impact assessment. While these are important steps in addressing climate change, they do not represent innovative or experimental policy approaches. Therefore, based on the provided documents, the answer to the question is negative."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents provided do show an explicit intent by the Cardinia Shire Council to advocate upward to state and national governments to support climate action. This is evident in the 'Climate Change Adaptation Plan - Action Plan' where one of the listed actions is to 'Advocate for climate change adaptation initiatives from all levels of government'. This action is ongoing and is led by the Environment and Heritage department, indicating a sustained effort to influence policy at higher levels of government. The action plan also includes a mid-term review, suggesting that the council is committed to monitoring and evaluating its advocacy efforts. Furthermore, the 'Climate Change Adaptation Strategy 2022–33' mentions the Australian Government's National Climate Resilience and Adaptation Strategy, indicating that the council is not only aware of but also aligning its actions with national strategies.",
+          "quote": {
+            "content": "47.",
+            "page": 8,
+            "source": "Cardinia-Climate_Change_Adaptation_Strategy___Action_plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The Cardinia Shire Council's Climate Change Adaptation Plan outlines a series of actions aimed at addressing climate change risks and building resilience. These actions include advocating for climate change adaptation initiatives from all levels of government, raising community awareness, and increasing preparedness for climate hazards. The plan also mentions the creation of a Climate Resilience Officer role, which suggests an effort to build capacity within the council itself. Furthermore, the plan emphasizes the importance of partnerships with other organizations and the community in addressing climate change risks. However, there is no explicit mention of coordination with neighbouring local councils.",
+          "quote": {
+            "content": "Advocate for climate change adaptation \ninitiatives from all levels of government that \nincreases resilience to climate change \nOngoing \n2023-24 \nEnvironment and \nHeritage \nArts, Advocacy and \nEconomy \n \n \n \n \n \n \nSubject to \ncreation of \nclimate \nresilience \nofficer 47.",
+            "page": 8,
+            "source": "Cardinia-Climate_Change_Adaptation_Strategy___Action_plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do indeed refer to specific regional associations and partnerships related to climate. Specifically, the Cardinia Shire Council's Climate Change Adaptation Plan mentions the South Eastern Councils Climate Change Alliance (SECCCA). This is a regional association of nine councils in the South East of Melbourne, Australia, working together on projects related to climate change. The document outlines an action plan that includes ongoing participation in regional climate adaptation and resilience projects through SECCCA. This indicates that the local government is not only aware of the importance of collaboration and partnerships in addressing climate change but is also actively involved in such initiatives.",
+          "quote": {
+            "content": "Participate in regional climate adaption and resilience \nprojects through SECCCA \nOngoing \n2023-24",
+            "page": 2,
+            "source": "Cardinia-Climate_Change_Adaptation_Strategy___Action_plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the need for climate change adaptation measures, the identification of climate risks, and the development of action plans to address these risks, they do not specifically address the differential impacts of climate change on vulnerable communities. The documents focus more on general community preparedness, organisational resilience, and the inclusion of climate change adaptation measures in council policies. Therefore, based on the provided context, it cannot be affirmed that the documents discuss the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change adaptation, these primarily focus on identifying and mitigating climate risks, increasing resilience, and implementing specific programs or initiatives. There is no explicit mention of how these actions will ensure the equitable distribution of benefits and opportunities. Furthermore, there is no specific discussion on how social justice will be addressed in the context of climate change adaptation. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit discussion on how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 67.5
+  }
+}

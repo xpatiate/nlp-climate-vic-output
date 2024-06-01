@@ -1,0 +1,330 @@
+{
+  "settings": {
+    "source_files": [
+      "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+      "Brimbank-Climate-Emergency-Plan.pdf",
+      "Brimbank-Climate-Emergency-Plan-Report-Card-2022-23.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T13:35:55.952845",
+    "lga": "Brimbank"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as a core purpose. The policy's principal purpose is to outline the local government's position on the climate emergency, with the aim of orientating social transformation. The policy aims to lead the community to zero net emissions in accordance with climate science and position the climate emergency as the strategic focus of Council operations. The policy also acknowledges the 21st century as a period of climate emergency and opportunity for positive social change. The policy's action plan includes actions that the Council can control, partner, and advocate for that affect the climate emergency and transition to the net zero emission resilient economy. Therefore, it is evident that climate action is the core purpose of the policy.",
+          "quote": {
+            "content": "Its principal purpose is to outline Council’s position statement on the climate emergency, with the aim that this statement orientates social transformation, with Council taking a municipal leadership role, while promoting action from, and collaboration with, all quarters.",
+            "page": 6,
+            "source": "Brimbank-Climate-Emergency-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The 'Climate Change Adaptation Framework 2017-2022' provides strategic direction for building climate resilience within the Brimbank community and within Council’s services and operations. It acknowledges the need to prepare and respond to anticipated long-term climate change impacts. The 'Brimbank Climate Emergency Plan 2020-2025' also emphasizes the urgency of the climate emergency and the need for rapid and far-reaching transitions in community behaviour, energy, land use, urban form, and infrastructure. It highlights the need for individual commitment and community involvement in decision-making processes. The documents also outline specific actions and strategies to address climate change, such as integrating adaptation priorities within relevant policies and strategies, and establishing a representative Climate Emergency Citizens Assembly.",
+          "quote": {
+            "content": "Where the Brimbank Greenhouse Reduction Strategy 2013-2023 addresses the need to reduce the causes of climate change (greenhouse emissions), this Framework presents all the ways in which Council prepares and responds to anticipated long-term climate change impacts.",
+            "page": 2,
+            "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The Brimbank Climate Emergency Plan 2020-2025 indeed calls for rapid and urgent action on climate change. The document repeatedly emphasizes the need for immediate and large-scale action to address the climate emergency. It highlights the urgency of the situation by stating that 'we have lost valuable time' and that 'socially just' climate action must happen at scale and speed. The document also sets ambitious targets for reducing emissions, with a goal of achieving zero net emissions by 2030 for council operations and by 2040 for the entire municipality. The plan also outlines specific actions to be taken, further emphasizing the urgency and immediacy of the response required. The document's language and tone underscore the urgency of the situation, and its detailed action plan demonstrates a commitment to rapid action.",
+          "quote": {
+            "content": "We must kick our climate pollution habit ASAP. ‘Socially just’ climate action is a necessity and must happen at scale and speed.",
+            "page": 4,
+            "source": "Brimbank-Climate-Emergency-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for their intended actions on climate change. The 'Climate Change Adaptation Framework' outlines actions to be taken 'Now - 2 years' and '3 - 5 years' in the future. These actions include integrating adaptation priorities and principles within updates to relevant policies and strategies, considering general staff training to increase understanding of climate change impacts, and establishing monitoring and evaluation of climate change impacts on Council service delivery. The 'Brimbank Climate Emergency Plan 2020-2025' also provides a timeframe, with actions categorized as 'Immediate, Year 1', 'Short, Years 2-5 years', and 'Ongoing'. These actions include establishing a representative Brimbank Climate Emergency Citizens Assembly and a dedicated Brimbank Community Grants Program climate emergency stream. These specific timeframes indicate a sense of urgency in the local government's approach to addressing climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": true,
+          "answer": "The documents clearly state that the climate emergency response is a top priority for the local government. The Brimbank Climate Emergency Plan 2020-2025 is described as sitting at the highest level of the Council’s strategic planning framework, above and informing the four-year Council plans that are established at each new Council term. This indicates that the climate emergency response is prioritized above other policies. Furthermore, the document states that the climate emergency will be the strategic focus of Council operations, further emphasizing its prioritization. The Council also commits to advocating for science-based climate leadership from other local governments, and from the Victorian and Australian governments, indicating a prioritization of climate action at all levels of government."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents do explicitly state that all council activities must be aligned with climate policy. The Climate Change Adaptation Framework outlines a cohesive organisational approach to climate change adaptation, which includes embedding climate considerations within updates to policies and strategies. The Framework also introduces a set of adaptation principles to assist decision makers with integrating adaptation response into their day-to-day decision making. The Brimbank Climate Emergency Plan 2020-2025 further emphasizes this by stating that climate change must be a lens for all decision making, by all aspects of society. The Plan also commits the Council to position the climate emergency as the strategic focus of Council operations. Therefore, it is clear that the council activities are expected to align with the climate policy.",
+          "quote": {
+            "content": "Recommend advocacy and partnership opportunities for Council. This Framework aims to: 1. Identify a cohesive organisational approach to climate change adaptation by identifying existing action and prioritising climate response across Council’s services and operations 2. Outline an approach for consistently embedding climate considerations within updates to policies and strategies 3. Introduce a set of adaptation principles to assist decision makers with integrating adaptation response into their day-to-day decision making 4.",
+            "page": 2,
+            "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does allocate resources for climate action, although it does not explicitly mention financial resources. The plan outlines a range of actions to be taken in response to climate change, and for each action, it identifies the responsible department and the resources required. The resources are primarily staff time, indicating that the plan involves a significant commitment of human resources. However, the plan does not provide specific details about the financial resources that will be allocated to these actions. It is also worth noting that the plan includes a range of partnerships, both internal and external, which could potentially bring additional resources to the implementation of the plan.",
+          "quote": {
+            "content": "Resilient communities and service delivery\nTiming\nActions\nOpportunities, partnerships and advocacy\nResponsibility\nResourcing\nNow – \n2 years\n1.1\nUpdate the Council Plan and Community Plan (including \nMunicipal Public Health and Wellbeing Plan) to ensure climate \nchange is comprehensively considered in line with Climate \nChange Act (2017) legislative requirements.",
+            "page": 14,
+            "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+            "search_score": 0.94
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's plan does indeed allocate staff and other non-monetary institutional resources to climate action. The documents outline a variety of actions related to climate change adaptation, each of which is assigned to specific departments within the local government. For instance, the 'Environment' department is tasked with integrating adaptation priorities and principles within updates to relevant policies and strategies across the organisation. The 'Environment' and 'People and Performance' departments are also responsible for considering general staff training to increase the understanding of climate change impacts and risks for the organisation. Furthermore, the 'Environment' department is tasked with establishing monitoring and evaluation of climate change impacts on Council service delivery. These allocations of staff time and departmental responsibility demonstrate a clear commitment of institutional resources to climate action.",
+          "quote": {
+            "content": "Investigate opportunities for funding through the \nState Government or adapt City of Greater \nGeelong’s Climate Resilience Staff Training to suit \nBrimbank’s context. Refer to \nthe relevant policies and strategies that are identified in the \nFramework above. All \ndepartments\nEnvironment\nStaff time ++\n5.2\nConsider general staff training to increase the understanding of \nclimate change impacts and risks for the organisation, including \nan overview of the impacts for Council and our community, an \nunderstanding of how to frame the issue and response \napproaches.",
+            "page": 21,
+            "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The Brimbank Climate Emergency Plan outlines a commitment to sharing robust scientific advice on climate change and enabling the community to mobilise to respond to the climate emergency. The plan also includes a commitment to use its leadership and resources to empower all residents, particularly those most impacted by the climate emergency, to lead and fully participate in the climate emergency response. The plan also outlines a commitment to establish a citizens’ assembly on the climate emergency, which will be based around ‘environmental equity’. The assembly will inform the co-creation of a zero net emissions, resilient city. The plan also outlines a commitment to partner with other councils, the Western Alliance for Greenhouse Action and others including the community and emergency services sectors, to amplify community voice and to undertake collective advocacy and action.",
+          "quote": {
+            "content": "Council is committed to sharing robust scientific advice on climate change and to enabling the community to mobilise to respond to the climate emergency.",
+            "page": 18,
+            "source": "Brimbank-Climate-Emergency-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Brimbank Climate Emergency Plan 2020-2025 indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a comprehensive approach to decarbonisation, which includes both technological solutions and behaviour change. The four pillars of decarbonisation mentioned in the plan are energy waste reduction, 100% renewable electricity, electrification and a shift away from fossil fuels, and non-energy emissions reductions and offsetting of residual emissions. These pillars indicate a clear focus on technological solutions to reduce emissions. The plan also includes actions such as the establishment of a Climate Emergency Citizens Assembly and the involvement of youth in climate leadership roles, projects, and training, which are aimed at fostering behaviour change. Furthermore, the plan outlines the need for a transition to a new clean economy powered by renewable energy, which would require changes in community behaviour, energy use, land use, urban form and infrastructure, and industrial production and material use systems."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Change Adaptation Framework indeed includes specific actions for climate adaptation and resilience. The framework outlines a comprehensive approach to climate change adaptation, focusing on building climate resilience within the community and within Council’s services and operations. It identifies existing actions and prioritizes climate response across Council’s services and operations. The framework also outlines an approach for consistently embedding climate considerations within updates to policies and strategies. It introduces a set of adaptation principles to assist decision makers with integrating adaptation response into their day-to-day decision making. The framework also recommends advocacy and partnership opportunities for Council. The document also provides a detailed action plan addressing each priority area, including actions, opportunities, partnerships, advocacy, responsibility, and resourcing. This plan is designed to ensure Council’s efforts at building capacity and responding to climate impacts are consistent and focused across their service delivery."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions and strategies to address climate change, such as the Brimbank Climate Emergency Plan and the Climate Change Adaptation Framework, they do not provide specific, well-sourced evidence to justify these actions. The documents mention the need for actions like updating council plans, participating in sustainability programs, and integrating climate change considerations into policy and strategy. However, they do not provide clear, well-sourced evidence to justify why these specific actions are necessary or how they will effectively address climate change. The documents also do not provide clear, well-sourced evidence to justify the specific targets set for these actions. Therefore, while the documents outline a number of actions and strategies to address climate change, they do not meet the high standard of evidence and specific detail required to justify these actions and targets."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a monitoring, evaluation, and reporting (ME&R) framework for adaptation performance, which was launched in partnership with the Western Alliance for Greenhouse Action, RMIT Centre for Urban Research, and the Net Balance Foundation. This framework includes indicator sets under two themes: 'community wellbeing and emergency management' and 'open space and water security'. These indicators are designed to monitor the effectiveness of the plan's actions and strategies, such as the effectiveness of alternative water supplies and the integration of climate change considerations in daily roles. Furthermore, the plan also includes an internal Climate Adaptation Working Group to oversee the delivery of the Adaptation Framework Action Plan. This group will meet at least twice a year and will be comprised of Council officers responsible for Framework Actions.",
+          "quote": {
+            "content": "‘How Well Are We Adapting’ currently monitors indicator sets under two themes: ‘community wellbeing and emergency management’ and ‘open space and water security’.",
+            "page": 22,
+            "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined several actions that involve research and data collection to better understand the impacts of climate change and inform their response strategies. For instance, the 'Climate Change Adaptation Framework Action Plan' includes plans to update the Council Plan and Community Plan to ensure climate change is comprehensively considered. This would likely involve research into the local community's specific vulnerabilities and needs. Additionally, the local government plans to participate in Sustainability Victoria’s Healthy Homes program, which would involve retrofitting homes for better energy efficiency, likely informed by research into local housing conditions and energy use. Another action involves preparing a biodiversity connectivity plan to enhance the movement of indigenous flora and fauna, which would require research into local ecosystems. Furthermore, the 'Brimbank Climate Emergency Plan 2020-2025' includes actions such as undertaking place-based research to understand the health risks and likely impacts of climate change on services and communities, and developing an urban design manual that specifies climate positive and sustainable products for open space and streetscape upgrades.",
+          "quote": {
+            "content": "Partners could include: Sustainability Victoria, \nDepartment of Health and Human Services, \nBrotherhood of St. Laurence, Climate Council Plan working group\nPolicy, \nAdvocacy and \nResearch\nStaff time +\n1.2\nParticipate in Sustainability Victoria’s Healthy Homes program \nto retrofit Home and Community Care clients’ homes to ensure \nbetter cooling capacity and energy savings are realised for \nvulnerable residents.",
+            "page": 14,
+            "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has developed a comprehensive Climate Change Adaptation Framework and a Climate Emergency Plan, which outline a range of innovative actions and strategies to address climate change. These include the integration of climate change adaptation principles into relevant policies and strategies, the establishment of a Climate Emergency Citizens Assembly, and the implementation of a dedicated Community Grants Program for climate emergency initiatives. The government is also planning to undertake place-based research to understand the health risks and likely impacts of climate change on services and communities, and to redesign key streets to be walking and cycling friendly corridors with high levels of shade trees, vegetation, and water-sensitive design infrastructure. These actions demonstrate a commitment to policy experimentation and innovative approaches to climate action.",
+          "quote": {
+            "content": "*\nS\n3\nActively and directly, involve youth in climate leadership roles, projects and training through existing youth \nprograms and other opportunities. S\n2\nEstablish a dedicated Brimbank Community Grants Program climate emergency stream.",
+            "page": 24,
+            "source": "Brimbank-Climate-Emergency-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The Climate Change Adaptation Framework outlines a number of advocacy priorities, including the need for major infrastructure projects to integrate climate change adaptation principles into their delivery, design, and management. It also highlights the need for land-use planning decisions to factor in climate change scenarios, with support from higher levels of government. The Brimbank Climate Emergency Plan further emphasizes the need for advocacy, with the local government committing to advocate for science-based climate leadership from other local governments, and from the Victorian and Australian governments. The plan also outlines specific advocacy actions to the Victorian and Australian governments, including advocating for affordable grid renewable energy, affordable solar PV for renters living on low incomes, and the phase-out of fossil fuel vehicles."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, their local communities, and neighbouring local councils for climate action. The Climate Change Adaptation Framework outlines a proactive approach to climate change adaptation, which includes collaboration with the community, other councils, and other levels of government. The framework also emphasizes the need for partnerships with key agencies and other levels of government to effectively adapt at the appropriate scale. The documents also highlight the importance of community engagement in developing and delivering educational programs on the impacts of climate change and how to prepare for them. This includes targeted initiatives for vulnerable community members and culturally and linguistically diverse (CALD) communities. The documents also mention the need for advocacy and partnership opportunities for the council in relation to climate change adaptation.",
+          "quote": {
+            "content": "Council will collaborate with our community, with other councils and other levels of government, the private sector and other institutions to identify and deliver on local adaptation priorities.",
+            "page": 4,
+            "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government is seen to be actively collaborating with various entities to address climate change. For instance, the 'Climate Change Adaptation Framework' document mentions the Western Alliance for Greenhouse Action, a partnership with RMIT Centre for Urban Research and the Net Balance Foundation, which produced a monitoring, evaluation, and reporting (ME&R) framework for adaptation performance. The document also refers to collaborations with other emergency management agencies, VicRoads, and other councils. Furthermore, the document mentions the 'Resilient Melbourne’s Neighbourhood project' as a potential opportunity for community strengthening programs that support climate resilience. These partnerships and collaborations are crucial for the local government to effectively address climate change at the local level."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The Brimbank Climate Emergency Plan 2020-2025 and the Brimbank Climate Change Adaptation Framework both highlight the importance of equity and social justice in their climate change policies. The documents emphasize that the impacts of climate change are felt first and foremost by those already most vulnerable in the community, including the elderly, the very young, the poor, and those with existing medical and mental health conditions. The documents also outline plans to ensure that these vulnerable groups are not disproportionately affected by climate change. This includes providing them with appropriate information, opportunities to be involved, and adequate public consultation. The documents also mention plans to develop and deliver educational programs to raise awareness of climate impacts and how to prepare for them, which will assist in reducing pressure on emergency management resources over time.",
+          "quote": {
+            "content": "The scientific evidence on climate change is clear.",
+            "page": 11,
+            "source": "Brimbank-Climate-Emergency-Plan.pdf",
+            "search_score": 0.94
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The documents do discuss how to equitably share the benefits and opportunities of a safe climate. The Brimbank Climate Emergency Plan 2020-2025 outlines the principle of equity in decision-making, aiming to create opportunities for both present and future generations to adapt to climate change. This is particularly targeted towards those most vulnerable to the potential impacts of climate change. The plan emphasizes maintaining or enhancing the health, diversity, and productivity of the environment for the benefit of future generations. The principle of community engagement also ensures that the community, including youth, the vulnerable, or marginalized communities, are involved in decisions that may affect them. The plan also mentions the concept of 'environmental equity', which considers the unity of environmental, social, and economic factors of climate change. This is used to inform the co-creation of a zero net emissions, resilient city. Therefore, the documents do provide a clear framework for equitably sharing the benefits and opportunities of a safe climate.",
+          "quote": {
+            "content": "The present generation will ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations and that any adverse impacts of climate change are minimised for future generations. Decision-making will create opportunities for the present generation and future generations to adapt to climate change. In particular, for those people most vulnerable to the potential impacts of climate change.",
+            "page": 9,
+            "source": "Brimbank-Climate-Emergency-Plan.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 19,
+    "num_questions": 20,
+    "attribute_score": 97.5
+  }
+}

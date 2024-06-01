@@ -1,0 +1,310 @@
+{
+  "settings": {
+    "source_files": [
+      "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T22:23:46.545397",
+    "lga": "PortPhillip"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as its core purpose. The policy is designed to address the impacts of climate change and to reduce greenhouse gas emissions. It outlines a commitment to maintaining zero net emissions from operations and to work with the community and partners to reduce greenhouse gas emissions. The policy also acknowledges the need for urgent climate action and the existence of feasible and practical options to reduce greenhouse gas emissions and minimize human-caused climate change. The policy further emphasizes the importance of transitioning from fossil fuels to renewable energy as a critical step in tackling the climate emergency. It also highlights the role of the community and businesses in taking meaningful action to reduce their emissions and become more climate resilient.",
+          "quote": {
+            "content": "The IPCC says that urgent climate action can secure a liveable future for all. Reducing greenhouse gas emissions and transitioning from fossil fuels to renewable energy is critical to tackling the climate emergency. Responding to the climate emergency is possible.",
+            "page": 24,
+            "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly articulates the need for action on climate change. It emphasizes the urgency of the situation, stating that climate change is affecting every country and disrupting national economies. The document also highlights the increasing pressure on life-sustaining systems such as the atmosphere, land, oceans, and biodiversity due to rising greenhouse gas emissions. It further underscores the importance of reducing these emissions and transitioning from fossil fuels to renewable energy to tackle the climate emergency. The document also mentions the need to support vulnerable populations and protect essential systems and services from the impacts of climate change. It encourages residents and businesses to take meaningful action to reduce their emissions and become more climate resilient.",
+          "quote": {
+            "content": "We encourage residents and businesses to take meaningful action to reduce their emissions, learn how to become more climate resilient and prepare for a changing climate. Responding requires investment in our assets, changing how we deliver our services and working with our community and partners to mitigate and adapt to climate change.",
+            "page": 33,
+            "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. The documents highlight the severe risks posed by climate change to the planet, biodiversity, and communities. They emphasize the need for immediate action, stating that humanity has a narrow window to act. The documents also note the growing momentum for climate action at both the individual and community scale, with over 100 local government areas in Australia, including Port Phillip, having declared a climate emergency. The documents further underscore the importance of urgent action by outlining the devastating impacts of climate change that have already been experienced, such as Australia's hottest and driest year on record in 2019 and the largest wildfire ever recorded. The documents also highlight the need for transformative changes in areas such as waste management and the creation of a recycling and circular economy.",
+          "quote": {
+            "content": "There has never been a more critical time to take environmental action. Humanity has a narrow window to act, but the IPCC says urgent climate action can still secure a liveable future for all.",
+            "page": 4,
+            "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the documents discuss the urgency of climate change and the need for action, they do not specify when these actions will take place. The documents mention the existence of a ten-year 'Act and Adapt: Sustainable Environment Strategy' and the aspiration for certain goals by 2028, but they do not provide detailed timelines or deadlines for specific actions or initiatives. The documents also mention the ongoing strengthening of climate change and environmental policies by the Victorian and Australian Governments, but again, no specific timeframes are given for these actions. Therefore, while the documents clearly express a commitment to addressing climate change, they do not provide the specific timeframes required to answer the question in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government is taking climate change seriously, with a range of initiatives and actions outlined to reduce environmental impact and increase resilience to climate change, there is no specific statement indicating that these actions should take precedence over other policies. The documents discuss the importance of climate change action, the need for community engagement, and the ongoing efforts to strengthen climate change and environmental policies. However, they do not explicitly prioritize these actions over other policy areas. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response must have higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline the City of Port Phillip's Sustainable Environment Strategy for 2023-28, which includes initiatives to reduce environmental impact and increase resilience to climate change. The strategy details five priority areas: a water-sensitive city, a greener and more liveable city, a city with lower greenhouse gas emissions, a city that is adapting and resilient to climate change, and a sustained reduction in waste. However, these are strategic priorities rather than a mandate for all council activities to align with climate policy. The documents also mention the council's commitment to monitoring and reporting on climate risks, encouraging community action, and implementing specific actions such as a Coastal Adaptation Plan. However, these are specific actions within the broader strategy, not a requirement for all council activities to align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines several initiatives aimed at addressing climate change and improving resilience, and it provides specific monetary allocations for some of these initiatives. For instance, the policy mentions a budget of $3.629 million for implementing the Waste Management Strategy, which includes efforts to reduce waste to landfill and increase recycling. Additionally, the policy allocates $4.844 million for developing a cool spaces strategy and supporting community resilience to climate change. These allocations demonstrate a clear commitment to funding climate action. However, it is important to note that while the policy does allocate funding, it does not provide a comprehensive breakdown of how these funds will be used, which could limit the transparency and accountability of these initiatives.",
+          "quote": {
+            "content": "$3.629 m... Support the community to lead, build and implement action plans responding to flooding, heatwaves and other climate impacts.",
+            "page": 48,
+            "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy outlines various initiatives related to climate change, such as developing a cool spaces strategy, implementing a waste management strategy, and supporting community resilience to climate change impacts, it does not specify the allocation of staff or other non-monetary resources to these initiatives. The policy does mention partnerships and community involvement, but it does not detail the specific institutional resources that will be mobilized for these efforts. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy outlines several initiatives aimed at building community resilience to climate change impacts, such as developing a cool spaces strategy and supporting the community to lead, build, and implement action plans to respond to climate impacts. The policy also mentions the establishment of partnerships to improve opportunities for community resilience and adaptation. Furthermore, the policy includes initiatives to support the community in reducing their carbon emissions and transitioning from the use of fossil fuels. The policy also mentions the redevelopment of the Port Phillip EcoCentre as a hub for community-led action, empowering young people, schools, residents, and visitors to address climate change impacts."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of strategies, both technological and behavioural, to address climate change. Technological solutions include supporting major commercial and industrial greenhouse gas emitters in their emission reduction initiatives, working with partners to drive the uptake of environmental upgrade agreements for commercial and residential buildings, and seeking partnerships to drive sustainable solutions for apartment buildings. Behavioural changes are encouraged through supporting residents and businesses to take meaningful action to reduce their emissions and learn how to become more climate resilient. The plan also includes a focus on supporting green businesses that are creating change, and the development of a cool spaces strategy with community health and emergency services providers. These actions demonstrate a comprehensive approach to mitigating greenhouse gas emissions.",
+          "quote": {
+            "content": "Work with partners to drive the uptake of environmental upgrade agreements for commercial and residential buildings. Support major commercial and industrial greenhouse gas emitters in their emission reduction initiatives and support small-to-medium-sized businesses to reduce their emissions with access to programs, rebates and incentives.",
+            "page": 47,
+            "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The 'City of Port Phillip Act and Adapt: Sustainable Environment Strategy 2023-28' does include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change, including risk assessments, monitoring and reporting protocols, training, and the development of a Coastal Adaptation Plan. The policy also emphasizes the importance of community involvement and resilience, with initiatives to support community-led action plans and the creation of safe locations during extreme heat. Furthermore, the policy includes a commitment to maintaining stormwater assets and exploring partnerships to deliver infrastructure and design approaches to protect against climate change risks. The policy also details a plan to integrate climate vulnerability data into decision-making processes for strategic asset management, investment, and service delivery.",
+          "quote": {
+            "content": "Develop a Coastal Adaptation Plan to build the municipality’s resilience against sea level rise and inundation. Establish a monitoring and reporting protocol to keep the community informed of Council’s response to climate risks. Deliver climate change risk training to officers.",
+            "page": 49,
+            "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents mention various actions and targets related to climate change, such as reducing greenhouse gas emissions, adapting to climate change, and making the city more resilient, they do not provide specific sources or evidence to justify these targets and actions. The documents mention the need for ongoing monitoring and evaluation of targets, indicators, and actions, and the use of data to evaluate progress and inform decision-making. However, they do not provide details on the sources of this data or how it will be used to justify the targets and actions. Furthermore, while the documents mention the involvement of the community and partners in mitigating and adapting to climate change, they do not provide evidence on how this involvement will contribute to achieving the targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a commitment to ongoing monitoring and evaluation of targets, indicators, and actions. It also mentions the use of data to evaluate progress and inform decision-making. The plan includes a summary table of goals, indicators, baseline, progress, and targets for various priority areas. For instance, for the priority area of 'A water sensitive city', the plan provides specific baseline data, progress data, and a target for 2028. The plan also mentions the review and refinement of existing methods for measuring and calculating greenhouse gas emissions, sustainability, water use, and water quality impacts. Therefore, the plan not only proposes actions but also provides clear, measurable criteria for evaluating the success of these actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The document indeed outlines plans to conduct research within the local community to inform climate actions. The policy outlines a number of initiatives aimed at understanding and addressing the impacts of climate change on the community. These include assessing opportunities to support community resilience to climate change impacts, establishing partnerships to improve opportunities for community resilience and adaptation, and building on current work to develop and collate data to understand climate impacts on the community. The policy also mentions the establishment of a monitoring and reporting protocol to keep the community informed of the Council's response to climate risks. These initiatives suggest a commitment to conducting research and gathering data within the local community to inform climate actions.",
+          "quote": {
+            "content": "Build on current work to develop and collate data to understand climate impacts on the community. Establish partnerships to improve opportunities for community resilience and adaptation.",
+            "page": 48,
+            "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. While the local government's policy does show a commitment to climate action, such as reducing greenhouse gas emissions, adapting to climate change, and engaging the community in these efforts, it does not explicitly mention any innovative or experimental approaches to these actions. The policy outlines a number of measures, such as conducting climate change risk assessments, developing a Coastal Adaptation Plan, and maintaining stormwater assets. However, these actions seem to be standard responses to climate change rather than innovative or experimental approaches. The policy also mentions the use of data to inform decision-making and educate the community about climate change, but again, this is a common approach and does not necessarily indicate innovation or experimentation."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the documents do mention the role of the Victorian and Australian Governments in strengthening climate change and environmental policies, they do not explicitly state that the local government will advocate to these higher levels of government for further action. The documents focus more on the local government's own plans and actions to address climate change, such as reducing greenhouse gas emissions, adapting to climate change, and reducing waste. They also mention the importance of engaging residents and supporting green businesses in the transition to a climate-resilient city. However, without explicit mention of advocacy to state and national governments, it cannot be confirmed that this is part of the local government's policy."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines initiatives such as the 'Community Climate Resilience' and 'Cool Spaces Strategy' which involve supporting the community to develop and implement action plans to respond to climate impacts, and creating safe locations for the community during extreme heat. The policy also mentions the establishment of partnerships to improve opportunities for community resilience and adaptation. Furthermore, the policy highlights the council's membership in various environmental bodies and local government associations, such as the South East Councils Climate Change Alliance and the Council Alliance for a Sustainable Built Environment, which are aimed at achieving goals for greenhouse gas emissions reduction and climate resilience. These initiatives and partnerships demonstrate a commitment to building local capacity for climate action.",
+          "quote": {
+            "content": "Establish partnerships to improve opportunities for community resilience and adaptation.",
+            "page": 48,
+            "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. The City of Port Phillip is stated to collaborate closely with the Victorian and Australian Governments to achieve the best sustainability outcomes for their community. The document also mentions that the City of Port Phillip is a member of many environmental bodies and local government associations, which allows them to expand their reach and jointly advocate for action. One of the key partnerships mentioned is the South East Councils Climate Change Alliance, which is one of nine regional alliances across Victoria helping councils achieve their goals for greenhouse gas emissions reduction and climate resilience. This alliance consists of nine local governments in the South East, including the City of Port Phillip. Therefore, the document provides clear evidence of specific regional associations, alliances, and other partnerships related to climate.",
+          "quote": {
+            "content": "Membership consists of nine local governments in the South East: the Cities of Port Phillip",
+            "page": 14,
+            "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The local government policy acknowledges that climate change affects everyone in the community, but it particularly impacts the most vulnerable members. The policy outlines a commitment to support these vulnerable individuals and prioritise solutions that will help protect the essential systems and services they rely on daily. The policy also encourages residents and businesses to take meaningful action to reduce their emissions and learn how to become more climate resilient. Furthermore, the policy includes initiatives such as the 'Community Climate Resilience' and 'Cool Spaces Strategy' which aim to support community resilience to climate change impacts and create safe locations for the community to access during times of extreme heat, respectively. These initiatives indicate a clear recognition of the differential impacts of climate change on vulnerable communities and a commitment to address these impacts.",
+          "quote": {
+            "content": "Action is crucial because climate change impacts everyone in our community, with vulnerable members most affected. the risks we face from climate change, support our most vulnerable people and prioritise solutions that will help protect the essential systems and services we rely on daily.",
+            "page": 33,
+            "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention initiatives to support community resilience to climate change impacts, establish partnerships for community resilience and adaptation, and develop a cool spaces strategy, these initiatives are not explicitly linked to equity or social justice. The documents also do not provide specific details on how these initiatives will ensure equitable distribution of benefits and opportunities. Therefore, based on the provided documents, it cannot be affirmed that the policy discusses how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 12,
+    "num_questions": 20,
+    "attribute_score": 66.7
+  }
+}

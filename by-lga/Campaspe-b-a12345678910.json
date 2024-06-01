@@ -1,0 +1,310 @@
+{
+  "settings": {
+    "source_files": [
+      "Campaspe-2022-Environment-strategy-2022-2026.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T13:52:01.457610",
+    "lga": "Campaspe"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy's core purpose or goal is indeed climate action. The policy outlines the local government's commitment to both climate change adaptation and mitigation. Adaptation is defined as action taken to prepare for actual or expected changes in the climate, while mitigation refers to measures taken to reduce adverse effects on the environment and manage associated risks. The policy acknowledges the impacts of climate change on the community, business, industry, and the environment, and the increasing frequency and severity of natural disasters. The policy also outlines the council's responsibilities, which include managing energy and water consumption efficiently, promoting the sustainability of the municipal district, and planning for climate change risks. The policy also sets long-term aims, such as supporting the community, business, and industry to respond to the impacts of a changing climate, achieving net-zero greenhouse gas emissions for council operations by 2035, and adapting to the effects of climate change.",
+          "quote": {
+            "content": "Must promote the economic, social and environmental sustainability of the municipal district, including mitigation and planning for climate change risks. Council acknowledges: The impacts of climate change influence the resilience and success of the community, business, industry and the environment. Council must: Responsibly manage energy and water consumption with the aim of increasing efficiency which reduces costs and impacts on the environment.",
+            "page": 21,
+            "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It acknowledges the impacts of climate change on the resilience and success of the community, business, industry, and the environment. It also recognizes that extreme weather events, which have already impacted communities and services, are predicted to become more frequent due to climate change. The document further states that natural disasters are increasing in frequency and severity as a result of the changing climate. The council is urged to responsibly manage energy and water consumption with the aim of increasing efficiency, which reduces costs and impacts on the environment. The council is also tasked with promoting the economic, social, and environmental sustainability of the municipal district, including mitigation and planning for climate change risks. The document emphasizes that adapting to climate change now will reduce future costs and ensure the community’s long-term prosperity.",
+          "quote": {
+            "content": "Natural disasters are increasing in frequency and severity as a result of the changing climate. Extreme weather events have already impacted our communities and services, and these are predicted to become more frequent. Since the 1950s our climate has become warmer and drier.",
+            "page": 21,
+            "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They acknowledge the impacts of climate change on the community, business, industry, and the environment, and the increasing frequency and severity of natural disasters due to climate change. The documents outline the council's responsibilities and actions, which include managing energy and water consumption, promoting sustainability, and planning for climate change risks. They also mention the council's aim to achieve net-zero greenhouse gas emissions for council operations by 2035. However, these actions are presented as part of a long-term strategy rather than an urgent response to a crisis. The documents do not use language that conveys a sense of urgency or immediacy in addressing climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The council has set a target to reach net-zero emissions by 2035, as stated in the Corporate Emissions Reduction Plan. This plan is a clear indication of the council's commitment to mitigating the impacts of climate change within a specific timeframe. The council also plans to apply Environmental Sustainable Design (ESD) Guidelines to all council projects once they are adopted. The documents also mention the development of a Municipal Public Health and Wellbeing Plan with consideration of climate change, although no specific timeframe is given for this plan. Overall, while not all actions have specific timeframes, there is a clear sense of urgency in the council's approach to addressing climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly acknowledge the impacts of climate change and outline the local government's commitment to mitigating these impacts, they do not explicitly prioritize these actions over other policies. The documents detail the council's responsibilities and actions related to climate change, including managing energy and water consumption, planning for climate change risks, and aiming to achieve net-zero greenhouse gas emissions for council operations by 2035. However, these actions are presented as part of the council's overall policy position and strategy, rather than as a higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the policy does outline a number of actions and strategies related to climate change, such as managing energy and water consumption, planning for climate change risks, and setting emission goals, it does not explicitly require all council activities to align with these climate-related policies. The policy does indicate that the council must responsibly manage energy and water consumption and promote sustainability, but it does not explicitly state that all activities must align with these goals. Furthermore, the policy outlines a number of actions that the council 'chooses' to take, such as leading by example in responding to climate change and promoting sustainable energy options, but again, these are not mandated for all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The local government policy does not explicitly allocate funding for climate action. While the policy outlines a comprehensive approach to addressing climate change, including mitigation and adaptation strategies, specific actions, and performance indicators, it does not provide clear details on the allocation of financial resources for these initiatives. The policy mentions the development of a Corporate Emissions Reduction Plan, the creation of Environmental Sustainable Design (ESD) Guidelines, and the support of community access to energy efficiency and greenhouse gas emission reductions education and initiatives. However, these are stated as actions or goals, not as budgeted items. The policy also mentions the exploration of funding opportunities to adapt and mitigate the impacts of climate change, but this is a general statement and does not confirm the allocation of funds. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy outlines a number of actions and strategies related to climate change mitigation and adaptation, it does not specify the allocation of institutional resources such as staff time, expertise, or other non-monetary resources. The policy does mention the development of a Corporate Emissions Reduction Plan, collaboration with other local governments, and the promotion of sustainable energy options, among other actions. However, these are stated as goals or actions to be taken, rather than specific allocations of institutional resources. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a commitment to support community groups to undertake projects that benefit the local environment and reduce the impacts of climate change through the Community Grants program. This indicates an active effort to mobilize the community towards climate action. Furthermore, the policy emphasizes the importance of community engagement in decisions that affect them and the environment, suggesting an educational aspect. The policy also outlines plans to collaborate with other local governments and agencies to leverage grant funding and partnerships for climate change-related projects and initiatives, which could further empower the community to take action.",
+          "quote": {
+            "content": "Support community groups to undertake projects to benefit our local environment and reduce the impacts of climate change through the Community Grants program.",
+            "page": 26,
+            "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions, incorporating both technological solutions and behaviour change. The plan outlines a commitment to lead by example in responding and adapting to climate change, and to support the community, business, and industry in responding to the impacts of a changing climate. It also includes a commitment to adopt, support, and promote sustainable and affordable energy options. The plan specifically mentions the development of a Corporate Emissions Reduction Plan, which sets target emission goals to reach net-zero emissions by 2035. This is a clear example of a technological solution. The plan also includes actions to promote and support community access to energy efficiency and greenhouse gas emission reductions education and initiatives, which is an example of promoting behaviour change.",
+          "quote": {
+            "content": "Promote and support community access to energy efficiency and greenhouse gas emission reductions education and initiatives.",
+            "page": 23,
+            "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The policy outlines a commitment to lead by example in responding and adapting to climate change, and to support the community, business, and industry in responding to the impacts of a changing climate. The policy also mentions the adoption, support, and promotion of sustainable and affordable energy options. Furthermore, the policy outlines a commitment to partner with other agencies, government departments, businesses, and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. The policy also includes a specific aim to achieve net-zero greenhouse gas emissions for Council operations by 2035. The policy also refers to the Natural Environment Climate Change Adaptation Action Plan 2022-2026, which provides examples of actions that provide mitigation, while other actions assist with adaptation.",
+          "quote": {
+            "content": "Actions such as conserving water and restoring native vegetation provide both mitigation and adaptation. The Natural Environment Climate Change Adaptation Action Plan 2022-2026 (DELWP, 2022) provides examples of actions that provide mitigation, while other actions assist with adaptation.",
+            "page": 12,
+            "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of actions and targets related to climate change, such as aiming for net-zero emissions by 2035, developing a Corporate Emissions Reduction Plan, and incorporating climate change considerations into strategic planning, it does not provide specific, well-sourced evidence to justify these targets and actions. The policy does not detail the scientific or economic research that underpins these targets, nor does it provide specific data or projections that these actions are based on. The policy also does not cite any external sources, studies, or experts that have informed these targets and actions. Therefore, while the policy clearly states its climate change-related goals and actions, it does not provide the well-sourced evidence necessary to justify these decisions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a series of performance indicators and example actions that provide a clear framework for assessing progress. For instance, the plan sets a target for the council to develop a Corporate Emissions Reduction Plan with the goal of reaching net-zero emissions by 2035. This is a specific, measurable target that can be used to evaluate the success of the council's climate change mitigation efforts. Additionally, the plan includes the development of Environmental Sustainable Design (ESD) Guidelines, which are to be applied to all council projects. The completion and application of these guidelines can be measured and used as an indicator of success. Furthermore, the plan includes the development of greenhouse gas emissions reporting for the council's emissions, which provides a clear, quantifiable method of tracking progress.",
+          "quote": {
+            "content": "Once adopted, ESD Guidelines are to be applied to all (100%) of Council projects. Development of Environmental Sustainable Design (ESD) Guidelines.",
+            "page": 23,
+            "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The local government policy outlines various strategies and actions to mitigate and adapt to climate change, such as developing a Corporate Emissions Reduction Plan, promoting sustainable energy options, and supporting community, business, and industry to respond to climate change impacts. However, these actions seem to be based on existing knowledge and strategies rather than new research conducted within the local community. The policy does mention collaboration with other local governments and agencies to share knowledge and explore funding opportunities, but this does not explicitly involve conducting new research in the local community."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The local government policy demonstrates evidence of innovation and policy experimentation in climate action. The policy outlines a comprehensive approach to climate change, including both mitigation and adaptation strategies. It includes innovative actions such as the development of a Corporate Emissions Reduction Plan with target emission goals to reach net-zero emissions by 2035, and the promotion of sustainable and affordable energy options. The policy also shows a commitment to policy experimentation, with the council planning to lead by example in responding and adapting to climate change, and to support the community, business, and industry in responding to the impacts of a changing climate. The policy also includes plans to partner with other agencies, government departments, businesses, and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change.",
+          "quote": {
+            "content": "Continue to partner with other agencies, government departments, businesses and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. Council chooses to: Lead by example in responding and adapting to climate change. Support community, business and industry to respond to the impacts of a changing climate. Adopt, support and promote sustainable and affordable energy options.",
+            "page": 21,
+            "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the council's commitment to lead by example in responding and adapting to climate change, and to partner with other agencies, government departments, businesses, and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. The council also plans to extend its advocacy for building a grid that supports renewables. This suggests that the council is not only taking action at the local level but is also advocating for broader systemic changes that require the support of state and national governments.",
+          "quote": {
+            "content": "Including support for the community with gas reliability and security for commercial and residential uses during the transition from fossil fuels to renewable energy. Extend Council’s advocacy for building a grid that supports renewables.",
+            "page": 23,
+            "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents explicitly encourage building local capacity across the council, local communities, and neighboring local councils for climate action. The council acknowledges the importance of partnering with other agencies, government departments, businesses, industry bodies, and the community to deliver projects and solutions to challenges faced, including climate change. The council also chooses to lead by example in responding and adapting to climate change, supporting the community, business, and industry to respond to the impacts of a changing climate. The council also plans to continue partnering with other agencies, government departments, businesses, and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. Furthermore, the council chooses to strengthen the relationship with Traditional Owners and continue to work together on natural resource management programs. The council also supports community groups to undertake projects to benefit the local environment and reduce the impacts of climate change through the Community Grants program.",
+          "quote": {
+            "content": "Continue to partner with other agencies, government departments, businesses and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. Council chooses to: Lead by example in responding and adapting to climate change. Support community, business and industry to respond to the impacts of a changing climate.",
+            "page": 21,
+            "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific partnerships and alliances related to climate change. The local government acknowledges the importance of partnering with other agencies, government departments, businesses, industry bodies, and the community to deliver projects and solutions to challenges faced. This includes climate change adaptation and mitigation efforts. The document also mentions the council's choice to continue partnering with other agencies, government departments, businesses, and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. However, the document does not explicitly name any specific regional associations or alliances. It does, however, refer to the 'Loddon Mallee Climate Ready Plan', which is a five-year plan with a place-based approach that aims to strengthen capacity on local communities and empower them to work together in response to local challenges that can’t be addressed at the state-wide level. This suggests that the local government is involved in regional partnerships or alliances related to climate change.",
+          "quote": {
+            "content": "• Council chooses to:\n• \nLead by example in responding and adapting to \nclimate change. • \nSupport community, business and industry to respond \nto the impacts of a changing climate. • \nAdopt, support and promote sustainable and \naffordable energy options. • \nContinue to partner with other agencies, government \ndepartments, businesses and the community to share \nknowledge and explore funding opportunities to adapt \nand mitigate the impacts of climate change.",
+            "page": 21,
+            "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The policy documents focus on the general impacts of climate change on the community, business, industry, and the environment. They outline the local government's plans for climate change mitigation and adaptation, including managing energy and water consumption, promoting sustainable energy options, and planning for climate change risks. However, they do not specifically address the differential impacts of climate change on vulnerable communities or discuss these impacts in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline the local government's plans and actions towards climate change mitigation and adaptation, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The documents focus on the council's responsibilities, long-term aims, performance indicators, and example actions related to climate change. These include plans to achieve net-zero greenhouse gas emissions by 2035, support community, business, and industry in responding to climate change impacts, and promote sustainable and affordable energy options. However, these actions are not explicitly linked to equity and social justice. Therefore, based on the provided documents, it cannot be affirmed that there is a discussion on how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 11,
+    "num_questions": 20,
+    "attribute_score": 60
+  }
+}

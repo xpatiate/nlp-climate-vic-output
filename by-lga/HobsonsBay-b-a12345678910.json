@@ -1,0 +1,298 @@
+{
+  "settings": {
+    "source_files": [
+      "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T15:51:27.959516",
+    "lga": "HobsonsBay"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as its core purpose. The policy is titled 'Response to Climate Change Action Plan', which indicates that the primary focus is on addressing climate change. The policy outlines the local government's commitment to reducing greenhouse gas emissions and preparing for a changing climate, which are key aspects of climate action. The policy also includes specific actions that the council will take to achieve its vision, such as delivering a communications and engagement plan that provides information and education to residents, businesses, and schools, and providing advice services and programs that support these groups to take their own climate actions. These actions are designed to be within the control of the council, measurable, impactful, deliverable, and financially responsible, which suggests a serious and strategic approach to climate action.",
+          "quote": {
+            "content": "Hobsons Bay City Council recognises that climate change is a current and significant challenge that will only become worse unless we all work together to reduce greenhouse gas emissions and prepare for a changing climate.",
+            "page": 4,
+            "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It recognizes climate change as a significant challenge that will worsen without collective efforts to reduce greenhouse gas emissions and prepare for a changing climate. The document also highlights the importance of both mitigation and adaptation strategies. Mitigation involves reducing greenhouse gas emissions to prevent future increases in global temperatures and other climate impacts. Adaptation involves taking actions to protect human health and wellbeing, physical assets, and the natural environment from the impacts of a changing climate such as rising sea levels and extreme weather events. The document also emphasizes the legal responsibilities of the Council under the Local Government Act 2020 and the Climate Change Act 2017, which require the promotion of environmental sustainability and planning for climate change risks.",
+          "quote": {
+            "content": "Hobsons Bay City Council recognises that climate change is a current and significant challenge that will only become worse unless we all work together to reduce greenhouse gas emissions and prepare for a changing climate.",
+            "page": 4,
+            "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document does indeed call for urgent action on climate change. The local government's policy, as outlined in the 'Hobsons Bay Response to Climate Change Action Plan 2030', clearly states that the current state of the climate requires urgent action from all levels of government. The document emphasizes the need for strong and decisive action to protect the community, particularly given the unique challenges faced by Hobsons Bay as a coastal community with several fragile habitats. The policy also highlights the importance of community involvement in addressing climate change, suggesting that everyone has a part to play in this urgent issue. The document's emphasis on urgency is further underscored by the council's declaration of a climate emergency in 2019, which confirms its commitment to taking meaningful action to address climate change.",
+          "quote": {
+            "content": "Council recognises that the current state of the climate requires urgent action from all levels of government.",
+            "page": 3,
+            "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The 'Hobsons Bay Response to Climate Change Action Plan 2030' outlines a series of actions with associated timeframes. For instance, the document mentions the commencement of the assessment of recommendations from the state-led Port Phillip Bay Coastal Hazard Vulnerability Assessment in 2022. It also mentions the commencement of the assessment and addressing of climate change risk in business and service planning, investment decisions, and business continuity planning in 2022. Furthermore, the document mentions ongoing actions such as implementing relevant recommendations from the Victorian Government’s Local Government Roles and Responsibilities Guidance to assess and manage Climate Risk. These timeframes indicate a sense of urgency in the local government's response to climate change.",
+          "quote": {
+            "content": "Commence  \n2022\nEstablished  \nOperational Budget \nAssess and address climate change risk in business and service planning, \ninvestment decisions and business continuity planning. Action \nTimeframe\nFunding - Confirmed or \nsubject to future funding \nconsiderations\nImplement relevant recommendations from the Victorian Government’s Local \nGovernment Roles and Responsibilities Guidance to assess and manage Climate \nRisk. Ongoing\nScalable - Extent and timing subject \nto annual Budget Allocation\nAssess recommendations from the state-led Port Phillip Bay Coastal Hazard \nVulnerability Assessment and use them to inform foreshore and coastal adaptation \nresponses.",
+            "page": 16,
+            "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including the declaration of a climate emergency in 2019, they do not specify that this commitment should supersede other policy areas. The documents detail a range of actions and strategies to mitigate and adapt to climate change, including community engagement, emissions reduction, and risk management. However, these are presented as part of a comprehensive plan rather than as a priority above all other policies. It is also important to note that the documents highlight the need for these actions to be integrated with other council programs and responsibilities, suggesting a holistic rather than hierarchical approach to policy implementation."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing climate change, including a vision to reduce greenhouse gas emissions, increase tree canopy, and support net zero and climate resilient buildings, they do not specifically mandate that all council activities must align with these climate policies. The documents outline various actions and strategies related to climate change, such as the implementation of a communications and engagement plan, the provision of advice services, and the seeking of partnership and funding opportunities. However, these are presented as specific actions within the climate change policy, rather than a requirement for all council activities to align with the policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Hobsons Bay Response to Climate Change Action Plan does explicitly allocate funding for climate action. The plan outlines a series of actions, each with a specified timeframe and funding status. The funding is either confirmed or subject to future considerations. For instance, the plan includes actions such as delivering a cohesive communications and engagement plan, providing advice services and programs, and seeking partnership and funding opportunities, all of which have an 'Established Operational Budget'. Other actions, such as providing targeted advice and support to vulnerable residents, are subject to 'Annual Budget Allocation'. This indicates that the local government has made financial provisions for the implementation of these climate actions. However, the exact amount of funding is not specified in the provided documents."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a multi-departmental approach to implementing, monitoring, and evaluating the actions, with a Steering Group and Working Group overseeing the progress. This indicates that staff resources are being allocated to manage and execute the plan. Furthermore, the plan mentions the provision of technical support from internal sustainability experts, which again suggests the allocation of staff resources with specific expertise. The plan also includes actions such as developing and delivering training to build capacity across the organisation, which implies the allocation of staff time and expertise. However, the documents do not provide specific details on the number of staff allocated, their roles, or the exact nature of the 'other non-monetary institutional resources' involved.",
+          "quote": {
+            "content": "Council will utilise the best available tools to monitor progress towards emissions reduction and climate adaptation including periodic formal emissions inventories, vulnerability assessments and evaluation frameworks. Actions will be overseen by a multi departmental Steering Group and Working Group with progress reported in the Hobsons Bay City Council Annual Report and on Council’s website.",
+            "page": 13,
+            "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a comprehensive plan to support the community in responding to climate change. This includes delivering a proactive communications and engagement plan that provides information and education to residents, businesses, and schools. The policy also provides advice services and programs that support these groups to take their own climate actions. Furthermore, the policy seeks partnerships and funding opportunities that support the community to increase access to climate change programs. The policy also promotes access to existing programs delivered by other entities. The policy also outlines a commitment to provide leadership, education, support, advice, and facilitation services to residents and businesses. This is a clear indication of the policy's commitment to social mobilisation in response to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Hobsons Bay Response to Climate Change Action Plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to both mitigation and adaptation actions for the Council's operations and for supporting the community. The mitigation actions include reducing the emission of greenhouse gases to prevent future increases in global temperatures and other climate impacts. The plan outlines a vision to dramatically reduce greenhouse gas emissions from Council operations and to inspire and support residents and businesses to reduce their own greenhouse gas emissions. The plan also includes a commitment to achieve an emissions reduction of 7,000 tCO2-e from Council operations. Technological solutions are also mentioned, such as the use of renewable electricity and energy efficiency measures to reduce emissions. Behaviour change is encouraged through the Council's aspiration to inspire the community and other stakeholders to take action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Hobsons Bay Response to Climate Change Action Plan 2030 indeed includes specific actions for climate adaptation and resilience. The plan outlines a series of actions that are designed to help the local community and the council itself adapt to the impacts of climate change. These actions include promoting and facilitating Environmental Upgrade Finance for local businesses to retrofit their premises to be more environmentally sustainable, delivering the My Smart Garden program to help residents become more resilient to climate change impacts, and providing targeted advice and support to vulnerable residents who are at greatest risk from the impacts of climate change. The plan also includes actions to assess and manage climate risk, address climate change risk in business and service planning, and conduct climate vulnerability assessments and financial risk modelling of Council’s assets. These actions are all aimed at enhancing the community's resilience to climate change and ensuring that the council's operations are sustainable and adaptable to a changing climate."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of actions to address climate change, such as reducing greenhouse gas emissions, supporting residents and businesses to reduce their own emissions, and preparing for extreme weather events, it does not provide specific evidence or sources to justify these actions. The policy mentions that the actions have been informed by data and the latest research, but it does not specify what this data or research is, or how it has informed the actions. Furthermore, while the policy states that the actions will be reconfirmed through Council’s annual budget processes to ensure future cost savings and risk mitigation, it does not provide evidence to support this claim. Therefore, based on the provided documents, it cannot be confirmed that the policy provides well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Hobsons Bay Response to Climate Change Action Plan 2030 does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines that each action is within the control of the Council, measurable, impactful, deliverable, and financially responsible. The plan also provides a clear implementation, monitoring, and evaluation framework. The Council will use the best available tools to monitor progress towards emissions reduction and climate adaptation, including periodic formal emissions inventories, vulnerability assessments, and evaluation frameworks. The progress will be reported in the Hobsons Bay City Council Annual Report and on the Council’s website. This indicates a commitment to transparency and accountability in the implementation of the plan. The plan also includes specific actions with clear timeframes and funding considerations, further enhancing its measurability."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do indicate that the local government has plans to conduct research to inform their climate actions. The Climate Change Action Plan is informed by data and the latest research to maximize the Council's impact and to support and facilitate climate change response from their partners. The plan also includes actions such as implementing relevant recommendations from the Victorian Government's Local Government Roles and Responsibilities Guidance to assess and manage Climate Risk, and assessing recommendations from the state-led Port Phillip Bay Coastal Hazard Vulnerability Assessment to inform foreshore and coastal adaptation responses. These actions suggest that the local government is using research and data to inform their climate actions. Furthermore, the plan includes provisions for regular reviews to ensure that the Council responds to new opportunities, new challenges, and the latest climate data over the life of the plan.",
+          "quote": {
+            "content": "The actions on the following pages have been informed by data and the latest research to maximise Council’s impact as well as to support and facilitate climate change response from our partners.",
+            "page": 14,
+            "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.92
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The Hobsons Bay Response to Climate Change Action Plan 2030 demonstrates a commitment to innovation and policy experimentation in climate action. The policy outlines a proactive approach to climate change, with a focus on both mitigation and adaptation strategies. The plan is informed by the latest research and data, indicating a commitment to evidence-based policy making. The policy also emphasizes the importance of monitoring emerging technologies and innovative approaches, suggesting a willingness to adapt and experiment with new strategies as they become available. The plan includes specific actions such as delivering a cohesive communications and engagement plan, providing advice services and programs, and seeking partnerships and funding opportunities. These actions suggest a comprehensive and innovative approach to climate action, involving a range of strategies and stakeholders."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The document does indeed show an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines the local government's commitment to collaborate with and advocate to the Victorian and Australian governments on behalf of the community to deliver climate action and investment in mitigation and adaptation activities. This includes calling for support to address related issues such as housing, energy security, cost of living, and access to community infrastructure and spaces. The policy also emphasizes the importance of building strong relationships with Traditional Owners and participating in existing partnerships to maximize collective efforts. This indicates a clear intent to leverage higher levels of government and broader networks to support local climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The policy outlines a proactive approach to climate change, with a focus on community engagement, education, and support for residents, businesses, and schools to take their own climate actions. The council also seeks partnerships and funding opportunities to increase access to climate change programs. Furthermore, the council is committed to collaborating with and advocating to the Victorian and Australian governments on behalf of the community to deliver climate action and investment in mitigation and adaptation activities. This includes addressing related issues such as housing, energy security, cost of living, and access to community infrastructure and spaces. The council also plans to continue building strong relationships with Traditional Owners and participating in existing partnerships to maximise collective efforts.",
+          "quote": {
+            "content": "This includes calling for support to address related issues such as housing, energy security, cost of living, and access to community infrastructure and spaces.",
+            "page": 12,
+            "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The local government plans to collaborate with and advocate to the Victorian and Australian governments to deliver climate action and investment in mitigation and adaptation activities. The documents also mention the council's intention to continue participating in existing partnerships to maximize collective efforts. Specific partnerships mentioned include the Western Alliance for Greenhouse Action (WAGA), Council Alliance for a Sustainable Built Environment (CASBE), Association of Bayside Municipalities, Greening the West, and Victoria’s Integrated Water Management Forum. These partnerships indicate a commitment to collaborative action and shared responsibility in addressing climate change.",
+          "quote": {
+            "content": "Council will continue participating in existing partnerships to maximise collective efforts including the Western Alliance for Greenhouse Action (WAGA), Council Alliance for a Sustainable Built Environment",
+            "page": 12,
+            "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The policy documents do explicitly discuss the impact of climate change on vulnerable communities. The local government recognizes that poor quality housing, health conditions, and low incomes can make it difficult for some residents to manage their wellbeing in the face of climate change. The policy also outlines actions to provide targeted advice and support through existing communication channels and social support programs to vulnerable residents who are at greatest risk from the impacts of climate change. This indicates a clear recognition of the differential impacts of climate change on vulnerable communities and a commitment to addressing these through targeted support and interventions."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy outlines various actions to address climate change, including reducing greenhouse gas emissions, supporting residents and businesses in their own climate actions, and future-proofing public spaces, it does not specifically address the equitable distribution of these benefits. The policy does mention providing support to residents, businesses, and schools to take their own climate actions, but it does not detail how this support will be distributed equitably. Furthermore, while the policy acknowledges the need to support vulnerable residents who are at greatest risk from the impacts of climate change, it does not elaborate on how it plans to ensure these residents share equitably in the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 16,
+    "num_questions": 20,
+    "attribute_score": 82.5
+  }
+}

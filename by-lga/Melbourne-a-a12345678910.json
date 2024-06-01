@@ -1,0 +1,334 @@
+{
+  "settings": {
+    "source_files": [
+      "Melbourne-2018-climate-change-mitigation-strategy.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T21:38:34.210842",
+    "lga": "Melbourne"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Melbourne 2018 Climate Change Mitigation Strategy, clearly identifies climate action as its core purpose. The policy is designed to address the challenges of climate change and outlines a strategic approach to mitigate its impacts. The policy aligns with the Paris Climate Agreement and aims to achieve emission reductions as part of international efforts to avoid a 1.5°C increase in global average temperature. The policy also outlines a plan to measure and report progress annually and evaluate the implementation plan by 2025. It includes actions such as promoting the actions needed to achieve emission reductions to the community, businesses, and government decision-makers, and taking an innovative, transparent, and evidence-based approach. Therefore, it is evident that the core purpose of this policy is climate action.",
+          "quote": {
+            "content": "This aligns with the science-based targets in the Paris Climate Agreement. This strategy describes actions needed to achieve emission reductions as part of international efforts to avoid a 1.5°C increase in global average temperature.",
+            "page": 15,
+            "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly articulates the need for action on climate change. It aligns its strategy with the Paris Climate Agreement and the Victorian Climate Change Act 2017, indicating a recognition of the global and local legislative frameworks that mandate action on climate change. The document also refers to the Intergovernmental Panel on Climate Change's message that climate change is already impacting communities and that urgent action is needed. The policy outlines a commitment to act on the emissions that cause climate change and sets ambitious emissions reduction targets for 2030, with a goal to achieve net zero emissions before 2050. The document also acknowledges the role of cities in taking action on climate change and positions the City of Melbourne as a leader in this area.",
+          "quote": {
+            "content": "This provides a fresh opportunity for the City of Melbourne to pursue our long-standing commitment to act on the emissions that cause climate change. The Intergovernmental Panel on Climate Change has conveyed a clear message to leaders around the world that climate change is already impacting communities and that urgent action is needed. The Australian Government has ratified the Paris Climate Agreement and the Victorian Government has introduced the Climate Change Act 2017.",
+            "page": 8,
+            "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly call for rapid and urgent action on climate change. They outline a Climate Change Mitigation Strategy to 2050, which suggests a long-term approach rather than immediate urgency. The documents discuss various scenarios, including 'Business as Usual', 'Significant Action', 'Accelerated Action', and 'Purchasing Offsets'. While 'Accelerated Action' might imply a sense of urgency, the documents do not explicitly state that rapid and urgent action is required. Instead, they indicate that the City of Melbourne's preferred approach is to deliver the actions needed to achieve the 'Significant Action' scenario and pursue actions for the 'Accelerated Action' scenario where there is the opportunity to go further. This suggests a measured and strategic approach to climate change mitigation, rather than an urgent one."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the 'Climate Change Mitigation Strategy to 2050' outlines a plan to facilitate and support corporate Power Purchase Agreements through the expansion of the Melbourne Renewable Energy Project within a 1-5 year timeframe. Additionally, the policy also advocates for energy performance disclosure for a greater range of commercial and residential buildings within a 1-3 year timeframe. These examples demonstrate that the policy not only identifies key actions for climate change mitigation but also sets specific timeframes for their implementation, thus providing a clear roadmap for action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline the City of Melbourne's commitment to addressing climate change, including a list of strategic priorities and actions to reduce emissions. These actions include advocating for more ambitious renewable energy targets, accelerating corporate Power Purchase Agreements, and facilitating residential purchasing of renewable energy products. However, these actions are presented as part of a broader strategy, and there is no explicit statement indicating that these climate change mitigation efforts should take precedence over other policy areas. The documents also mention the need to align these actions with the Sustainable Development Goals and to consider synergies and trade-offs with other strategies, suggesting a balanced approach rather than a prioritisation of climate change above all else."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a comprehensive Climate Change Mitigation Strategy to 2050, which includes a range of actions aimed at reducing greenhouse gas emissions and meeting the Council Pledge requirements under the Climate Change Act 2017. The strategy includes a focus on renewable energy, zero emissions buildings and transport, and waste reduction. It also mentions the use of an innovative, evidence-based approach to prioritising actions and the intention to report progress annually. However, these actions and strategies are not explicitly required to be applied to all council activities. The documents also note that the specific actions or initiatives outlined in the strategy are not binding upon the City of Melbourne but will inform its planning and resourcing considerations."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's policy does allocate funding for climate action, although the specifics of the allocation are not detailed. The policy mentions 'usual budgets and processes' in relation to promoting actions needed to achieve emission reductions and identifying and addressing synergies, trade-offs, and feedback loops between various strategies. The policy also mentions 'Year 1 existing budget allocation, Years 2-5 subject to annual plan and budget processes' in relation to accelerating corporate Power Purchase Agreements. However, the policy does not provide specific figures or percentages of the budget that will be allocated to these actions. Therefore, while the policy does indicate that funding will be allocated for climate action, the lack of specific detail makes it difficult to assess the adequacy of this funding.",
+          "quote": {
+            "content": "Ensure communications are accessible and inclusive. Engage the \ncommunity through public art, festivals and events, and digital \nengagement.",
+            "page": 65,
+            "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy outlines various actions, strategies, and collaborations related to climate change mitigation and adaptation, it does not specify the allocation of staff or other non-monetary resources. The policy mentions collaborations with various entities such as local and Victorian governments, businesses, industry representatives, professional associations, community organisations, and universities. It also discusses holding annual workshops, developing guiding principles for climate risk, and updating the organisational risk register. However, these actions do not explicitly indicate the allocation of staff or other non-monetary institutional resources. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indeed indicate that the local government is taking steps to empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a climate change communications campaign to raise awareness, promote action, and support advocacy. This campaign includes engaging the community through public art, festivals, events, and digital engagement. The policy also emphasizes the importance of making these communications accessible and inclusive, suggesting a commitment to reaching a broad audience. Furthermore, the policy outlines a socially inclusive approach, considering factors such as income inequality, educational background, and disability, and developing accessible communication materials to explain programs delivered under this strategy. This suggests an effort to educate and empower all members of the community, regardless of their social status or background.",
+          "quote": {
+            "content": "Ensure communications are accessible and inclusive. Engage the community through public art, festivals and events, and digital engagement.",
+            "page": 65,
+            "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Climate Change Mitigation Strategy to 2050 by the City of Melbourne does include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a comprehensive approach that includes both technological solutions and behaviour change. For instance, the policy includes actions such as the promotion of waste avoidance, recycling, recovery, and diversion of waste from landfill, which can be seen as a behavioural change strategy. Additionally, the policy also includes technological solutions such as the implementation of a waste and resource recovery strategy. The policy also outlines actions to reduce emissions from transport, including reallocating road space to create more space for walking and cycling, which is another behavioural change strategy. Furthermore, the policy includes a plan to facilitate and support corporate Power Purchase Agreements through the expansion of Melbourne Renewable Energy Project (MREP), which is a technological solution. The policy also includes a comprehensive measurement and evaluation plan to track progress.",
+          "quote": {
+            "content": "4.1 Continue to promote and facilitate waste avoidance, recycling, recovery and diversion of waste from landfill by implementing a waste and resource recovery strategy.",
+            "page": 47,
+            "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change, integrating both adaptation and mitigation strategies. It emphasizes the importance of identifying interdependencies to maximize efficiencies and minimize investment risk. The policy also outlines a transparent process to monitor delivery, communicate progress, and update climate action planning in line with governance and reporting systems. Furthermore, the policy includes a plan to hold an annual cross-organizational workshop as part of the business planning process to identify synergies and address trade-offs, considering environmental, social, and economic impacts. This approach demonstrates a commitment to climate adaptation and resilience, as it seeks to integrate these considerations into council decision-making and update the organizational risk register to reflect the integration of climate change adaptation and mitigation.",
+          "quote": {
+            "content": "Update the organisational risk register to reflect the integration of climate change adaptation and mitigation. Develop guiding principles for climate risk and integrate into council decision-making. Develop a long-term research agenda to identify feedback-loops between natural and human systems that will impact the municipality.",
+            "page": 65,
+            "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a comprehensive plan for climate action, which appears to be well-sourced and justified. It outlines a strategy that aligns with the Paris Climate Agreement, indicating a commitment to internationally recognized targets. The strategy includes a mix of delivery mechanisms such as engaging, facilitating, collaborating, and partnering, suggesting a multi-faceted approach. The document also mentions the development of a rolling five-year Implementation Plan under the Victorian Climate Change Act 2017, indicating a commitment to regular review and adjustment of the strategy. The plan includes interim targets to be met by 2025, demonstrating a commitment to short-term as well as long-term goals. The document also mentions an evidence-based approach to prioritizing actions and a commitment to transparency through annual reporting of progress. This suggests a commitment to accountability and evidence-based decision making.",
+          "quote": {
+            "content": "These include our Climate Change Adaptation, Nature in the City, Urban Forest Strategy, Transport, and Waste and Resource Recovery strategies. This strategy is part of a suite of strategies delivering step-change for our community as part of our Council Plan 2017–2021.",
+            "page": 11,
+            "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate change mitigation strategy does indeed include specific measurable criteria to evaluate the success of its proposed actions. The policy outlines a comprehensive measurement and evaluation plan to accompany the strategy. The progress of the strategy will be reviewed annually, with a comprehensive evaluation scheduled after five years of implementation in 2023. The policy also commits to reporting progress annually as part of the Global Covenant of Mayors, and to evaluate and report on the implementation of emission reductions by 2025. The policy also mentions a rolling five-year Implementation Plan, which will be updated based on progress. These details suggest a robust framework for monitoring and evaluating the success of the policy's actions, with clear timelines and reporting commitments.",
+          "quote": {
+            "content": "We will also fulfil the requirements of the Council Pledge made under the Climate Change Act 2017, to evaluate and report on the implementation of emission reductions by 2025. Progress will be reviewed each year to adjust the five-year rolling Implementation Plan.",
+            "page": 56,
+            "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive approach to climate change mitigation and adaptation, which includes conducting research to identify feedback loops between natural and human systems that will impact the municipality. This research is intended to inform the integration of climate change adaptation and mitigation into council decision-making. The government also plans to hold an annual cross-organisational workshop as part of the business planning process to identify synergies and address trade-offs, considering environmental, social, and economic impacts. Furthermore, the government intends to take an innovative, evidence-based approach to prioritising actions and will provide open access to data on municipal emissions for urban researchers to develop new solutions. This indicates a commitment to informed, evidence-based climate action planning.",
+          "quote": {
+            "content": "Develop a long-term research agenda to identify feedback-loops between natural and human systems that will impact the municipality. Develop guiding principles for climate risk and integrate into council decision-making.",
+            "page": 65,
+            "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The document indeed shows evidence of innovation and policy experimentation in climate action. The local government has outlined a strategy that includes innovative approaches to climate change mitigation. This is seen in their commitment to take an 'innovative, evidence-based approach to prioritising actions' and to provide open data on emissions for urban researchers to develop new solutions. The policy also includes plans to participate in city networks to share knowledge and learn from innovative international projects. Furthermore, the document mentions the development and sharing of new energy-saving technologies, such as the installation of smart meters in buildings across the city and the trial of micro-turbines. The local government also collaborates with universities to launch an innovation precinct to test smart city technology. These actions demonstrate a commitment to innovation and policy experimentation in their approach to climate change.",
+          "quote": {
+            "content": "5.4 Participate in city networks to share knowledge and continue to co-lead the C40 Low Carbon Districts and Climate Positive forum to learn from innovative international projects. 5.3 Take an innovative, evidence-based approach to prioritising actions and open data on our emissions profile for urban researchers to develop new solutions.",
+            "page": 13,
+            "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 4,
+        "num_questions": 4,
+        "score": 1
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate an intent to advocate upward to state and national governments to support climate action. The local government's climate change mitigation strategy outlines a number of actions that involve collaboration with the Australian and Victorian Governments. For instance, the strategy includes plans to promote emission reductions to the community, businesses, and government decision-makers, and to identify and address synergies between various climate change strategies. The strategy also mentions advocating for policy changes and actions from other entities, including the Victorian and Australian Governments. Furthermore, the strategy outlines plans to advocate for the extension of Commercial Building Disclosure legislation to the Australian Government. These actions demonstrate a clear intent to engage with and advocate to higher levels of government for support in climate action.",
+          "quote": {
+            "content": "Both the Significant and Accelerated Action scenarios require investors, businesses and the Victorian and Australian Governments to take action. We will lead the delivery of actions within our powers and advocate for policy change and action from others.",
+            "page": 9,
+            "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a plan to hold an annual cross-organisational workshop as part of the business planning process to identify synergies and address trade-offs, considering environmental, social, and economic impacts. This indicates an intention to build capacity within the council. The policy also mentions a capacity building program for local governments in metropolitan Melbourne, suggesting an effort to build capacity in neighbouring local councils. Furthermore, the policy encourages engagement with the community through public art, festivals, events, and digital engagement, indicating an effort to build capacity within local communities. The policy also outlines plans to collaborate with various stakeholders, including community organisations, on a research agenda to identify long-term strategic opportunities to reduce emissions, further indicating an effort to build local capacity.",
+          "quote": {
+            "content": "We have started a capacity building program for local governments in metropolitan Melbourne and will continue to share the lessons we learnt during the pilot program with cities around the world.",
+            "page": 19,
+            "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. It mentions the participation in knowledge exchange with other cities through C40, ICLEI, the Global Covenant of Mayors for Climate and Energy, Carbon Neutral Cities Alliance, Council of Capital City Lord Mayors, Resilient Melbourne and Local Government Professionals (LGPro). These are all organizations that focus on climate change mitigation and adaptation, and sustainable development. The document also mentions collaboration with the Victorian and Australian Governments to reduce emissions from cities. This shows that the local government is not working in isolation but is part of a broader network of cities and organizations committed to addressing climate change.",
+          "quote": {
+            "content": "Collaborate with the Victorian and Australian Governments to reduce emissions from cities.",
+            "page": 65,
+            "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate change will affect everyone who lives, works, and plays in the city, but it also recognizes that some members of the community are more vulnerable to the effects of climate change. These include individuals affected by factors such as low income, age, gender, disability, and background. The document also discusses the principle of intergenerational equity, which recognizes that decisions made today will determine the future climate that children and future generations will experience. The policy also outlines a socially inclusive approach, considering factors such as income inequality, educational background, and disability when implementing the strategy. This approach aims to reduce barriers and vulnerabilities, and to deliver environmental, social, and economic benefits to the community.",
+          "quote": {
+            "content": "This is because factors such as low income, age, gender, disability and background can contribute to inequities in social status and wellbeing. The principle of intergenerational equity recognises that decisions made today will determine the future climate that children and future generations will experience. Climate change will impact everyone who lives, works and plays in the city. However, some members of our community are more vulnerable to heatwaves, energy prices and reliability, rising food prices and the accessibility and affordability of buildings and transport infrastructure.",
+            "page": 52,
+            "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The documents clearly outline the local government's commitment to ensuring that the benefits and opportunities of a safe climate are shared equitably. The policy emphasizes the importance of social inclusion and fairness, with a focus on vulnerable groups such as low-income individuals, the elderly, people with disabilities, and those with diverse cultural backgrounds. The policy also outlines specific considerations for different social factors, such as income inequality and educational background, in its climate change mitigation strategy. For instance, it discusses the impact of energy prices and the upfront cost of installing renewable energy or retrofitting buildings, particularly for renters and those with low income. The policy also highlights the need to develop accessible communication materials to explain programs delivered under the strategy, indicating an effort to ensure that everyone, regardless of their educational background, can understand and access climate change solutions. Therefore, the policy does explicitly discuss how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 16,
+    "num_questions": 20,
+    "attribute_score": 80
+  }
+}

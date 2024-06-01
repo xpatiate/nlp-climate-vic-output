@@ -1,0 +1,964 @@
+{
+  "attribute": 5,
+  "question": 8,
+  "finding": true,
+  "num": 112,
+  "responses": [
+    {
+      "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines several actions that involve the mobilisation of staff resources. For instance, the plan includes the implementation of a cultural change program across the Council, which embeds climate action as a responsibility for all staff. This program supports staff to undertake climate action within their own roles. Additionally, the plan establishes a Climate Action Steering Committee to guide the implementation of new climate action projects and foster collaboration between departments. The plan also outlines the development of actions for new priority areas such as waste, business travel, paper use, and water use. These actions will require the involvement and effort of staff across different departments. Therefore, it is clear that the plan does allocate staff and other non-monetary institutional resources to climate action.",
+      "source": "Banyule-a-a12345678910.json",
+      "lga": "Banyule",
+      "quote": {
+        "content": "Support staff to undertake climate action within their own roles.",
+        "page": 41,
+        "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a number of actions that involve the mobilisation of staff and institutional resources. For instance, the plan includes the establishment of a Climate Action Steering Committee to guide the implementation of new climate action projects and increase collaboration between departments. This suggests that staff time and expertise will be allocated to this committee. Additionally, the plan outlines a cultural change program across the Council, embedding climate action as a responsibility of all staff. This implies that staff will be expected to incorporate climate action into their roles, which is a significant allocation of human resources. Furthermore, the plan includes the development of actions for new priority areas such as waste, business travel, paper use, and water use, which will likely require the allocation of staff resources for research, planning, and implementation.",
+      "source": "Banyule-b-a12345678910.json",
+      "lga": "Banyule",
+      "quote": {
+        "content": "Support staff to undertake climate action within their own roles.",
+        "page": 41,
+        "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines several actions that are to be led or supported by various departments within the local government. For instance, the 'Sustainable Environment' department is tasked with leading or supporting actions such as integrating climate risk into financial decision making, empowering community groups to respond to climate impacts, and extending a partnership program with Federation University to provide targeted training and advice to leaders of businesses and organisations. The 'Asset Management' department is also mentioned as a lead in refreshing the Economic Development Strategy. Furthermore, the 'Human Resources' department is tasked with incorporating climate emergency response into position descriptions and performance planning templates. These allocations of staff and departmental responsibilities indicate a clear commitment of non-monetary institutional resources to climate action.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines several actions that are to be led or supported by various departments within the local government. For instance, the 'Sustainable Environment' and 'Economic Development' departments are tasked with leading and supporting the expansion of the 'Climate Governance and Leadership program'. Similarly, the 'Asset Management' department is to lead the refresh of the 'Economic Development Strategy'. The 'Human Resources' department is also involved in embedding climate emergency response into the roles of council staff. These allocations suggest that staff time and expertise, which are crucial non-monetary institutional resources, are being directed towards climate action. However, the plan does not provide specific details on the number of staff allocated or the exact nature of their roles in these actions.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The Bayside Climate Emergency Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines several actions that involve staff roles and responsibilities, such as embedding the Climate Emergency into all staff roles and responsibilities, and performance planning. It also mentions the development of an Employee Value Proposition to include a response to the Climate Emergency. Furthermore, the plan includes actions that involve the use of existing operational budgets, indicating that resources are being allocated for these actions. The plan also mentions the provision of in-kind support for action responding to the Climate Emergency led by community groups, which could involve the use of staff time and other non-monetary resources.",
+      "source": "Bayside-a-a12345678910.json",
+      "lga": "Bayside"
+    },
+    {
+      "answer": "The Bayside Climate Emergency Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines several actions that involve staff roles and responsibilities, such as embedding the Climate Emergency into all staff roles and responsibilities, and performance planning (Action 1.1). It also mentions the development of an Employee Value Proposition to include a response to the Climate Emergency. Furthermore, the plan includes actions that require the involvement of various departments within the local government, such as Environmental Sustainability, Community Services, and Procurement. These actions range from supporting vulnerable community members in the switch to 'zero carbon' energy (Action 7.6) to reviewing and updating the Procurement Policy and procedures to address climate change impacts (Action 1.5). Therefore, it is clear that the plan not only allocates staff but also institutional resources to climate action.",
+      "source": "Bayside-b-a12345678910.json",
+      "lga": "Bayside"
+    },
+    {
+      "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines the employment of a consultant to ensure climate response is included in the next update of the Municipal Health and Wellbeing Plan. This indicates a commitment to dedicating human resources to climate action. Additionally, the plan mentions that the Assets and Facilities staff are trained in the use of a tool where sustainability features are a component of building maintenance needs. This suggests that staff time and expertise are being allocated to climate action. Furthermore, the plan includes the implementation of a Climate Change Adaptation Action Plan, which requires the involvement of all staff, indicating a broad institutional commitment to climate action.",
+      "source": "Benalla-a-a12345678910.json",
+      "lga": "Benalla",
+      "quote": {
+        "content": "Implement Climate Change Adaptation Action Plan and ensure it is updated every five years.",
+        "page": 51,
+        "source": "Benalla-Environment_Strategy_2016_20.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines the employment of a consultant to ensure climate response is included in the next update of the Municipal Health and Wellbeing Plan. This indicates a commitment to dedicating human resources to the issue of climate change. Additionally, the plan mentions the training of Assets and Facilities staff in the use of a tool that includes sustainability features as a component of building maintenance needs. This suggests that staff time and expertise are being directed towards climate action. Furthermore, the plan includes the implementation of a Climate Change Adaptation Action Plan, which requires the involvement of all staff, indicating a broad institutional commitment to climate action.",
+      "source": "Benalla-b-a12345678910.json",
+      "lga": "Benalla",
+      "quote": {
+        "content": "Implement Climate Change Adaptation Action Plan and ensure it is updated every five years.",
+        "page": 51,
+        "source": "Benalla-Environment_Strategy_2016_20.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does allocate non-monetary institutional resources to climate action, specifically in the form of staff roles and responsibilities. The plan includes actions such as 'Embed climate action into staff roles and responsibilities and performance management' (Action 6.3) and 'Continue to engage an officer to increase community sustainability education and initiatives' (Action 6.8). These actions indicate that the local government is committing staff resources to the implementation of the climate action plan. The allocation of staff roles and responsibilities for climate action suggests that the local government is institutionalising climate action within its operations. This is a positive step as it ensures that climate action is not just a peripheral concern but is integrated into the core functions of the local government. However, the documents do not provide specific details on the number of staff allocated, the specific roles they will play, or the level of seniority of the staff involved.",
+      "source": "Boroondara-a-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "6.3 Embed climate action into staff roles and responsibilities and performance management.",
+        "page": 56,
+        "source": "Boroondara-Community-Research-Report.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines several actions that involve the allocation of staff resources. For instance, the plan includes actions such as embedding climate action into staff roles and responsibilities, and performance management (Action 6.3). It also involves the engagement of an officer to increase community sustainability education and initiatives (Action 6.8). Furthermore, the plan includes the delivery of an expanded community education and advice program, which would presumably involve the allocation of staff resources (Action 6.2). These actions demonstrate a clear commitment to mobilising institutional resources, particularly staff, for the implementation of the climate action plan.",
+      "source": "Boroondara-b-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "2023/24 2024/25 Aligns with action 6.5. Aligns with action 6.5. 2023/24 2024/25.",
+        "page": 12,
+        "source": "Boroondara-Climate-Action-Plan-Implementation_plan.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed allocate staff and other non-monetary institutional resources to climate action. The documents outline a variety of actions related to climate change adaptation, each of which is assigned to specific departments within the local government. For instance, the 'Environment' department is tasked with integrating adaptation priorities and principles within updates to relevant policies and strategies across the organisation. The 'Environment' and 'People and Performance' departments are also responsible for considering general staff training to increase the understanding of climate change impacts and risks for the organisation. Furthermore, the 'Environment' department is tasked with establishing monitoring and evaluation of climate change impacts on Council service delivery. These allocations of staff time and departmental responsibility demonstrate a clear commitment of institutional resources to climate action.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "Investigate opportunities for funding through the \nState Government or adapt City of Greater \nGeelong’s Climate Resilience Staff Training to suit \nBrimbank’s context. Refer to \nthe relevant policies and strategies that are identified in the \nFramework above. All \ndepartments\nEnvironment\nStaff time ++\n5.2\nConsider general staff training to increase the understanding of \nclimate change impacts and risks for the organisation, including \nan overview of the impacts for Council and our community, an \nunderstanding of how to frame the issue and response \napproaches.",
+        "page": 21,
+        "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed allocate staff and other non-monetary institutional resources to climate action. The documents outline a variety of actions related to climate change adaptation, each of which is assigned to specific departments within the local government. For instance, the Environment, Facilities and Major Projects, and Engineering departments are tasked with implementing environmentally sustainable design for council buildings. The Environment and People and Performance departments are responsible for staff training on understanding climate change impacts. The Environment department is also tasked with monitoring and evaluating climate change impacts on council service delivery. These allocations suggest a clear commitment to mobilising institutional resources for climate action.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank"
+    },
+    {
+      "answer": "The local government's climate action plan does allocate non-monetary institutional resources to climate action, specifically in the form of staff time and expertise. The plan outlines several actions that involve staff participation, such as including climate scenario and risk profile in Councillor briefing packs and staff induction, and providing professional development training to planning staff on how to educate residents on climate-ready developments. The plan also mentions the use of the 'How Well Are We Adapting' tool to monitor impacts of climate change on Council services and develop responses, which would require staff involvement. However, the plan does not provide specific details on the number of staff allocated, the time commitment required, or the departments involved in these actions.",
+      "source": "Buloke-a-a12345678910.json",
+      "lga": "Buloke",
+      "quote": {
+        "content": "Use the How Well Are We Adapting tool to monitor impacts of climate change on Council services and develop responses. Provide professional development training to planning staff on how to educate residents on climate ready developments.",
+        "page": 3,
+        "source": "Buloke-2021-climate-action-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does allocate non-monetary institutional resources to climate action. The plan outlines several actions that involve the use of staff resources. For instance, it mentions the inclusion of climate scenario and risk profile in Councillor briefing packs and staff induction, indicating that staff time and expertise will be used to integrate climate considerations into council operations. The plan also mentions the provision of professional development training to planning staff on how to educate residents on climate-ready developments. This suggests that staff resources will be used for capacity building and public education on climate change. Furthermore, the plan includes actions such as conducting facility assessments, targeting high emitting or at-risk Council-owned facilities first, and identifying specific reduction/adaptation measures for each facility and implementing them. These actions imply the use of staff resources for assessment and implementation of climate mitigation measures.",
+      "source": "Buloke-b-a12345678910.json",
+      "lga": "Buloke",
+      "quote": {
+        "content": "• Identify specific reduction/adaptation measures for each facility and implement.",
+        "page": 4,
+        "source": "Buloke-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's climate change adaptation plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines the creation of a 'Climate Resilience Officer' role, which is an explicit allocation of staff resources. This role is described as 'ongoing' from 2023-24 onwards, indicating a long-term commitment to this position. The officer's responsibilities are not detailed in the provided documents, but the creation of such a role suggests a dedicated focus on climate resilience within the local government. Furthermore, the plan includes actions such as 'Training for staff on roles and responsibilities in response to hazard event' and 'Run climate hazard scenarios, drills and response manoeuvres bi-annually', which imply the allocation of staff time and effort towards climate action. These actions suggest an institutional commitment to building internal capacity for climate change adaptation and resilience.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "Climate Resilience Officer role  \nOngoing \n2023-24 onwards... 5.",
+        "page": 1,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy___Action_plan.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The local government's climate change adaptation plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines the creation of a 'Climate Resilience Officer' role, which is an explicit allocation of staff resources towards climate action. This role is described as 'ongoing', indicating a long-term commitment to this position. Furthermore, the plan includes actions such as 'Raise community awareness and increase preparedness for climate hazards', 'Identify high-risk areas for development and develop resources to assist the community', and 'Provide support for staff directly affected by climate hazard events or involved in relief and recovery efforts'. These actions suggest that the local government is not only allocating staff to climate action but also investing in training and support for these staff members. The plan also mentions the allocation of resources for specific projects, such as the creation of a demonstration garden for climate-tolerant plant species.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia"
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines several actions that involve the allocation of staff resources to climate-related initiatives. For instance, the plan includes building staff capacity to develop project specifications that incorporate sustainability and climate considerations. It also involves staff in investigating further opportunities to involve DJAARA in Local Planning Policy frameworks, particularly in relation to climate change adaptation and mitigation. Furthermore, the plan includes the allocation of staff resources to develop a climate-focused education program and to support community groups and organisations in building climate action capacity. These actions indicate a clear commitment to mobilising institutional resources, including staff, for climate action.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "Support community groups and organisations who work with elderly, people living with a disability, culturally and linguistically diverse, female and LGBTIQ+ populations to build climate action capacity Develop a climate focused education program... 64.",
+        "page": 32,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines several actions that involve the allocation of staff resources to climate-related initiatives. For instance, the plan includes building staff capacity to develop project specifications that incorporate sustainability and climate considerations. It also involves staff in investigating further opportunities to involve DJAARA in Local Planning Policy frameworks, particularly in relation to climate change adaptation and mitigation. Furthermore, the plan includes the development of a climate-focused education program, which would require staff resources for implementation. The plan also mentions the involvement of various departments such as Procurement, Sustainability, Waste, Strategic Planning, and Community Partnerships in these initiatives, indicating a broad institutional commitment to climate action.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "specification template, guidelines, training) All / supported by Procurement / Sustainability / Waste Existing budget Build staff capacity to develop project specifications that incorporate sustainability and climate considerations (eg.",
+        "page": 30,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a range of actions that involve the mobilisation of staff and other institutional resources. For instance, the plan includes actions such as staff education and training to understand and implement the carbon emissions hierarchy. This suggests that staff time and expertise, which are valuable institutional resources, are being allocated to climate action. Furthermore, the plan also involves the council in activities such as community engagement, stakeholder workshops, and discussions with various entities, including other councils and government agencies. These activities would require the allocation of staff resources and institutional capacity. However, the plan does not provide specific details on the number of staff or the exact nature of the resources allocated.",
+      "source": "ColacOtway-a-a12345678910.json",
+      "lga": "ColacOtway",
+      "quote": {
+        "content": "reduction of emissions prioritised over offsetting). Council will build internal capacity through staff education and training to understand and implement the carbon emissions hierarchy (i.e.",
+        "page": 21,
+        "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a range of activities and actions that involve the mobilisation of staff and other institutional resources. For instance, the plan mentions the development of environmental sustainability targets, the prioritisation of climate change actions based on the level of Council control, and the consideration of resourcing limitations. Furthermore, the plan includes actions such as staff education and training to understand and implement the carbon emissions hierarchy. This suggests that the Council is committed to building internal capacity through staff education and training, which is a clear allocation of non-monetary institutional resources. However, the plan does not provide specific details on the number of staff allocated or the exact nature of the resources mobilised.",
+      "source": "ColacOtway-b-a12345678910.json",
+      "lga": "ColacOtway",
+      "quote": {
+        "content": "Council will build internal capacity through staff education and training to understand and implement the carbon emissions hierarchy.",
+        "page": 21,
+        "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The Corangamite Shire Environment and Sustainability Strategy 2014-2019 does allocate non-monetary institutional resources to climate action, specifically in the form of staff engagement and involvement. The policy outlines a goal to increase environmentally sustainable practices across all Council work areas, which implies the allocation of staff time and effort towards these practices. The policy also mentions strategies to engage staff on environmentally sustainable initiatives, indicating that staff will be involved in the implementation of these initiatives. Furthermore, the policy states that creating a more environmentally responsible culture will be the responsibility of all Council staff and departments, which suggests that staff resources will be mobilized towards achieving this goal. However, the policy does not provide specific details on the number of staff or the amount of time that will be allocated to these initiatives.",
+      "source": "Corangamite-a-a12345678910.json",
+      "lga": "Corangamite",
+      "quote": {
+        "content": "Resource use must be monitored and reduced not only within the office, but also across all Council operations in order for Council to make a meaningful reduction in its environmental impact. The transition to being a more environmentally sustainable organisation requires the participation and commitment of all staff.",
+        "page": 21,
+        "source": "Corangamite-Shire-Environment-2019.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The Corangamite Shire Environment and Sustainability Strategy 2014-2019 does allocate non-monetary institutional resources to climate action, specifically in the form of staff engagement and involvement. The policy outlines the importance of staff participation and commitment in transitioning the Shire to be more environmentally sustainable and in responding to climate variability. The policy also mentions strategies to engage staff on environmentally sustainable initiatives across various sub-areas such as waste, energy, water, Environmentally Sustainable Design (ESD), and transport. These strategies are expected to benefit staff through increased efficiencies, reduced costs, healthier work environments, and more social interaction with colleagues across the organization. However, the policy does not provide specific details on the number of staff allocated or the exact nature of their roles in these initiatives.",
+      "source": "Corangamite-b-a12345678910.json",
+      "lga": "Corangamite",
+      "quote": {
+        "content": "waste, energy, water, ESD and transport there are strategies to engage staff on environmentally sustainable initiatives. The transition to being a more environmentally sustainable organisation requires the participation and commitment of all staff. Resource use must be monitored and reduced not only within the office, but also across all Council operations in order for Council to make a meaningful reduction in its environmental impact. Within each of the sub-areas e.g.",
+        "page": 21,
+        "source": "Corangamite-Shire-Environment-2019.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Darebin Climate Emergency Plan does allocate non-monetary institutional resources to climate action. The plan outlines the allocation of staff resources for the implementation of various climate action programs. For instance, the plan mentions the recruitment and administration of special schemes in the preceding year of the Solar Saver program. This indicates that staff resources are being allocated for the implementation of this program. Additionally, the plan also mentions the use of internal communications such as e-newsletters and events to educate staff on climate change policies relevant to their work. This suggests that staff resources are being used to increase awareness and knowledge about climate change within the organization. Therefore, it can be concluded that the plan does allocate non-monetary institutional resources, specifically staff resources, to climate action.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Recruitment and special scheme administration would be undertaken in the preceding year.",
+        "page": 111,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Darebin Climate Emergency Plan does allocate non-monetary institutional resources to climate action. The plan outlines the allocation of staff resources for various climate-related initiatives. For instance, it mentions the use of internal communications such as e-newsletters and events to educate staff on climate change policies relevant to their work and how they can contribute to restoring a safe climate. The plan also includes the recruitment and administration of special schemes in the preceding year of the Solar Saver program. Furthermore, the plan mentions the provision of support, including grants and venues, to community groups working on climate action. This indicates that the plan not only allocates financial resources but also institutional resources such as staff time and expertise, internal communication channels, and physical venues for climate action.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Recruitment and special scheme administration would be undertaken in the preceding year.",
+        "page": 111,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines several actions related to climate change, each with a designated responsible department and, in some cases, internal and external partners. For instance, the policy encourages staff and the community to take the Victorian Government’s climate change pledge (Action C18). The Sustainable Assets and Community Relations departments are responsible for this action. Another action (C19) involves staying abreast of the latest research and innovations in Smart City technologies for Council assets and city and infrastructure planning, particularly as they relate to energy and emissions reduction. This action involves multiple departments, including Sustainable Assets, Building and Facilities, Engineering Services, and Capital Works Delivery. These examples demonstrate that the policy not only allocates staff to climate action but also encourages interdepartmental collaboration on these issues.",
+      "source": "Frankston-a-a12345678910.json",
+      "lga": "Frankston"
+    },
+    {
+      "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines various actions related to climate change and assigns responsibility to specific departments within the council. For instance, the 'Sustainable Assets' department is tasked with encouraging staff and community to take the Victorian Government’s climate change pledge (Action C18). The same department, along with 'Community Relations' and 'Sustainability Victoria', is also responsible for staying abreast of the latest research and innovations emerging from Smart City technologies for Council assets and infrastructure planning, particularly as they relate to energy and emissions reduction (Action C19). Furthermore, the 'Community Strengthening' and 'Sustainable Assets' departments are to work with regional greenhouse alliances to progress Council’s community carbon emission reduction priorities (Action C15). These allocations demonstrate a clear commitment of staff and institutional resources towards climate action.",
+      "source": "Frankston-b-a12345678910.json",
+      "lga": "Frankston"
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific roles for various council teams and business units in implementing climate action strategies. For instance, the 'Transformation and Corporate Performance' and 'Business unit managers' are tasked with defining and communicating the unique role each business unit can play in the council’s climate emergency response. The 'People and Culture' team is responsible for including climate change education into staff and councillor induction and training. The plan also includes the integration of climate change action into relevant position descriptions across the council. Furthermore, the plan outlines the use of council assets, including physical space, to engage and educate about climate change impacts. This demonstrates a clear allocation of non-monetary institutional resources to climate action.",
+      "source": "GlenEira-a-a12345678910.json",
+      "lga": "GlenEira"
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific roles for various council teams and business units in implementing climate action strategies. For instance, the 'Transformation and Corporate Performance' and 'Business unit managers' are tasked with defining and communicating the unique role each business unit can play in the council’s climate emergency response. The 'People and Culture' team is responsible for including climate change education into staff and councillor induction and training. The plan also includes the integration of climate change action into relevant position descriptions across the council. Furthermore, the plan outlines the use of council assets, including physical space, to engage and educate about climate change impacts. This demonstrates a clear allocation of non-monetary institutional resources to climate action.",
+      "source": "GlenEira-b-a12345678910.json",
+      "lga": "GlenEira"
+    },
+    {
+      "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines various strategies and actions related to climate change, and for each of these, it identifies the responsible staff or department within the local government. For instance, the policy assigns the 'GSC ESC and relevant staff' the responsibility of developing guidelines to manage threats to environmental assets on Council managed natural areas. Similarly, the 'GSC, ESC, CD/CDO, RS and relevant staff' are tasked with initiating, supporting, and promoting environmental education and awareness-raising projects and events. The policy also mentions the need for additional staffing for certain initiatives, indicating a commitment to mobilize institutional resources for climate action.",
+      "source": "Glenelg-a-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines various strategies and actions related to climate change, and for each of these, it identifies the responsible staff or department within the local government. For instance, the Glenelg Shire Council (GSC) and its Environmental Sustainability Committee (ESC) are frequently mentioned as the lead entities responsible for implementing various climate-related actions. The policy also mentions the need for 'relevant staff' in several instances, indicating that specific personnel will be tasked with these actions. Furthermore, the policy outlines the need for community engagement and education on climate change, which would require the allocation of staff resources for effective implementation. However, it should be noted that while the policy does allocate institutional resources, it often mentions that these actions will be carried out 'within existing budgets', suggesting that there may be limitations on the resources available for these actions.",
+      "source": "Glenelg-b-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The local government's climate action plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines a number of actions that require staff involvement, such as embedding climate change into Council induction practices, increasing Council staff knowledge about the Climate Emergency, and investigating a carpooling system for Council staff. These actions suggest that staff time and expertise will be allocated to these tasks. Additionally, the plan mentions the consultation of various internal staff teams in the development of the actions, indicating that staff resources have been and will continue to be mobilized for climate action. The plan also includes actions that require non-monetary institutional resources, such as the development of an information pack, a Climate Emergency course, and a carpooling system.",
+      "source": "GoldenPlains-a-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "Host a quarterly session to ensure new employees are educated about Council’s climate change efforts during their induction period... Develop an information pack with key facts...",
+        "page": 19,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a series of actions that involve the mobilisation of staff resources. For instance, the plan includes the development of an information pack and hosting of quarterly sessions to educate new employees about the Council’s climate change efforts. This implies that staff resources will be allocated to develop the information pack and host the sessions. Additionally, the plan includes the development of a Climate Emergency course for the Council’s staff learning platform, which also suggests the allocation of staff resources. Furthermore, the plan involves the investigation of a carpooling system for Council staff, which would require staff resources for its investigation and implementation. Therefore, the plan does explicitly allocate non-monetary institutional resources to climate action.",
+      "source": "GoldenPlains-b-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "Promote and launch system. Develop an information pack with key facts. 2. 2. 2. Host a quarterly session to ensure new employees are educated about \nCouncil’s climate change efforts during their induction period. 3. 3. 3. Require all employees to attend a session. 2029\nBoth\n1.11\nIncrease Council staff knowledge about the Climate Emergency \n1. Develop a Climate Emergency course to put up on Council’s staff learning \nplatform. 2. 2. 2. Offer and promote the course. 2030\nBoth\nInvestigation \n1.12\nDecrease emissions generated by single-vehicle travel\n1. Investigate a carpooling system for Council staff. 2. 2. 2.",
+        "page": 19,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines the establishment of a Climate and Environment Working Group, which is a dedicated group made up of representatives across the organization. This group's role is to support the implementation and collaboration across the organization, which implies the allocation of staff resources to climate action. Additionally, the plan mentions the employment of an Environmental Education and Community Liaison Officer, which is a clear allocation of staff resources. The plan also includes the implementation of various programs and projects, which would require the allocation of institutional resources for their execution.",
+      "source": "GreaterBendigo-a-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "They will also support the design, delivery. Their role is to support implementation and collaboration across the organisation.",
+        "page": 13,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines the establishment of a Climate and Environment Working Group, which is a dedicated group made up of representatives across the organization. This group's role is to support the implementation and collaboration of the climate action plan across the organization. Additionally, the plan includes the employment of an Environmental Education and Community Liaison Officer. This officer's role would likely involve educating the community about the climate action plan and liaising between different stakeholders. The plan also mentions the implementation of a program to monitor and maintain the Council's environmentally sensitive water sensitive urban design assets, which would likely require the allocation of staff resources. Therefore, the plan does allocate staff and other non-monetary institutional resources to climate action.",
+      "source": "GreaterBendigo-b-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "Their role is to support implementation and collaboration across the organisation.",
+        "page": 13,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a number of actions that involve the allocation of staff resources. For instance, the plan includes the development of an annual program of staff training activities related to climate change, which would require the allocation of staff time and expertise. The plan also includes the updating of staff position descriptions to include roles and responsibilities related to climate action, which would require the allocation of human resources staff time and expertise. Furthermore, the plan includes the establishment of an internal Sustainability Advisory Group, which would require the allocation of staff members to this group. The plan also mentions the need to increase the capacity of the Council's Sustainability Team to facilitate the implementation of the Climate Change Emergency Strategy and Action Plan, which could involve the allocation of additional staff to this team.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong",
+      "quote": {
+        "content": "Our united corporate culture will focus on embedding climate change mitigation and resilience into decision-making processes, through strategic policies and strategies, day-to-day service delivery and workplans and performance measures.",
+        "page": 7,
+        "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines a number of actions that involve staff participation and responsibility. For instance, it includes the development of an annual program of staff training activities related to climate change, and the inclusion of roles and responsibilities in staff position descriptions that facilitate accountability for the council's response to the climate emergency. The plan also mentions the establishment of an internal Sustainability Advisory Group, which will be responsible for overseeing and driving the implementation of the Climate Emergency Strategy. Furthermore, the plan outlines the need to increase the capacity of the council's Sustainability Team to facilitate the implementation of the Climate Change Emergency Strategy and Action Plan. These actions clearly indicate that the plan allocates non-monetary institutional resources, specifically staff time and expertise, to climate action.",
+      "source": "GreaterDandenong-b-a12345678910.json",
+      "lga": "GreaterDandenong",
+      "quote": {
+        "content": "Our united corporate culture will focus on embedding climate change mitigation and resilience into decision-making processes, through strategic policies and strategies, day-to-day service delivery and workplans and performance measures.",
+        "page": 7,
+        "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Climate Change Response Plan does allocate non-monetary institutional resources to climate action. The plan outlines several actions that involve the allocation of staff resources. For instance, the City is tasked with monitoring, evaluating, and reporting on climate change adaptation readiness, implementing new risk management and reporting software solutions, and integrating climate change risk management into investment decisions. These tasks imply the allocation of staff time and expertise. Additionally, the City is also tasked with collaborating with primary producers to investigate the impact of climate change on agriculture and sustainable land use, and partnering with Traditional Owners to integrate their values and expertise into climate adaptation planning. These actions suggest the allocation of staff resources for collaboration and partnership-building. Therefore, the plan does allocate non-monetary institutional resources, specifically staff resources, to climate action.",
+      "source": "GreaterGeelong-a-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "Partner with Traditional Owners to ensure their cultural, ecological and economic values and expertise are integrated into climate adaptation planning.",
+        "page": 43,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The Climate Change Response Plan does allocate non-monetary institutional resources to climate action. The plan outlines a number of actions that involve the allocation of staff resources. For instance, the City is tasked with monitoring, evaluating, and reporting on climate change adaptation readiness, implementing new risk management and reporting software solutions, and integrating climate change risk management into investment decisions. These actions imply the allocation of staff time and expertise. Additionally, the City is also tasked with collaborating with primary producers to investigate the impact of climate change on agriculture and sustainable land use, and partnering with Traditional Owners to integrate their values and expertise into climate adaptation planning. These actions suggest the allocation of staff resources for collaboration and partnership-building. Therefore, the plan does allocate non-monetary institutional resources, specifically staff resources, to climate action.",
+      "source": "GreaterGeelong-b-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "Partner with Traditional Owners to ensure their cultural, ecological and economic values and expertise are integrated into climate adaptation planning.",
+        "page": 43,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines a variety of actions, each of which is associated with a 'Staff Time' resource allocation. This indicates that staff time and effort will be dedicated to the implementation of these actions. For instance, the plan includes actions such as 'Investigate mechanisms for community and business involvement for action plan implementation', 'Review the Heatwave Plan, Fire Management Strategy and Flood Emergency Management Plan', and 'Improve access to reliable, easy to understand climate change data and projections to inform community planning and action'. Each of these actions is associated with a 'Staff Time' resource allocation, indicating that staff will be dedicated to these tasks. This demonstrates a clear commitment to mobilising institutional resources for climate action.",
+      "source": "GreaterShepparton-a-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines a variety of actions, each of which is associated with a 'Staff Time' resource allocation. This indicates that staff time and effort will be dedicated to the implementation of these actions. For instance, the plan includes actions such as 'Investigate mechanisms for community and business involvement for action plan implementation', 'Review the Heatwave Plan, Fire Management Strategy and Flood Emergency Management Plan', and 'Improve access to reliable, easy to understand climate change data and projections to inform community planning and action'. Each of these actions is associated with a 'Staff Time' resource allocation, indicating that staff resources are being explicitly allocated to these climate action initiatives.",
+      "source": "GreaterShepparton-b-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The local government policy does explicitly allocate non-monetary institutional resources to climate action. The policy outlines the need for a knowledgeable workforce, indicating that staff will be equipped with the capacity, tools, skills, and resources to make a positive difference in climate action. This suggests that staff time and expertise will be allocated to implementing the policy's climate action strategies. Furthermore, the policy emphasizes collaboration and inclusivity, suggesting that staff will work together and with the community to achieve climate goals. This further implies the allocation of staff resources to facilitate partnerships, collaborations, and community engagement. However, the policy does not provide specific details on the number of staff allocated, the specific roles they will play, or the amount of time they will dedicate to these tasks.",
+      "source": "Hepburn-a-a12345678910.json",
+      "lga": "Hepburn"
+    },
+    {
+      "answer": "The local government policy does explicitly allocate non-monetary institutional resources to climate action. The policy outlines the need for a knowledgeable workforce, indicating that staff will be equipped with the capacity, tools, skills, and resources to make a positive difference in climate action. This suggests that the local government is committed to investing in its staff to ensure they are well-equipped to implement the policy's climate action strategies. Furthermore, the policy emphasizes collaboration and inclusivity, suggesting that the local government will work together with community groups and other stakeholders to maximize outcomes. This indicates that the local government is allocating its institutional resources, such as its staff and collaborative networks, to climate action.",
+      "source": "Hepburn-b-a12345678910.json",
+      "lga": "Hepburn"
+    },
+    {
+      "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines a number of actions that involve the use of staff resources. For instance, it mentions that council staff will review and analyze current asset management plans under a range of climate change and water availability scenarios. This includes areas such as stormwater drainage capacity maintenance, road construction and design, and building maintenance, upgrade, and design. The policy also mentions the need for community engagement, which would likely involve staff resources. Furthermore, the policy discusses the need to regularly update and consider climate change and water availability scenarios in the analysis of future asset management plans and broader council planning. This again would require the allocation of staff resources. Therefore, it is clear that the policy does allocate non-monetary institutional resources, specifically staff, to climate action.",
+      "source": "Hindmarsh-a-a12345678910.json",
+      "lga": "Hindmarsh",
+      "quote": {
+        "content": "Council staff review and analyse current asset management plans under a range of climate change and water availability scenarios e.g.",
+        "page": 184,
+        "source": "Hindmarsh-2012-climate-adaptation.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines a number of actions that involve the use of staff resources. For instance, it mentions that council staff are to review and analyze current asset management plans under a range of climate change and water availability scenarios. This includes areas such as stormwater drainage capacity maintenance, road construction and design, and building maintenance, upgrade, and design. The policy also emphasizes the importance of community engagement, which would require the allocation of staff resources for effective communication and education on the council's adaptation and sustainability projects. Furthermore, the policy mentions the need to liaise with major businesses, service providers, and neighboring municipalities to develop packages offering employment opportunities with the council for couples and families. This suggests a strategic use of institutional resources to address potential challenges posed by climate change.",
+      "source": "Hindmarsh-b-a12345678910.json",
+      "lga": "Hindmarsh",
+      "quote": {
+        "content": "Council staff review and analyse current asset management plans under a range of climate change and water availability scenarios e.g.",
+        "page": 184,
+        "source": "Hindmarsh-2012-climate-adaptation.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a multi-departmental approach to implementing, monitoring, and evaluating the actions, with a Steering Group and Working Group overseeing the progress. This indicates that staff resources are being allocated to the climate action plan. Furthermore, the plan mentions the provision of technical support from internal sustainability experts, which again suggests the allocation of staff resources. The plan also includes actions such as developing and delivering training to build capacity across the organisation, which implies the allocation of staff time and expertise. However, the plan does not provide specific details on the number of staff allocated or the exact nature of their roles in the climate action plan.",
+      "source": "HobsonsBay-a-a12345678910.json",
+      "lga": "HobsonsBay",
+      "quote": {
+        "content": "Council will utilise the best available tools to monitor progress towards emissions reduction and climate adaptation including periodic formal emissions inventories, vulnerability assessments and evaluation frameworks. Actions will be overseen by a multi departmental Steering Group and Working Group with progress reported in the Hobsons Bay City Council Annual Report and on Council’s website.",
+        "page": 13,
+        "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a multi-departmental approach to implementing, monitoring, and evaluating the actions, with a Steering Group and Working Group overseeing the progress. This indicates that staff resources are being allocated to manage and execute the plan. Furthermore, the plan mentions the provision of technical support from internal sustainability experts, which again suggests the allocation of staff resources with specific expertise. The plan also includes actions such as developing and delivering training to build capacity across the organisation, which implies the allocation of staff time and expertise. However, the documents do not provide specific details on the number of staff allocated, their roles, or the exact nature of the 'other non-monetary institutional resources' involved.",
+      "source": "HobsonsBay-b-a12345678910.json",
+      "lga": "HobsonsBay",
+      "quote": {
+        "content": "Council will utilise the best available tools to monitor progress towards emissions reduction and climate adaptation including periodic formal emissions inventories, vulnerability assessments and evaluation frameworks. Actions will be overseen by a multi departmental Steering Group and Working Group with progress reported in the Hobsons Bay City Council Annual Report and on Council’s website.",
+        "page": 13,
+        "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's policy does indeed allocate non-monetary institutional resources to climate action. The policy outlines a number of actions related to environmental sustainability and climate change, and assigns responsibility for these actions to specific departments within the council. For instance, the Corporate Services and Economic Development department is tasked with ensuring environmental sustainability is a primary consideration in all future Council strategies and plans. The Technical Services department is responsible for supporting the establishment of new groups with a focus on environmental sustainability actions. These allocations of responsibility suggest that staff time and expertise, both valuable institutional resources, are being directed towards climate action. However, the policy does not provide specific details on the amount of staff time or the level of expertise required for these tasks.",
+      "source": "Horsham-a-a12345678910.json",
+      "lga": "Horsham",
+      "quote": {
+        "content": "Corporate Services and \nEconomic Development\nOngoing\nL14\nReview and revise the structure of Council reports to \nincorporate how relevant actions align with Council’s \nEnvironment Sustainability Strategy and how they deliver on \nCouncil sustainability priorities. Action\nResponsible Department\nTimeline\nStrategic direction\nL13\nEnsure environmental sustainability is a primary consideration \nin all future Council strategies and plans.",
+        "page": 19,
+        "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's policy does indeed allocate non-monetary institutional resources to climate action. The policy outlines a number of actions and assigns responsibility to specific departments within the council. For instance, the Corporate Services and Economic Development department is tasked with ensuring environmental sustainability is a primary consideration in all future Council strategies and plans. They are also responsible for providing training opportunities to staff in all areas of environment sustainability relevant to their position and duties. The Technical Services department is also given responsibilities, such as supporting the establishment of new groups with a focus on environmental sustainability actions. These allocations of responsibilities indicate that the policy is mobilising institutional resources, in the form of staff time and expertise, towards climate action.",
+      "source": "Horsham-b-a12345678910.json",
+      "lga": "Horsham",
+      "quote": {
+        "content": "Corporate Services and \nEconomic Development\nOngoing\nL14\nReview and revise the structure of Council reports to \nincorporate how relevant actions align with Council’s \nEnvironment Sustainability Strategy and how they deliver on \nCouncil sustainability priorities.",
+        "page": 19,
+        "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Hume Climate Action Plan 2023-2028 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines various actions and activities, each with a designated lead and support team, indicating a clear allocation of staff resources. For instance, the 'Climate Action Integration Team' is frequently mentioned as either leading or supporting various actions. The plan also mentions the 'People and Culture' team, the 'Economic Development' team, and others, showing a broad institutional commitment. Furthermore, the plan outlines the use of existing budgets for many actions, indicating the allocation of financial resources. However, it's important to note that while staff are allocated, the plan often states that actions are 'within current budget' or 'within current resourcing', suggesting that no additional funding is provided for these climate actions.",
+      "source": "Hume-a-a4.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "Within current budget.",
+        "page": 35,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The Hume Climate Action Plan 2023-2028 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines various actions and activities, each with a designated lead and support team, indicating a clear allocation of staff resources. For instance, the 'Climate Action Integration Team' is frequently mentioned as either leading or supporting various initiatives. The plan also mentions the 'Community Health and Wellbeing' team, 'People and Culture', 'Organisational Performance and Engagement', and 'Economic Development' among others. These allocations suggest a cross-departmental approach to climate action, integrating efforts across different sectors of the local government. The plan also outlines the use of existing budgets for many of the actions, indicating a commitment of financial resources. However, it is worth noting that many of the actions are to be carried out 'within current budgets', suggesting that additional funding may not be allocated specifically for these climate actions.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "Within current budget.",
+        "page": 35,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The local government's Climate Emergency Strategic Action Plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a strategy for integrating climate change considerations into all aspects of the council's operations. This includes the induction of new council members, the review of key strategic documents, and the application of risk management processes. The plan also emphasizes the importance of staff training and education to support individuals and work teams in identifying and implementing climate change and emissions reduction actions. Furthermore, the plan calls for consistent leadership that champions climate change in all applicable decisions and processes. This suggests a significant allocation of staff time and effort towards climate action. However, the documents do not provide specific details on the number of staff or the amount of time that will be dedicated to these efforts.",
+      "source": "Indigo-a-a12345678910.json",
+      "lga": "Indigo",
+      "quote": {
+        "content": "• \nApply risk management processes to develop, implement and monitor adaptation strategies and actions \n(including potential failure to adapt to climate change). Priority actions: \n• \nInclude climate change information/workshop in the new Council induction program. • \nCommence review of key strategic documents (plans, policies and strategies) that inform the delivery of \nCouncil’s functions across procurement, infrastructure design, maintenance, built environment, health and \nwellbeing, community engagement, plant, equipment and fleet to ensure climate change mitigation and \nadaptation opportunities are considered.",
+        "page": 2,
+        "source": "Indigo-2020-climate-emergency-strategic-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Climate Emergency Strategic Action Plan does explicitly allocate non-monetary institutional resources to climate action. The plan outlines a strategy for integrating climate change considerations into all aspects of the local government's operations. This includes reviewing all policies, plans, and procedures through a 'climate emergency lens' and making any necessary changes to align with the Climate Change Policy and Action Plan. The plan also emphasizes the importance of staff training and education to support individuals and work teams in identifying and implementing climate change and emissions reduction actions. Furthermore, the plan highlights the need for consistent leadership that champions climate change in all applicable decisions and processes. This suggests a significant allocation of staff time and effort towards climate action. However, the plan does not provide specific details on the number of staff or the amount of time that will be dedicated to these efforts.",
+      "source": "Indigo-b-a12345678910.json",
+      "lga": "Indigo",
+      "quote": {
+        "content": "• \nApply risk management processes to develop, implement and monitor adaptation strategies and actions \n(including potential failure to adapt to climate change). • \nCommence review of key strategic documents (plans, policies and strategies) that inform the delivery of \nCouncil’s functions across procurement, infrastructure design, maintenance, built environment, health and \nwellbeing, community engagement, plant, equipment and fleet to ensure climate change mitigation and \nadaptation opportunities are considered.",
+        "page": 2,
+        "source": "Indigo-2020-climate-emergency-strategic-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Kingston Climate and Ecological Emergency Response Plan does allocate non-monetary institutional resources to climate action. The plan outlines a commitment to re-orientate its operations to respond holistically to the climate emergency. This includes the allocation of staff resources, with senior leaders holding their departments accountable for climate action. The plan also mentions the development and implementation of training for staff focused on Council’s response to the Climate and Ecological Emergency and their role. This indicates that staff resources are being allocated to climate action, with a focus on building competencies relevant to climate emergency action into staff roles and responsibilities. Furthermore, the plan mentions the need for collaboration with Traditional Owners on Council’s Climate and Ecological Emergency response, which implies the allocation of staff resources for this collaboration.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "Embed competencies relevant to climate emergency action into staff roles The initial focus will be on staff with purchasing power and contractor and event management responsibilities.",
+        "page": 22,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Kingston Climate and Ecological Emergency Response Plan does allocate non-monetary institutional resources to climate action. The plan outlines a commitment to re-orientate its operations to respond holistically to the climate emergency. This includes organisational accountability coordinated via the Council's Governance team and structured to ensure senior leaders hold their departments and each other to account. The plan also mentions the development and implementation of training for staff focused on Council’s response to the Climate and Ecological Emergency and their role. The initial focus will be on staff with purchasing power and contractor and event management responsibilities. Furthermore, the plan mentions embedding competencies relevant to climate emergency action into staff roles and responsibilities and performance planning. This indicates a clear allocation of staff resources towards climate action.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "Embed competencies relevant to climate emergency action into staff roles and responsibilities and performance planning. The initial focus will be on staff with purchasing power and contractor and event management responsibilities.",
+        "page": 22,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The policy does allocate non-monetary institutional resources to climate action. The policy outlines a seven-stage development plan, which includes stages such as 'Education and Awareness Program', 'Interactive Workshops', and 'Stakeholder Consultation'. These stages imply the allocation of staff and other institutional resources for their execution. Furthermore, the policy mentions the establishment of a 'Latrobe City Council Low Carbon Emissions Future Transition Committee' to drive the transformation at a local and regional level. The policy also mentions the pursuit of funding for two Carbon Assist Officers, although this funding was not ultimately provided. Despite this, a departmental officer was located with the Council for two days a week over ten weeks, indicating the allocation of staff resources to climate action.",
+      "source": "Latrobe-a-a12345678910.json",
+      "lga": "Latrobe"
+    },
+    {
+      "answer": "The policy does allocate non-monetary institutional resources to climate action. The policy outlines a seven-stage project development plan, which would require staff involvement at each stage. The policy also mentions the establishment of a 'Latrobe City Council Low Carbon Emissions Future Transition Committee' to drive transformation at a local and regional level. Furthermore, the policy mentions the pursuit of funding for two Carbon Assist Officers, one to educate and engage the community and another to work with the SME sector to assist in a smooth transition. Although the funding was not provided, a departmental officer was located with the Council for two days a week over ten weeks, indicating the allocation of staff resources to climate action.",
+      "source": "Latrobe-b-a12345678910.json",
+      "lga": "Latrobe",
+      "quote": {
+        "content": "A departmental officer was located with Council for two days a week over ten weeks to strengthen existing relationships with the department, and for the officer learn more about Council’s activities. Council pursued funding from the Australian Government for two Carbon Assist Officers through meetings with Minister and Departmental representatives. While interest was shown in this initiative, ultimately it did not provide funding for dedicated, specialist officers as suggested by Council.",
+        "page": 8,
+        "source": "Latrobe-2014-low-carbon.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action. This is evident in several instances where the plan outlines the responsibility of various roles and committees in implementing climate-related actions. For instance, the 'Plant Replacement committee' is tasked with incorporating energy efficiency assessments into their procurement recommendations (T1). The CEO is responsible for maintaining a carpool policy (T2), and the review of the vehicle policy to encourage energy-efficient vehicles is also mentioned (T3). The plan also suggests the employment of an environmental sustainability officer within the Council to champion waste management, vegetation management, and environmental issues (WA5). These allocations of responsibilities indicate a clear commitment of institutional resources towards climate action.",
+      "source": "Loddon-a-a12345678910.json",
+      "lga": "Loddon",
+      "quote": {
+        "content": "Investigate opportunity to employ an environmental sustainability officer within Council to champion waste management, vegetation management and environmental issues as identified within the Environmental Sustainability Strategy.",
+        "page": 9,
+        "source": "Loddon-Environmental-Sustainability-Strategy-Action-Plan.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The local government's policy does indeed allocate non-monetary institutional resources to climate action. The policy outlines several actions related to climate change and sustainability, and assigns responsibility for these actions to various roles within the institution. For instance, the Plant Replacement committee is tasked with incorporating energy efficiency assessments into their procurement recommendations (T1). The CEO is responsible for maintaining a carpool policy (T2). The Director Operations (DOP) is tasked with advocating for improvements in water security and quality (WR1). The Manager Infrastructure Program Development (MINFPD) is involved in implementing a program for the upgrade and improvement of automated watering systems (WR2). These allocations of responsibility indicate that staff time and expertise, which are non-monetary institutional resources, are being dedicated to climate action.",
+      "source": "Loddon-b-a12345678910.json",
+      "lga": "Loddon"
+    },
+    {
+      "answer": "The local government's climate action plan does allocate staff and other non-monetary institutional resources to climate action. The plan outlines various actions and initiatives, each with designated lead units or departments within the council responsible for their implementation. For instance, the 'Finance' and 'Strategic Planning and Environment' departments are tasked with integrating climate change into decision making and reducing support to the fossil fuel industry. The 'Green Team' is assigned to investigate the suitability of the Commuter Club program for Council staff. The 'Information and Communications' department is responsible for developing video conferencing facilities to reduce work travel. The 'Environment Unit' is tasked with installing public electric vehicle charging stations across the shire. These allocations demonstrate a clear commitment to mobilizing institutional resources for climate action.",
+      "source": "MacedonRanges-a-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "For example, refine criteria for environmental \nconsideration in templates for new initiative bids and capital works bids,    \nFinance, \nEngineering 4.4 Integrating climate change into decision making \nInvestigate opportunities to amend internal procedures regarding budget \nplanning to facilitate the integration of climate change into decision making \nacross Council, particularly in regards to management of assets and \ndelivery of services.",
+        "page": 59,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government policy does allocate staff and other non-monetary institutional resources to climate action. The policy outlines several actions that involve the allocation of staff resources to climate change initiatives. For instance, the policy mentions the establishment of a staff environment group to promote sustainability in work practices across all units of Council. It also mentions the need to secure staff resources for climate change action to enable the delivery of the proposed actions. Furthermore, the policy discusses the integration of climate change considerations into decision-making processes across Council, which would require the involvement and commitment of staff from various departments. The policy also mentions the use of existing resources, such as Council buildings, for community renewable energy projects. This suggests that the policy not only allocates human resources but also leverages existing physical resources for climate action.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "Include educational activities like learn-over-lunch presentations on topics related to climate change.",
+        "page": 31,
+        "source": "MacedonRanges-Counting-Down-To-Zero-Zero-Net-Emissions-for-Council-Operations-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Climate Action Plan of the local government does allocate non-monetary institutional resources to climate action, although it does not specify the allocation of staff. The plan outlines that the implementation of the Action Plan will require climate considerations to be embedded into several Council processes such as planning, community engagement, and waste management. It also mentions that the actions within the community section of this Action Plan will be incorporated into existing roles and budgets. This suggests that existing staff will be mobilized to implement the plan, although it does not explicitly state that additional staff will be allocated. Furthermore, the plan outlines collaboration with various stakeholders, which implies the allocation of institutional resources for coordination and collaboration efforts.",
+      "source": "Mansfield-a-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "It is however intended that the actions within the community section of this Action Plan will be incorporated into existing roles and budgets. Implementation of the Action Plan will require climate considerations to be embedded into several Council processes such as planning, community engagement, and waste management.",
+        "page": 32,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Climate Action Plan of the local government does allocate non-monetary institutional resources to climate action, although it does not explicitly mention the allocation of staff. The plan outlines various actions and interventions that the Council will undertake, which implicitly require the involvement of staff and other institutional resources. For instance, the Council commits to implementing projects that demonstrate cost-savings and good value to Council operations, supporting the broader community to implement climate action, and participating in collaborative efforts for emissions reduction initiatives. Furthermore, the plan mentions that the implementation of the Action Plan will require climate considerations to be embedded into several Council processes such as planning, community engagement, and waste management. This suggests that staff and other institutional resources will be mobilized to carry out these tasks. However, the plan does not provide specific details on the number of staff or the exact nature of the institutional resources that will be allocated.",
+      "source": "Mansfield-b-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "Implementation of the Action Plan will require climate considerations to be embedded into several Council processes such as planning, community engagement, and waste management.",
+        "page": 32,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Maribyrnong City Council Climate Emergency Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines a series of actions, each with a timeline and resources allocated. The resources for all actions are listed as 'Within Council operating resources', which implies the use of existing staff and institutional resources. For instance, the plan includes actions such as 'Undertake an assessment of land availability and total capacity for increased vegetation across the municipality' and 'Ensure that electric options and energy efficiency is prioritised and is a key criteria when procuring Council plant and equipment'. These actions require staff involvement for research, planning, and implementation. Furthermore, the plan also mentions the development and delivery of a Council staff education and capacity building program covering a range of climate emergency topics, indicating an investment in staff training and development for climate action.",
+      "source": "Maribyrnong-a-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The Maribyrnong City Council Climate Emergency Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines a series of actions, each with a timeline and resources allocated. The resources for all actions are listed as 'Within Council operating resources', which implies the use of existing staff and institutional resources. For instance, the plan includes actions such as undertaking an assessment of land availability for increased vegetation, researching opportunities to increase targets for green infrastructure in new developments, and ensuring that electric options and energy efficiency are prioritised when procuring Council plant and equipment. Each of these actions requires staff time and expertise, indicating that the Council is committing its institutional resources to these climate actions.",
+      "source": "Maribyrnong-b-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The local government policy does allocate non-monetary institutional resources to climate action. The policy outlines the need for staff involvement in various aspects of climate action, including climate education, data collection, spatial planning, and GIS capacity. The policy also mentions the establishment of a cross-directorate team to monitor progress, which implies the allocation of staff resources. Furthermore, the policy emphasizes the importance of fostering a culture of innovation, cooperation, commitment, communication, and continuous improvement within the council, which suggests an institutional commitment to climate action. However, the policy does not provide specific details on the number of staff allocated, their roles, or the time they are expected to dedicate to these tasks.",
+      "source": "Maroondah-a-a12345678910.json",
+      "lga": "Maroondah"
+    },
+    {
+      "answer": "The local government policy does allocate non-monetary institutional resources to climate action. The policy outlines the establishment of a cross-directorate team to monitor progress on climate change adaptation, indicating the allocation of staff resources. The policy also mentions the Maroondah Environment Advisory Committee's role in tracking progress, suggesting the involvement of existing institutional bodies. Furthermore, the policy emphasizes the need for staff to track climate change impacts on Council's assets, operations, and services, and evaluate responses over the long term. This indicates an allocation of staff time and effort towards climate action. However, the policy does not provide specific details on the number of staff allocated, their roles, or the exact nature of the 'non-monetary institutional resources' involved.",
+      "source": "Maroondah-b-a12345678910.json",
+      "lga": "Maroondah",
+      "quote": {
+        "content": "The Maroondah Environment Advisory Committee will be engaged regularly to assist with tracking Council’s progress on the Strategy and Action Plan. For Strategy delivery, a cross directorate team will be established to monitor progress supported by the Finance and Governance service area (e.g. financial and risk management advice), and the Integrated Planning service area utilising the best available climate science and vulnerability information.",
+        "page": 35,
+        "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Climate Change Adaptation Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines various actions, each with a designated responsibility assigned to specific units or departments within the local government. For instance, the 'City Design and Strategy' and 'Environment and Waste' units are tasked with integrating climate change considerations into relevant plans, policies, and processes. The 'Risk and Performance' unit is responsible for reviewing facilities for availability, accessibility, and trigger points for increased hours during extreme weather events. The plan also mentions the establishment of processes and responsibilities for monitoring, evaluating, and reporting on climate change impacts on Council service delivery and operations. This suggests a clear allocation of staff resources towards climate action. However, the plan does not provide specific details on the number of staff allocated or the exact nature of the non-monetary resources mobilised.",
+      "source": "Melton-a-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The Climate Change Adaptation Plan does allocate non-monetary institutional resources to climate action. The plan outlines various actions and assigns responsibility to different units within the local government. For instance, the 'City Design and Strategy' unit is tasked with integrating climate change considerations into relevant plans, policies, and processes as they are developed and updated. The 'Environment and Waste' unit is assigned to establish a process for monitoring, evaluating, and reporting on climate change impacts on Council service delivery and operations. The 'Risk and Performance' unit is responsible for improving the ability to respond to extreme weather events through understanding current emergency response capacity. These allocations indicate that the plan does not only rely on monetary resources but also leverages existing institutional resources, such as staff and departments, to implement climate action.",
+      "source": "Melton-b-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines a strategy to engage staff across the council to raise awareness and integrate climate emergency response within council strategies, policies, planning, and services. This includes raising staff awareness of the need for societal transformation and embedding climate mitigation and resilience-thinking into day-to-day service delivery, strategic policies, and workplans. Techniques to engage staff may include speaker presentations, facilitated workshops tailored to each service area, lunchtime film screenings, and peer-to-peer engagement. The plan also mentions the establishment of a Climate Emergency Integration Officer role and the allocation of funds for this position. Furthermore, the plan includes actions to foster sustainable travel and commuting by council staff, indicating a commitment to mobilizing institutional resources for climate action.",
+      "source": "Merribek-a-a12345678910.json",
+      "lga": "Merribek"
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines a strategy to engage staff across the council to raise awareness and integrate climate emergency response within council strategies, policies, planning, and services. This includes raising staff awareness of the need for societal transformation and embedding climate mitigation and resilience-thinking into day-to-day service delivery, strategic policies, and workplans. Techniques to engage staff may include speaker presentations, facilitated workshops tailored to each service area, lunchtime film screenings, and peer-to-peer engagement. The plan also includes the allocation of $104k p/a from 2020/21 for a Climate Emergency Integration Officer. Furthermore, the plan mentions the engagement of University (Masters) students in applied project work to develop creative engagement and campaigns.",
+      "source": "Merribek-b-a12345678910.json",
+      "lga": "Merribek"
+    },
+    {
+      "answer": "The Moira Shire Council's Corporate Emissions Reduction Plan 2018-2021 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines several actions that involve staff participation and engagement. For instance, the plan mentions the use of an internal Green Team to raise awareness and encourage change, and the facilitation of staff education sessions to encourage low carbon behaviours. The plan also promotes walking, cycling, and carpooling options to staff and provides incentives for staff to use more sustainable transport options. Furthermore, the Environmental Services department is tasked with the responsibility of collating, evaluating, and communicating the Council’s annual emissions profile. These actions indicate a clear allocation of staff resources towards climate action.",
+      "source": "Moira-a-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The local government's policy does indeed allocate staff and other non-monetary institutional resources to climate action. The policy outlines a number of actions that involve staff participation and institutional resources. For instance, the policy mentions the use of an internal Green Team to raise awareness and encourage change, as well as facilitating staff education sessions to encourage low carbon behaviours. The policy also promotes walking, cycling, and carpooling options to staff and provides incentives for staff to use more sustainable transport options. Furthermore, the policy mentions the Environmental Services department's role in collating, evaluating, and communicating the Council’s annual emissions profile. These actions clearly indicate that the policy allocates both staff and institutional resources to climate action.",
+      "source": "Moira-b-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The Zero Net Carbon Action Plan by the local government does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines the need for 1.8 additional staff resources to facilitate emission reduction projects and deliver many aspects of the action plan. These roles include technical expertise to manage infrastructure upgrades and educate staff on climate change impacts and carbon neutrality, as well as community engagement and education for residents and businesses to reduce municipal emissions. The plan also mentions the appointment of 1.8 FTE staff to support the delivery of the Zero Net Action Plan and fast track the Council’s approach to being carbon neutral by 2025. Furthermore, the plan includes a budget line for staff time resourcing to manage delivery of on-ground projects and facilitate community and business education, indicating a clear allocation of institutional resources towards climate action.",
+      "source": "Monash-a-a12345678910.json",
+      "lga": "Monash"
+    },
+    {
+      "answer": "The Zero Net Carbon Action Plan by the local government does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines the need for 1.8 additional staff resources to facilitate emission reduction projects and deliver many aspects of the action plan. These roles include technical expertise to manage infrastructure upgrades and educate staff on the impact of climate change, as well as community engagement and education for residents and businesses to reduce municipal emissions. The plan also mentions the appointment of 1.8 FTE staff to support the delivery of the Zero Net Action Plan and fast track the Council’s approach to being carbon neutral by 2025. Furthermore, the plan includes a budget line for staff time resourcing to manage delivery of on-ground projects and facilitate community and business education, indicating a clear allocation of institutional resources towards climate action.",
+      "source": "Monash-b-a12345678910.json",
+      "lga": "Monash"
+    },
+    {
+      "answer": "The Moorabool Shire Sustainable Environment Strategy 2016 - 26 does allocate non-monetary institutional resources to climate action. The policy outlines a number of ways in which the council plans to respond to climate change, including understanding and mitigating climate risks, reducing greenhouse emissions, and improving water efficiency. The policy also mentions the use of 'skilled staff to prepare and implement suitable projects and programs', which suggests that staff resources are being allocated to these climate action initiatives. However, the policy does not provide specific details on the number of staff or the exact nature of their roles in these initiatives. It is also worth noting that the policy acknowledges the council's role in leading by example in its own management of the natural environment, which implies an institutional commitment to climate action.",
+      "source": "Moorabool-a-a12345678910.json",
+      "lga": "Moorabool"
+    },
+    {
+      "answer": "The Moorabool Shire Sustainable Environment Strategy 2016 - 26 does allocate non-monetary institutional resources to climate action, although it does not explicitly mention the allocation of staff. The policy outlines a range of tools and resources that the Council has at its disposal to achieve its desired outcomes in environmental management. These include various strategic plans, management plans, and policies, as well as the ability to source and provide resources and funds. The policy also mentions the role of skilled staff in preparing and implementing suitable projects and programs, suggesting that staff resources are implicitly allocated to climate action. However, the policy does not provide specific details on the number of staff allocated, their roles, or the time they will spend on climate action.",
+      "source": "Moorabool-b-a12345678910.json",
+      "lga": "Moorabool"
+    },
+    {
+      "answer": "The local government's plan does allocate non-monetary institutional resources to climate action. The plan outlines that actions will be led by the team(s) with relevant experience and capacity, implying that staff resources are being allocated. It also mentions that the implementation of the plan will involve teams across the organisation working with the community and other stakeholders. This suggests a broad institutional commitment to climate action, with resources being mobilised across different parts of the organisation. Furthermore, the plan mentions the need for 'resourcing' to ensure the success of actions, which could include both monetary and non-monetary resources. However, the plan does not provide specific details on the number of staff or the exact nature of the resources being allocated.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "Implementation of the plan will therefore involve teams right across the organisation working with the community and other stakeholders. The Shire actions and tasks will be led by the team(s) with relevant experience and capacity.",
+        "page": 2,
+        "source": "Mornington-2020-climate-emergency-response-part2.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The plan does indeed allocate non-monetary institutional resources to climate action. It mentions that actions will be led by teams with relevant experience and capacity, implying that staff resources are being allocated. The plan also mentions the need for additional human resources in certain areas, such as climate change impact and risk management. Furthermore, the plan outlines tasks that involve staff resources, such as providing direct support for community and youth groups, providing advice to community groups and individuals, and conducting regular vulnerability assessments and financial risk modelling of Shire services and assets. These tasks would require the allocation of staff time and expertise, demonstrating a commitment of institutional resources to climate action.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "The Shire actions and tasks will be led by the team(s) with relevant experience and capacity.",
+        "page": 2,
+        "source": "Mornington-2020-climate-emergency-response-part2.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The local government's policy does explicitly allocate non-monetary institutional resources to climate action. The policy outlines several actions related to climate change, such as offsetting Council's greenhouse emissions, increasing Council and community understanding and awareness of energy consumption, and promoting participation in National Earth Hour. These actions are expected to be implemented within specific timeframes and are associated with varying levels of impact. The policy also acknowledges that the implementation of these actions will require substantial investment of resources from the Council and, in many instances, external sources or partners. However, it does not provide specific details on the allocation of staff to these actions.",
+      "source": "Moyne-a-a12345678910.json",
+      "lga": "Moyne",
+      "quote": {
+        "content": "State and/or Commonwealth governments). Implementation of the Actions listed within this strategy will unquestionably require substantial investment of resources from Council and, in may instances, external sources/partners (e.g.",
+        "page": 41,
+        "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's policy does explicitly allocate non-monetary institutional resources to climate action. The policy outlines several actions related to climate change, such as offsetting Council's fleet emissions through annual community indigenous vegetation planting programs, promoting participation in National Earth Hour, and establishing procedures to enable community groups to utilize computer & tele-conferencing facilities. These actions imply the allocation of staff time and effort, which are non-monetary institutional resources. Furthermore, the policy mentions the need for substantial investment of resources from Council and, in many instances, external sources/partners. This suggests that the policy not only allocates existing resources but also seeks to mobilize additional resources for climate action.",
+      "source": "Moyne-b-a12345678910.json",
+      "lga": "Moyne",
+      "quote": {
+        "content": "State and/or Commonwealth governments). Implementation of the Actions listed within this strategy will unquestionably require substantial investment of resources from Council and, in may instances, external sources/partners (e.g.",
+        "page": 41,
+        "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action, specifically in the form of staff responsibilities and training. The plan outlines various actions and assigns responsibility to specific departments or roles within the local government. For instance, the 'Healthy Environments' department is tasked with implementing further actions related to climate adaptation, utilising natural environment expertise during significant procurements, and developing a climate change informed response to street tree replacement and urban forestry. The 'Organisational Development' department is tasked with providing professional development training to planning staff about climate change ready developments. The 'Finance' department is tasked with ensuring that climate change adaptation is fully considered in the Council’s risk register and in project and contract management. The 'Governance and Customer Service' department is tasked with developing a checklist for considering climate change during the internal development of major project proposals. These allocations of staff responsibilities indicate a clear commitment to mobilising institutional resources for climate action.",
+      "source": "MtAlexander-a-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The local government's climate action plan does allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific responsibilities for different areas of the council, such as the CEO, Climate Change, Leadership Team, Procurement, and Environment. These responsibilities include integrating climate change action implementation and sustainability across the council, aligning procurement and contractor service providers with the council's ambition for zero-net emissions, and developing a working group and an offset/inset strategy. The plan also mentions the need for a program of education, events, and training aimed at raising awareness of the roadmap and facilitating more climate-aware choices by staff. This indicates a commitment to mobilising institutional resources, including staff time and expertise, towards climate action.",
+      "source": "MtAlexander-b-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines a variety of actions related to climate change, each of which is assigned a lead department or program within the local government. These actions include developing libraries and customer service centres as climate resilience hubs, promoting sustainable developments, delivering climate-related actions in the Municipal Health and Wellbeing Plan, and supporting community groups to install renewable energy and boost energy and water efficiency. Each of these actions is allocated 'staff time', indicating that employees of the local government will be dedicating their time and expertise to these initiatives. This allocation of staff time represents a significant non-monetary institutional resource. The plan also outlines the funding source for each action, some of which are funded through existing programs or allocated staff time, further demonstrating the allocation of non-monetary institutional resources to climate action.",
+      "source": "Murrindindi-a-a12345678910.json",
+      "lga": "Murrindindi"
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines a variety of actions related to climate change, each of which is assigned a lead department or program within the local government. These actions are expected to be carried out as part of the staff's regular duties, indicating that staff time is being allocated to these climate actions. For instance, the plan includes actions such as developing libraries and customer service centres as climate resilience hubs, promoting sustainable developments, and delivering climate-related actions in the Municipal Health and Wellbeing Plan. Each of these actions is assigned to a specific department or program, and the cost estimate for each is listed as 'staff time', indicating that the local government is allocating its existing staff resources to these actions. This demonstrates a clear commitment to mobilising institutional resources for climate action.",
+      "source": "Murrindindi-b-a12345678910.json",
+      "lga": "Murrindindi"
+    },
+    {
+      "answer": "The Nillumbik 2022 Climate Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines that the delivery of the Climate Action Plan will be embedded within the CEO's contract/performance plan, indicating a clear allocation of staff resources towards climate action. Furthermore, the plan encourages all Council staff to be engaged in undertaking or supporting climate action within their roles. This suggests that the plan not only allocates staff to climate action but also seeks to integrate climate action into the day-to-day operations of all staff. The plan also mentions leveraging relationships with agencies, organisations, and groups to keep abreast of best practice climate action and opportunities for continuous improvement, indicating a commitment to using institutional resources for climate action.",
+      "source": "Nillumbik-a-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "1.2 To consider climate impact in day-to-day operations and when making Council decisions a. Embed delivery of the Climate Action Plan within the CEO’s contract / performance plan b.",
+        "page": 21,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The Nillumbik 2022 Climate Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines the need for strong climate action leadership and culture, and it includes specific actions to engage all Council staff in climate action within their roles. The plan also mentions the need to embed the delivery of the Climate Action Plan within the CEO's contract/performance plan, which indicates a clear allocation of staff resources. Furthermore, the plan discusses the need to leverage relationships with agencies, organizations, and groups to stay updated on best practice climate action and opportunities for continuous improvement. This suggests that the plan allocates non-monetary institutional resources, such as partnerships and collaborations, to climate action.",
+      "source": "Nillumbik-b-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "1.2 To consider climate impact in day-to-day operations and when making Council decisions a. Embed delivery of the Climate Action Plan within the CEO’s contract / performance plan b.",
+        "page": 21,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action, particularly in the form of staff responsibilities and roles. The documents outline a variety of actions and measures that involve the mobilisation of staff and institutional resources. For instance, the Heatwave Plan outlines specific roles and responsibilities for staff during heatwave events, including the activation of cooling centres, implementation of heat health support plans, and maintaining communication lines. The Climate Change Response and Mitigation Action Plan also outlines staff involvement in various climate action initiatives, such as monitoring and reporting on the council's energy consumption, advocating for government leadership in setting greenhouse gas reduction targets, and participating in joint procurement of renewable power. These actions clearly involve the allocation of staff time and expertise, demonstrating a commitment of institutional resources to climate action.",
+      "source": "Pyrenees-a-a12345678910.json",
+      "lga": "Pyrenees",
+      "quote": {
+        "content": "Customer Service Staff notified of Cooling Places. Managers of the facilities identified as cooling centres notified. Manager’s roster staff to ensure adequate staff available at cooler places.",
+        "page": 24,
+        "source": "Pyrenees-2020-heatwave-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's plan does allocate non-monetary institutional resources to climate action, particularly in the form of staff responsibilities and roles. The documents outline a variety of actions and programs that involve the mobilisation of staff resources. For instance, the Heatwave Plan details the roles of various council departments and staff in responding to heatwave events. This includes the Municipal Emergency Resource Officer, the Pyrenees Community Care Team Leader, and other staff who are trained in the heatwave response plan and allocated positions of responsibility. The Climate Change Response and Mitigation Action Plan also outlines staff roles in monitoring and reporting on the council's energy consumption, advocating for government leadership in setting targets and funding for greenhouse gas reduction, and participating in joint procurement of renewable power. Therefore, the plan does explicitly allocate staff or other non-monetary institutional resources to climate action.",
+      "source": "Pyrenees-b-a12345678910.json",
+      "lga": "Pyrenees",
+      "quote": {
+        "content": "Managers and their staff are trained by the Emergency Management team in the heatwave response plan and allocated positions of responsibility.",
+        "page": 13,
+        "source": "Pyrenees-2020-heatwave-plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific roles for staff members such as the 'Manager Assets', 'Biodiversity Officer', 'Emergency Management Officer', and 'Sustainability Coordinator'. These roles are assigned to oversee and implement various climate change adaptation actions. The plan also mentions the establishment of internal and external partnerships, indicating a collaborative approach to resource mobilisation. Furthermore, the plan details the need for ongoing reviews and monitoring, suggesting a commitment of staff time and expertise. However, while the plan does allocate institutional resources, it does not provide detailed information on the extent of these resources or how they will be managed or coordinated.",
+      "source": "SouthernGrampians-a-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific roles and responsibilities for staff members in relation to various climate change adaptation actions. For instance, the 'Manager Assets' is identified as the 'Action Owner' for the review of existing council road and infrastructure assets to assess viability under climate change. Similarly, the 'Biodiversity Officer' is designated as the 'Action Owner' for monitoring high impact invasive species that can negatively impact ecosystems. The plan also mentions the establishment of internal and external partnerships, indicating a collaborative approach to climate change adaptation involving various stakeholders. However, it is important to note that while the plan does allocate staff and institutional resources, the specifics of these allocations, such as the time commitment required from each staff member or the exact nature of the resources provided, are not detailed.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The local government's climate action plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a number of actions that involve the mobilisation of staff and other institutional resources. For instance, the plan includes the establishment of an internal Climate Oversight Committee with key decision-makers to support the integration of climate emergency response into Council decision-making. This indicates a clear allocation of staff resources to climate action. Additionally, the plan outlines the development of a tailored climate action plan for each internal division to support climate response throughout the organisation, which implies the allocation of staff time and expertise. The plan also includes the development and delivery of a climate change education and engagement program for Council staff, which suggests the allocation of institutional resources for staff training and capacity building in relation to climate action.",
+      "source": "Stonnington-a-a12345678910.json",
+      "lga": "Stonnington"
+    },
+    {
+      "answer": "The Stonnington 2021 Climate Emergency Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines a whole-of-Council approach to climate action, which includes the establishment of an internal Climate Oversight Committee with key decision-makers to support the integration of climate emergency response into Council decision-making. This indicates a clear allocation of staff resources to climate action. Additionally, the plan includes the development of a tailored climate action plan for each internal division to support climate response throughout the organisation, which suggests a broad institutional commitment to climate action. The plan also outlines the development and delivery of a climate change education and engagement program for Council staff, which represents an investment of non-monetary institutional resources in climate action.",
+      "source": "Stonnington-b-a12345678910.json",
+      "lga": "Stonnington"
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan includes the establishment of a Climate Action Steering Committee or Green Team to guide the implementation of new climate actions projects. This indicates a clear allocation of staff resources to climate action. Additionally, the plan includes the integration of climate change response and energy efficiency culture into staff recruitment and induction processes, which suggests an institutional commitment to climate action. The plan also advocates for the inclusion of community members in an Environment Reference Group to support the delivery of the Council's climate change aspirations, indicating a mobilisation of community resources for climate action.",
+      "source": "Strathbogie-a-a12345678910.json",
+      "lga": "Strathbogie"
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines several actions that involve the mobilisation of staff resources. For instance, it mentions the inclusion of information on the Council's climate change response in staff recruitment and induction processes, indicating an institutional commitment to climate action. The plan also proposes the establishment of a Climate Action Steering Committee or Green Team to guide the implementation of new climate action projects. This suggests the allocation of staff time and expertise to the cause. Furthermore, the plan advocates for the integration of ESD principles in the Local Government Infrastructure, which would likely involve the use of staff resources. Therefore, the plan does allocate non-monetary institutional resources, specifically staff resources, to climate action.",
+      "source": "Strathbogie-b-a12345678910.json",
+      "lga": "Strathbogie"
+    },
+    {
+      "answer": "The Climate Emergency Response Plan 2021-2031 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific actions, each with a designated lead and supporting teams. For instance, the 'Manager Community Strengthening' and 'Environmental Sustainability' team are tasked with promoting the Council’s Small Grants Environment Stream (MO9). Similarly, the 'Coordinator Community Emergency Management' and 'Facilities Management, Environmental Sustainability' teams are responsible for establishing a Climate Adapted Building demonstration site (A8). The plan also includes the 'Manager Planning and Development' and 'Environmental Sustainability' team joining the Council Alliance for the Sustainable Built Environment (C9). These examples demonstrate a clear allocation of staff resources to specific climate actions.",
+      "source": "SurfCoast-a-a12345678910.json",
+      "lga": "SurfCoast",
+      "quote": {
+        "content": "Action\nLead \nSupporting team/s\nPriority\nResources/Funding\nMO9\nPromote Council’s Small Grants Environment Stream, and \ndevelop the capacity of community groups and individuals to \nwrite successful grant applications.",
+        "page": 37,
+        "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Climate Emergency Response Plan 2021-2031 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific actions, each with a designated lead and supporting team/s, indicating a clear allocation of staff resources. For instance, the 'Manager Community Strengthening' and 'Environmental Sustainability' team are assigned to promote the Council’s Small Grants Environment Stream (MO9) and the Council’s Casuarina Program (M10). Similarly, the 'Coordinator Community Emergency Management' and 'Facilities Management, Environmental Sustainability' team are tasked with establishing a Climate Adapted Building demonstration site (A8). The 'Manager Planning and Development' and 'Environmental Sustainability' team are to join the Council Alliance for the Sustainable Built Environment (C9). These examples demonstrate a clear allocation of staff resources to specific climate actions. Furthermore, the plan also mentions the use of existing budgets for these actions, indicating the mobilisation of non-monetary institutional resources.",
+      "source": "SurfCoast-b-a12345678910.json",
+      "lga": "SurfCoast",
+      "quote": {
+        "content": "Action\nLead \nSupporting team/s\nPriority\nResources/Funding\nMO9\nPromote Council’s Small Grants Environment Stream, and \ndevelop the capacity of community groups and individuals to \nwrite successful grant applications.",
+        "page": 37,
+        "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's policy does allocate non-monetary institutional resources to climate action. The policy outlines specific tasks and actions related to climate change and energy efficiency, and assigns responsibility for these tasks to specific departments within the institution, such as the Natural Resource Management Department (NRM) and the Building Maintenance and Property Department. This allocation of tasks to specific departments implies that staff and other institutional resources will be mobilized to carry out these actions. However, the policy does not provide specific details on the number of staff or the exact nature of the resources that will be allocated.",
+      "source": "SwanHill-a-a12345678910.json",
+      "lga": "SwanHill",
+      "quote": {
+        "content": "Regularly review and update relevant plans and policies in relation to climate variability and change, and energy efficiency.",
+        "page": 15,
+        "source": "SwanHill-Sustainable-Living-Strategy.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The policy does allocate non-monetary institutional resources to climate action. It outlines specific tasks and actions related to climate change and energy efficiency, and assigns responsibility for these tasks to specific departments within the local government. For instance, the Natural Resource Management Department (NRM) and the Building Maintenance and Property Department are tasked with regularly reviewing and updating relevant plans and policies in relation to climate variability and change, and energy efficiency. The NRM is also tasked with developing an appropriate mechanism to measure greenhouse gas emissions. Furthermore, the policy outlines a timeline for these tasks, indicating a structured and planned approach to resource allocation. However, the policy does not provide specific details on the number of staff allocated to these tasks or the exact nature of the resources being committed.",
+      "source": "SwanHill-b-a12345678910.json",
+      "lga": "SwanHill",
+      "quote": {
+        "content": "ly review and update relevant plans and \npolicies in relation to climate variability and change, \nand energy efficiency.",
+        "page": 15,
+        "source": "SwanHill-Sustainable-Living-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's policy does allocate non-monetary institutional resources to climate action. The policy outlines several actions that would require the allocation of staff resources. For instance, the policy mentions the need to 'identify opportunities for green/blue infrastructure development', 'consider the impacts of climate change on storm events when planning renewal of infrastructure', and 'update relevant Council plans with sustainable stormwater management considerations'. These actions imply the involvement of staff in planning, implementing, and managing these initiatives. Furthermore, the policy also mentions the continuation of the 'staff Eco Leaders team to increase awareness and actions regarding environmental sustainability', which directly points to the allocation of staff resources for climate action. Therefore, it can be concluded that the policy does allocate non-monetary institutional resources, specifically staff resources, to climate action.",
+      "source": "Wangaratta-a-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "Continue the staff Eco Leaders team to increase awareness and actions regarding environmental sustainability.",
+        "page": 32,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The local government's policy does explicitly allocate non-monetary institutional resources to climate action. The policy outlines several actions that would require the allocation of staff resources. For instance, the policy mentions the need to 'identify opportunities for green/blue infrastructure development', 'consider the impacts of climate change on storm events when planning renewal of infrastructure', and 'update relevant Council plans with sustainable stormwater management considerations'. These actions imply the involvement of staff in planning, implementing, and managing these initiatives. Additionally, the policy mentions the continuation of the 'staff Eco Leaders team to increase awareness and actions regarding environmental sustainability', which directly involves staff in climate action. However, the policy does not provide specific details on the number of staff allocated, their roles, or the time they are expected to dedicate to these tasks.",
+      "source": "Wangaratta-b-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "▪ Continue the staff Eco Leaders team to increase awareness and actions regarding environmental sustainability.",
+        "page": 32,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The Wellington Sustainability Strategy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines specific roles for the council and key internal delivery partners in various actions related to climate change. For instance, the Sustainability and Finance departments are tasked with investigating and reporting on the potential long-term costs of climate change to Council service delivery and public infrastructure assets. The policy also mentions the role of the Built Environment department in reviewing and updating key decision-making tools to ensure climate change assessments are undertaken early in the development stage of capital works projects. Furthermore, the policy outlines the council's role in developing and delivering training packages for appropriate council staff to build climate change adaptation awareness and risk assessment into programs and services. These examples demonstrate a clear allocation of staff resources to climate action.",
+      "source": "Wellington-a-a12345678910.json",
+      "lga": "Wellington"
+    },
+    {
+      "answer": "The Wellington Sustainability Strategy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines specific roles for the council and key internal delivery partners in various actions related to climate change. For instance, the Sustainability and Finance departments are tasked with investigating and reporting on the potential long-term costs of climate change to Council service delivery and public infrastructure assets. The policy also mentions the role of the Built Environment and Sustainability departments in reviewing and updating key decision-making tools to ensure climate change assessments are undertaken early in the development stage of capital works projects. Furthermore, the policy outlines the council's role in developing and delivering training packages for appropriate council staff to build climate change adaptation awareness and risk assessment into programs and services. These examples demonstrate a clear allocation of staff and institutional resources towards climate action.",
+      "source": "Wellington-b-a12345678910.json",
+      "lga": "Wellington",
+      "quote": {
+        "content": "1.1\nInvestigate and report on potential long-\nterm costs of climate change to Council \nservice delivery and public infrastructure \nassets through risk and resilience pathway \nplanning, outlining hazard and risk \nreduction options.",
+        "page": 24,
+        "source": "Wellington-Sustainability-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Climate Response Plan 2023-2026 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan includes a budget for new staff resources and operational costs to implement the actions outlined in the plan. For instance, the plan identifies a need for a Sustainability Project Officer position to be made permanent, with an additional operational budget of $21,465 per annum. The plan also proposes the creation of an Energy Projects and Utilities Officer position. Furthermore, the plan outlines various actions to be delivered by existing staff resources, such as the integration of climate change information across all areas of Council’s website and other communication platforms, and the review of the staff induction program to include greater education on sustainability and climate change. Therefore, the plan not only allocates financial resources but also mobilizes institutional resources in the form of staff roles and responsibilities for climate action.",
+      "source": "Whitehorse-a-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "*$21,465 per annum is identified against Action 1a as additional operational budget is required to make the current casual Sustainability Project Officer position permanent.",
+        "page": 11,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Climate Response Plan 2023-2026 indeed allocates both staff and other non-monetary institutional resources to climate action. The plan outlines the need for additional staff resources to implement various actions. For instance, it identifies a need for a permanent Sustainability Project Officer position, and it proposes the creation of an Energy Projects and Utilities Officer position. The plan also allocates existing staff resources to various actions, such as updating the Municipal Emergency Management Plan to better plan for climate change and associated risks, and delivering a coordinated Sustainability in Schools and Kindergartens program. Furthermore, the plan outlines the need for new staff resources for actions such as increasing the uptake of electric vehicles in the community and building capacity within the community for local climate-related projects. Therefore, the plan explicitly allocates both staff and other non-monetary institutional resources to climate action.",
+      "source": "Whitehorse-b-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "*$21,465 per annum is identified against Action 1a as additional operational budget is required to make the current casual Sustainability Project Officer position permanent.",
+        "page": 11,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's climate change adaptation plan does allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific actions, their priority, timing, and the responsible department or team. For instance, the plan assigns the 'Planning and Building' department to work with NECMA and CFA to identify a measurable trigger point to review the adequacy of planning scheme mapping. The 'Strategic Asset Management' is tasked with continuing to implement, review, and revise the Stormwater drainage Asset Management Plan considering climate change impacts and sustainability measures. The 'Sustainability' team is responsible for staying abreast of external programs to promote and help fund opportunities for actions. The 'Emergency Response' team is tasked with ongoing review and revision of emergency management/response planning. The plan also mentions that the Director of Business Services, through the Sustainability team, has overall responsibility for the Adaptation Plan and will report progress on implementing the Adaptation Plan to executive level every six months.",
+      "source": "Wodonga-a-a12345678910.json",
+      "lga": "Wodonga",
+      "quote": {
+        "content": "The Director of Business Services through the Sustainability team has overall responsibility for the Adaptation Plan and will report progress on implementing the Adaptation Plan to executive level every six months.",
+        "page": 21,
+        "source": "Wodonga-2017-Climate_Change_Adaptation_Action_Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government's climate change adaptation plan does allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific actions, their priority, timing, and the department responsible for their implementation. For instance, the 'Planning and Building' department is tasked with working with NECMA and CFA to identify a measurable trigger point to review the planning scheme mapping when temperatures rise by 1 degree. This action is to be undertaken within 2 years and is given a high priority. Similarly, the 'Emergency Response' department is responsible for the ongoing review and revision of emergency management/response planning within 2 years. The 'Sustainability' department is tasked with staying abreast of external programs to promote and help fund opportunities for actions. The plan also mentions that the Director of Business Services, through the Sustainability team, has overall responsibility for the Adaptation Plan and will report progress on implementing the Adaptation Plan to executive level every six months.",
+      "source": "Wodonga-b-a12345678910.json",
+      "lga": "Wodonga",
+      "quote": {
+        "content": "The Director of Business Services through the Sustainability team has overall responsibility for the Adaptation Plan and will report progress on implementing the Adaptation Plan to executive level every six months.",
+        "page": 21,
+        "source": "Wodonga-2017-Climate_Change_Adaptation_Action_Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The local government policy does explicitly allocate staff time to climate action. The policy outlines various actions related to climate change, and for each of these actions, it mentions that staff time will be included in the costs. This indicates that the local government is allocating non-monetary institutional resources, specifically staff time, to implement these actions. For instance, the policy mentions the development of strategies and policies, the development of budget bids, and the monitoring of climate change impacts on road maintenance and council buildings as areas where staff time will be allocated. This allocation of staff time is a clear indication of the local government's commitment to addressing climate change and integrating climate considerations into its policy and strategy development processes.",
+      "source": "Wyndham-a-a12345678910.json",
+      "lga": "Wyndham"
+    },
+    {
+      "answer": "The local government policy does explicitly allocate staff time to climate action. The policy outlines various actions related to climate change, such as integrating climate considerations into policy and strategy development, monitoring climate impacts on road maintenance and council buildings, and engaging with the community on climate change. In each of these actions, 'staff time' is explicitly mentioned as a cost, indicating that staff resources are being allocated to these climate actions. However, the policy does not provide specific details on the number of staff involved, the amount of time they will spend on these actions, or the specific roles they will play. Therefore, while the policy does allocate staff resources to climate action, the lack of detail makes it difficult to assess the adequacy of these resources.",
+      "source": "Wyndham-b-a12345678910.json",
+      "lga": "Wyndham"
+    },
+    {
+      "answer": "The local government's climate emergency plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines a variety of actions that involve the mobilisation of existing resources and staff to address climate change. For instance, the plan mentions the delivery of community programs to accelerate climate action, which would require the involvement of existing staff and resources. The plan also mentions the need to embed climate resilience into all of Yarra Council’s work and support staff to understand the climate emergency and to deliver climate responses as part of their roles. Furthermore, the plan outlines the need to work with and advocate to other levels of government to deploy policy and economic measures that both enable recovery from the pandemic and respond to the climate crisis. This would also require the mobilisation of existing staff and resources.",
+      "source": "Yarra-a-a12345678910.json",
+      "lga": "Yarra"
+    },
+    {
+      "answer": "The local government's climate emergency plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines a variety of actions that involve the mobilisation of existing resources and staff to address climate change. For instance, the plan mentions the delivery of community programs to accelerate climate action, which would require staff involvement. It also mentions the development of an Integrated Water Management Plan, which would require the use of existing institutional resources. Furthermore, the plan discusses the need to embed climate resilience into all of Yarra Council’s work and support staff to understand the climate emergency and to deliver climate responses as part of their roles. This indicates a clear allocation of staff resources towards climate action. However, it should be noted that while the plan does allocate resources, it also mentions that there are budget constraints due to the COVID-19 pandemic, which may affect the extent of resource allocation.",
+      "source": "Yarra-b-a12345678910.json",
+      "lga": "Yarra"
+    },
+    {
+      "answer": "The local government's plan does allocate non-monetary institutional resources to climate action. The plan outlines specific actions that various departments within the council will undertake to respond to climate change. This includes planning actions annually in accordance with the council’s organisational planning framework and reporting on progress through the council’s corporate performance reporting system. The plan also mentions the establishment of a Resilient Communities Program and a Sustainable Business Program, which would likely involve the allocation of staff resources. Furthermore, the plan includes a commitment to work with townships to develop Community Resilience Plans and to update the council’s Community Grants Program to encourage activities that support climate adaptation and/or emission reduction. These actions suggest a significant commitment of staff resources to climate action.",
+      "source": "YarraRanges-a-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "This work across the entire organisation will \nensure we can reach our goals. The actions in this document outline the role that every \nteam within Council will play in responding to climate \nchange.",
+        "page": 2,
+        "source": "YarraRanges-2020-liveable-climate-action-plan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a strategic approach to reducing emissions and adapting to climate change, which involves the entire organisation. It is clear from the documents that every department within the council has a role to play in implementing the plan. For instance, each department is required to plan actions annually in accordance with the council’s organisational planning framework and report on progress through the council’s corporate performance reporting system. The plan also includes specific actions such as establishing a Resilient Communities Program, developing a comprehensive Sustainable Business Program, and updating the Community Grants Program to encourage activities that support climate adaptation and/or emission reduction. These actions imply the allocation of staff and other institutional resources to climate action.",
+      "source": "YarraRanges-b-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "This work across the entire organisation will \nensure we can reach our goals. The actions in this document outline the role that every \nteam within Council will play in responding to climate \nchange.",
+        "page": 2,
+        "source": "YarraRanges-2020-liveable-climate-action-plan.pdf",
+        "search_score": 0.96
+      }
+    }
+  ]
+}

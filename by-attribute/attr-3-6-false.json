@@ -1,0 +1,563 @@
+{
+  "attribute": 4,
+  "question": 6,
+  "finding": false,
+  "num": 111,
+  "responses": [
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive Climate Action Plan, including a commitment to achieving net zero greenhouse gas emissions from Council operations by July 2023, and various mitigation and adaptation measures, they do not explicitly require all council activities to align with this policy. The documents do indicate that the council is committed to climate action and has identified a pathway to achieve their emissions target, which includes various strategies and measures. However, the requirement for all council activities to align with this policy is not explicitly stated.",
+      "source": "Alpine-a-a12345678910.json",
+      "lga": "Alpine"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive Climate Action Plan, including a commitment to achieving net zero greenhouse gas emissions from Council operations by July 2023, and various mitigation and adaptation measures, they do not specifically mandate that all council activities align with this policy. The documents do, however, emphasize the importance of climate action and resilience, and indicate that the council is accountable for the impact of its operations on global greenhouse gas emissions. They also mention the development of a Climate Adaptation and Resilience Plan to address the impacts of changing weather patterns on Council's assets and the community. However, the requirement for all council activities to align with the climate policy is not explicitly stated.",
+      "source": "Alpine-b-a12345678910.json",
+      "lga": "Alpine"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. The documents do provide evidence of the City of Ballarat's commitment to achieving net zero emissions by 2030 and outline a series of actions and strategies to achieve this goal. These include workshops, stakeholder engagement, and annual reporting on progress. However, there is no specific mandate that all council activities must align with this climate policy. The documents emphasize collaboration with community, businesses, and other levels of government, and the need for cross-sectoral collaboration, but do not explicitly require all council activities to align with the climate policy.",
+      "source": "Ballarat-a-a12345678910.json",
+      "lga": "Ballarat"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. The City of Ballarat's Net Zero Emissions Plan outlines a roadmap for collaborative action to achieve net zero emissions by 2030. It includes a series of stakeholder consultation workshops, annual reporting on progress, and a review in 2025. The plan identifies key areas of action for the Ballarat community, including net zero business, homes, new developments, transport, and waste. However, it does not specifically mandate that all council activities align with this climate policy. The plan does emphasize the importance of cross-sectoral collaboration and strategic direction, but it stops short of requiring all council activities to adhere to the climate policy.",
+      "source": "Ballarat-b-a12345678910.json",
+      "lga": "Ballarat"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. They do, however, emphasize the importance of climate action and the need for all staff to participate in these efforts. The policy outlines plans to establish a Climate Action Steering Committee to guide the implementation of new climate action projects and foster collaboration across the organization. It also mentions the implementation of a cultural change program to embed climate action as a responsibility of all staff. However, these actions do not necessarily imply that all council activities must align with the climate policy. The documents also mention the use of SMART goals and the review of internal policies for consistency, but these are not explicitly linked to the alignment of all council activities with the climate policy.",
+      "source": "Banyule-a-a12345678910.json",
+      "lga": "Banyule"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a number of initiatives and strategies aimed at promoting a culture of climate action within the council. These include the establishment of a Climate Action Steering Committee, the implementation of a cultural change program, and the identification of best practice tools and techniques for embedding a culture of climate action within the council. The documents also mention the need for all staff to participate in these efforts and for climate action to become the new norm. However, these are general statements about the council's intentions and do not constitute a clear directive that all council activities must be aligned with climate policy.",
+      "source": "Banyule-b-a12345678910.json",
+      "lga": "Banyule"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the council has a comprehensive Climate Change Action Plan for 2020-2030, which includes specific, time-bound, and resourced actions. The plan is intended to guide internal decision-making about operational priorities, investment, budgets, and resource allocations. It also mentions integrating climate risk into financial decision-making and council reporting processes. However, these references do not necessarily mean that all council activities must align with the climate policy. The documents also highlight the council's role in advocating for climate action to state and federal governments, and in engaging with the community, businesses, and the agricultural sector. But again, these actions do not explicitly require all council activities to align with the climate policy.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the Climate Change Action Plan 2020 - 2030 does outline a comprehensive approach to addressing climate change, including actions for the Council, households, businesses, industry, and the agricultural sector, it does not mandate that all council activities must align with this policy. The plan does state that the Council will use the plan to guide internal decision making about operational priorities, investment, budgets, and resource allocations. However, this does not necessarily mean that all activities must align with the climate policy. The documents also mention that the Council will advocate to State and Federal Government for support in achieving the outcomes of the Climate Change Action Plan, but again, this does not explicitly require all council activities to align with the climate policy.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline the council's commitment to addressing climate change, including the identification of climate change impacts and the implementation of adaptive strategies, there is no explicit requirement stated that all council activities must align with this policy. The documents do mention that the council will be accountable for the actions it delivers and the immediate outcomes that are expected to be attained, and that it will show leadership in environmental sustainability, monitor its progress, report to the community, and involve the community in planning for improvement. However, these statements do not specifically mandate that all council activities must be aligned with climate policy.",
+      "source": "Benalla-a-a12345678910.json",
+      "lga": "Benalla"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline the council's commitment to addressing climate change, including the identification of climate change impacts and the implementation of adaptive strategies, there is no explicit requirement stated that all council activities must align with this climate policy. The documents do mention that the council will be accountable for the actions it delivers and the immediate outcomes that are expected to be attained, and that it will show leadership in environmental sustainability. However, these statements do not specifically mandate that all council activities must be in alignment with the climate policy.",
+      "source": "Benalla-b-a12345678910.json",
+      "lga": "Benalla"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents provide a detailed outline of the local government's Climate Action Plan, including specific actions and their alignment with the plan's objectives, there is no explicit requirement stated that all council activities must align with this policy. The documents do indicate that certain actions are aligned with the Climate Action Plan and that these actions support specific targets, such as emission reduction. However, this does not equate to a mandate that all council activities must adhere to the climate policy. It is also important to note that while the documents outline ongoing actions and future plans, they do not provide a comprehensive overview of all council activities.",
+      "source": "Boroondara-a-a12345678910.json",
+      "lga": "Boroondara"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a number of actions and initiatives that align with the Climate Action Plan, such as implementing the Sustainable Council Building Policy, responding to calls for submissions that align with Climate Action Plan objectives, and participating in the Eastern Alliance for Greenhouse Action, they do not mandate that all council activities must adhere to this policy. The documents also detail various actions related to climate change, such as increasing funding for climate action grants, promoting council action on climate change, and considering environmental sustainability in investment decisions. However, these actions are presented as part of a specific plan or strategy, rather than as a requirement for all council activities.",
+      "source": "Boroondara-b-a12345678910.json",
+      "lga": "Boroondara"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the policy does outline a number of actions and responsibilities related to climate change, such as managing energy and water consumption, planning for climate change risks, and setting emission goals, it does not explicitly require all council activities to align with these climate-related initiatives. The policy does indicate that the council must responsibly manage energy and water consumption, promote sustainability, and prepare a Municipal Public Health and Wellbeing Plan with consideration of climate change. However, these directives do not necessarily imply that all council activities must be aligned with climate policy. Therefore, without explicit language stating that all council activities must align with climate policy, the answer to the question is no.",
+      "source": "Campaspe-a-a12345678910.json",
+      "lga": "Campaspe"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the policy does outline a number of actions and strategies related to climate change, such as managing energy and water consumption, planning for climate change risks, and setting emission goals, it does not explicitly require all council activities to align with these climate-related policies. The policy does indicate that the council must responsibly manage energy and water consumption and promote sustainability, but it does not explicitly state that all activities must align with these goals. Furthermore, the policy outlines a number of actions that the council 'chooses' to take, such as leading by example in responding to climate change and promoting sustainable energy options, but again, these are not mandated for all council activities.",
+      "source": "Campaspe-b-a12345678910.json",
+      "lga": "Campaspe"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the importance of climate change adaptation and mitigation, and outline a variety of actions and strategies to address climate risks, they do not mandate that all council activities must align with these policies. The documents discuss the development of a 10-year action plan, the need for a midterm review, and the identification of high-risk areas for development. They also mention the need to update council policies to include climate change adaptation measures and to support climate resilience. However, these are specific actions or recommendations rather than a blanket requirement for all council activities to align with climate policy.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, emphasize the importance of integrating climate change adaptation measures into council policies and operations. The Cardinia Shire Council has developed a 10-year costed action plan to address urgent climate risks and to strengthen the adaptive capacity of the community and Council to the immediate and imminent localised risks associated with the intensifying impacts of climate change. The documents also mention the need for a midterm review of progress towards the action plan, and the importance of updating council policies to include climate change adaptation measures. However, there is no explicit requirement stated that all council activities must align with climate policy.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do provide evidence of the City of Casey's commitment to reducing greenhouse gas emissions and investing in energy efficiency and renewable technology, they do not specifically mandate that all council activities align with these goals. The documents outline various strategies and targets for emissions reduction and renewable energy, and they detail the City's past successes in these areas. However, they do not provide a clear directive that all council activities must be in line with these climate policies. Therefore, without explicit evidence, the answer to the question must be negative.",
+      "source": "Casey-a-a12345678910.json",
+      "lga": "Casey"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do provide evidence of the City of Casey's commitment to reducing greenhouse gas emissions and investing in energy efficiency and renewable technology, they do not specifically mandate that all council activities must align with these climate policies. The documents outline various strategies and targets for emissions reduction and renewable energy, and they detail the council's past and planned actions in these areas. However, they do not explicitly require all council activities to be in line with these climate policies. Therefore, the answer to the question is negative.",
+      "source": "Casey-b-a12345678910.json",
+      "lga": "Casey"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do highlight the council's commitment to mitigating and adapting to climate change, including a goal of net zero emissions for council operations by 2030, they do not explicitly require all council activities to align with this policy. The documents mention various strategies and actions related to climate change, such as promoting environmental sustainability, planning for climate change risks, and implementing a climate action plan. However, these are presented as specific initiatives or areas of focus, rather than as a blanket requirement for all council activities.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing climate change, including a goal for net zero emissions by 2030, six priority areas for climate action, and various initiatives for community education and collaboration, they do not specifically mandate that all council activities must align with these climate policies. The documents do mention the council's legislative obligations under various acts related to climate change and the importance of mitigating and planning for climate change risks in the council's role. However, these references do not constitute a clear directive that all council activities must be aligned with climate policy.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline a Climate Change Action Plan that includes a range of actions related to climate change mitigation and adaptation, such as emergency management planning, land use planning, urban greening, biodiversity conservation programs, and community engagement and education. The plan also includes a commitment to reduce operational emissions and support communities and businesses in becoming more resilient to climate change. However, there is no explicit requirement stated that all council activities must align with this climate policy. The documents do indicate that the council's climate change actions are informed by a range of activities, including reviews of previous strategies, community surveys, stakeholder workshops, and discussions with various groups. The council also prioritizes actions based on their level of control and resource limitations.",
+      "source": "ColacOtway-a-a12345678910.json",
+      "lga": "ColacOtway"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. They outline a range of actions and strategies related to climate change, including emergency management planning, land use planning, urban greening, biodiversity conservation programs, and community engagement and education. The documents also mention the development of an Environmental Sustainability Strategy and a Climate Change Action Plan, which include goals and actions related to climate change. However, there is no explicit requirement stated that all council activities must align with these policies. The documents do suggest that the council is committed to reducing its operational emissions and supporting communities and businesses to become more resilient to climate change, but this does not necessarily mean that all council activities must align with the climate policy.",
+      "source": "ColacOtway-b-a12345678910.json",
+      "lga": "ColacOtway"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to environmental sustainability and outline various strategies related to waste, energy, natural assets, pest plants and animals, community capacity, and climate variability, they do not mandate that all council activities must align with a specific climate policy. The council's approach appears to be more about setting goals and strategies in various areas, including climate variability, and working towards those goals through annual action plans. However, the documents do not provide evidence of a requirement for all council activities to be aligned with a climate policy.",
+      "source": "Corangamite-a-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to environmental sustainability and outline various strategies related to waste, energy, natural assets, pest plants and animals, community capacity, and climate variability, they do not mandate that all council activities must align with a specific climate policy. The council's approach appears to be more about integrating environmental considerations into various aspects of its operations and working with the community to improve environmental outcomes. However, the absence of a clear directive that all council activities must align with a specific climate policy suggests that such alignment is not a mandatory requirement.",
+      "source": "Corangamite-b-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the council's Environmental Sustainability Strategy is designed to address environmental and sustainability challenges, including climate change, and that it aligns with the United Nations Sustainability Development Goals. The strategy includes goals related to the conservation of the natural environment, sustainable management of natural resources, and community participation in the climate response. It also mentions the importance of resilience in the face of climate change and natural disasters. However, these documents do not explicitly require all council activities to align with this climate policy.",
+      "source": "EastGippsland-a-a12345678910.json",
+      "lga": "EastGippsland"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the council's Environmental Sustainability Strategy is designed to address environmental and sustainability challenges, including climate change, and that it aligns with the United Nations Sustainability Development Goals. The strategy includes goals related to the conservation of the natural environment, sustainable management of natural resources, and community participation in the climate response. It also mentions the importance of resilience in the face of climate change and natural disasters. However, these documents do not explicitly require all council activities to align with this climate policy.",
+      "source": "EastGippsland-b-a12345678910.json",
+      "lga": "EastGippsland"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive plan for reducing greenhouse gas emissions and moving towards carbon neutrality, they do not mandate that all council activities must adhere to this policy. The documents detail various actions and strategies, such as energy efficiency improvements, use of renewable energy, and public reporting on progress. However, these are presented as part of a specific 'Towards Zero Emissions Plan', rather than a requirement for all council activities. Furthermore, the documents mention that the list of actions is not exhaustive and emerging opportunities will be considered, suggesting flexibility in their approach.",
+      "source": "Frankston-a-a12345678910.json",
+      "lga": "Frankston"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive plan for reducing greenhouse gas emissions and moving towards carbon neutrality, they do not mandate that all council activities must be in alignment with this policy. The documents detail various actions and strategies, such as energy efficiency improvements, use of renewable energy, and public reporting on progress. However, these are specific initiatives under the Towards Zero Emissions Plan and do not necessarily extend to all council activities. Furthermore, the documents mention that the list of actions is not exhaustive and emerging opportunities will be considered, suggesting flexibility in the approach to climate policy alignment.",
+      "source": "Frankston-b-a12345678910.json",
+      "lga": "Frankston"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the policy outlines a strategic framework for mitigating and adapting to climate change, and includes actions such as reducing emissions, transitioning to renewable energy, and integrating climate change principles into decision-making, it does not specifically mandate that all council activities must align with these climate change initiatives. The policy does emphasize the importance of integrating climate change considerations into decision-making and developing new procedures to address climate change, but it stops short of requiring all council activities to be in alignment with the policy.",
+      "source": "Gannawarra-a-a12345678910.json",
+      "lga": "Gannawarra"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the policy outlines a strategic framework for mitigating and adapting to climate change, and includes actions such as reducing emissions, transitioning to renewable energy, and integrating climate change principles into decision-making, it does not specifically mandate that all council activities must align with these climate change initiatives. The policy does emphasize the importance of integrating climate change considerations into decision-making and developing new procedures to address climate change, but it stops short of requiring all council activities to be in alignment with the policy.",
+      "source": "Gannawarra-b-a12345678910.json",
+      "lga": "Gannawarra"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the council has a strategic plan in place to address environmental issues, including climate change. This plan includes the development of action plans with clear targets, the incorporation of robust Environmental-Social-Economic decision-making processes into council governance, and the implementation of a greenhouse gas reduction strategy. The council also plans to engage the community in discussions about the environmental impact of climate change. However, these strategies and actions do not necessarily imply that all council activities must align with climate policy. The documents do not provide clear evidence to support a positive answer to the question.",
+      "source": "Glenelg-a-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the council has a strategic plan in place to address environmental issues, including climate change. This plan includes the development of action plans with clear targets, the incorporation of robust Environmental-Social-Economic decision-making processes into council governance, and the implementation of a greenhouse gas reduction strategy. The council also plans to engage the community in discussions about the environmental impact of climate change. However, these strategies and actions do not necessarily imply that all council activities must align with climate policy. The documents do not provide clear evidence to support a positive answer to the question.",
+      "source": "Glenelg-b-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents provide a detailed outline of the council's climate action plan, including various actions and strategies to mitigate and adapt to climate change, there is no specific requirement mentioned that all council activities must align with this policy. The policy does emphasize the importance of embedding climate action into various council processes, such as project delivery, grant processes, and building projects. It also mentions the development of an Environmentally Sustainable Design (ESD) Policy and the inclusion of climate change considerations in the council's project management framework. However, these actions do not necessarily imply that all council activities must be aligned with the climate policy.",
+      "source": "GoldenPlains-a-a12345678910.json",
+      "lga": "GoldenPlains"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline a series of actions and strategies that the council plans to implement in response to climate change, including embedding climate action into council actions, project delivery processes, building projects, grant processes, and induction practices. However, these actions are specific to certain areas and do not necessarily imply that all council activities must align with climate policy. The documents also mention the development of an Environmentally Sustainable Design (ESD) Policy and a Climate Emergency course for council staff, but these are specific initiatives rather than a blanket requirement for all council activities. Therefore, while the council clearly prioritizes climate action in certain areas, the documents do not provide clear evidence that all council activities must be aligned with climate policy.",
+      "source": "GoldenPlains-b-a12345678910.json",
+      "lga": "GoldenPlains"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing climate change and environmental sustainability, they do not specifically mandate that all council activities must align with these goals. The documents outline various strategies and actions related to climate change, such as assessing climate risk and vulnerability, incorporating evidence-based planning into decision-making processes, and promoting sustainable outcomes. However, these are presented as specific initiatives or projects, rather than as a blanket requirement for all council activities. Furthermore, while the documents mention the need for strategic planning and decision-making to consider climate and environmental risks, this is not the same as requiring all activities to align with a specific climate policy.",
+      "source": "GreaterBendigo-a-a12345678910.json",
+      "lga": "GreaterBendigo"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate a strong commitment to integrating climate change considerations into various aspects of council operations. For instance, the documents mention the development of a Climate & Ecological Emergency Policy, the embedding of climate change considerations into the Council's 2021-25 Council Plan and other strategic documents, and the inclusion of climate change roles and responsibilities in position descriptions. The documents also mention the development of organisational KPIs to monitor progress towards climate objectives. However, these measures do not necessarily equate to a requirement for all council activities to align with climate policy.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate a strong commitment to integrating climate change considerations into various aspects of council planning and decision-making. For instance, the documents mention the development of a Climate & Ecological Emergency Policy, the embedding of climate change considerations into the Council's 2021-25 Plan and other strategic documents, and the inclusion of climate change roles and responsibilities in position descriptions. The documents also mention the development of organisational KPIs to monitor progress towards climate objectives. However, these measures do not necessarily equate to all council activities being required to align with climate policy.",
+      "source": "GreaterDandenong-b-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents emphasize the importance of integrating climate action into decision-making processes and prioritizing climate over financial outcomes, they do not mandate that all council activities must be aligned with the climate policy. The documents highlight the need for a coordinated approach to climate action, the development of a climate-conscious procurement policy, and the importance of considering climate change risks in new strategies and plans. However, these points do not equate to a requirement for all council activities to align with the climate policy.",
+      "source": "GreaterGeelong-a-a12345678910.json",
+      "lga": "GreaterGeelong"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents emphasize the importance of integrating climate action into decision-making processes and prioritizing climate over financial outcomes, they do not mandate that all council activities must be aligned with the climate policy. The documents highlight the need for a coordinated approach to climate action, the development of a climate-conscious procurement policy, and the importance of considering climate change risks in new strategies and plans. However, these points do not equate to a requirement for all council activities to be aligned with the climate policy.",
+      "source": "GreaterGeelong-b-a12345678910.json",
+      "lga": "GreaterGeelong"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. They outline the council's strategic priorities in response to the climate emergency, which include demonstrating climate change leadership, accelerating the transition to net zero emissions communities, building a climate-resilient community, and supporting a thriving, climate-smart local agricultural sector. The council's role is described as driving community emissions reductions through its leadership role, local understanding, and established community and stakeholder networks. The documents also mention the council's support for residents and businesses in reducing emissions, increasing public awareness of climate change impacts, promoting knowledge sharing and education on energy efficiency and renewable energy technology, and investing in sustainable and alternative transport. However, there is no explicit requirement stated that all council activities must align with these climate policies.",
+      "source": "GreaterShepparton-a-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. They outline the council's strategic priorities in response to the climate emergency, which include demonstrating climate change leadership, accelerating the transition to net zero emissions communities, building a climate-resilient community, and supporting a thriving, climate-smart local agricultural sector. The council's role in climate action is highlighted, with emphasis on its unique position to drive community emissions reductions due to its leadership role, local understanding, and established community and stakeholder networks. However, there is no explicit requirement stated that all council activities must align with these climate policies.",
+      "source": "GreaterShepparton-b-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing climate change through various initiatives, such as reducing greenhouse gas emissions, promoting renewable energy, and implementing a Sustainable Hepburn Strategy, they do not explicitly mandate that all council activities must align with these climate policies. The documents also mention the development of a Sustainability and Climate Change policy, but it is not explicitly stated that all council activities must adhere to this policy. Therefore, while the council clearly prioritizes climate change mitigation and adaptation in its activities, it does not explicitly require all activities to align with a specific climate policy.",
+      "source": "Hepburn-a-a12345678910.json",
+      "lga": "Hepburn"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing climate change through various initiatives, such as reducing greenhouse gas emissions, promoting renewable energy, and implementing a Sustainable Hepburn Strategy, they do not explicitly mandate that all council activities must align with these climate policies. The documents also mention the development of a Sustainability and Climate Change policy, but it is not explicitly stated that all council activities must adhere to this policy. Therefore, while the council clearly prioritizes climate change and sustainability in its activities, it does not explicitly require all activities to align with a specific climate policy.",
+      "source": "Hepburn-b-a12345678910.json",
+      "lga": "Hepburn"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. They do, however, outline a Climate Change Adaptation Strategy, which includes measures such as incorporating climate change and water availability scenarios into council asset management plans, embedding climate change and water availability risk assessment into future planning, and considering and implementing alternative service delivery models. The documents also mention the need for community engagement on council plans and strategies to adapt to climate change. However, these measures do not necessarily imply that all council activities must be aligned with the climate policy, but rather that climate change considerations should be integrated into certain aspects of council planning and decision-making.",
+      "source": "Hindmarsh-a-a12345678910.json",
+      "lga": "Hindmarsh"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. They do, however, outline a Climate Change Adaptation Strategy, which includes measures the council can adopt to address risks and act on opportunities related to climate change. The strategy focuses on the impact of climate change and reduced water availability across various themes, including the local economy, utilities infrastructure, community infrastructure, and the council's capacity to meet community needs as climate and water availability changes. The strategy proposes actions such as incorporating climate change and water availability scenarios into council asset management plans, embedding climate change and water availability risk assessment into future planning, and undertaking community engagement on council plans and strategies to adapt to climate change. However, these actions are proposed within the context of the strategy and do not necessarily imply that all council activities must align with the climate policy.",
+      "source": "Hindmarsh-b-a12345678910.json",
+      "lga": "Hindmarsh"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing climate change, including a vision to reduce greenhouse gas emissions, increase tree canopy, and increase water use from alternative sources, they do not specifically mandate that all council activities must align with these climate policies. The documents outline various actions and strategies to address climate change, such as the implementation of a communications and engagement plan, providing advice services and programs, and seeking partnership and funding opportunities. However, these are specific actions related to the climate change policy, rather than a requirement for all council activities to align with the policy.",
+      "source": "HobsonsBay-a-a12345678910.json",
+      "lga": "HobsonsBay"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing climate change, including a vision to reduce greenhouse gas emissions, increase tree canopy, and support net zero and climate resilient buildings, they do not specifically mandate that all council activities must align with these climate policies. The documents outline various actions and strategies related to climate change, such as the implementation of a communications and engagement plan, the provision of advice services, and the seeking of partnership and funding opportunities. However, these are presented as specific actions within the climate change policy, rather than a requirement for all council activities to align with the policy.",
+      "source": "HobsonsBay-b-a12345678910.json",
+      "lga": "HobsonsBay"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing climate change and outline various actions and strategies to reduce emissions, they do not explicitly require all council activities to align with these climate policies. The documents mention the development of an implementation plan with targets, responsibilities, and budget once the detailed program design is complete. They also mention the establishment of a community advisory group focused on climate action and the review and evaluation of Kingston's community emissions reduction action plan. However, these actions do not necessarily imply that all council activities must align with the climate policy.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a comprehensive plan for addressing climate change, including various actions and strategies, they do not specifically mandate that all council activities must align with this policy. The documents do mention that the council is committed to re-orientating its operations to respond holistically to the climate emergency and that organisational accountability will be coordinated via the council's Governance team. However, this does not necessarily imply that all activities must align with the climate policy. It is also mentioned that the council will develop an implementation plan with targets, responsibilities, and budget once the detailed program design is complete. But again, this does not explicitly state that all council activities must be aligned with the climate policy.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive Climate Response Plan, including principles for action and specific initiatives, there is no explicit requirement stated that all council activities must align with this policy. The policy does mention that key Council policies will be reviewed to ensure climate change impacts are considered during decision making, and that a new section titled ‘Climate Change Considerations’ will be introduced in the Council report template. However, these measures do not necessarily equate to a mandate that all council activities must align with the climate policy. Therefore, the question cannot be answered in the affirmative based on the provided documents.",
+      "source": "Knox-a-a12345678910.json",
+      "lga": "Knox"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do provide a comprehensive outline of the council's Climate Response Plan, including its guiding principles and planned actions, there is no specific requirement mentioned that all council activities must align with this policy. The documents do mention that the council will review key policies to ensure climate change impacts are considered during decision making and that future council reports will be assessed against the Climate Response Plan. However, this does not necessarily mean that all council activities must be aligned with the climate policy. It is also worth noting that the documents emphasize the importance of community involvement, suggesting that the council's approach to climate change is not solely focused on its own activities but also on broader community actions.",
+      "source": "Knox-b-a12345678910.json",
+      "lga": "Knox"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the council has shown a strong commitment to transitioning to a low carbon economy, as evidenced by the adoption of the policy 'Positioning Latrobe City for a Low Carbon Emissions Future' and the establishment of a Low Carbon Emissions Future Transition Committee, there is no specific mandate that all council activities must align with this policy. The council has indeed taken proactive steps, such as working on specific projects and collaborating with various stakeholders, to address climate change and reduce carbon emissions. However, these actions seem to be part of a broader strategy rather than a requirement for all council activities.",
+      "source": "Latrobe-a-a12345678910.json",
+      "lga": "Latrobe"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. The council has indeed shown commitment to transitioning to a low carbon economy, as evidenced by the adoption and implementation of the policy 'Positioning Latrobe City for a Low Carbon Emissions Future'. The council has also demonstrated its proactive approach by working on specific projects and collaborating with various stakeholders. However, there is no specific mention or requirement that all council activities must be aligned with this climate policy. The documents do highlight the council's focus on job security, economic development, and community engagement, but these are not explicitly tied to the climate policy.",
+      "source": "Latrobe-b-a12345678910.json",
+      "lga": "Latrobe"
+    },
+    {
+      "answer": "The provided documents do not explicitly state that all council activities must be aligned with climate policy. The documents outline a strategic plan for environmental sustainability, with specific actions related to energy management, water management, biodiversity, land management and planning, sustainable transport, waste, and business development. While these actions are likely to have implications for climate policy, the documents do not explicitly require all council activities to align with such a policy. The documents do indicate that the actions identified within the sustainability plan fit within the future direction and objectives of the Loddon Shire, but this does not necessarily equate to a requirement for alignment with climate policy.",
+      "source": "Loddon-a-a12345678910.json",
+      "lga": "Loddon"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. The documents outline a strategic plan for environmental sustainability from 2013 to 2018, which includes actions related to energy management, water management, biodiversity, land management and planning, sustainable transport, waste, and business development. While these actions are likely to have implications for climate policy, the documents do not explicitly require all council activities to align with such a policy. The documents do indicate that the actions identified within the sustainability plan are intended to fit within the future direction and objectives of the Loddon Shire, but they do not specify that these objectives include a climate policy. Therefore, based on the provided documents, it cannot be affirmed that all council activities must be aligned with climate policy.",
+      "source": "Loddon-b-a12345678910.json",
+      "lga": "Loddon"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do highlight the council's commitment to climate action, including the development of a Climate Emergency Response Plan and the integration of climate change considerations into other policies and strategies, there is no specific requirement mentioned that all council activities must align with the climate policy. The documents do mention that the council's climate actions will be further investigated, developed, and implemented in the years ahead, and that financial commitment to funding these actions will be decided annually through the budgeting process. However, this does not equate to a requirement for all council activities to align with the climate policy.",
+      "source": "Manningham-a-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do indicate that the local government has a Climate Emergency Response Plan and that this plan is linked with other policies and work, there is no explicit requirement stated that all council activities must align with this climate policy. The documents mention that the Climate Emergency Response Plan will be developed and implemented, and that it will integrate climate change alongside other areas such as enhancing the natural environment and biodiversity, reducing waste, and improving water sustainability. However, these details do not equate to a mandate for all council activities to align with the climate policy.",
+      "source": "Manningham-b-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive Climate Action Plan, including a commitment to reduce greenhouse gas emissions, the implementation of projects for cost-savings and value to Council operations, and the support of community climate action, they do not specifically mandate that all council activities must align with this policy. The documents do suggest that climate considerations will be embedded into several Council processes such as planning, community engagement, and waste management, but this does not equate to a requirement for all activities to be aligned with the climate policy.",
+      "source": "Mansfield-a-a12345678910.json",
+      "lga": "Mansfield"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents provide a comprehensive outline of the local government's climate action plan, including efforts to reduce greenhouse gas emissions, promote renewable energy, and engage the community in climate action, they do not specifically mandate that all council activities must align with this climate policy. The documents do indicate that the council will demonstrate leadership in emissions reductions and climate change management, implement projects that demonstrate cost-savings and good value to council operations, and support the broader community to implement climate action and emissions reduction projects. However, these actions are specific to the climate action plan and do not necessarily extend to all council activities.",
+      "source": "Mansfield-b-a12345678910.json",
+      "lga": "Mansfield"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the importance of integrating climate change thinking into council projects, operations, planning, and strategies, and mention the need for climate change adaptation and risk management, they do not explicitly mandate that all council activities must align with climate policy. The documents also mention the development of a Climate Change Plan to guide council and community actions, but again, this does not explicitly require all council activities to align with this plan or broader climate policy. Therefore, while the documents suggest a strong commitment to addressing climate change, they do not provide clear evidence that all council activities must be aligned with climate policy.",
+      "source": "Maroondah-a-a12345678910.json",
+      "lga": "Maroondah"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the importance of integrating climate change thinking into council projects, operations, planning, and strategies, and mention the need for climate change adaptation and risk management, they do not explicitly mandate that all council activities must align with climate policy. The documents also mention the development of a Climate Change Plan and the intention to embed climate change action into business-as-usual operations. However, these statements do not constitute a clear directive that all council activities must be aligned with climate policy.",
+      "source": "Maroondah-b-a12345678910.json",
+      "lga": "Maroondah"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a comprehensive Climate Change Mitigation Strategy to 2050, which includes a range of actions aimed at reducing greenhouse gas emissions and meeting the Council Pledge requirements under the Climate Change Act 2017. The strategy includes a focus on renewable energy, zero emissions buildings and transport, and waste reduction. It also mentions the use of an innovative, evidence-based approach to prioritising actions and the intention to report progress annually. However, these actions and strategies are not explicitly required to be applied to all council activities. The documents also note that the specific actions or initiatives outlined in the strategy are not binding upon the City of Melbourne but will inform its planning and resourcing considerations.",
+      "source": "Melbourne-a-a12345678910.json",
+      "lga": "Melbourne"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a Climate Change Mitigation Strategy to 2050, and mention the need to meet the Council Pledge requirements under the Climate Change Act 2017, they do not specifically mandate that all council activities must align with this policy. The documents do mention the need to identify and address synergies, trade-offs, and feedback loops between the implementation of the Climate Change Mitigation Strategy and other relevant strategies, including transport and waste. However, this does not necessarily imply that all council activities must be aligned with the climate policy. It is also important to note that the documents state that any specific actions or initiatives outlined in the strategy are not binding upon the City of Melbourne but will inform its planning and resourcing considerations.",
+      "source": "Melbourne-b-a12345678910.json",
+      "lga": "Melbourne"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the importance of integrating climate change considerations into various aspects of council operations, they do not mandate that all activities must be aligned with climate policy. The documents outline a strategic approach to addressing climate change, including understanding and responding to climate-related financial and legal risks, integrating climate change considerations into relevant plans, policies, and processes, and working with other councils and levels of government to understand the changing landscape. However, these actions are presented as strategic priorities and actions, rather than as a requirement for all council activities to align with climate policy.",
+      "source": "Melton-a-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate a strong commitment to integrating climate change considerations into various aspects of council operations. For instance, the documents mention the need to integrate climate change considerations into relevant plans, policies, and processes as they are developed and updated. They also highlight the importance of understanding and responding to climate-related exposure to legal and financial risks. However, these actions are not explicitly stated as a requirement for all council activities. Instead, they are presented as strategic priorities or actions within specific areas such as governance, risk, planning, building, and regulation. Therefore, while the documents demonstrate a clear focus on addressing climate change, they do not provide explicit evidence that all council activities must be aligned with climate policy.",
+      "source": "Melton-b-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a strong commitment to climate action, including a goal for Merri-bek to achieve 75 per cent emissions reduction by 2030, and a strategic approach to advocacy in response to the climate emergency, they do not explicitly require all council activities to align with these climate policies. The documents mention initiatives such as community mobilisation and advocacy campaigns, staff engagement to raise awareness and integrate climate emergency response within their service area, and actions to reduce Council’s operational waste. However, these are presented as specific actions or programs, rather than a blanket requirement for all council activities to align with climate policy.",
+      "source": "Merribek-a-a12345678910.json",
+      "lga": "Merribek"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing the climate emergency and outline various actions and strategies to reduce carbon emissions, they do not mandate that all council activities must be in alignment with these climate policies. The council's strategic approach to advocacy in response to the climate emergency is mentioned, and there are references to staff across the council acknowledging the climate emergency and integrating climate action within their service area, strategies, and policies. However, these references do not constitute a clear directive that all council activities must be aligned with climate policy.",
+      "source": "Merribek-b-a12345678910.json",
+      "lga": "Merribek"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that all council activities must be aligned with the climate policy. The policy does outline a commitment to addressing climate change, with a focus on six priority areas: Health, Waste, Farming, Education, Natural Environment, and Urban Environment. It also mentions the implementation of actions led by a group and supported by partners, with progress reviewed annually and the plan revised every four years. However, there is no specific requirement mentioned that all council activities must align with this climate policy. The policy does emphasize collaboration and community involvement in addressing climate change, but the alignment of all council activities with the climate policy is not explicitly stated.",
+      "source": "Mildura-a-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that all council activities must be aligned with the climate policy. The documents outline the Mildura Rural City Council's Community Climate Response Plan for 2024-2029, which includes a declaration of a climate emergency and a commitment to reduce emissions and develop strategies to mitigate and adapt to the impacts of climate change. The plan identifies six priority areas: Health, Waste, Farming, Education, Natural Environment, and Urban Environment. It also outlines various actions to be taken in these areas, such as promoting sustainable transportation and organizing climate/heat health awareness events. However, there is no explicit requirement stated that all council activities must align with this climate policy.",
+      "source": "Mildura-b-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents emphasize the council's role in reducing emissions, advocating for climate action, and supporting the community in climate change adaptation and mitigation, they do not mandate that all council activities must be in line with the climate policy. The council's actions are described in terms of their potential to influence emissions reduction and climate change adaptation, and their role in fostering collaboration and partnership for climate action. However, there is no explicit requirement stated that all council activities must align with these climate change goals.",
+      "source": "Mitchell-a-a12345678910.json",
+      "lga": "Mitchell"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents highlight the council's role in driving emissions reductions, fostering collaboration, and advocating for climate action, they do not mandate that all council activities must be in alignment with the climate policy. The council's actions are described in terms of their potential to influence emissions reductions and climate action, but there is no explicit requirement for all council activities to adhere to the climate policy. The documents emphasize the importance of collective efforts from various stakeholders, including residents, businesses, industry, and state and federal governments, in achieving the net zero target. The council's role is seen as one of leadership, education, facilitation, and support, rather than direct control over all activities related to climate action.",
+      "source": "Mitchell-b-a12345678910.json",
+      "lga": "Mitchell"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. The documents outline a plan for reducing corporate emissions, with a focus on specific areas such as developing a low carbon workplace, reducing emissions from waste, fleet, buildings, parks and reserves, and street lighting. The plan includes specific actions and timelines for each priority area. However, there is no explicit requirement stated that all council activities must align with this climate policy. The documents do indicate a commitment to reducing emissions and promoting sustainability, but this does not necessarily translate to a requirement for all council activities to align with these goals.",
+      "source": "Moira-a-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. The documents outline a series of actions and priorities aimed at reducing emissions in various areas such as the workplace, waste, fleet, buildings, parks and reserves, and street lighting. These actions include developing a low carbon workplace, reducing emissions from waste, investigating the use of alternative-fuelled vehicles, and installing rooftop solar on high priority buildings. However, these actions are specific initiatives under the council's Emissions Reduction Plan 2018-2021 and do not necessarily imply that all council activities must align with this policy. The documents also mention the council's role in assisting the community to reduce emissions, but this is stated to be outside the scope of the plan.",
+      "source": "Moira-b-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to reducing greenhouse gas emissions and adapting to climate change, they do not mandate that all council activities must align with these goals. The documents outline specific actions and strategies, such as energy efficiency, solar and offsets, development of an urban forest, and reducing paper use, among others. However, these are presented as part of a specific action plan rather than a requirement for all council activities. Furthermore, the documents mention the development of tools and education programs to adapt to climate change, indicating an intention to integrate climate considerations into council activities, but again, this is not presented as a mandatory alignment of all activities with climate policy.",
+      "source": "Monash-a-a12345678910.json",
+      "lga": "Monash"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents provide a comprehensive overview of the Monash Council's commitment to reducing greenhouse gas emissions and adapting to climate change, they do not mandate that all council activities must align with these climate policies. The documents outline specific actions such as energy efficiency measures, solar energy use, carbon offsetting, and the development of an urban forest to reduce heat island effects. They also mention the development of an education program to inform adaptation approaches and the use of a tool to collate climate and resilience data. However, these are specific initiatives rather than a blanket requirement for all council activities to align with climate policy.",
+      "source": "Monash-b-a12345678910.json",
+      "lga": "Monash"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of actions and strategies related to climate change, such as prioritising electric over gas infrastructure, installing solar energy systems, and developing programs to assist residents in purchasing solar systems, these are specific initiatives rather than a blanket requirement for all council activities. The documents also mention the development of an internal council program to respond to the climate emergency and the assessment of the council's climate change adaptation performance. However, these again are specific actions rather than a general policy requirement for all council activities. Therefore, while the documents clearly indicate a strong focus on addressing climate change, they do not explicitly state that all council activities must be aligned with climate policy.",
+      "source": "MooneeValley-a-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a number of specific actions and strategies related to climate change mitigation and adaptation. These include prioritising electric over gas infrastructure in council buildings, installing solar energy systems, facilitating programs to assist residents in purchasing solar systems, and developing an internal council program to respond to the climate emergency. The documents also mention the development of a municipal-wide flood mitigation plan, prioritising climate-resilient materials when purchasing new or refurbishing council assets, and incorporating climate-ready considerations for public realm, green infrastructure, and urban design projects. However, these actions and strategies are not explicitly stated as being mandatory for all council activities.",
+      "source": "MooneeValley-b-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a number of strategies and actions related to climate change, such as understanding and mitigating climate risks, reducing greenhouse emissions, and improving water efficiency. The council also acknowledges its role in influencing and advocating for positive environmental action, and plans to review its strategy and implementation plan periodically. However, these actions and strategies are presented as part of the council's broader sustainability efforts, rather than as mandatory requirements for all council activities. Therefore, while the council clearly recognizes the importance of addressing climate change, it does not explicitly require all activities to align with a specific climate policy.",
+      "source": "Moorabool-a-a12345678910.json",
+      "lga": "Moorabool"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a number of ways in which the council plans to respond to climate change, including understanding and mitigating climate risks, reducing greenhouse emissions, and improving water efficiency. The council also acknowledges that it can only directly control some issues, and can only influence or advocate for others. The documents also mention a mid-term review of the strategy after five years to measure progress and identify areas for improvement. However, there is no explicit requirement stated that all council activities must align with the climate policy.",
+      "source": "Moorabool-b-a12345678910.json",
+      "lga": "Moorabool"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the council has a strong focus on climate change and has implemented a scoring system to prioritize projects that effectively reduce greenhouse gas emissions or build community climate resilience. The documents also mention the formation of a Climate Oversight Group (COG) to ensure a consistent, long-term, Shire-wide approach to climate change. The COG is tasked with maintaining relationships and communication with stakeholders, responding to emerging issues affecting greenhouse gas emissions, and providing recommendations to inform decision-making. However, there is no explicit requirement stated that all council activities must align with climate policy.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do highlight the importance of climate change considerations in the council's decision-making process, they do not mandate that all council activities must be aligned with the climate policy. The documents outline a scoring system for prioritising actions based on their potential to reduce greenhouse gas emissions or build community climate resilience. They also mention the formation of a Climate Oversight Group to oversee the implementation of the Climate Emergency Plan and ensure that the Shire's values are upheld. However, these measures do not equate to a requirement for all council activities to align with the climate policy.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline several objectives and actions related to reducing greenhouse gas emissions and promoting environmental sustainability. For instance, the council plans to offset its fleet emissions through community vegetation planting programs and promote understanding and awareness of energy consumption and greenhouse gas emissions. It also aims to reduce its greenhouse gas emissions through reduced energy consumption, with specific actions such as designing new council buildings to meet a minimum 8-star energy rating and establishing an energy audit program for key council buildings. However, these actions are specific to certain areas and do not necessarily imply that all council activities must align with climate policy.",
+      "source": "Moyne-a-a12345678910.json",
+      "lga": "Moyne"
+    },
+    {
+      "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline several objectives and actions related to reducing greenhouse gas emissions and promoting environmental sustainability. For instance, the council plans to offset its fleet emissions through community indigenous vegetation planting programs and to increase understanding and awareness of energy consumption and the impacts of greenhouse gas emissions. The council also aims to reduce its greenhouse gas emissions through reduced energy consumption, with specific actions such as designing new council buildings to meet a minimum 8-star energy rating and establishing an energy audit program for key council buildings and infrastructure. However, these actions are specific to certain areas and do not necessarily imply that all council activities must align with climate policy.",
+      "source": "Moyne-b-a12345678910.json",
+      "lga": "Moyne"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to integrating climate change considerations into its operations and advocating for climate change adaptation and mitigation, they do not mandate that all council activities must align with this policy. The documents outline specific goals, actions, and strategies related to climate change, such as reducing greenhouse gas emissions, becoming carbon neutral, and implementing adaptation measures. However, these are presented as specific initiatives or areas of focus, rather than as a requirement for all council activities. Furthermore, the documents acknowledge that the implementation of these actions is subject to budgetary constraints and external funding, suggesting that not all activities may be able to align with these goals.",
+      "source": "MtAlexander-a-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to integrating climate change considerations into its operations and advocating for climate change adaptation and mitigation, they do not mandate that all council activities must align with these climate policies. The documents outline specific goals, actions, and strategies related to climate change, such as reducing greenhouse gas emissions, becoming carbon neutral, and implementing adaptation measures. However, these are presented as specific objectives or areas of focus, rather than as a requirement for all council activities. Furthermore, the documents acknowledge that the implementation of these actions is subject to budgetary constraints and external funding, suggesting that not all activities may be able to align with these climate policies.",
+      "source": "MtAlexander-b-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline the City of Port Phillip's Sustainable Environment Strategy for 2023-28, which includes initiatives to reduce environmental impact and increase resilience to climate change. The strategy details five priority areas: a water-sensitive city, a greener and more liveable city, a city with lower greenhouse gas emissions, a city that is adapting and resilient to climate change, and a sustained reduction in waste. However, these are strategic priorities rather than a mandate for all council activities to align with climate policy. The documents also mention the council's commitment to monitoring and reporting on climate risks, encouraging community action, and implementing specific actions such as a Coastal Adaptation Plan. However, these are specific actions within the broader strategy, not a requirement for all council activities to align with climate policy.",
+      "source": "PortPhillip-a-a12345678910.json",
+      "lga": "PortPhillip"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline the City of Port Phillip's 'Act and Adapt: Sustainable Environment Strategy 2023-28', which includes initiatives to reduce environmental impact and increase resilience to climate change. The strategy details five priority areas, including a water-sensitive city, a greener city, a city with lower greenhouse gas emissions, a city that is adapting and resilient to climate change, and a sustained reduction in waste. However, these are strategic priorities rather than a mandate for all council activities to align with climate policy. The documents also mention the council's commitment to monitoring and reporting on climate risks, encouraging community action, and implementing a Coastal Adaptation Plan. However, these actions are specific initiatives within the broader strategy, not a requirement for all council activities to align with climate policy.",
+      "source": "PortPhillip-b-a12345678910.json",
+      "lga": "PortPhillip"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of actions and strategies related to climate change mitigation and adaptation, such as reducing greenhouse gas emissions, advocating for government leadership in setting targets, and planning for flood events, they do not explicitly require all council activities to align with these climate policies. The documents also detail measures such as reducing vehicle travel, promoting the use of electric vehicles, and investing in renewable energy. However, these are presented as individual actions or strategies, rather than as part of a comprehensive requirement for all council activities to align with a specific climate policy.",
+      "source": "Pyrenees-a-a12345678910.json",
+      "lga": "Pyrenees"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents provide a detailed account of the local government's climate change response and mitigation plan, including measures to reduce greenhouse gas emissions, promote renewable energy, and adapt to changing climate conditions, they do not mandate that all council activities must align with these climate policies. The documents outline specific actions and strategies related to climate change, such as advocating for government leadership in setting targets for greenhouse gas reduction, participating in joint procurement of renewable power, and planning for flood events. However, these actions appear to be part of a specific climate change response plan, rather than a requirement for all council activities.",
+      "source": "Pyrenees-b-a12345678910.json",
+      "lga": "Pyrenees"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive Climate Emergency Response Plan, including various actions and strategies to address climate change, they do not mandate that all council activities must align with this policy. The policy does emphasize the importance of climate change as a priority, and it outlines various actions and strategies, such as the development of a Climate Emergency Response Plan Community Hub, advocacy efforts, and a commitment to zero net emissions by 2031. However, these are specific initiatives rather than a requirement for all council activities to align with the climate policy.",
+      "source": "Queenscliffe-a-a12345678910.json",
+      "lga": "Queenscliffe"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive Climate Emergency Response Plan, including various pillars such as Mobilisation, Education and Collaboration, and Adaptation and Resilience, they do not specifically mandate that all council activities must align with this policy. The documents do mention the need for strategic alignment of the Climate Emergency Response Plan and the development of an Implementation Plan, which includes climate governance and prioritisation. However, this does not necessarily imply that all council activities must be aligned with the climate policy. It is also worth noting that the documents highlight the importance of community engagement and collaboration in achieving the goals of the Climate Emergency Response Plan.",
+      "source": "Queenscliffe-b-a12345678910.json",
+      "lga": "Queenscliffe"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. They outline a range of prioritised adaptation actions to respond to climate risks, including facilitating improved community resilience, developing an Integrated Water Plan, and modifying construction practices for road and council infrastructure. However, these actions are specific responses to identified risks, rather than a blanket requirement for all council activities to align with the climate policy. The documents also mention the development of an Urban Forest and Open Space Assets Strategy and the investigation of more dispersed and diversified tourism opportunities. While these actions indicate a commitment to climate change adaptation, they do not constitute a directive that all council activities must align with the climate policy.",
+      "source": "SouthernGrampians-a-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline a Climate Change Adaptation Plan, which includes prioritised adaptation actions to respond to climate risks. These actions include research to improve understanding of climate change and risks, policy and design to prevent or mitigate effects, structural actions to prevent effects through built solutions and maintenance, and behavioural actions to raise awareness among stakeholders. However, there is no explicit requirement stated that all council activities must align with this climate policy. The documents do indicate that the council is committed to implementing adaptation solutions that are cost-effective, sustainable, transparent, justifiable, equitable, and minimise adverse environmental impacts. But again, this does not equate to a mandate for all council activities to align with the climate policy.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, emphasize the importance of climate change mitigation and planning in the council's strategic planning and decision-making processes. The Local Government Act 2020 is mentioned as a guiding principle, stating that the council must 'give effect to the overarching governance principles', which include climate change mitigation and planning. The council also plans to develop a new Climate Action Plan, which will include emissions reduction targets and pathways, as well as detailed actions for climate change mitigation and adaptation. However, these documents do not explicitly state that all council activities must be aligned with these climate policies.",
+      "source": "SouthGippsland-a-a12345678910.json",
+      "lga": "SouthGippsland"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, emphasize the importance of climate change mitigation and planning in the council's strategic planning and decision-making processes. The Local Government Act 2020 is mentioned as a guiding principle, stating that the council must 'give effect to the overarching governance principles', which include climate change mitigation and planning. The council also plans to broaden its focus on both adaptation and mitigation, and to develop a new Climate Action Plan. However, these documents do not explicitly state that all council activities must be aligned with climate policy.",
+      "source": "SouthGippsland-b-a12345678910.json",
+      "lga": "SouthGippsland"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents outline a Climate Change Action Plan with various strategic focus areas and actions, including protecting the natural environment, reducing emissions, building a climate-resilient community, moving sustainably, and advocating for change, they do not specifically mandate that all council activities must align with this policy. The documents do indicate that the council will consider the impacts of climate change in its planning, decision-making, and actions, and that it aims to promote environmental sustainability. However, this does not equate to a requirement for all council activities to be aligned with the climate policy.",
+      "source": "Strathbogie-a-a12345678910.json",
+      "lga": "Strathbogie"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents outline a Climate Change Action Plan with various strategic focus areas and actions, including protecting the natural environment, reducing emissions, building a climate-resilient community, moving sustainably, and advocating for change, they do not specifically mandate that all council activities must align with this policy. The documents do mention that the council will consider the impacts of climate change in its planning, decision-making, and actions, and that it aims to promote environmental sustainability. However, these statements do not equate to a requirement for all council activities to be aligned with the climate policy.",
+      "source": "Strathbogie-b-a12345678910.json",
+      "lga": "Strathbogie"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do highlight the council's commitment to addressing climate change, including prioritising and confirming suggested actions based on set criteria, integrating climate emergency consideration into all council decision making, and incorporating climate change into the Council’s Municipal Health and Wellbeing Plan, they do not explicitly require all council activities to align with the climate policy. The documents also mention the development of a new action plan every two years to respond to emerging climate projections and innovations, and the commitment to supporting community-led climate action. However, these do not equate to a requirement for all council activities to align with the climate policy.",
+      "source": "SurfCoast-a-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a comprehensive Climate Emergency Response Plan, including prioritising and confirming suggested actions based on set criteria and resourcing limitations, they do not mandate that all council activities align with this policy. The documents do indicate that climate emergency considerations will be integrated into council decision making, particularly in council reports and the Council Plan. However, this does not necessarily mean that all council activities must align with the climate policy. It is also worth noting that the documents highlight the importance of ongoing communication and input from various groups, including the Climate Emergency Internal Working Group, Leadership Group, and Project Control Group, which suggests a commitment to climate considerations but does not explicitly require all council activities to align with the climate policy.",
+      "source": "SurfCoast-b-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of strategic tasks and actions related to sustainability and climate change, such as managing stormwater, supporting community sustainability, and protecting biodiversity, they do not explicitly require all council activities to align with these tasks. The documents also mention the development of action plans and the review of these plans every four years, but again, there is no explicit requirement for all council activities to align with these plans. Therefore, based on the provided documents, it cannot be affirmed that all council activities must be aligned with climate policy.",
+      "source": "SwanHill-a-a12345678910.json",
+      "lga": "SwanHill"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of strategic tasks and goals related to sustainability and climate change, such as managing stormwater, supporting community sustainability, and protecting biodiversity, they do not explicitly require all council activities to align with these goals. The documents also mention the development of action plans and the review of relevant plans and policies in relation to climate variability and change, but again, there is no explicit requirement for all council activities to align with these plans and policies. Therefore, based on the provided documents, it cannot be affirmed that all council activities must be aligned with climate policy.",
+      "source": "SwanHill-b-a12345678910.json",
+      "lga": "SwanHill"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do indicate a strong commitment to addressing climate change and sustainability, with specific actions and objectives outlined, they do not explicitly require all council activities to align with these policies. The council's commitment is demonstrated through the inclusion of climate change and sustainability criteria in relevant documents and policies, and the establishment of six priority areas, including Biodiversity, Built Environment, Greenhouse Gas Emissions & Energy Reduction, Healthy Waterways, Sustainable Communities, and Waste Reduction & Resource Recovery. However, the documents do not explicitly state that all council activities must be aligned with these policies.",
+      "source": "Wangaratta-a-a12345678910.json",
+      "lga": "Wangaratta"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing climate change and sustainability, and mention the inclusion of climate change and sustainability criteria in relevant documents and policies, they do not explicitly require all council activities to align with climate policy. The documents outline specific actions and strategies related to climate change and sustainability, such as the development of a Sustainable Building Policy and the inclusion of climate change considerations in council strategies and asset management plans. However, these actions and strategies seem to be more focused on specific areas rather than encompassing all council activities.",
+      "source": "Wangaratta-b-a12345678910.json",
+      "lga": "Wangaratta"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents outline the council's commitment to addressing climate change through various initiatives and plans, such as the Climate Change Action Plan and the Green Warrnambool objectives, there is no explicit requirement stated that all council activities must align with these climate policies. The documents do indicate that the council plans to review and update these policies regularly, and that they will be used to guide the council's actions in relation to climate change. However, this does not equate to a mandate for all council activities to align with these policies.",
+      "source": "Warrnambool-a-a12345678910.json",
+      "lga": "Warrnambool"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents outline a comprehensive Climate Change Action Plan and detail various initiatives to address climate change, they do not mandate that all council activities must be in alignment with this policy. The documents do indicate that the council is committed to reducing emissions, adapting to climate change, and implementing sustainable practices. However, these are presented as specific objectives and actions within the context of the council's climate policy, rather than as a requirement for all council activities. Therefore, while the council clearly prioritizes climate action, it does not explicitly state that all activities must align with this policy.",
+      "source": "Warrnambool-b-a12345678910.json",
+      "lga": "Warrnambool"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of actions and objectives related to climate change, such as building knowledge of how climate change will impact council operations, integrating climate change measures into corporate policies, and working with key partners to ensure community understanding of climate risk, they do not explicitly require all council activities to align with these climate policies. The documents do indicate a strong commitment to addressing climate change and integrating sustainability into council operations, but they stop short of mandating alignment of all activities with climate policy.",
+      "source": "Wellington-a-a12345678910.json",
+      "lga": "Wellington"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a number of objectives and actions related to climate change, such as building knowledge of how climate change will impact council operations and services, integrating climate change measures into corporate policies, strategies, and planning, and working with key partners to ensure community understanding of climate risk. The council also plans to investigate and report on potential long-term costs of climate change to council service delivery and public infrastructure assets. However, these actions do not necessarily imply that all council activities must be aligned with climate policy, but rather that climate change considerations will be integrated into certain aspects of council operations and decision-making processes.",
+      "source": "Wellington-b-a12345678910.json",
+      "lga": "Wellington"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive climate change plan, including actions such as reducing greenhouse gas emissions, increasing the uptake of renewable energy, and improving climate resilience, they do not mandate that all council activities must align with these climate change initiatives. The documents do indicate that the council has a role in leading and supporting climate action, and that it is committed to implementing various climate-related initiatives. However, these commitments do not extend to a requirement for all council activities to align with the climate policy.",
+      "source": "Whittlesea-a-a12345678910.json",
+      "lga": "Whittlesea"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive climate change plan, including a commitment to net zero emissions by 2022, increased use of renewable energy, and various actions to increase climate resilience, they do not explicitly require all council activities to align with this policy. The documents do mention the importance of leadership at all levels and the role of the council in leading by example, but this does not necessarily equate to a requirement for all activities to align with the climate policy. Furthermore, the documents outline various priorities for action and principles, but again, these do not explicitly state that all council activities must align with the climate policy.",
+      "source": "Whittlesea-b-a12345678910.json",
+      "lga": "Whittlesea"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do indicate that the council is taking steps to integrate climate change considerations into their policies, strategies, and planning schemes, and that they are undertaking projects to learn about effective adaptation strategies, there is no explicit requirement stated that all council activities must align with climate policy. The documents outline a number of actions and priorities related to climate change, including integrating climate considerations into policy and strategy development processes, monitoring climate change and adaptation actions' effectiveness, and developing a baseline to monitor climate impacts on council buildings and road maintenance. However, these actions seem to be specific initiatives rather than a blanket requirement for all council activities.",
+      "source": "Wyndham-a-a12345678910.json",
+      "lga": "Wyndham"
+    },
+    {
+      "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do indicate that the council is taking steps to integrate climate change considerations into their policies, strategies, and planning schemes, and that they are undertaking projects to learn about effective adaptation strategies, there is no explicit requirement stated that all council activities must align with climate policy. The documents outline a number of actions and priorities related to climate change, including integrating climate considerations into policy and strategy development processes, monitoring climate change and adaptation actions' effectiveness, and building climate resilient infrastructure. However, these actions seem to be specific initiatives rather than a blanket requirement for all council activities.",
+      "source": "Wyndham-b-a12345678910.json",
+      "lga": "Wyndham"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "settings": {
+    "source_files": [
+      "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+      "Whitehorse-Climate-Response-Strategy-2023-2030.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-14T15:18:04.066029",
+    "lga": "Whitehorse"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the 'Climate Response Plan 2023–2026' and 'Climate Response Strategy 2023–2030', clearly identifies climate action as its core purpose. The policy outlines a comprehensive approach to addressing climate change, including mitigation, adaptation, and systemic actions. It includes specific actions such as developing and implementing a climate response communication and training program, advocating for a stronger climate response, and integrating climate change information across all areas of Council’s operations. The policy also outlines a plan for tracking progress and sharing success stories, indicating a commitment to transparency and accountability in its climate action efforts. The policy's focus on climate action is further emphasized by its commitment to update relevant plans, strategies, and policies to ensure they deliver on environmental sustainability and climate response. Therefore, it is evident that climate action is the core purpose of this policy."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the global challenge of climate change and the necessity of local solutions. The documents emphasize the urgency of climate action to minimize impacts such as increased stormwater runoff, flash flooding, damage to buildings and infrastructure, pressure on emergency services, heat-related deaths, loss of biodiversity, and interruptions to supply chains and food production. The documents also underscore the importance of reducing emissions to limit temperature rise to 1.5 degrees Celsius above pre-industrial levels. The local government's planned actions include mitigation, adaptation, and systemic actions to address climate change. These actions are embedded in various strategies, policies, and plans, demonstrating a comprehensive approach to tackling climate change.",
+          "quote": {
+            "content": "Climate action is essential and urgent to minimise these impacts, reduce emissions to limit temperature rise to 1.5 degrees Celsius above pre-industrial levels, and achieve the Whitehorse 2040 Community Vision.",
+            "page": 3,
+            "source": "Whitehorse-Climate-Response-Strategy-2023-2030.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. They highlight the severity and urgency of climate action, emphasizing the need for immediate and collective efforts to limit global warming to 1.5 degrees. The documents reference the Paris Climate Agreement, which calls for a significant reduction in global emissions by 2025. They also mention the UN's call for more ambition to drive deeper cuts in emissions and take drastic action. The documents further outline the local government's Climate Response Strategy and Plan, which includes specific actions and targets to address climate change. These actions are categorized as systemic, mitigation, and adaptation actions, indicating a comprehensive and urgent approach to tackling climate change. The documents also mention the declaration of a Climate Emergency by the Whitehorse City Council, further emphasizing the urgency of the situation.",
+          "quote": {
+            "content": "The UN has \nincreasingly been calling for more ambition to drive deeper cuts in emissions, take \ndrastic action and respond immediately to ensure warming is limited to 1.5 degrees.",
+            "page": 6,
+            "source": "Whitehorse-Climate-Response-Strategy-2023-2030.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The Climate Response Plan 2023-2026 is a clear indication of a specific timeframe for action. This plan includes 40 actions to be implemented over three years, from 2023 to 2026. The actions are categorized as systemic, mitigation, or adaptation responses. For instance, Action 1a, which involves integrating climate change and sustainability information across all areas of Council’s website and other communication platforms, is scheduled for 2023/24. Another example is Action 8h, which involves advocating to Federal and State governments for a stronger climate response and increased adaptation funding for Councils. This action is ongoing, indicating a continuous commitment. Therefore, the documents provide clear evidence of specific timeframes for the local government's intended actions on climate change.",
+          "quote": {
+            "content": "The Climate Response Plan 2023-2026 supports the first three years’ implementation of this Strategy and includes 40 actions.",
+            "page": 5,
+            "source": "Whitehorse-Climate-Response-Strategy-2023-2030.pdf",
+            "search_score": 0.92
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents highlight the urgency of climate action and outline various strategies and actions to address climate change, they do not explicitly rank these actions above other policy areas. The documents emphasize the importance of integrating climate considerations into various aspects of local government operations, including risk management, staff induction, and emergency management. They also mention the need for collaboration and partnerships across different sectors and levels of government. However, these references do not necessarily imply that climate action should supersede all other policy priorities. It is also worth noting that the documents highlight the need for a balanced approach that considers multiple factors when implementing climate actions."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is making efforts to align all council activities with climate policy. The Climate Response Plan 2023-2026 and the Climate Response Strategy 2023-2030 both emphasize the integration of sustainability and climate priorities into the Council Plan and other relevant strategies, policies, and guiding documents. The documents also mention the need for scheduled reviews to update these plans, strategies, and policies to ensure they deliver on environmental sustainability and climate response. Furthermore, the documents highlight the importance of embedding climate action throughout the council's operations, including staff induction and training programs. The council also plans to integrate climate change and sustainability information across all areas of its website and other communication platforms to increase visibility and understanding in the community. However, it should be noted that while the documents indicate a strong commitment to aligning council activities with climate policy, they do not explicitly state that 'all' council activities must be aligned with climate policy.",
+          "quote": {
+            "content": "During scheduled reviews, update relevant plans, strategies and policies to ensure they deliver on environmental sustainability and climate response. Sustainability and climate priorities embedded in Council Plan, relevant strategies, policies and guiding documents.",
+            "page": 8,
+            "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Climate Response Plan 2023-2026 indeed allocates funding for climate action. The plan outlines the allocation of additional staff resources and operational budget to implement the actions outlined in the plan. For instance, an annual budget of $21,465 is identified for Action 1a to make the current casual Sustainability Project Officer position permanent. The plan also includes a new budget of $10,000 per year for a climate response communication and training program for staff and councillors. Furthermore, the plan proposes a new staff resource and a consultant budget of $50,000 for developing a business case to transition Council buildings and assets off gas to electric. These allocations demonstrate a clear commitment to funding climate action.",
+          "quote": {
+            "content": "*$21,465 per annum is identified against Action 1a as additional operational budget is required to make the current casual Sustainability Project Officer position permanent.",
+            "page": 11,
+            "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Climate Response Plan 2023-2026 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan includes a budget for new staff resources and operational costs to implement the actions outlined in the plan. For instance, the plan identifies a need for a Sustainability Project Officer position to be made permanent, with an additional operational budget of $21,465 per annum. The plan also proposes the creation of an Energy Projects and Utilities Officer position. Furthermore, the plan outlines various actions to be delivered by existing staff resources, such as the integration of climate change information across all areas of Council’s website and other communication platforms, and the review of the staff induction program to include greater education on sustainability and climate change. Therefore, the plan not only allocates financial resources but also mobilizes institutional resources in the form of staff roles and responsibilities for climate action.",
+          "quote": {
+            "content": "*$21,465 per annum is identified against Action 1a as additional operational budget is required to make the current casual Sustainability Project Officer position permanent.",
+            "page": 11,
+            "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is taking steps to empower and educate the community to work together on climate action. The policy outlines a range of initiatives aimed at raising awareness and promoting action on climate change. For instance, the policy includes plans to leverage existing community programs and networks to raise awareness about the relationship between climate change and health & wellbeing, and promote opportunities to improve community resilience. It also plans to develop and implement a climate response communication and training program for staff and councillors to embed action throughout Council’s operations. Furthermore, the policy outlines plans to enhance community education and engagement on climate change and sustainability, including developing a communication and engagement plan, providing information on relevant sustainability topics, promoting sustainability rebates, incentives and programs delivered by other levels of government, and providing expertise and direction to community queries. These initiatives suggest a concerted effort to mobilise the community around climate action.",
+          "quote": {
+            "content": " \nProviding expertise and direction to \ncommunity queries  \nProviding information on relevant \nsustainability topics such as reducing \nenergy use and the circular \neconomy.  \nPromoting sustainability rebates, \nincentives and programs delivered \nby other levels of government.",
+            "page": 6,
+            "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate Response Plan 2023-2026 indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines both technological solutions and behaviour change as part of its strategy. For instance, the plan includes actions such as the development and implementation of a climate response communication and training program for staff and councillors, which is aimed at embedding action throughout the Council's operations. This can be seen as a behavioural change initiative. In terms of technological solutions, the plan mentions the investigation of the viability of investing in a project designed to offset emissions, either on its own or in collaboration with other councils or organisations. Furthermore, the plan also includes actions such as delivering an energy advice program to residents and businesses, and seeking opportunities to access community bulk purchase schemes for solar panels, energy-efficient appliances, renewable energy sources, and electric vehicles. These actions indicate a clear focus on both technological solutions and behaviour change as part of the local government's mitigation strategy."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a systemic approach to embed climate change considerations into the Asset Management Plan for each asset class. This approach is designed to mitigate climate change impacts, adapt to changes, and enhance resilience. The plan also includes actions to update the Municipal Public Health and Wellbeing Plan to focus on climate change adaptation and resilience, highlighting the link between climate change and health & wellbeing. Another action involves leveraging existing community programs and networks to raise awareness about the relationship between climate change and health & wellbeing, and promote opportunities to improve community resilience. The plan also includes actions to evaluate the selection of high-priority Council assets and determine their climate vulnerabilities, and address the identified vulnerabilities within the planned future Asset Management Plan of Works.",
+          "quote": {
+            "content": "Leverage existing community programs and networks to raise awareness about the relationship between climate change and health & wellbeing, and promote opportunities to improve community resilience...",
+            "page": 8,
+            "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+            "search_score": 0.92
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline various strategies, targets, and actions related to climate change, they do not provide specific sources or evidence to justify these measures. For instance, the documents mention the implementation of a Climate Response Plan, embedding climate considerations into risk registers, and integrating climate change information across Council's platforms. However, they do not provide clear evidence or sources to support the effectiveness or necessity of these actions. The documents also mention tracking progress and sharing success stories, but they do not provide specific metrics or benchmarks for these measures. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not provide well-sourced evidence to justify their specific targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Whitehorse City Council's Climate Response Strategy and Plan indeed includes specific measurable criteria to evaluate the success of its proposed actions. The documents outline a Monitoring and Evaluation Framework that will track achievements and share progress and lessons learned from the implementation of the Strategy and Response Plan. Four key areas will be monitored and evaluated: targets relating to Council’s climate response, individual action status including progress against the implementation timeframe, indicators which inform future climate responses but are not targets, and community reach and engagement. The Strategy and Response Plan will be reviewed mid-cycle in 2025/26 to ensure its relevance. Progress against the Response Plan will be tracked annually using the Monitoring and Evaluation Framework. The regular tracking and annual reporting against key indicators will allow Council and the community to reflect on action progress, investment, and priorities implementing the Response Plan.",
+          "quote": {
+            "content": "Community reach and engagement. There are four key areas of the Strategy and Response Plan that will be monitored and evaluated to ensure effective and efficient delivery: 1. Targets relating to Council’s climate response 2. Individual action status including progress against the implementation timeframe 3. Indicators which inform future climate responses but are not targets 4.",
+            "page": 29,
+            "source": "Whitehorse-Climate-Response-Strategy-2023-2030.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Whitehorse City Council's Climate Response Strategy 2023–2030 and Climate Response Plan 2023–2026 outline a comprehensive approach to climate change mitigation and adaptation. The documents highlight the importance of community engagement and research in shaping the council's climate response. The council plans to re-evaluate climate change data and projections, re-test community priorities and needs for sustainability and climate action, and audit council policies, programs, and plans to ensure alignment with sustainability and climate objectives. This approach ensures that the council's climate response is informed by the latest data, community needs, and policy alignment. The council also plans to review changes in state and federal government policies or programs and evaluate council’s advocacy priorities. This comprehensive approach to research and community engagement ensures that the council's climate response is evidence-based, community-informed, and aligned with broader policy contexts.",
+          "quote": {
+            "content": "Council will lead the mid-cycle review in partnership with the community. The Response Plan will be reviewed in 2026/27 to inform the development of the next Plan 2027-2030. The Strategy will also be reviewed to ensure relevance to the context at that time and updated if required.",
+            "page": 32,
+            "source": "Whitehorse-Climate-Response-Strategy-2023-2030.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has a Climate Response Plan 2023-2026 that includes a range of actions to address climate change. These actions are not only focused on mitigation and adaptation but also systemic actions that lay the foundations for change within the Council and its service to the community. For instance, the plan includes actions to integrate climate change and sustainability information across all areas of Council’s website and other communication platforms to increase visibility and understanding in the community. The plan also includes actions to facilitate the monitoring and reporting of Council’s strategic risk register to minimise vulnerability to climate risk. Furthermore, the plan includes actions to engage with tertiary education institutions and other groups to support and/or participate in relevant innovation initiatives and research opportunities. These actions indicate a willingness to experiment with new approaches and to learn from others in the field of climate action.",
+          "quote": {
+            "content": "think tanks) to support and/or participate in relevant innovation initiatives and research opportunities.",
+            "page": 3,
+            "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the outlined strategies and actions that involve collaboration and partnerships with various levels of government. For instance, the local government plans to advocate to Federal and State governments for a stronger climate response and increased adaptation funding for Councils. This advocacy is intended to ensure that climate change is embedded into related areas of advocacy such as transport and social development. The documents also highlight the importance of collaboration and partnerships between all levels of government, the community, and local stakeholders in addressing climate change. This indicates a clear intent to engage with higher levels of government in climate action.",
+          "quote": {
+            "content": "transport, social and Ensure climate change is embedded into related areas of advocacy (e.g.",
+            "page": 10,
+            "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents indeed provide evidence of the local government's commitment to building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a multi-faceted approach to climate action, which includes encouraging local leadership, reducing emissions, and embedding climate action across operations. It also emphasizes the importance of forming alliances, building partnerships, and collaborating across all levels of government to deliver shared projects and scale up action. The policy also highlights the role of the council as a planning authority to advocate for and embed climate change and sustainability into land use planning, policy, and decision-making. Furthermore, the policy outlines plans to leverage existing community programs and networks to raise awareness about the relationship between climate change and health & wellbeing, and promote opportunities to improve community resilience."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government's policy outlines a strategy to establish and maintain partnerships and memberships that support the fast-following of new emissions reduction, climate risk mitigation, and sustainability technology and initiatives. This strategy is systemic and ongoing, with the City Services (Environmental Sustainability) and Sustainability Officer leading the effort. The policy also mentions the need for collaboration with external partners such as ALGA (Australian Local Government Association), MAV (Municipal Association of Victoria), EAGA (Eastern Alliance for Greenhouse Action), SV (Sustainability Victoria), RV (Regional Victoria), VGA (Victorian Government Architect), and ERG (Energy Rating Guide). These partnerships and collaborations are crucial for the local government to effectively respond to climate change, reduce emissions, and increase community resilience.",
+          "quote": {
+            "content": "Systemic Ongoing Existing staff resource and budget for membership City Services (Environmental Sustainability), Sustainability Officer All service areas ALGA; MAV; EAGA; SV; RV; VGA; ERG",
+            "page": 2,
+            "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The policy outlines plans to identify communities that are vulnerable to climate change impacts and to support them in increasing their resilience. It also mentions leveraging existing and new community partnerships to connect low-income, hard-to-reach, and vulnerable households to sustainability programs and services, such as energy efficiency retrofitting schemes. This indicates a recognition of the disproportionate impact of climate change on vulnerable communities and a commitment to addressing these disparities. The policy also acknowledges the potential for increased heat-related deaths, particularly among the elderly and other vulnerable members of the community, further highlighting the focus on vulnerable populations.",
+          "quote": {
+            "content": "energy efficiency retrofitting schemes). vulnerable to climate change impacts and identify opportunities to support them to increase their resilience. Leverage existing and new community partnerships which can connect low-income, hardly reached and vulnerable households to sustainability programs and services (e.g.",
+            "page": 1,
+            "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change adaptation and resilience, they do not specifically address the distribution of benefits and opportunities. The documents focus more on the practical aspects of climate response, such as leveraging community programs, updating municipal plans, and embedding climate change considerations into various aspects of local government operations. They do not delve into the social justice implications of these actions or how they might contribute to a more equitable distribution of climate benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 17,
+    "num_questions": 20,
+    "attribute_score": 87.5
+  }
+}

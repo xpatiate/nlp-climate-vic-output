@@ -1,0 +1,339 @@
+{
+  "attribute": 4,
+  "question": 6,
+  "finding": true,
+  "num": 35,
+  "responses": [
+    {
+      "answer": "The documents provide clear evidence that all council activities must be aligned with climate policy. The policy explicitly states that the response to the 'Climate Emergency' must be included in all reports to the council. This indicates that all council activities, which would be reported in these documents, must consider and address the implications of the climate emergency. Furthermore, the policy outlines that the 'Climate Emergency' is to be considered in all council and organisational decisions, reinforcing the requirement for alignment with climate policy across all activities. The policy also emphasizes the importance of making the 'Climate Emergency' one of the highest priorities, which implies that all council activities should be guided by this priority. Therefore, the policy clearly states that all council activities must be aligned with climate policy.",
+      "source": "Bayside-a-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "1.9 Include consideration of the \nresponse to the ‘Climate Emergency’ \nin all reports to Council.",
+        "page": 12,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that all council activities must be aligned with climate policy. The policy explicitly states that the response to the 'Climate Emergency' must be included in all reports to the council, indicating that all council activities must consider and address the implications of the climate emergency. The policy also emphasizes that the 'Climate Emergency' should be one of the highest priorities and should be considered in all council and organizational decisions. This is further supported by the council's commitment to make resourcing decisions with a long-term view that considers the future cost of inaction or inadequate action on climate change. The policy also outlines the council's role in leading by example in their operations and actions, further indicating that all council activities must align with the climate policy.",
+      "source": "Bayside-b-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "2.",
+        "page": 44,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do explicitly state that all council activities must be aligned with climate policy. The Climate Change Adaptation Framework outlines a cohesive organisational approach to climate change adaptation, which includes embedding climate considerations within updates to policies and strategies. The Framework also introduces a set of adaptation principles to assist decision makers with integrating adaptation response into their day-to-day decision making. The Brimbank Climate Emergency Plan 2020-2025 further emphasizes this by stating that climate change must be a lens for all decision making, by all aspects of society. The Plan also commits the Council to position the climate emergency as the strategic focus of Council operations. Therefore, it is clear that the council activities are expected to align with the climate policy.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "Recommend advocacy and partnership opportunities for Council. This Framework aims to: 1. Identify a cohesive organisational approach to climate change adaptation by identifying existing action and prioritising climate response across Council’s services and operations 2. Outline an approach for consistently embedding climate considerations within updates to policies and strategies 3. Introduce a set of adaptation principles to assist decision makers with integrating adaptation response into their day-to-day decision making 4.",
+        "page": 2,
+        "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly state that all council activities must be aligned with climate policy. The Climate Change Adaptation Framework outlines a cohesive organisational approach to climate change adaptation, which includes embedding climate considerations within updates to policies and strategies. The Framework also introduces a set of adaptation principles to assist decision makers with integrating adaptation response into their day-to-day decision making. The Brimbank Climate Emergency Plan 2020-2025 further emphasizes this by stating that climate change must be a lens for all decision making, by all aspects of society. The Plan also commits the Council to position the climate emergency as the strategic focus of Council operations. Therefore, it is clear that the council activities are expected to align with the climate policy.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "Recommend advocacy and partnership opportunities for Council. This Framework aims to: 1. Identify a cohesive organisational approach to climate change adaptation by identifying existing action and prioritising climate response across Council’s services and operations 2. Outline an approach for consistently embedding climate considerations within updates to policies and strategies 3. Introduce a set of adaptation principles to assist decision makers with integrating adaptation response into their day-to-day decision making 4.",
+        "page": 2,
+        "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly state that council activities should be aligned with climate policy. The policy outlines a series of goals and actions that integrate climate considerations into various aspects of council operations. For instance, it mentions the inclusion of climate scenarios and risk profiles in council briefing packs and staff inductions. It also emphasizes the representation of climate mitigation and adaptation in all relevant documents, policies, and procedures. Furthermore, the policy suggests the development of climate mitigation and adaptation guidance through the local planning scheme. These actions indicate a clear intention to align all council activities with climate policy.",
+      "source": "Buloke-a-a12345678910.json",
+      "lga": "Buloke",
+      "quote": {
+        "content": "Ensure climate mitigation and adaptation is represented in all relevant documents, policies and procedures.",
+        "page": 3,
+        "source": "Buloke-2021-climate-action-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does explicitly state that the local government plans to integrate climate considerations into its operations. This is evident in the outlined goals and actions, which include integrating climate scenarios and risk profiles into council briefings and staff inductions, ensuring climate mitigation and adaptation is represented in all relevant documents, policies, and procedures, and developing climate mitigation and adaptation guidance through the local planning scheme. The policy also mentions providing professional development training to planning staff on how to educate residents on climate-ready developments. These actions suggest a comprehensive approach to aligning all council activities with climate policy.",
+      "source": "Buloke-b-a12345678910.json",
+      "lga": "Buloke",
+      "quote": {
+        "content": "Ensure climate mitigation and adaptation is represented in all relevant documents, policies and procedures.",
+        "page": 3,
+        "source": "Buloke-2021-climate-action-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly state that all council activities must be aligned with climate policy. The council has outlined a comprehensive plan to address climate change, which includes a review of all council programs and policies to ensure alignment with the council's Climate Emergency commitment. This is evident in the council's commitment to lead by example, ensuring that climate action is embedded throughout the council's operations and services. The council has also outlined specific actions to be undertaken to reach their goals, which are organized under nine key directions. These directions include energy efficiency, renewable energy, zero emissions transport, waste minimization, fossil fuel divestment, adaptation and resilience, engaging the community, and climate emergency mobilization and leadership. The council's commitment to align all activities with climate policy is further emphasized in their climate emergency principles, which guide their thinking, frameworks, and policy reviews.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Undertake an organisational review of all Council programs and policies to ensure alignment with Council’s Climate Emergency commitment.",
+        "page": 37,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The documents do explicitly state that all council activities must be aligned with climate policy. The council has outlined a clear commitment to ensuring that its operations and services are in line with its climate emergency response. This is evident in the council's plan to undertake an organisational review of all its programs and policies to ensure alignment with its Climate Emergency commitment. The council also plans to lead by example, demonstrating strong climate emergency action as an organisation. Furthermore, the council has outlined specific actions to be undertaken to reach its goals, organised under nine key directions, which include energy efficiency, renewable energy, zero emissions transport, waste minimisation, and fossil fuel divestment. These actions indicate a comprehensive approach to aligning all council activities with climate policy.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Undertake an organisational review of all Council programs and policies to ensure alignment with Council’s Climate Emergency commitment.",
+        "page": 37,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The documents provided by the Glen Eira City Council clearly state that all council activities must be aligned with climate policy. The council has outlined a comprehensive strategy to embed climate action into all aspects of their work. This is evident in their objectives, which include making climate change action a priority consideration in every strategy, plan, and policy, and leveraging financial, administrative, and reporting systems to drive climate action. The council also plans to include climate change education into staff and councillor induction and training to support climate-smart decision-making. Furthermore, the council intends to embed climate change into relevant position descriptions across the council. These actions demonstrate a clear commitment to aligning all council activities with climate policy.",
+      "source": "GlenEira-a-a12345678910.json",
+      "lga": "GlenEira"
+    },
+    {
+      "answer": "The documents provided by the Glen Eira City Council clearly state that all council activities must be aligned with climate policy. The council has outlined a comprehensive strategy to embed climate action into all aspects of their work. This is evident in their objectives, which include making climate change action a priority consideration in every strategy, plan, and policy, and leveraging financial, administrative, and reporting systems to drive climate action. The council also plans to include climate change education into staff and councillor induction and training to support climate-smart decision-making. Furthermore, the council intends to embed climate change into relevant position descriptions across the council. These actions demonstrate a clear commitment to aligning all council activities with climate policy.",
+      "source": "GlenEira-b-a12345678910.json",
+      "lga": "GlenEira"
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government policy requires all council activities to align with climate policy. The policy outlines a comprehensive approach to climate change, including assessing climate risk and vulnerability for all Council buildings and infrastructure, incorporating evidence-based and scenario planning into Council decision-making processes, and identifying improvements and efficiencies in Council’s systems and policies in line with the goals of the strategy. The policy also mandates the Council to consider climate and environment risks, including mitigation and planning for climate risks, across all Council’s services, strategies, policies, and processes. This indicates a clear directive for all council activities to be aligned with the climate policy.",
+      "source": "GreaterBendigo-b-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "These considerations must be embedded across Council’s services, strategies, policies and processes. Under the new Local Government Act 2020, it is a requirement that all Councils consider climate and environment risks, including mitigation and planning for climate risks.",
+        "page": 9,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide evidence that the local government has made environmental sustainability a key consideration in its activities. This is demonstrated through the development of procurement policies that favor environmentally friendly products and services, provided they do not compromise value for money. The council also plans to reduce its water consumption through improved efficiency measures. Furthermore, the council has committed to ensuring that environmental sustainability is a primary consideration in all future strategies and plans. This includes revising the structure of council reports to incorporate how actions align with the council's Environment Sustainability Strategy and deliver on its sustainability priorities. Therefore, it can be inferred that the council's activities must be aligned with its climate policy.",
+      "source": "Horsham-a-a12345678910.json",
+      "lga": "Horsham"
+    },
+    {
+      "answer": "The documents do provide evidence that the council activities must be aligned with climate policy. The council has outlined a comprehensive set of objectives that align with the Environment Sustainability Strategy's key principles. These objectives include incorporating environmental impact risk assessment and mitigation into the planning of major council projects, developing procurement policies that prefer environmentally friendly products and services, and reducing water consumption through improved efficiency measures. The council also plans to ensure environmental sustainability is a primary consideration in all future council strategies and plans. Furthermore, the council intends to review and revise the structure of council reports to incorporate how relevant actions align with the council's Environment Sustainability Strategy and how they deliver on council sustainability priorities.",
+      "source": "Horsham-b-a12345678910.json",
+      "lga": "Horsham"
+    },
+    {
+      "answer": "The documents do indicate that all council activities should be aligned with climate policy. The policy outlines a commitment to apply a 'climate lens' to all decisions, programs, strategies, and plans. This means that climate impacts and opportunities are to be considered in all aspects of the council's operations. This is further emphasized by the commitment to build the capacity of Councillors and staff to apply the climate lens in their roles, ensuring that climate action is integrated across the organization. The policy also highlights the need for climate action to be taken beyond the council's immediate sphere of responsibility, indicating a broad application of the policy across all council activities.",
+      "source": "Hume-a-a123.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "We need to consider climate \nimpacts and opportunities in all decisions, \nprograms, strategies, and plans.",
+        "page": 22,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do indicate that all council activities should be aligned with climate policy. The Climate Action Plan 2023-2028 outlines a commitment to apply a 'climate lens' to all decisions, programs, strategies, and plans. This means that climate impacts and opportunities should be considered in all aspects of the council's operations. The plan also emphasizes the need for climate action to be integrated across the whole organization, not just the responsibility of a small team or a few individuals. This suggests a comprehensive approach to climate action that permeates all council activities. Furthermore, the plan includes specific actions and responsibilities for different departments within the council, indicating a broad organizational commitment to climate action.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "We need to consider climate impacts and opportunities in all decisions, programs, strategies, and plans.",
+        "page": 22,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly state that all council activities must be aligned with climate policy. The Climate Emergency Strategic Action Plan outlines a commitment to considering climate change in all council activities. This commitment is to be reflected in all aspects of the council's business, from strategic requirements to decision making, policies, and procedures. The plan also includes a review of key strategic documents to ensure climate change mitigation and adaptation opportunities are considered. Furthermore, the plan emphasizes the need for consistent organizational commitment to considering climate change in everything the council does. This is to be achieved through the integration of the Climate Emergency response into the Council Plan. The documents also mention the application of a climate change lens to all council decisions, operations, and functions.",
+      "source": "Indigo-a-a12345678910.json",
+      "lga": "Indigo",
+      "quote": {
+        "content": "This will flow through to reviewing all policies, plans and procedures through the climate emergency lens and making any changes required to align with the Climate Change Policy and this Action Plan. to gain consistent organisational commitment to considering climate change in everything that we do.",
+        "page": 2,
+        "source": "Indigo-2020-climate-emergency-strategic-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly state that all council activities must be aligned with climate policy. The Climate Emergency Strategic Action Plan outlines a commitment to considering climate change in all council activities. This commitment is to be achieved through the review of all policies, plans, and procedures through the lens of the climate emergency. The plan also includes the integration of climate change information into the new Council induction program, the review of key strategic documents to ensure climate change mitigation and adaptation opportunities are considered, and the application of risk management processes to develop, implement, and monitor adaptation strategies and actions. The plan also prioritizes sustainable procurement throughout the supply chain, including the consideration of environment/climate change criteria when evaluating quotations for applicable goods and services. This comprehensive approach to integrating climate change considerations into all council activities demonstrates a clear alignment with climate policy.",
+      "source": "Indigo-b-a12345678910.json",
+      "lga": "Indigo",
+      "quote": {
+        "content": "This will flow through to reviewing all policies, plans and procedures through the climate emergency lens and making any changes required to align with the Climate Change Policy and this Action Plan. to gain consistent organisational commitment to considering climate change in everything that we do.",
+        "page": 2,
+        "source": "Indigo-2020-climate-emergency-strategic-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government has made a commitment to align all council activities with climate policy. This is evident in the council's declaration of a climate emergency, which places climate change as a key consideration in all council decision-making processes. The council has also committed to incorporating climate change into all decision-making, as outlined in the Climate Change Action Plan. This plan is not an independent document but has implications for nearly all departments across the council. Furthermore, the council has committed to introducing a Climate Impact Assessment to the template for council reports, which will require staff to specify the implications of their recommendations on climate change. This demonstrates a clear commitment to ensuring that all council activities are aligned with climate policy.",
+      "source": "MacedonRanges-a-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "Introducing a Climate Impact Assessment to the template for Council reports will help prompt this consideration, through requiring staff to specify the implications of their recommendations to climate change.",
+        "page": 21,
+        "source": "MacedonRanges-Counting-Down-To-Zero-Zero-Net-Emissions-for-Council-Operations-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government has made a commitment to align all council activities with climate policy. This is evident in the council's declaration of a climate emergency, which places climate change as a key consideration in all council decision-making processes. The council has also introduced a Climate Impact Assessment requirement for all council reports, which prompts staff to consider the implications of their recommendations on climate change. Furthermore, the council's Climate Change Action Plan outlines how the council will reduce emissions from its own operations and how it will influence key stakeholders and support the community in reducing emissions. The council's commitment to climate action is also reflected in its investment policy, which gives preference to banks and financial institutions that do not invest in or finance the fossil fuel industry.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "Introducing a Climate Impact Assessment to the template for Council reports will help prompt this consideration, through requiring staff to specify the implications of their recommendations to climate change.",
+        "page": 21,
+        "source": "MacedonRanges-Counting-Down-To-Zero-Zero-Net-Emissions-for-Council-Operations-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Maribyrnong City Council Climate Emergency Action Plan does explicitly state that all council activities must be aligned with climate policy. The document outlines a comprehensive approach to addressing the climate emergency, which includes embedding the climate emergency response in the Council’s planning, operations, infrastructure, strategies, and organisational culture. This suggests a holistic approach to climate action, where all aspects of the Council's activities are expected to align with the climate policy. The document also provides specific actions and timelines for various sectors, including energy, efficient buildings and infrastructure, and transport, further indicating that all council activities are expected to contribute to the climate emergency response.",
+      "source": "Maribyrnong-a-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The Maribyrnong City Council Climate Emergency Action Plan does explicitly state that all council activities must be aligned with climate policy. The document outlines a comprehensive approach to addressing the climate emergency, which includes embedding the climate emergency response in the Council’s planning, operations, infrastructure, strategies, and organisational culture. This suggests a holistic approach to climate action, where all aspects of the Council's activities are expected to align with the climate policy. The document also provides specific actions and timelines for various sectors, including energy, efficient buildings and infrastructure, and transport, further indicating that all council activities are expected to contribute to the climate emergency response.",
+      "source": "Maribyrnong-b-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The document does indeed state that all council activities must be aligned with the climate policy. The policy outlines that all staff employed by the council, contractors, volunteers, and elected representatives are required to abide by the policy. This implies that all activities undertaken by these individuals, and therefore the council as a whole, must be in line with the climate policy. The policy also includes a commitment to regularly review the plan to reflect changed conditions and community priorities, further emphasizing the importance of aligning all council activities with the policy. The policy also outlines strategic principles to guide the development of the plan and future climate action planning, which would presumably apply to all council activities.",
+      "source": "Murrindindi-a-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "All staff employed by Council, contractors, volunteers, and elected representatives will be required to abide by the policy. To maintain a consistent approach, Council has adopted a Climate Change Policy, which contains guidelines for implementing this Plan within each standard 4-year term of Council.",
+        "page": 33,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does indeed state that all council activities must be aligned with the climate policy. The policy is designed to guide the council's actions towards climate change, and it is explicitly stated that all staff, contractors, volunteers, and elected representatives are required to abide by the policy. This suggests that all council activities, regardless of their nature, must be in line with the climate policy. The policy is also set to be reviewed every four years, ensuring its relevance and effectiveness in guiding the council's actions towards climate change. Furthermore, the document outlines a strategic plan that includes specific actions, goals, and targets related to climate change, indicating a comprehensive approach to aligning all council activities with the climate policy.",
+      "source": "Murrindindi-b-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "All staff employed by Council, contractors, volunteers, and elected representatives will be required to abide by the policy. To maintain a consistent approach, Council has adopted a Climate Change Policy, which contains guidelines for implementing this Plan within each standard 4-year term of Council.",
+        "page": 33,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government is making a concerted effort to align all council activities with climate policy. The council has outlined a comprehensive Climate Action Plan that incorporates a 'climate lens' into all its strategies and plans, including the Biodiversity Strategy, Housing Strategy, Integrated Transport Strategy, Heatwave Strategy, Open Space Strategy, and others. The council also plans to consider climate impact in day-to-day operations and decision-making processes, and to embed the delivery of the Climate Action Plan within the CEO’s contract/performance plan. Furthermore, the council aims to support and encourage all staff to engage in or support climate action within their roles. This indicates a broad and deep commitment to aligning all council activities with climate policy.",
+      "source": "Nillumbik-a-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "Examples may include Council’s Biodiversity Strategy, Housing Strategy, Integrated Transport Strategy, Heatwave Strategy, Open Space Strategy, reviews of the Nillumbik Planning Scheme, the next Council Plan, the next Health and Wellbeing Plan, and so on.",
+        "page": 22,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government is committed to aligning all council activities with climate policy. The council has outlined a comprehensive plan to incorporate a 'stronger climate lens' into its strategies and plans, including the Biodiversity Strategy, Housing Strategy, Integrated Transport Strategy, Heatwave Strategy, Open Space Strategy, and others. The council also plans to consider climate impact in day-to-day operations and decision-making processes. This includes embedding the delivery of the Climate Action Plan within the CEO's contract/performance plan, encouraging all council staff to engage in climate action within their roles, and embedding consideration of climate risks, impacts, mitigation, and adaptation opportunities into council's key governance documents and decision-making processes. Therefore, it can be concluded that the council is making a concerted effort to align all its activities with climate policy.",
+      "source": "Nillumbik-b-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "Examples may include Council’s Biodiversity Strategy, Housing Strategy, Integrated Transport Strategy, Heatwave Strategy, Open Space Strategy, reviews of the Nillumbik Planning Scheme, the next Council Plan, the next Health and Wellbeing Plan, and so on.",
+        "page": 22,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly state that all council activities must be aligned with climate policy. The council's Climate Emergency Action Plan outlines a 'whole-of-Council' response, which means that climate action will be embedded across all council activities. The council's strategies, policies, and services will be developed and delivered through a climate change lens. The council also plans to educate and engage its staff to understand the climate emergency and support them to take climate action in their roles and areas of service delivery. This commitment to climate action is further emphasized by the council's plan to embed climate emergency response into all council strategies, policies, and plans, as well as into council operations and service delivery.",
+      "source": "Stonnington-a-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "We will educate and engage Council staff to understand the climate emergency and support them to take climate action in their roles and areas of service delivery. Our strategies, policies and services will be developed and delivered through a climate change lens.",
+        "page": 28,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly state that all council activities must be aligned with climate policy. The council's Climate Emergency Action Plan outlines a comprehensive approach to addressing climate change, which includes embedding climate emergency response into all council strategies, policies, and plans. This is further emphasized by the commitment to incorporate climate emergency considerations into decision-making documentation, including council reports and internal briefing papers. The plan also includes educating council staff on climate change and its impacts, indicating an intention to ensure that all council operations and service delivery are informed by an understanding of the climate emergency. The council's commitment to a 'whole-of-Council response' further underscores the intention to integrate climate action across all council activities.",
+      "source": "Stonnington-b-a12345678910.json",
+      "lga": "Stonnington"
+    },
+    {
+      "answer": "The documents provide evidence that the local government is making efforts to align all council activities with climate policy. The Climate Response Plan 2023-2026 and the Climate Response Strategy 2023-2030 both emphasize the integration of sustainability and climate priorities into the Council Plan and other relevant strategies, policies, and guiding documents. The documents also mention the need for scheduled reviews to update these plans, strategies, and policies to ensure they deliver on environmental sustainability and climate response. Furthermore, the documents highlight the importance of embedding climate action throughout the council's operations, including staff induction and training programs. The council also plans to integrate climate change and sustainability information across all areas of its website and other communication platforms to increase visibility and understanding in the community. However, it should be noted that while the documents indicate a strong commitment to aligning council activities with climate policy, they do not explicitly state that 'all' council activities must be aligned with climate policy.",
+      "source": "Whitehorse-a-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "During scheduled reviews, update relevant plans, strategies and policies to ensure they deliver on environmental sustainability and climate response. Sustainability and climate priorities embedded in Council Plan, relevant strategies, policies and guiding documents.",
+        "page": 8,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The documents do indicate that the council's activities should be aligned with climate policy. The Climate Response Plan 2023-2026 and the Climate Response Strategy 2023-2030 both emphasize the importance of integrating climate change and sustainability priorities into the council's operations. The documents outline a range of actions, including systemic actions, to ensure that the council's activities are in line with its climate response strategy. These actions include updating relevant plans, strategies, and policies to deliver on environmental sustainability and climate response, integrating climate change information across all areas of the council's operations, and embedding climate change considerations into risk registers. The documents also mention the need for staff training and communication programs to embed climate action throughout the council's operations. Therefore, it can be concluded that the council's activities are expected to align with its climate policy.",
+      "source": "Whitehorse-b-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "During scheduled reviews, update \nrelevant plans, strategies and policies to \nensure they deliver on environmental \nsustainability and climate response. Sustainability \nand climate \npriorities \nembedded in \nCouncil Plan, \nrelevant \nstrategies, \npolicies and \nguiding \ndocuments.",
+        "page": 8,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that all council activities must be aligned with climate policy. The Climate Change Adaptation Action Plan (CCAAP) developed by the council is designed to address climate-related risks and opportunities, with each action assigned to a relevant directorate and Key Performance Indicators (KPIs) established for monitoring progress. The documents also highlight the importance of embedding climate change considerations in all operational strategies and plans to ensure strong and responsible leadership. This includes facilitating greater engagement and action with staff on climate change, ensuring climate change is embedded in all council documents with specific actions, and ensuring all planned activities risk assessment includes climate change risk as part of the risk register review. The documents also mention that the council's actions are significantly influenced by legislative obligations and are restricted by resourcing and budget considerations, indicating that the alignment of council activities with climate policy is also subject to these factors.",
+      "source": "Wodonga-a-a12345678910.json",
+      "lga": "Wodonga",
+      "quote": {
+        "content": "Embedding climate change considerations in all operational strategies and plans will ensure strong and responsible leadership, increase the adaptive capacity of the organisation and build healthier and more resilient communities. It is important to note that all documents pertaining to council operations need to keep climate change adaptation and mitigation in consideration.",
+        "page": 9,
+        "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that all council activities must be aligned with climate policy. The Climate Change Adaptation Action Plan (CCAAP) developed by the council is designed to address climate-related risks and opportunities. The plan is structured based on the council's strategic priorities and is intended to be implemented in partnership with the community. The documents also highlight the importance of embedding climate change considerations in all operational strategies and plans to ensure strong and responsible leadership. This includes facilitating greater engagement and action with staff on climate change, ensuring climate change is embedded in all council documents with specific actions, and ensuring all planned activities risk assessment includes climate change risk as part of the risk register review. Therefore, it is evident that the council's activities are expected to align with the climate policy.",
+      "source": "Wodonga-b-a12345678910.json",
+      "lga": "Wodonga",
+      "quote": {
+        "content": "Embedding climate change considerations in all operational strategies and plans will ensure strong and responsible leadership, increase the adaptive capacity of the organisation and build healthier and more resilient communities. It is important to note that all documents pertaining to council operations need to keep climate change adaptation and mitigation in consideration.",
+        "page": 9,
+        "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do indicate that the council's activities should be aligned with climate policy. The policy outlines strategic priorities that include embedding climate resilience into the council's strategies, policies, and decision-making processes. This includes ensuring new and updated policies, plans, and strategies consider climate-related risks and plan for climate resilience. The policy also mentions the need to incorporate climate adaptation considerations into future Asset Management Plans and associated Project Implementation Plans for Council assets. Furthermore, the policy emphasizes the need to engage management and staff around the climate emergency and support staff to deliver climate responses as part of their roles. This suggests a comprehensive integration of climate policy into all council activities.",
+      "source": "Yarra-a-a12345678910.json",
+      "lga": "Yarra"
+    },
+    {
+      "answer": "The documents do indicate that the council's activities should be aligned with climate policy. The policy outlines strategic priorities that include embedding climate resilience into council strategies, policies, and decision-making processes. This includes ensuring new and updated policies, plans, and strategies consider climate-related risks and plan for climate resilience. The policy also mentions the need to incorporate climate adaptation considerations into future Asset Management Plans and associated Project Implementation Plans for Council assets. Furthermore, the policy emphasizes the need to operate as a carbon-neutral organization, rapidly reducing carbon emissions from their own operations. This suggests that all council activities should be aligned with the climate policy.",
+      "source": "Yarra-b-a12345678910.json",
+      "lga": "Yarra"
+    },
+    {
+      "answer": "The documents provide clear evidence that all council activities must be aligned with climate policy. The council's plan outlines a comprehensive approach to addressing climate change, with every department within the council playing a role. The plan is informed by background research and risk assessments, and is accompanied by a detailed action plan. Each department is expected to plan actions annually in accordance with the council’s organisational planning framework. The council's approach to climate change is also embedded in its strategic objectives, with a focus on managing carbon pollution, promoting an energy transition, and adapting to climate change. The council also has a set of guiding principles to help prioritise its activities, ensuring that its climate actions respond to the vision and strategic objectives outlined in the Council Plan. Therefore, it is evident that all council activities must be aligned with climate policy.",
+      "source": "YarraRanges-a-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "This work across the entire organisation will ensure we can reach our goals. The actions in this document outline the role that every team within Council will play in responding to climate change.",
+        "page": 2,
+        "source": "YarraRanges-2020-liveable-climate-action-plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents clearly state that all council activities must be aligned with climate policy. The council's plan outlines the role that every team within the council will play in responding to climate change, ensuring that the entire organisation is working towards the same goals. The plan provides direction on how the organisation will respond to a changing climate, informed by background research and risk assessments. Each department within the council is required to plan actions annually in accordance with the council’s organisational planning framework. The plan also includes a detailed action plan, which will be driven through council and department business planning. The council's actions are guided by principles for sustainability and resilience. The plan also includes a commitment to monitor progress towards targets, demonstrating a commitment to accountability and continuous improvement.",
+      "source": "YarraRanges-b-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "This work across the entire organisation will ensure we can reach our goals. The actions in this document outline the role that every team within Council will play in responding to climate change.",
+        "page": 2,
+        "source": "YarraRanges-2020-liveable-climate-action-plan.pdf",
+        "search_score": 0.95
+      }
+    }
+  ]
+}

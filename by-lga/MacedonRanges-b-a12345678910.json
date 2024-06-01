@@ -1,0 +1,336 @@
+{
+  "settings": {
+    "source_files": [
+      "MacedonRanges-2017-climate-action-plan.pdf",
+      "MacedonRanges-2021-environment-strategy.pdf",
+      "MacedonRanges-Counting-Down-To-Zero-Zero-Net-Emissions-for-Council-Operations-Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T19:56:35.440718",
+    "lga": "MacedonRanges"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Climate Change Action Plan, clearly identifies climate action as its core purpose. The policy outlines the local government's commitment to addressing climate change through a variety of strategies and actions. These include reducing greenhouse gas emissions, promoting renewable energy, improving environmental performance standards, and advocating for state and national initiatives to support energy efficiency. The policy also emphasizes the role of the local government in influencing stakeholders and supporting the community in reducing emissions. Furthermore, the policy acknowledges the need for ongoing monitoring and evaluation to assess the effectiveness of its climate action strategies. Therefore, it is evident that climate action is not just a component of the policy, but its central goal.",
+          "quote": {
+            "content": "It also outlines how Council will influence key stakeholders and support the community in reducing emissions. This Climate Change Action Plan is about the present, with a focus on how Council will reduce emissions from its own activities to minimise its impact on climate change.",
+            "page": 3,
+            "source": "MacedonRanges-2017-climate-action-plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's Climate Change Action Plan, which is focused on reducing greenhouse gas emissions and adapting to the impacts of a changing climate. The plan includes actions to reduce energy consumption, increase energy efficiency, and transition away from coal-fired power to renewable energy sources. The documents also highlight the role of local government in influencing community and state government stakeholders in climate change action. The plan is presented as a response to the broader legislative and policy context at international, national, and state levels, including Australia's commitment to the Paris Agreement to reduce greenhouse gas emissions. The documents also acknowledge the influence of community action on climate change and the need for localised community climate action plans.",
+          "quote": {
+            "content": "Local government councils have the opportunity to reduce emissions from a range of services and operations, as well as being in a position to influence both the community and state government stakeholders in climate change action.",
+            "page": 3,
+            "source": "MacedonRanges-2017-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government recognizes the urgency of addressing climate change. The council declared a state of Climate Emergency on 24 March 2021, acknowledging that urgent action is required to address the causes and impacts of climate change and avoid irreversible disruption to society, the economy, and ecosystems. The declaration of a Climate Emergency places climate change as a key consideration in the council's decision-making processes. The council is committed to leading by example in supporting the community to prepare for forecast climatic changes. The council has also introduced a Climate Impact Assessment to the template for council reports, requiring staff to specify the implications of their recommendations on climate change. This demonstrates a commitment to urgent and immediate action.",
+          "quote": {
+            "content": "By doing so, Council acknowledges that urgent action is required to address the causes and impacts of climate change and avoid irreversible disruption to society, the economy and ecosystems. On 24 March 2021, Council declared a state of Climate Emergency.",
+            "page": 9,
+            "source": "MacedonRanges-2021-environment-strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The 'Counting Down to ZERO – 2022-30 Plan' indicates a timeline of 2022 to 2030 for the plan's implementation. It also mentions specific actions such as introducing a Climate Impact Assessment requirement in council reports by June 2023 (Action 22). The 'Climate Change Action Plan – adopted 28 June 2017' also provides a timeline, stating that all actions are to commence by, and in the cases of works be completed by, June 2021. It also mentions a review of the targets in mid-2020 and a biennial review of the Zero Net Emissions Plan until 2030 (Action 33). These specific timeframes indicate a sense of urgency in the local government's climate change actions."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government has prioritized climate change action. The council has declared a state of Climate Emergency, signaling its commitment to address climate change as a priority matter. The council has also adopted a 'Counting Down to ZERO – 2022-30 Plan' which focuses on mitigation of emissions in relation to Council’s operations. Furthermore, the council has identified 'Climate emergency' as one of the key emerging priorities in its Environment Strategy. The council is committed to leading by example in supporting the community to prepare for forecast climatic changes. The council has also planned to introduce a Climate Impact Assessment to its decision-making processes, which will require staff to specify the implications of their recommendations to climate change. Therefore, it is evident that the council has prioritized climate change action over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government has made a commitment to align all council activities with climate policy. This is evident in the council's declaration of a climate emergency, which places climate change as a key consideration in all council decision-making processes. The council has also introduced a Climate Impact Assessment requirement for all council reports, which prompts staff to consider the implications of their recommendations on climate change. Furthermore, the council's Climate Change Action Plan outlines how the council will reduce emissions from its own operations and how it will influence key stakeholders and support the community in reducing emissions. The council's commitment to climate action is also reflected in its investment policy, which gives preference to banks and financial institutions that do not invest in or finance the fossil fuel industry.",
+          "quote": {
+            "content": "Introducing a Climate Impact Assessment to the template for Council reports will help prompt this consideration, through requiring staff to specify the implications of their recommendations to climate change.",
+            "page": 21,
+            "source": "MacedonRanges-Counting-Down-To-Zero-Zero-Net-Emissions-for-Council-Operations-Plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The plan does allocate resources for climate action, but it does not explicitly mention the allocation of funding. The plan outlines a range of actions and initiatives to address climate change, and for many of these, it indicates that they will be carried out using 'current resources'. This suggests that existing budget allocations will be used, rather than additional funding being provided. For example, the plan recommends that Council continue existing activities to promote climate change action, and it states that this will be done using current resources. Similarly, the plan proposes the integration of climate change into decision making across Council, particularly in regards to management of assets and delivery of services, and again it states that this will be done using current resources. However, the plan does not provide specific details about the amount of funding that will be allocated to these actions.",
+          "quote": {
+            "content": "Council can also explore opportunities to provide information and deliver programs alongside existing community education programs (for example, through neighbourhood houses) and review opportunities to facilitate climate change action through existing Council grant schemes. In the meantime, it is recommended that Council continue existing activities, and aim to promote climate change action to different sectors of the community and different population groups, customising messages and information to target audiences through a range of media, and utilising venues like libraries and aquatic centres to distribute information.",
+            "page": 49,
+            "source": "MacedonRanges-2017-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does allocate staff and other non-monetary institutional resources to climate action. The policy outlines several actions that involve the allocation of staff resources to climate change initiatives. For instance, the policy mentions the establishment of a staff environment group to promote sustainability in work practices across all units of Council. It also mentions the need to secure staff resources for climate change action to enable the delivery of the proposed actions. Furthermore, the policy discusses the integration of climate change considerations into decision-making processes across Council, which would require the involvement and commitment of staff from various departments. The policy also mentions the use of existing resources, such as Council buildings, for community renewable energy projects. This suggests that the policy not only allocates human resources but also leverages existing physical resources for climate action.",
+          "quote": {
+            "content": "Include educational activities like learn-over-lunch presentations on topics related to climate change.",
+            "page": 31,
+            "source": "MacedonRanges-Counting-Down-To-Zero-Zero-Net-Emissions-for-Council-Operations-Plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a range of initiatives aimed at promoting climate change action across different sectors of the community. These include the use of various communication channels such as social media, fact sheets, and information sessions to raise awareness and promote sustainable living. The policy also encourages community-based climate change projects through the Community Funding Scheme and proposes the development of local community climate change action plans. Furthermore, the policy suggests partnering with the community to establish local projects that address climate change, such as renewable energy generation. This approach not only educates the community about climate change but also actively involves them in the process, thereby empowering them to take action.",
+          "quote": {
+            "content": "(C.10 in Table 4) Facilitate development and implementation of a pilot community climate change plan for a local community in the shire, potentially as an extension of the Places for People program.",
+            "page": 50,
+            "source": "MacedonRanges-2017-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate Change Action Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a comprehensive approach that includes both technological solutions and behaviour change. Technological solutions are addressed through actions such as reducing energy consumption, increasing energy efficiency, and reducing reliance on coal-fired power through the use of renewable energy sources. The plan also includes a feasibility study on establishing a revolving energy fund for reinvesting savings from on-site renewable energy projects into additional projects. Behaviour change is addressed through actions that encourage the local community and stakeholders to reduce greenhouse emissions. The plan also includes a Climate Impact Assessment, which requires staff to specify the implications of their recommendations on climate change. This approach ensures that climate change considerations are embedded in the council's decision-making processes.",
+          "quote": {
+            "content": "The focus of this plan is climate change mitigation – actions that reduce greenhouse gas emissions, including actions that reduce energy consumption through behaviour change or energy efficiency, or that reduce reliance on coal fired power through use of renewable energy sources.",
+            "page": 5,
+            "source": "MacedonRanges-2017-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Climate Change Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a two-pronged approach to climate change: mitigation and adaptation. Mitigation efforts focus on reducing greenhouse gas emissions, while adaptation actions aim to manage or reduce the impacts of a hotter, drier, and more extreme climate. The plan mentions a review of the Council's Climate Change Risk Assessment and Response - Early Adaptation Plan 2012, indicating a commitment to updating and improving adaptation strategies. Furthermore, the plan discusses the importance of understanding the implications of a changed climate at a local level for the review of the Council’s Climate Change Adaptation Plan. This includes considering how decreased rainfall and increased number and intensity of extreme weather events will impact Council’s service provision, drainage, emergency management processes, and recreation facilities, among other things. Therefore, the plan does include specific actions for climate adaptation and resilience.",
+          "quote": {
+            "content": "Climate change adaptation - actions that manage or reduce the consequences and impacts of a hotter, drier and more extreme climate - will be addressed as a part of Council’s review of its Climate Change Risk Assessment and Response - Early Adaption Plan 2012.",
+            "page": 5,
+            "source": "MacedonRanges-2017-climate-action-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a detailed plan for climate action, including specific targets and actions, and a methodology for achieving these targets. It outlines a comprehensive approach to climate change mitigation, including reducing greenhouse gas emissions, promoting energy efficiency, and transitioning to renewable energy sources. The plan also includes a commitment to review and potentially amend the targets in mid-2020 to account for external drivers for climate change action. The document also outlines how the Council will work with stakeholders and the local community to reduce greenhouse emissions within a broader context. The plan also includes a commitment to monitor and evaluate the effectiveness of the actions on an ongoing basis. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.",
+          "quote": {
+            "content": "In addition to outlining how Council will achieve its targets, the Climate Change Action Plan outlines how Council will work with stakeholders and the local community to reduce greenhouse emissions within a broader context.",
+            "page": 5,
+            "source": "MacedonRanges-2017-climate-action-plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a systematic approach to monitoring and evaluating the effectiveness of its actions. This includes quantitative measurement and analysis of financial and environmental outcomes, assessment of the effectiveness of changes to organisational processes and procedures, and gauging community acceptance of the Council’s efforts in taking climate change action. The plan also includes a commitment to annual assessments through analysis of cost and consumption data for power, to be undertaken internally and through Council’s subscription to the monitoring and reporting service from Planet Footprint. Furthermore, the plan includes a provision for discussion and surveys involving internal and external stakeholders. This comprehensive approach to evaluation ensures that the plan's effectiveness can be accurately measured and adjusted as necessary."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The document does describe plans to conduct research in the local community to inform climate actions. The local government's Climate Change Action Plan outlines a strategy to better understand the drivers for action and develop initiatives and programs customised to different sectors of the community. This involves a Climate Change Communications and Engagement Plan, which extends from the frameworks presented in the document. The plan is designed to identify barriers and drivers for climate change action amongst different sectors of the community. The document also mentions the development and implementation of a pilot community climate change plan for a local community in the shire. This suggests a research-oriented approach to understanding the specific needs and characteristics of the local community, which will inform the development of climate actions.",
+          "quote": {
+            "content": "A Climate Change Communications and Engagement Plan, extending from the frameworks presented in Appendix 4 and Appendix 5, could Additionally, different sectors of the community and individuals experience different barriers to taking action on climate change. From this perspective, Council needs to better understand drivers for action, and develop initiatives and programs customised to different sectors of the community.",
+            "page": 49,
+            "source": "MacedonRanges-2017-climate-action-plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The Climate Change Action Plan does show evidence of innovation and policy experimentation in climate action. The plan outlines a variety of strategies and initiatives to address climate change, demonstrating a willingness to explore different approaches and adapt to local contexts. For instance, the plan proposes the development of localised community climate action plans, which suggests a level of policy experimentation as it allows for different strategies to be trialled in different localities. The plan also includes a recommendation to extend existing support to community action on climate change, indicating a commitment to innovative partnerships and collaborations. Furthermore, the plan suggests exploring opportunities to work with existing community programs to extend outreach, which could be seen as an innovative approach to leveraging existing resources and networks for climate action. The plan also includes a cost-benefit analysis of initiatives, suggesting a data-driven approach to policy development and implementation.",
+          "quote": {
+            "content": "It is therefore recommended that Council develop and trial a partnership process for developing localised community climate action plans.",
+            "page": 50,
+            "source": "MacedonRanges-2017-climate-action-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 4,
+        "num_questions": 4,
+        "score": 1
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The local government's policy outlines a strategic plan for climate change action, which includes advocating for increased action and leadership in policy and programs addressing climate change, increased support in terms of finances and resources to undertake mitigation actions or adaptation action, and increased support to the clean energy sector. The policy also mentions the removal of financial and administrative barriers to renewable energy generation, the introduction of state government initiatives to support energy efficiency and renewable energy, and the implementation of state and/or nationwide behaviour change campaigns. These actions demonstrate a clear intent to engage with higher levels of government to promote and support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighboring local councils for climate action. The Climate Change Action Plan outlines how the council will work with stakeholders and the local community to reduce greenhouse emissions. The plan also recommends that the council develop and trial a partnership process for developing localized community climate action plans. The council is also encouraged to continue participating in regional initiatives for climate change action and to work with stakeholders at the local, regional, or state levels when feasible. The council is also advised to utilize emerging state government programs targeting climate action amongst different sectors of the community, including grants schemes, and promote and participate in programs where suitable for the local community. The council is also encouraged to advocate for stronger climate change action across all levels of government and partner with management stakeholders to progress action.",
+          "quote": {
+            "content": "Continue to participate in regional initiatives for climate change action, for example, in the development and implementation of relevant projects being facilitated by the Central Victorian Greenhouse Alliance.",
+            "page": 64,
+            "source": "MacedonRanges-2017-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document indeed refers to specific regional associations, alliances, or other partnerships related to climate change. It mentions the Central Victorian Greenhouse Alliance, a regional initiative for climate change action, as a key partner in the development and implementation of relevant projects. The document also refers to the North Central CMA, with which the local government plans to work on programs addressing climate change on landscapes and biodiversity values. Furthermore, the document mentions the Municipal Association of Victoria (MAV) and the Central Alliance for Greenhouse Action (CVGA) as potential avenues for advocacy on climate change matters. These partnerships and alliances are crucial for the local government's climate change action plan as they provide opportunities for collaboration, resource sharing, and collective advocacy.",
+          "quote": {
+            "content": "Work with the North Central CMA in programs addressing climate change on landscapes and biodiversity values as relevant. Continue to participate in regional initiatives for climate change action, for example, in the development and implementation of relevant projects being facilitated by the Central Victorian Greenhouse Alliance.",
+            "page": 64,
+            "source": "MacedonRanges-2017-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do outline various strategies and actions for mitigating and adapting to climate change, they do not specifically address how these measures will affect or benefit vulnerable communities. The documents focus primarily on reducing greenhouse gas emissions, promoting renewable energy, and integrating climate change considerations into decision-making processes. They also mention community engagement and support for climate action, but do not explicitly link these efforts to equity or social justice concerns. Therefore, based on the provided context, the documents do not meet the high standard of evidence required to affirmatively answer the question."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and initiatives related to climate change action, such as reducing support for the fossil fuel industry, integrating climate change into decision making, and promoting climate change action in the community, they do not specifically address the equitable distribution of benefits and opportunities arising from these actions. The documents also mention the development of community support initiatives and the promotion of sustainable practices, but these are not explicitly linked to equity and social justice. Therefore, based on the provided context, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 18,
+    "num_questions": 20,
+    "attribute_score": 90
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "attribute": 2,
+  "question": 1,
+  "finding": false,
+  "num": 16,
+  "responses": [
+    {
+      "answer": "While the policy does address climate action, it is not the core purpose or goal of the policy. The policy is a broader Environment Strategy, and climate action is one of the key themes within it. The policy outlines the council's position on climate change, acknowledging its impacts and the need for adaptation and mitigation measures. It also sets out long-term aims related to climate change, such as supporting the community, business, and industry to respond to the impacts of a changing climate, and achieving net-zero greenhouse gas emissions for Council operations by 2035. However, these are part of a wider set of responsibilities and actions across multiple themes, including conservation, community engagement and partnerships, and council's responsibilities. Therefore, while climate action is a significant part of the policy, it is not its core purpose or goal.",
+      "source": "Campaspe-a-a12345678910.json",
+      "lga": "Campaspe"
+    },
+    {
+      "answer": "The policy does not explicitly state that climate action is the core purpose or goal. While the policy does address aspects related to climate change, such as developing locally specific adaptation responses to climate variability and identifying climate variability impacts and opportunities, it does not clearly establish climate action as its primary objective. The policy also covers other environmental and sustainability issues, such as waste, energy, water, and environmentally sustainable design. Furthermore, the policy outlines a process for developing annual action plans to achieve the goals set out in the strategy, but it does not specify that these goals are primarily focused on climate action. Therefore, based on the provided context, it cannot be definitively stated that climate action is the core purpose or goal of the policy.",
+      "source": "Corangamite-a-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The policy does not explicitly state that climate action is the core purpose or goal. While the policy does address aspects related to climate change, such as developing locally specific adaptation responses to climate variability and identifying climate variability impacts and opportunities, these are presented as part of a broader environmental and sustainability strategy. The policy also includes goals related to waste, energy, water, environmentally sustainable design, and transport. Furthermore, the policy outlines a process for developing annual action plans to achieve the goals set out in the strategy, but it does not specify that these goals are primarily focused on climate action. Therefore, it can be inferred that while climate action is a significant component of the policy, it is not the core purpose or goal.",
+      "source": "Corangamite-b-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "While the policy does address climate action, it is not the core purpose or goal of the policy. The policy is the East Gippsland Shire Council Environmental Sustainability Strategy 2022-2032, and it is built around seven central goals. These goals include conservation of the natural environment and biodiversity, sustainable management of natural resources, community participation in the climate response, respect and alignment with the rights of Traditional Owner Groups, environmental sustainability supporting sustainable economic growth and new job opportunities, growth in the circular economy, and community resilience to respond to increasing climate risk and natural disasters. Climate action is a significant part of the policy, but it is not the sole focus. The policy aims to address a range of environmental and sustainability challenges prevalent across the municipality.",
+      "source": "EastGippsland-a-a12345678910.json",
+      "lga": "EastGippsland"
+    },
+    {
+      "answer": "The policy does not explicitly state that climate action is the core purpose or goal. Instead, it outlines a broader environmental sustainability strategy, of which climate action is a significant part. The policy is built around seven central goals, one of which is 'Community participation in the climate response'. This goal focuses on the extent to which the whole community (local businesses, community organisations, individuals, and Traditional Owners) undertake and participate in the climate response. However, other goals include conservation of the natural environment and biodiversity, sustainable management of natural resources, respect and alignment with the rights of Traditional Owner Groups, and environmental sustainability supporting sustainable economic growth. Therefore, while climate action is a key aspect of the policy, it is not the sole or core purpose.",
+      "source": "EastGippsland-b-a12345678910.json",
+      "lga": "EastGippsland"
+    },
+    {
+      "answer": "The policy documents do not explicitly state that climate action is the core purpose or goal of the policy. While the policy does address climate change and its impacts, it does not clearly establish climate action as its primary objective. The policy seems to be more focused on community development, planning, and strategic governance, with climate change being one of the many factors considered in these processes. The policy does include actions related to climate change, such as keeping the public informed about climate change impacts, incorporating climate change considerations into the Glenelg Shire planning scheme, and facilitating community-based discussions on the environmental impact of climate change. However, these actions appear to be part of a broader strategy rather than the core purpose of the policy.",
+      "source": "Glenelg-a-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The policy documents do not explicitly state that climate action is the core purpose or goal of the policy. While the policy does address climate change and its impacts, it does not clearly establish climate action as its primary objective. The policy includes actions related to climate change, such as keeping the public informed about climate change impacts, incorporating climate change considerations into the Glenelg Shire planning scheme, and facilitating community-based discussions on the environmental impact of climate change. However, these actions appear to be part of a broader environmental strategy, rather than a dedicated climate action policy. The policy also addresses other environmental issues, such as solid waste management, and includes actions that are not directly related to climate change, such as developing action plans and decision-making tools. Therefore, it cannot be definitively stated that climate action is the core purpose or goal of the policy.",
+      "source": "Glenelg-b-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The policy does not explicitly state that climate action is the core purpose or goal. While the policy does address climate change, it does so as part of a broader environmental sustainability strategy. The policy's stated purpose is to guide the local government's decision-making and management practices to achieve environmentally responsible and sustainable outcomes for the municipality. It also aims to address the potential adverse impacts of climate change and promote the adoption of environmentally sustainable practices within the municipality. However, these are components of the policy's broader environmental sustainability focus, rather than being the core purpose or goal.",
+      "source": "Horsham-a-a12345678910.json",
+      "lga": "Horsham"
+    },
+    {
+      "answer": "The policy documents do not explicitly state that climate action is the core purpose or goal of the policy. While the policy does address climate change and outlines actions related to it, it is not clear that this is the central focus. The policy's stated purpose is to guide the local government's decision-making and management practices to achieve environmentally responsible and sustainable outcomes for the municipality. It also aims to address the potential adverse impacts of climate change and promote the adoption of environmentally sustainable practices within the municipality. However, these goals are part of a broader environmental sustainability strategy, which also includes other aspects such as reducing environmental degradation, building resilience, and promoting sustainable water use. Therefore, while climate action is a significant part of the policy, it cannot be said to be the core purpose or goal based on the provided documents.",
+      "source": "Horsham-b-a12345678910.json",
+      "lga": "Horsham"
+    },
+    {
+      "answer": "The core purpose or goal of the policy, as per the provided documents, does not appear to be climate action. The policy, titled 'Environmental Sustainability Strategy Action Plan 2013-2018', does encompass aspects of environmental sustainability, but it does not explicitly state that climate action is its primary focus. The policy includes various strategic directions and actions, such as advocating for renewable energy projects, incorporating educational material on environmental sustainability, and considering energy efficiency in procurement processes. However, these actions seem to be part of a broader sustainability strategy rather than a focused climate action plan. The policy also includes strategic platforms and core business elements that cover a wide range of areas, from building strong communities to economic development, indicating a broad scope beyond climate action.",
+      "source": "Loddon-a-a12345678910.json",
+      "lga": "Loddon"
+    },
+    {
+      "answer": "The provided documents do not explicitly state that climate action is the core purpose or goal of the policy. The policy, titled 'Environmental Sustainability Strategy Action Plan 2013-2018', appears to be a broad strategy encompassing various aspects of environmental sustainability, including energy management, water management, biodiversity, land management and planning, sustainable transport, waste, and business and industry development. While climate action could be inferred as a component of these areas, it is not explicitly stated as the core purpose or goal. The policy also aligns with the strategic platforms and core business elements of the Loddon Shire Council, which include a range of areas beyond environmental sustainability. Therefore, based on the provided documents, it cannot be definitively stated that climate action is the core purpose or goal of the policy.",
+      "source": "Loddon-b-a12345678910.json",
+      "lga": "Loddon"
+    },
+    {
+      "answer": "The policy does not explicitly state that climate action is the core purpose or goal. While the policy does address climate-related issues, it does so as part of a broader environmental sustainability strategy. The policy outlines objectives and actions under six key themes: Education and Awareness, Water Quality & Water Conservation, Greenhouse Gas Emissions, Waste Management Practices, Biodiversity Management, and Monitoring & Review. While 'Greenhouse Gas Emissions' is one of the key themes, it is not the sole focus of the policy. The policy also includes actions to offset Council's greenhouse emissions and increase understanding and awareness of energy consumption and the impacts of greenhouse gas emissions. However, these actions are part of a broader set of objectives and actions aimed at achieving environmental sustainability, not specifically climate action.",
+      "source": "Moyne-b-a12345678910.json",
+      "lga": "Moyne"
+    },
+    {
+      "answer": "The policy does not explicitly state that climate action is the core purpose or goal. While the policy does include actions related to climate change, such as developing an appropriate mechanism to measure greenhouse gas emissions, facilitating community efforts to adapt to climate change, and encouraging the construction of energy-efficient buildings, these actions are part of a broader sustainability strategy. The policy also addresses other issues such as energy efficiency, building maintenance, and stakeholder relationships. Therefore, while climate action is a significant component of the policy, it is not presented as the core purpose or goal.",
+      "source": "SwanHill-a-a12345678910.json",
+      "lga": "SwanHill"
+    },
+    {
+      "answer": "The policy does not explicitly state that climate action is the core purpose or goal. While the policy does include actions related to climate change, such as developing an appropriate mechanism to measure greenhouse gas emissions, facilitating community efforts to adapt to climate change, and encouraging the construction of energy-efficient buildings, these actions are part of a broader set of goals and tasks. The policy also addresses other issues such as building maintenance, property management, and stakeholder relationships. Therefore, it can be inferred that while climate action is a significant aspect of the policy, it is not the core purpose or goal.",
+      "source": "SwanHill-b-a12345678910.json",
+      "lga": "SwanHill"
+    },
+    {
+      "answer": "While the policy clearly acknowledges the importance of climate action and incorporates it into various aspects of its strategic planning, it does not explicitly state that climate action is the core purpose or goal of the policy. The policy outlines a broad range of focus areas and priority areas, including building environmentally sustainable communities, reducing waste, enhancing resource recovery, and protecting waterways. Climate action is one of these focus areas, but it is not singled out as the primary goal. The policy also acknowledges that the impacts of climate change influence all aspects of council operations and community life, indicating a holistic approach to policy planning rather than a singular focus on climate action.",
+      "source": "Wangaratta-a-a12345678910.json",
+      "lga": "Wangaratta"
+    },
+    {
+      "answer": "While the policy clearly acknowledges the importance of climate action and incorporates it into various aspects of its strategic planning, it does not explicitly state that climate action is the core purpose or goal of the policy. The policy outlines a broad range of focus areas and priority areas, including building environmentally sustainable communities, reducing waste, enhancing resource recovery, and protecting waterways, among others. Climate action is one of these focus areas, but it is not singled out as the primary or central goal. The policy also emphasizes the need to address climate risks and the impacts of climate change on all aspects of council operations and community life, but again, this is part of a broader approach to environmental sustainability and community wellbeing, rather than the core purpose of the policy.",
+      "source": "Wangaratta-b-a12345678910.json",
+      "lga": "Wangaratta"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "settings": {
+    "source_files": [
+      "Buloke-2021-climate-action-plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T13:46:27.972221",
+    "lga": "Buloke"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly outlines climate action as its core purpose. The policy is titled 'Buloke Shire Climate Action Plan 2021', indicating that its primary focus is on climate action. The policy outlines a series of goals and actions aimed at integrating climate considerations into council operations, reducing emissions, managing waste and landfill emissions, improving council and community buildings, and enhancing energy security. The policy also includes measures for low emission transport, transport infrastructure improvements, and improving septic tank management. These actions are all aimed at mitigating and adapting to climate change, which is the central purpose of the policy. The policy also includes measures for monitoring and reporting on the impacts of climate change on council services, further indicating that climate action is the core purpose of the policy.",
+          "quote": {
+            "content": "Mitigating climate change will help to avoid future climate change scenarios and adaptation will help manage the effects of climate change impacts that are unavoidable. Climate change mitigation refers to measures to avoid and reduce greenhouse gas emissions, while adaptation refers to measures to adjust to current and expected impacts of climate change.",
+            "page": 1,
+            "source": "Buloke-2021-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It acknowledges the direct and indirect impacts of climate change on the environment, economy, and people. These impacts are identified as both risks and opportunities arising from physical impacts or transitional impacts, which are the process of adjusting to a changing climate and a low carbon economy. The document also highlights the community's concerns about the increase in extreme temperature days, fire risks, reduced annual rainfall, and disruption to essential services. It further emphasizes the community's efforts towards climate change mitigation and adaptation, such as waste reduction, improving energy efficiency, installing solar panels, and making property improvements. However, it also identifies the lack of systems and infrastructure, and funding as key barriers to mitigating and adapting to climate change.",
+          "quote": {
+            "content": "These impacts can be in the form of both risks and opportunities arising from physical impacts, or transitional impacts (from the process of adjusting to a changing climate and a low carbon economy). Climate change can have direct and indirect impacts on our environment, economy and people.",
+            "page": 1,
+            "source": "Buloke-2021-climate-action-plan.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the local government's climate action plan, which includes measures for integrating climate considerations into council operations, robust emissions measurement, waste and landfill emissions reductions, and improvements to council and community buildings, among other actions. The documents also detail the results of a community survey, which reveals concerns about climate change impacts and suggestions for improving existing systems and infrastructure. However, while these actions and concerns indicate a recognition of the need to address climate change, they do not convey a sense of urgency or a call for rapid action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the policy outlines various goals and actions related to climate change mitigation and adaptation, such as integrating climate into Council operations, robust emissions measurement, waste and landfill emissions reductions, and community building improvements, it does not specify when these actions are to be completed. The policy does mention measures for tracking progress, such as the number of buildings assessed and improvements implemented, reduction in emissions, and the number of households participating in programs. However, without a clear timeline for these actions, it is difficult to assess the urgency of action in this policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The local government's climate action plan outlines various goals and actions related to climate change mitigation and adaptation, such as integrating climate considerations into council operations, reducing emissions, managing waste, improving buildings, and enhancing energy security. However, there is no explicit statement prioritizing these actions over other policies. The documents do emphasize the importance of climate action, with measures such as robust emissions measurement, ongoing emergency management, and waste and landfill emissions reductions. However, the absence of a clear statement prioritizing climate emergency response over other policies prevents a positive answer to the question."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The document does explicitly state that the local government plans to integrate climate considerations into its operations. This is evident in the outlined goals and actions, which include integrating climate scenarios and risk profiles into council briefings and staff inductions, ensuring climate mitigation and adaptation is represented in all relevant documents, policies, and procedures, and developing climate mitigation and adaptation guidance through the local planning scheme. The policy also mentions providing professional development training to planning staff on how to educate residents on climate-ready developments. These actions suggest a comprehensive approach to aligning all council activities with climate policy.",
+          "quote": {
+            "content": "Ensure climate mitigation and adaptation is represented in all relevant documents, policies and procedures.",
+            "page": 3,
+            "source": "Buloke-2021-climate-action-plan.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various actions to be taken for climate change mitigation and adaptation, such as integrating climate into council operations, robust emissions measurement, waste and landfill emissions reductions, and community building improvements, it does not specify any budget or funding allocation for these actions. The policy does mention the role of the council as a 'Funder' in some instances, but it does not provide specific details about the amount of funding or how it will be allocated. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does allocate non-monetary institutional resources to climate action. The plan outlines several actions that involve the use of staff resources. For instance, it mentions the inclusion of climate scenario and risk profile in Councillor briefing packs and staff induction, indicating that staff time and expertise will be used to integrate climate considerations into council operations. The plan also mentions the provision of professional development training to planning staff on how to educate residents on climate-ready developments. This suggests that staff resources will be used for capacity building and public education on climate change. Furthermore, the plan includes actions such as conducting facility assessments, targeting high emitting or at-risk Council-owned facilities first, and identifying specific reduction/adaptation measures for each facility and implementing them. These actions imply the use of staff resources for assessment and implementation of climate mitigation measures.",
+          "quote": {
+            "content": "• Identify specific reduction/adaptation measures for each facility and implement.",
+            "page": 4,
+            "source": "Buloke-2021-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The policy document does indeed empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a number of initiatives aimed at fostering community involvement and education. For instance, it mentions the promotion of community participation in schemes and programs that help them understand their energy bills and seek advice on how to reduce energy consumption. The policy also advocates for community networking through participation in existing programs and grassroots educational campaigns. Furthermore, the policy encourages community solutions towards low-emission transport, such as car-pooling projects. The policy also outlines plans to raise community awareness of electric vehicles and encourage the community to take up state packages. These initiatives demonstrate a clear intent to mobilize the community and educate them on climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of strategies, both technological and behavioural, to reduce emissions. Technological solutions include conducting facility assessments to identify high emitting or at-risk Council-owned facilities, implementing specific reduction/adaptation measures for each facility, and considering a Sustainable Building Policy for new buildings and refurbishments. Behavioural changes are encouraged through community participation in schemes and programs that help them understand their energy bills and seek advice on how to reduce energy consumption. The plan also includes measures to integrate climate considerations into Council operations, robust emissions measurement, and waste and landfill emissions reductions. The plan's approach to mitigation is comprehensive, addressing both the technological and behavioural aspects of greenhouse gas emissions.",
+          "quote": {
+            "content": "• Identify specific reduction/adaptation measures for each facility and implement.",
+            "page": 4,
+            "source": "Buloke-2021-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a variety of measures aimed at both mitigating the effects of climate change and adapting to its impacts. These measures are categorized into 13 goals for climate action, which include integrating climate into Council operations, robust emissions measurement, ongoing emergency management, and waste and landfill emissions reductions. The plan also includes actions such as developing climate mitigation and adaptation guidance through the local planning scheme, providing professional development training to planning staff on how to educate residents on climate-ready developments, and using a tool to monitor the impacts of climate change on Council services and develop responses. Furthermore, the plan includes actions to encourage the community to participate in schemes and programs that help them understand their energy bills and seek advice on how to reduce energy consumption and make their buildings more resilient.",
+          "quote": {
+            "content": "Use the How Well Are We Adapting tool to monitor impacts of climate change on Council services and develop responses. Develop climate mitigation and adaptation guidance through the local planning scheme. Provide professional development training to planning staff on how to educate residents on climate ready developments.",
+            "page": 3,
+            "source": "Buloke-2021-climate-action-plan.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of actions and goals related to climate change mitigation and adaptation, it does not provide specific evidence or data to support these actions. The policy mentions measures such as integrating climate into Council operations, robust emissions measurement, waste and landfill emissions reductions, and low emission transport, among others. However, it does not provide any specific data or research to justify these measures. The policy also mentions a community survey, but it does not provide detailed results or data from this survey. Furthermore, the policy does not cite any external sources, research, or data to support its actions and goals. Therefore, based on the provided documents, it cannot be confirmed that the policy provides well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a variety of goals and corresponding actions, each with a designated role and measure. For instance, the plan includes actions such as conducting facility assessments, developing climate mitigation and adaptation guidance, and implementing a composting program. Each of these actions is paired with a specific measure, such as the number of buildings assessed and improvements implemented, the reduction in emissions, and the number of households participating in programs. These measures provide a clear and quantifiable means of evaluating the success of the plan's actions. The inclusion of these measures demonstrates a commitment to accountability and effectiveness in the plan's approach to climate action.",
+          "quote": {
+            "content": "Number of households \nand residents \nparticipating in programs\nCommunity emissions \nreductions\nNumber of Sustainability \nGrants funded. Reduction in BSC \nemissions.",
+            "page": 4,
+            "source": "Buloke-2021-climate-action-plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has undertaken a community survey to understand the concerns and ideas of the community regarding climate change. The survey results have been used to identify the community's top concerns about climate change impacts, their efforts towards climate change mitigation and adaptation, and the areas they would like to receive more support in implementing. The survey has also gathered the community's ideas on how to improve existing systems and infrastructure, and how the local government can best support the community to take climate action. This information is crucial in informing the local government's climate actions, ensuring they are responsive to the community's needs and ideas.",
+          "quote": {
+            "content": "Of the 2030 climate scenario predictions, respondents \nwere most concerned about increase in extreme  \ntemperature days and fire risk and reduced \nannual rainfall. In developing this Draft Plan, Ndevr Environmental \nundertook a community survey.",
+            "page": 2,
+            "source": "Buloke-2021-climate-action-plan.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. The local government's climate action plan outlines a series of actions, such as integrating climate into council operations, reducing waste and landfill emissions, improving council and community buildings, and enhancing energy security. However, these actions largely represent standard approaches to climate action, rather than innovative or experimental policies. The plan also includes measures for monitoring and reporting on these actions, but again, these are standard practices rather than innovative approaches. The community survey results indicate a desire for more support in implementing climate actions, but the proposed actions do not appear to involve novel or experimental strategies. Therefore, based on the provided documents, it cannot be affirmed that the local government is engaging in policy experimentation or innovation in its climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines several actions that involve advocacy, such as advocating for equitable access to insurance and policies which include climate considerations, advocating for suitable transmission and distribution infrastructure to support renewable energy projects, and advocating for the state to co-fund chargers and electricity costs for electric vehicles. These actions indicate that the local government is not only taking steps within its own jurisdiction but is also actively seeking support from higher levels of government to implement broader climate action strategies."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The document does explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. It outlines a variety of actions that aim to integrate climate considerations into council operations, such as including climate scenarios and risk profiles in councillor briefing packs and staff induction, and providing professional development training to planning staff on climate-ready developments. The document also emphasizes the importance of community involvement, encouraging community participation in schemes and programs that help them understand their energy bills and make their buildings more resilient. It also advocates for equitable access to insurance and policies which include climate considerations. However, the document does not explicitly mention coordination with neighbouring local councils.",
+          "quote": {
+            "content": "• Measure baseline corporate and community \nemissions in line • Ensure climate mitigation and adaptation is \nrepresented in all relevant documents, policies and \nprocedures. Continue reporting on sustainability \nimplications in Reports to Council. • Develop climate mitigation and adaptation \nguidance through the local planning scheme. • Provide professional development training to \nplanning staff on how to educate residents on \nclimate ready developments. • Use the How Well Are We Adapting tool to \nmonitor impacts of climate change on Council \nservices and develop responses.",
+            "page": 3,
+            "source": "Buloke-2021-climate-action-plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the policy does mention collaboration and partnership in several instances, such as looking for partner opportunities to conduct a feasibility study and transition planning to electrify fleet vehicles, or collaborating with the Mallee Hydrogen Technology Cluster to identify opportunities, it does not specify any particular regional associations or alliances. The policy also mentions advocating for certain measures and encouraging community participation, but again, no specific partnerships or alliances are named in these contexts."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the potential impacts of climate change on the community, economy, and environment, they do not specifically address how these impacts might disproportionately affect vulnerable populations. The documents focus on general mitigation and adaptation strategies, such as waste reduction, energy efficiency, and building improvements, without discussing how these strategies might be implemented in a way that addresses social inequities. Furthermore, while the documents mention community concerns about the impact of climate change on quality of life and economic viability, they do not delve into how these concerns might be heightened for vulnerable communities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy outlines various actions and strategies to mitigate and adapt to climate change, it does not specifically address the distribution of these benefits and opportunities among different social groups. The policy does mention advocating for equitable access to insurance and policies which include climate considerations, but this does not directly relate to the sharing of benefits and opportunities of a safe climate. Therefore, based on the provided documents, the policy does not meet the criteria for a positive response to the question."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 11,
+    "num_questions": 20,
+    "attribute_score": 61.7
+  }
+}

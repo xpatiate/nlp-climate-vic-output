@@ -1,0 +1,322 @@
+{
+  "settings": {
+    "source_files": [
+      "Mansfield-2021-climate-action-plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T21:29:30.767105",
+    "lga": "Mansfield"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Mansfield Shire Climate Action Plan, clearly identifies climate action as its core purpose. The policy is designed to address the threat of climate change to the community's way of life. It outlines the local government's commitment to mitigating the impacts of climate change within its own operations and supporting the community to reduce municipal greenhouse gas emissions and adapt to a changing climate. The policy includes specific actions to be undertaken by the Council to achieve its goal, targets, and objectives. These actions include renewable power purchase, energy-efficient buildings and solar PV, street lighting upgrades, fleet transition, and the purchase of offsets. The policy also outlines the key community emissions reduction action areas and Council interventions identified to drive community climate action. These areas include transport, residential and commercial energy, agriculture, land use, and waste.",
+          "quote": {
+            "content": "In doing so, Mansfield Shire Council has made a firm commitment to mitigate the impacts of climate change within Council’s own operations and to support the community to reduce municipal greenhouse gas emissions and adapt to a changing climate. Mansfield Shire Council (Council) acknowledges that climate change is a threat to our community’s way of life. In response, Council has passed a Councillor initiated resolution to develop a Mansfield Shire Climate Action Plan as outlined in Mansfield Shire’s Environment Strategy 2019-2023.",
+            "page": 4,
+            "source": "Mansfield-2021-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The Mansfield Shire Council acknowledges climate change as a threat to the community's way of life and has committed to mitigating its impacts within Council's operations and supporting the community to reduce greenhouse gas emissions. The Council's Climate Action Plan outlines key actions to be undertaken to achieve the goal of emissions reduction, including renewable power purchase, energy-efficient buildings and solar PV, street lighting upgrades, fleet transition, and purchase of offsets. The plan also identifies key sectors for community emissions reduction action areas, such as transport, residential and commercial energy, agriculture, land use, and waste. The Council is committed to demonstrating leadership in emissions reductions and climate change management, implementing cost-saving projects, supporting the community to implement climate action, and participating in collaborative efforts for emissions reduction initiatives.",
+          "quote": {
+            "content": "In doing so, Mansfield Shire Council has made a firm commitment to mitigate the impacts of climate change within Council’s own operations and to support the community to reduce municipal greenhouse gas emissions and adapt to a changing climate. Mansfield Shire Council (Council) acknowledges that climate change is a threat to our community’s way of life. In response, Council has passed a Councillor initiated resolution to develop a Mansfield Shire Climate Action Plan as outlined in Mansfield Shire’s Environment Strategy 2019-2023.",
+            "page": 4,
+            "source": "Mansfield-2021-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. The Mansfield Shire Council acknowledges climate change as a threat to the community's way of life and has made a firm commitment to mitigate its impacts. The Council has passed a resolution to develop a Climate Action Plan, which includes a commitment to a Net Zero Emissions target by 2025. This target is indicative of the urgency with which the Council is approaching climate change mitigation. The Council also recognizes the need for action at all levels, including local service and infrastructure provision, regional level initiatives, and advocacy at the state and national government level. The documents also mention the Paris Agreement and the need to stay within the carbon budget set by the IPCC, further emphasizing the urgency of the situation."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Mansfield Shire Council has committed to a zero net emissions target by 2025, which is a clear and specific timeframe. This target is set within the framework of a carbon budget calculated based on the national carbon budget as outlined by the IPCC. The Council also plans to sign up to 100% renewable electricity by 2025 through a power purchase agreement (PPA). This will be achieved when existing energy contracts with Procurement Australia expire in July 2022. These specific timeframes demonstrate the Council's commitment to urgent action on climate change.",
+          "quote": {
+            "content": "As of July 2022, when existing energy contracts with Procurement Australia expire Council will sign up to a renewable power purchase scheme. This will be achieved through a power purchase agreement (PPA).",
+            "page": 21,
+            "source": "Mansfield-2021-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Mansfield Shire Council's Climate Action Plan outlines a comprehensive approach to addressing climate change, including reducing greenhouse gas emissions, implementing renewable energy initiatives, and advocating for supportive policy environments at the state and national level. However, it does not explicitly prioritize these actions over other policies. The plan is framed as a necessary and important part of the council's overall strategy, but it does not explicitly state that it should take precedence over other policy areas. Therefore, without explicit evidence, it cannot be affirmed that a climate emergency response must have higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive Climate Action Plan, including a commitment to reduce greenhouse gas emissions, the implementation of projects for cost-savings and value to Council operations, and the support of community climate action, they do not specifically mandate that all council activities must align with this policy. The documents do suggest that climate considerations will be embedded into several Council processes such as planning, community engagement, and waste management, but this does not equate to a requirement for all activities to be aligned with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that the local government's climate action plan allocates funding for climate action. While the plan outlines various actions and interventions to be undertaken by the council, such as implementing renewable power purchases, energy-efficient buildings and solar PV, street lighting upgrades, fleet transition, and the purchase of offsets, it does not specify any budget or funding allocation for these actions. The plan mentions that the actions within the community section of the Action Plan will be incorporated into existing roles and budgets, but it does not provide specific details about the financial resources that will be mobilized for climate action. Therefore, based on the available information, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Climate Action Plan of the local government does allocate non-monetary institutional resources to climate action, although it does not specify the allocation of staff. The plan outlines that the implementation of the Action Plan will require climate considerations to be embedded into several Council processes such as planning, community engagement, and waste management. It also mentions that the actions within the community section of this Action Plan will be incorporated into existing roles and budgets. This suggests that existing staff will be mobilized to implement the plan, although it does not explicitly state that additional staff will be allocated. Furthermore, the plan outlines collaboration with various stakeholders, which implies the allocation of institutional resources for coordination and collaboration efforts.",
+          "quote": {
+            "content": "It is however intended that the actions within the community section of this Action Plan will be incorporated into existing roles and budgets. Implementation of the Action Plan will require climate considerations to be embedded into several Council processes such as planning, community engagement, and waste management.",
+            "page": 32,
+            "source": "Mansfield-2021-climate-action-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a number of interventions aimed at supporting community climate action, such as providing education to the community and the building industry to encourage low emissions building development, supporting community energy projects, and promoting sustainable transport options. The policy also commits to engaging with and supporting community climate action and being responsive to community advocacy, initiatives, and proposals as they arise. This suggests a proactive approach to social mobilisation, with the local government taking on a role of facilitator and supporter of community-led climate action. However, the document does not provide specific details on how these interventions will be implemented, which could limit their effectiveness in mobilising the community.",
+          "quote": {
+            "content": "Moving forward Council is committed to engaging with and supporting community climate action and will be responsive to community advocacy, initiatives, and proposals as they arise.",
+            "page": 9,
+            "source": "Mansfield-2021-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Mansfield Shire Council's Climate Action Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of technological solutions and behaviour changes. Technological solutions include the implementation of energy efficiency improvements in buildings, renewable energy generation, low emissions technology upgrades in buildings and fleet, renewable energy power purchase, and options for offsetting remaining emissions to achieve net zero emissions status. The plan also includes behaviour changes such as planning for low emissions buildings, promoting sustainable transport options, and supporting local food production and sustainable diets. The plan also outlines Council's commitment to sign up to 100% renewable electricity by 2025 through a power purchase agreement. Furthermore, the plan includes the development of an Ecologically Sustainable Design (ESD) Policy for Council by 2026, which will ensure energy efficiency is considered at the design stage of any new buildings or major renovations.",
+          "quote": {
+            "content": "It establishes a timeline for Council’s corporate emissions and identifies opportunities within, but not limited to, the following key areas of Council’s operations: energy efficiency improvements in buildings; renewable energy generation; low emissions technology upgrades in buildings and fleet; renewable energy power purchase; and options for offsetting remaining emissions to achieve net zero emissions status. The Plan outlines best practice approaches, trends and opportunities for Council to reduce greenhouse gas emissions (emissions), both in their own operations and throughout the community.",
+            "page": 11,
+            "source": "Mansfield-2021-climate-action-plan.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Mansfield Shire Council's Climate Action Plan does include specific actions for climate adaptation and resilience. The plan acknowledges the need to build community capacity to respond effectively to climate change. It commits to ensuring the resilience of residents, businesses, and the wider community through support from the Council. The plan also outlines the Council's commitment to mitigate the impacts of climate change within its own operations and to support the community to reduce municipal greenhouse gas emissions and adapt to a changing climate. The plan identifies key sectors for community emissions reduction action areas, including transport, residential and commercial energy, agriculture, land use, and waste. For each action area, a set of key interventions have been selected, which aim to offer support that is valuable to the community and leverages Council’s strengths and available resources.",
+          "quote": {
+            "content": "Both the Health and Wellbeing Plan and the Economic Development Plan commit to ensuring the resilience of residents, businesses and the wider community through support from Council. The Council Plan recognises the impacts and opportunities presented by climate change, and acknowledges the very real need to build community capacity in order to respond effectively.",
+            "page": 14,
+            "source": "Mansfield-2021-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a detailed plan for climate action, with specific targets and actions that are well justified. The Mansfield Shire Council's Climate Action Plan is based on the Victorian Local Government Act 2020, which mandates councils to promote environmental sustainability and plan for climate change risks. The plan outlines specific actions such as implementing projects that demonstrate cost-savings and good value to Council operations, supporting the broader community to implement climate action and emissions reduction projects, and participating in collaborative efforts for emissions reduction initiatives. The plan also sets a target for the Council to sign up to 100% renewable electricity by 2025. The Council's interventions in community emissions reduction are also well detailed, with key sectors identified and specific interventions selected. The document also acknowledges that the Council only has a limited amount of control and influence over many of the community emissions sources, indicating a realistic understanding of the challenges involved.",
+          "quote": {
+            "content": "It establishes a timeline for Council’s corporate emissions and identifies opportunities within, but not limited to, the following key areas of Council’s operations: energy efficiency improvements in buildings; renewable energy generation; low emissions technology upgrades in buildings and fleet; renewable energy power purchase; and options for offsetting remaining emissions to achieve net zero emissions status. The Plan outlines best practice approaches, trends and opportunities for Council to reduce greenhouse gas emissions (emissions), both in their own operations and throughout the community.",
+            "page": 11,
+            "source": "Mansfield-2021-climate-action-plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific measurable criteria to evaluate the success of the proposed actions in the plan. While the plan outlines various actions to be undertaken by the Council, such as signing up to 100% renewable electricity by 2025, improving sustainable transport infrastructure, and developing an Ecologically Sustainable Design (ESD) Policy, it does not explicitly state the criteria or metrics that will be used to measure the success of these actions. The documents mention the goal of reducing greenhouse gas emissions and promoting sustainability, but they do not provide specific targets or benchmarks that would allow for a clear evaluation of the plan's success. Therefore, based on the provided context, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The documents do mention the development of a Climate Action Background Paper with the support of Ironbark Sustainability to identify opportunities for the Council to reduce and offset emissions. However, this does not explicitly indicate that research will be conducted within the local community. The documents also mention the Council's commitment to engaging with and supporting community climate action and being responsive to community advocacy, initiatives, and proposals. However, this is more indicative of a reactive approach to community input rather than a proactive research initiative. Therefore, based on the provided documents, it cannot be conclusively stated that there are plans to conduct research in the local community to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The Mansfield Shire Council's Climate Action Plan does show evidence of innovation and policy experimentation in climate action. The plan outlines a comprehensive approach to reducing greenhouse gas emissions, both within the council's operations and throughout the community. It includes a variety of strategies, such as energy efficiency improvements in buildings, renewable energy generation, low emissions technology upgrades in buildings and fleet, renewable energy power purchase, and options for offsetting remaining emissions to achieve net zero emissions status. The plan also includes a commitment to engage with and support community climate action, demonstrating a willingness to experiment with different approaches and interventions. The council's commitment to sign up to 100% renewable electricity by 2025 through a power purchase agreement is a clear example of policy innovation. Furthermore, the plan's focus on sustainable transport infrastructure, including investment in cycling and walking infrastructure and advocacy for resources to implement linking bike paths and electric vehicle charging stations, shows a forward-thinking approach to climate action.",
+          "quote": {
+            "content": "This will be achieved through a power purchase agreement (PPA).",
+            "page": 21,
+            "source": "Mansfield-2021-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the local government's commitment to providing a voice for the community at the state and national government level to drive action towards a more supportive policy environment for climate change mitigation and adaptation. This is seen as a strategic approach to leverage the local government's position to support community emissions reduction. The policy also emphasizes the role of the local government in demonstrating leadership in emissions reductions and climate change management, and in participating in collaborative efforts for emissions reduction initiatives with regional council groups and State Government.",
+          "quote": {
+            "content": "Providing a voice for the community at the state and national government level to drive action towards a more supportive policy environment for climate change mitigation and adaptation.",
+            "page": 31,
+            "source": "Mansfield-2021-climate-action-plan.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines the council's commitment to climate action, including reducing greenhouse gas emissions from both their own operations and the whole municipality. The council has developed a Climate Action Background Paper to identify opportunities for reducing and offsetting emissions. The council also plans to work at the regional level to deliver low emissions transitions strategically, such as the roll-out of electric vehicle charging infrastructure and exploration of low emissions agriculture. Furthermore, the council aims to provide a voice for the community at the state and national government level to drive action towards a more supportive policy environment for climate change mitigation and adaptation. The council also plans to support community climate action and will be responsive to community advocacy, initiatives, and proposals as they arise.",
+          "quote": {
+            "content": "This establishes a requirement for councils to consider and reduce the greenhouse gas emissions (emissions) of both their own operations and the whole municipality. Within the Victorian Local Government Act 2020, an overarching governance principle is ‘the economic, social and environmental sustainability of the municipal district, including mitigation and planning for climate change risks, is to be promoted’.",
+            "page": 11,
+            "source": "Mansfield-2021-climate-action-plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations and alliances related to climate action. The Mansfield Shire Council's Climate Action Plan mentions the council's collaboration at the regional level through its continued participation in the Goulburn Murray Climate Alliance (GMCA). This alliance is involved in programs such as 'Charging the Regions', which are aimed at supporting local governments in understanding their role in providing or facilitating public electric vehicle charging infrastructure. This indicates that the council is not only aware of the importance of regional partnerships in addressing climate change but is actively participating in such alliances to drive climate action.",
+          "quote": {
+            "content": "Programs such as Charging the Regions which are aimed as supporting local governments understand their role in providing or facilitating public electric vehicle charging infrastructure.",
+            "page": 33,
+            "source": "Mansfield-2021-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline the local government's commitment to mitigating climate change impacts and reducing greenhouse gas emissions, they do not specifically address how these efforts will affect or benefit vulnerable communities. The documents mention the development of a Climate Action Plan, the promotion of low emissions transitions, and the advocacy for a supportive policy environment for climate change mitigation and adaptation. However, these actions are not explicitly linked to the concept of 'equity and social justice' or to the impact on vulnerable communities. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses the impact of climate change on vulnerable communities in terms of 'equity and social justice'."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline the local government's commitment to mitigating the impacts of climate change and reducing greenhouse gas emissions, they do not specifically address the distribution of benefits and opportunities arising from these actions. The documents focus on the technical and strategic aspects of climate action, such as emissions reduction, sustainable transport infrastructure, and energy efficiency. However, they do not delve into the social implications of these actions or how they might contribute to social justice or equity. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 70
+  }
+}

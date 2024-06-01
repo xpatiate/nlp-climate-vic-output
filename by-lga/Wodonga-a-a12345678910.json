@@ -1,0 +1,300 @@
+{
+  "settings": {
+    "source_files": [
+      "Wodonga-2017-Climate_Change_Adaptation_Action_Plan.pdf",
+      "Wodonga-2017-climate-policy.pdf",
+      "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-14T15:31:30.754347",
+    "lga": "Wodonga"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy's core purpose is indeed centered on climate action. The policy is designed to guide strategies, evaluate and assess projects and policies, and enable the Council to manage its climate change vulnerability, thereby increasing the organisation’s resilience and preparation for the future. The policy's objectives include reducing greenhouse gas emissions through appropriate mitigation strategies, applying risk management to develop adaptation strategies, conserving natural resources, and evaluating the climate change implications when making strategic and operational decisions. The policy also applies to Council services and assets and is to be considered when Council and its officers make recommendations. The policy is supported by a Climate Change Adaptation Action Plan, which outlines specific actions to be taken to adapt to and mitigate the impacts of climate change."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The local government recognizes the severity of climate change and understands that adaptation planning is fundamental to mitigating the adverse impacts associated with it. The Climate Change Adaptation Action Plan (CCAAP) is presented as a demonstration of the council's actions to adapt and mitigate the impacts of climate change. The plan is designed to reduce the vulnerability of the council's assets and services, while empowering the community to be healthy, connected, and resilient. The council has used an evidence-based approach for the development of the CCAAP, prioritizing actions based on climate risks and opportunities specific to their local region. The documents also highlight the legislative responsibilities of local governments to incorporate climate risk mitigation and adaptation actions into all operations."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a Climate Change Adaptation Action Plan for the years 2022-2027, which includes various strategies and actions to address climate change, such as reducing greenhouse gas emissions, developing adaptation strategies, conserving natural resources, and evaluating climate change implications in decision-making. However, the language used in the documents does not convey a sense of urgency or immediacy. The actions are planned to be implemented within a certain timeframe (e.g., within 2 years), but this does not necessarily imply that the actions are urgent. The documents also mention the need to consider climate change in various aspects of local government operations and planning, but again, this does not suggest that immediate action is required."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents indeed provide specific timeframes for the intended actions on climate change. The Climate Change Adaptation Action Plan 2022 - 2027 outlines a series of actions with clear timelines. For instance, the plan mentions that actions with high priority scores are to be implemented within two years. This is seen in the action plan where actions such as 'Ongoing emissions reporting', 'Become members of Cities Power Partnership', and 'Set net zero emissions target' are all marked with a high priority and a timeline of 'within 2 years'. The document also mentions that medium priority actions are to be implemented between three and seven years, and low priority actions after seven years. This indicates a clear sense of urgency and a structured approach to tackling climate change.",
+          "quote": {
+            "content": "In addition, timing intervals are provided for implementation based on their prioritisation rating.",
+            "page": 13,
+            "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. They do, however, outline a number of actions and strategies related to climate change adaptation and mitigation. These include the development of a monitoring system that links climate data with climate risk occurrence, the ongoing review and revision of emergency management/response planning, and the inclusion of climate change considerations in all operational strategies and plans. The documents also mention the need for local governments to consider climate change in their decision-making processes, as required by the Victorian Climate Change Act (2010) and the Local Government Act 2020 (Vic). However, none of these actions or strategies are explicitly prioritized over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that all council activities must be aligned with climate policy. The Climate Change Adaptation Action Plan (CCAAP) developed by the council is designed to address climate-related risks and opportunities, with each action assigned to a relevant directorate and Key Performance Indicators (KPIs) established for monitoring progress. The documents also highlight the importance of embedding climate change considerations in all operational strategies and plans to ensure strong and responsible leadership. This includes facilitating greater engagement and action with staff on climate change, ensuring climate change is embedded in all council documents with specific actions, and ensuring all planned activities risk assessment includes climate change risk as part of the risk register review. The documents also mention that the council's actions are significantly influenced by legislative obligations and are restricted by resourcing and budget considerations, indicating that the alignment of council activities with climate policy is also subject to these factors.",
+          "quote": {
+            "content": "Embedding climate change considerations in all operational strategies and plans will ensure strong and responsible leadership, increase the adaptive capacity of the organisation and build healthier and more resilient communities. It is important to note that all documents pertaining to council operations need to keep climate change adaptation and mitigation in consideration.",
+            "page": 9,
+            "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's climate change adaptation plan does allocate funding for climate action, although it does not provide specific details on the amount of funding or the exact sources. The plan mentions an increase in funding opportunities at both federal and state levels for climate action. For instance, Sustainability Victoria is noted as having provided specific funding for local governments. This suggests that the local government is actively seeking and utilizing external funding opportunities to support its climate action initiatives. However, the plan does not provide a detailed breakdown of the funding allocation, which would be necessary to fully assess the adequacy and effectiveness of the funding strategy.",
+          "quote": {
+            "content": "For example, Sustainability Victoria has provided specific funding for local governments. There has been an increase to funding opportunities at both federal and state levels for climate action.",
+            "page": 24,
+            "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate change adaptation plan does allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific actions, their priority, timing, and the responsible department or team. For instance, the plan assigns the 'Planning and Building' department to work with NECMA and CFA to identify a measurable trigger point to review the adequacy of planning scheme mapping. The 'Strategic Asset Management' is tasked with continuing to implement, review, and revise the Stormwater drainage Asset Management Plan considering climate change impacts and sustainability measures. The 'Sustainability' team is responsible for staying abreast of external programs to promote and help fund opportunities for actions. The 'Emergency Response' team is tasked with ongoing review and revision of emergency management/response planning. The plan also mentions that the Director of Business Services, through the Sustainability team, has overall responsibility for the Adaptation Plan and will report progress on implementing the Adaptation Plan to executive level every six months.",
+          "quote": {
+            "content": "The Director of Business Services through the Sustainability team has overall responsibility for the Adaptation Plan and will report progress on implementing the Adaptation Plan to executive level every six months.",
+            "page": 21,
+            "source": "Wodonga-2017-Climate_Change_Adaptation_Action_Plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a Climate Change Adaptation Action Plan (CCAAP) developed with community feedback and aimed to be implemented in partnership with the community. The policy also highlights the importance of facilitating greater engagement and action with staff on climate change. Furthermore, the policy outlines specific actions such as providing education support to local community groups, developing programs that target the engagement of disadvantaged populations, and implementing awareness campaigns. These actions are designed to engage the community and foster a collective response to climate change. The policy also acknowledges the importance of considering climate change in all council operations and strategic decision-making, further emphasizing the role of the community in climate action.",
+          "quote": {
+            "content": "This CCAAP has been developed with community feedback and is aimed to be implemented in partnership. Local governments are often the first to respond to climate change impacts and through our close links with community, are able to develop localised CCAAPs in conjunction with community to drive change.",
+            "page": 9,
+            "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's climate change policy and adaptation plans do include specific actions for the mitigation of greenhouse gas emissions. The policy outlines objectives such as reducing greenhouse gas emissions through appropriate mitigation strategies and evaluating the climate change implications when making strategic and operational decisions. The adaptation plans further detail actions to be taken, such as promoting the Council Alliance for a Sustainable Built Environment tool for assessing building energy efficiency to developers, and designing urban spaces with shade and connectedness to reduce heat island effect. These actions indicate a combination of technological solutions and behaviour change strategies. However, while the policy and plans do mention these actions, they do not provide detailed information on how these actions will be implemented, monitored, or evaluated."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a comprehensive Climate Change Adaptation Action Plan, which identifies risks to the continued delivery of services and protection of assets from future climate impacts. The plan also develops responses to address these risks, which become adaptation actions when implemented. These actions aim to increase the Council's resilience and preparedness for the future. The plan also includes a process of regularly monitoring and updating the adaptation actions based on new knowledge or technologies. The policy also mentions the implementation of the Adaptation Plan through the Council's Risk Management Framework, with strategic risks reviewed every six months by the Executive and quarterly by the Audit team. The policy also emphasizes building adaptive capacity within the organization.",
+          "quote": {
+            "content": "These responses become adaptation actions when implemented and will help to increase Council’s resilience and be better prepared for the future. This Adaptation Plan has been developed in response to a recognition that despite efforts to mitigate climate change some form of adaptation is inevitable. The Adaptation Plan has identified risks to the continued delivery of services and protection of assets from future climate impacts, and developed responses to address these risks.",
+            "page": 22,
+            "source": "Wodonga-2017-Climate_Change_Adaptation_Action_Plan.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline various actions and strategies related to climate change adaptation, they do not provide specific, well-sourced evidence to support these actions. For instance, the documents mention the development of a Climate Change Adaptation Action Plan, the implementation of risk management strategies, and the integration of climate change considerations into local government planning. However, they do not provide detailed, evidence-based justifications for these actions. The documents also lack specific climate targets, making it difficult to assess the adequacy of the proposed actions. Furthermore, while the documents reference various climate risks, they do not provide clear, well-sourced evidence linking these risks to the proposed actions. Therefore, the documents do not meet the high standard of evidence required to positively answer the question."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate change adaptation plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines Key Performance Indicators (KPIs) for each action, which serve as measurable values to demonstrate how effectively the government is achieving its key objectives. For instance, the plan includes actions such as 'Ongoing emissions reporting' with a KPI of 'Continued emissions software subscription Annual reporting'. Another action, 'Work with NECMA and CFA to identify a measurable trigger point to review the adequacy of planning scheme mapping', has a KPI of 'Threshold implemented in review policy Review undertaken'. These KPIs provide clear, measurable criteria for evaluating the success of the plan's actions. Furthermore, the plan also includes a timeline for each action, indicating when the action is expected to be implemented, which adds another layer of specificity and measurability."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has implemented a community survey to gather input and feedback from the community regarding their concerns about climate change, key priorities, and desire for council action. The survey findings were then used to inform the development of the Climate Change Adaptation Action Plan (CCAAP). This approach ensures that the local community's concerns and priorities are taken into account when formulating climate actions. Furthermore, the documents also mention the need for a continuous improvement cycle for identifying and delivering adaptation actions, which implies an ongoing process of research and feedback from the community.",
+          "quote": {
+            "content": "The survey findings were then used to inform the development of the CCAAP. A survey was developed that sought input and feedback from the community regarding their concerns about climate change, key priorities and desire for council action.",
+            "page": 12,
+            "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. They outline the local government's Climate Change Adaptation Action Plan, which includes measures such as executive endorsement of the plan, final project evaluation and reporting, piloting/testing of selected actions, knowledge sharing plan, and implementation plans. The documents also mention the development of adaptation actions in response to identified risks from climate change, and the need for a continuous improvement cycle for identifying and delivering adaptation actions. However, these actions seem to be standard responses to climate change rather than innovative or experimental policies. The documents do not detail any unique, novel, or experimental approaches that the local government is taking in its climate action. Therefore, based on the provided documents, the answer to the question is negative."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of an explicit intent to advocate upward to state and national governments to support climate action. While the documents do mention the existence of state and federal funding opportunities for climate action, and the local government's responsibility under various state policies and legislation, they do not explicitly state an intent to advocate for more support from these higher levels of government. The documents primarily focus on the local government's own plans and actions for climate change adaptation, such as embedding climate change considerations in council operations, facilitating staff engagement on climate change, and implementing a climate change risk assessment. Therefore, based on the provided context, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government policy encourages building local capacity across the council, their local communities, and neighbouring local councils for climate action. The Climate Change Adaptation Action Plan (CCAAP) has been developed with community feedback and is aimed to be implemented in partnership. The policy also emphasizes facilitating greater engagement and action with staff on climate change. The CCAAP 2017-2021 was developed to assist council operations to increase the resilience of council’s infrastructure and service delivery by building internal capacity to absorb, adapt and adjust to the expected impacts of climate change. It also promotes cooperative partnerships with neighbouring councils to facilitate adaptation. Therefore, the policy explicitly encourages building local capacity across council, their local communities and neighbouring local councils for climate action.",
+          "quote": {
+            "content": "The CCAAP 2017-2021 was developed to assist council operations to: • Embed the climate change lens over all operational and strategic policy and decision-making; • Increase the resilience of council’s infrastructure and service delivery by building internal capacity to absorb, adapt and adjust to the expected impacts of climate change; and, • Promote co-operative partnerships with neighbouring councils to facilitate adaptation.",
+            "page": 9,
+            "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations or alliances related to climate. Specifically, it mentions the Goulburn Murray Climate Alliance. This alliance is mentioned in the context of the local government's planned actions to adapt to climate change. The document suggests that the local government plans to continue actively participating in projects of the Goulburn Murray Climate Alliance to mitigate and adapt to climate change through a collaborative approach. This indicates that the local government recognizes the importance of partnerships and collaborations in addressing climate change, and is actively involved in such efforts through its participation in this alliance."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the need for local governments to consider climate change impacts and develop adaptation plans, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents discuss the potential impacts of climate change on various aspects such as health, wellbeing, safety, nature, economy, and infrastructure, but they do not delve into the social justice implications or the equity concerns related to these impacts. Therefore, based on the provided context, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions for climate change adaptation and risk management, they do not specifically address the distribution of benefits and opportunities. The documents focus more on the practical aspects of climate change adaptation, such as planning for extreme weather events, reducing greenhouse gas emissions, and integrating climate change considerations into local government decision-making. They also mention the importance of community engagement and consultation in developing climate change adaptation plans. However, the concept of 'equity and social justice' in the context of sharing the benefits and opportunities of a safe climate is not explicitly discussed."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 71.7
+  }
+}

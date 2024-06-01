@@ -1,0 +1,298 @@
+{
+  "settings": {
+    "source_files": [
+      "Whittlesea-climate-change-plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-14T15:25:14.672299",
+    "lga": "Whittlesea"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Whittlesea Climate Change Plan 2022-2032, clearly identifies climate action as its core purpose. The policy outlines the local government's planned actions to mitigate and adapt to climate change up to 2032. It presents an analysis of trends impacting the climate and environment and is informed by feedback from institutional stakeholders and the wider community. The policy is committed to delivering actions across six themes, one of which is climate change. The policy also outlines a review process in 2027 and 2032, in line with the latest climate science, emissions profile, and inventory updates, as well as new mitigation and adaptation technologies that become available. This indicates a long-term commitment to climate action. The policy also includes a focus on community engagement and consultation, indicating an inclusive approach to climate action.",
+          "quote": {
+            "content": "Climate ready 3. It presents an analysis of trends impacting our climate and environment, is informed by feedback from our institutional stakeholders and wider community, and contributes to the following Whittlesea 2040 'key directions' for the Sustainable Environment Goal: 1. Valued natural landscapes and biodiversity 2.",
+            "page": 2,
+            "source": "Whittlesea-climate-change-plan.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It acknowledges the unprecedented challenge that climate change presents both globally and locally, with the increasing frequency and severity of extreme weather events such as bushfires, floods, storms, and droughts. The document identifies human activities, particularly the burning of fossil fuels for electricity, transport, and manufacturing, as the dominant cause of climate change. It emphasizes the urgency of climate action to stabilize the changing climate and reduce overall emissions. The document also highlights the role of the Council and the community in working together to create a climate-resilient future and limit global temperature rise to 1.5 degrees Celsius, as outlined in the 2015 Paris Agreement and strengthened in the 2021 Glasgow Climate Pact.",
+          "quote": {
+            "content": "As greenhouse gas (GHG) emissions from human activities such as burning fossil fuels for generating electricity, transport, and manufacturing, are the dominant cause of climate change, urgent climate action is required to stabilise the changing climate. The frequency and severity of extreme weather events such as bushfires, floods, storms and droughts are on the rise.",
+            "page": 2,
+            "source": "Whittlesea-climate-change-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document indeed calls for rapid and urgent action on climate change. It acknowledges the unprecedented challenge that climate change presents both globally and locally, and the increasing frequency and severity of extreme weather events. The document emphasizes the need for immediate, rapid, and large-scale reductions in greenhouse gas emissions to limit global warming to 1.5°C or even 2°C. It also highlights that the actions taken in the next decade will shape the future of the community by 2040. The document outlines the council's role in minimizing its own emissions and supporting the community to take climate action. It also mentions the council's plan to ramp up its action by employing best practice emissions accounting and reporting approaches, identifying opportunities to further reduce corporate emissions, and reducing reliance on offsetting by continuing to reduce council's residual emissions.",
+          "quote": {
+            "content": "Our actions in the next decade will shape what a 2040 future will look like for our community. Immediate, rapid and large-scale reductions in greenhouse gas emissions are required to limit warming to 1.5°C or even 2°C.",
+            "page": 7,
+            "source": "Whittlesea-climate-change-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate change. It outlines a Climate Change Plan for the period of 2022-2032, indicating a ten-year plan of action. The document also mentions that the Climate Change Plan will be reviewed in 2027 and 2032, suggesting that there are specific milestones within the ten-year period where the plan's effectiveness and relevance will be evaluated. Furthermore, the document refers to an integrated Sustainable Environment Action Plan, which outlines the actions that the Council is committed to delivering across six themes, including climate change. This plan is a two-year plan and will be renewed bi-annually in line with Council’s Community Plan and budget processes. These details suggest that the document has set specific timeframes for its climate actions.",
+          "quote": {
+            "content": "The Sustainable Environment Action Plan is a two-year plan, and will be renewed bi-annually in line with Council’s Community Plan and budget processes.",
+            "page": 21,
+            "source": "Whittlesea-climate-change-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline a comprehensive climate change plan, which includes various priority areas for action such as renewable energy and energy efficiency, sustainable and active transport, sustainable farming practice and carbon sequestration, low waste and circular economy, climate resilient communities and businesses, climate resilient built environment and infrastructure, and climate resilient natural environment and biodiversity. However, there is no explicit statement indicating that these climate-related actions should take precedence over other policies. The documents also mention that the climate change plan will be reviewed in 2027 and 2032, in line with the latest climate science, emissions profile and inventory updates, as well as new mitigation and adaptation technologies that become available. This suggests a balanced approach to policy prioritisation, rather than an explicit prioritisation of climate emergency response over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive climate change plan, including actions such as reducing greenhouse gas emissions, increasing the uptake of renewable energy, and improving climate resilience, they do not mandate that all council activities must align with these climate change initiatives. The documents do indicate that the council has a role in leading and supporting climate action, and that it is committed to implementing various climate-related initiatives. However, these commitments do not extend to a requirement for all council activities to align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. While the plan outlines various priorities and actions related to climate change, such as renewable energy, sustainable transport, and climate resilient infrastructure, it does not provide specific details on how these initiatives will be funded. The documents mention the development of an integrated Sustainable Environment Action Plan, which will outline the actions that the Council is committed to delivering across six themes, including climate change. However, there is no explicit mention of budget allocation or funding sources for these actions. Therefore, based on the provided documents, it cannot be confirmed that the plan allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of staff or other non-monetary institutional resources to climate action. While the plan outlines various priorities and principles for climate action, including renewable energy, sustainable transport, and climate resilience, it does not specify the allocation of institutional resources such as staff time or expertise to these actions. The documents mention the role of the council in leading and facilitating climate action, but they do not provide specific details about how institutional resources will be mobilized for this purpose. Therefore, based on the available information, it cannot be confirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a number of strategies and actions that are designed to engage and empower the community. For instance, the policy emphasizes the importance of 'enabling and supporting local environmental leadership' through initiatives such as citizen advocacy bodies, scholarship, grants, and Climate and Environmental awards programs. The policy also highlights the importance of community empowerment in all six of its strategic directions related to environmental sustainability. Furthermore, the policy outlines specific actions to support the community with information, education, resources, and/or funding for climate resilient home design and retrofit. The policy also emphasizes the importance of working with Aboriginal communities to increase broad community’s awareness of traditional land management and climate resilience practices."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Whittlesea Climate Change Plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines the local government's role in minimising its own emissions and supporting the community to take climate action. It also highlights the importance of both technological solutions and behaviour change. For instance, the plan mentions the development of a community-wide EV transition plan to guide and support the changing fuel source of vehicles, which is a technological solution. It also emphasizes the need for sustainable and active transport initiatives, which is a behavioural change. Furthermore, the plan acknowledges the importance of carbon sequestration, which is a technological solution for removing greenhouse gases from the atmosphere. The plan also states that it will be reviewed in 2027 and 2032, in line with the latest climate science, emissions profile and inventory updates, as well as new mitigation and adaptation technologies that become available."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Climate Change Plan Draft 2022-2032 of the City of Whittlesea indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate resilience across various sectors. For instance, it mentions enhancing the city’s tree canopy cover to reduce the risk of extreme heat and making open spaces cooler and safer. The plan also includes actions to ensure that the built environment and infrastructure are designed, constructed, and maintained to support safe and healthy communities in a changing climate. Furthermore, it discourages new settlements in areas prone to extreme natural hazards. The plan also includes actions to improve drought resilience for public open spaces by providing access to alternative water supplies and construction materials. The plan is set to be reviewed in 2027 and 2032, in line with the latest climate science, emissions profile, and inventory updates, as well as new mitigation and adaptation technologies that become available.",
+          "quote": {
+            "content": "We will also discourage new settlement in areas prone to extreme natural hazards in the Green Wedge. We will enhance our city’s tree canopy cover to reduce the risk of extreme heat and make our open space cooler and safer during periods of extended heat. We will ensure that our built environment and infrastructure are designed, constructed, and maintained to support safe and healthy communities in a changing climate.",
+            "page": 15,
+            "source": "Whittlesea-climate-change-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a comprehensive plan for climate action, including steps such as assessment and research, visioning and target setting, strategy and focus areas, action planning and prioritisation, and public exhibition and endorsement, they do not provide specific sources of evidence or data that justify the chosen targets and actions. The documents mention the involvement of community and stakeholders in the planning process, but do not detail the nature of this input or how it influenced the plan. The documents also mention a review process for the plan, but do not provide evidence to justify the initial targets and actions. Therefore, based on the provided documents, it cannot be affirmed that the local government's climate plan is based on well-sourced evidence."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate change plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a series of steps for action planning and prioritisation, and it also identifies indicators to track progress towards the outcomes identified in the Sustainable Environment Strategy. These indicators include reduced greenhouse gas emissions, reduced energy consumption, increased uptake of renewable energy, increased sustainable transport use, reduced waste and litter generation, increased sustainable procurement, and improved collaboration and partnerships. The plan also includes a review process, with reviews scheduled for 2027 and 2032, to ensure that the strategic directions and focus areas remain relevant and impactful. This review process will take into account the latest climate science, emissions profile and inventory updates, and new mitigation and adaptation technologies.",
+          "quote": {
+            "content": "Indicators are identified to track the progress towards the outcomes identified in the Sustainable Environment Strategy, which include those related to climate change, as highlighted below.",
+            "page": 21,
+            "source": "Whittlesea-climate-change-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a five-step climate planning process, which begins with an 'Assessment and research' phase. This phase is designed to develop an understanding of the local area's past, current, and future climate change context. This suggests that research will be conducted to gather data and insights about the local community's climate change experiences and needs. The process also includes a 'Visioning and target setting' phase, which could involve further research to inform the creation of visions and set targets for emissions reduction. The 'Strategy and focus areas' phase involves identifying the most impactful areas for action, which would likely require research to determine. Finally, the 'Action planning and prioritisation' phase involves identifying and prioritising potential action options, which would also likely be informed by research.",
+          "quote": {
+            "content": "Step 2:  \nVisioning and \ntarget setting\nCreate visions and \nset targets for \nemissions reduction 1. 1. All level leadership\n2. Fairness and equity\n3. Aboriginal \nempowerment\n7 priority areas\nCommunity and stakeholder engagement and consultation\n3 principles\nStep 1:  \nAssessment  \nand research\nDevelop \nunderstanding  \nof Whittlesea’s  \npast, current and \nfuture climate  \nchange context.",
+            "page": 4,
+            "source": "Whittlesea-climate-change-plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The Climate Change Plan Draft 2022-2032 outlines the City of Whittlesea's approach to climate change, including reducing emissions, preparing for changing climate, and setting targets for renewable energy. However, these actions are largely in line with standard climate change responses and do not indicate a specific focus on innovative or experimental policies. The plan does mention the use of new mitigation and adaptation technologies as they become available, but it does not detail what these technologies might be or how they would be implemented. The plan also mentions the involvement of businesses, organizations, and households in climate action, but again, it does not provide specifics about innovative or experimental approaches being used."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents do not provide explicit evidence of an intent to advocate upward to state and national governments to support climate action. While the documents do mention the role of local government in climate change adaptation and the need for all levels of government to support efforts to adapt to climate change, they do not specifically state that the local government will advocate to higher levels of government for climate action. The documents do highlight the local government's commitment to lead by example, reduce its own emissions, and work with the community and businesses. However, these actions do not necessarily involve advocacy to state and national governments."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to fostering knowledge sharing and collaboration with various stakeholders, including landowners, businesses, industries, and other organisations. It also mentions a partnership with NAGA (Northern Alliance for Greenhouse Action) to create a zero-carbon society and provide maximum protection against climate change impacts across municipal boundaries. Furthermore, the policy emphasises the importance of community empowerment in all six plans related to environmental sustainability, including climate change. It also highlights the council's role in leading, supporting, and facilitating municipal-wide collaboration for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to a specific regional association related to climate action. The Northern Alliance for Greenhouse Action (NAGA) is mentioned in the context of the local government's commitment to partner with this organization to create a zero carbon society and provide maximum protection against climate change impacts across municipal boundaries. NAGA is a network of nine local governments in Melbourne's northern region working together on climate change mitigation and adaptation strategies. This partnership indicates a commitment to collaborative action and knowledge sharing, which is crucial for effective climate change response."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The policy acknowledges that climate change impacts disproportionately affect vulnerable communities, with specific mention of people on low incomes and women. It is recognized that these groups are more likely to be trapped in energy debt, deprived of basic energy needs, or at risk of service disconnection, making them particularly vulnerable to extreme heat. The policy also outlines plans to prioritize adaptation actions for the most vulnerable people in areas more exposed to climate risk. This demonstrates a clear understanding of the intersection between social justice and climate change, and a commitment to addressing these issues in a way that is equitable and inclusive.",
+          "quote": {
+            "content": "Women are also at greater risk both during and after a climatic disaster as the climate risk is multiplied by women’s economic vulnerability. Climate change impacts disproportionately affect vulnerable communities. People on low incomes for example, are more likely to be trapped in energy debt, deprived of basic energy needs or at risk of service disconnection, making them particularly vulnerable to extreme heat.",
+            "page": 17,
+            "source": "Whittlesea-climate-change-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. The City of Whittlesea's Climate Change Plan Draft 2022-2032 outlines a commitment to fairness and equity in the development and implementation of climate change initiatives. The plan emphasizes a place-based approach to ensure that planning, service, and infrastructure delivery are responsive to the distinct needs and aspirations of local communities. The document also highlights the importance of recognizing that specific needs and priorities for action may vary across the municipality and population. To ensure an equitable transition to a net zero and climate resilient future, the plan outlines strategies such as effective community programs accessible for all sections of the community, application of place-based and equity approaches across all work, and prioritisation of adaptation actions for the most vulnerable people in areas more exposed to climate risk."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 71.7
+  }
+}

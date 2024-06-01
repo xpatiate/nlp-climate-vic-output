@@ -1,0 +1,1060 @@
+{
+  "attribute": 3,
+  "question": 4,
+  "finding": true,
+  "num": 124,
+  "responses": [
+    {
+      "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The Alpine Shire Council has committed to reducing greenhouse gas emissions from its operations to net zero by July 2023. This target is outlined in the Climate Action Plan, which is set to be reviewed in three years to ensure it remains current with climate science, technology, and community expectations. The Council also plans to develop a Climate Adaptation and Resilience Plan as the next step in its longer-term strategy. The documents also mention that the implementation of the Climate Action Plan and performance against the target will be monitored and reported annually. Therefore, the documents not only express the urgency of action on climate change but also provide specific timeframes for these actions.",
+      "source": "Alpine-a-a12345678910.json",
+      "lga": "Alpine",
+      "quote": {
+        "content": "Through this Climate Action Plan Council commits to reducing GHG emissions from Council’s own operations to net zero by July 2023.",
+        "page": 2,
+        "source": "Alpine-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The Alpine Shire Council has committed to reducing greenhouse gas emissions from its operations to net zero by July 2023. This target is outlined in the Climate Action Plan, which is set to be reviewed in three years to ensure it remains current with climate science, technology, and community expectations. The Council also plans to develop a Climate Adaptation and Resilience Plan as the next step in its climate strategy. The documents also mention that the implementation of the Climate Action Plan and performance against the target will be monitored and reported annually. These specific timeframes indicate a sense of urgency in the Council's approach to addressing climate change.",
+      "source": "Alpine-b-a12345678910.json",
+      "lga": "Alpine",
+      "quote": {
+        "content": "Through this Climate Action Plan Council commits to reducing GHG emissions from Council’s own operations to net zero by July 2023.",
+        "page": 2,
+        "source": "Alpine-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The City of Ballarat has outlined a plan to advocate and promote incentives for zero emissions vehicles, with a timeline of 1-2 years. The plan also includes a review in 2025, taking into account the success of programs, state and federal government policy, funding opportunities, and technology accessibility. The plan is set to expire in 2030, which is also the year of the aspirational target of achieving net zero emissions for the municipality. These specific timeframes indicate a sense of urgency in the local government's actions to address climate change.",
+      "source": "Ballarat-a-a12345678910.json",
+      "lga": "Ballarat",
+      "quote": {
+        "content": "The plan will expire in 2030, the year of the aspirational target \nof achieving net zero emissions for the municipality.",
+        "page": 30,
+        "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The City of Ballarat has outlined a plan to advocate and promote incentives for zero emissions vehicles, with a timeline of 1-2 years. The plan also mentions that the City of Ballarat will report annually on the progress, key achievements, highlights, and areas of improvement. Furthermore, the plan will be reviewed in 2025 and updated based on the success of programs while taking into account State and Federal Government policy, funding opportunities, technology accessibility, and other collaborative opportunities. The plan is set to expire in 2030, the year of the aspirational target of achieving net zero emissions for the municipality.",
+      "source": "Ballarat-b-a12345678910.json",
+      "lga": "Ballarat"
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate. It outlines a plan for the years 2020-2023, indicating a clear timeframe for the actions to be implemented. The document also mentions specific actions to be taken within this period. For instance, it mentions the establishment of a Climate Action Steering Committee and the implementation of a cultural change program across the Council. These actions are to be undertaken on an ongoing basis. Additionally, the document mentions the development of a Monitoring, Evaluation, Reporting and Improvement (MERI) framework in the first year. The document also indicates that progress will be reported annually on the anniversary of the climate action resolution. Therefore, the document does provide specific timeframes for its intended actions on climate.",
+      "source": "Banyule-a-a12345678910.json",
+      "lga": "Banyule",
+      "quote": {
+        "content": "This plan: \n2020-2023\nNext plan: \n2024-2027\nCommunity Climate  \nAction Plan\nCouncil operations\nBanyule municipality\nACTIONS FOR ZERO NET EMISSIONS",
+        "page": 8,
+        "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a plan for the years 2020-2023, indicating a clear timeframe for the actions it intends to take. The document also mentions the establishment of an annual implementation plan, which suggests a yearly review and update of the actions. Furthermore, the document details specific actions such as 'Climate action culture' to be implemented in 'Year 1' and a 'Culture change program' to be implemented 'Ongoing'. The document also mentions the establishment of a Climate Action Steering Committee as an ongoing action. Therefore, the document does provide specific timeframes for its intended actions on climate change.",
+      "source": "Banyule-b-a12345678910.json",
+      "lga": "Banyule",
+      "quote": {
+        "content": "This plan: \n2020-2023\nNext plan: \n2024-2027\nCommunity Climate  \nAction Plan\nCouncil operations\nBanyule municipality\nACTIONS FOR ZERO NET EMISSIONS",
+        "page": 8,
+        "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. The Climate Change Action Plan 2020 - 2030 outlines a ten-year plan for climate action, with the work starting immediately. The Council will progressively implement this plan over the next ten years with regular review. The Council actions listed in this Plan are specific, time-bound, and resourced. The document also mentions that a number of priority actions have already commenced or will be rapidly implemented to reflect the urgency of climate emergency action. For instance, the document mentions that the 'Asset vulnerability assessment project' and the 'Power Council with 100% renewable energy' action have already commenced. Therefore, the document does provide specific timeframes for its intended actions on climate.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "Council will use this Plan to guide internal decision making about operational priorities, investment, budgets and resource allocations.",
+        "page": 7,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate. The Climate Change Action Plan is set to cover the period from 2020 to 2030, indicating a ten-year timeframe for the implementation of the plan. The document also mentions that the work starts immediately, with foundational and high impact actions prioritized. This suggests that certain actions are to be undertaken as soon as possible. Furthermore, the document mentions that the Council will progressively implement this plan over the next ten years with regular review. This indicates a structured and time-bound approach to the implementation of the plan. However, it should be noted that while the document provides a general timeframe for the plan, it does not provide specific deadlines for each individual action within the plan.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "The context of the climate emergency dictates that the work starts immediately, with foundational and high impact actions prioritised. The Council and the community actions in this Plan have been developed through a detailed assessment process to ensure they are technically feasible, economically beneficial and socially desirable and cover the period 2020 to 2030.",
+        "page": 7,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate. For instance, the 'Climate Emergency Action Plan' outlines several actions with clear deadlines. Action 1.8, which involves reviewing and updating the Risk Management Framework to ensure climate risks are appropriately assessed and managed, is set to be completed by June 2025. Similarly, Action 1.9, which includes the consideration of the response to the 'Climate Emergency' in all reports to Council, is marked as 'Ongoing'. Action 1.10, which involves reporting on Council’s response to the 'Climate Emergency' through Council’s Quarterly Reporting to the community, is to be done annually. These examples demonstrate that the policy document does not only state the actions to be taken but also provides specific timeframes for their implementation, thus emphasizing the urgency of action.",
+      "source": "Bayside-a-a12345678910.json",
+      "lga": "Bayside"
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate. The Climate Emergency Action Plan outlines a series of actions, each with a designated timeframe for completion. For instance, the plan includes the action to 'Review and update the Risk Management Framework to ensure climate risks are appropriately assessed and managed' by June 2025. Another action, 'Include consideration of the response to the ‘Climate Emergency’ in all reports to Council', is marked as 'Ongoing'. The action to 'Include requirements to address environmental impact into leases of Council property' is set for completion by June 2024. These examples demonstrate that the policy document does not only acknowledge the urgency of action on climate change but also sets specific timeframes for these actions, thereby providing a clear roadmap for implementation.",
+      "source": "Bayside-b-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "Action \nTimeframe \nCost \nBudget \nSource \nDelivery \ncomplexity \nResponsible \nDeliverable \n1.8 Review and update the Risk \nManagement Framework to ensure \nclimate risks are appropriately assessed and managed.",
+        "page": 12,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.9
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The policy outlines a Climate Change Adaptation Action Plan, which is to be updated every five years. This plan is integrated with relevant actions recommended by the Goulburn Broken Greenhouse Alliance. The policy also mentions the implementation of the Climate Change Action Plan, which is monitored through performance planning software and performance reviews. The policy further states that the review of the Action Plan is reported to the Council. This indicates a structured and time-bound approach to addressing climate change, with regular updates and reviews to ensure the effectiveness and relevance of the actions being taken.",
+      "source": "Benalla-a-a12345678910.json",
+      "lga": "Benalla",
+      "quote": {
+        "content": "Integrate with relevant actions recommended by the Goulburn Broken Greenhouse Alliance. 2.3.1.1 Implement Climate Change Adaptation Action Plan and ensure it is updated every five years.",
+        "page": 51,
+        "source": "Benalla-Environment_Strategy_2016_20.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The policy outlines a Climate Change Adaptation Action Plan, which is to be updated every five years. This plan is integrated with relevant actions recommended by the Goulburn Broken Greenhouse Alliance. The policy also mentions the implementation of the Climate Change Action Plan, which is monitored through performance planning software and performance reviews. The policy further states that the review of the Action Plan is reported to the Council. This indicates a structured and time-bound approach to addressing climate change, with regular updates and reviews to ensure the effectiveness and relevance of the actions being taken.",
+      "source": "Benalla-b-a12345678910.json",
+      "lga": "Benalla",
+      "quote": {
+        "content": "Integrate with relevant actions recommended by the Goulburn Broken Greenhouse Alliance. 2.3.1.1 Implement Climate Change Adaptation Action Plan and ensure it is updated every five years.",
+        "page": 51,
+        "source": "Benalla-Environment_Strategy_2016_20.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for some of the intended actions on climate. For instance, the Climate Action Plan Implementation Plan 2023/24 and 2024/25 outlines several actions with timeframes. Action 1.12, for example, which aligns with the goal of Council being net carbon neutral, is marked as 'Ongoing'. Similarly, action 6.8, which aligns with several actions and supports the target to have 3,000 participants each year in sustainability workshops or education opportunities, is set for 2023/24 and 2024/25. However, it's important to note that while some actions have specific timeframes, others are marked as 'Ongoing', which could be seen as somewhat vague. Furthermore, the documents also indicate that some actions require more planning and development, suggesting that not all actions have a set timeframe yet.",
+      "source": "Boroondara-a-a12345678910.json",
+      "lga": "Boroondara"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for some of the intended actions on climate. For instance, the Climate Action Plan Implementation Plan 2023/24 and 2024/25 outlines several actions with timeframes for their implementation. For example, it mentions the continuation of engaging an officer to increase community sustainability education and initiatives for the years 2023/24 and 2024/25. Similarly, the rollout of a school’s sustainability education program for primary and secondary school students is listed as an ongoing action. However, it's important to note that while some actions have specific timeframes, others are listed as 'ongoing', which could be seen as somewhat vague. Furthermore, the community feedback highlighted in the Climate Action Plan Research Report indicates a perceived lack of urgency and a desire for more specific timelines and budgets.",
+      "source": "Boroondara-b-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "2023/24 2024/25",
+        "page": 12,
+        "source": "Boroondara-Climate-Action-Plan-Implementation_plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for their intended actions on climate change. The 'Climate Change Adaptation Framework' outlines actions to be taken 'Now - 2 years' and '3 - 5 years' in the future. These actions include integrating adaptation priorities and principles within updates to relevant policies and strategies, considering general staff training to increase understanding of climate change impacts, and establishing monitoring and evaluation of climate change impacts on Council service delivery. The 'Brimbank Climate Emergency Plan 2020-2025' also provides a timeframe, with actions categorized as 'Immediate, Year 1', 'Short, Years 2-5 years', and 'Ongoing'. These actions include establishing a representative Brimbank Climate Emergency Citizens Assembly and a dedicated Brimbank Community Grants Program climate emergency stream. These specific timeframes indicate a sense of urgency in the local government's approach to addressing climate change.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for their intended actions on climate change. The 'Climate Change Adaptation Framework' outlines actions to be taken 'Now - 2 years' and '3 - 5 years' in the future. These actions include integrating adaptation priorities and principles within updates to relevant policies and strategies, considering general staff training to increase understanding of climate change impacts, and establishing monitoring and evaluation of climate change impacts on Council service delivery. The 'Brimbank Climate Emergency Plan 2020-2025' also provides a timeframe for its actions, indicating immediate actions for Year 1 and short-term actions for Years 2-5. These timeframes indicate a sense of urgency in implementing the actions to address climate change.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "All \ndepartments\nEnvironment\nStaff time ++\n5.2\nConsider general staff training to increase the understanding of \nclimate change impacts and risks for the organisation, including \nan overview of the impacts for Council and our community, an \nunderstanding of how to frame the issue and response \napproaches. Refer to \nthe relevant policies and strategies that are identified in the \nFramework above.",
+        "page": 21,
+        "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate change. It outlines a Corporate Emissions Reduction Plan with a target to reach net-zero emissions by 2035. This is a clear and specific timeframe that indicates the urgency of action. The document also mentions the development of Environmental Sustainable Design (ESD) Guidelines, which are to be applied to all Council projects once adopted, although it does not provide a specific timeframe for this. The policy also aligns with the broader Australian Government's greenhouse gas emission reduction targets, which include a 26 to 28% reduction below 2005 levels by 2030, and net-zero emissions by 2050. These specific timeframes indicate a sense of urgency and a commitment to taking action on climate change within a defined period.",
+      "source": "Campaspe-a-a12345678910.json",
+      "lga": "Campaspe"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The council has set a target to reach net-zero emissions by 2035, as stated in the Corporate Emissions Reduction Plan. This plan is a clear indication of the council's commitment to mitigating the impacts of climate change within a specific timeframe. The council also plans to apply Environmental Sustainable Design (ESD) Guidelines to all council projects once they are adopted. The documents also mention the development of a Municipal Public Health and Wellbeing Plan with consideration of climate change, although no specific timeframe is given for this plan. Overall, while not all actions have specific timeframes, there is a clear sense of urgency in the council's approach to addressing climate change.",
+      "source": "Campaspe-b-a12345678910.json",
+      "lga": "Campaspe"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for intended actions on climate change. The 'Climate Change Adaptation Plan - Action plan' outlines a series of actions with specific durations and timeframes. For instance, it mentions raising community awareness and increasing preparedness for climate hazards amongst different age groups over a period of 9 years from 2024-25 onwards. It also mentions identifying high-risk areas for development and developing resources to assist the community over a period of 2 years from 2024-25 to 2025-26. Furthermore, the document mentions a midterm review of the action plan to be conducted in 1 year in 2027-28. The 'Climate Change Adaptation Strategy 2022–33' also mentions that the CCAS Action Plan has a 10-year life and will be reviewed at the 5-year mark. These specific timeframes indicate a clear plan of action and a sense of urgency in addressing climate change.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "The CCAS Action Plan has a 10 year life and will be reviewed at the 5 year mark.",
+        "page": 5,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for their intended actions on climate change. The 'Climate Change Adaptation Plan - Action plan' outlines a variety of actions with specific timeframes. For instance, it mentions raising community awareness and increasing preparedness for climate hazards amongst different age groups over a period of 9 years from 2024-25 onwards. It also mentions identifying high-risk areas for development and developing resources to assist the community over a period of 2 years from 2024-25 to 2025-26. Furthermore, the document mentions a midterm review of the action plan to be conducted in 1 year in 2027-28. The 'Climate Change Adaptation Strategy 2022–33' also mentions a 10-year life for the CCAS Action Plan, with a review at the 5-year mark. These specific timeframes indicate a clear schedule for the implementation of the climate change actions.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "The CCAS Action Plan has a 10 year life and will be reviewed at the 5 year mark.",
+        "page": 5,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate. The City of Casey's Emissions Management Plan 2018-2022 outlines a strategic pathway for the city to invest in energy efficiency and renewable technology. The plan includes a series of actions to be implemented over a four-year period, with interim emission reduction targets set for 2021/22. The plan also aligns with the broader state and national policy context, which includes targets for greenhouse gas emissions reductions and renewable energy generation for the years 2020, 2025, and 2050. The document also mentions that the City of Casey has previously met its emissions reduction targets set for 2014/15 and 2016/17, demonstrating a track record of action within specific timeframes.",
+      "source": "Casey-a-a12345678910.json",
+      "lga": "Casey",
+      "quote": {
+        "content": "The application of City of Casey’s Action Plan will set Casey on the correct path to meeting its interim emission reduction targets by 2021/22. Over one hundred (100) initiatives to reduce greenhouse gas emissions and associated energy costs will be incrementally implemented over the next 4 years through the Plan.",
+        "page": 9,
+        "source": "Casey-2018-Emissions-Management-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Emissions Management Plan 2018-2022 outlines a strategic pathway for the City of Casey to invest in energy efficiency and renewable technology over a period of four years. The plan includes interim emission reduction targets for 2021/22, and it is stated that over one hundred initiatives to reduce greenhouse gas emissions will be incrementally implemented over the next four years. The documents also reference the City of Casey's previous Emissions Management Plan 2012-17, which had staged targets for reducing emissions. This suggests that the local government has a history of setting and meeting specific timeframes for its climate actions.",
+      "source": "Casey-b-a12345678910.json",
+      "lga": "Casey",
+      "quote": {
+        "content": "Over one hundred (100) initiatives to reduce greenhouse gas emissions and associated energy costs will be incrementally implemented over the next 4 years through the Plan.",
+        "page": 9,
+        "source": "Casey-2018-Emissions-Management-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan 2022-2030 does provide specific timeframes for its intended actions on climate change. The document outlines a plan for the local government to achieve net zero council emissions by 2030. It also details an implementation plan for the initial two years of the Climate Action Plan (2022-2024). The document further mentions that a partnership approach will be established within six months of the adoption of the plan, which will oversee, govern, and activate the implementation, monitoring, and evaluation of the plan. These specific timeframes indicate a clear sense of urgency and commitment to taking action on climate change.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields"
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan 2022-2030 does provide specific timeframes for its intended actions on climate change. The document outlines a plan for the local government to achieve net zero council emissions by 2030. It also details an implementation plan for the initial two years of the Climate Action Plan (2022-2024). The document further mentions that a partnership approach will be established within six months of the adoption of the plan, with a two-year membership. This approach will oversee, govern, and activate the implementation, monitoring, and evaluation of the plan. Therefore, the document does provide specific timeframes for its intended actions on climate change.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields"
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. It outlines a 10-year plan, identifying 48 actions to be undertaken over the next five years and beyond. The document also mentions that the implementation of the Action Plan will be monitored and reported to Council and the community, with a formal review after five years. Furthermore, the document provides a coding system for the estimated cost of implementation, current resourcing status, and timeframes, with 'Short' being 1-3 years and 'Medium' being 4-6 years. This indicates a clear sense of urgency and a structured approach to addressing climate change.",
+      "source": "ColacOtway-a-a12345678910.json",
+      "lga": "ColacOtway",
+      "quote": {
+        "content": "The 10 year Plan identifies 48 actions we will undertake as an organisation over the next five years and beyond to adapt to a changing climate and urgently mitigate against further impacts.",
+        "page": 2,
+        "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. It outlines a 10-year plan, identifying 48 actions to be undertaken over the next five years and beyond. The document also mentions that the implementation of the Action Plan will be monitored and reported to Council and the community, with a formal review after five years. Furthermore, the document provides a coding system within the Action Tables that includes timeframes for implementation, categorized as Short (1–3 years), Medium (4–6 years), and Long (7+ years). This indicates a clear sense of urgency and a structured approach to addressing climate change within specific timeframes.",
+      "source": "ColacOtway-b-a12345678910.json",
+      "lga": "ColacOtway"
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a strategy for addressing climate variability, with specific goals and timelines for their achievement. For instance, it states that a climate variability plan will be prepared for Corangamite Shire within three years. It also sets a goal to implement at least one major adaptation for a changing climate by 2019. Furthermore, it aims to decrease Corangamite Shire’s vulnerability to a changing climate by 2019, based on the 2013 Climate Resilient Communities assessment. The document also mentions the development of annual action plans to achieve the goals set out in the strategy. These plans will be developed using the strategy as a basis and will be reviewed regularly to measure progress and ensure efficient use of resources.",
+      "source": "Corangamite-a-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a series of goals related to climate change, each with a specific timeline for achievement. For instance, it states that a climate variability plan will be prepared for Corangamite Shire within three years. It also sets a goal to implement at least one major adaptation for a changing climate by 2019. Furthermore, it aims to decrease Corangamite Shire’s vulnerability to a changing climate (based on the 2013 Climate Resilient Communities assessment) by 2019. These specific timeframes indicate a clear sense of urgency in the policy's approach to addressing climate change.",
+      "source": "Corangamite-b-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for their intended actions on climate change. The Darebin Climate Emergency Plan outlines a five-year plan from 2017 to 2022, with a major review and evaluation of the plan commencing in 2021. The plan also mentions that it may be updated whenever necessary within this period. The document also provides specific timeframes for various actions, such as maintaining staff awareness programs on climate change from 2017-2022, establishing Climate Emergency Darebin in 2017, and undertaking an organisational review of all Council programs and policies to ensure alignment with Council’s Climate Emergency commitment from 2018-2021. These specific timeframes indicate a sense of urgency in the local government's actions towards addressing climate change.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "A major review and evaluation of the plan will commence in 2021 and the plan for the next period will be established. The Climate Emergency Plan covers the next five years, from 2017 to 2022.",
+        "page": 105,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for their intended actions on climate change. The Climate Emergency Plan covers a five-year period from 2017 to 2022, with a major review and evaluation of the plan set to commence in 2021. The plan also mentions that it may be updated whenever necessary within this period. Furthermore, the documents outline various actions to be taken within this timeframe, such as maintaining staff awareness programs on climate change from 2017-2022, establishing Climate Emergency Darebin in 2017, and undertaking an organisational review of all Council programs and policies to ensure alignment with Council’s Climate Emergency commitment from 2018-2021. These specific timeframes indicate a sense of urgency in the local government's response to climate change.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Given the need for emergency speed action, the Plan may also be updated whenever necessary within this period. The Climate Emergency Plan covers the next five years, from 2017 to 2022. A major review and evaluation of the plan will commence in 2021 and the plan for the next period will be established. This will be timely, as the cost and efficiency of the lowest carbon technologies is rapidly improving and the 2020-2025 period is considered a pivotal time in the transition to zero carbon energy, housing and transport.",
+        "page": 105,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The 'Towards Zero Emissions Plan 2019–2023' outlines the council's priorities over a four-year period to decrease greenhouse gas emissions. The plan includes a detailed Implementation Plan, which highlights the council's energy and greenhouse emission reduction actions over the 2019–2023 period. The plan also includes ongoing actions, such as continuing to support the Victorian Government’s TAKE2 climate change pledge and investigating the benefits of joining organisations working on greenhouse mitigation. These ongoing actions suggest a sustained commitment to addressing climate change beyond the specified four-year period.",
+      "source": "Frankston-a-a12345678910.json",
+      "lga": "Frankston",
+      "quote": {
+        "content": "This four year Towards Zero Emissions Plan sets out Council’s priorities over 2019 to 2023 to decrease greenhouse gas emissions and lay the foundation for Council to become carbon neutral (zero net",
+        "page": 3,
+        "source": "Frankston-2019-zero-emissions-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The 'Towards Zero Emissions Plan 2019–2023' clearly outlines a four-year period during which the Council plans to decrease greenhouse gas emissions and lay the foundation for becoming carbon neutral. The Implementation Plan section of the document further details the actions to be taken over this period. For instance, the Council commits to 'Continue to support the Victorian Government’s TAKE2 climate change pledge and publically report on Council’s progress against committed actions' on an ongoing basis. However, it should be noted that while the document provides a general timeframe (2019-2023), it does not provide specific deadlines for each individual action within this period.",
+      "source": "Frankston-b-a12345678910.json",
+      "lga": "Frankston",
+      "quote": {
+        "content": "This four year Towards Zero Emissions Plan sets out Council’s priorities over 2019 to 2023 to decrease greenhouse gas emissions and lay the foundation for Council to become carbon neutral",
+        "page": 3,
+        "source": "Frankston-2019-zero-emissions-plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The policy document does provide specific timeframes for its intended actions on climate change. It outlines a strategic framework for mitigating and adapting to climate change, with clear deadlines for achieving certain goals. For instance, the policy aims to transition to 100% renewable energy and achieve corporate net zero emissions by 2025. It also sets a goal for net zero emissions at the Landfill by 2040. Furthermore, the policy outlines actions to support the community towards achieving a 50% reduction in emissions by 2030 and achieve net zero by 2040. These specific timeframes indicate a sense of urgency in the policy's approach to addressing climate change. However, it is important to note that the success of these goals will depend on the implementation and enforcement of the strategies outlined in the policy.",
+      "source": "Gannawarra-a-a12345678910.json",
+      "lga": "Gannawarra"
+    },
+    {
+      "answer": "The policy document indeed provides specific timeframes for its intended actions on climate change. It outlines a strategic plan to transition to 100% renewable energy and achieve corporate net zero emissions by 2025. It also sets a goal to achieve net zero emissions at the Landfill by 2040. Furthermore, the policy aims to support the community towards achieving a 50% reduction in emissions by 2030 and achieve net zero by 2040. These specific timeframes indicate a sense of urgency in the policy's approach to addressing climate change. The policy also mentions regular reviews of strategies, plans, policies, and procedures, where their content may be affected by climate change, to ensure currency as the science develops. This suggests an ongoing commitment to timely action and adaptation in response to evolving climate change challenges.",
+      "source": "Gannawarra-b-a12345678910.json",
+      "lga": "Gannawarra"
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate. It outlines a four-year plan, titled 'Our Climate Emergency Response Strategy 2021–2025', indicating a clear timeframe for the strategy's implementation. The document also mentions an 'Action Plan' that sets out 70 actions to be undertaken over the life of the strategy. Furthermore, it specifies that the 'Action Plan' will be updated annually, reflecting the changing needs and opportunities and responding to monitoring and evaluation findings. This suggests a commitment to ongoing, timely action and review. However, while the document provides a general timeframe for the strategy, it does not provide specific deadlines for each individual action within the plan.",
+      "source": "GlenEira-a-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "Our Action Plan will be updated annually (if needed), to reflect changing needs and opportunities and respond to monitoring and evaluation findings The Strategy is support by Our Action Plan, which sets out 70 actions to be undertaken over the life of the Strategy to achieve the identified goals and objectives.",
+        "page": 27,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for some of its intended actions on climate. For instance, the action plan outlined in the document includes a timeline for each action, indicating that these actions are to be undertaken over the life of the strategy. The document also mentions that the action plan will be updated annually, suggesting a yearly review and adjustment of the actions based on changing needs and opportunities. However, it's important to note that while the document does provide timeframes for its actions, these are not directly linked to the urgency of action in response to climate change. The timeframes seem to be more about the implementation of the strategy and the management of the actions rather than a response to the urgency of the climate emergency.",
+      "source": "GlenEira-b-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "Our Action Plan will be updated annually (if needed), to reflect changing needs and opportunities and respond to monitoring and evaluation findings The Strategy is support by Our Action Plan, which sets out 70 actions to be undertaken over the life of the Strategy to achieve the identified goals and objectives.",
+        "page": 27,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The policy outlines a priority implementation timeline that categorizes actions into high, medium, and low priorities. High priority actions are to be implemented within the next three years (2010-2013), medium priority actions within three to five years (2014-2015), and low priority actions in more than five years (2016 onwards). There are also ongoing actions that are to be implemented from 2010 onwards. This timeline provides a clear schedule for the implementation of the policy's climate change actions, indicating a sense of urgency, particularly for the high priority actions. However, the documents do not provide specific details on what these actions are, which may affect the effectiveness and accountability of the policy's implementation.",
+      "source": "Glenelg-a-a12345678910.json",
+      "lga": "Glenelg",
+      "quote": {
+        "content": "Ongoing, from 2010 onwards Medium, in three to ﬁve years, 2014 and 2015. Low, more than ﬁve years, in 2016 onwards.",
+        "page": 91,
+        "source": "Glenelg-2010-environment-strategy.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The policy outlines a priority implementation timeline that categorizes actions into high, medium, and low priorities. High priority actions are to be implemented within the next three years (2010-2013), medium priority actions within three to five years (2014-2015), and low priority actions in more than five years (2016 onwards). There are also ongoing actions that are to be implemented from 2010 onwards. This timeline provides a clear schedule for the implementation of the policy's climate change actions. However, it should be noted that the documents do not provide specific deadlines for each individual action, but rather a general timeframe based on the action's priority level.",
+      "source": "Glenelg-b-a12345678910.json",
+      "lga": "Glenelg",
+      "quote": {
+        "content": "Ongoing, from 2010 onwards Medium, in three to ﬁve years, 2014 and 2015. Low, more than ﬁve years, in 2016 onwards.",
+        "page": 91,
+        "source": "Glenelg-2010-environment-strategy.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. The policy outlines a 10-year plan, from 2022 to 2032, to address the climate emergency. This timeframe is mentioned in the 'Scope and Objectives' section. Furthermore, the policy provides specific start years for each action item. For instance, action 1.1, which involves ensuring that Council climate risks are recorded and addressed, is set to start in 2022. Similarly, action 1.3, which involves taking climate change mitigation and adaptation measures into account in new Council building projects, is set to start in 2023. Therefore, the document does not only express the urgency of action on climate change, but it also provides specific timeframes for these actions.",
+      "source": "GoldenPlains-a-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "Actions include those things that Council can control The timeframe of the Plan is from 2022 to 2032 and its scope includes actions to mitigate, adapt and respond to climate change in Golden Plains Shire. It is a Plan for the whole of Shire - it includes actions Council will undertake as well as those that will be undertaken in partnership with the community.",
+        "page": 9,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. The Golden Plains Shire Council's Climate Emergency Plan outlines a 10-year plan, from 2022 to 2032, to address climate change. The plan includes a range of actions, each with a specified start year. For instance, the action to 'Ensure Council climate risks are recorded and addressed' is set to start in 2022, while the action to 'Embed climate change into Council induction practices' is slated for 2029. The document also mentions that the commencement years for actions have been chosen based on current projected resourcing, but where possible, they will be brought forward. This indicates a sense of urgency and a commitment to expedite actions if resources allow.",
+      "source": "GoldenPlains-b-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "Actions include those things that Council can control The timeframe of the Plan is from 2022 to 2032 and its scope includes actions to mitigate, adapt and respond to climate change in Golden Plains Shire. It is a Plan for the whole of Shire - it includes actions Council will undertake as well as those that will be undertaken in partnership with the community.",
+        "page": 9,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the intended actions on climate. The Climate Emergency Strategy 2020 – 2030 Action Plan outlines a range of actions, each with a designated timeframe. For instance, the plan includes immediate actions such as the inclusion of roles and responsibilities in position descriptions that facilitate internal champions and accountability for Council’s response to the Climate and Ecological Emergency. Other actions are planned for the short term, such as the prioritisation of possible actions identified through vulnerability assessments. Medium-term actions include the assessment and planning for the implementation of prioritised actions based on the outcomes of vulnerability assessments. There are also ongoing actions, such as the continuation of Council's existing Environmental Education programs and activities that encourage community action towards sustainable buildings, energy efficiency, and renewable energy. These timeframes indicate a clear sense of urgency and a structured approach to addressing climate change.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The Climate Emergency Strategy 2020 – 2030 Action Plan outlines a range of actions, each with a designated timeframe. For instance, the plan includes immediate actions such as the inclusion of roles and responsibilities in position descriptions that facilitate internal champions and accountability for Council’s response to the Climate and Ecological Emergency. Other actions are planned for the short term, such as the prioritisation of possible actions identified through vulnerability assessments. There are also medium-term actions, such as the assessment and planning for the implementation of prioritised actions based on the outcomes of the vulnerability assessments. The timeframes are clearly stated, indicating a sense of urgency and a structured approach to addressing climate change.",
+      "source": "GreaterDandenong-b-a12345678910.json",
+      "lga": "GreaterDandenong",
+      "quote": {
+        "content": "Planning & \nDecision Making \nImmediate",
+        "page": 64,
+        "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the plan outlines a series of actions with associated timeframes and costs. Some of these actions include developing a community campaign to raise awareness of the region’s climate risks, impacts, and responses by 2022, and partnering with climate action mobilisers to help support community efforts to reduce emissions and adapt to climate impacts by 2022. The plan also mentions implementing new risk management and reporting software solutions to manage risks and enable integrated reporting by 2022. Furthermore, the plan commits to reaching net zero emissions by 2025 for the local government's operations. These specific timeframes indicate a sense of urgency in the local government's response to climate change.",
+      "source": "GreaterGeelong-a-a12345678910.json",
+      "lga": "GreaterGeelong"
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. It outlines a series of actions, each with a designated lead, support, timeframe, and cost. For instance, the document mentions the development of a community campaign to raise awareness of the region’s climate risks, impacts, and responses by 2022. It also mentions the implementation of new risk management and reporting software solutions to manage risks and enable integrated reporting by 2022. Furthermore, the document states the city's commitment to reaching net zero emissions by 2025 for its operations. These examples demonstrate that the document not only acknowledges the urgency of action on climate change but also provides specific timeframes for its planned actions.",
+      "source": "GreaterGeelong-b-a12345678910.json",
+      "lga": "GreaterGeelong"
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. The policy outlines a series of actions under different strategic priorities, each with a designated timeframe. For instance, under 'Strategic Priority 1: Demonstrating Climate Change Leadership', actions such as 'Implement the Climate Emergency Communication and Engagement Strategy' and 'Support youth of Greater Shepparton to be informed and act on climate change' are assigned a timeframe denoted by 'S' and 'O' respectively. However, the document does not provide a clear explanation of what these abbreviations stand for. Despite this, the presence of these indicators suggests that there is a timeline or schedule for the implementation of these actions. Furthermore, the document mentions that the strategic priority areas will be reviewed in 2025, indicating a specific timeframe for evaluation of the policy's effectiveness.",
+      "source": "GreaterShepparton-a-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The Greater Shepparton Climate Emergency Action Plan does provide specific timeframes for its intended actions on climate change. The document outlines a series of actions, each with an associated timeframe, primary benefit, co-benefits, scale of impact, and resources required. For instance, the action to 'Implement the Climate Emergency Communication and Engagement Strategy' is marked with a timeframe of 'S', while the action to 'Support youth of Greater Shepparton to be informed and act on climate change' is marked with a timeframe of 'O'. However, the document does not provide a clear explanation of what these timeframes 'S' and 'O' represent. Despite this, the presence of these markers indicates that there is a temporal element to the plan's actions. Furthermore, the document mentions that the strategic priority areas will be reviewed in 2025, indicating a specific timeframe for review and potentially for the completion of some actions.",
+      "source": "GreaterShepparton-b-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the implementation of their climate change adaptation actions. For instance, the 'Hindmarsh Climate Change Adaptation Strategy' and 'Hindmarsh Integrated Water Management Plan' both outline the actions, responsibilities, and implementation timeframes for climate change adaptation. The documents detail the actions to be taken, who within the council is responsible for implementing them, and the timeframe for their implementation. For example, one action mentioned is the review and update of the Road Asset Management plan, which is to be completed within a three-year timeframe. This action is to be undertaken by the Infrastructure Services department and is considered budget neutral. The documents also highlight actions that are project ready or underway and can be undertaken within the current budget. Therefore, the documents do provide specific timeframes for their intended actions on climate change.",
+      "source": "Hindmarsh-a-a12345678910.json",
+      "lga": "Hindmarsh",
+      "quote": {
+        "content": "Actions highlighted in green are project ready or underway and can be undertaken within current budget.",
+        "page": 58,
+        "source": "Hindmarsh-2012-climate-adaptation.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the implementation of their climate change adaptation actions. For instance, the 'Hindmarsh Climate Change Adaptation Strategy' and 'Hindmarsh Integrated Water Management Plan' both outline the actions, responsibilities, and implementation timeframes for climate change adaptation. The documents detail the actions to be taken, who within the council is responsible for implementing them, and the timeframe for implementation. For example, the 'Review and update the Road Asset Management plan' action is assigned to the Infrastructure Services department and is expected to be completed within 3 years. This indicates a clear timeline for the implementation of this specific action. Therefore, the documents do provide specific timeframes for their intended actions on climate change.",
+      "source": "Hindmarsh-b-a12345678910.json",
+      "lga": "Hindmarsh"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the 'Hobsons Bay Response to Climate Change Action Plan 2030' outlines ongoing actions such as delivering a cohesive and proactive overarching communications and engagement plan, providing advice services and programs, and seeking partnership and funding opportunities. Additionally, the plan includes actions set to commence in 2022, such as assessing recommendations from the state-led Port Phillip Bay Coastal Hazard Vulnerability Assessment and addressing climate change risk in business and service planning. These timeframes indicate a sense of urgency in implementing the actions, reflecting the local government's commitment to addressing climate change.",
+      "source": "HobsonsBay-a-a12345678910.json",
+      "lga": "HobsonsBay",
+      "quote": {
+        "content": "Commence  \n2022\nEstablished  \nOperational Budget \nAssess and address climate change risk in business and service planning, \ninvestment decisions and business continuity planning. Action \nTimeframe\nFunding - Confirmed or \nsubject to future funding \nconsiderations\nImplement relevant recommendations from the Victorian Government’s Local \nGovernment Roles and Responsibilities Guidance to assess and manage Climate \nRisk. Ongoing\nScalable - Extent and timing subject \nto annual Budget Allocation\nAssess recommendations from the state-led Port Phillip Bay Coastal Hazard \nVulnerability Assessment and use them to inform foreshore and coastal adaptation \nresponses.",
+        "page": 16,
+        "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The 'Hobsons Bay Response to Climate Change Action Plan 2030' outlines a series of actions with associated timeframes. For instance, the document mentions the commencement of the assessment of recommendations from the state-led Port Phillip Bay Coastal Hazard Vulnerability Assessment in 2022. It also mentions the commencement of the assessment and addressing of climate change risk in business and service planning, investment decisions, and business continuity planning in 2022. Furthermore, the document mentions ongoing actions such as implementing relevant recommendations from the Victorian Government’s Local Government Roles and Responsibilities Guidance to assess and manage Climate Risk. These timeframes indicate a sense of urgency in the local government's response to climate change.",
+      "source": "HobsonsBay-b-a12345678910.json",
+      "lga": "HobsonsBay",
+      "quote": {
+        "content": "Commence  \n2022\nEstablished  \nOperational Budget \nAssess and address climate change risk in business and service planning, \ninvestment decisions and business continuity planning. Action \nTimeframe\nFunding - Confirmed or \nsubject to future funding \nconsiderations\nImplement relevant recommendations from the Victorian Government’s Local \nGovernment Roles and Responsibilities Guidance to assess and manage Climate \nRisk. Ongoing\nScalable - Extent and timing subject \nto annual Budget Allocation\nAssess recommendations from the state-led Port Phillip Bay Coastal Hazard \nVulnerability Assessment and use them to inform foreshore and coastal adaptation \nresponses.",
+        "page": 16,
+        "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the policy outlines a plan to develop and implement an environmental purchasing policy by December 2010. It also mentions a target to reduce water consumption by Council in its buildings and operations by 20% by 2015. Furthermore, the policy aims to establish a target for greenhouse gas reduction by June 2010. These specific timeframes indicate a sense of urgency in the policy's approach to addressing climate change. However, it should be noted that the documents are dated around 2009-2010, and it is unclear whether these targets were met or whether the policy has been updated since.",
+      "source": "Horsham-a-a12345678910.json",
+      "lga": "Horsham"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the policy outlines a plan to develop and implement an environmental purchasing policy by December 2010. It also mentions a target to reduce water consumption by Council in its buildings and operations by 20% by 2015. Furthermore, the policy aims to establish a target for greenhouse gas reduction by June 2010. These specific timeframes indicate a sense of urgency in the policy's approach to addressing climate change. However, it is important to note that the documents are dated from 2009 and 2010, and it is unclear from the provided context whether these targets were met or if they have been updated since.",
+      "source": "Horsham-b-a12345678910.json",
+      "lga": "Horsham"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the Climate Action Plan sets a carbon neutral target by 2030 for Council operations. This target is considered both bold and achievable, and there is an action to investigate bringing this target forward if certain conditions are met. Additionally, the documents outline ongoing actions such as the delivery of the solar, solar storage, and energy efficiency program for Council buildings, with higher energy use buildings being prioritized. The documents also mention the ongoing support for sustainable procurement and the electrification of Council operations. These specific timeframes and ongoing commitments demonstrate a sense of urgency in the local government's climate action plans.",
+      "source": "Hume-a-a123.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "The Climate Action Plan sets a carbon neutral target by 2030 for Council operations which is both bold and achievable.",
+        "page": 58,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The Hume Climate Action Plan 2023-2028 does provide specific timeframes for its intended actions on climate. The document outlines a variety of actions, each with a designated timeframe for implementation. For instance, the plan includes an action to continue delivering the solar, solar storage, and energy efficiency program for Council buildings, with an ongoing timeframe. Another action is to join and participate in the Cities Power Partnership, with a timeframe set for 2023 and ongoing. The document also mentions an action to support sustainable procurement and the Circular Economy by embedding these considerations across Council purchasing decisions, with a timeframe set for 2023 and ongoing. Therefore, the document does provide specific timeframes for its intended actions on climate, indicating a sense of urgency and commitment to addressing climate change.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume",
+      "quote": {
+        "content": "Higher energy use buildings will continue to be prioritised.",
+        "page": 30,
+        "source": "Hume-Climate-Action-Plan-2023-2028.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the intended actions on climate. The Climate Emergency Strategic Action Plan outlines a range of actions with varying timeframes. For instance, it mentions actions that are to be taken 'immediately', within '1 year', within '2-3 years', and within '3+ years'. The document also mentions that the new Council has 12 months to deliver the Council Plan, and that the review of plans and policies could start before this. The document also mentions that culture change is a long-term undertaking, indicating a timeframe that extends beyond the immediate future. Therefore, the documents do provide specific timeframes for their intended actions on climate, indicating a sense of urgency in addressing climate change.",
+      "source": "Indigo-a-a12345678910.json",
+      "lga": "Indigo"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the intended actions on climate. The Climate Emergency Strategic Action Plan outlines a range of actions with varying timeframes. For instance, it mentions actions that are considered 'quick wins', which are immediate actions, actions to be completed within 1 year (S), within 2-3 years (M), and those that will take 3+ years (L). The document also mentions that the new Council has 12 months to deliver the Council Plan and that the review of plans and policies could start before this. Furthermore, the document mentions that culture change is a long-term undertaking, indicating a timeframe that extends beyond the immediate future. Therefore, the document does provide specific timeframes for its intended actions on climate, ranging from immediate actions to those planned for the longer term.",
+      "source": "Indigo-b-a12345678910.json",
+      "lga": "Indigo"
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a plan of action that is set to commence from 2021 and have a duration of 3-4 years depending on the project type. The document further breaks down the commencement of actions based on their priority. High priority actions, those with the highest emission abatement potential, are set to commence within the next 12 months from the time of the document's creation. Medium priority actions are set to commence by 2023, and low priority actions by 2025. This indicates a clear timeline and sense of urgency in the policy's approach to addressing climate change.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "Given our declaration of a Climate and Ecological Emergency, high priority actions (those with the highest emission abatement potential) will commence in the next 12 months; medium priority actions by 2023 and low priority actions by 2025.",
+        "page": 11,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate. It mentions that the impact of council action has been modelled to 2030, with actions having rolling commencement dates from 2021 and a duration of 3-4 years depending on the project type. The document also outlines a schedule for the commencement of actions based on their priority level. High priority actions, those with the highest emission abatement potential, will commence in the next 12 months from the document's creation date. Medium priority actions will start by 2023, and low priority actions by 2025. This detailed timeline indicates a clear sense of urgency and a structured approach to addressing climate change.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "Given our declaration of a Climate and Ecological Emergency, high priority actions (those with the highest emission abatement potential) will commence in the next 12 months; medium priority actions by 2023 and low priority actions by 2025.",
+        "page": 11,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate. The Climate Response Plan is outlined for a period of 10 years, from 2021 to 2031. The document also mentions that the plan will be evaluated at regular intervals, in line with emissions inventory reporting updates, or as new information on climate risks becomes available. This suggests a commitment to ongoing monitoring and adjustment of the plan as necessary. Furthermore, the document states that emissions in Knox are anticipated to be reduced by almost half of what they would otherwise be, by 2030. This indicates a specific timeframe for achieving significant emissions reductions. However, the document does not provide detailed timelines for each individual action within the plan.",
+      "source": "Knox-a-a12345678910.json",
+      "lga": "Knox"
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate. The Climate Response Plan is outlined for a period of 10 years, from 2021 to 2031. The document also mentions that the plan will be evaluated at regular intervals, in line with emissions inventory reporting updates, or as new information on climate risks becomes available. This suggests a commitment to ongoing review and adaptation of the plan as necessary. Furthermore, the document acknowledges the urgency of action, recognizing that we are in a state of climate emergency and that changes need to occur at various levels to reach a target of community net-zero emissions by 2040. However, the document does not provide specific deadlines for each individual action within the plan.",
+      "source": "Knox-b-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "This plan sets out our targets and provides a roadmap with measurable actions on how this will be achieved in partnership with the Knox community. Knox City Council is committed to managing our greenhouse gas emissions and response to climate change and have developed the Climate Response Plan 2021-2031.",
+        "page": 1,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions related to climate change. The Environmental Sustainability Strategy Action Plan 2013-2018 outlines a series of recommended actions, each with a designated timeline for implementation. For instance, the document mentions advocating for and promoting business opportunities for large-scale renewable energy projects within the municipality from 2013 to 2018. It also mentions incorporating educational material on environmental sustainability on the Council's new website in 2014. Another action, the investigation of the opportunity to employ an environmental sustainability officer within the Council, is slated for 2015-2016. These examples demonstrate that the document provides clear and specific timeframes for its planned actions related to climate change.",
+      "source": "Loddon-a-a12345678910.json",
+      "lga": "Loddon",
+      "quote": {
+        "content": "Where possible collaborate with neighbouring municipalities to capitalise on regional opportunities.",
+        "page": 10,
+        "source": "Loddon-Environmental-Sustainability-Strategy-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions related to climate change. The Environmental Sustainability Strategy Action Plan 2013-2018 outlines a series of recommended actions, each with a designated timeline for implementation. For instance, the document mentions advocating for business opportunities for large-scale renewable energy projects within the municipality from 2013 to 2018. It also mentions implementing a program for the upgrade and improvement of automated watering systems for municipal public places from 2014 to 2018. Furthermore, the document suggests conducting an audit of all Council buildings to identify required improvement works and associated opportunities to improve utilization through multiuse arrangements from 2015 to 2016. These specific timeframes indicate a clear plan of action and a commitment to addressing environmental sustainability within a defined period.",
+      "source": "Loddon-b-a12345678910.json",
+      "lga": "Loddon"
+    },
+    {
+      "answer": "The documents provide specific timeframes for the local government's intended actions on climate change. The 'Counting Down to ZERO – 2022-30 Plan' indicates a timeline of 2022 to 2030 for the plan's implementation. It also mentions the introduction of a Climate Impact Assessment requirement in council reports, although it does not specify a date for this action. The 'Climate Change Action Plan – adopted 28 June 2017' document provides a more specific timeframe, stating that all actions are to commence by, and in the cases of works be completed by, June 2021. It also mentions a review of the targets in mid-2020. Furthermore, the plan includes a commitment to review the Zero Net Emissions Plan every two years until 2030. These details demonstrate a clear commitment to specific timeframes for action on climate change.",
+      "source": "MacedonRanges-a-a12345678910.json",
+      "lga": "MacedonRanges"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The 'Counting Down to ZERO – 2022-30 Plan' indicates a timeline of 2022 to 2030 for the plan's implementation. It also mentions specific actions such as introducing a Climate Impact Assessment requirement in council reports by June 2023 (Action 22). The 'Climate Change Action Plan – adopted 28 June 2017' also provides a timeline, stating that all actions are to commence by, and in the cases of works be completed by, June 2021. It also mentions a review of the targets in mid-2020 and a biennial review of the Zero Net Emissions Plan until 2030 (Action 33). These specific timeframes indicate a sense of urgency in the local government's climate change actions.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Mansfield Shire Council has committed to a zero net emissions target by 2025, which is a clear and specific timeframe. This target is set within the framework of a carbon budget calculated based on the national carbon budget as outlined by the IPCC. The Council also plans to sign up to 100% renewable electricity by 2025 through a power purchase agreement (PPA). This will be achieved when existing energy contracts with Procurement Australia expire in July 2022. These specific timeframes demonstrate the Council's commitment to urgent action on climate change.",
+      "source": "Mansfield-a-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "As of July 2022, when existing energy contracts with Procurement Australia expire Council will sign up to a renewable power purchase scheme. This will be achieved through a power purchase agreement (PPA).",
+        "page": 21,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. The Mansfield Shire Council has outlined a Climate Action Plan that includes a timeline for reducing corporate emissions. One of the key actions to be undertaken by the Council is to sign up to 100% renewable electricity by 2025, which will be achieved through a power purchase agreement (PPA). This commitment is set to take effect as of July 2022, when existing energy contracts with Procurement Australia expire. The Council's commitment to this timeline demonstrates a sense of urgency in their actions to mitigate climate change. The document also mentions a zero net emissions 2025 target set by the Council, further emphasizing the urgency of action. However, it should be noted that while these timeframes are specific, they are relatively short-term, and the document does not provide detailed timelines for long-term climate action beyond 2025.",
+      "source": "Mansfield-b-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "As of July 2022, when existing energy contracts with Procurement Australia expire Council will sign up to a renewable power purchase scheme. This will be achieved through a power purchase agreement (PPA).",
+        "page": 21,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Maribyrnong City Council Climate Emergency Action Plan does provide specific timeframes for its intended actions on climate. The document outlines a series of actions, each with a designated timeline for implementation. For instance, the plan to 'Investigate options to establish a community group to work with Council on the climate emergency' is slated for 2022/2023-2025/2026. Similarly, the action to 'Ensure that electric options and energy efficiency is prioritised and is a key criteria when procuring Council plant and equipment' is scheduled for 2021/2022-2025/2026. The document also mentions that the Climate Emergency Strategy and Climate Emergency Action Plan will be reviewed and updated in 2026. These specific timeframes indicate a sense of urgency and a structured approach to addressing the climate emergency.",
+      "source": "Maribyrnong-a-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The Maribyrnong City Council Climate Emergency Action Plan does provide specific timeframes for its intended actions on climate. The document outlines a series of actions, each with a designated timeline for implementation. For instance, the plan to 'Investigate options to establish a community group to work with Council on the climate emergency' is slated for 2022/2023-2025/2026. Similarly, the action to 'Ensure that electric options and energy efficiency is prioritised and is a key criteria when procuring Council plant and equipment' is scheduled for 2021/2022-2025/2026. The document also mentions that the Climate Emergency Strategy and Climate Emergency Action Plan will be reviewed and updated in 2026. These specific timeframes indicate a sense of urgency and a structured approach to addressing the climate emergency.",
+      "source": "Maribyrnong-b-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the 'Climate Change Mitigation Strategy to 2050' outlines a plan to facilitate and support corporate Power Purchase Agreements through the expansion of the Melbourne Renewable Energy Project within a 1-5 year timeframe. Additionally, the policy also advocates for energy performance disclosure for a greater range of commercial and residential buildings within a 1-3 year timeframe. These examples demonstrate that the policy not only identifies key actions for climate change mitigation but also sets specific timeframes for their implementation, thus providing a clear roadmap for action.",
+      "source": "Melbourne-a-a12345678910.json",
+      "lga": "Melbourne"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the 'Climate Change Mitigation Strategy to 2050' outlines a plan to facilitate and support corporate Power Purchase Agreements through the expansion of the Melbourne Renewable Energy Project within a 1-5 year timeframe. Another action, advocating for energy performance disclosure for a greater range of commercial and residential buildings, is planned to be executed within a 1-3 year timeframe. The documents also mention a plan to evaluate progress in implementing the strategy by 2025. These specific timeframes indicate a clear schedule for the implementation of the climate change mitigation strategy.",
+      "source": "Melbourne-b-a12345678910.json",
+      "lga": "Melbourne"
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the intended actions on climate. The Climate Change Adaptation Plan is organized into a 10-year framework supported by a rolling three-year Action Plan. The plan categorizes priorities into short-term (0-3 years), medium-term (4-6 years), and long-term (7+ years). For instance, the plan mentions actions such as 'Develop and deliver community education and information on the impacts of climate change' and 'Improve understanding of climate change related exposure to legal and financial risk' with specific timings and resourcing. This indicates a clear timeline for the implementation of the actions, which is crucial for tracking progress and ensuring accountability.",
+      "source": "Melton-a-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. It outlines a 10-year framework for the Climate Change Adaptation Plan, supported by a rolling three-year Action Plan. The plan is organized into five themes, each with its own set of actions. These actions are further categorized into short-term (0-3 years), medium-term (4-6 years), and long-term (7+ years) priorities. The document also mentions that ongoing priorities are those that may already be occurring and are expected to continue into the future. This clear delineation of timeframes for different actions indicates a structured and phased approach to addressing climate change, allowing for both immediate and long-term strategies.",
+      "source": "Melton-b-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate change. The policy is titled 'Climate Emergency Action Plan 2020/21 – 2024/25', indicating a five-year plan of action. It also mentions a goal for Merri-bek to achieve 75 per cent emissions reduction by 2030, which is a specific target with a clear deadline. Furthermore, the document refers to 'advocacy asks' of State and Federal Governments under Energy Transition, Sustainable Transport, and Waste and Consumption, although the specific timeframes for these asks are not detailed in the provided context. The document also mentions the integration of new objectives and measures into staff Position Descriptions and performance plans, suggesting an ongoing timeframe for these actions. However, the document does not provide specific deadlines for all its proposed actions, and the timeframes for some actions are implied rather than explicitly stated.",
+      "source": "Merribek-a-a12345678910.json",
+      "lga": "Merribek"
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. The policy is titled 'Zero Carbon Merri-bek – Climate Emergency Action Plan 2020/21 – 2024/25', indicating a five-year plan of action. The document also mentions a goal for Merri-bek to achieve a 75 per cent emissions reduction by 2030, which is a specific target set for a specific future date. Furthermore, the document outlines 'advocacy asks' for the Australian Government to establish a national Renewable Energy Target (RET) of 100% by 2030. These details provide clear evidence of specific timeframes for the policy's climate-related actions.",
+      "source": "Merribek-b-a12345678910.json",
+      "lga": "Merribek"
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It categorizes these timeframes into short term (1-2 years), medium term (2-4 years), and long term (5 years+). However, the document does not provide specific deadlines for each action, but rather a general timeframe in which they should be initiated. This approach allows for some flexibility, but it may also lead to a lack of urgency in implementing the actions. The document also mentions that the progress of implementing actions will be reviewed on an annual basis, and the plan will be revised every four years to ensure its relevance and effectiveness. This indicates a commitment to ongoing evaluation and adjustment of the plan, which is crucial for effective climate action.",
+      "source": "Mildura-a-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a clear timeline for the implementation of its climate response plan, categorizing actions into short-term (1-2 years), medium-term (2-4 years), and long-term (5 years+). This indicates a sense of urgency and a structured approach to addressing climate change. The document also mentions that the progress of implementing actions will be reviewed on an annual basis, and the plan will be revised every four years to ensure its relevance and effectiveness. This suggests a commitment to ongoing evaluation and adaptation of the plan in response to changing circumstances and needs. However, while the document provides these timeframes, it does not provide specific deadlines for each action, which could potentially impact the urgency and accountability of the plan's implementation.",
+      "source": "Mildura-b-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It categorizes actions into three timeframes: short, medium, and long. Short-term actions are those that can be completed and fully realized within less than 5 years. Medium-term actions are those that can be completed and fully realized within 5 to 10 years. Long-term actions are those that will take over 10 years to be completed and fully realized. This classification system provides a clear timeline for the implementation of the policy's actions, which is crucial for tracking progress and holding the local government accountable. However, the document does not provide specific deadlines for each action, which could potentially lead to delays or lack of urgency in implementation.",
+      "source": "Mitchell-a-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "LONG: action will take over  \n10 years to be completed,  \nand benefit fully realised. Timeframe\nSHORT: action can be  \ncompleted, and benefit fully  \nrealised within less than 5 years. MEDIUM: action can be  \ncompleted, and benefit fully  \nrealised within 5 to 10 years.",
+        "page": 51,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It categorizes actions into three timeframes: short, medium, and long. Short-term actions are those that can be completed and fully realized within less than 5 years. Medium-term actions are those that can be completed and fully realized within 5 to 10 years. Long-term actions are those that will take over 10 years to be completed and fully realized. This classification of actions into specific timeframes indicates a clear sense of urgency and a structured approach to addressing climate change. The document also provides a clear deadline of 2030 for the implementation of the Climate Emergency Action Plan, further emphasizing the urgency of action.",
+      "source": "Mitchell-b-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "LONG: action will take over  \n10 years to be completed,  \nand benefit fully realised. Timeframe\nSHORT: action can be  \ncompleted, and benefit fully  \nrealised within less than 5 years. MEDIUM: action can be  \ncompleted, and benefit fully  \nrealised within 5 to 10 years.",
+        "page": 51,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. The policy, titled 'Corporate Emissions Reduction Plan 2018-2021', clearly outlines a three-year plan from 2018 to 2021. The document details actions to be taken in each year across various areas such as developing a low carbon workplace, reducing emissions from waste, buildings, parks and reserves, fleet, and street lighting. For instance, the policy mentions the continuation of using the internal Green Team to raise awareness and encourage change, facilitating staff education sessions to encourage low carbon behaviours, and reporting on the status of emissions reduction projects being implemented, all of which are planned for each year from 2018 to 2021. Therefore, the document does provide specific timeframes for its intended actions on climate.",
+      "source": "Moira-a-a12345678910.json",
+      "lga": "Moira"
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. The Corporate Emissions Reduction Plan 2018-2021 outlines a series of actions to be taken over the course of four years (2017-18, 2018-19, 2019-20, 2020-21) across various work areas. These actions include developing a low carbon workplace, reducing emissions from waste, fleet, buildings, parks and reserves, and street lighting, and monitoring and evaluating progress. Each action is accompanied by a timeline indicating the years in which it will be implemented. This level of detail suggests a clear commitment to taking timely action on climate change. However, it should be noted that the document does not explicitly state the urgency of these actions, but the inclusion of specific timeframes implies a recognition of the need for prompt action.",
+      "source": "Moira-b-a12345678910.json",
+      "lga": "Moira",
+      "quote": {
+        "content": "Implementation of Emissions Reduction Plan 2018-2021 Priority 1: Develop a low carbon workplace Action Work Area 2017-18 2018-19 2019-20 2020-21 1.1 Continue to use the internal Green Team to raise awareness and encourage change Environmental Services ü ü ü ü 1.2 Facilitate staff education sessions to encourage low carbon behaviours Environmental Services ü ü ü ü 1.3 Report on the status of emissions reduction projects being implemented Environmental Services ü ü ü ü 1.4 Promote Council’s commitment to reducing greenhouse gas emissions at our facilities to encourage users to make sustainable choices for transport, purchases, and avoiding waste Environmental Services ü ü ü ü",
+        "page": 11,
+        "source": "Moira-2018-corporate-emissions-reduction-plan.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The MV2040 Action Plan outlines a series of actions, each with a designated timeframe. For instance, the plan to 'Undertake mapping and analysis of urban heat island effects and determine appropriate mitigation options' is scheduled for 2020-2021. Similarly, the action to 'Develop an internal Council program to respond to climate emergency' is also set for 2020-2021. Other actions such as 'Assess Council’s climate change adaptation performance using relevant external and industry monitoring, evaluation and reporting frameworks and tools' and 'Advocate to the State Government for a state-wide policy that encourages more green roofs on high density developments' are also planned for 2020-2021. Some actions are marked as 'Ongoing', indicating a continuous effort. These specific timeframes demonstrate a clear schedule for the implementation of the climate-related actions.",
+      "source": "MooneeValley-a-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The documents provide specific timeframes for the local government's intended actions on climate change. The MV2040 Action Plan outlines a series of actions, each with a designated timeframe. For instance, the plan includes actions such as 'Undertake mapping and analysis of urban heat island effects and determine appropriate mitigation options' and 'Develop an internal Council program to respond to climate emergency', both scheduled for 2020-2021. Other actions, like 'Demonstrate and promote green infrastructure the community can adopt that provides an urban cooling effect, including green walls and roofs', are planned for 2022-2025. There are also ongoing actions, such as 'Incorporate climate ready considerations for public realm, green infrastructure and urban design projects'. These timeframes indicate a sense of urgency and a structured approach to addressing climate change.",
+      "source": "MooneeValley-b-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate. It mentions a mid-term review of the Strategy after five years (2021) to determine progress against measurable targets and desired outcomes and to identify areas for improvement and adaptation. This review will coincide with a review of the first Implementation Plan 2016 - 21 and the development of a new Implementation Plan for the period 2021 - 26. Furthermore, the document states that a review of the Strategy will be completed in 2021 and 2031 to ensure that it is still in alignment with Council and community expectations and State and Federal legislation. These timeframes indicate a structured and planned approach to addressing climate change, with regular reviews to ensure the strategy remains relevant and effective.",
+      "source": "Moorabool-a-a12345678910.json",
+      "lga": "Moorabool",
+      "quote": {
+        "content": "This review will coincide with a review of the first Implementation Plan 2016 - 21 and the development of a new Implementation Plan for the period 2021 - 26. Review of the Strategy will be completed in 2021 and 2031 to ensure that it is still in alignment with Council and community expectations and State and Federal legislation. There will be a mid-term review of the Strategy after five years (2021) to determine progress against measurable targets and desired outcomes and to identify areas for improvement and adaptation.",
+        "page": 5,
+        "source": "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate. It mentions a mid-term review of the Strategy after five years (2021) to determine progress against measurable targets and desired outcomes and to identify areas for improvement and adaptation. This review will coincide with a review of the first Implementation Plan 2016 - 21 and the development of a new Implementation Plan for the period 2021 - 26. Furthermore, the document states that a review of the Strategy will be completed in 2021 and 2031 to ensure that it is still in alignment with Council and community expectations and State and Federal legislation. This indicates a clear timeline for the implementation and review of the policy's climate-related actions.",
+      "source": "Moorabool-b-a12345678910.json",
+      "lga": "Moorabool",
+      "quote": {
+        "content": "This review will coincide with a review of the first Implementation Plan 2016 - 21 and the development of a new Implementation Plan for the period 2021 - 26. Review of the Strategy will be completed in 2021 and 2031 to ensure that it is still in alignment with Council and community expectations and State and Federal legislation. There will be a mid-term review of the Strategy after five years (2021) to determine progress against measurable targets and desired outcomes and to identify areas for improvement and adaptation.",
+        "page": 5,
+        "source": "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the intended actions on climate. For instance, the Mornington Peninsula Shire has outlined a series of targets to reduce municipality emissions and reach net zero. The documents also mention the formation of an executive-led Climate Oversight Group immediately following the adoption of the Climate Emergency Plan. By 2021, the Shire plans to establish community representation to provide recommendations on climate change issues and priorities. The Shire also plans to produce and publish the first 'Climate Emergency Plan' annual progress report by 2021. Furthermore, the Shire will review and update its 21 action steps each year. These specific timeframes indicate a sense of urgency in the Shire's approach to addressing climate change.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "By 2021, responsibility for climate \nemergency action will be shared \nacross the entire organisation and our \ncommunity, led by a Climate Oversight \nGroup composed of shire executive  \nand key staff.",
+        "page": 29,
+        "source": "Mornington-2020-climate-emergency-response-part1.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the policy outlines a series of targets to reduce municipality emissions and reach net zero, although it does not specify the exact timeline for these targets. However, in the detailed action plan, there are specific tasks with set timeframes. For example, by 2021, the Shire plans to form a Climate Oversight Group, establish community representation, and produce and publish the first 'Climate Emergency Plan' annual progress report. Another task is to review the 'Climate Change Risk Register' annually. These time-bound actions indicate a sense of urgency in the policy's approach to addressing climate change.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "By 2021, responsibility for climate emergency action will be shared across the entire organisation and our community, led by a Climate Oversight Group composed of shire executive and key staff.",
+        "page": 29,
+        "source": "Mornington-2020-climate-emergency-response-part1.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a variety of objectives and actions, each with a designated timeframe and impact level. For instance, the document mentions offsetting Council's fleet emissions through annual community indigenous vegetation planting programs, which is a short-term action with a high impact. Another action is to prepare a Council adaptation strategy to climate change, which is a long-term action with a medium impact. The document also mentions the production of an annual financial summary on the implementation of the Environmental Sustainability Strategy, which is a short-term action with a high impact. These examples demonstrate that the document provides specific timeframes for its climate-related actions, indicating a sense of urgency and commitment to addressing climate change.",
+      "source": "Moyne-a-a12345678910.json",
+      "lga": "Moyne"
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a variety of objectives and actions, each with a designated timeframe and expected impact. For instance, the document mentions offsetting the Council's fleet emissions through annual community indigenous vegetation planting programs, which is a short-term action. Another short-term action is promoting and participating in National Earth Hour to increase Council and community understanding and awareness of energy consumption and the impacts of greenhouse gas emissions. The document also mentions a long-term action, which is to prepare a Council adaptation strategy to climate change. The document uses a timeframe key where short term is less than 2 years, medium term is 2-5 years, and long term is more than 5 years. This provides a clear timeline for the implementation of the actions.",
+      "source": "Moyne-b-a12345678910.json",
+      "lga": "Moyne",
+      "quote": {
+        "content": "Timeframe Key: Short Term = <2 years, Medium Term = 2-5 years, Long Term = >5 years",
+        "page": 22,
+        "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The Council has set an ambitious target to become carbon neutral by 2025, as stated in the first document. This goal is reiterated in the 'Roadmap to Carbon Neutrality' document, which outlines actions to be taken over the five years from 1 July 2020 to 30 June 2025. The roadmap is divided into nine priority areas, each with its own timeline for achieving specific goals. For instance, the Council aims to achieve 100% renewable electricity supply by 2022 and zero-net emissions buildings by 2025. The documents also mention annual reporting on the progress of the action plan, indicating a continuous monitoring and evaluation process.",
+      "source": "MtAlexander-a-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The Council has set an ambitious target to become carbon neutral by 2025, as stated in the first document. This goal is reiterated in the 'Roadmap to Carbon Neutrality' document, which outlines actions to be taken over the five years from 1 July 2020 to 30 June 2025. The roadmap is divided into nine priority areas, each with its own timeline for achieving specific goals. For instance, the Council aims to achieve 100% renewable electricity supply by 2022 and zero-net emissions buildings by 2025. The documents also mention annual reporting on the progress of the action plan, indicating a continuous monitoring and evaluation process.",
+      "source": "MtAlexander-b-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The Murrindindi Climate Change Action Plan does provide specific timeframes for its intended actions on climate change. The plan outlines a strategic approach to addressing climate change, with clear goals and targets. The document sets an ambitious target of achieving net zero emissions by 2035, with interim targets of 20% reduction by 2025 and 75% reduction by 2030, based on 2016/17 baseline levels. The plan also includes a 'Priority Action Plan' for 2023-2027, which outlines specific actions to be taken, along with their estimated costs and the departments responsible for their implementation. The inclusion of these specific timeframes and targets indicates a clear commitment to urgent action on climate change.",
+      "source": "Murrindindi-a-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "Addressing the crisis at its root by achieving net zero by 2035 and meeting our interim targets of 20% by 2025, and 75% by 2030 (reduction based on 2016/17 baseline levels).",
+        "page": 34,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Climate Change Action Plan outlines four central goals, one of which is climate mitigation. This goal includes achieving net zero by 2035 with interim targets of 20% by 2025, and 75% by 2030. These targets are based on 2016/17 baseline levels. The plan also includes a priority action plan for 2023-2027, which details specific actions, their estimated costs, and the timeframes for their implementation. For example, one action is to monitor and report on climate-related expenditure and impacts of extreme weather events on service delivery and financial sustainability, which is set to begin in 2024/25. Another action is to educate staff and councillors on managing climate risks and communicating climate risks to the public, which is set to begin in 2024/25. These specific timeframes indicate a clear schedule for the implementation of the plan's actions.",
+      "source": "Murrindindi-b-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "CLIMATE MITIGATION Addressing the crisis at its root by achieving net zero by 2035 and meeting our interim targets of 20% by 2025, and 75% by 2030 (reduction based on 2016/17 baseline levels). In keeping with our commitment, this Plan addresses climate change through four central goals. These are: 1. GOVERNANCE FOUNDATIONS Developing internal knowledge and systems so that climate change is considered in decision making across the organisation. 2.",
+        "page": 34,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. The policy is titled 'Climate Action Plan 2022-2032', indicating a 10-year timeframe for the plan's implementation. Furthermore, the document mentions specific goals such as achieving 'net zero emissions in Council operations by 2030' and a '2035 net zero emissions target for our community'. These specific timeframes demonstrate the local government's commitment to taking urgent action on climate change. The policy also mentions an 'accompanying, regularly updated, Implementation Plan' which suggests that the actions and progress will be regularly reviewed and updated, further emphasizing the urgency of the actions.",
+      "source": "Nillumbik-a-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "An accompanying, regularly updated, Implementation Plan will drill down further.",
+        "page": 7,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate. The policy is titled 'Climate Action Plan 2022-2032', indicating a 10-year timeframe for the plan's implementation. Furthermore, the document mentions a goal of achieving net zero emissions in Council operations by 2030 and a 2035 net zero emissions target for the community. The plan also includes a commitment to evaluate and report on its progress at regular intervals. However, it should be noted that while these timeframes provide a broad timeline, the document does not provide specific deadlines for each individual action within the plan.",
+      "source": "Nillumbik-b-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "It sets a goal of net zero emissions in Council operations by 2030 and a 2035 net zero emissions target for our community. The Plan is accompanied by a clear implementation schedule and a commitment to evaluate and report on its progress at regular intervals...",
+        "page": 4,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for some of its intended actions on climate. The 'Climate Change Response and Mitigation Action Plan' adopted by the council in February 2021 outlines measures to be taken from 2021 to 2024. These measures include planning for flood events, investing in resilient roads and bridges, monitoring and reporting on the council's energy use, and advocating for government leadership in setting targets and funding for greenhouse gas reduction. The plan also includes measures to reduce waste and vehicle travel, promote the use of electric vehicles, and support waste to energy innovation. The 'Heatwave Plan' also outlines a strategic action plan to minimise the adverse effects of extreme heat related events upon vulnerable members of the community. However, it should be noted that while the documents provide a timeframe for the overall plan, they do not provide specific deadlines for each individual action within the plan.",
+      "source": "Pyrenees-a-a12345678910.json",
+      "lga": "Pyrenees"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for some of its intended actions on climate. The 'Climate Change Response and Mitigation Action Plan' adopted by the council in February 2021 outlines measures to be taken from 2021 to 2024. These measures include planning for flood events, investing in resilient roads and bridges, monitoring and reporting on the council's energy use, and advocating for government leadership in setting targets and funding for greenhouse gas reduction. The plan also includes ongoing measures such as replacing street lights with energy-efficient lighting and reducing waste through improved waste management and recycling practices. However, it should be noted that while the plan provides a timeframe for these actions, it does not specify exact deadlines for each action within this period.",
+      "source": "Pyrenees-b-a12345678910.json",
+      "lga": "Pyrenees",
+      "quote": {
+        "content": "How are we responding?",
+        "page": 3,
+        "source": "Pyrenees-2021-Climate-Change-Response-Mitigation-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a Climate Emergency Response Plan for the years 2021-2031, indicating a 10-year plan of action. The document also provides a breakdown of actions to be taken in the short (1-4 years), medium (4-7 years), and long term (7-10 years). For instance, the document mentions the development of an Implementation Plan, including resourcing commitments, climate governance, prioritisation, and the development of key budget requirements. This plan is to be developed in the short term. Furthermore, the document refers to the United Nations Intergovernmental Panel on Climate Change (IPCC) report, which warns of a 12-year window from 2018 to limit a climate crisis. This further underscores the urgency and specific timeframe for action.",
+      "source": "Queenscliffe-a-a12345678910.json",
+      "lga": "Queenscliffe"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Climate Emergency Response Plan 2021-2031, as the title suggests, outlines a ten-year plan of action. The document also breaks down the plan into shorter timeframes of 1-4 years, 4-7 years, and 7-10 years. This is seen in the section titled 'Mobilisation, Education and Collaboration' where the Council has outlined actions to be taken within these timeframes. The document also mentions 'short' timeframes in the context of the 'Communications Priority' and 'Climate Emergency Response Plan Community Hub'. However, it is important to note that while the document provides these timeframes, it does not provide specific deadlines for each action within these periods.",
+      "source": "Queenscliffe-b-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "Council\n1-4 Years\n4-7 Years\n7-10 Years\nResidents\nBusiness\nCommunity\nShort\nMedium\nLong",
+        "page": 49,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. The policy outlines a range of actions, each with a designated timeline for implementation. For instance, the action to 'Investigate modification of construction practices for road and council infrastructure' has a timeline of 18 months with a review every 2 years. Another action, 'Develop an Urban Forest and Open Space Assets Strategy', has a timeline of 2-3 years to establish, then ongoing. The action to 'Facilitate improved community resilience and social connectedness' is ongoing with a 12-month review. The action to 'Develop and deliver an Integrated Water Plan' is also ongoing with annual reporting. These specific timeframes indicate a clear schedule for the implementation of the policy's climate change adaptation actions.",
+      "source": "SouthernGrampians-a-a12345678910.json",
+      "lga": "SouthernGrampians",
+      "quote": {
+        "content": "Develop and deliver an Integrated Water Plan...",
+        "page": 20,
+        "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+        "search_score": 0.9
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. For instance, it outlines a plan to 'Investigate modification of construction practices for road and council infrastructure' with a timeline of 18 months for reporting in June 2018 and a review every 2 years. Another action, 'Develop an Urban Forest and Open Space Assets Strategy', has a timeline of 2-3 years for establishment, then ongoing. The action to 'Facilitate improved community resilience and social connectedness' is ongoing with a 12-month timeline. The 'Integrated Water Plan' has an ongoing timeline with annual reporting. These specific timeframes indicate a clear schedule for the implementation and review of the climate change adaptation actions.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians",
+      "quote": {
+        "content": "Develop and deliver an Integrated Water Plan...",
+        "page": 20,
+        "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+        "search_score": 0.9
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a Climate Emergency Action Plan for the years 2021-2024, indicating a clear timeframe for the implementation of the plan. The document also mentions that many of the actions are already underway across the organization. Furthermore, it specifies that in 2024, the Council will undertake a review of the action plan and the climate emergency response to update the plan. This suggests a commitment to ongoing action and adaptation in response to changing circumstances. The document also includes a detailed action plan with specific actions, their timeframes, and funding details. For instance, action 3.2.1, which involves reviewing and updating existing strategies, policies, and plans with the Council’s climate emergency response commitments, is scheduled for years 1-2.",
+      "source": "Stonnington-a-a12345678910.json",
+      "lga": "Stonnington"
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a Climate Emergency Action Plan for the years 2021-2024, indicating a clear timeframe for the implementation of the plan. The document also mentions that many of the actions are already underway across the organization. Furthermore, it specifies that in 2024, the Council will undertake a review of the action plan and the climate emergency response to update the plan. This suggests a commitment to ongoing action and review beyond the initial four-year period. The document also includes a detailed action plan with specific actions, their timeframes, and funding details. For instance, it mentions that the review and update of existing strategies, policies, and plans with the Council’s climate emergency response commitments will take place in years 1-2.",
+      "source": "Stonnington-b-a12345678910.json",
+      "lga": "Stonnington"
+    },
+    {
+      "answer": "The Strathbogie Shire Council Climate Change Action Plan does provide specific timeframes for its intended actions on climate. The document outlines a plan to start implementing the Action Plan in 2022-2023 and to report annually on the key achievements, highlights, and challenges for the implementation of programs. The plan also includes a review every five years to ensure that it continues to be proactive and embraces best practice opportunities. Furthermore, the document sets a target for the Council to achieve net zero emissions by 2025. These specific timeframes indicate a sense of urgency in the Council's approach to addressing climate change.",
+      "source": "Strathbogie-a-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "Council will report annually on the key achievements, highlights and challenges for the implementation of programs. In partnership with the community, Council will start implementing the Action Plan in 2022-2023.",
+        "page": 9,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Strathbogie Shire Council Climate Change Action Plan does provide specific timeframes for its intended actions on climate. The document outlines a plan to start implementing the Action Plan in 2022-2023, with annual reporting on key achievements, highlights, and challenges for the implementation of programs. The plan also includes a review of the plan every five years to ensure it continues to be proactive and embraces best practice opportunities. Specific actions such as 'Advocate for and investigate local net zero emissions community energy solutions' and 'Institute a revolving energy fund to fund future projects' are listed without specific timeframes, but the overall plan implementation timeline suggests these actions will be undertaken within the 2022-2023 period. The document also sets a target of achieving net zero emissions by 2025 for Council operations.",
+      "source": "Strathbogie-b-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "Council will report annually on the key achievements, highlights and challenges for the implementation of programs. In partnership with the community, Council will start implementing the Action Plan in 2022-2023.",
+        "page": 9,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate. It outlines a Climate Emergency Action Plan for 2021-2023, indicating a two-year period for the implementation of the plan's actions. The document also mentions that a new action plan will be developed every two years, allowing for adjustments based on emerging climate projections and opportunities. Furthermore, specific objectives within the plan have set deadlines. For instance, Objective 12 targets 80% of actions to be implemented/completed by June 2023. This suggests a clear timeframe and urgency in the policy's approach to addressing climate change.",
+      "source": "SurfCoast-a-a12345678910.json",
+      "lga": "SurfCoast",
+      "quote": {
+        "content": "Target: 80% of actions implemented/completed by June 2023. Measure: Number of actions completed from Action Plan (section 4). Target: 80% of actions implemented/completed by June 2023.",
+        "page": 27,
+        "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a Climate Emergency Action Plan for 2021-2023, indicating a two-year period for the implementation of the plan's actions. The document also mentions that a new action plan will be developed every two years, allowing for adjustments based on emerging climate projections and opportunities. Furthermore, specific objectives within the plan have clear deadlines. For instance, Objective 12 targets 80% of actions to be implemented/completed by June 2023. This suggests a clear sense of urgency in the policy's approach to climate action, with specific timeframes set for the achievement of its goals.",
+      "source": "SurfCoast-b-a12345678910.json",
+      "lga": "SurfCoast",
+      "quote": {
+        "content": "Target: 80% of actions implemented/completed by June 2023. Measure: Number of actions completed from Action Plan (section 4). Target: 80% of actions implemented/completed by June 2023.",
+        "page": 27,
+        "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate. It outlines a strategic plan with actions to be taken, who is responsible for these actions, and when they are to be implemented. For instance, it mentions the development of an appropriate mechanism to measure greenhouse gas emissions by the second year. It also mentions ongoing actions such as regularly reviewing and updating relevant plans and policies in relation to climate variability and change, and energy efficiency. Furthermore, the document states that the actions table within the strategy will be reviewed every four years to ensure they continue to meet the objectives of the long to medium term goals. This indicates a clear commitment to a timeline and regular review of progress.",
+      "source": "SwanHill-a-a12345678910.json",
+      "lga": "SwanHill",
+      "quote": {
+        "content": "Regularly review and update relevant plans and policies in relation to climate variability and change, and energy efficiency.",
+        "page": 15,
+        "source": "SwanHill-Sustainable-Living-Strategy.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate. It outlines a plan to regularly review and update relevant plans and policies in relation to climate variability and change, and energy efficiency. This is an ongoing task, indicating a continuous commitment to climate action. Additionally, the document mentions the development of an appropriate mechanism to measure greenhouse gas emissions in the second year. Furthermore, it mentions working with stakeholders to develop a coordinated and proactive approach to climate variability adaptation and mitigation, also in the second year. These specific timeframes indicate a structured approach to addressing climate change, with clear deadlines for certain actions.",
+      "source": "SwanHill-b-a12345678910.json",
+      "lga": "SwanHill",
+      "quote": {
+        "content": "ly review and update relevant plans and \npolicies in relation to climate variability and change, \nand energy efficiency.",
+        "page": 15,
+        "source": "SwanHill-Sustainable-Living-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. For instance, the 'Greenhouse Gas Emissions & Energy Reduction' section outlines actions to be taken from 2021 to 2024 and 2021 to 2026. Similarly, the 'Sustainable Communities' section details actions to be taken from 2021 to 2026. These timeframes indicate a clear commitment to addressing climate change within a specific period, demonstrating an understanding of the urgency of action required to mitigate climate change impacts. The inclusion of these timeframes also allows for the evaluation of the policy's effectiveness and the progress of its implementation over time.",
+      "source": "Wangaratta-a-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "2021-26",
+        "page": 18,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. For instance, the 'Environmental Sustainability Strategy' outlines actions to be taken within specific years, such as commissioning a community emission snapshot to report on and review from 2021-24, and supporting community leaders wishing to set targets for the reduction of emissions from 2021-26. The strategy also includes actions to respond to adverse weather events through the review and continual update of emergency preparedness and response actions from 2021-26. These timeframes indicate a sense of urgency in addressing climate change and its impacts.",
+      "source": "Wangaratta-b-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "2021-26",
+        "page": 18,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Council's Climate Change Action Plan outlines a target of reducing Council’s emissions by 30 per cent by the year 2020. The Victorian Government has committed to renewable energy generation targets of 25 per cent by 2020 and 40 per cent by 2025. The Australian Government’s climate change plan includes reducing emissions by 5 per cent below 2000 levels by 2020 and by 26 to 28 per cent below 2005 levels by 2030. The Council also has immediate actions such as commencing the development of a Sustainable Building Design Policy and Guide, and reviewing and updating the Climate Change Action Plan. By 2026, the Council aims to have a Sustainable Building Design Policy and Guide in use, and all new Council buildings constructed from 2026 onward will operate as zero net emission buildings.",
+      "source": "Warrnambool-a-a12345678910.json",
+      "lga": "Warrnambool"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the Climate Change Action Plan outlines a target of reducing Council’s emissions by 30 per cent by the year 2020. The Victorian Government has also committed to renewable energy generation targets of 25 per cent by 2020 and 40 per cent by 2025. The Australian Government’s climate change plan includes reducing emissions by 5 per cent below 2000 levels by 2020 and by 26 to 28 per cent below 2005 levels by 2030. Additionally, the local council has immediate actions such as commencing the development of a Sustainable Building Design Policy and Guide, and reviewing and updating the Climate Change Action Plan. There are also interim goals set for 2026, such as having a 5 Star Green Rated building and all new council buildings operating as zero net emission buildings.",
+      "source": "Warrnambool-b-a12345678910.json",
+      "lga": "Warrnambool"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the council plans to investigate and report on the potential long-term costs of climate change to Council service delivery and public infrastructure assets through risk and resilience pathway planning in the 2020/21 timeframe. Additionally, the council aims to review and update key decision-making tools to ensure capital works projects undertake climate change assessments early in the development stage and apply to project planning and delivery in the 2020/21 timeframe. Furthermore, the council plans to update the Municipal Emergency Management Plan in line with the new Emergency Management Legislation Amendment Act 2018 in the 2021/22 timeframe. These specific timeframes indicate a sense of urgency in the council's actions towards addressing climate change.",
+      "source": "Wellington-a-a12345678910.json",
+      "lga": "Wellington"
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. For instance, the policy outlines a plan to 'Investigate and report on potential long-term costs of climate change to Council service delivery and public infrastructure assets through risk and resilience pathway planning' within the 2020/21 timeframe. Additionally, the policy aims to 'Update Municipal Emergency Management Plan in line with the new Emergency Management Legislation Amendment Act 2018' by 2021/22. The policy also includes ongoing actions such as 'Develop and deliver training package for appropriate council staff to build climate change adaptation awareness and risk assessment into programs and services.' These examples demonstrate that the policy not only acknowledges the urgency of action on climate change but also sets specific timeframes for these actions.",
+      "source": "Wellington-b-a12345678910.json",
+      "lga": "Wellington"
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The Climate Response Plan 2023-2026 is a clear indication of a specific timeframe for action. This plan includes 40 actions to be implemented over three years, from 2023 to 2026. The actions are categorized as systemic, mitigation, or adaptation responses. For instance, Action 1a, which involves integrating climate change and sustainability information across all areas of Council’s website and other communication platforms, is scheduled for 2023/24. Another example is Action 8h, which involves advocating to Federal and State governments for a stronger climate response and increased adaptation funding for Councils. This action is ongoing, indicating a continuous commitment. Therefore, the documents provide clear evidence of specific timeframes for the local government's intended actions on climate change.",
+      "source": "Whitehorse-a-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "The Climate Response Plan 2023-2026 supports the first three years’ implementation of this Strategy and includes 40 actions.",
+        "page": 5,
+        "source": "Whitehorse-Climate-Response-Strategy-2023-2030.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The Climate Response Plan 2023-2026 is a clear indication of a specific timeframe for action. This plan includes 40 actions to be implemented over the first three years of the strategy. The documents also mention a mid-cycle review scheduled for 2025/26, indicating a planned reassessment of the strategy's effectiveness and potential adjustments. Furthermore, the documents mention specific targets such as achieving net zero corporate emissions by 2032 and sourcing 100% renewable electricity for Council operations by 2025. These specific timeframes and deadlines underscore the urgency of the climate actions planned by the local government.",
+      "source": "Whitehorse-b-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "It includes 40 actions which include systemic actions as well as those that deliver mitigation or adaptation responses. The Climate Response Plan 2023-2026 supports the first three years’ implementation of this Strategy and its targets.",
+        "page": 27,
+        "source": "Whitehorse-Climate-Response-Strategy-2023-2030.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate change. It outlines a Climate Change Plan for the period of 2022-2032, indicating a ten-year plan of action. The document also mentions that the Climate Change Plan will be reviewed in 2027 and 2032, suggesting that there are specific milestones within the ten-year period where the plan's effectiveness and relevance will be evaluated. Furthermore, the document refers to an integrated Sustainable Environment Action Plan, which outlines the actions that the Council is committed to delivering across six themes, including climate change. This plan is a two-year plan and will be renewed bi-annually in line with Council’s Community Plan and budget processes. These details suggest that the document has set specific timeframes for its climate actions.",
+      "source": "Whittlesea-a-a12345678910.json",
+      "lga": "Whittlesea",
+      "quote": {
+        "content": "The Sustainable Environment Action Plan is a two-year plan, and will be renewed bi-annually in line with Council’s Community Plan and budget processes.",
+        "page": 21,
+        "source": "Whittlesea-climate-change-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does provide specific timeframes for its intended actions on climate change. It outlines a Climate Change Plan for the period of 2022-2032, indicating a ten-year plan of action. The document also mentions that the Climate Change Plan will be reviewed in 2027 and 2032, suggesting that there are specific milestones within the ten-year period. Furthermore, the document refers to an integrated Sustainable Environment Action Plan, which is a two-year plan and will be renewed bi-annually. This indicates that the local government has set short-term (bi-annual), medium-term (five-year), and long-term (ten-year) timeframes for its climate actions. However, the document does not provide specific details on what actions will be taken within these timeframes, which could limit the effectiveness and accountability of the plan.",
+      "source": "Whittlesea-b-a12345678910.json",
+      "lga": "Whittlesea",
+      "quote": {
+        "content": "The integrated Sustainable Environment Action Plan is a two-year plan, and will be renewed bi-annually in line with Council’s Community Plan and budget processes.",
+        "page": 21,
+        "source": "Whittlesea-climate-change-plan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the intended actions on climate change. The Climate Change Adaptation Action Plan 2022 - 2027 outlines a series of actions with clear timelines. For instance, the plan mentions that actions with high priority scores are to be implemented within two years. This is seen in the action plan where actions such as 'Ongoing emissions reporting', 'Become members of Cities Power Partnership', and 'Set net zero emissions target' are all marked with a high priority and a timeline of 'within 2 years'. The document also mentions that medium priority actions are to be implemented between three and seven years, and low priority actions after seven years. This indicates a clear sense of urgency and a structured approach to tackling climate change.",
+      "source": "Wodonga-a-a12345678910.json",
+      "lga": "Wodonga",
+      "quote": {
+        "content": "In addition, timing intervals are provided for implementation based on their prioritisation rating.",
+        "page": 13,
+        "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed provide specific timeframes for the intended actions on climate change. The Climate Change Adaptation Action Plan 2022 - 2027 outlines a series of actions with clear timelines. For instance, the plan mentions that high priority actions are to be implemented within two years, medium priority actions are to be implemented between three and seven years, and low priority actions are to be implemented after seven years. This indicates a clear sense of urgency and a structured approach to addressing climate change. The plan also mentions annual reporting of actions, which suggests ongoing monitoring and evaluation of the progress made. The specific timeframes and the prioritization of actions based on their urgency demonstrate a commitment to timely action on climate change.",
+      "source": "Wodonga-b-a12345678910.json",
+      "lga": "Wodonga",
+      "quote": {
+        "content": "In addition, timing intervals are provided for implementation based on their prioritisation rating.",
+        "page": 13,
+        "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the Wyndham 2016 Climate Adaptation Strategy outlines a series of actions with specific completion timings. Actions such as 'Investigate top priority buildings for opportunities and plan for increase tree plantings around buildings' is set for completion by June 2020. Similarly, 'Completion of an Integrated Water Management Plan' is set for December 2016. The document also mentions that the Greenhouse Action Plan will be reviewed and new targets set towards long term goals in 2020/2021. These specific timeframes indicate a sense of urgency and commitment to act on climate change within a defined period.",
+      "source": "Wyndham-a-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "Develop baseline and monitor climate impacts on council buildings \nJune 2018 Action \nCompletion \ntiming \n10. Investigate top priority buildings for opportunities and plan for increase \ntree plantings around buildings \n \nJune 2020 \n11. Completion of an Integrated Water Management Plan  \nDecember \n2016 \n12. Develop baseline and monitor climate impacts on road maintenance \nrequirements  \nJune 2020 \n13.",
+        "page": 17,
+        "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for intended actions on climate. The Wyndham 2016 Climate Adaptation Strategy outlines a number of actions with specific completion timings. For instance, it mentions an action to 'Investigate top priority buildings for opportunities and plan for increase tree plantings around buildings' with a completion timing of June 2020. Another action to 'Develop baseline and monitor climate impacts on road maintenance requirements' is also set for completion by June 2020. The Wyndham 2018 Greenhouse Action Plan also mentions a review and monitoring of the plan in 2020/2021. These specific timeframes indicate a sense of urgency in implementing and reviewing the actions outlined in the policy.",
+      "source": "Wyndham-b-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "Investigate top priority buildings for opportunities and plan for increase \ntree plantings around buildings \n \nJune 2020 \n12. Action \nCompletion \ntiming \n10.",
+        "page": 17,
+        "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The 'Liveable Climate Action Plan 2020—2030' suggests a ten-year timeframe for the plan's implementation. The document also mentions that the plan will be assessed annually through the Council's reporting framework. Furthermore, the 'Adapting to a changing climate and energy future' document outlines actions to be implemented within 3 years, and actions for 3-5 years and 5-10 years. These timeframes indicate a sense of urgency in the local government's approach to addressing climate change. The documents also mention specific targets such as reducing greenhouse gas emissions by 60% on 2005 levels by 2025 and transitioning all council services and infrastructure to 100% renewable energy by 2030. These targets further emphasize the urgency of the actions.",
+      "source": "YarraRanges-a-a12345678910.json",
+      "lga": "YarraRanges"
+    },
+    {
+      "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The 'Liveable Climate Action Plan 2020—2030' suggests a ten-year timeframe for the plan's implementation. The documents also mention that the plan will be assessed annually through the Council's reporting framework. Furthermore, the 'Adapting to a changing climate and energy future' document outlines actions to be implemented within 3 years, and actions for 3-5 years and 5-10 years. These timeframes indicate a sense of urgency in the local government's approach to addressing climate change. The documents also mention specific targets such as reducing greenhouse gas emissions by 60% on 2005 levels by 2025 and transitioning all council services and infrastructure to 100% renewable energy by 2030. These targets further emphasize the urgency of the actions.",
+      "source": "YarraRanges-b-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "This plan will be assessed annually through Council’s reporting framework... This plan will be assessed annually through Council’s reporting framework...",
+        "page": 15,
+        "source": "YarraRanges-2020-liveable-climate-plan.pdf",
+        "search_score": 0.98
+      }
+    }
+  ]
+}

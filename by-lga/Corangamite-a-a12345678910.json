@@ -1,0 +1,280 @@
+{
+  "settings": {
+    "source_files": [
+      "Corangamite-Shire-Environment-2019.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T14:19:45.630843",
+    "lga": "Corangamite"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The policy does not explicitly state that climate action is the core purpose or goal. While the policy does address aspects related to climate change, such as developing locally specific adaptation responses to climate variability and identifying climate variability impacts and opportunities, it does not clearly establish climate action as its primary objective. The policy also covers other environmental and sustainability issues, such as waste, energy, water, and environmentally sustainable design. Furthermore, the policy outlines a process for developing annual action plans to achieve the goals set out in the strategy, but it does not specify that these goals are primarily focused on climate action. Therefore, based on the provided context, it cannot be definitively stated that climate action is the core purpose or goal of the policy."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document does explicitly explain the need for action on climate change. It outlines the local government's commitment to developing locally specific adaptation responses to climate variability, increasing community understanding of local climate variability impacts, and identifying climate variability impacts and opportunities when undertaking internal planning processes and operations. The document also emphasizes the importance of collaboration with agencies, industry, research institutes, and the community to fill knowledge gaps and identify climate impacts to the local environment, community, and economy. The policy also highlights the need for the council to lead by example in reducing its environmental impact and transitioning the Shire to be more environmentally sustainable with an increased capacity to respond and adapt to drivers of change such as climate variability."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. While the policy does acknowledge the importance of addressing climate variability and outlines strategies for adaptation and resilience, it does not express a sense of urgency or immediacy in its approach. The policy focuses on long-term goals, such as increasing community understanding of climate variability impacts, identifying climate variability impacts in internal planning processes, and developing locally specific adaptation responses. It also mentions the development of annual action plans to achieve these goals. However, the language used does not convey a sense of urgency or a need for rapid action. Instead, the policy appears to take a measured, strategic approach to addressing climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a strategy for addressing climate variability, with specific goals and timelines for their achievement. For instance, it states that a climate variability plan will be prepared for Corangamite Shire within three years. It also sets a goal to implement at least one major adaptation for a changing climate by 2019. Furthermore, it aims to decrease Corangamite Shire’s vulnerability to a changing climate by 2019, based on the 2013 Climate Resilient Communities assessment. The document also mentions the development of annual action plans to achieve the goals set out in the strategy. These plans will be developed using the strategy as a basis and will be reviewed regularly to measure progress and ensure efficient use of resources."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The policy does acknowledge the importance of climate change and outlines various strategies to address it, such as reducing waste, energy, and water use, improving building design, and developing more efficient transport options. It also mentions the development of annual action plans to achieve the goals set out in the strategy. However, these actions are presented as part of a broader environmental and sustainability strategy, and there is no explicit statement prioritizing a climate emergency response over other policies. The documents also state that the areas of action are not presented in any order of priority, further indicating that no specific policy area, including climate change, is given explicit priority over others."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to environmental sustainability and outline various strategies related to waste, energy, natural assets, pest plants and animals, community capacity, and climate variability, they do not mandate that all council activities must align with a specific climate policy. The council's approach appears to be more about setting goals and strategies in various areas, including climate variability, and working towards those goals through annual action plans. However, the documents do not provide evidence of a requirement for all council activities to be aligned with a climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy does outline various goals and strategies related to climate change, such as developing a climate variability plan, implementing at least one major adaptation for a changing climate, and increasing community awareness of climate variability, it does not specify any budget or funding allocation for these actions. The policy mentions the development of annual action plans and the collaboration with agencies, industry, research institutes, and the community, but it does not detail any financial commitments or resources to be mobilized for these initiatives. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Corangamite Shire Environment and Sustainability Strategy 2014-2019 does allocate non-monetary institutional resources to climate action, specifically in the form of staff engagement and involvement. The policy outlines a goal to increase environmentally sustainable practices across all Council work areas, which implies the allocation of staff time and effort towards these practices. The policy also mentions strategies to engage staff on environmentally sustainable initiatives, indicating that staff will be involved in the implementation of these initiatives. Furthermore, the policy states that creating a more environmentally responsible culture will be the responsibility of all Council staff and departments, which suggests that staff resources will be mobilized towards achieving this goal. However, the policy does not provide specific details on the number of staff or the amount of time that will be allocated to these initiatives.",
+          "quote": {
+            "content": "Resource use must be monitored and reduced not only within the office, but also across all Council operations in order for Council to make a meaningful reduction in its environmental impact. The transition to being a more environmentally sustainable organisation requires the participation and commitment of all staff.",
+            "page": 21,
+            "source": "Corangamite-Shire-Environment-2019.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is actively working to empower and educate the community to support and work together on climate action. The policy outlines strategies to engage and empower the community to address environmental and sustainability concerns. It also mentions the provision of education, incentive programs, and support for new and existing community groups as ways to build community capacity in addressing these issues. The policy also outlines plans to increase community understanding of local climate variability impacts, vulnerability, and adaptation through the provision of information and local initiatives. Furthermore, the policy advocates for support such as increased research, information, and investment to develop local adaptation responses to climate variability. These actions suggest a strong emphasis on social mobilization for climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government policy does include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a commitment to reducing CO2 emissions produced by the Council by 10% from 2013 levels by 2019. This indicates a clear focus on technological solutions to reduce emissions. Additionally, the policy also aims to increase the use of sustainable transport options by staff, such as biking, walking, and car-pooling, by 5% by 2019. This suggests a focus on behaviour change as a means of reducing emissions. Furthermore, the policy mentions the development of a climate variability plan, which will consider the local economy, environment, and community, and the implementation of at least one major adaptation for a changing climate by 2019. These points suggest a comprehensive approach to mitigating greenhouse gas emissions.",
+          "quote": {
+            "content": "At least one major adaptation for a changing climate will be implemented by 2019.",
+            "page": 28,
+            "source": "Corangamite-Shire-Environment-2019.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Corangamite Shire's local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a clear timeline for the development and implementation of a climate variability plan, which is expected to consider the local economy, environment, and community. The policy also states that at least one major adaptation for a changing climate will be implemented by 2019. Furthermore, the policy emphasizes the importance of increasing community awareness of individual vulnerability and risk to climate variability. The policy also outlines strategies to achieve these goals, such as identifying climate variability impacts and opportunities, increasing community understanding of local climate variability impacts, and working with the community and other stakeholders to develop locally specific adaptation responses to climate variability.",
+          "quote": {
+            "content": "At least one major adaptation for a changing climate will be implemented by 2019.",
+            "page": 28,
+            "source": "Corangamite-Shire-Environment-2019.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines various strategies and goals related to climate change, such as identifying climate variability impacts, increasing community understanding, and developing locally specific adaptation responses, it does not provide specific evidence or sources to justify these actions. The policy mentions the development of annual action plans and the use of specific tools to measure progress, but it does not detail what these tools are or how they will be used. Furthermore, the policy does not provide any specific climate targets, such as emission reduction goals, that could be evaluated for their evidence base. Therefore, while the policy does demonstrate a commitment to addressing climate change, it does not meet the high standard of evidence and specific detail required to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's policy does indeed include specific measurable criteria to evaluate the success of its proposed actions. The policy outlines a series of goals, each with a clear metric for success and a timeline for review. For instance, one goal is to reduce Council's potable water use by 10% by 2019, with the measure of success being a review of Council's potable water use against 2012-2013 data. The policy also mentions the development of annual action plans, which will be used to identify the actions Council will take to achieve the goals set out in the strategy. Furthermore, the policy states that 'specific tools have been identified within the action plan templates to assist Council to measure their progress in achieving the goals.' This indicates a clear commitment to using measurable criteria to evaluate the success of the policy's proposed actions.",
+          "quote": {
+            "content": "Regular monitoring and evaluation will be important in determining how effective the actions are in helping to achieve the goals. To achieve the goals identified within the strategy, annual action plans will be developed for operational and organisational priority areas. Using the templates in Appendix 1, targeted actions will be developed to help achieve each of the goals.",
+            "page": 26,
+            "source": "Corangamite-Shire-Environment-2019.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do indeed describe plans to conduct research in the local community to inform climate actions. The local government's policy outlines a strategy to increase community understanding of local climate variability impacts, vulnerability, and adaptation through the provision of information and local initiatives. It also plans to collaborate with agencies, industry, research institutes, and the community to fill knowledge gaps and identify climate impacts to the local environment, community, and economy. Furthermore, the policy includes a plan to review the level of community awareness of climate-related vulnerability and risk against 2014 levels. These actions indicate a commitment to conducting research within the community to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The local government's policy primarily focuses on identifying climate variability impacts, increasing community understanding, and developing locally specific adaptation responses. While these are important steps in addressing climate change, they do not necessarily indicate innovation or policy experimentation. The policy does mention the development of a Health and Wellbeing Plan and a Heatwave Plan, but without further details, it is difficult to determine if these represent innovative approaches. The policy also mentions collaboration with agencies, industry, research institutes, and the community to fill knowledge gaps and identify climate impacts, which could potentially lead to innovative solutions, but again, the documents do not provide specific examples of such innovation."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The document does show an explicit intent to advocate for support in relation to climate action. The local government policy outlines a strategy to work with the community and other stakeholders to develop locally specific adaptation responses to climate variability. This includes advocating for increased research, information, and investment to develop local adaptation responses. The policy also mentions collaboration with agencies, industry, research institutes, and the community to fill knowledge gaps and identify climate impacts to the local environment, community, and economy. While the document does not explicitly mention advocating upward to state and national governments, the inclusion of 'agencies' and 'research institutes' in their advocacy efforts could be interpreted as such."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a commitment to working with the community and other stakeholders to develop locally specific adaptation responses to climate variability. It also mentions the importance of increasing community understanding of local climate variability impacts, vulnerability, and adaptation through the provision of information and local initiatives. Furthermore, the policy highlights the role of collaboration with agencies, industry, research institutes, and the community to fill knowledge gaps and identify climate impacts to the local environment, community, and economy. While the documents do not explicitly mention neighbouring local councils, the emphasis on collaboration and partnership suggests a broader approach to climate action that could include neighbouring councils."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The policy document does indeed refer to specific regional associations and partnerships related to climate. The Corangamite Shire Council is a member of the Climate Resilient Communities of the Barwon South West project. This project is a joint collaboration between 10 municipalities and DEPI (Department of Environment, Land, Water and Planning). The project's aim is to assist municipalities and stakeholders to understand and respond to risks and opportunities presented by future climatic changes. This indicates that the council is not working in isolation but is part of a broader network of local governments and agencies, collaborating to address the challenges of climate variability and change. The policy also mentions the council's role in advocating for support, such as increased research, information and investment, to develop local adaptation responses to climate variability. However, the document does not provide specific details about the nature of these advocacy efforts or the targets of such advocacy.",
+          "quote": {
+            "content": "The project aims to assist municipalities and stakeholders to understand and respond to risks and opportunities presented by future climatic changes Council is a member of the Climate Resilient Communities of the Barwon South West project, which is a joint collaboration between 10 municipalities and DEPI.",
+            "page": 18,
+            "source": "Corangamite-Shire-Environment-2019.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the need to increase community understanding of local climate variability impacts, vulnerability, and adaptation, they do not specifically address the impact on vulnerable communities. The documents focus more on the general community and the local government's strategies to mitigate and adapt to climate change. They discuss the need for planning, collaboration, and adaptation in response to climate variability, but do not delve into the specific impacts on vulnerable communities or discuss these impacts in the context of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents focus on the local government's plans and strategies to respond to climate variability and change, including working with the community and other stakeholders to develop locally specific adaptation responses, increasing community understanding of local climate variability impacts, and identifying potential opportunities. However, these strategies do not specifically address the equitable distribution of benefits and opportunities. The documents mention potential social and economic benefits, such as cost savings from renewable energies, new employment opportunities, and improved quality of life, but these are not discussed in the context of equity and social justice."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 11,
+    "num_questions": 20,
+    "attribute_score": 60
+  }
+}

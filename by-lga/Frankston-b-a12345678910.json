@@ -1,0 +1,310 @@
+{
+  "settings": {
+    "source_files": [
+      "Frankston-2019-zero-emissions-plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T14:41:28.905028",
+    "lga": "Frankston"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy, titled 'Towards Zero Emissions Plan (2019–2023)', clearly states that its core purpose is to address climate change. The policy aims to reduce greenhouse gas emissions, transition to low carbon fuel sources, and achieve zero net emissions (carbon neutrality) by 2025. The policy outlines a range of actions to achieve these goals, including energy efficiency measures, renewable energy initiatives, and partnerships for low carbon alternatives. The policy also acknowledges the co-benefits of these actions, such as reduced energy costs, resource conservation, and improved comfort for building occupants. The policy is framed as a response to the global problem of climate change, and it is clear that climate action is the core purpose of the policy.",
+          "quote": {
+            "content": "The purpose of the Towards Zero Emissions Plan (2019–2023) is to provide a forward plan with prioritised actions for Council to decrease its greenhouse gas emissions and set the foundation to become carbon neutral by 2025.",
+            "page": 5,
+            "source": "Frankston-2019-zero-emissions-plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It identifies the primary cause of climate change as the release of greenhouse gas emissions primarily from human activities, such as the burning of fossil fuels, agriculture, and land clearing. The local government is committed to reducing these emissions, saving energy, and transitioning to low carbon fuel sources. The document also highlights the co-benefits of taking action on climate change, including reduced energy costs, resource conservation, less pollution, probable property value increases, improved comfort for building occupants, reduced maintenance costs, and supporting the electricity grid. The document's purpose is to provide a forward plan with prioritized actions for the Council to decrease its greenhouse gas emissions and set the foundation to become carbon neutral by 2025.",
+          "quote": {
+            "content": "Council has set a target for zero net emissions (carbon neutrality) by 2025. Council is committed to reducing greenhouse gas emissions, saving energy and transitioning to low carbon fuel sources.",
+            "page": 5,
+            "source": "Frankston-2019-zero-emissions-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents do explicitly call for urgent action on climate change. The local government acknowledges climate change as a global problem and is committed to reducing greenhouse gas emissions and transitioning to low carbon fuel sources. The documents outline a detailed implementation plan for the period 2019-2023, indicating a sense of urgency in implementing measures to combat climate change. The government has set a target for zero net emissions (carbon neutrality) by 2025, further emphasizing the urgency of the situation. The documents also mention the need for a 'concerted and coordinated effort from nations, cities, communities and individuals' to address the global threat of climate change, indicating the need for immediate and collective action.",
+          "quote": {
+            "content": "By responding to climate change quickly and decisively, Council will reduce its contribution to global warming and its impact on both local and international communities and maximise opportunities where they arise.",
+            "page": 3,
+            "source": "Frankston-2019-zero-emissions-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The 'Towards Zero Emissions Plan 2019–2023' clearly outlines a four-year period during which the Council plans to decrease greenhouse gas emissions and lay the foundation for becoming carbon neutral. The Implementation Plan section of the document further details the actions to be taken over this period. For instance, the Council commits to 'Continue to support the Victorian Government’s TAKE2 climate change pledge and publically report on Council’s progress against committed actions' on an ongoing basis. However, it should be noted that while the document provides a general timeframe (2019-2023), it does not provide specific deadlines for each individual action within this period.",
+          "quote": {
+            "content": "This four year Towards Zero Emissions Plan sets out Council’s priorities over 2019 to 2023 to decrease greenhouse gas emissions and lay the foundation for Council to become carbon neutral",
+            "page": 3,
+            "source": "Frankston-2019-zero-emissions-plan.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The local government policy does outline a detailed plan for reducing greenhouse gas emissions and transitioning to low carbon alternatives, with a target for zero net emissions by 2025. The policy also includes a range of actions such as energy efficiency initiatives, seeking partnerships and external funding, and advocating to the Federal and State Government on matters relating to greenhouse gas emissions and low carbon alternatives. However, there is no explicit statement prioritising these climate change actions over other policies. The documents do indicate that the local government recognises the importance of addressing climate change, but they do not provide clear evidence that a climate emergency response is considered a higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive plan for reducing greenhouse gas emissions and moving towards carbon neutrality, they do not mandate that all council activities must be in alignment with this policy. The documents detail various actions and strategies, such as energy efficiency improvements, use of renewable energy, and public reporting on progress. However, these are specific initiatives under the Towards Zero Emissions Plan and do not necessarily extend to all council activities. Furthermore, the documents mention that the list of actions is not exhaustive and emerging opportunities will be considered, suggesting flexibility in the approach to climate policy alignment."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's plan does explicitly allocate funding for climate action. The documents provide several instances where actions related to climate change mitigation and adaptation are marked as 'Funded' or 'Partly funded'. For instance, the plan includes actions such as supporting the Victorian Government’s TAKE2 climate change pledge, investigating the benefits of joining organisations working on greenhouse mitigation, and staying abreast of the latest research and innovations emerging from Smart City technologies. These actions are all marked as 'Funded'. Additionally, the plan includes working with regional greenhouse alliances to progress Council’s corporate emission reduction priorities and opportunities, which is marked as 'Partly funded'. Therefore, it is clear that the plan has allocated funding for climate action.",
+          "quote": {
+            "content": "C9 Continue to support the Victorian Government’s TAKE2 climate change pledge and publically report on Council’s progress against committed actions.",
+            "page": 47,
+            "source": "Frankston-2019-zero-emissions-plan.pdf",
+            "search_score": 0.94
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines various actions related to climate change and assigns responsibility to specific departments within the council. For instance, the 'Sustainable Assets' department is tasked with encouraging staff and community to take the Victorian Government’s climate change pledge (Action C18). The same department, along with 'Community Relations' and 'Sustainability Victoria', is also responsible for staying abreast of the latest research and innovations emerging from Smart City technologies for Council assets and infrastructure planning, particularly as they relate to energy and emissions reduction (Action C19). Furthermore, the 'Community Strengthening' and 'Sustainable Assets' departments are to work with regional greenhouse alliances to progress Council’s community carbon emission reduction priorities (Action C15). These allocations demonstrate a clear commitment of staff and institutional resources towards climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is actively working to empower and educate the community to support and work together on climate action. The policy outlines several initiatives aimed at community engagement and education. These include the development and promotion of targeted education and engagement services to encourage the uptake of energy efficiency, renewable energy, and emission reduction activities and behaviors. The policy also mentions a pilot project with South East Water and Council’s Home and Community Care clients to implement water efficiency and cost-saving initiatives in their homes. Furthermore, the policy encourages staff and the community to take the Victorian Government’s TAKE2 climate change pledge. These actions suggest a concerted effort to mobilize the community around climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The 'Towards Zero Emissions Plan 2019–2023' indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to reducing greenhouse gas emissions, transitioning to low carbon fuel sources, and achieving zero net emissions by 2025. Technological solutions are addressed through energy efficiency improvements to Council’s buildings and assets, shifting to cleaner energy sources, and replacing existing street lights with energy-efficient LEDs. The plan also includes the use of renewable energy through solar power installations. Behaviour change is encouraged through education, partnerships, and projects, as well as public reporting on Council’s energy costs and usage. The plan also acknowledges the need to counteract unavoidable emissions through the purchase of approved carbon offsets. Therefore, the plan includes both technological solutions and behaviour change as part of its mitigation strategies.",
+          "quote": {
+            "content": "Council has set a target for zero net emissions (carbon neutrality) by 2025. Council is committed to reducing greenhouse gas emissions, saving energy and transitioning to low carbon fuel sources.",
+            "page": 5,
+            "source": "Frankston-2019-zero-emissions-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents do not contain specific actions for climate adaptation and resilience. While the documents do mention the importance of responding to climate change and reducing greenhouse gas emissions, they do not provide explicit strategies or actions for adapting to a changing climate or enhancing resilience. The documents focus more on mitigation efforts such as energy efficiency, reducing emissions, and seeking partnerships for low carbon alternatives. They also mention the need for external funding and feasibility assessments for some actions. However, these are not directly linked to climate adaptation or resilience. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a range of actions to reduce emissions, such as supporting the Victorian Government’s TAKE2 climate change pledge, investigating the benefits of joining organisations working on greenhouse mitigation, and implementing Urban Forest and Biodiversity Action Plans, it does not provide specific evidence or data to justify these actions or their expected impact. The policy also mentions the need for further analysis and consideration through Council’s annual budgeting process, suggesting that the evidence base for these actions may not be fully developed. Furthermore, while the policy mentions a detailed Implementation Plan, the documents provided do not include this plan or provide specific details about it. Therefore, based on the provided documents, it cannot be confirmed that the policy provides well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The 'Towards Zero Emissions Plan 2019–2023' does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a monitoring and evaluation process that will be conducted on an annual basis to measure progress against the implementation plan and Council’s zero net emissions target. This process includes recording progress against individual actions, alongside an analysis of Council’s energy usage, costs, and greenhouse gas emissions. The plan also mentions that Council will continue to report publicly on its greenhouse gas emissions inventory on an annual basis. Furthermore, the plan includes an implementation plan that outlines Council’s energy and greenhouse emission reduction actions over the 2019–2023 period. For each action, the estimated emissions reduction in tonnes of carbon dioxide equivalent (tCO2-e), level of investment required, and payback period are included.",
+          "quote": {
+            "content": "Progress against individual actions will be recorded, alongside an analysis of Council’s energy usage, costs and greenhouse gas emissions.",
+            "page": 35,
+            "source": "Frankston-2019-zero-emissions-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy outlines various actions to reduce emissions, such as energy efficiency works, renewable energy actions, and the implementation of Urban Forest and Biodiversity Action Plans. It also mentions the intention to educate and engage staff, tenants, and the broader community in energy efficiency and sustainable living initiatives. However, these actions seem to be based on existing knowledge and strategies, rather than new research conducted within the local community. The policy does mention the possibility of 'emerging opportunities' and the need for 'additional feasibility assessments', which could potentially involve some form of research, but this is not explicitly stated."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The local government's policy, as outlined in the 'Towards Zero Emissions Plan 2019–2023', does show evidence of innovation and policy experimentation in climate action. The policy includes a detailed implementation plan that highlights the council's energy and greenhouse emission reduction actions over a four-year period. The plan covers a wide range of actions, including energy efficiency works, renewable energy actions, and partnerships for low carbon alternatives. The policy also indicates a willingness to adapt and expand upon these actions as new opportunities emerge. Furthermore, the policy demonstrates a commitment to collaboration and partnership, seeking external funding and advocating to the Federal and State Government on matters relating to greenhouse gas emissions and low carbon alternatives. This suggests a proactive and innovative approach to climate action.",
+          "quote": {
+            "content": "A detailed Implementation Plan is outlined in Section 5 highlighting Council’s energy and greenhouse emission reduction actions over the 2019–2023 period.",
+            "page": 15,
+            "source": "Frankston-2019-zero-emissions-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the local government's plan to seek partnerships and external funding, as well as advocate to the Federal and State Government, agencies, and organizations on opportunities and matters relating to Council and community greenhouse gas emissions and low carbon alternatives. This indicates a clear intent to engage with higher levels of government to support climate action. The policy also mentions the local government's commitment to the Victorian Government’s TAKE2 climate change pledge and its plan to publicly report on the Council’s progress against committed actions. This further demonstrates the local government's intent to work in coordination with state government and advocate for climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents explicitly encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The council aims to educate and engage its staff, tenants, and the broader community in energy efficiency, renewable energy technologies, and sustainable living initiatives. This is done with the intention of building local capacity. The council also maintains and establishes collaborative partnerships with stakeholders such as the Victorian Government and other local councils. These partnerships play a key role in implementing collective solutions to climate change, sharing expertise and resources, and realizing opportunities. The council also seeks partnerships and external funding as well as advocates to the Federal and State Government, agencies, and organizations on opportunities and matters relating to Council and community greenhouse gas emissions and low carbon alternatives.",
+          "quote": {
+            "content": "Maintaining and establishing collaborative partnerships with stakeholders such as the Victorian Government and other local councils will also continue to play a key role in implementing collective solutions to climate change, sharing expertise and resources, as well as realising opportunities. Council will continue to educate and engage its staff, tenants and the broader community in energy efficiency, renewable energy technologies and sustainable living initiatives to build local capacity.",
+            "page": 33,
+            "source": "Frankston-2019-zero-emissions-plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government policy outlines a commitment to work with regional greenhouse alliances to progress the Council's corporate and community carbon emission reduction priorities and opportunities. This is mentioned as an ongoing action, indicating a sustained effort to collaborate with these alliances. Furthermore, the policy also mentions the Victorian Government's TAKE2 climate change pledge, which the Council continues to support and report on. This suggests a partnership with the state government in addressing climate change. The policy also mentions the possibility of joining organizations and groups working on greenhouse mitigation, such as the Cities Power Partnership, to stay updated on new projects and opportunities. This indicates a willingness to form new partnerships to enhance their climate change response.",
+          "quote": {
+            "content": "Cities Power Partnership) to ensure Council keeps abreast of new projects, developments and opportunities as they arise. Continue to support the Victorian Government’s TAKE2 climate change pledge and publically report on Council’s progress against committed actions.",
+            "page": 47,
+            "source": "Frankston-2019-zero-emissions-plan.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's plans and actions to mitigate climate change, such as reducing greenhouse gas emissions, supporting the Victorian Government's TAKE2 climate change pledge, and investigating the benefits of joining organizations working on greenhouse mitigation. The documents also mention the importance of public reporting on the council's energy costs, usage, and greenhouse gas emissions, and the need to stay abreast of the latest research and innovations in Smart City technologies. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities or any measures being taken to address these effects in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The policy documents focus on the local government's actions towards climate change mitigation, such as supporting the Victorian Government’s TAKE2 climate change pledge, investigating the benefits of joining organisations working on greenhouse mitigation, and staying abreast of the latest research and innovations in Smart City technologies. However, there is no specific mention or discussion on how these actions and their benefits would be equitably shared among different social groups or how social justice would be ensured in the process. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 65
+  }
+}

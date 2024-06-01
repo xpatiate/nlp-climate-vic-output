@@ -1,0 +1,917 @@
+{
+  "attribute": 9,
+  "question": 14,
+  "finding": true,
+  "num": 99,
+  "responses": [
+    {
+      "answer": "The document does describe plans to conduct research in the local community to inform climate actions. The City of Ballarat's 'Net' Zero Emissions Plan is designed to be a roadmap for collaborative action, and it outlines how the local government will partner with the community, businesses, and other stakeholders to achieve sustainability. The plan was developed through extensive community engagement and involvement, including the publication and distribution of a background paper, online workshops with stakeholder groups, and face-to-face workshops. These sessions provided a platform for engagement and input, and helped the project team understand community priorities and perspectives on climate action. The plan also includes a review process, with annual reporting on progress and a full review in 2025, which will take into account the success of programs and other factors such as government policy and technology accessibility. This suggests a commitment to ongoing research and adaptation based on community feedback and changing circumstances.",
+      "source": "Ballarat-a-a12345678910.json",
+      "lga": "Ballarat",
+      "quote": {
+        "content": "As a document that seeks to ensure that the maximum number of emissions are reduced, the recommendations within it rely heavily on cross-sectoral collaboration and a clear and unified strategic direction. This ‘Net’ Zero Emissions Plan was sponsored by the City of Ballarat and included extensive community engagement and involvement.",
+        "page": 9,
+        "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The City of Ballarat's 'Net' Zero Emissions Plan was developed with extensive community engagement and involvement. This included the publication and distribution of a background paper detailing recommended program areas focused on community emissions reduction, and a series of online and face-to-face workshops with stakeholder groups to discuss existing and planned developments in each identified action area. These sessions provided strategic direction in the recommendation and framing of key action areas, and helped the project team understand community priorities and perspectives on climate action. The plan also includes a commitment to report annually on progress, key achievements, highlights, and areas of improvement, and to review and update the plan in 2025 based on the success of programs and other factors. This suggests a commitment to ongoing research and community engagement to inform and refine climate actions.",
+      "source": "Ballarat-b-a12345678910.json",
+      "lga": "Ballarat",
+      "quote": {
+        "content": "As a document that seeks to ensure that the maximum number of emissions are reduced, the recommendations within it rely heavily on cross-sectoral collaboration and a clear and unified strategic direction. This ‘Net’ Zero Emissions Plan was sponsored by the City of Ballarat and included extensive community engagement and involvement.",
+        "page": 9,
+        "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's Climate Change Action Plan 2020 - 2030 outlines a comprehensive approach to gathering data and engaging with the community to inform its climate actions. The plan includes a detailed assessment process to ensure actions are technically feasible, economically beneficial, and socially desirable. The process of developing the plan involved active engagement with over 580 people from the community, including surveys and workshops. The community's insights and concerns related to climate change were used to shape and prioritize actions. The plan also includes a monitoring framework to evaluate the effectiveness of the actions and their implementation. This approach demonstrates a commitment to evidence-based policy-making and a high level of community involvement.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "Over 580 people actively engaged in the process of developing this Plan.",
+        "page": 73,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's Climate Change Action Plan 2020 - 2030 outlines a comprehensive approach to gathering data and analyzing it to inform their climate actions. The plan includes a detailed assessment process to ensure the actions are technically feasible, economically beneficial, and socially desirable. The plan also emphasizes the importance of community engagement in developing, selecting, shaping, and prioritizing actions. Over 580 people were actively engaged in the process of developing the plan. The community's insights were used to support the development of the plan, indicating a strong desire from individuals to work with local community groups to take climate change action. The plan also includes a monitoring framework to ensure effective and efficient delivery of the actions.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "Over 580 people actively engaged \nin the process of developing this \nPlan.",
+        "page": 73,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a plan to investigate how best to support the community in transitioning away from peak oil and towards a Carbon Pollution Reduction Scheme, including options in sustainable energy. This investigation would likely involve research into the impacts on different sectors of the community and the identification of actions that will support an easier transition for the community. The government also plans to employ a consultant to ensure climate response is included in the next update of the Municipal Health and Wellbeing Plan. This suggests a commitment to informed, evidence-based policy making in relation to climate change.",
+      "source": "Benalla-a-a12345678910.json",
+      "lga": "Benalla"
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a plan to investigate how best to support the community in transitioning away from peak oil and towards a Carbon Pollution Reduction Scheme, including options in sustainable energy. This investigation would likely involve research into the impacts on different sectors of the community and the identification of actions that will support an easier transition for the community. The government also plans to employ a consultant to ensure climate response is included in the next update of the Municipal Health and Wellbeing Plan. This suggests a commitment to informed action based on expert advice and research. Furthermore, the government has a plan to implement a Climate Change Adaptation Action Plan and ensure it is updated every five years, which would likely involve ongoing research and assessment of the local community's needs and vulnerabilities related to climate change.",
+      "source": "Benalla-b-a12345678910.json",
+      "lga": "Benalla",
+      "quote": {
+        "content": "Implement Climate Change Adaptation Action Plan and ensure it is updated every five years.",
+        "page": 51,
+        "source": "Benalla-Environment_Strategy_2016_20.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The City of Boroondara undertook community consultation in 2020 and 2021 to understand community perceptions, behaviours, and aspirations regarding climate action at the local level. The consultation involved surveys and workshops, with feedback collected online, over the phone, and in writing. The community's feedback was considered and incorporated in the development of the Climate Action Plan. The plan also includes provisions for periodic monitoring and reporting on various aspects related to climate change, such as greenhouse gas emissions, waste and recycling data, tree planting, and water use. The Climate Action Plan will be reviewed and updated every five years, and the implementation plan will be updated every two years. These updates will include a community check-in survey, indicating ongoing research and consultation with the local community.",
+      "source": "Boroondara-a-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "In March/April 2021 we did a follow up survey and workshops. During the frst phase of the consultation, we heard from more than 1,500 community members who shared their feedback online, over the phone and in writing. In March/April 2021 we did a follow up survey and workshops.",
+        "page": 8,
+        "source": "Boroondara-Climate-Action-Plan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The City of Boroondara undertook social research to understand community perceptions, behaviours, and aspirations regarding climate action at the local level. This research was used to guide the development of key themes and types of actions for the Climate Action Plan. A second phase of research was conducted to test these themes and actions with the community. The consultation process involved surveys, workshops, and online forums. Feedback from the community was considered and incorporated in the development of the Climate Action Plan. The plan also includes provisions for periodic monitoring and reporting on various aspects related to climate change, such as greenhouse gas emissions, waste management, and tree planting. The Climate Action Plan will be reviewed and updated every five years, and the implementation plan will be updated every two years, with these updates including a community check-in survey.",
+      "source": "Boroondara-b-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "In August and September 2020, the City of Boroondara undertook social research to help understand community perceptions, behaviours, and aspirations regarding climate action at the local level, along with how the community sees Council’s role in relation to climate action and what actions they would like Council to be engaged in moving forward.",
+        "page": 46,
+        "source": "Boroondara-Community-Research-Report.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined several actions that involve research and data collection to better understand the impacts of climate change and inform their response strategies. For instance, the 'Climate Change Adaptation Framework Action Plan' includes plans to update the Council Plan and Community Plan to ensure climate change is comprehensively considered. This would likely involve research into the local community's specific vulnerabilities and needs. Additionally, the local government plans to participate in Sustainability Victoria’s Healthy Homes program, which would involve retrofitting homes for better energy efficiency, likely informed by research into local housing conditions and energy use. Another action involves preparing a biodiversity connectivity plan to enhance the movement of indigenous flora and fauna, which would require research into local ecosystems. Furthermore, the 'Brimbank Climate Emergency Plan 2020-2025' includes actions such as undertaking place-based research to understand the health risks and likely impacts of climate change on services and communities, and developing an urban design manual that specifies climate positive and sustainable products for open space and streetscape upgrades.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "Partners could include: Sustainability Victoria, \nDepartment of Health and Human Services, \nBrotherhood of St. Laurence, Climate Council Plan working group\nPolicy, \nAdvocacy and \nResearch\nStaff time +\n1.2\nParticipate in Sustainability Victoria’s Healthy Homes program \nto retrofit Home and Community Care clients’ homes to ensure \nbetter cooling capacity and energy savings are realised for \nvulnerable residents.",
+        "page": 14,
+        "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined several actions that involve research and investigation to understand the impacts of climate change and inform decision-making. For instance, the 'Climate Change Adaptation Framework Action Plan' mentions plans to participate in place-based research to understand the health risks and likely impacts of climate change on services and communities. This includes heat mapping to understand the areas most vulnerable to increased temperatures. Another action involves investigating options that model the impact of future climate scenarios on indigenous flora and fauna. This research will help the local government make informed decisions about how to protect local ecosystems from the impacts of climate change. Furthermore, the 'Brimbank Climate Emergency Plan 2020-2025' mentions a research project with the Cooperative Research Centre for Water Sensitive Cities and other partner agencies to analyse how to implement the Brimbank Oasis concept. This research will inform actions to make the city more resilient to climate change.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "heat mapping.",
+        "page": 27,
+        "source": "Brimbank-Climate-Emergency-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has undertaken a community survey to understand the concerns and ideas of the community regarding climate change. The survey results have been used to identify the community's top concerns about climate change impacts, their efforts towards climate change mitigation and adaptation, and the areas they would like to receive more support in implementing. The survey has also gathered the community's ideas on how to improve existing systems and infrastructure, and how the local government can best support the community to take climate action. This information is crucial in informing the local government's climate actions, ensuring they are responsive to the community's needs and ideas.",
+      "source": "Buloke-b-a12345678910.json",
+      "lga": "Buloke",
+      "quote": {
+        "content": "Of the 2030 climate scenario predictions, respondents \nwere most concerned about increase in extreme  \ntemperature days and fire risk and reduced \nannual rainfall. In developing this Draft Plan, Ndevr Environmental \nundertook a community survey.",
+        "page": 2,
+        "source": "Buloke-2021-climate-action-plan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government's Climate Change Adaptation Strategy and Action Plan outlines a comprehensive approach to addressing climate change risks. This includes the identification of climate impacts and risks, the development of action plans, and the implementation of these plans over a 10-year period. The strategy also emphasizes the importance of community engagement and consultation in the development of these plans. For instance, the strategy mentions a mid-term review of the action plan and a climate change risk impact and risk assessment in preparation for the development of a new strategy. These actions suggest a commitment to ongoing research and evaluation to inform climate actions. Furthermore, the strategy also includes actions to raise community awareness and preparedness for climate hazards, which implies a level of research and understanding of the local community's needs and vulnerabilities.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "Undertake a climate change risk impact and \nrisk assessment in preparation for development \nof new strategy \n1 year \n2032-33 \nEnvironment and \nHeritage",
+        "page": 8,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy___Action_plan.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government's Climate Change Adaptation Strategy and Action Plan outlines a comprehensive approach to addressing climate change risks. The strategy includes a 10-year costed action plan developed through rigorous consultation with community and internal stakeholders. This plan is designed to address the most urgent climate risks between 2023 to 2033, with a focus on strengthening the adaptive capacity of the community and Council to the immediate and imminent localised risks associated with the intensifying impacts of climate change. The documents also mention a midterm review of the action plan and a climate change risk impact and risk assessment in preparation for the development of a new strategy. These actions suggest a commitment to ongoing research and adaptation based on the changing needs and conditions of the local community.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "The CCAS 10-year Action Plan prescribes resources and initiatives to lessen the risks associated with the localised impacts of climate change in Cardinia Shire.",
+        "page": 5,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy_2022_2023.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has engaged in a collaborative approach to climate action, inviting the Central Goldfields community to participate. This approach included a series of community workshops that took place from August to November 2021. These workshops provided valuable insights and direction for the development of the Climate Action Plan. The local government also conducted targeted consultations with Council staff and regional service providers during the Plan's development. This was done to ensure that the Plan built on existing work and captured important opportunities. Furthermore, the local government plans to implement a community-led project, Climate Conversation Week, to gather insights from the broader community around risks and potential actions, which will inform the ongoing implementation of the Climate Action Plan.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "These workshops provided valuable insights and direction for the development of this Plan. A series of community workshops took place from August through to November 2021.",
+        "page": 9,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has engaged in a collaborative approach to climate action, inviting the Central Goldfields community to participate. This approach included a series of community workshops from August to November 2021, which provided valuable insights and direction for the development of the Climate Action Plan. The local government also conducted targeted consultations with Council staff and regional service providers during the Plan's development. These consultations aimed to build on existing work and capture important opportunities. Furthermore, the local government plans to implement a community-led project, Climate Conversation Week, to gather insights from the broader community around risks and potential actions, which will inform the ongoing implementation of the Climate Action Plan.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "These workshops provided valuable insights and direction for the development of this Plan. A series of community workshops took place from August through to November 2021.",
+        "page": 9,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive approach to developing its Climate Change Action Plan, which includes a range of activities to gather information and insights. These activities include community surveys and drop-in sessions, targeted stakeholder workshops, and discussions with council staff, community members, other councils, climate change networks, and government agencies. This approach ensures that the plan is informed by a broad range of perspectives and is responsive to the specific needs and circumstances of the local community. The plan also includes provisions for monitoring and evaluating the implementation of the actions, with annual reporting to the council's executive management team, councillors, and the community. This ongoing evaluation will provide further opportunities to gather feedback and insights from the community, and to adjust the plan as needed.",
+      "source": "ColacOtway-a-a12345678910.json",
+      "lga": "ColacOtway"
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive approach to developing its Climate Change Action Plan, which includes a range of activities to gather information and insights. These activities include community surveys and drop-in sessions, targeted stakeholder workshops, and discussions with council staff, community members, other councils, climate change networks, and government agencies. This approach ensures that the plan is informed by a broad range of perspectives and is responsive to the specific needs and circumstances of the local community. The plan also includes provisions for monitoring and evaluating the implementation of the actions, with annual reporting to the Council's Executive Management Team, Councillors, and the community. This ongoing evaluation will provide further opportunities to gather feedback and refine the plan over time.",
+      "source": "ColacOtway-b-a12345678910.json",
+      "lga": "ColacOtway"
+    },
+    {
+      "answer": "The documents do indeed describe plans to conduct research in the local community to inform climate actions. The local government's policy outlines a strategy to increase community understanding of local climate variability impacts, vulnerability, and adaptation through the provision of information and local initiatives. It also plans to collaborate with agencies, industry, research institutes, and the community to fill knowledge gaps and identify climate impacts to the local environment, community, and economy. Furthermore, the policy includes a plan to review the level of community awareness of climate-related vulnerability and risk against 2014 levels. These actions indicate a commitment to conducting research within the community to inform climate actions.",
+      "source": "Corangamite-a-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government plans to work with the community and other stakeholders to develop locally specific adaptation responses to climate variability. This involves identifying potential opportunities and advocating for support such as increased research, information, and investment to develop local adaptation responses. The council also plans to review the level of community awareness of climate-related vulnerability and risk, which implies some form of research or data collection. Furthermore, the council aims to collaborate with agencies, industry, research institutes, and the community to fill knowledge gaps and identify climate impacts to the local environment, community, and economy. This suggests a comprehensive approach to research and information gathering to inform climate actions.",
+      "source": "Corangamite-b-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The documents do indicate plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive approach to community engagement and education, which includes gathering feedback from the community through discussions, workshops, interviews, and surveys. This feedback is then used to inform the development of the Climate Emergency Plan. The documents also mention the use of a range of data to measure progress in reducing greenhouse gas emissions, building community resilience, and achieving other aims. This data collection could be seen as a form of research that informs climate actions. Furthermore, the documents mention the provision of support and advice for groups seeking funding from other government and philanthropic grant processes, which could potentially include research initiatives.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Residents participated in discussions, workshops, interviews and surveys. Between July and December 2016, Council consulted with the community on how they wanted to see Council respond to climate change.",
+        "page": 26,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive plan to engage with the community, raise awareness about climate change, and take action. This includes providing support to community groups, educating the community, and increasing vegetation and soil carbon. The government also plans to maintain staff awareness programs on climate change and promote sustainable buildings and infrastructure. Furthermore, the government has conducted community consultations to gather feedback and inform their Climate Emergency Plan. This indicates a commitment to research and community engagement to inform their climate actions.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "The infographic below provides a summary of feedback gathered through this consultation process. Between July and December 2016, Council consulted with the community on how they wanted to see Council respond to climate change. Residents participated in discussions, workshops, interviews and surveys.",
+        "page": 26,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The document does indeed describe plans to conduct research in the local community to inform climate actions. The policy outlines a strategy to understand the local population segments who are particularly exposed to climate change risks, their needs, and barriers to action. This understanding is crucial to developing effective climate action plans tailored to the specific needs and circumstances of the local community. The policy also mentions the creation of opportunities for rekindling and sharing of Traditional Owner knowledge, which can be seen as a form of research into indigenous ecological knowledge. Furthermore, the policy includes plans to provide annual progress reports detailing key programs and outcomes, which implies ongoing monitoring and evaluation of the implemented actions. This ongoing evaluation can be seen as a form of research that informs future actions.",
+      "source": "GlenEira-a-a12345678910.json",
+      "lga": "GlenEira"
+    },
+    {
+      "answer": "The document does indeed describe plans to conduct research in the local community to inform climate actions. The policy outlines a strategy to understand the local population segments who are particularly exposed to climate change risks, their needs, and barriers to action. This understanding is crucial to inform the development of services and partnerships to support the most vulnerable community members. The policy also mentions the engagement and education of residents and businesses about climate change impacts and the actions the Council is taking. This engagement process can be seen as a form of research as it involves gathering information about the community's awareness and understanding of climate change. Furthermore, the policy includes a plan to provide an annual progress report detailing Council’s advocacy action and outcomes, which implies a continuous process of monitoring and evaluation.",
+      "source": "GlenEira-b-a12345678910.json",
+      "lga": "GlenEira"
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined strategies to engage the community in discussions about the environmental impact of climate change and the associated risks and planning implications. This includes leading communities in discussions, risk assessment, and planning for the impacts of climate change. The government also plans to ensure that the impacts of climate change are incorporated into key plans and strategies. Furthermore, the government intends to implement an environmental education and awareness program with the local communities on energy conservation and greenhouse gas abatement actions. These strategies suggest that the government is planning to conduct research in the local community to inform climate actions.",
+      "source": "Glenelg-a-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined strategies to engage the community in discussions about the environmental impact of climate change and the risks and planning implications for local communities. This includes leading communities in discussions, risk assessment, and planning for the impacts of climate change. The government also plans to ensure that the impacts of climate change are incorporated into key plans and strategies. Furthermore, the government intends to develop a Community Engagement and Communication Plan for this strategy to help seek funding for community engagement and training activities. This suggests that the government is planning to conduct research in the local community to inform its climate actions.",
+      "source": "Glenelg-b-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has undertaken a comprehensive consultation process to gather input from various stakeholders, including the Wadawurrung Traditional Owner Aboriginal Corporation, community members, businesses, and internal staff teams. This consultation process involved surveys, in-person and online workshops, booths at local events, and engagement with local schools. The feedback received from these consultations was then used to inform the development of the Climate Emergency Plan. The plan outlines specific actions to be taken, with start years and whether they focus on mitigation or adaptation. The actions are grouped into five themes, including embedding climate action into Council, resilient and adaptive community, caring for the land, climate responsive development, and sustainable transport and travel. This approach ensures that the actions taken are informed by the local community's needs and perspectives, and are therefore more likely to be effective and supported by the community.",
+      "source": "GoldenPlains-a-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "Overall, Council received 636 discrete comments from approximately 200 people.",
+        "page": 31,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has undertaken a comprehensive consultation process to gather input from various stakeholders, including the Wadawurrung Traditional Owner Aboriginal Corporation, community members, businesses, and internal staff teams. This consultation process involved surveys, in-person and online workshops, booths at local events, and engagement with local schools. The feedback received from these consultations was then used to inform the development of the Climate Emergency Plan. The plan outlines specific actions to be taken, their start years, and whether they focus on mitigation or adaptation. This approach ensures that the actions are not only informed by research but are also tailored to the specific needs and circumstances of the local community.",
+      "source": "GoldenPlains-b-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "Overall, Council received 636 discrete comments from approximately 200 people.",
+        "page": 31,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive strategy to assess climate risks and vulnerabilities across the municipality, which includes understanding current and projected hazards and vulnerable sectors. This assessment will be reported publicly via the Global Covenant of Mayors, indicating a commitment to transparency and accountability. The strategy also includes the development of greenhouse gas emissions inventories, defining ambitious climate change mitigation targets, and developing integrated climate action plans. Furthermore, the strategy involves supporting innovation and design thinking to identify new ways of working and programs that build community adaptive capacity. This suggests a proactive approach to understanding and addressing climate risks at the local level, with a focus on evidence-based planning and decision-making.",
+      "source": "GreaterBendigo-a-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "Supporting innovation and design thinking to identify new ways of working and programs that build community adaptive capacity.",
+        "page": 19,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive strategy to assess climate risks and vulnerabilities for all Council buildings and infrastructure, and across the municipality. This assessment will help understand current and projected hazards and vulnerable sectors. The results of this assessment will be reported publicly via the Global Covenant of Mayors. The strategy also includes the use of evidence-based and scenario planning in Council decision-making processes. Furthermore, the local government plans to support innovation and design thinking to identify new ways of working and programs that build community adaptive capacity. These actions indicate a commitment to informed planning and action based on research and assessment of local conditions and needs.",
+      "source": "GreaterBendigo-b-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "Supporting innovation and design thinking to identify new ways of working and programs that build community adaptive capacity.",
+        "page": 19,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive approach to assess current activities and identify new opportunities to work with the community. This includes raising awareness of climate change impacts, supporting community actions to mitigate greenhouse gas emissions, and building environmental resilience. The government also plans to deliver awareness and engagement programs through a diverse range of approaches to maximize effectiveness and reach within the community. Furthermore, the government intends to assess its current capacity to mobilize the community in response to the declaration of a Climate and Ecological emergency. These actions indicate a clear intention to conduct research within the local community to inform and guide climate actions.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong",
+      "quote": {
+        "content": "Assess current activities and new opportunities to inform and work with the community to increase awareness of climate change impacts to health and wellbeing and opportunities to reduce these risks in response to the Climate and Ecological Emergency.",
+        "page": 12,
+        "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government plans to assess current activities and new opportunities to work with the community to increase awareness of climate change impacts. This includes working with diverse multicultural communities, delivering awareness and engagement programs, and assessing the current capacity of the Council to mobilize the community. The government also plans to identify opportunities that explain to the community the emerging risks due to climate change and develop a range of practical and realistic actions that the community can take. Furthermore, the government plans to undertake a 3-year project in partnership with RMIT and other stakeholders to benchmark community attitudes to trees in Greater Dandenong in comparison with other local government areas. This project will also develop and test public participation activities and messaging to engage residents with understanding the value of tree planting and urban canopy.",
+      "source": "GreaterDandenong-b-a12345678910.json",
+      "lga": "GreaterDandenong",
+      "quote": {
+        "content": "Assess current activities and new opportunities to inform and work with the community to increase awareness of climate change impacts to health and wellbeing and opportunities to reduce these risks in response to the Climate and Ecological Emergency.",
+        "page": 12,
+        "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined several actions that involve research and data collection to guide their climate response. For instance, they plan to improve understanding of local changes in temperature, rainfall, and variables related to urban infrastructure condition and function by making existing climate data and information more accessible and useful for the community. They also plan to monitor, evaluate, report, and improve climate change adaptation by developing and implementing a long-term framework based on state-wide risk assessments. Furthermore, the local government intends to support community involvement in citizen science programs to collect climate-change-related data. These actions indicate a commitment to informed decision-making based on research and data.",
+      "source": "GreaterGeelong-a-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "Monitor, evaluate, report and improve climate change adaptation by developing and implementing a long-term framework based on state-wide risk assessments.",
+        "page": 38,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined several actions that involve research and data collection to guide their climate response. For instance, they plan to improve understanding of local changes in temperature, rainfall, and variables related to urban infrastructure condition and function by making existing climate data and information more accessible and useful for the community. They also plan to monitor, evaluate, report, and improve climate change adaptation by developing and implementing a long-term framework based on state-wide risk assessments. Furthermore, they aim to support community involvement in citizen science programs to collect climate-change-related data. These actions indicate a commitment to informed decision-making based on research and data collection.",
+      "source": "GreaterGeelong-b-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "Monitor, evaluate, report and improve climate change adaptation by developing and implementing a long-term framework based on state-wide risk assessments.",
+        "page": 38,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's policy outlines a commitment to investigate mechanisms for community and business involvement in the implementation of the action plan. This suggests a research-oriented approach to understanding the local context and needs. The policy also mentions the use of available data to model potential impacts of Council-supported community action, indicating a data-driven approach to planning and decision-making. Furthermore, the policy outlines plans to improve access to reliable, easy-to-understand climate change data and projections to inform community planning and action. This suggests a commitment to ongoing research and data analysis to inform climate actions.",
+      "source": "GreaterShepparton-a-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's policy outlines a commitment to investigate mechanisms for community and business involvement in the implementation of the action plan. This suggests a research-oriented approach to understanding the local community's capacity and willingness to participate in climate actions. Furthermore, the policy mentions the use of available data to model potential impacts of Council-supported community action, indicating a data-driven approach to planning and decision-making. The policy also highlights the importance of maintaining accurate and up-to-date flood modelling, which is a form of research that informs climate actions related to flood risk management. Lastly, the policy includes plans to improve access to reliable, easy-to-understand climate change data and projections to inform community planning and action, further emphasizing the role of research in informing climate actions.",
+      "source": "GreaterShepparton-b-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has conducted surveys and focus group discussions to gather community input on climate change actions. The community's responses have been used to rank actions in order of importance, with local renewable energy supply being a top priority. The government has also developed a 'Shire wide “better prepared/know your neighbour” program' to build local awareness and understanding of climate change impacts. This program includes awareness-raising workshops and scenario planning for future disasters. Furthermore, the government plans to develop climate resilience guidelines for future land use and building design in a changing climate. These actions demonstrate a commitment to informed action planning based on community input and research.",
+      "source": "Hepburn-a-a12345678910.json",
+      "lga": "Hepburn",
+      "quote": {
+        "content": "Participants in the individual online survey ranked actions in order of importance with “Local renewable energy supply” as a top priority for Council to focus on to ready services and assets for the impacts of climate change.",
+        "page": 106,
+        "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has conducted surveys and focus group discussions to gather community input on climate change actions. The community's responses have been used to rank actions in order of importance, with local renewable energy supply being a top priority. The government has also developed a 'Shire wide “better prepared/know your neighbour” program' to build local awareness and understanding of climate change impacts. This program includes awareness-raising workshops and mapping the extent, reach, and capacity of existing community services and organizations. The government also plans to develop climate resilience guidelines for future land use and building design in a changing climate. These actions demonstrate a commitment to conducting research in the local community to inform climate actions.",
+      "source": "Hepburn-b-a12345678910.json",
+      "lga": "Hepburn",
+      "quote": {
+        "content": "Participants in the individual online survey ranked actions in order of importance with “Local renewable energy supply” as a top priority for Council to focus on to ready services and assets for the impacts of climate change.",
+        "page": 106,
+        "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a number of key actions to address climate change risks, including community engagement and community action planning. These actions suggest a commitment to understanding the local community's needs and perspectives, which is a form of research. The government also plans to work with Township Committees to ensure a general understanding of roles and responsibilities during emergencies, which implies a need for research to understand current levels of knowledge and areas for improvement. Furthermore, the government received funding from the Commonwealth Government’s Strengthening Basin Communities program to plan for the effects of climate change and reduced water availability. This involved engaging businesses, industry, government agencies, utilities, and townships through workshops to assess the risks posed by a changing climate and identify options for managing these risks, which is a clear example of research being conducted to inform climate actions.",
+      "source": "Hindmarsh-a-a12345678910.json",
+      "lga": "Hindmarsh",
+      "quote": {
+        "content": "Council has engaged businesses, industry, government agencies, utilities and townships through a range of workshops to assess the risks posed to Hindmarsh by a changing climate and identify options for managing these risks into the future.",
+        "page": 91,
+        "source": "Hindmarsh-2012-climate-adaptation.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has identified key actions to address climate change risks, which include community engagement and community action planning. These actions suggest that the local government plans to work with the community to understand their roles and responsibilities during emergencies, and to ensure that new residents understand emergency response procedures. The government also plans to review township Community Action Plans, which could involve research into the effectiveness of current plans and the needs of the community. Furthermore, the government received funding from the Commonwealth Government’s Strengthening Basin Communities program to plan for the effects of climate change and reduced water availability. This involved engaging businesses, industry, government agencies, utilities, and townships through workshops to assess the risks posed by a changing climate and identify options for managing these risks.",
+      "source": "Hindmarsh-b-a12345678910.json",
+      "lga": "Hindmarsh",
+      "quote": {
+        "content": "Council has engaged businesses, industry, government agencies, utilities and townships through a range of workshops to assess the risks posed to Hindmarsh by a changing climate and identify options for managing these risks into the future.",
+        "page": 91,
+        "source": "Hindmarsh-2012-climate-adaptation.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do indicate that the local government has plans to conduct research to inform their climate actions. The Climate Change Action Plan is informed by data and the latest research to maximize the Council's impact and to support and facilitate climate change response from their partners. The plan also includes actions such as implementing relevant recommendations from the Victorian Government's Local Government Roles and Responsibilities Guidance to assess and manage Climate Risk, and assessing recommendations from the state-led Port Phillip Bay Coastal Hazard Vulnerability Assessment to inform foreshore and coastal adaptation responses. These actions suggest that the local government is using research and data to inform their climate actions. Furthermore, the plan includes provisions for regular reviews to ensure that the Council responds to new opportunities, new challenges, and the latest climate data over the life of the plan.",
+      "source": "HobsonsBay-b-a12345678910.json",
+      "lga": "HobsonsBay",
+      "quote": {
+        "content": "The actions on the following pages have been informed by data and the latest research to maximise Council’s impact as well as to support and facilitate climate change response from our partners.",
+        "page": 14,
+        "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The Hume City Council Climate Action Plan 2023-2028 does describe plans to conduct research in the local community to inform climate actions. The document outlines a commitment to rely on scientific evidence and projections, a strategic and evidence-based approach to taking climate action, and well-informed decisions to innovate for leadership. The plan also includes actions to build the capacity of councillors and staff to apply the climate lens in their roles so that climate action is integrated across the organisation, decisions, strategies, and plans. The document also mentions the development of communications campaigns for residents to take well-informed climate action and integrate communications into relevant services and programs. Furthermore, the document refers to a survey process in developing the Council Plan, where ratepayers and residents of Hume have clearly indicated that climate change is of high importance. This indicates a commitment to community engagement and research to inform climate actions.",
+      "source": "Hume-a-a5678910.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The Hume City Council Climate Action Plan 2023-2028 does indeed describe plans to conduct research in the local community to inform climate actions. The document outlines a commitment to rely on scientific evidence and projections, a strategic and evidence-based approach to taking climate action, and well-informed decision-making. The plan also includes actions to build the capacity of councilors and staff to apply a 'climate lens' in their roles, which suggests an intention to use research and evidence to inform their actions. Furthermore, the document mentions community engagement with key stakeholders, which could be seen as a form of research. This engagement includes focus groups with representatives from various sectors, which suggests a commitment to understanding the specific needs and perspectives of different community groups. This approach is likely to result in more effective and targeted climate actions.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Kingston City Council has initiated a Community Action Planning process in collaboration with Ironbark Sustainability. This process is aimed at understanding how to support community emission reductions and facilitate actions at a regional level to increase the scale of opportunity and cost-effectiveness. The Council acknowledges the importance of understanding the emissions reductions that are already happening in the community and finding ways to accelerate them. The Council also plans to engage with specific stakeholders to ensure the actions are scalable, robust, and cost-effective. This engagement process will be co-designed alongside a program of monitoring, review, evaluation, and reporting to establish performance indicators and identify trigger points.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "We now have a thorough understanding of how we can support community emission reductions. In early 2020, Kingston City Council began working with Ironbark Sustainability on a Community Action Planning process.",
+        "page": 10,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Kingston City Council has been working with Ironbark Sustainability on a Community Action Planning process, which indicates a research-oriented approach to understanding community emissions and how to reduce them. The documents also mention the development and delivery of a Climate Adaptation Plan, which includes assessing the vulnerability of Kingston’s built, natural, and coastal environment to climate change impacts. This suggests a research-based approach to understanding and addressing climate vulnerabilities. Furthermore, the documents mention the implementation of a program of monitoring, evaluation, review, and learning, which implies a commitment to ongoing research and learning to inform climate actions.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "We now have a thorough understanding of how we can support community emission reductions. In early 2020, Kingston City Council began working with Ironbark Sustainability on a Community Action Planning process.",
+        "page": 10,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a Climate Response Plan that is evidence-based, reflecting best scientific practices and local understanding. The plan includes community engagement processes, where the local government conducted face-to-face and online activities to gather feedback from over 370 people. This feedback was then incorporated into the plan, indicating a research-based approach to inform climate actions. The plan also includes regular evaluations and revisions in line with emissions inventory reporting updates or as new information on climate risks becomes available. This suggests an ongoing commitment to research and data collection to inform the plan's implementation and effectiveness.",
+      "source": "Knox-a-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "Over 370 people provided feedback through pop-up events, a workshop, survey, or other online activity, providing a total of just over 3,000 comments and votes. An engagement process was developed to incorporate the ideas of the Knox community and respond to their priorities and aspirations about how we tackle climate change together. Between May and July 2021, Council conducted a range of face-to-face and online activities.",
+        "page": 7,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a Climate Response Plan that is evidence-based, reflecting best scientific practices and local understanding. The plan includes the development of detailed financial impact analysis studies to support risk mitigation works linked to climate change. The plan also includes the review and update of climate hazard mapping to ensure that planning decisions account for areas of future and current risk. Furthermore, the plan's impact will be measured in terms of emission reduction, climate risk reduction, and the inclusive delivery of wider social, environmental, and economic benefits. The plan will be evaluated at regular intervals and in line with emissions inventory reporting updates, or as new information on climate risks becomes available.",
+      "source": "Knox-b-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "To ensure that we are using the best data, innovations and responding to major changes in policy, the Climate Response Plan will be evaluated at regular intervals and in line with emissions inventory reporting updates, or as new information on climate risks becomes available. The impact of the actions in this plan will be measured in terms of the reduction in emissions, the reduction in climate risk and the inclusive delivery of wider social, environmental, and economic benefits. Tracking our progress and the indicators we use to determine if the action plan is effective will inform regular revisions of the Plan.",
+        "page": 20,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The policy development process outlined in the documents includes stages such as 'Education and Awareness Program', 'Interactive Workshops', and 'Stakeholder Consultation', which suggest that the local government is actively seeking input from the community and other stakeholders. This is further supported by the mention of targeted workshops with over 100 representatives from various groups and firms. The policy also mentions the establishment of a 'Low Carbon Emissions Future Transition Committee' that would help drive the transformation at a local and regional level. This committee would likely rely on research and data gathered from the local community to inform its actions. Furthermore, the documents mention the development and nurturing of partnerships and networks with local stakeholders and interest groups, which could also contribute to the research process.",
+      "source": "Latrobe-a-a12345678910.json",
+      "lga": "Latrobe",
+      "quote": {
+        "content": "Stage Five focussed on stakeholder consultation.",
+        "page": 4,
+        "source": "Latrobe-2014-low-carbon.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide evidence that the local government has conducted research in the local community to inform climate actions. The policy development process involved seven stages, including 'Education and Awareness Program', 'Interactive Workshops', and 'Stakeholder Consultation'. These stages suggest that the local government sought to understand the community's perspective and knowledge on climate change, which would inform their policy decisions. The documents also mention that the Council engaged in numerous activities to develop and nurture relationships with local organisations and groups, including industry. They held three Low Carbon Transition community conversations in 2011, drawing considerable crowds and representatives from each level of government. This indicates that the local government has made efforts to understand the local community's views and needs regarding climate change, which would inform their climate actions.",
+      "source": "Latrobe-b-a12345678910.json",
+      "lga": "Latrobe",
+      "quote": {
+        "content": "Council continued to work with organisations such as the Gippsland Climate Change Network, ClimateWorks and the Department of Primary Industries on a range of initiatives including the Gippsland Low Carbon Growth Plan. Council engaged in numerous activities to develop and nurture relationships, and presented Council’s policy to a variety of interested local organisations and groups including industry.",
+        "page": 9,
+        "source": "Latrobe-2014-low-carbon.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does describe plans to conduct research in the local community to inform climate actions. The local government's Climate Change Action Plan outlines a strategy to better understand the drivers for action and develop initiatives and programs customised to different sectors of the community. This involves a proposed Climate Change Communications and Engagement Plan, which extends from the frameworks presented in the document's appendices. This plan is designed to identify barriers and drivers for climate change action amongst different sectors of the community. The document also mentions the development and implementation of a pilot community climate change plan for a local community in the shire. This suggests a research-oriented approach to understanding the local community's needs and priorities regarding climate change action.",
+      "source": "MacedonRanges-a-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "A Climate Change Communications and Engagement Plan, extending from the frameworks presented in Appendix 4 and Appendix 5, could Additionally, different sectors of the community and individuals experience different barriers to taking action on climate change. From this perspective, Council needs to better understand drivers for action, and develop initiatives and programs customised to different sectors of the community.",
+        "page": 49,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does describe plans to conduct research in the local community to inform climate actions. The local government's Climate Change Action Plan outlines a strategy to better understand the drivers for action and develop initiatives and programs customised to different sectors of the community. This involves a Climate Change Communications and Engagement Plan, which extends from the frameworks presented in the document. The plan is designed to identify barriers and drivers for climate change action amongst different sectors of the community. The document also mentions the development and implementation of a pilot community climate change plan for a local community in the shire. This suggests a research-oriented approach to understanding the specific needs and characteristics of the local community, which will inform the development of climate actions.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "A Climate Change Communications and Engagement Plan, extending from the frameworks presented in Appendix 4 and Appendix 5, could Additionally, different sectors of the community and individuals experience different barriers to taking action on climate change. From this perspective, Council needs to better understand drivers for action, and develop initiatives and programs customised to different sectors of the community.",
+        "page": 49,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has already engaged with the community through various means such as the 'Your Say Manningham' website survey, consultation with community advisory committees, a gender impact assessment, and submissions from local environment groups. The feedback received from these engagements has been incorporated into the Climate Emergency Response Plan. The government also plans to develop an implementation plan with details on the actions in the Climate Emergency Response Plan during 2023, which suggests further research and community engagement. Moreover, the government has shown a commitment to understanding the differing impacts of climate change on various demographic groups, indicating a nuanced approach to research.",
+      "source": "Manningham-a-a12345678910.json",
+      "lga": "Manningham",
+      "quote": {
+        "content": "Following this feedback, we intend to develop and propose an implementation plan with details on the actions in this Climate Emergency Response Plan during 2023.",
+        "page": 14,
+        "source": "Manningham-2023-Climate-Emergency-Response-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has engaged with the community through various means such as the 'Your Say Manningham' website, community advisory committees, and a community-authored survey. The feedback received from these engagements has been incorporated into the Climate Emergency Response Plan. The government has also conducted a Gender Impact Assessment (GIA) to understand how different genders and socio-economic groups are affected by climate change and their capacity to take climate action. This information is used to refine the actions in the Climate Emergency Response Plan. Furthermore, the government plans to develop an implementation plan in 2023, which will detail the actions in the Climate Emergency Response Plan. This indicates a commitment to ongoing research and engagement with the community to inform climate actions.",
+      "source": "Manningham-b-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The Maribyrnong City Council Climate Emergency Action Plan does indeed outline plans to conduct research within the local community to inform climate actions. The document details several actions that involve research and investigation to inform their climate response. For instance, the plan includes an action to undertake an assessment of land availability and total capacity for increased vegetation across the municipality (LUD01). This involves researching potential for understory planting, grasses, wetlands, and using this information to set increased targets for tree cover and vegetation. Another action (LUD02) involves researching opportunities to increase targets for tree cover, green walls, roofs, vegetation, and permeable surfaces in new developments. These actions demonstrate a commitment to informed planning and action, using research to guide decision-making and policy development.",
+      "source": "Maribyrnong-a-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The Maribyrnong City Council Climate Emergency Action Plan indeed outlines plans to conduct research within the local community to inform climate actions. The document details several actions that involve research and investigation to guide their climate response. For instance, the plan includes an action to undertake an assessment of land availability and total capacity for increased vegetation across the municipality (LUD01). This assessment will inform increased targets for tree cover, vegetation, and other forms of greenery. Another action (LUD02) involves researching opportunities to increase targets for tree cover, green walls, roofs, vegetation, and permeable surfaces in new developments. These actions demonstrate a commitment to informed planning and decision-making based on research and investigation within the local community.",
+      "source": "Maribyrnong-b-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has undertaken significant community engagement in the preparation of their Climate Change Risk and Adaptation Strategy. This engagement includes a discussion paper, an online survey, Council’s Café Consult marquee at the 2016 Maroondah Festival, and meetings with key stakeholders. The feedback from these engagements is used to inform the local government's climate change policies and strategies. Furthermore, the local government has a commitment to improve climate education across Council staff and the community, which suggests an ongoing effort to research and understand the local community's needs and perspectives on climate change. This approach ensures that the local government's climate actions are informed by the local community's experiences and needs.",
+      "source": "Maroondah-a-a12345678910.json",
+      "lga": "Maroondah",
+      "quote": {
+        "content": "Council received 138 \nwritten responses to questions posed. This was done through a range of methods including:\n•� A discussion paper (Maroondah City Council 2016) which drew together a range of \nresearch and data on climate change adaptation in Maroondah. •� An online survey. •� Council’s Café Consult marquee at the 2016 Maroondah Festival.",
+        "page": 24,
+        "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has undertaken significant community engagement in the preparation of their Climate Change Risk and Adaptation Strategy. This engagement included a discussion paper, an online survey, Council’s Café Consult marquee at the 2016 Maroondah Festival, and meetings with key stakeholders. The feedback from these engagements was used to inform the strategy and its key directions. Furthermore, the government plans to continue this engagement and research in the community, with the aim of increasing community and staff capacity through improved awareness, education, and support for climate change adaptation practices.",
+      "source": "Maroondah-b-a12345678910.json",
+      "lga": "Maroondah",
+      "quote": {
+        "content": "Council received 138 \nwritten responses to questions posed. This was done through a range of methods including:\n•� A discussion paper (Maroondah City Council 2016) which drew together a range of \nresearch and data on climate change adaptation in Maroondah. •� An online survey. •� Council’s Café Consult marquee at the 2016 Maroondah Festival.",
+        "page": 24,
+        "source": "Maroondah-2018-climate-risk-adaptation.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive approach to climate change mitigation and adaptation, which includes conducting research to identify feedback loops between natural and human systems that will impact the municipality. This research is intended to inform the integration of climate change adaptation and mitigation into council decision-making. The government also plans to hold an annual cross-organisational workshop as part of the business planning process to identify synergies and address trade-offs, considering environmental, social, and economic impacts. Furthermore, the government intends to take an innovative, evidence-based approach to prioritising actions and will provide open access to data on municipal emissions for urban researchers to develop new solutions. This indicates a commitment to informed, evidence-based climate action planning.",
+      "source": "Melbourne-a-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "Develop a long-term research agenda to identify feedback-loops between natural and human systems that will impact the municipality. Develop guiding principles for climate risk and integrate into council decision-making.",
+        "page": 65,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do indeed describe plans to conduct research in the local community to inform climate actions. The policy outlines a commitment to an evidence-based approach, which includes the development of a long-term research agenda to identify feedback loops between natural and human systems that will impact the municipality. This research is intended to inform the integration of climate change adaptation and mitigation into council decision-making. The policy also mentions collaboration with urban researchers, community organisations, and other cities on a research agenda to identify long-term strategic opportunities to reduce emissions. This includes providing open access to data on municipal emissions for international city networks, urban research networks, students, and academics. The policy also plans to hold an annual cross-organisational workshop as part of the business planning process to identify synergies and address trade-offs, considering environmental, social, and economic impacts.",
+      "source": "Melbourne-b-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "Develop a long-term research agenda to identify feedback-loops between natural and human systems that will impact the municipality. Develop guiding principles for climate risk and integrate into council decision-making.",
+        "page": 65,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The Climate Change Adaptation Plan provides a 10-year framework supported by a rolling three-year Action Plan. The plan is organized into five themes, one of which is 'Community Wellbeing & Emergency Management'. This theme includes actions to engage with the community on climate change adaptation, define and improve understanding of climate change vulnerable communities, and develop and disseminate graphic-rich, culturally appropriate communication material targeting the most vulnerable communities. The plan also includes actions to investigate developing a program similar to the Community Fireguard to plan for extreme weather events including flooding and heatwaves, and identify a high-risk neighborhood to trial. These actions indicate a commitment to conducting research in the local community to inform climate actions.",
+      "source": "Melton-a-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The Climate Change Adaptation Plan provides a 10-year framework supported by a rolling three-year Action Plan. The plan is organized into five themes, one of which is 'Community Wellbeing & Emergency Management'. This theme includes actions such as engaging with the community on climate change adaptation, defining and improving understanding of climate change vulnerable communities, and developing and disseminating graphic-rich, culturally appropriate communication material targeting the most vulnerable communities. The plan also mentions the use of the 'How Well Are We Adapting' tool to understand long-term trends and inform the development of appropriate adaptation actions. These actions suggest a commitment to conducting research within the local community to inform climate actions.",
+      "source": "Melton-b-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The document does describe plans to conduct research in the local community to inform climate actions. The Mitchell Shire's Climate Emergency Action Plan outlines a comprehensive approach to addressing climate change, which includes engaging with the local community to gather information and inform action. The document details a variety of methods used to engage with the community and gather information, including a community survey, staff survey and workshops, interviews with local business and industry leaders, and a public forum. These methods are designed to understand the community's views on the council's role in addressing climate change, what actions are already being taken, and what further support is needed. This information is then used to inform the actions outlined in the plan. The plan also emphasizes the importance of collaboration with the community in implementing these actions.",
+      "source": "Mitchell-a-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "Interviews with local business and industry leaders to understand what support they need from Council to reduce their own emissions and protect their assets. A community survey to gauge what the community thinks Council’s role should be in addressing the climate emergency. Staff survey and workshops to learn what Council is already doing to reduce emissions and adapt to climate change, and its capacity to further support community action.",
+        "page": 15,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does describe plans to conduct research in the local community to inform climate actions. The Mitchell Shire's Climate Emergency Action Plan outlines a comprehensive approach to addressing climate change, which includes conducting research and engaging with the local community. The plan details a variety of methods used to gather information and engage with the community, including a community survey, staff survey and workshops, interviews with local business and industry leaders, and a public forum. These methods are designed to understand the community's views on the council's role in addressing climate change, what actions are already being taken, and what further support is needed. The plan also mentions the development of community climate change hubs, which could serve as a source of up-to-date information for residents and businesses. This indicates a commitment to ongoing research and information gathering to inform climate actions.",
+      "source": "Mitchell-b-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "Interviews with local business and industry leaders to understand what support they need from Council to reduce their own emissions and protect their assets. A community survey to gauge what the community thinks Council’s role should be in addressing the climate emergency. Staff survey and workshops to learn what Council is already doing to reduce emissions and adapt to climate change, and its capacity to further support community action.",
+        "page": 15,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined several initiatives aimed at gathering information and building knowledge about the impacts of climate change in the community. For instance, the government plans to partner with relevant external stakeholders to create knowledge, capacity, and information about the impacts of climate change in the community, actions that reduce or eliminate these impacts, and methods to adapt. They also plan to engage with the community to improve understanding of climate change impacts. Furthermore, the government intends to undertake mapping and analysis of urban heat island effects and determine appropriate mitigation options. These initiatives indicate a commitment to conducting research in the local community to inform climate actions.",
+      "source": "MooneeValley-a-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined several initiatives that involve gathering information and building knowledge about climate change impacts within the community. For instance, the government plans to partner with relevant external stakeholders to create knowledge about the impacts of climate change in the community and the actions that can reduce or eliminate these impacts. They also plan to engage with the community to improve understanding of climate change impacts. Furthermore, the government intends to undertake mapping and analysis of urban heat island effects and determine appropriate mitigation options. These initiatives indicate a commitment to conducting research and gathering information to inform climate actions.",
+      "source": "MooneeValley-b-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a detailed plan to gather high-quality and relevant data to enable informed and appropriate decisions. This is particularly evident in Action 19, which aims to 'Strengthen and Integrate Climate Data into Decision Making'. The Shire's research will be refreshed as the quality of climate projections improve and up-to-date information becomes available. Decisions will be reviewed regularly to ensure they maintain currency with the best available science. The local government also plans to educate the community and the Shire to ensure that climate data is embedded into both short and long-term decision-making processes. This approach is essential to understand how climate change will impact the local scale, so they can plan sound adaptation and mitigation techniques, and manage the impacts.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "The tasks in the Plan include this, especially within Action 19 ‘Strengthen and Integrate Climate Data into Decision Making’. Many tasks rely on the gathering of further high quality and relevant data, to enable informed and appropriate decisions. This is a significant challenge.",
+        "page": 2,
+        "source": "Mornington-2020-climate-emergency-response-part2.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a detailed plan to gather high-quality and relevant data to enable informed and appropriate decisions. This is particularly evident in Action 19, which aims to 'Strengthen and Integrate Climate Data into Decision Making'. The Shire's research will be refreshed as the quality of climate projections improve and up-to-date information becomes available. Decisions will be reviewed regularly to ensure they maintain currency with the best available science. Furthermore, the Shire has conducted community consultations to understand the community's current preparations for climate change and to incorporate their feedback into the draft Strategy. This demonstrates a commitment to evidence-based policy making and a recognition of the importance of local knowledge in addressing climate change.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "The tasks in the Plan include this, especially within Action 19 ‘Strengthen and Integrate Climate Data into Decision Making’. Many tasks rely on the gathering of further high quality and relevant data, to enable informed and appropriate decisions. This is a significant challenge.",
+        "page": 2,
+        "source": "Mornington-2020-climate-emergency-response-part2.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined several actions to increase awareness and understanding of environmental issues, including climate change, among its staff and the broader community. These actions include conducting training for Council staff and raising awareness within the community on the roadside conservation GIS maps, conducting at least four annual on-ground community activities to protect and enhance biodiversity and habitat values, and implementing a 'creeping backyards' program to encourage responsible planting in gardens. These actions suggest that the local government is planning to conduct research in the local community to inform its climate actions. The documents also mention the preparation of a Council adaptation strategy to climate change, which would likely involve research into the local community's vulnerability to climate change and potential adaptation measures.",
+      "source": "Moyne-a-a12345678910.json",
+      "lga": "Moyne"
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined several actions that involve raising awareness and understanding of environmental issues within the community. For instance, they plan to conduct training for Council staff and raise awareness within the community on the roadside conservation GIS maps. They also plan to conduct at least four annual on-ground community activities to protect and enhance biodiversity and habitat values. These actions suggest that the local government is planning to engage with the community and gather information that could inform their climate actions. Furthermore, the local government has also planned to offset Council's greenhouse emissions through annual community indigenous vegetation planting programs on Council or community managed land. This action also suggests that the local government is planning to conduct research in the local community to inform their climate actions.",
+      "source": "Moyne-b-a12345678910.json",
+      "lga": "Moyne"
+    },
+    {
+      "answer": "The documents do indicate plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive Climate Change Action Plan, which includes a range of strategies to address climate change. These strategies include the development and implementation of the Regional Climate Adaptation Plan and the Climate Change Action Plan. The documents also mention the use of data sources and indicators to monitor the progress of these plans. Furthermore, the local government plans to work in partnership with the community, locally-based and relevant NGOs, businesses, and other key stakeholders to manage the risks and impacts associated with climate change. This suggests a commitment to community engagement and research to inform their climate actions. The documents also mention the development of a checklist to enable climate change to be considered during the internal development of major project proposals, indicating a research-informed approach to planning and decision-making.",
+      "source": "MtAlexander-b-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's climate action plan was developed over a two-year period, during which data was gathered and analyzed to understand the current state of climate change in the area. The plan also involved community engagement, including surveys, pop-up kiosks, and meetings with community groups and organizations. This engagement was aimed at understanding the community's needs and wants regarding climate change. The feedback received from the community was used to inform the plan's goals, strategic principles, and actions. The plan also includes actions to educate staff and councillors on managing climate risks and communicating these risks to the public. Therefore, the local government has made significant efforts to conduct research and engage with the local community to inform its climate actions.",
+      "source": "Murrindindi-a-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "When developing the Plan, Council received input from more than 170 community members, through a community survey, pop-up kiosks, and meetings with community groups and organisations.",
+        "page": 30,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has developed a plan over a two-year period, which was informed by a review of best-practice local government climate action planning. The plan's structure and content were informed by advice from an external strategic planning consultant. The plan also includes data gathering and analysis, which is a crucial part of research. The local government has also engaged with the community, receiving input from more than 170 community members through various means. This community engagement is a form of research as it helps the government understand the community's views and priorities on climate change. The government has also investigated where their emissions are coming from and the most significant impacts to their organization and municipality. This investigation is another form of research that informs their climate actions.",
+      "source": "Murrindindi-b-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "The final structure and content of the Plan was informed by advice from an external strategic planning consultant. The methodology below was informed by a review of best-practice local government climate action planning for small and rural Councils, and advice from colleagues across the state of Victoria.",
+        "page": 64,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a six-phase plan for the development of their Climate Action Plan. Phase 2 involves research into legislative requirements, policy, data, and best practices to inform the development of the plan. Phase 4 involves asking the community about their priorities, with 400 phone survey responses and 397 online survey responses collected. This indicates a commitment to understanding the local community's perspectives and needs, which is crucial for effective climate action. Furthermore, the documents mention that the community's top ten climate change priorities for the Council to focus on were identified through a consultation survey. This further underscores the local government's commitment to informed, community-centric climate action planning.",
+      "source": "Nillumbik-a-a12345678910.json",
+      "lga": "Nillumbik"
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Climate Action Plan was developed through a series of phases, which included research into legislative requirements, policy, data, and best practices. This research was used to inform the development of the plan. Additionally, the local community was consulted to understand their priorities. This was done through a phone survey and an online survey, which received hundreds of responses. The community's top ten climate change priorities for the council to focus on were identified through this process. Furthermore, an independent climate change risk assessment of Council operations was commissioned. This comprehensive approach to research and community consultation ensures that the climate actions proposed in the plan are informed by both expert knowledge and local community insights.",
+      "source": "Nillumbik-b-a12345678910.json",
+      "lga": "Nillumbik"
+    },
+    {
+      "answer": "The document indeed outlines plans to conduct research within the local community to inform climate actions. The policy outlines a number of initiatives aimed at understanding and addressing the impacts of climate change on the community. These include assessing opportunities to support community resilience to climate change impacts, establishing partnerships to improve opportunities for community resilience and adaptation, and building on current work to develop and collate data to understand climate impacts on the community. The policy also mentions the establishment of a monitoring and reporting protocol to keep the community informed of the Council's response to climate risks. These initiatives suggest a commitment to conducting research and gathering data within the local community to inform climate actions.",
+      "source": "PortPhillip-a-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "Build on current work to develop and collate data to understand climate impacts on the community. Establish partnerships to improve opportunities for community resilience and adaptation.",
+        "page": 48,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's policy outlines several initiatives aimed at understanding and addressing the impacts of climate change on the community. These include assessing opportunities to support community resilience to climate change impacts, establishing partnerships to improve opportunities for community resilience and adaptation, and building on current work to develop and collate data to understand climate impacts on the community. The policy also mentions the establishment of a monitoring and reporting protocol to keep the community informed of the Council's response to climate risks. These initiatives indicate a commitment to conducting research and gathering data to inform climate actions and support community resilience.",
+      "source": "PortPhillip-b-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "Build on current work to develop and collate data to understand climate impacts on the community. Establish partnerships to improve opportunities for community resilience and adaptation.",
+        "page": 48,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a Climate Emergency Response Plan, which was developed through community consultation and expert assessments. The community was asked to rank different priorities for the plan, with renewable energy investment emerging as the highest priority. The plan also includes a commitment to continue community engagement throughout its implementation. Furthermore, the government plans to develop a Monitoring, Evaluation and Reporting Framework in partnership with the community, which will set baseline measurements to assess the ongoing performance and implementation of the plan. This suggests that the government is planning to conduct ongoing research in the local community to inform and evaluate its climate actions.",
+      "source": "Queenscliffe-a-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "The Framework will set baseline measurements to assess the ongoing performance and implementation of the Plan and will consider the use of an evaluation framework to enable regular community evaluation of the Plan.",
+        "page": 64,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a Climate Emergency Response Plan, which was developed through community consultation and expert assessments. The plan includes 49 actions grouped according to eight pillars, such as renewable energy, sustainable buildings, and sustainable transport. The community's input was sought on various aspects of the plan, including the ranking of different priorities. The plan also includes a commitment to review the Action Plan every second year, in partnership with the community. Furthermore, the documents mention the development of a Monitoring, Evaluation, and Reporting Framework in partnership with the community, which will set baseline measurements to assess the ongoing performance and implementation of the plan. This indicates a commitment to ongoing research and community engagement to inform and refine the climate actions.",
+      "source": "Queenscliffe-b-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "The Action Plan should also guide Council decision making and inform the setting of strategic objectives in the Council Plan 2021-2025. The 49 actions have been developed through community consultation and informed by expert assessments such as the Renew report.",
+        "page": 41,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does outline plans to conduct research to inform climate actions. The plan includes a range of actions that involve research and investigation to inform decision-making. For instance, the plan outlines an action to 'Investigate modification of construction practices for road and council infrastructure (new and maintenance)'. This action involves developing a repository of relevant information to support decision-making around infrastructure maintenance and development under climate change. Another action is to 'Facilitate sustainable agricultural practices through changes to land use planning and development approvals'. This action involves facilitating clarification of infrastructure provision and responsibilities regarding rural living zone infrastructure expectations from residents. These actions indicate a commitment to conducting research and gathering information to inform climate actions.",
+      "source": "SouthernGrampians-a-a12345678910.json",
+      "lga": "SouthernGrampians",
+      "quote": {
+        "content": "Investigate modification of construction practices for road and council infrastructure (new and maintenance) ...",
+        "page": 26,
+        "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does outline plans to conduct research in the local community to inform climate actions. The document details several actions that involve research and investigation to support decision-making around climate change adaptation. For instance, the plan includes an action to 'Investigate modification of construction practices for road and council infrastructure (new and maintenance)' which involves developing a repository of relevant information to support decision-making around infrastructure maintenance and development under climate change. This action suggests a research-oriented approach to inform climate actions. Additionally, the plan also includes actions to 'Facilitate sustainable agricultural practices through changes to land use planning and development approvals' and 'Develop an Urban Forest and Open Space Assets Strategy', both of which imply research and investigation to inform the planning and implementation of these actions.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has sought thoughts and ideas from the community through surveys, forums, and ideas boards to develop their action plan. This indicates a commitment to informed decision-making based on community input. The key themes from the consultation include transitioning the Council's fleet to electric vehicles, planting more trees, and supporting biodiversity, among others. These themes reflect the community's concerns and priorities, which will guide the Council's climate actions. Furthermore, the documents mention that the Council will continue to report and review the action plan, suggesting an ongoing commitment to informed action and adaptability based on new information and feedback from stakeholders.",
+      "source": "Stonnington-a-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "We heard that our community is concerned about climate change and they are keen to see Council action.",
+        "page": 15,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do indicate that the local government has plans to conduct research in the local community to inform climate actions. The government has already sought thoughts and ideas from the community through surveys, forums, and ideas boards, indicating a commitment to community engagement and research. The key themes from this consultation include a range of climate-related concerns and priorities, such as transitioning to electric vehicles, planting more trees, and increasing education and engagement for the community. This suggests that the government is using community input to inform its climate action plan. Furthermore, the documents mention that the government will review its action plan in 2024, which may involve further research and consultation with the community. Therefore, the documents provide clear evidence that the local government is planning for informed action by conducting research in the local community.",
+      "source": "Stonnington-b-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "We heard that our community is concerned about climate change and they are keen to see Council action.",
+        "page": 15,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan does indeed outline plans to conduct research within the local community to inform climate actions. The document emphasizes the council's influential role in researching and shaping the local area's environmental potential and performance. It also mentions the council's intention to advocate for and investigate local net zero emissions community energy solutions, such as solar PV, wind power, and hydro. This suggests a commitment to research and investigation in the local community. Furthermore, the council plans to engage in robust, progressive partnerships with all levels of government, the private sector, and the community, which implies a collaborative approach to research and action. The council also plans to review the uptake and effectiveness of specific actions and redirect course if necessary, indicating a commitment to informed, evidence-based action.",
+      "source": "Strathbogie-a-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "To achieve our Shire targets, we will continue to engage in, and urge robust, progressive partnerships between all levels of government, the private sector, and the community.",
+        "page": 24,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan does indeed describe plans to conduct research in the local community to inform climate actions. The document outlines the council's influential role in researching and shaping the local area's environmental potential and performance. It also mentions the council's commitment to robust, progressive partnerships between all levels of government, the private sector, and the community. This suggests a collaborative approach to research and action. Furthermore, the council plans to advocate for and investigate local net zero emissions community energy solutions, which implies research activities. The council also plans to report annually on the key achievements, highlights, and challenges for the implementation of programs, which suggests ongoing research and evaluation.",
+      "source": "Strathbogie-b-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "To achieve our Shire targets, we will continue to engage in, and urge robust, progressive partnerships between all levels of government, the private sector, and the community.",
+        "page": 24,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Climate Emergency Response Plan 2021-2031 does indeed outline plans to conduct research in the local community to inform climate actions. The document emphasizes the importance of community involvement in climate action and outlines specific actions to facilitate this. For instance, the plan includes actions such as supporting the community to develop Community Climate Emergency Responses, facilitating localised climate change discussions, and collecting data to encourage informed action. The plan also includes the sharing of climate change data, stories, solutions, and information through various platforms to inspire action amongst Council officers, Councilors, and the community. These actions indicate a commitment to conducting research and gathering data from the local community to inform climate actions.",
+      "source": "SurfCoast-a-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The Climate Emergency Response Plan 2021-2031 does indeed outline plans to conduct research in the local community to inform climate actions. The document emphasizes the importance of community involvement in climate action and outlines specific actions to facilitate this. For instance, the plan includes actions such as supporting the community to develop Community Climate Emergency Responses, facilitating localised climate change discussions, and collecting data to encourage informed action. The plan also includes the sharing of climate change data, stories, solutions, and information through various platforms to inspire action amongst Council officers, Councilors, and the community. These actions indicate a commitment to conducting research and gathering data from the local community to inform climate actions.",
+      "source": "SurfCoast-b-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined several initiatives that involve gathering information and assessing local conditions to guide their climate change response. For instance, the 'Green Warrnambool' document mentions the development of a Local Fresh Food Plan, which would require research into local consumption trends and statistics. Additionally, the council plans to identify rural land use trends and issues to inform the assessment of the agricultural capability of rural land. The 'Adaptable Warrnambool' document also mentions the commencement of a leading practice Sustainable Building Design Policy and Guide, which would likely involve research into local building practices and sustainability measures. Furthermore, the council plans to review and update the Climate Change Action Plan, which would necessitate an understanding of the current local climate situation and the effectiveness of existing measures.",
+      "source": "Warrnambool-a-a12345678910.json",
+      "lga": "Warrnambool",
+      "quote": {
+        "content": "Identify rural land use trends and issues to inform the assessment of the agricultural capability of rural land. Develop the Local Fresh Food Plan and build baseline information of current trends and statistics related to consumption choices.",
+        "page": 28,
+        "source": "Warrnambool-Green-Warrnambool.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined several initiatives that involve gathering information and assessing local conditions to guide their climate change response. For instance, the 'Green Warrnambool' document mentions the development of a Local Fresh Food Plan, which would require research into current trends and statistics related to consumption choices. Additionally, the document mentions the identification of rural land use trends and issues to inform the assessment of the agricultural capability of rural land. The 'Adaptable Warrnambool' document also mentions the commencement of a leading practice Sustainable Building Design Policy and Guide, which would likely involve research into sustainable building practices. Furthermore, the document mentions the review and update of the Climate Change Action Plan, which would necessitate research into the effectiveness of current actions and potential areas for improvement.",
+      "source": "Warrnambool-b-a12345678910.json",
+      "lga": "Warrnambool",
+      "quote": {
+        "content": "Identify rural land use trends and issues to inform the assessment of the agricultural capability of rural land. Develop the Local Fresh Food Plan and build baseline information of current trends and statistics related to consumption choices.",
+        "page": 28,
+        "source": "Warrnambool-Green-Warrnambool.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's policy outlines a strategy to build knowledge of how climate change will impact council operations and service delivery. This includes investigating and reporting on potential long-term costs of climate change to Council service delivery and public infrastructure assets through risk and resilience pathway planning. The policy also mentions the integration of climate change measures into corporate policies, strategies, and planning. Furthermore, the policy outlines plans to work with key partners to ensure the community understands their exposure to climate risk and strategies they can adopt to minimize the impact on their health and financial wellbeing. These actions indicate a comprehensive approach to understanding the local context and using this knowledge to inform climate actions.",
+      "source": "Wellington-a-a12345678910.json",
+      "lga": "Wellington"
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's policy outlines a strategy to build knowledge of how climate change will impact council operations and service delivery. This includes investigating and reporting on potential long-term costs of climate change to Council service delivery and public infrastructure assets through risk and resilience pathway planning. The policy also mentions the integration of climate change measures into corporate policies, strategies, and planning. Furthermore, the policy outlines the council's role in working with key partners to ensure the community understands their exposure to climate risk and strategies they can adopt to minimize the impact on their health and financial wellbeing. These actions indicate a comprehensive approach to conducting research and gathering information to inform climate actions in the local community.",
+      "source": "Wellington-b-a12345678910.json",
+      "lga": "Wellington"
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Whitehorse City Council's Climate Response Strategy 2023–2030 and Climate Response Plan 2023–2026 outline a comprehensive approach to climate change mitigation and adaptation. The documents highlight the importance of community engagement and research in shaping the council's climate response. The council plans to re-evaluate climate change data and projections, re-test community priorities and needs for sustainability and climate action, and audit council policies, programs, and plans to ensure alignment with sustainability and climate objectives. This approach ensures that the council's climate response is informed by the latest data, community needs, and policy alignment. The council also plans to review changes in state and federal government policies or programs and evaluate council’s advocacy priorities. This comprehensive approach to research and community engagement ensures that the council's climate response is evidence-based, community-informed, and aligned with broader policy contexts.",
+      "source": "Whitehorse-a-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "Council will lead the mid-cycle review in partnership with the community. The Response Plan will be reviewed in 2026/27 to inform the development of the next Plan 2027-2030. The Strategy will also be reviewed to ensure relevance to the context at that time and updated if required.",
+        "page": 32,
+        "source": "Whitehorse-Climate-Response-Strategy-2023-2030.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Whitehorse City Council's Climate Response Strategy 2023–2030 and Climate Response Plan 2023–2026 outline a comprehensive approach to climate change mitigation and adaptation. The documents highlight the importance of community engagement and consultation in shaping the council's climate response. The council plans to re-evaluate climate change data and projections, re-test community priorities and needs for sustainability and climate action, and audit council policies, programs, and plans to ensure alignment with sustainability and climate objectives. This approach indicates a commitment to informed action based on research and community input. The council also plans to review changes in state and federal government policies or programs and evaluate council’s advocacy priorities. This suggests a comprehensive approach to research that includes both local community perspectives and broader policy contexts.",
+      "source": "Whitehorse-b-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "This will include: \n Re-evaluation of climate change data and projections, for the purposes of \nensuring emissions reduction targets and actions and adaptation responses are \nsuitable, \n Re-testing community priorities and needs for Council will lead the mid-cycle review in partnership with the community.",
+        "page": 32,
+        "source": "Whitehorse-Climate-Response-Strategy-2023-2030.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a five-step climate planning process, which begins with an 'Assessment and research' phase. This phase is designed to develop an understanding of the local area's past, current, and future climate change context. This suggests that research will be conducted to gather data and insights about the local community's climate change experiences and needs. The process also includes a 'Visioning and target setting' phase, which could involve further research to inform the creation of visions and set targets for emissions reduction. The 'Strategy and focus areas' phase involves identifying the most impactful areas for action, which would likely require research to determine. Finally, the 'Action planning and prioritisation' phase involves identifying and prioritising potential action options, which would also likely be informed by research.",
+      "source": "Whittlesea-a-a12345678910.json",
+      "lga": "Whittlesea",
+      "quote": {
+        "content": "Step 2:  \nVisioning and \ntarget setting\nCreate visions and \nset targets for \nemissions reduction 1. 1. All level leadership\n2. Fairness and equity\n3. Aboriginal \nempowerment\n7 priority areas\nCommunity and stakeholder engagement and consultation\n3 principles\nStep 1:  \nAssessment  \nand research\nDevelop \nunderstanding  \nof Whittlesea’s  \npast, current and \nfuture climate  \nchange context.",
+        "page": 4,
+        "source": "Whittlesea-climate-change-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a five-step climate planning process, which begins with an 'Assessment and research' phase. This phase is dedicated to developing an understanding of the local area's past, current, and future climate change context. This suggests that research will be conducted to gather data and insights about the local community's climate change experiences and needs. The process also includes a 'Visioning and target setting' phase, which involves creating visions and setting targets for emissions reduction. This phase likely involves research to understand the community's capacity and willingness to reduce emissions. The 'Strategy and focus areas' phase involves identifying the most impactful action areas, which would also require research to understand which actions would have the most significant impact on the local community. The 'Action planning and prioritisation' phase involves identifying and prioritising potential action options, which would require research to understand which actions are most feasible and effective. Finally, the 'Public exhibition and endorsement' phase involves releasing the draft plan for community feedback before Council endorsement, which suggests that the local government values community input and is willing to adjust its plans based on this feedback.",
+      "source": "Whittlesea-b-a12345678910.json",
+      "lga": "Whittlesea",
+      "quote": {
+        "content": "Step 2:  \nVisioning and \ntarget setting\nCreate visions and \nset targets for \nemissions reduction 1. 1. All level leadership\n2. Fairness and equity\n3. Aboriginal \nempowerment\n7 priority areas\nCommunity and stakeholder engagement and consultation\n3 principles\nStep 1:  \nAssessment  \nand research\nDevelop \nunderstanding  \nof Whittlesea’s  \npast, current and \nfuture climate  \nchange context.",
+        "page": 4,
+        "source": "Whittlesea-climate-change-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has implemented a community survey to gather input and feedback from the community regarding their concerns about climate change, key priorities, and desire for council action. The survey findings were then used to inform the development of the Climate Change Adaptation Action Plan (CCAAP). This approach ensures that the local community's concerns and priorities are taken into account when formulating climate actions. Furthermore, the documents also mention the need for a continuous improvement cycle for identifying and delivering adaptation actions, which implies an ongoing process of research and feedback from the community.",
+      "source": "Wodonga-a-a12345678910.json",
+      "lga": "Wodonga",
+      "quote": {
+        "content": "The survey findings were then used to inform the development of the CCAAP. A survey was developed that sought input and feedback from the community regarding their concerns about climate change, key priorities and desire for council action.",
+        "page": 12,
+        "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has implemented a community survey to gather input and feedback from the community regarding their concerns about climate change, key priorities, and desire for council action. The survey findings were then used to inform the development of the Climate Change Adaptation Action Plan (CCAAP). This approach ensures that the local government's climate actions are informed by the community's concerns and priorities, making them more relevant and effective. The documents also mention the involvement of council staff in identifying climate risks and opportunities, further contributing to the informed planning of climate actions.",
+      "source": "Wodonga-b-a12345678910.json",
+      "lga": "Wodonga",
+      "quote": {
+        "content": "The survey findings were then used to inform the development of the CCAAP. A survey was developed that sought input and feedback from the community regarding their concerns about climate change, key priorities and desire for council action.",
+        "page": 12,
+        "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Wyndham City Council's Environment & Sustainability Department has developed a climate adaptation strategy that includes engaging with the community on climate change. The strategy outlines plans to facilitate a two-way conversation to build the capacity of the community to understand the potential range of impacts likely under climate change and to build their understanding of how the community is already adapting. The strategy also includes plans to further embed climate change considerations in the revised Municipal Health, Wellbeing and Safety Plan, leveraging the information collected through the community engagement action. This approach indicates a commitment to informed action, based on research and engagement with the local community.",
+      "source": "Wyndham-a-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": " \nBuild our understanding of how our community is already adapting. Engaging with our community on climate change \n \nLeveraging Wyndham’s district planning model, we will facilitate a two way conversation to: \n \nBuild the capacity of our community to understand the potential range of impacts likely under climate change.",
+        "page": 22,
+        "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Wyndham City Council's Environment & Sustainability Department has developed a climate adaptation strategy that includes engaging with the community on climate change. This engagement is intended to build the community's capacity to understand the potential range of impacts likely under climate change and to understand how the community is already adapting. The strategy also includes plans to further embed climate change considerations in the revised Municipal Health, Wellbeing and Safety Plan, leveraging the information collected through the community engagement action. This approach indicates a commitment to informed action based on community input and research.",
+      "source": "Wyndham-b-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "Build our understanding of how our community is already adapting.",
+        "page": 22,
+        "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents do indicate that the local government has plans to conduct research to inform climate actions. The policy outlines a comprehensive approach to climate change, which includes conducting background research and risk assessments to inform their action plan. This is evident in the document stating that the plan is 'informed by background research and risk assessments, and accompanied by a detailed action plan.' The policy also mentions the use of an evidence-based approach to reduce emissions and prepare for a changing climate. Furthermore, the policy outlines the need to 'better define Council’s role in meeting community needs in a changing climate and energy future,' which suggests a commitment to understanding the specific needs and circumstances of the local community. Therefore, it can be concluded that the policy does describe plans to conduct research in the local community to inform climate actions.",
+      "source": "YarraRanges-a-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "It is informed by background research and risk assessments, and accompanied by a detailed action plan. The plan provides direction to Council on how the organisation will respond to a changing climate.",
+        "page": 4,
+        "source": "YarraRanges-2020-liveable-climate-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do indicate that the local government has plans to conduct research in the local community to inform climate actions. The policy outlines a comprehensive approach to addressing climate change, which includes conducting background research and risk assessments to inform their action plan. This suggests that the local government is committed to making evidence-based decisions and strategies. The policy also emphasizes the importance of working in partnership with the local community, which could involve conducting research to understand their needs and perspectives. Furthermore, the policy mentions the development of Community Resilience Plans, which would likely require research into the specific needs and vulnerabilities of different communities within the local area.",
+      "source": "YarraRanges-b-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "It is informed by background research and risk assessments, and accompanied by a detailed action plan. The plan provides direction to Council on how the organisation will respond to a changing climate.",
+        "page": 4,
+        "source": "YarraRanges-2020-liveable-climate-plan.pdf",
+        "search_score": 1
+      }
+    }
+  ]
+}

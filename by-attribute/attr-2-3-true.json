@@ -1,0 +1,856 @@
+{
+  "attribute": 3,
+  "question": 3,
+  "finding": true,
+  "num": 88,
+  "responses": [
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The documents highlight the increasing severity of climate change impacts, including more extreme heat waves, fewer frosts, lower average rainfall, more extreme weather events, harsher fire seasons, and shorter snow seasons. The documents also reference the Intergovernmental Panel on Climate Change (IPCC) report, which states that global warming is occurring faster than previously projected, necessitating immediate action to reduce greenhouse gas emissions. The local government's Climate Action Plan outlines a commitment to achieving net zero greenhouse gas emissions from Council operations by July 2023, demonstrating a sense of urgency in their climate action efforts. The plan is set to be reviewed every three years to ensure it remains current with climate science, technology, and community expectations, further emphasizing the need for ongoing, urgent action.",
+      "source": "Alpine-a-a12345678910.json",
+      "lga": "Alpine",
+      "quote": {
+        "content": "Recently the Intergovernmental Panel on Climate Change (IPCC) reported that global warming is occurring faster than previously projected, giving a worldwide call to arms to act now to reduce GHG emissions in order to minimise any further irreversible damage.",
+        "page": 1,
+        "source": "Alpine-2021-climate-action-position-statement.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The local government acknowledges the accelerated pace of global warming and the irreversible damage already done, as reported by the Intergovernmental Panel on Climate Change (IPCC). The documents highlight the vulnerability of the region to climate change impacts and the need for immediate action to mitigate these effects. The Council has set ambitious targets, including achieving net zero greenhouse gas emissions from Council operations by July 2023. This target is part of a broader Climate Action Plan, which will be reviewed every three years to ensure it remains current with climate science, technology, and community expectations. The documents also emphasize the importance of resilience to predicted climate change scenarios through emergency management and adaptation measures.",
+      "source": "Alpine-b-a12345678910.json",
+      "lga": "Alpine",
+      "quote": {
+        "content": "Therefore it is crucial that Council takes immediate action. Recently the Intergovernmental Panel on Climate Change (IPCC) reported that global warming is occurring faster than previously projected, giving a worldwide call to arms to act now to reduce GHG emissions in order to minimise any further irreversible damage.",
+        "page": 1,
+        "source": "Alpine-2021-climate-action-position-statement.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It acknowledges the climate emergency and the need for urgent action by all levels of government, including local councils, to reduce carbon emissions. The City of Ballarat has set an ambitious target of achieving net zero emissions by 2030, which is a clear indication of the urgency with which they are approaching the issue of climate change. The document also mentions that without considered climate action, Ballarat’s carbon budget will be used up within 10 years, further emphasizing the urgency of the situation. The plan includes specific actions and strategies, such as advocating for stronger climate action and investment, and partnering with the community, businesses, and other levels of government to achieve sustainability. The document also outlines a plan for monitoring, reporting, and reviewing the progress towards achieving the target, which indicates a serious and urgent commitment to addressing climate change.",
+      "source": "Ballarat-a-a12345678910.json",
+      "lga": "Ballarat",
+      "quote": {
+        "content": "During the 21 November 2018 council meeting Council acknowledged the Climate Emergency and the need for urgent action by all levels of government, including local councils, to reduce carbon emissions.",
+        "page": 5,
+        "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It acknowledges the climate emergency and the need for urgent action by all levels of government, including local councils, to reduce carbon emissions. The City of Ballarat has set an ambitious target of achieving net zero emissions by 2030, which is a clear indication of the urgency with which they are approaching the issue. The document also mentions that without considered climate action, Ballarat’s carbon budget will be used up within 10 years, further emphasizing the urgency of the situation. The plan includes specific actions and strategies, such as advocating for stronger climate action and investment, developing low emissions infrastructure, and promoting incentives for zero emissions vehicles, which are all aimed at rapidly reducing emissions.",
+      "source": "Ballarat-b-a12345678910.json",
+      "lga": "Ballarat",
+      "quote": {
+        "content": "During the 21 November 2018 council meeting Council acknowledged the Climate Emergency and the need for urgent action by all levels of government, including local councils, to reduce carbon emissions.",
+        "page": 5,
+        "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+        "search_score": 0.94
+      }
+    },
+    {
+      "answer": "The documents provided clearly indicate that the local government of Banyule calls for rapid and urgent action on climate change. The policy documents repeatedly emphasize the need for immediate action, recognizing the state of climate emergency and the urgency to reduce emissions and mitigate the impacts of climate change. The documents outline a plan for the next four years, indicating a sense of urgency in implementing the actions. The policy also acknowledges the United Nations warning that we have just a decade to keep global temperature rise to a maximum of 1.5 degrees, further emphasizing the urgency of the situation. The policy also includes the establishment of a Climate Action Steering Committee to guide the implementation of new climate action projects, indicating a structured and urgent approach to addressing climate change.",
+      "source": "Banyule-a-a12345678910.json",
+      "lga": "Banyule",
+      "quote": {
+        "content": "Banyule Council recognise that we are in a state of climate emergency which requires urgent action by all levels of government, including local councils.",
+        "page": 4,
+        "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The local government of Banyule has recognized the state of climate emergency and the need for immediate action from all levels of government, including local councils. This is evident in their declaration of a climate emergency in October 2019, which signifies their commitment to urgent action to reduce emissions and mitigate the effects of climate change. The documents also outline a plan for the next four years, indicating a sense of urgency in implementing actions to reduce emissions. The plan includes a range of actions, such as the establishment of a Climate Action Steering Committee, the implementation of a cultural change program across the Council, and the identification of best practice tools and techniques for embedding a culture of climate action within the Council. These actions are designed to be implemented immediately or in the near future, further emphasizing the urgency of the situation.",
+      "source": "Banyule-b-a12345678910.json",
+      "lga": "Banyule",
+      "quote": {
+        "content": "Banyule Council recognise that we are in a state of climate emergency which requires urgent action by all levels of government, including local councils.",
+        "page": 4,
+        "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It outlines a Climate Change Action Plan for the period 2020-2030, indicating a clear timeline for the implementation of the actions. The document emphasizes the need for immediate action, stating that 'the work starts immediately, with foundational and high impact actions prioritised.' It also mentions that 'a number of priority actions have already commenced or will be rapidly implemented to reflect the urgency of climate emergency action.' This language underscores the urgency and immediacy of the actions required to address climate change. The document also outlines specific actions to be taken by various sectors of the community, further emphasizing the need for immediate and comprehensive action.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "The context of the climate emergency dictates that the work starts immediately, with foundational and high impact actions prioritised.",
+        "page": 7,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It outlines a Climate Change Action Plan for the period 2020 - 2030, indicating a clear timeline for the implementation of the actions. The document emphasizes the need for immediate action, stating that the context of the climate emergency dictates that the work starts immediately, with foundational and high impact actions prioritized. The document also mentions that a number of priority actions have already commenced or will be rapidly implemented to reflect the urgency of climate emergency action. These actions include embedding the Climate Emergency into all staff roles and responsibilities, integrating climate risk into financial decision making, and powering the Council with 100% renewable energy, among others. The document's emphasis on immediate and rapid action underscores its call for urgency in addressing climate change.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "The context of the climate emergency dictates that the work starts immediately, with foundational and high impact actions prioritised.",
+        "page": 7,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. The local government has declared a 'Climate Emergency', which inherently implies a sense of urgency. The document outlines a Climate Emergency Action Plan, which is designed to respond quickly and effectively to the climate crisis. The plan includes measures such as leveraging new and existing resources, curtailing non-essential functions and consumption, and making resourcing decisions with a long-term view. The document also mentions the 'rapid delivery of actions' as a key part of the council's response to the climate emergency. Furthermore, the document emphasizes the need for 'urgent, meaningful action' on human-induced climate change at all levels of government.",
+      "source": "Bayside-a-a12345678910.json",
+      "lga": "Bayside"
+    },
+    {
+      "answer": "The documents clearly indicate a sense of urgency in addressing climate change. The local government has declared a 'Climate Emergency', which inherently implies a need for rapid and urgent action. The Climate Emergency Action Plan is designed to respond to this declared emergency, further emphasizing the urgency of the situation. The plan includes measures such as leveraging new and existing resources, potentially curtailing non-essential functions and consumption, and making resourcing decisions with a long-term view that considers the future cost of inaction or inadequate action. The plan also includes regular reporting on progress, which suggests a commitment to timely action. Furthermore, the plan was developed following an extensive community engagement process, indicating a recognition of the urgency of the issue among the local community.",
+      "source": "Bayside-b-a12345678910.json",
+      "lga": "Bayside"
+    },
+    {
+      "answer": "The documents do explicitly call for rapid and urgent action on climate change. The community's perception of climate change as an urgent issue is clearly stated, with strong support for the development of a Climate Action Plan. The documents also highlight the community's desire for more than just 'aspirational' targets, indicating a need for concrete, immediate actions. There are calls for the declaration of a climate emergency, which underscores the urgency of the situation. However, it is important to note that while the urgency is recognized, the documents also reveal concerns about the lack of specific timelines, budgets, and detailed plans for achieving the targets. This suggests that while there is a call for urgent action, there is also a demand for well-planned and strategic approaches to addressing climate change.",
+      "source": "Boroondara-a-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "A declaration of Climate Emergency.",
+        "page": 59,
+        "source": "Boroondara-Community-Research-Report.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly call for rapid and urgent action on climate change. The community's perception of climate change as an urgent issue is clearly stated, with strong support for the development of a Climate Action Plan. The documents also highlight the community's desire for more than just 'aspirational' targets, indicating a need for concrete, immediate actions. There are calls for the declaration of a climate emergency, which underscores the urgency of the situation. The community also criticizes the lack of a timeline or budget, suggesting that they want to see immediate, planned, and funded action. However, it should be noted that while the community's sense of urgency is clear, the documents do not provide detailed information on the specific rapid actions that the local government plans to take in response to this urgency.",
+      "source": "Boroondara-b-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "Action must occur. A declaration of Climate Emergency. Young children are facing a future where they will live in an unknown climate. Fossil fuels must be phased out, starting immediately.",
+        "page": 59,
+        "source": "Boroondara-Community-Research-Report.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Brimbank Climate Emergency Plan 2020-2025 indeed calls for rapid and urgent action on climate change. The document repeatedly emphasizes the need for immediate and large-scale action to address the climate emergency. It highlights the urgency of the situation by stating that 'we have lost valuable time' and that 'socially just' climate action must happen at scale and speed. The document also sets ambitious targets for reducing emissions, with a goal of achieving zero net emissions by 2030 for council operations and by 2040 for the entire municipality. The plan also outlines specific actions to be taken, further emphasizing the urgency and immediacy of the response required. The document's language and tone underscore the urgency of the situation, and its detailed action plan demonstrates a commitment to rapid action.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "We must kick our climate pollution habit ASAP. ‘Socially just’ climate action is a necessity and must happen at scale and speed.",
+        "page": 4,
+        "source": "Brimbank-Climate-Emergency-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Brimbank Climate Emergency Plan 2020-2025 indeed calls for rapid and urgent action on climate change. The document repeatedly emphasizes the need for immediate and large-scale action to address the climate emergency. It highlights the urgency of the situation by stating that 'we have lost valuable time' and that 'socially just' climate action must happen at scale and speed. The document also sets ambitious targets for reducing emissions, aiming for zero net emissions by 2030 for council operations and by 2040 for the entire municipality. The plan also outlines specific actions to be taken immediately and in the short term (2-5 years) to address the climate emergency. This includes establishing a representative Climate Emergency Citizens Assembly and a dedicated Community Grants Program for climate emergency initiatives. The document's emphasis on the urgency of the situation and the need for immediate action is clear and consistent throughout.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "We must kick our climate pollution habit ASAP. ‘Socially just’ climate action is a necessity and must happen at scale and speed.",
+        "page": 4,
+        "source": "Brimbank-Climate-Emergency-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly call for urgent action on climate change. The International Panel on Climate Change (IPCC) is quoted as stating that the world has just 10 years to reverse surging carbon emissions or risk runaway climate change that could make many parts of the planet uninhabitable. This statement underscores the urgency of the situation. The documents also outline a Climate Change Adaptation Strategy and a 10-year action plan, indicating a commitment to immediate and ongoing action. The strategy includes a midterm review to ensure the adaptation planning considers the most up-to-date data, further emphasizing the need for swift and responsive action. The documents also advocate for climate change adaptation initiatives from all levels of government, suggesting a broad and comprehensive approach to addressing the issue.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia"
+    },
+    {
+      "answer": "The documents indeed call for urgent action on climate change. They highlight the critical need for immediate action to mitigate the impacts of climate change. The International Panel on Climate Change (IPCC) is quoted as stating that the world has just 10 years to reverse surging carbon emissions or risk runaway climate change that could make many parts of the planet uninhabitable. The documents also mention the need to eliminate all major emissions sources on a global scale and work on drawing down carbon that is already in the atmosphere. Furthermore, the documents outline a 10-year costed action plan that incorporates the evaluation, review, and assessment of the delivered initiatives to ensure flexibility in adapting to climate change. The documents also advocate for climate change adaptation initiatives from all levels of government.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia"
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan does explicitly call for rapid and urgent action on climate change. The document acknowledges the clear scientific consensus on climate change and its impacts, and recognizes the urgency for global action. It cites the Intergovernmental Panel on Climate Change (IPCC) report 2022, which warns that the world is set to reach the 1.5ºC level within the next two decades, and that only the most drastic cuts in carbon emissions from now will help prevent an environmental disaster. The document also outlines the local government's commitment to net zero emissions for Council operations by 2030, indicating a sense of urgency in implementing mitigation strategies. Furthermore, the document emphasizes the importance of community engagement and collaboration in addressing climate change, suggesting a comprehensive and urgent approach to climate action.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "The latest Intergovernmental Panel on Climate Change (IPCC) report 2022 has warned that the world is set to reach the 1.5ºC level within the next two decades and only the most drastic cuts in carbon emissions from now will help prevent an environmental disaster.",
+        "page": 5,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan does explicitly call for rapid and urgent action on climate change. The document acknowledges the clear and present danger of climate change, citing the Intergovernmental Panel on Climate Change (IPCC) report 2022, which warns that the world is set to reach the 1.5ºC level within the next two decades. The document also states that only the most drastic cuts in carbon emissions from now will help prevent an environmental disaster. This language indicates a sense of urgency and the need for immediate action. The plan also outlines specific mitigation and adaptation actions, such as installing rooftop solar, upgrading to energy efficient technologies, and preparing for floods, storms, and fires. These actions are presented as necessary steps to combat climate change, further emphasizing the urgency of the situation.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "The latest Intergovernmental Panel on Climate Change (IPCC) report 2022 has warned that the world is set to reach the 1.5ºC level within the next two decades and only the most drastic cuts in carbon emissions from now will help prevent an environmental disaster.",
+        "page": 5,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The policy recognizes the significant global challenge posed by climate change and the need for a concerted and unified response. It cites the latest report from the United Nation's Intergovernmental Panel on Climate Change (IPCC), which states that industrialized nations must re-evaluate their climate change targets to halve greenhouse gas emissions by 2030 and be carbon neutral by the early 2050s to prevent the most catastrophic harms of global warming. The policy also acknowledges the urgency of strong action to prevent these harms. Furthermore, the policy outlines key focus areas for climate action, including sustainable built environments, resource consumption, waste reduction, biodiversity protection, and leadership. It also emphasizes the need for community engagement and education to raise awareness about climate change and promote sustainable living.",
+      "source": "ColacOtway-a-a12345678910.json",
+      "lga": "ColacOtway",
+      "quote": {
+        "content": "The latest report from the United Nation's Intergovernmental Panel on Climate Change (IPCC Report No. The demonstrable and impending impacts of a changing climate are recognised as a significant global challenge, requiring a concerted and unified response.",
+        "page": 4,
+        "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The policy recognizes the significant global challenge posed by climate change and the need for a concerted and unified response. It cites the latest report from the United Nation's Intergovernmental Panel on Climate Change (IPCC), which reveals that industrialized nations must re-evaluate their climate change targets to halve greenhouse gas emissions by 2030 and be carbon neutral by the early 2050s to prevent the most catastrophic harms of global warming. The policy also acknowledges the urgency of strong action to prevent these harms. Furthermore, the policy outlines key focus areas for climate action, including sustainable built environments, resource consumption, waste reduction, biodiversity protection, and leadership. It also emphasizes the need for community engagement and education to raise awareness about climate change and promote sustainable living.",
+      "source": "ColacOtway-b-a12345678910.json",
+      "lga": "ColacOtway",
+      "quote": {
+        "content": "The latest report from the United Nation's Intergovernmental Panel on Climate Change (IPCC Report No. The demonstrable and impending impacts of a changing climate are recognised as a significant global challenge, requiring a concerted and unified response.",
+        "page": 4,
+        "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The local government policy recognizes the state of climate emergency and the need for immediate action. The policy outlines the unprecedented rate of global warming and its impacts, such as melting polar ice caps, rising sea levels, and threats to food and water security. It emphasizes that action has been too slow and that emergency action is now the only rational response. The policy also acknowledges the scale and speed of transformation needed to change energy markets, economy, legislation, and behavior to eliminate greenhouse gas emissions and draw down excess CO2. The policy further highlights the need for a broad societal consensus to adopt an emergency response to climate change. The policy also outlines specific objectives and actions to address the climate emergency, including building local engagement, partnering with other organizations, supporting innovation, and demonstrating leadership.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Action has been too slow, because economics has trumped physics.",
+        "page": 35,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The local government policy recognizes the state of climate emergency and the need for immediate action by all levels of government. The policy outlines the unprecedented rate of global warming and its impacts, such as melting polar ice caps, rising sea levels, and undermining food and water security. It emphasizes that action has been too slow and that emergency action is now the only rational response. The policy also acknowledges the scale and speed of transformation needed to change energy markets, economy, legislation, and behavior to eliminate greenhouse gas emissions and draw down the excess CO2 in the atmosphere. The policy further highlights the need for a broad consensus across society to adopt an emergency response to climate change.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Action has been too slow, because economics has trumped physics.",
+        "page": 35,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The East Gippsland Shire Council Environmental Sustainability Strategy 2022-2032 does explicitly call for urgent action on climate change. The document emphasizes the need for immediate and collective focus on environmental sustainability in response to the emerging impacts of climate change. It also highlights the importance of community participation in climate response, suggesting a sense of urgency in mobilizing all sectors of the community. The document further underscores the need for action by stating that the future climate will be hotter and drier with more common extreme weather events, implying that immediate measures are necessary to mitigate these impacts. However, while the document does call for action, it does not provide a specific timeline or deadline for these actions, which could potentially lessen the sense of urgency.",
+      "source": "EastGippsland-a-a12345678910.json",
+      "lga": "EastGippsland",
+      "quote": {
+        "content": "As the impact of a changing climate emerges, the need for us individually and collectively to focus on the sustainability of our environment is desperately needed right now.",
+        "page": 26,
+        "source": "EastGippsland-Environmental_Sustainbility_Strategy_EGSC_final_compressed.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The East Gippsland Shire Council Environmental Sustainability Strategy 2022-2032 does explicitly call for urgent action on climate change. The document emphasizes the need for immediate and collective focus on environmental sustainability in response to the emerging impacts of climate change. It underscores the importance of community participation in climate response, including building awareness, providing tools for action, and encouraging leadership and ownership. The document also highlights the opportunities that arise from climate change adaptation, such as new investments, industries, jobs, and improved health and wellbeing outcomes. However, it does not provide specific timelines or deadlines for these actions, which could potentially dilute the sense of urgency. Nonetheless, the overall tone and content of the document suggest a clear call for rapid and urgent action.",
+      "source": "EastGippsland-b-a12345678910.json",
+      "lga": "EastGippsland",
+      "quote": {
+        "content": "As the impact of a changing climate emerges, the need for us individually and collectively to focus on the sustainability of our environment is desperately needed right now.",
+        "page": 26,
+        "source": "EastGippsland-Environmental_Sustainbility_Strategy_EGSC_final_compressed.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do call for urgent action on climate change, although the language used is not always explicitly 'urgent'. The policy outlines the local government's commitment to reducing greenhouse gas emissions and transitioning to low carbon fuel sources, with a target for zero net emissions by 2025. This indicates a sense of urgency, as the target date is relatively soon. The policy also includes a detailed implementation plan for the 2019-2023 period, suggesting that actions are planned to be taken promptly. Furthermore, the policy acknowledges that climate change is a global problem with impacts currently being felt around the world, which implies a need for immediate action. However, the documents do not use the specific phrase 'rapid and urgent action' in relation to climate change.",
+      "source": "Frankston-a-a12345678910.json",
+      "lga": "Frankston",
+      "quote": {
+        "content": "Council has set a target for zero net emissions (carbon neutrality) by 2025. Council is committed to reducing greenhouse gas emissions, saving energy and transitioning to low carbon fuel sources.",
+        "page": 5,
+        "source": "Frankston-2019-zero-emissions-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly call for urgent action on climate change. The local government acknowledges climate change as a global problem and is committed to reducing greenhouse gas emissions and transitioning to low carbon fuel sources. The documents outline a detailed implementation plan for the period 2019-2023, indicating a sense of urgency in implementing measures to combat climate change. The government has set a target for zero net emissions (carbon neutrality) by 2025, further emphasizing the urgency of the situation. The documents also mention the need for a 'concerted and coordinated effort from nations, cities, communities and individuals' to address the global threat of climate change, indicating the need for immediate and collective action.",
+      "source": "Frankston-b-a12345678910.json",
+      "lga": "Frankston",
+      "quote": {
+        "content": "By responding to climate change quickly and decisively, Council will reduce its contribution to global warming and its impact on both local and international communities and maximise opportunities where they arise.",
+        "page": 3,
+        "source": "Frankston-2019-zero-emissions-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provided by the Glen Eira City Council clearly call for rapid and urgent action on climate change. The council acknowledges the current state of climate change and its impacts, and emphasizes the need for immediate action. The council declared a climate emergency in May 2020, demonstrating their recognition of the urgency of the situation. They have committed to work harder to address climate change at a local level and to advocate to State and Federal Governments for urgent action. The documents also highlight the need for a clear strategy to guide their efforts and to ensure they stay on track. The council's goals and objectives, as well as their action plan, further underscore their commitment to urgent action on climate change.",
+      "source": "GlenEira-a-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "Recognising this, we declared a climate emergency in May 2020, and committed to: work even harder to address climate change at a local level; and advocate to State and Federal Governments to maximise their broad reaching powers to urgently reduce and draw down emissions, while preparing the Victorian community for climate impacts. Urgent climate change action is essential to help us secure our Glen Eira community vision: a thriving and empowered community working together for an inclusive and sustainable future. Climate change is happening right now and we have all experienced the impacts. Without concerted efforts across the globe, these impacts will only worsen. So far, local, national and global action has not been enough to overcome the scale and urgency of the problem.",
+        "page": 7,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provided by the Glen Eira City Council clearly call for rapid and urgent action on climate change. The council acknowledges the current state of climate change and its impacts, and emphasizes the need for immediate action. The council declared a climate emergency in May 2020, demonstrating their recognition of the urgency of the situation. They have committed to work harder to address climate change at a local level and to advocate to State and Federal Governments for urgent action. The documents also highlight the need for a clear strategy to guide their efforts and to ensure they stay on track. The council's goals and objectives, as well as their action plan, further underscore their commitment to urgent action on climate change.",
+      "source": "GlenEira-b-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "So far, local, national and global action has not been enough to overcome the scale and urgency of the problem. Urgent climate change action is essential to help us secure our Glen Eira community vision: a thriving and empowered community working together for an inclusive and sustainable future. Climate change is happening right now and we have all experienced the impacts. Without concerted efforts across the globe, these impacts will only worsen.",
+        "page": 7,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly call for rapid and urgent action on climate change. The Golden Plains Shire Council declared a Climate Emergency in July 2021, which is a resolution for immediate and urgent action to reverse global warming and adapt to changes that society cannot avoid. The Council has committed to preparing a 10-year Climate Emergency Plan to put the declaration’s words into actions. The documents emphasize that the next 10 years of action are critical and that the Climate Emergency Plan is an essential tool for informing the collective response. The documents also highlight that immediate action is required by all levels of society to drastically reduce emissions to mitigate the impacts of climate change. The Council is acting to both reduce the Shire’s contribution to climate change and prepare for the changes that are unavoidable.",
+      "source": "GoldenPlains-a-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "The next 10 years of action are critical and this Climate Emergency Plan is an essential tool for informing our collective response. Strong action, foresight and unprecedented levels of collaboration across all sectors of the Shire (and beyond) is vital.",
+        "page": 16,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The Golden Plains Shire Council declared a Climate Emergency in July 2021, which is a resolution for immediate and urgent action to reverse global warming and adapt to changes that society cannot avoid. The Council has committed to preparing a 10-year Climate Emergency Plan to put the declaration’s words into actions. The documents also mention that the next 10 years of action are critical and this Climate Emergency Plan is an essential tool for informing the collective response. The plan outlines the pathway towards net zero emissions and includes actions that are both mitigation and adaptation focused. The plan also emphasizes the need for strong action, foresight, and unprecedented levels of collaboration across all sectors of the Shire and beyond.",
+      "source": "GoldenPlains-b-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "The next 10 years of action are critical and this Climate Emergency Plan is an essential tool for informing our collective response.",
+        "page": 16,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does indeed call for rapid and urgent action on climate change. It cites the IPCC Sixth Assessment Report, which states that unless deep reductions in CO2 and other greenhouse gas emissions occur in the coming decades, global warming of 1.5°C and 2°C will be exceeded during the 21st century. The document also refers to a report from the United Nations Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), which found that the health of ecosystems is deteriorating more rapidly than ever before, eroding the foundations of human economies, livelihoods, food security, health, and quality of life. The document further outlines the City of Greater Bendigo's response, which includes a strategy designed to support action to restore and regenerate ecosystems and mitigate against climate change through reducing carbon emissions and sequestering carbon. This strategy also includes action to adapt to climate change, with the document stating that by adapting early, we can reduce our exposure to climate risks.",
+      "source": "GreaterBendigo-a-a12345678910.json",
+      "lga": "GreaterBendigo"
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The documents highlight the severity of climate change and biodiversity breakdown, emphasizing the need for immediate action. The City of Greater Bendigo's response, as outlined in the documents, includes a strategy designed to support action to restore and regenerate ecosystems and mitigate against climate change through reducing carbon emissions and sequestering carbon. The strategy also includes action to adapt to climate change, as communities and ecosystems must transition to a harsher climate. The documents also mention the role of local government in responding to the impacts of climate change and biodiversity breakdown, and the need for these considerations to be embedded across Council’s services, strategies, policies, and processes. The documents also highlight the need for transformative change at every level from local to global.",
+      "source": "GreaterBendigo-b-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "“The Report also tells us that it is not too late to make a difference, but only if we start now at every level from local to global.",
+        "page": 9,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 0.9
+      }
+    },
+    {
+      "answer": "The documents indeed call for urgent action on climate change. The Greater Dandenong City Council has declared a 'Climate and Ecological Emergency' and has committed to emergency action on climate change. The documents outline a Climate Emergency Strategy and Action Plan for 2020-2030, indicating a clear timeline for urgent action. The plan includes immediate actions such as the inclusion of roles and responsibilities in position descriptions that facilitate internal champions and accountability for Council’s response to the Climate and Ecological Emergency. The documents also emphasize the need for 'stronger, urgent action' in response to the Climate Emergency, focusing on achieving zero net carbon emissions as an initial target. The documents also highlight the need for 'emergency preparedness' and 'increasing organisational adaptive capacity' to respond to climate change impacts.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong"
+    },
+    {
+      "answer": "The documents indeed call for urgent action on climate change. The Greater Dandenong City Council has declared a 'Climate and Ecological Emergency' and committed to emergency action on climate change. The Climate Emergency Strategy 2020-2030 Action Plan outlines immediate and ongoing actions to address climate change. These actions include embedding climate change considerations into Council's strategic documents and decision-making processes, increasing staff awareness and organisational adaptive capacity, and implementing measures to reduce greenhouse gas emissions. The documents also highlight the need for continuous improvement and evaluation, indicating an ongoing commitment to urgent action. The use of the term 'emergency' throughout the documents underscores the urgency of the situation and the need for immediate action.",
+      "source": "GreaterDandenong-b-a12345678910.json",
+      "lga": "GreaterDandenong",
+      "quote": {
+        "content": "Recognising this, in January 2020 Greater Dandenong City Council joined a growing number of cities around Australia by declaring a ‘Climate and Ecological Emergency’, committing us to emergency action on climate change.",
+        "page": 9,
+        "source": "GreaterDandenong-Climate-Emergency-Strategy-2020.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The language used throughout the documents emphasizes the need for immediate and extensive action. The documents acknowledge the climate crisis as a 'global emergency' and stress the need for a 'municipal-wide response'. The documents also highlight the need for a 'coordinated and collaborative approach' to address the climate crisis. The documents further state that 'the time for debate is over' and that 'we need to act urgently and extensively'. The documents also mention the need for 'rapid decarbonisation' during this decade and aim for net zero emissions by 2050 at the latest. The documents also call for prioritizing climate over financial outcomes in all decision-making processes.",
+      "source": "GreaterGeelong-a-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "We need to act urgently and extensively as a municipal community to be part of the solution to the climate crisis. The science tells us that we must aim for net zero emissions as soon as possible (by 2050 at the latest) and that we need rapid decarbonisation during this decade. The overwhelming message from community groups, businesses and other organisations is that the time for debate is over.",
+        "page": 11,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The language used throughout the documents emphasizes the need for immediate and extensive action. The documents acknowledge the climate crisis as a 'global emergency' and stress the importance of a 'municipal-wide response'. The documents also highlight the need for a 'coordinated and collaborative approach' to address the climate crisis. The documents further state that 'the time for debate is over' and that 'we need to act urgently and extensively'. The documents also mention the need for 'rapid decarbonisation' during this decade and aim for 'net zero emissions as soon as possible (by 2050 at the latest)'. The documents also call for 'prioritising climate over financial outcomes in all decision making'.",
+      "source": "GreaterGeelong-b-a12345678910.json",
+      "lga": "GreaterGeelong",
+      "quote": {
+        "content": "We need to act urgently and extensively as a municipal community to be part of the solution to the climate crisis. The science tells us that we must aim for net zero emissions as soon as possible (by 2050 at the latest) and that we need rapid decarbonisation during this decade. The overwhelming message from community groups, businesses and other organisations is that the time for debate is over.",
+        "page": 11,
+        "source": "GreaterGeelong-climatechangeresponseplanfinal.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Greater Shepparton 2022 Climate Emergency Action Plan indeed calls for rapid and urgent action on climate change. The document outlines a series of strategic priorities and actions aimed at addressing the climate emergency, demonstrating a clear sense of urgency. The plan includes actions such as implementing a Climate Emergency Communication and Engagement Strategy, supporting youth to be informed and act on climate change, and advocating for greater climate action at federal and state levels. The document also mentions the need for 'urgent and immediate action' to support the community in adapting to climate change and aiming for a 2030 net zero emission target. The plan's emphasis on 'immediate action' and the setting of a 2030 target for net zero emissions underscores the urgency with which the local government views the climate crisis.",
+      "source": "GreaterShepparton-a-a12345678910.json",
+      "lga": "GreaterShepparton",
+      "quote": {
+        "content": "This Climate Emergency Action Plan (Action Plan) is a critical step in acting on this declaration, and taking urgent and immediate action to support the community in taking the necessary steps to adapt to climate change and to also aim for a 2030 In response to the Black Summer bushfires and the community’s calls to act urgently on climate change, Greater Shepparton City Council declared a Climate Emergency and adopted a 2030 net zero emission target on 20 March 2020.",
+        "page": 5,
+        "source": "GreaterShepparton-2022-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Greater Shepparton 2022 Climate Emergency Action Plan indeed calls for rapid and urgent action on climate change. The document outlines a series of strategic priorities and actions aimed at addressing the climate emergency, demonstrating a clear sense of urgency. The plan includes actions such as implementing a Climate Emergency Communication and Engagement Strategy, supporting youth to be informed and act on climate change, and advocating for greater climate action at federal and state levels. The document also mentions the need for 'urgent and immediate action' to support the community in adapting to climate change and aiming for a 2030 net zero emission target. The plan's emphasis on 'immediate' action and the use of the term 'emergency' throughout the document underscore the urgency of the situation.",
+      "source": "GreaterShepparton-b-a12345678910.json",
+      "lga": "GreaterShepparton",
+      "quote": {
+        "content": "This Climate Emergency Action Plan (Action Plan) is a critical step in acting on this declaration, and taking urgent and immediate action to support the community in taking the necessary steps to adapt to climate change and to also aim for a 2030 In response to the Black Summer bushfires and the community’s calls to act urgently on climate change, Greater Shepparton City Council declared a Climate Emergency and adopted a 2030 net zero emission target on 20 March 2020.",
+        "page": 5,
+        "source": "GreaterShepparton-2022-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It emphasizes the severity of the climate crisis, stating that we are 'sleepwalking to climate catastrophe' and that the 'climate emergency is evolving faster than predicted.' The document also highlights the need for 'ambition and urgency' in our response to climate change. It further underscores the importance of immediate action by stating that even under a very low emissions scenario, there is now less than a 50% chance of limiting warming to 1.5°C. This suggests that the situation is critical and requires immediate and drastic action. The document also mentions the need for 'transformative change with rapid and far-reaching actions of a type never before attempted.' This further emphasizes the urgency and scale of the action required to address the climate crisis.",
+      "source": "Hepburn-a-a12345678910.json",
+      "lga": "Hepburn",
+      "quote": {
+        "content": "We must accelerate our response, with ambition and urgency.",
+        "page": 30,
+        "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It emphasizes the severity of the climate crisis, stating that we are 'sleepwalking to climate catastrophe' and that the 'climate emergency is evolving faster than predicted.' The document also highlights the need for 'ambition and urgency' in our response to climate change. It further underscores the importance of immediate action by stating that even under a very low emissions scenario, there is now less than a 50% chance of limiting warming to 1.5°C. This suggests that the situation is critical and requires immediate and drastic action. The document also mentions the need for 'transformative change with rapid and far-reaching actions of a type never before attempted.' This further emphasizes the urgency and scale of the action required to address the climate crisis.",
+      "source": "Hepburn-b-a12345678910.json",
+      "lga": "Hepburn",
+      "quote": {
+        "content": "We must accelerate our response, with ambition and urgency.",
+        "page": 30,
+        "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does indeed call for urgent action on climate change. The Hobsons Bay City Council recognizes climate change as a 'current and significant challenge' that will worsen without collective action to reduce greenhouse gas emissions and prepare for a changing climate. The Council's declaration of a climate emergency in 2019 further underscores its commitment to taking meaningful action to address climate change. The document also emphasizes that the effects of climate change are already being felt, with rising sea levels and an increase in flooding and other extreme weather events threatening the community. This sense of urgency is further highlighted by the Council's recognition that the current state of the climate requires urgent action from all levels of government and the community.",
+      "source": "HobsonsBay-a-a12345678910.json",
+      "lga": "HobsonsBay",
+      "quote": {
+        "content": "Council recognises that the current state of the climate requires urgent action from all levels of government.",
+        "page": 3,
+        "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does indeed call for urgent action on climate change. The local government's policy, as outlined in the 'Hobsons Bay Response to Climate Change Action Plan 2030', clearly states that the current state of the climate requires urgent action from all levels of government. The document emphasizes the need for strong and decisive action to protect the community, particularly given the unique challenges faced by Hobsons Bay as a coastal community with several fragile habitats. The policy also highlights the importance of community involvement in addressing climate change, suggesting that everyone has a part to play in this urgent issue. The document's emphasis on urgency is further underscored by the council's declaration of a climate emergency in 2019, which confirms its commitment to taking meaningful action to address climate change.",
+      "source": "HobsonsBay-b-a12345678910.json",
+      "lga": "HobsonsBay",
+      "quote": {
+        "content": "Council recognises that the current state of the climate requires urgent action from all levels of government.",
+        "page": 3,
+        "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The Hume Climate Action Plan 2023-2028, as outlined in the documents, emphasizes the need for immediate action to address climate change. The documents highlight the community's concern about climate change and the need for the council to take action. The Hume Sustainability Taskforce has put forth several climate-related recommendations to the council, including advocating for an Australian climate emergency declaration and phasing out of gas in council operations. The Climate Action Plan sets a carbon-neutral target by 2030 for council operations, which is described as a 'bold and achievable' undertaking. The documents also mention the need for 'fast adoption of electric vehicles' and 'going off gas' as part of the council's climate emergency plan. The documents further stress the need for 'transformational change' across all aspects of society to avoid a climate crisis.",
+      "source": "Hume-a-a123.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The Hume Climate Action Plan 2023-2028, as outlined in the documents, emphasizes the need for immediate action to address climate change. The documents highlight the community's concern about climate change and the need for the council to take action. The council's plan includes a bold position on climate change, including fast adoption of electric vehicles, phasing out of gas, and other significant greenhouse emission reduction initiatives. The documents also mention the need for transformational change across all aspects of society to avoid a climate crisis, indicating the urgency of the situation. The council's commitment to carbon neutrality by 2030 further underscores the urgency of the actions being taken.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It outlines a series of priority actions, with high priority actions commencing within the next 12 months, medium priority actions by 2023, and low priority actions by 2025. This timeline indicates a sense of urgency in implementing these actions. The document also acknowledges the climate emergency and states that Kingston's response will reflect the scope, scale, and urgency of that emergency. Furthermore, it emphasizes that there is not a minute to lose and that working to reduce emissions as soon as possible is a clear intent of the plan. The document also states that the scale of reductions required is exceptionally high, further emphasizing the urgency of the situation.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "Given our declaration of a Climate and Ecological Emergency, high priority actions (those with the highest emission abatement potential) will commence in the next 12 months; medium priority actions by 2023 and low priority actions by 2025.",
+        "page": 11,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It outlines a series of priority actions, with high priority actions commencing within the next 12 months, medium priority actions by 2023, and low priority actions by 2025. This timeline indicates a sense of urgency in implementing these actions. The document also acknowledges the climate emergency and states that Kingston's response will reflect the scope, scale, and urgency of that emergency. Furthermore, it emphasizes that there is not a minute to lose and that working to reduce emissions as soon as possible is a clear intent of the plan. The document also states that the scale of reductions required is exceptionally high, further emphasizing the urgency of the situation.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "Given our declaration of a Climate and Ecological Emergency, high priority actions (those with the highest emission abatement potential) will commence in the next 12 months; medium priority actions by 2023 and low priority actions by 2025.",
+        "page": 11,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government recognizes the urgency of addressing climate change. The council declared a state of Climate Emergency on 24 March 2021, acknowledging that urgent action is required to address the causes and impacts of climate change and avoid irreversible disruption to society, the economy, and ecosystems. The declaration of a Climate Emergency places climate change as a key consideration in the council's decision-making processes. The council is committed to leading by example in supporting the community to prepare for forecast climatic changes. The council has also introduced a Climate Impact Assessment to the template for council reports, requiring staff to specify the implications of their recommendations on climate change. This demonstrates a commitment to urgent and immediate action.",
+      "source": "MacedonRanges-a-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "By doing so, Council acknowledges that urgent action is required to address the causes and impacts of climate change and avoid irreversible disruption to society, the economy and ecosystems. On 24 March 2021, Council declared a state of Climate Emergency.",
+        "page": 9,
+        "source": "MacedonRanges-2021-environment-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government recognizes the urgency of addressing climate change. The council declared a state of Climate Emergency on 24 March 2021, acknowledging that urgent action is required to address the causes and impacts of climate change and avoid irreversible disruption to society, the economy, and ecosystems. The declaration of a Climate Emergency places climate change as a key consideration in the council's decision-making processes. The council is committed to leading by example in supporting the community to prepare for forecast climatic changes. The council has also introduced a Climate Impact Assessment to the template for council reports, requiring staff to specify the implications of their recommendations on climate change. This demonstrates a commitment to urgent and immediate action.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "By doing so, Council acknowledges that urgent action is required to address the causes and impacts of climate change and avoid irreversible disruption to society, the economy and ecosystems. On 24 March 2021, Council declared a state of Climate Emergency.",
+        "page": 9,
+        "source": "MacedonRanges-2021-environment-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly call for rapid and urgent action on climate change. The Manningham Council acknowledges the state of serious climate and environmental change and asserts that this climate emergency requires urgent action by all levels of government, including local government. The document also mentions the need to significantly scale up support for climate action and the intention to develop an implementation plan with details on the actions in the Climate Emergency Response Plan during 2023. The document also mentions the need for annual monitoring and reporting on climate actions and greenhouse gas emissions levels, indicating a sense of urgency in tracking progress and making necessary adjustments. However, it should be noted that while the document calls for urgent action, it does not provide specific timelines or deadlines for the proposed actions, which could potentially affect the speed and effectiveness of the response to the climate emergency.",
+      "source": "Manningham-a-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The document does explicitly call for urgent action on climate change. It is evident from the 'Climate Emergency Response Plan' that the Manningham Council acknowledges the state of serious climate and environmental change and the need for urgent action by all levels of government, including local government. The document also mentions the need to significantly scale up support for climate action and the commitment to increasing action on climate change. The plan also includes a commitment to annual monitoring and reporting on climate actions and greenhouse gas emissions levels, indicating a sense of urgency in tracking progress and making necessary adjustments. However, it should be noted that while the document calls for urgent action, it does not provide specific timelines or deadlines for the proposed actions, which could potentially affect the perceived urgency.",
+      "source": "Manningham-b-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The Mansfield Shire Council acknowledges climate change as a threat to the community's way of life and has made a firm commitment to mitigate its impacts. The Council has passed a resolution to develop a Climate Action Plan, which includes a commitment to a Net Zero Emissions target by 2025. This target is indicative of the urgency with which the Council is approaching climate change mitigation. The Council also recognizes the need for action at all levels, including local service and infrastructure provision, regional level initiatives, and advocacy at the state and national government level. The documents also mention the Paris Agreement and the need to stay within the carbon budget set by the IPCC, further emphasizing the urgency of the situation.",
+      "source": "Mansfield-a-a12345678910.json",
+      "lga": "Mansfield"
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The Mansfield Shire Council acknowledges climate change as a threat to the community's way of life and has passed a resolution to develop a Climate Action Plan. The Council has committed to mitigating the impacts of climate change within its own operations and supporting the community to reduce greenhouse gas emissions. The Council has also committed to a Net Zero Emissions target by 2025, which is a clear indication of the urgency of the actions required. The Council's commitment to this target sends a strong message to the community and other levels of government that urgent climate action is required. The Council also plans to implement projects that demonstrate cost-savings and good value to Council operations, support the broader community to implement climate action, and participate in collaborative efforts for emissions reduction initiatives.",
+      "source": "Mansfield-b-a12345678910.json",
+      "lga": "Mansfield"
+    },
+    {
+      "answer": "The Maribyrnong City Council's Climate Emergency Action Plan indeed calls for rapid and urgent action on climate change. The document outlines a clear commitment to addressing the climate emergency, with a focus on urgency. The overarching goal of the plan is to 'Restore a safe climate at emergency speed to provide maximum protection for people and species, recognising and acting on the need for coordinated local and global action.' This statement clearly indicates a sense of urgency in the council's approach to climate change. The plan also includes specific actions and timelines, further emphasizing the urgency of the situation. For instance, the council plans to progressively update and review all relevant policies and plans to include climate emergency mitigation, adaptation, and resilience. The document also mentions the need to 'recognise the urgency needed to address the climate emergency, and work with others to educate and move beyond business as usual.'",
+      "source": "Maribyrnong-a-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The Maribyrnong City Council's Climate Emergency Action Plan indeed calls for rapid and urgent action on climate change. The document outlines a clear commitment to addressing the climate emergency, with a focus on urgency. The overarching goal of the plan is to 'Restore a safe climate at emergency speed to provide maximum protection for people and species, recognising and acting on the need for coordinated local and global action.' This statement clearly indicates a sense of urgency in the council's approach to climate change. The plan also includes specific actions to be taken within defined timelines, further emphasizing the urgency of the situation. The document's language and tone, along with its outlined actions and objectives, all point towards a call for rapid and urgent action on climate change.",
+      "source": "Maribyrnong-b-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The documents do call for urgent action on climate change, although the language used is not always explicitly urgent. The policy outlines a proactive approach to managing the risks associated with climate change, emphasizing the need for early planning to reduce impacts. The policy also calls for the integration of climate change thinking into Council projects, operations, planning, and strategies, using climate science to act with urgency. This suggests a recognition of the need for immediate action. Furthermore, the policy outlines the need to adapt Council's practices to future climate scenarios, which implies a sense of urgency given the accelerating impacts of climate change. However, the policy does not provide specific timelines or deadlines for these actions, which could have underscored the urgency more effectively.",
+      "source": "Maroondah-a-a12345678910.json",
+      "lga": "Maroondah"
+    },
+    {
+      "answer": "The documents do call for urgent action on climate change, although the language used is not always explicitly urgent. The policy outlines the need for the local government to 'act with urgency' in embedding climate change thinking into their projects, operations, planning, and strategies. This suggests a recognition of the immediate need to address climate change. The policy also emphasizes the importance of early planning for climate change to help reduce impacts, indicating an understanding of the time-sensitive nature of the issue. Furthermore, the policy highlights the need to adapt to some level of climate change that is already 'locked in', which underscores the urgency of the situation. However, the documents do not provide a specific timeline or deadline for these actions, which could have strengthened the sense of urgency.",
+      "source": "Maroondah-b-a12345678910.json",
+      "lga": "Maroondah"
+    },
+    {
+      "answer": "The document explicitly calls for rapid and urgent action on climate change. It acknowledges the state of climate emergency that requires immediate action by all levels of government and society. The document emphasizes the need for a nationwide and global emergency response to eliminate and draw down greenhouse gas emissions. It also highlights the importance of transitioning society beyond an incremental approach. The document further outlines specific actions and programs, such as community mobilisation and advocacy campaigns, to respond to the climate emergency. It also sets goals for the community and council to reduce carbon emissions and support climate-related advocacy campaigns. The document's language and tone underscore the urgency of the situation and the need for immediate, comprehensive action.",
+      "source": "Merribek-a-a12345678910.json",
+      "lga": "Merribek"
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It acknowledges the state of climate emergency that requires immediate action by all levels of government and society. The document emphasizes the need for a nationwide and global emergency response to eliminate and draw down greenhouse gas emissions. It also highlights the importance of transitioning society beyond an incremental approach. The document further outlines specific actions and programs, such as community mobilisation and advocacy campaigns, to respond to the climate emergency. It also sets goals for the community and council to reduce carbon emissions and acknowledges the role of staff across the council in integrating climate action within their service area, strategies, and policies.",
+      "source": "Merribek-b-a12345678910.json",
+      "lga": "Merribek"
+    },
+    {
+      "answer": "The document does indeed call for urgent action on climate change. It is titled 'Climate Emergency Action Plan', which in itself implies a sense of urgency. The document outlines a plan to implement actions by 2030 to reduce emissions and adapt to a changing climate, indicating a time-bound approach to addressing the issue. It also mentions the need for 'urgent and decisive action' to reduce emissions over the next two decades to avoid exceeding the threshold set by the Paris Agreement. The document further emphasizes the need for strong leadership, advocacy, and a collective commitment to achieve a zero emissions future. It also acknowledges the role of various stakeholders, including the council, residents, businesses, farmers, and community groups, in driving climate action, suggesting a comprehensive and immediate response to the climate emergency.",
+      "source": "Mitchell-a-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": ", and without urgent and \ndecisive action to reduce emissions over the  \nnext two decades this threshold is expected  \nto be exceeded.",
+        "page": 7,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does indeed call for urgent action on climate change. It is evident from the document that the local government has a Climate Emergency Action Plan in place, which indicates a sense of urgency in addressing climate change. The document outlines a range of actions to be undertaken by the council, community, and other stakeholders to reduce emissions and adapt to a changing climate. The document also mentions the need for 'decisive action to reduce emissions over the next two decades', which further underscores the urgency of the situation. The document also emphasizes the need for strong leadership, advocacy, and a collective commitment to achieve a zero emissions future, which suggests a sense of urgency in implementing the actions outlined in the plan.",
+      "source": "Mitchell-b-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": ", and without urgent and \ndecisive action to reduce emissions over the  \nnext two decades this threshold is expected  \nto be exceeded.",
+        "page": 7,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does indeed call for urgent action on climate change. It outlines a series of actions and strategies to be implemented within specific timeframes, indicating a sense of urgency. The document mentions the declaration of a climate emergency by the Council in October 2019, which is designed to 'accelerate sustained and meaningful action by all levels of government'. This declaration is a clear call for rapid action. The document also sets specific targets for reducing carbon emissions, with interim community emissions reduction targets set for 2025 and 2030. The inclusion of these targets and the detailed action plan to achieve them further underscores the urgency of the actions required to address climate change.",
+      "source": "MooneeValley-a-a12345678910.json",
+      "lga": "MooneeValley",
+      "quote": {
+        "content": "The climate emergency declaration is designed to accelerate sustained and meaningful action by all levels of government, and for people globally to engage with the challenge of avoiding catastrophic climate change and restoring a safe climate. In October 2019, Council declared and acknowledged the climate emergency.",
+        "page": 3,
+        "source": "MooneeValley-mv2040-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does call for urgent action on climate change, although it does not use the exact phrase 'rapid and urgent'. The local government has declared a climate emergency in October 2019, which inherently implies a sense of urgency. The document outlines a series of actions to be taken in response to this emergency, including reducing greenhouse gas emissions, protecting and recycling water supplies, and enhancing the urban environment. The document also sets specific targets for reducing carbon emissions, with interim community emissions reduction targets set for 2025 and 2030. These targets and the associated actions indicate a commitment to taking immediate and ongoing action to address climate change.",
+      "source": "MooneeValley-b-a12345678910.json",
+      "lga": "MooneeValley",
+      "quote": {
+        "content": "The climate emergency declaration is designed to accelerate sustained and meaningful action by all levels of government, and for people globally to engage with the challenge of avoiding catastrophic climate change and restoring a safe climate. In October 2019, Council declared and acknowledged the climate emergency.",
+        "page": 3,
+        "source": "MooneeValley-mv2040-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents from the Mornington Peninsula Shire clearly call for rapid and urgent action on climate change. The policy outlines a series of targets to reduce municipality emissions and reach net zero, indicating a commitment to immediate action. The documents repeatedly emphasize the urgency of the situation, stating that 'we need to act urgently' and 'we can no longer wait to ensure our future.' The policy also outlines a plan for action, including the formation of a Climate Oversight Group and the development of an annual Climate Emergency Advocacy Report. This suggests a structured and immediate response to the climate emergency. The documents also highlight the risks of inaction and the need for a 'targeted plan and coordinated action.' Overall, the policy demonstrates a clear recognition of the urgency of climate change and a commitment to rapid action.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "We need to do more to meet our Paris Agreement targets sooner.",
+        "page": 11,
+        "source": "Mornington-2020-climate-emergency-response-part1.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents from the Mornington Peninsula Shire clearly call for rapid and urgent action on climate change. The policy outlines the need for immediate action to reverse climate change trends and to reach net zero emissions. The documents recognize the climate change crisis and the catastrophic effects of humanity's impact on the planet's ecosystems. The policy also acknowledges the risks associated with inaction or insufficient action, emphasizing the need for a targeted plan and coordinated action. The policy further states that declaring a climate emergency is the only way to get things moving, highlighting the urgency of the situation. The policy also outlines a series of targets and actions, including the formation of an executive-led Climate Oversight Group and the establishment of community representation to provide recommendations on climate change issues. This indicates a commitment to immediate and ongoing action.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "The only solution is to reverse We need to do more to meet our Paris Agreement targets sooner. Human-caused emissions of carbon dioxide (CO2) need to fall by about 45 percent from 2010 levels. This needs to happen across the globe by 2030, with the goal to reach ‘net zero’ around 2050.3 Any remaining emissions beyond 2050 would need to be balanced by removing CO2 from the air. By declaring a Climate Emergency, we acknowledge the dangers of inaction and the risks of too little action.",
+        "page": 11,
+        "source": "Mornington-2020-climate-emergency-response-part1.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Nillumbik 2022 Climate Action Plan indeed calls for rapid and urgent action on climate change. The document explicitly declares a climate emergency, indicating a clear sense of urgency and a call to action. The plan recognizes climate change as a threat and foreseeable risk, and it commits to a proactive climate response. The document also emphasizes the need for dynamic and responsive decision-making in climate action, suggesting the need for swift and adaptable strategies. Furthermore, the plan acknowledges the international commitment to limit the temperature increase to 1.5⁰C, which requires urgent action. The document also states that the council will incorporate a stronger climate lens into its work than ever before, indicating a sense of urgency in addressing climate change in all aspects of its operations.",
+      "source": "Nillumbik-a-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "Council therefore Declares a Climate Emergency, commits to a climate emergency response, and will proactively integrate climate change mitigation and adaptation into all Council actions.",
+        "page": 3,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Nillumbik 2022 Climate Action Plan does explicitly call for rapid and urgent action on climate change. The document declares a climate emergency, which indicates a clear sense of urgency and a call to action. The plan also commits to a climate emergency response and proactively integrating climate change mitigation and adaptation into all Council actions. The document also states that climate change is the single most defining issue of our generation and will define generations to come, further emphasizing the urgency of the situation. The plan also acknowledges the need for dynamic and responsive decision-making in climate action, which suggests a need for swift and decisive action. Therefore, the document does explicitly call for rapid and urgent action on climate change.",
+      "source": "Nillumbik-b-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "Council therefore Declares a Climate Emergency, commits to a climate emergency response, and will proactively integrate climate change mitigation and adaptation into all Council actions.",
+        "page": 3,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The documents highlight the severe risks posed by climate change to the planet, biodiversity, and communities. They emphasize the need for immediate action, stating that humanity has a narrow window to act. The documents also note the growing momentum for climate action at both the individual and community scale, with over 100 local government areas in Australia, including Port Phillip, having declared a climate emergency. The documents further underscore the importance of urgent action by outlining the devastating impacts of climate change that have already been experienced, such as Australia's hottest and driest year on record in 2019 and the largest wildfire ever recorded. The documents also highlight the need for transformative changes in areas such as waste management and the creation of a recycling and circular economy.",
+      "source": "PortPhillip-a-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "There has never been a more critical time to take environmental action. Humanity has a narrow window to act, but the IPCC says urgent climate action can still secure a liveable future for all.",
+        "page": 4,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It emphasizes the severity of the climate crisis, stating that climate change is now affecting every country on every continent, disrupting national economies, and impacting lives. The document also highlights the increasing pressure on our atmosphere, land, oceans, and biodiversity due to human activities. It further underscores the urgency by stating that greenhouse gas emissions are at their highest levels in history and that global temperatures are likely to reach 1.5 degrees above pre-industrial levels in the early 2030s. The document also mentions that the City of Port Phillip declared a climate emergency in 2019, acknowledging the severe risk that climate change poses to the planet, biodiversity, and communities. The document's emphasis on the need for urgent action is further reinforced by its call for residents and businesses to take meaningful action to reduce their emissions and become more climate resilient.",
+      "source": "PortPhillip-b-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "There has never been a more critical time to take environmental action. Humanity has a narrow window to act, but the IPCC says urgent climate action can still secure a liveable future for all.",
+        "page": 4,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It refers to the situation as a 'Climate Emergency', a term that inherently implies urgency. The document cites the United Nations Intergovernmental Panel on Climate Change (IPCC) report, which warns of a limited time frame (12 years from 2018) to prevent a climate crisis. This further underscores the urgency of the situation. The document also outlines the significant risks posed by climate change, such as drought, floods, extreme heat, and climate-related poverty, which require immediate action. The policy also includes a Climate Emergency Response Plan, which is a clear call to action. The plan includes specific timeframes for actions, further emphasizing the need for swift and decisive action.",
+      "source": "Queenscliffe-a-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "This is the Climate Emergency. The United Nations (UN) Intergovernmental Panel on Climate Change (IPCC) released a report in October 2018 on the impacts of global warming and warned that we have just 12 years left from 2018 to limit a climate crisis.",
+        "page": 11,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It refers to the situation as a 'Climate Emergency', a term that inherently implies urgency. The document cites the United Nations Intergovernmental Panel on Climate Change (IPCC) report, which warns of a limited time frame (12 years from 2018) to prevent a climate crisis. The document also outlines the significant risks posed by climate change, such as drought, floods, extreme heat, and climate-related poverty, further emphasizing the need for immediate action. The policy also includes a 'Climate Emergency Response Plan', which suggests a structured and urgent approach to addressing the issue. The community's voice in the document also reflects a sense of urgency, with calls for immediate and meaningful change.",
+      "source": "Queenscliffe-b-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "This is the Climate Emergency. The United Nations (UN) Intergovernmental Panel on Climate Change (IPCC) released a report in October 2018 on the impacts of global warming and warned that we have just 12 years left from 2018 to limit a climate crisis.",
+        "page": 11,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It repeatedly emphasizes the need for immediate action, highlighting the global climate emergency and the local government's responsibility to respond. The document outlines a Climate Emergency Action Plan, which is designed to address climate change urgently and immediately. The plan includes specific priorities and steps for action, demonstrating a clear commitment to rapid response. The document also mentions that the plan will be reviewed in 2024, indicating a commitment to ongoing, urgent action. The language used throughout the document, such as 'emergency', 'urgent', and 'immediate', underscores the urgency of the situation and the need for swift action.",
+      "source": "Stonnington-a-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "We need to act now...",
+        "page": 9,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.9
+      }
+    },
+    {
+      "answer": "The document explicitly calls for rapid and urgent action on climate change. It repeatedly emphasizes the need for immediate action, stating that we are in the midst of a global climate emergency that requires urgent response. The document outlines the local government's Climate Emergency Action Plan, which is designed to address the climate crisis through immediate and urgent action. The plan includes specific priorities and steps for action, demonstrating a clear commitment to rapid response. The document also notes that the plan will be reviewed in 2024, indicating an ongoing commitment to urgency and adaptability in response to the evolving climate crisis.",
+      "source": "Stonnington-b-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "We need to act, before it is too late. We are in the midst of a global climate emergency and we need to act now. While climate change is a global issue, it has local impacts, affecting our environment, economy and the health and wellbeing of our community.",
+        "page": 4,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It is evident from the language used throughout the document that the local government perceives climate change as an immediate and pressing issue that requires swift action. The document refers to the situation as a 'climate emergency', a term that inherently implies urgency. The local government's Climate Emergency Response Plan 2021-2031 is a testament to their commitment to taking immediate action. The plan outlines specific actions, such as integrating climate emergency considerations into all Council decision making, reporting quarterly on progress, and committing to purchasing 100% renewable electricity and becoming a carbon neutral organisation in 2021-22. These actions, coupled with the language used in the document, clearly indicate a call for rapid and urgent action on climate change.",
+      "source": "SurfCoast-a-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It outlines the Surf Coast Shire Council's Climate Emergency Response Plan 2021-2031, which was developed in response to the council's declaration of a climate emergency in 2019. The plan emphasizes the urgency of the climate emergency and the need for immediate action. It outlines specific actions to be taken by the council and the community for climate change mitigation, adaptation, and mobilisation. The plan also commits the council to specific targets, such as achieving net zero greenhouse gas emissions and sourcing 100% of its electricity from renewable energy sources. The document also mentions the need for 'urgent and extensive action' to reduce emissions and respond to local climate change impacts.",
+      "source": "SurfCoast-b-a12345678910.json",
+      "lga": "SurfCoast"
+    },
+    {
+      "answer": "The document does indeed call for urgent action on climate change. It acknowledges that climate change is not a distant threat, but a present reality that is already impacting the community. The document highlights the recent 2020 bushfires as a stark reminder of the devastating impacts of climate change, emphasizing the urgency required to reduce greenhouse gas emissions for the sake of future generations. The policy also outlines specific actions to combat climate change, such as reducing waste, enhancing resource recovery, and building environmentally sustainable communities. These actions are part of the council's commitment to addressing climate change and its impacts, demonstrating a clear sense of urgency in their approach.",
+      "source": "Wangaratta-a-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "The recent 2020 bushfires are a sharp reminder of how climate change can impact upon our lives, it highlights the risks we face with increased adverse weather events and the urgency required to reduce our greenhouse gas emissions if we are to rise to the challenge of creating a better life for future generations. Climate change is not a distant threat.",
+        "page": 2,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do explicitly call for urgent action on climate change. They highlight the immediate and tangible impacts of climate change, such as the 2020 bushfires, as a stark reminder of the risks we face with increased adverse weather events. The documents also emphasize the urgency required to reduce our greenhouse gas emissions to create a better life for future generations. The policy outlines specific actions to be taken in response to climate change, including the reduction of greenhouse gas emissions, building environmentally sustainable communities, and planning for climate change impacts. The policy also includes a commitment to review and continually update emergency preparedness and response actions, indicating an understanding of the ongoing and urgent nature of the climate crisis.",
+      "source": "Wangaratta-b-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "The recent 2020 bushfires are a sharp reminder of how climate change can impact upon our lives, it highlights the risks we face with increased adverse weather events and the urgency required to reduce our greenhouse gas emissions if we are to rise to the challenge of creating a better life for future generations. Climate change is not a distant threat.",
+        "page": 2,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed call for urgent action on climate change. The local government policy acknowledges the escalating and accelerating changes in the climate due to current warming scenarios. It emphasizes that urgent action is required for the global community to have a chance to stay under 2°C warming to limit the severity of impacts. The policy also recognizes climate change as one of the most pressing social challenges of our time, affecting every country on every continent, and posing significant challenges to ecosystems, communities, and the economy. The policy outlines a range of actions to reduce the impact on the environment and demonstrates a commitment to leadership in this area, which it identifies as a high priority issue.",
+      "source": "Wellington-a-a12345678910.json",
+      "lga": "Wellington",
+      "quote": {
+        "content": "Urgent action is required for our global community to have a chance to stay under 2°C warming to limit the severity of impacts.",
+        "page": 4,
+        "source": "Wellington-Sustainability-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed call for urgent action on climate change. The local government policy acknowledges the escalating and accelerating changes in the climate due to current warming scenarios. It emphasizes that urgent action is required for the global community to have a chance to stay under 2°C warming to limit the severity of impacts. The policy also recognizes climate change as one of the most pressing social challenges of our time, indicating a sense of urgency. Furthermore, the policy outlines a range of actions to reduce the impact on the environment, demonstrating a proactive approach towards addressing climate change. The policy also includes plans to build climate change adaptation awareness and risk assessment into programs and services, indicating a commitment to immediate action.",
+      "source": "Wellington-b-a12345678910.json",
+      "lga": "Wellington",
+      "quote": {
+        "content": "Urgent action is required for our global community to have a chance to stay under 2°C warming to limit the severity of impacts.",
+        "page": 4,
+        "source": "Wellington-Sustainability-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. They highlight the severity and urgency of climate action, emphasizing the need for immediate and collective efforts to limit global warming to 1.5 degrees. The documents reference the Paris Climate Agreement, which calls for a significant reduction in global emissions by 2025. They also mention the UN's call for more ambition to drive deeper cuts in emissions and take drastic action. The documents further outline the local government's Climate Response Strategy and Plan, which includes specific actions and targets to address climate change. These actions are categorized as systemic, mitigation, and adaptation actions, indicating a comprehensive and urgent approach to tackling climate change. The documents also mention the declaration of a Climate Emergency by the Whitehorse City Council, further emphasizing the urgency of the situation.",
+      "source": "Whitehorse-a-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "The UN has \nincreasingly been calling for more ambition to drive deeper cuts in emissions, take \ndrastic action and respond immediately to ensure warming is limited to 1.5 degrees.",
+        "page": 6,
+        "source": "Whitehorse-Climate-Response-Strategy-2023-2030.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. They highlight the severity and urgency of climate action, emphasizing the need for immediate and strong action by all levels of government across the world to rapidly reduce greenhouse gas emissions. The documents also reference the Paris Climate Agreement, which calls for limiting the global average temperature rise in this century to well below two degrees, while attempting to limit the temperature rise to 1.5 degrees above pre-industrial levels. For this to be achieved, global emissions need to be controlled and peak by 2025, then reduce by at least 43 per cent by 2030. The documents also mention the UN's call for more ambition to drive deeper cuts in emissions, take drastic action and respond immediately to ensure warming is limited to 1.5 degrees.",
+      "source": "Whitehorse-b-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "The UN has increasingly been calling for more ambition to drive deeper cuts in emissions, take drastic action and respond immediately to ensure warming is limited to 1.5 degrees.",
+        "page": 6,
+        "source": "Whitehorse-Climate-Response-Strategy-2023-2030.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It acknowledges the unprecedented challenge that climate change presents both globally and locally, and the increasing frequency and severity of extreme weather events. The document emphasizes the need for immediate, rapid, and large-scale reductions in greenhouse gas emissions to limit global warming to 1.5°C or even 2°C. It also highlights that the actions taken in the next decade will shape the future of the community by 2040. The document outlines the council's role in minimizing its own emissions and supporting the community to take climate action. It also mentions the council's plan to ramp up its action by employing best practice emissions accounting and reporting approaches, identifying opportunities to further reduce corporate emissions, and reducing reliance on offsetting by continuing to reduce council's residual emissions.",
+      "source": "Whittlesea-a-a12345678910.json",
+      "lga": "Whittlesea",
+      "quote": {
+        "content": "Our actions in the next decade will shape what a 2040 future will look like for our community. Immediate, rapid and large-scale reductions in greenhouse gas emissions are required to limit warming to 1.5°C or even 2°C.",
+        "page": 7,
+        "source": "Whittlesea-climate-change-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document indeed calls for rapid and urgent action on climate change. It acknowledges the unprecedented challenge that climate change presents both globally and locally, and the increasing frequency and severity of extreme weather events. The document emphasizes the need for immediate, rapid, and large-scale reductions in greenhouse gas emissions to limit global warming to 1.5°C or even 2°C. It also highlights that the actions taken in the next decade will shape the future of the community. The document outlines the council's role in minimizing its own emissions and supporting the community to take climate action. It also mentions the council's plan to ramp up its action by employing best practice emissions accounting and reporting approaches, identifying opportunities to reduce corporate emissions, and using its influence in procurement processes to drive down emissions of delivery partners.",
+      "source": "Whittlesea-b-a12345678910.json",
+      "lga": "Whittlesea",
+      "quote": {
+        "content": "Our actions in the next decade will shape what a 2040 future will look like for our community. Immediate, rapid and large-scale reductions in greenhouse gas emissions are required to limit warming to 1.5°C or even 2°C.",
+        "page": 7,
+        "source": "Whittlesea-climate-change-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The documents highlight the severity of the climate change issue, citing the Intergovernmental Panel on Climate Change (IPCC) report which states that the planet is on track to warm by an estimated 3-4°C, much higher than the 1.5-2°C pledged as part of the Paris agreement. The documents also mention that there is only a 12-year window for 'global warming' to be kept to a maximum of 1.5°C. The documents further emphasize the need for urgent action by stating that the next few years are probably the most important in our history. The local government's policy is to help Victoria reach net zero greenhouse gas emissions by 2050, indicating a commitment to urgent action. The documents also mention that four out of five residents agree that 'climate change is an issue that requires urgent action now.'",
+      "source": "Wyndham-a-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "In October 2018, the Intergovernmental Panel \non Climate Change (IPCC) released the report \nGlobal Warming on 1.5°C... The latest science tells us we need  \nto act urgently.",
+        "page": 9,
+        "source": "Wyndham-2018-Greenhouse-Action.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed call for urgent action on climate change. The documents highlight the critical state of global warming, citing the Intergovernmental Panel on Climate Change (IPCC) report that warns of the planet warming by an estimated 3-4°C, much higher than the 1.5-2°C pledged as part of the Paris agreement. The documents also emphasize the need for immediate action, stating that there are only 12 years left to limit global warming to a maximum of 1.5°C. The documents further underscore the urgency by stating that the next few years are probably the most important in our history. The local government's policy is to help Victoria reach net zero greenhouse gas emissions by 2050, indicating a commitment to urgent action. The documents also reveal that the majority of residents in the Western region believe that urgent action on climate change is required.",
+      "source": "Wyndham-b-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "In October 2018, the Intergovernmental Panel \non Climate Change (IPCC) released the report \nGlobal Warming on 1.5°C... The latest science tells us we need  \nto act urgently.",
+        "page": 9,
+        "source": "Wyndham-2018-Greenhouse-Action.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. The local government policy acknowledges the climate emergency and the need for transformational societal and economic change to rapidly reduce carbon emissions and adapt to living on a hotter planet. The policy outlines the need for large-scale action across all levels of government, businesses, and the community. The policy also emphasizes that the actions of individuals, organizations, or sectors alone cannot resolve the emergency, indicating the urgency and scale of the required response. The policy further states that the current level of planetary heating has reached an emergency condition, requiring urgent intervention. The use of the term 'emergency' in this context underscores the urgency of the situation.",
+      "source": "Yarra-a-a12345678910.json",
+      "lga": "Yarra",
+      "quote": {
+        "content": "It requires large-scale action across all levels of government, businesses and the community  to both cut carbon emissions and adapt to  living on a hotter planet. Transformational change is needed across our society and economy to rapidly reduce carbon emissions and drawdowna emissions from the atmosphere in order to restore a safe climate.",
+        "page": 4,
+        "source": "Yarra-2020-climate-emergency-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed call for rapid and urgent action on climate change. They emphasize the need for 'transformational change' across society and economy to reduce carbon emissions and adapt to a hotter planet. The documents also highlight the need for large-scale action across all levels of government, businesses, and the community. The term 'emergency speed and scale' is used to describe the pace and magnitude of the required response. The documents also stress that incremental change or a business-as-usual response is not adequate to address the climate emergency. The documents further underscore the need for urgent intervention, stating that the current level of planetary heating has reached an emergency condition.",
+      "source": "Yarra-b-a12345678910.json",
+      "lga": "Yarra",
+      "quote": {
+        "content": "Transformational change is needed across our society and economy to rapidly reduce carbon emissions and drawdowna emissions from the atmosphere in order to restore a safe climate.",
+        "page": 4,
+        "source": "Yarra-2020-climate-emergency-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do indeed call for urgent action on climate change. The Yarra Ranges Council acknowledges the scientific evidence for climate change and recognizes the need for immediate action by all levels of government and sectors of the community. The Council has outlined a series of actions to be implemented within the organization, with a focus on reducing greenhouse gas emissions, improving energy efficiency, and adapting to a changing climate. The Council's Liveable Climate Plan and accompanying Action Plan provide a roadmap for achieving these goals. The documents also emphasize the need for annual assessments of the plan's progress, indicating a sense of urgency in monitoring and achieving the outlined climate action goals.",
+      "source": "YarraRanges-a-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "Council recognises that global efforts to reduce greenhouse gas emissions have so far been inadequate, and that we are now in a state of climate change that requires urgent action by all levels of government and all sectors of the community.",
+        "page": 10,
+        "source": "YarraRanges-2020-liveable-climate-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do indeed call for urgent action on climate change. The Yarra Ranges Council acknowledges the scientific evidence for climate change and recognizes the need for urgent action by all levels of government and sectors of the community. The Council has outlined a series of actions to be implemented within the organization to mitigate the risks of climate change. These actions include improving monitoring and reporting of corporate energy use and greenhouse gas emissions, conducting a 'whole of organization' review on current oil and other fossil fuel needs, and improving communication of knowledge across the organization in science, policy, and regulatory change related to energy and climate. The Council also plans to profile the risks of Yarra Ranges to determine service needs in a changing climate and energy future. The urgency of these actions is underscored by the Council's recognition of the immediate and long-term impacts of climate change on the community and the environment.",
+      "source": "YarraRanges-b-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "Council recognises that global efforts to reduce greenhouse gas emissions have so far been inadequate, and that we are now in a state of climate change that requires urgent action by all levels of government and all sectors of the community.",
+        "page": 10,
+        "source": "YarraRanges-2020-liveable-climate-plan.pdf",
+        "search_score": 1
+      }
+    }
+  ]
+}

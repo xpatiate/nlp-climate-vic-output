@@ -1,0 +1,304 @@
+{
+  "settings": {
+    "source_files": [
+      "Stonnington-2021-Climate-Emergency-Action-Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-14T14:40:15.928650",
+    "lga": "Stonnington"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The core purpose of the policy, as outlined in the Stonnington 2021 Climate Emergency Action Plan, is indeed climate action. The policy is designed to address the global climate emergency through immediate and urgent action. It outlines the local government's climate adaptation and mitigation priorities, with a focus on reducing greenhouse gas emissions and preparing the city and community for a changing climate. The policy also includes a commitment to review and update the action plan in 2024, taking into account new policies, technology, and stakeholder feedback. This demonstrates a sustained commitment to climate action. Furthermore, the policy acknowledges the council's responsibility to act on climate change and lead local action, contributing to the global effort. This is indicative of the policy's core purpose being climate action."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They emphasize the urgency of the situation, referring to it as a 'global climate emergency' that requires 'immediate and urgent action'. The documents also highlight the local impacts of climate change, including effects on the environment, human health, and the local economy. The Climate Emergency Action Plan is presented as a response to this urgent need, outlining the local government's climate adaptation and mitigation priorities. The plan is aimed at reducing greenhouse gas emissions, preparing the city and community for a changing climate, and embedding climate emergency response throughout the organization. The documents also note the responsibility of the local government to lead local action on climate change.",
+          "quote": {
+            "content": "We need to act, before it is too late. We are in the midst of a global climate emergency and we need to act now. While climate change is a global issue, it has local impacts, affecting our environment, economy and the health and wellbeing of our community.",
+            "page": 4,
+            "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly calls for rapid and urgent action on climate change. It repeatedly emphasizes the need for immediate action, stating that we are in the midst of a global climate emergency that requires urgent response. The document outlines the local government's Climate Emergency Action Plan, which is designed to address the climate crisis through immediate and urgent action. The plan includes specific priorities and steps for action, demonstrating a clear commitment to rapid response. The document also notes that the plan will be reviewed in 2024, indicating an ongoing commitment to urgency and adaptability in response to the evolving climate crisis.",
+          "quote": {
+            "content": "We need to act, before it is too late. We are in the midst of a global climate emergency and we need to act now. While climate change is a global issue, it has local impacts, affecting our environment, economy and the health and wellbeing of our community.",
+            "page": 4,
+            "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a Climate Emergency Action Plan for the years 2021-2024, indicating a clear timeframe for the implementation of the plan. The document also mentions that many of the actions are already underway across the organization. Furthermore, it specifies that in 2024, the Council will undertake a review of the action plan and the climate emergency response to update the plan. This suggests a commitment to ongoing action and review beyond the initial four-year period. The document also includes a detailed action plan with specific actions, their timeframes, and funding details. For instance, it mentions that the review and update of existing strategies, policies, and plans with the Council’s climate emergency response commitments will take place in years 1-2."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing the climate emergency, they do not provide a clear hierarchy of policy priorities. The documents detail the local government's plan to embed climate emergency response into all Council strategies, policies, and plans, and into Council operations and service delivery. They also mention the establishment of a Climate Emergency Advisory Committee and the intention to educate Council staff on climate change and its impacts. However, these actions suggest integration and consideration of climate emergency response within the existing policy framework, rather than prioritization over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents clearly state that all council activities must be aligned with climate policy. The council's Climate Emergency Action Plan outlines a comprehensive approach to addressing climate change, which includes embedding climate emergency response into all council strategies, policies, and plans. This is further emphasized by the commitment to incorporate climate emergency considerations into decision-making documentation, including council reports and internal briefing papers. The plan also includes educating council staff on climate change and its impacts, indicating an intention to ensure that all council operations and service delivery are informed by an understanding of the climate emergency. The council's commitment to a 'whole-of-Council response' further underscores the intention to integrate climate action across all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Climate Emergency Action Plan 2021-2024 of the local government does explicitly allocate funding for climate action. The plan outlines various actions related to climate change, each with a specified timeframe, funding source (new or existing), and cost range. For instance, the plan includes actions such as 'Embed Council’s climate emergency commitment in the next iteration of its Council Plan and Municipal Public Health and Wellbeing Plan' and 'Incorporate climate emergency considerations into decision-making documentation'. These actions are marked as having 'existing' funding, indicating that resources have been allocated. However, the documents do not provide specific monetary values or percentages of the budget allocated to these actions. The cost ranges are given in broad categories such as low ($0-$50k), medium ($50k-$250k), and high (>$250k). Therefore, while the plan does allocate funding for climate action, the exact amounts are not specified.",
+          "quote": {
+            "content": "» Embed Council’s climate emergency commitment in the next iteration of its Council Plan and Municipal Public Health and Wellbeing Plan, including strategic priorities and actions.",
+            "page": 44,
+            "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Stonnington 2021 Climate Emergency Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines a whole-of-Council approach to climate action, which includes the establishment of an internal Climate Oversight Committee with key decision-makers to support the integration of climate emergency response into Council decision-making. This indicates a clear allocation of staff resources to climate action. Additionally, the plan includes the development of a tailored climate action plan for each internal division to support climate response throughout the organisation, which suggests a broad institutional commitment to climate action. The plan also outlines the development and delivery of a climate change education and engagement program for Council staff, which represents an investment of non-monetary institutional resources in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is actively working to empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a whole-of-Council response, which includes educating and engaging Council staff to understand the climate emergency and support them to take climate action in their roles. The policy also emphasizes the importance of community partnerships and alliances with key stakeholders to progress Council’s climate emergency commitments and response. The community is also involved in the planning process, with the policy stating that the community's highest priorities for Council action on climate change include city greening and cooling, sustainable transport, and reducing waste. The community is also planning to take actions such as reducing waste, increasing knowledge, driving less, and switching to renewable energy. This suggests a concerted effort to mobilize the community towards climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate Emergency Action Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a focus on both technological solutions and behaviour change. Technological solutions are evident in the plan's commitment to reduce the burning of fossil fuels, such as coal used to power buildings and fuels used in transport. The plan also mentions the reduction of methane produced when organic matter decomposes. Behaviour change is encouraged through the plan's commitment to build climate emergency awareness both internally and externally, and through the inclusion of climate emergency information in Council communications. The plan also outlines actions to reduce energy use and strengthen community resilience. Furthermore, the plan includes a commitment to review and update its actions in 2024, taking into account new policies, technology, and stakeholder feedback."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines three key areas of focus: increasing urban greening, creating a climate-ready built environment, and fostering a resilient, connected community. The plan also includes specific actions such as incorporating climate change considerations into project bids, identifying climate adaptation opportunities in asset management strategies, and selecting plant and tree species that can withstand changing climatic conditions. Furthermore, the plan emphasizes the importance of community engagement and awareness in addressing the climate emergency. These actions demonstrate a comprehensive approach to climate adaptation and resilience, encompassing both physical and social aspects of the community.",
+          "quote": {
+            "content": "Council action to ensure our city adapts and thrives in a changing climate will focus on three key areas: 1 — Increase urban greening and cool our city 2 — Climate-ready built environment 3 — A resilient, connected community.",
+            "page": 25,
+            "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a series of actions to be taken in response to the climate emergency, it does not provide specific evidence or sources to justify these actions. The policy does mention the use of 'best available information on the impacts of climate change' and the consideration of 'short, medium and long term impacts of climate change' in decision-making. However, it does not detail what this information is, where it comes from, or how it informs the specific actions outlined. The policy also mentions a commitment to report annually on progress and to review the action plan in 2024, but again, it does not provide specific evidence or sources to justify the targets and actions set."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Climate Emergency Action Plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines priority actions that the Council will focus on over the next four years to reduce greenhouse gas emissions, prepare the city and community for a changing climate, and embed climate emergency response throughout the organization. The plan also includes a provision for a review in 2024 to assess the progress and effectiveness of the actions taken. This review will consider new policies, technology, and feedback from stakeholders. Furthermore, the plan includes a commitment to report annually on the Council's progress on the actions in the Climate Emergency Action Plan and the strategic objectives outlined in the Sustainable Environment Strategy 2018–2023. This ongoing reporting will provide measurable data to evaluate the success of the plan's actions.",
+          "quote": {
+            "content": "The updated plan will include a review of new policies, technology and feedback from stakeholders.",
+            "page": 29,
+            "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do indicate that the local government has plans to conduct research in the local community to inform climate actions. The government has already sought thoughts and ideas from the community through surveys, forums, and ideas boards, indicating a commitment to community engagement and research. The key themes from this consultation include a range of climate-related concerns and priorities, such as transitioning to electric vehicles, planting more trees, and increasing education and engagement for the community. This suggests that the government is using community input to inform its climate action plan. Furthermore, the documents mention that the government will review its action plan in 2024, which may involve further research and consultation with the community. Therefore, the documents provide clear evidence that the local government is planning for informed action by conducting research in the local community.",
+          "quote": {
+            "content": "We heard that our community is concerned about climate change and they are keen to see Council action.",
+            "page": 15,
+            "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The Climate Emergency Action Plan outlined by the local government does demonstrate a commitment to addressing climate change and reducing emissions. It outlines a series of actions and steps for immediate and urgent action on climate change over the coming years. However, the specifics of these actions are not detailed in the provided documents. The plan also mentions the integration of climate emergency considerations into decision-making processes and project planning. However, these actions seem to be more about integrating climate considerations into existing processes rather than experimenting with innovative policies or approaches. Therefore, while the local government's commitment to climate action is evident, there is no clear evidence of policy experimentation or innovative approaches in the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state an intent to advocate upward to state and national governments to support climate action. While the policy does mention the importance of partnerships and alliances with key stakeholders and groups to progress Council’s climate emergency commitments and response, it does not specify advocacy towards state and national governments. The policy also outlines the importance of a whole-of-Council approach and the need to work together with the community, local businesses, and other key partners. However, these references do not explicitly include advocacy to higher levels of government. Therefore, based on the provided documents, it cannot be conclusively stated that there is an explicit intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a 'whole-of-Council' response to the climate emergency, which involves embedding climate action across all council activities and services. The council also plans to educate and engage its staff to understand the climate emergency and support them in taking climate action in their roles. Furthermore, the policy emphasizes the importance of developing partnerships to maximize the effectiveness of its climate emergency response. This includes partnerships with the local community, neighbouring councils, and all levels of government. The policy also mentions the council's intention to work with key community groups to expand its reach, particularly with vulnerable community members. Therefore, the policy does encourage building local capacity for climate action.",
+          "quote": {
+            "content": "Developing partnerships will be a key way for Council to maximise the effectiveness of its climate emergency response. Our strategies, policies and services will be developed and delivered through a climate change lens.",
+            "page": 28,
+            "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. The policy outlines a plan to advance partnerships, alliances, and collaborative initiatives with key stakeholders and groups to progress the Council’s climate emergency commitments and response. The document specifically mentions the Eastern Alliance for Greenhouse Action and the Council Alliance for a Sustainable Built Environment (CASBE) as partners in this endeavor. These partnerships are crucial for the local government to effectively address climate change, as they provide a platform for sharing resources, knowledge, and best practices. The policy also mentions the M9 partnership, Climate Emergency Australia, and various community groups, businesses, and trader associations as partners, indicating a broad and inclusive approach to climate action.",
+          "quote": {
+            "content": "» All Council » Open Space and Environment » Local councils » Eastern Alliance for Greenhouse Action » Council Alliance for a Sustainable Built Environment (CASBE) » Climate Emergency Australia » M9 partnership » Stonnington community » Community groups » Stonnington businesses » Stonnington trader associations",
+            "page": 47,
+            "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.9
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The policy outlines specific actions to support vulnerable residents, including older people and those living in social and public housing, to prepare for and cope with the impacts of climate change. This includes extreme weather events such as storms, floods, and heatwaves. The policy also plans to establish a network of local heat refuges for the most vulnerable residents. Furthermore, the policy aims to work with community organizations to build their capacity to prepare for and respond to climate impacts and support their communities. These actions demonstrate a clear recognition of the differential impacts of climate change on vulnerable communities and a commitment to addressing these impacts in a manner that promotes equity and social justice.",
+          "quote": {
+            "content": "most vulnerable \nresidents, including older people and people living in social and public \nhousing, to prepare and cope with the impacts of climate change \nincluding extreme weather such as storms and floods as well as \nheatwaves.",
+            "page": 41,
+            "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention actions to increase climate change awareness, incorporate climate change considerations into decision-making, and ensure sustainable finance and purchasing decisions, it does not provide specific strategies or actions on how the benefits and opportunities of a safe climate will be shared equitably. The policy does mention actions to support vulnerable residents in preparing for and coping with the impacts of climate change, but this is more about adaptation and resilience rather than sharing the benefits and opportunities of a safe climate. Therefore, the question cannot be answered positively based on the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 15,
+    "num_questions": 20,
+    "attribute_score": 81.7
+  }
+}

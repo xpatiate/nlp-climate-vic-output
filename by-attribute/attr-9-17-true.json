@@ -1,0 +1,1222 @@
+{
+  "attribute": 10,
+  "question": 17,
+  "finding": true,
+  "num": 130,
+  "responses": [
+    {
+      "answer": "The documents clearly indicate that the City of Ballarat is committed to building local capacity for climate action across various sectors. The policy encourages the active participation of the community, businesses, and community groups in reducing emissions and driving change on the ground. The policy also emphasizes the importance of cross-sectoral collaboration and a clear and unified strategic direction. The City of Ballarat is expected to lead and/or facilitate most actions outlined in the plan, but the plan is designed to be implemented in partnership with the community. The policy also mentions the role of the City of Ballarat in influencing action beyond its control through advocacy and leadership. Therefore, it can be inferred that the policy encourages building local capacity across the council, their local communities, and potentially neighbouring local councils for climate action.",
+      "source": "Ballarat-a-a12345678910.json",
+      "lga": "Ballarat",
+      "quote": {
+        "content": "It is the Ballarat community including individuals, businesses, and community groups that will be driving change on the ground. While City of Ballarat is expected to lead and/or facilitate most actions outlined in this plan, the plan is designed to be implemented in partnership with the community.",
+        "page": 10,
+        "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly encourage building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The City of Ballarat's Net Zero Emissions Plan outlines a collaborative approach to achieving its climate goals. The plan emphasizes the importance of cross-sectoral collaboration and a clear and unified strategic direction. It also highlights the role of the community in reducing emissions, stating that the plan is designed to be implemented in partnership with the community. The document mentions that the City of Ballarat will support and/or facilitate most actions outlined in the plan, but it is the community, including individuals, businesses, and community groups, that will be driving change on the ground. While the document does not explicitly mention neighbouring local councils, the emphasis on collaboration and partnership suggests that they could be included in these efforts.",
+      "source": "Ballarat-b-a12345678910.json",
+      "lga": "Ballarat",
+      "quote": {
+        "content": "It is the Ballarat community including individuals, businesses, and community groups that will be driving change on the ground. While City of Ballarat is expected to lead and/or facilitate most actions outlined in this plan, the plan is designed to be implemented in partnership with the community.",
+        "page": 10,
+        "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a collaborative approach, emphasizing the role of every person in the council in achieving their carbon neutrality target. It also mentions the establishment of a Climate Action Steering Committee to guide the implementation of new climate action projects and increase collaboration between lead departments. Furthermore, the policy highlights the need for a cultural change program across the council, embedding climate action as a responsibility of all staff. This indicates an effort to build capacity within the council. However, the documents do not provide specific details on how the council plans to build capacity in their local communities and neighbouring local councils.",
+      "source": "Banyule-a-a12345678910.json",
+      "lga": "Banyule",
+      "quote": {
+        "content": "We are taking a collaborative approach, working across our departments, as well as closely with our community and other Councils in the region. We recognise that reaching our carbon neutrality target is both a cultural and technical task. We recognise that reaching our carbon neutrality target is both a cultural and technical task. Everyone in Council plays a part.",
+        "page": 4,
+        "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a collaborative approach, emphasizing the role of all staff members in climate action and fostering collaboration and innovation across the organization. It also mentions the establishment of a Climate Action Steering Committee to guide the implementation of new climate action projects and increase collaboration between lead departments. Furthermore, the policy encourages a culture change program across the council, embedding climate action as an all-staff responsibility. This approach is indicative of an effort to build capacity within the council itself. However, the documents do not provide specific details on how the council plans to build capacity within local communities and neighbouring councils.",
+      "source": "Banyule-b-a12345678910.json",
+      "lga": "Banyule",
+      "quote": {
+        "content": "We are taking a collaborative approach, working across our departments, as well as closely with our community and other Councils in the region. We recognise that reaching our carbon neutrality target is both a cultural and technical task. We recognise that reaching our carbon neutrality target is both a cultural and technical task. Everyone in Council plays a part.",
+        "page": 4,
+        "source": "Banyule-2023-Actions-for-Net-Zero-Emissions.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a partnership approach to implementing the action plan, which includes direct delivery by the council, government partnerships, community partnerships, and community funding. The council is committed to working with community groups and organisations to deliver actions. The policy also mentions the council's intention to advocate to state and federal governments for stronger climate action. Furthermore, the council plans to empower community groups to respond to climate impacts affecting their area of interest. The policy also outlines a governance structure to strengthen accountability and transparency, which includes establishing a representative forum for the community to provide advice to the council on community climate change issues, action implementation, and program development.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "Given this finding, Council is committed to delivering actions through the following mechanisms: Direct delivery by Council. There was also a desire from individuals to collaborate with Council.",
+        "page": 47,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a partnership approach to implementing the action plan, which includes direct delivery by the council, government partnerships, community partnerships, and community funding. The council is committed to working with community groups and organisations to deliver actions. The policy also mentions the council's intention to advocate to State and Federal Government for climate action, indicating a willingness to collaborate with other levels of government. Furthermore, the policy outlines plans to empower community groups to respond to climate impacts and to equip residential, community groups, and business owners to have and normalise climate change conversations within their networks. This demonstrates a clear intention to build local capacity for climate action.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast",
+      "quote": {
+        "content": "Given this finding, Council is committed to delivering actions through the following mechanisms: Direct delivery by Council. There was also a desire from individuals to collaborate with Council.",
+        "page": 47,
+        "source": "BassCoast-2021-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a holistic approach to addressing the climate emergency, with each area responsible for actions invested in delivering their part of the plan. The council is taking a leadership role in ensuring the health, safety, and resilience of their community. The policy also highlights the importance of partnerships and collaboration, with the council working alongside neighbouring councils through the South East Councils Climate Change Alliance and other Victorian Greenhouse Alliances. The policy also outlines specific actions to engage the community, such as establishing a coordinated program of community awareness, education, engagement, and behaviour change initiatives, and providing in-kind support for action led by community groups.",
+      "source": "Bayside-a-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "It is clear that actions to address the Climate Emergency must expand beyond the organisational boundary and be met with response and commitment from the community, businesses, neighbouring councils and other tiers of government. As Council becomes carbon neutral for its operations from 2020, we acknowledge the inherent limitations of having direct control over greenhouse gas emissions beyond our operations.",
+        "page": 48,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is encouraging the building of local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a holistic approach to addressing the climate emergency, with each area responsible for actions being invested in the delivery of their part of the plan. The council is taking a leadership role in ensuring the health, safety, and resilience of their community. The policy also mentions the South East Councils Climate Change Alliance, indicating collaboration with neighbouring councils. Furthermore, the policy outlines actions such as supporting local food production, providing in-kind support for community groups responding to the climate emergency, and establishing a coordinated program of community awareness, education, engagement, and behaviour change initiatives.",
+      "source": "Bayside-b-a12345678910.json",
+      "lga": "Bayside",
+      "quote": {
+        "content": "It is clear that actions to address the Climate Emergency must expand beyond the organisational boundary and be met with response and commitment from the community, businesses, neighbouring councils and other tiers of government. As Council becomes carbon neutral for its operations from 2020, we acknowledge the inherent limitations of having direct control over greenhouse gas emissions beyond our operations.",
+        "page": 48,
+        "source": "Bayside-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The Goulburn Broken Greenhouse Alliance, established in 2007, is a regional initiative that supports climate action. The Benalla Rural City Council is a member of this alliance, along with other councils in the Goulburn Broken catchment. The alliance's strategic plan outlines its focus on training, partnerships, and information provision, which are key elements in building local capacity. The alliance has undertaken projects such as the development of a regional Climate Change Adaptation Plan, which involved member councils in a climate impact risk assessment exercise. This indicates a clear effort to build capacity across multiple councils. Furthermore, the council's Environment Strategy includes an Action Plan that identifies specific outcomes and actions, including the implementation of the Climate Change Adaptation Action Plan, which is to be integrated with relevant actions recommended by the Goulburn Broken Greenhouse Alliance.",
+      "source": "Benalla-a-a12345678910.json",
+      "lga": "Benalla",
+      "quote": {
+        "content": "Benalla Rural City Council is a member of the Alliance along with a number of other Councils in the Goulburn Broken catchment, and has been involved in the projects undertaken as part of the Alliance. The Goulburn Broken Greenhouse Alliance was established in 2007 to support regional climate action. Their current Strategic Plan outlines how this will be achieved, focussing on training, partnerships, and information provision.",
+        "page": 35,
+        "source": "Benalla-Environment_Strategy_2016_20.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The Goulburn Broken Greenhouse Alliance, established in 2007, is a clear example of this. The Alliance, which includes the Benalla Rural City Council and other councils in the Goulburn Broken catchment, focuses on regional climate action through training, partnerships, and information provision. The Alliance has undertaken projects such as the development of a regional Climate Change Adaptation Plan, which involved member councils in a climate impact risk assessment exercise. This indicates a clear effort to build capacity across multiple councils. Furthermore, the documents mention the implementation of a Climate Change Adaptation Action Plan, which is to be updated every five years and integrated with relevant actions recommended by the Goulburn Broken Greenhouse Alliance. This suggests an ongoing commitment to building local capacity for climate action.",
+      "source": "Benalla-b-a12345678910.json",
+      "lga": "Benalla",
+      "quote": {
+        "content": "Benalla Rural City Council is a member of the Alliance along with a number of other Councils in the Goulburn Broken catchment, and has been involved in the projects undertaken as part of the Alliance. The Goulburn Broken Greenhouse Alliance was established in 2007 to support regional climate action. Their current Strategic Plan outlines how this will be achieved, focussing on training, partnerships, and information provision.",
+        "page": 35,
+        "source": "Benalla-Environment_Strategy_2016_20.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines several actions that align with this goal. For instance, the policy includes plans to implement the Sustainable Council Building Policy to enhance the environmental performance of Council buildings, which demonstrates an effort to build capacity within the council itself. The policy also outlines plans to respond to calls for submissions and advocate on matters that align with Climate Action Plan objectives, indicating a commitment to advocacy and partnership. Furthermore, the policy includes plans to continue participation in the Eastern Alliance for Greenhouse Action, which suggests a commitment to partnerships with neighbouring local councils. The policy also outlines plans to provide the community with access to Climate Action Grants for new projects, services, programs, and activities that strengthen the community’s capacity to reduce emissions and adapt to the impacts of climate change, indicating a commitment to building capacity within the local community.",
+      "source": "Boroondara-a-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "Respond to calls for submissions and advocate on matters that align with Climate Action Plan objectives as appropriate.",
+        "page": 15,
+        "source": "Boroondara-Climate-Action-Plan-Implementation_plan.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines several actions that align with this goal. For instance, the policy includes actions such as implementing the Sustainable Council Building Policy to enhance the environmental performance of Council buildings, responding to calls for submissions and advocating on matters that align with Climate Action Plan objectives, and continuing to participate in the Eastern Alliance for Greenhouse Action. These actions demonstrate a commitment to improving the council's own capacity for climate action. Furthermore, the policy also includes actions aimed at building capacity in the local community, such as providing the community with access to Climate Action Grants, delivering an expanded community education and advice program, and collaborating with other councils to develop and deliver an energy efficiency information service for the community. These actions show a clear intent to build local capacity for climate action.",
+      "source": "Boroondara-b-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "Deliver an expanded community education and advice program including conducting a feasibility assessment for an onsite demonstration venue.",
+        "page": 13,
+        "source": "Boroondara-Climate-Action-Plan-Implementation_plan.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, their local communities, and neighbouring local councils for climate action. The Climate Change Adaptation Framework outlines a proactive approach to climate change adaptation, which includes collaboration with the community, other councils, and other levels of government. The framework also emphasizes the need for partnerships with key agencies and other levels of government to effectively adapt at the appropriate scale. The documents also highlight the importance of community engagement in developing and delivering educational programs on the impacts of climate change and how to prepare for them. This includes targeted initiatives for vulnerable community members and culturally and linguistically diverse (CALD) communities. The documents also mention the need for advocacy and partnership opportunities for the council in relation to climate change adaptation.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "Council will collaborate with our community, with other councils and other levels of government, the private sector and other institutions to identify and deliver on local adaptation priorities.",
+        "page": 4,
+        "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, their local communities, and neighbouring local councils for climate action. The Climate Change Adaptation Framework outlines a proactive approach to climate change adaptation, which includes collaboration with the community, other councils, and other levels of government. The Framework also highlights the need for partnerships with key agencies and other levels of government to effectively adapt at the appropriate scale. The documents also mention the need for community engagement initiatives, including educational programs to raise awareness of climate impacts and how to prepare. The local government also plans to integrate climate change adaptation principles into their broader policy environment to ensure a cohesive response. This includes updating Council’s response plans to emergency events and developing and delivering locally-appropriate adaptation responses.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank",
+      "quote": {
+        "content": "Council will collaborate with our community, with other councils and other levels of government, the private sector and other institutions to identify and deliver on local adaptation priorities.",
+        "page": 4,
+        "source": "Brimbank-Climate-Change-Adaptation-Framework.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. It outlines a range of actions that involve various stakeholders, including the council, community, and other partners. For instance, the council plans to provide professional development training to planning staff on how to educate residents on climate-ready developments. It also aims to encourage community participation in schemes and programs that help them understand their energy bills and seek advice on reducing energy consumption. Furthermore, the council plans to advocate for equitable access to insurance and policies which include climate considerations, and to promote the uptake of Council’s Sustainability Grant Program. However, while the document mentions collaboration with partners, it does not explicitly mention neighbouring local councils.",
+      "source": "Buloke-a-a12345678910.json",
+      "lga": "Buloke",
+      "quote": {
+        "content": "• Provide professional development training to planning staff on how to educate residents on climate ready developments.",
+        "page": 3,
+        "source": "Buloke-2021-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. It outlines a variety of actions that aim to integrate climate considerations into council operations, such as including climate scenarios and risk profiles in councillor briefing packs and staff induction, and providing professional development training to planning staff on climate-ready developments. The document also emphasizes the importance of community involvement, encouraging community participation in schemes and programs that help them understand their energy bills and make their buildings more resilient. It also advocates for equitable access to insurance and policies which include climate considerations. However, the document does not explicitly mention coordination with neighbouring local councils.",
+      "source": "Buloke-b-a12345678910.json",
+      "lga": "Buloke",
+      "quote": {
+        "content": "• Measure baseline corporate and community \nemissions in line • Ensure climate mitigation and adaptation is \nrepresented in all relevant documents, policies and \nprocedures. Continue reporting on sustainability \nimplications in Reports to Council. • Develop climate mitigation and adaptation \nguidance through the local planning scheme. • Provide professional development training to \nplanning staff on how to educate residents on \nclimate ready developments. • Use the How Well Are We Adapting tool to \nmonitor impacts of climate change on Council \nservices and develop responses.",
+        "page": 3,
+        "source": "Buloke-2021-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy outlines a comprehensive approach to climate change, including mitigation, adaptation, and planning for climate change risks. It emphasizes the importance of leading by example, supporting the community, business, and industry to respond to climate impacts, and promoting sustainable and affordable energy options. The policy also highlights the importance of partnerships with other agencies, government departments, businesses, and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. Furthermore, the policy encourages supporting community groups to undertake projects to benefit the local environment and reduce the impacts of climate change through the Community Grants program. This indicates a clear commitment to building local capacity for climate action.",
+      "source": "Campaspe-a-a12345678910.json",
+      "lga": "Campaspe",
+      "quote": {
+        "content": "Support community groups to undertake projects to benefit our local environment and reduce the impacts of climate change through the Community Grants program.",
+        "page": 26,
+        "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents explicitly encourage building local capacity across the council, local communities, and neighboring local councils for climate action. The council acknowledges the importance of partnering with other agencies, government departments, businesses, industry bodies, and the community to deliver projects and solutions to challenges faced, including climate change. The council also chooses to lead by example in responding and adapting to climate change, supporting the community, business, and industry to respond to the impacts of a changing climate. The council also plans to continue partnering with other agencies, government departments, businesses, and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. Furthermore, the council chooses to strengthen the relationship with Traditional Owners and continue to work together on natural resource management programs. The council also supports community groups to undertake projects to benefit the local environment and reduce the impacts of climate change through the Community Grants program.",
+      "source": "Campaspe-b-a12345678910.json",
+      "lga": "Campaspe",
+      "quote": {
+        "content": "Continue to partner with other agencies, government departments, businesses and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. Council chooses to: Lead by example in responding and adapting to climate change. Support community, business and industry to respond to the impacts of a changing climate.",
+        "page": 21,
+        "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The Cardinia Shire Council's Climate Change Adaptation Plan outlines a series of actions aimed at addressing climate change risks and fostering resilience. These actions include advocating for climate change adaptation initiatives from all levels of government, raising community awareness, and increasing preparedness for climate hazards. The plan also mentions the creation of a Climate Resilience Officer role, indicating an institutional commitment to building capacity within the council. Furthermore, the plan emphasizes the importance of partnerships, with several actions involving collaboration with partner organizations and intergovernmental agencies. The documents also highlight the role of local government in providing leadership, representing community needs, and fostering community cohesion in the face of climate change.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "Advocate for climate change adaptation \ninitiatives from all levels of government that \nincreases resilience to climate change \nOngoing \n2023-24 \nEnvironment and \nHeritage \nArts, Advocacy and \nEconomy \n \n \n \n \n \n \nSubject to \ncreation of \nclimate \nresilience \nofficer 47.",
+        "page": 8,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy___Action_plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The Cardinia Shire Council's Climate Change Adaptation Plan outlines a series of actions aimed at addressing climate change risks and building resilience. These actions include advocating for climate change adaptation initiatives from all levels of government, raising community awareness, and increasing preparedness for climate hazards. The plan also mentions the creation of a Climate Resilience Officer role, which suggests an effort to build capacity within the council itself. Furthermore, the plan emphasizes the importance of partnerships with other organizations and the community in addressing climate change risks. However, there is no explicit mention of coordination with neighbouring local councils.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "Advocate for climate change adaptation \ninitiatives from all levels of government that \nincreases resilience to climate change \nOngoing \n2023-24 \nEnvironment and \nHeritage \nArts, Advocacy and \nEconomy \n \n \n \n \n \n \nSubject to \ncreation of \nclimate \nresilience \nofficer 47.",
+        "page": 8,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy___Action_plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan indeed encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy emphasizes the importance of a partnership approach, involving various stakeholders such as community leaders, schools, health organizations, farmers, industry, business, and regional agencies. This approach is aimed at creating a meaningful impact on emissions reduction and adaptation to local climate challenges. The policy also highlights the role of advocacy in achieving climate action goals and influencing broader systemic changes. Furthermore, the policy outlines plans for community education, collaboration, and mobilization, including the provision of seed funding for community-led action and the development of a climate-focused education program. While the policy does not explicitly mention neighbouring local councils, the emphasis on collaboration and partnerships suggests a potential for engagement with these entities.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields"
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan explicitly encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy emphasizes the importance of partnerships and collaboration in achieving climate action goals. It mentions the need for a partnership approach involving various stakeholders, including community leaders, community services, schools, health organizations, farmers, industry, business, and regional agencies. The policy also highlights the role of advocacy in seeking investment from state and commonwealth governments for initiatives and developments that are needed and wanted by communities. Furthermore, the policy outlines plans for community education, collaboration, and mobilization, including the provision of seed funding to support community-led action. The policy also mentions the development of a climate-focused education program and support for community groups working with various populations to build climate action capacity.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields"
+    },
+    {
+      "answer": "The documents clearly indicate that the local government policy encourages building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to leadership, partnerships, and advocacy, with a focus on empowering the council and communities to implement climate solutions. It emphasizes the importance of collaboration with other organizations, governments, businesses, and the community to share knowledge and resources, develop and implement climate change solutions, and amplify the impact of these solutions. The policy also outlines specific actions such as partnering across the region and government sector to deliver on climate change initiatives through a collaborative approach, and advocating for Environmentally Sustainable Design (ESD) and climate change adaptation and mitigation principles. These actions demonstrate a clear intent to build local capacity for climate action.",
+      "source": "ColacOtway-a-a12345678910.json",
+      "lga": "ColacOtway",
+      "quote": {
+        "content": "Through this focus area, Council will develop and foster partnerships with leaders, stakeholders and communities across the region.",
+        "page": 19,
+        "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to leadership, partnerships, and advocacy, with a focus on empowering the council and communities to implement climate solutions. It emphasizes the importance of collaboration with other organizations, governments, businesses, and the community to share knowledge and resources, develop and implement climate change solutions, and amplify the impact of climate solutions. The policy also outlines specific actions such as partnering across the region and government sector to deliver on climate change initiatives through a collaborative approach, and advocating for Environmentally Sustainable Design (ESD) and climate change adaptation and mitigation principles. These actions demonstrate a clear commitment to building local capacity for climate action.",
+      "source": "ColacOtway-b-a12345678910.json",
+      "lga": "ColacOtway",
+      "quote": {
+        "content": "Through this focus area, Council will develop and foster partnerships with leaders, stakeholders and communities across the region.",
+        "page": 19,
+        "source": "ColacOtway-Shire-Council-Climate-Change-Action-Plan-Draft-20230526.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a commitment to working with the community and other stakeholders to develop locally specific adaptation responses to climate variability. It also mentions the importance of increasing community understanding of local climate variability impacts, vulnerability, and adaptation through the provision of information and local initiatives. Furthermore, the policy highlights the role of collaboration with agencies, industry, research institutes, and the community to fill knowledge gaps and identify climate impacts to the local environment, community, and economy. While the documents do not explicitly mention neighbouring local councils, the emphasis on collaboration and partnership suggests a broader approach to climate action that could include neighbouring councils.",
+      "source": "Corangamite-a-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a commitment to working with the community and other stakeholders to develop locally specific adaptation responses to climate variability. It also emphasizes the importance of increasing community understanding of local climate variability impacts, vulnerability, and adaptation through the provision of information and local initiatives. Furthermore, the policy advocates for support such as increased research, information, and investment to develop local adaptation responses to climate variability. The policy also mentions collaboration with agencies, industry, research institutes, and the community to fill knowledge gaps and identify climate impacts to the local environment, community, and economy. While the documents do not explicitly mention neighbouring local councils, the emphasis on collaboration and partnership suggests a potential for such relationships.",
+      "source": "Corangamite-b-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The documents clearly indicate that the local government policy encourages building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a strategic approach to climate action that involves partnerships and collaborations with external partners, other councils, and community organisations. The policy also emphasises the importance of advocacy in accelerating climate action at the state and national levels. The policy further highlights the role of the council in leading by example, fostering innovation, and maximising impact through strategic climate advocacy and partnerships across all sectors. The policy also outlines specific actions to be undertaken to reach their goals, which include engaging the community, supporting community groups, and working with other councils and organisations. Therefore, the policy not only encourages but also provides a clear framework for building local capacity for climate action.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "4.3.1 Lead, contribute to and make new key alliances/networks and cross-sector partnerships",
+        "page": 19,
+        "source": "Darebin-Draft_Climate_Emergency_Plan_2024-2030.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government policy encourages building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to fostering innovation and maximizing impact through strategic climate advocacy and partnerships across all sectors. It also emphasizes the importance of collaboration with external partners for a place-based, replicable model to create a low-emissions, climate-resilient neighbourhood. The policy also highlights the importance of advocacy and partnerships in accelerating climate action across the state and country. Furthermore, the policy outlines the council's role in supporting the community through grants and provision of venues, and partnering with groups on relevant campaigns. The policy also encourages the council to seek partnership opportunities with the Victorian and Australian governments for innovative programs that align with Council priorities.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "4.3.1 Lead, contribute to and make new key alliances/networks and cross-sector partnerships",
+        "page": 19,
+        "source": "Darebin-Draft_Climate_Emergency_Plan_2024-2030.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity for climate action across the council, their local communities, and neighbouring local councils. The council plans to educate and engage its staff, tenants, and the broader community in energy efficiency, renewable energy technologies, and sustainable living initiatives. This is aimed at fostering a culture of environmental responsibility and demonstrating leadership in this area. The council also plans to maintain and establish collaborative partnerships with stakeholders such as the Victorian Government and other local councils. These partnerships are seen as key to implementing collective solutions to climate change, sharing expertise and resources, and realising opportunities. The council has also committed to publically reporting on its progress, which can be seen as a form of advocacy for action.",
+      "source": "Frankston-a-a12345678910.json",
+      "lga": "Frankston",
+      "quote": {
+        "content": "Maintaining and establishing collaborative partnerships with stakeholders such as the Victorian Government and other local councils will also continue to play a key role in implementing collective solutions to climate change, sharing expertise and resources, as well as realising opportunities. Council will continue to educate and engage its staff, tenants and the broader community in energy efficiency, renewable energy technologies and sustainable living initiatives to build local capacity.",
+        "page": 33,
+        "source": "Frankston-2019-zero-emissions-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents explicitly encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The council aims to educate and engage its staff, tenants, and the broader community in energy efficiency, renewable energy technologies, and sustainable living initiatives. This is done with the intention of building local capacity. The council also maintains and establishes collaborative partnerships with stakeholders such as the Victorian Government and other local councils. These partnerships play a key role in implementing collective solutions to climate change, sharing expertise and resources, and realizing opportunities. The council also seeks partnerships and external funding as well as advocates to the Federal and State Government, agencies, and organizations on opportunities and matters relating to Council and community greenhouse gas emissions and low carbon alternatives.",
+      "source": "Frankston-b-a12345678910.json",
+      "lga": "Frankston",
+      "quote": {
+        "content": "Maintaining and establishing collaborative partnerships with stakeholders such as the Victorian Government and other local councils will also continue to play a key role in implementing collective solutions to climate change, sharing expertise and resources, as well as realising opportunities. Council will continue to educate and engage its staff, tenants and the broader community in energy efficiency, renewable energy technologies and sustainable living initiatives to build local capacity.",
+        "page": 33,
+        "source": "Frankston-2019-zero-emissions-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents from Glen Eira City Council's 'Our Climate Emergency Response Strategy 2021–2025' clearly indicate a commitment to building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a range of actions and strategies that aim to engage and educate residents, businesses, schools, and community groups about climate change impacts and the council's response. This includes understanding the local population segments particularly exposed to climate change risks and investing in services and partnerships to support the most vulnerable community members. The council also plans to work in partnership with regional alliances, other local councils, and levels of government to share ideas and pool resources to increase impact. Furthermore, the council aims to advocate to State and Federal Government for them to rapidly remove barriers to climate action. These actions demonstrate a clear commitment to building local capacity for climate action.",
+      "source": "GlenEira-a-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "We will continue to work in partnership with regional alliances, other local councils and levels of government to share great ideas and pool resources to increase impact.",
+        "page": 10,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents from Glen Eira City Council's 'Our Climate Emergency Response Strategy 2021–2025' clearly indicate a commitment to building local capacity for climate action across the council, local communities, and neighbouring councils. The policy outlines a range of actions and strategies that aim to engage and educate residents, businesses, schools, and community groups about climate change impacts and the council's response. This includes understanding the needs of local population segments particularly exposed to climate change risks and investing in services and partnerships to support the most vulnerable community members. The council also plans to work in partnership with regional alliances, other local councils, and levels of government to share ideas and resources, thereby increasing impact. Furthermore, the council commits to advocating to State and Federal Government for stronger climate action. These actions demonstrate a clear commitment to building local capacity for climate action.",
+      "source": "GlenEira-b-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "We will continue to work in partnership with regional alliances, other local councils and levels of government to share great ideas and pool resources to increase impact.",
+        "page": 10,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines several strategies and actions that aim to engage the community, stakeholders, and other agencies in addressing environmental and climate change issues. For instance, the policy proposes the establishment of a partnership network of environmental stakeholders who meet quarterly to develop partnership projects. It also plans to facilitate open community environmental forums annually to report back to communities on the environment strategy’s implementation. Furthermore, the policy encourages the council to proactively lead the way and provide the community with mechanisms to facilitate community-based discussions on the environmental impact of climate change. These actions demonstrate a clear intent to build local capacity for climate action.",
+      "source": "Glenelg-a-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines several strategies and actions that involve partnerships, community engagement, and education initiatives. For instance, the policy proposes to establish a partnership network of environmental stakeholders, facilitate open community environmental forums, and lead community-based discussions on the environmental impact of climate change. It also plans to develop a Community Engagement and Communication Plan for the strategy and document participant feedback from implementing environmental programs. Furthermore, the policy aims to increase the capacity and resilience of Glenelg’s biophysical coastal environment to adjust to the impacts of climate change through active partnerships on research into coastal vulnerability and risk assessment of climate change impacts.",
+      "source": "Glenelg-b-a12345678910.json",
+      "lga": "Glenelg"
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, their local communities, and neighbouring local councils for climate action. The council has outlined a plan to use its leadership and resources to partner with the community, other councils, Traditional Owner groups, and the Barwon South West Climate Alliance. This partnership aims to amplify community voices and undertake collective advocacy and action. The council also plans to provide education to Community Coordinators about how climate change may impact their community and offer community education and capacity building initiatives. Furthermore, the council is already part of the Barwon South West Climate Alliance, a collaboration of councils, catchment management authorities, water authorities, and universities in the Barwon South West region looking to take collaborative action on climate change.",
+      "source": "GoldenPlains-a-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "To address the Climate Emergency, Council will use its leadership and resources to partner with the community, other Councils, Traditional Owner groups and the Barwon South West Climate Alliance to amplify community voices and undertake collective advocacy and action.",
+        "page": 20,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across council, their local communities, and neighbouring local councils for climate action. The council has outlined a plan to use its leadership and resources to partner with the community, other councils, Traditional Owner groups, and the Barwon South West Climate Alliance. This partnership aims to amplify community voices and undertake collective advocacy and action. The council also plans to provide education to Community Coordinators about how climate change may impact their community and offer community education and capacity building initiatives. Furthermore, the council is already part of the Barwon South West Climate Alliance, a collaboration of councils, catchment management authorities, water authorities, and universities in the Barwon South West region looking to take collaborative action on climate change.",
+      "source": "GoldenPlains-b-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "To address the Climate Emergency, Council will use its leadership and resources to partner with the community, other Councils, Traditional Owner groups and the Barwon South West Climate Alliance to amplify community voices and undertake collective advocacy and action.",
+        "page": 20,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a comprehensive approach to climate change, including the promotion of environmental sustainability, engagement in strategic planning and decision making, and collaboration with other councils. The policy also outlines specific actions such as assessing climate risk and vulnerability for all council buildings and infrastructure, incorporating evidence-based and scenario planning into council decision-making processes, and supporting innovation and design thinking to identify new ways of working and programs that build community adaptive capacity. Furthermore, the policy encourages households, businesses, schools, and organisations to create climate action plans and commit to a 2030 target. This is a clear indication of the policy's commitment to building local capacity for climate action.",
+      "source": "GreaterBendigo-a-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "Their connection to the community means they are well placed to understand local needs and invest in making their communities more resilient to climate change. Under the new Local Government Act 2020, it is a requirement that all Councils consider climate and environment risks, including mitigation and planning for climate risks. These considerations must be embedded across Council’s services, strategies, policies and processes. Local councils have played a leading role in climate action to date.",
+        "page": 9,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a multi-level approach to climate action, involving households, organisations, city-wide projects, and regional advocacy. This approach is designed to support local communities, businesses, and partners in creating climate action plans and committing to climate targets. The policy also encourages collaboration with other councils and statutory bodies, and the engagement of the community in strategic planning and decision-making. This is further supported by the flagship project which aims to grow an internal culture and capability to drive sustainable outcomes, assess climate risk and vulnerability, and support innovation and design thinking to identify new ways of working and programs that build community adaptive capacity.",
+      "source": "GreaterBendigo-b-a12345678910.json",
+      "lga": "GreaterBendigo",
+      "quote": {
+        "content": "Their connection to the community means they are well placed to understand local needs and invest in making their communities more resilient to climate change.",
+        "page": 9,
+        "source": "GreaterBendigo-2021-climate-environment-strategy.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, their local communities, and neighbouring local councils for climate action. This is evident in the various strategies and plans outlined in the documents. For instance, the Climate Emergency Action Plan identifies actions that the council will take over the next five years, including those that aim to build the council's capacity to respond to the climate emergency. The council also plans to increase organisational adaptive capacity and staff awareness to facilitate the goal of increasing its urban forest to help cool the environment. Furthermore, the council is committed to advocacy activities that support investment in infrastructure that helps build the local community’s resilience to the impacts of climate change. The council also plans to continue participating in local government forums such as SECCCA, CASBE, Cities for Power Partnership, Climate Emergency Australia and other forums where appropriate, which indicates a commitment to partnership and collaboration with neighbouring local councils.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong",
+      "quote": {
+        "content": "This Action Plan identifies Council’s actions over the next five years where it: • It has direct operational control (Council Objectives) • It seeks to influence and support the community, other levels of government, our partners and key stakeholders to act.",
+        "page": 5,
+        "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents indeed provide evidence of the local government's efforts to build local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a comprehensive approach to climate change, including advocacy, planning, and engagement activities. The council is actively involved in local government alliances such as South East Melbourne, the Eastern Transport Coalition, and the Monash National Employment and Innovation Cluster, indicating a commitment to collaboration and partnership. The policy also emphasizes the importance of community engagement and capacity building, with a focus on increasing awareness and understanding of climate change impacts. The council is also committed to developing an annual program of staff training activities to increase the organization's adaptive capacity. Furthermore, the council is actively seeking external funding to support community initiatives and infrastructure that enhance resilience to climate change.",
+      "source": "GreaterDandenong-b-a12345678910.json",
+      "lga": "GreaterDandenong",
+      "quote": {
+        "content": "This includes advocacy undertaken by Council directly and through its membership of local government alliances such as South East Melbourne, the Eastern Transport Coalition and the Monash National Employment and Innovation Cluster.",
+        "page": 70,
+        "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy outlines a collaborative and coordinated approach to climate action, emphasizing the importance of community involvement and the role of the council in facilitating this. The policy also highlights the need for a more coordinated approach to integrate collective efforts and achieve greater scales of action. The establishment of the Sustainability Advisory Committee is mentioned as a form of collaborative governance to support the implementation of the plan. The policy also mentions the establishment of the Barwon South West Climate Alliance to build networks and cross-agency relationships in climate change adaptation planning and identify opportunities to collaborate across tenures and boundaries. Furthermore, the policy encourages the use of community expertise and citizen science, and the development of a 'regional knowledge base' to share locally available information and resources.",
+      "source": "GreaterGeelong-a-a12345678910.json",
+      "lga": "GreaterGeelong"
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy emphasizes the need for a coordinated and collaborative approach to climate change, with the council facilitating this approach and the community's support being crucial. The policy also highlights the importance of the Sustainability Advisory Committee in supporting the implementation of the plan. The policy further mentions the establishment of the Barwon South West Climate Alliance to build networks and cross-agency relationships in climate change adaptation planning and identify opportunities to collaborate across tenures and boundaries. The policy also encourages community involvement in citizen science programs to collect climate-change-related data and work in partnership with community groups, businesses, and other organizations to promote and educate the community about sustainable practices.",
+      "source": "GreaterGeelong-b-a12345678910.json",
+      "lga": "GreaterGeelong"
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The council is identified as having a unique position to drive community emissions reductions due to its leadership role, local understanding, and established community and stakeholder networks. The council's role includes maintaining and enhancing infrastructure, advocating for stronger planning guidelines, and facilitating environmental upgrade finances. The documents also highlight the importance of a partnership approach between the council, community, and businesses to build a climate-resilient Greater Shepparton. The council is also expected to lead and influence action by example, showcasing locally available and appropriate technologies and solutions. Furthermore, the council is tasked with investigating mechanisms for community and business involvement in the action plan's implementation.",
+      "source": "GreaterShepparton-a-a12345678910.json",
+      "lga": "GreaterShepparton",
+      "quote": {
+        "content": "A partnership approach between Council, community and business is needed to build a climate resilient Greater Shepparton and enact change across public and private land.",
+        "page": 41,
+        "source": "GreaterShepparton-2022-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government policy encourages building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The policy outlines a partnership approach between the council, community, and businesses to build a climate-resilient Greater Shepparton. The council's role includes maintaining infrastructure, advocating for stronger planning guidelines, and facilitating environmental upgrades. The community and businesses also have roles, such as maintaining vegetation, upgrading homes for thermal efficiency, and increasing climate change awareness. The policy also highlights the importance of council's leadership in driving community emissions reductions and supporting community members in climate emergency actions. Furthermore, the policy emphasizes the need for advocacy to major stakeholders and other levels of government, suggesting potential collaboration with neighbouring local councils.",
+      "source": "GreaterShepparton-b-a12345678910.json",
+      "lga": "GreaterShepparton",
+      "quote": {
+        "content": "A partnership approach between Council, community and business is needed to build a climate resilient Greater Shepparton and enact change across public and private land.",
+        "page": 41,
+        "source": "GreaterShepparton-2022-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy outlines a range of actions and strategies that involve various stakeholders, including local community groups, business communities, and other regional partners such as other Local Government Areas (LGAs), Water Authorities, Landcare, local farmers, universities, state and federal government. The policy also emphasizes the importance of partnerships and coordination with community and other agencies for climate adaptation. It also mentions the development and delivery of a climate emergency capacity building program to all council staff, which indicates an effort to build capacity within the council itself. Furthermore, the policy encourages the council to partner with local and other stakeholders to provide training and practical experience across a range of vital sustainable buildings and energy efficiency areas.",
+      "source": "Hepburn-a-a12345678910.json",
+      "lga": "Hepburn"
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a series of actions that involve various stakeholders, including local community groups, business communities, and other regional partners. For instance, the policy proposes the development of a Carbon Neutral Buildings Plan to reduce emissions and improve building performance across Council assets. It also suggests partnering with local stakeholders to provide training and practical experience in sustainable buildings and energy efficiency areas. Furthermore, the policy encourages the development of a Council Plan, which is a strategic mechanism that prioritizes Sustainable Hepburn. This plan involves the collaboration of various stakeholders, including the Department of Environment, Land, Water and Planning (DELWP), and other regional partners.",
+      "source": "Hepburn-b-a12345678910.json",
+      "lga": "Hepburn"
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a number of strategies and actions that aim to build capacity and engage the community in climate change adaptation. For instance, the policy mentions the need to regularly update and consider climate change and water availability scenarios in the analysis of future asset management plans and broader council planning. It also emphasizes the importance of community engagement in communicating council's adaptation and sustainability projects. Furthermore, the policy suggests that services should be reviewed in some towns and/or consolidated to a smaller number of towns as part of future service delivery planning. These strategies and actions suggest a concerted effort to build local capacity for climate action.",
+      "source": "Hindmarsh-a-a12345678910.json",
+      "lga": "Hindmarsh",
+      "quote": {
+        "content": "Council staff review and analyse current asset management plans under a range of climate change and water availability scenarios e.g.",
+        "page": 184,
+        "source": "Hindmarsh-2012-climate-adaptation.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents do provide evidence of the local government's intent to build local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a number of strategies and actions that aim to address climate change and water availability issues. These include updating the role of the council in relation to climate change, embedding climate change and water availability risk assessments into future asset management plans and broader council planning, and engaging the community in climate change adaptation and decision-making. The policy also mentions the need for community engagement, action planning, and the implementation of an Integrated Water Management plan. Furthermore, the policy acknowledges the need for collaboration with neighbouring councils, businesses, industry, government agencies, and utilities to assess the risks posed by climate change and identify options for managing these risks.",
+      "source": "Hindmarsh-b-a12345678910.json",
+      "lga": "Hindmarsh",
+      "quote": {
+        "content": "Council has engaged businesses, industry, government agencies, utilities and townships through a range of workshops to assess the risks posed to Hindmarsh by a changing climate and identify options for managing these risks into the future.",
+        "page": 91,
+        "source": "Hindmarsh-2012-climate-adaptation.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The policy outlines a proactive approach to climate change, with a focus on community engagement, education, and support. The council plans to provide advice services and programs that support residents, businesses, and schools to take their own climate actions. The council also seeks partnerships and funding opportunities that support the community to increase access to climate change programs. Furthermore, the council is committed to collaborating with and advocating to the Victorian and Australian governments on behalf of the community to deliver climate action and investment in mitigation and adaptation activities. This includes addressing related issues such as housing, energy security, cost of living, and access to community infrastructure and spaces. The council also plans to continue building strong relationships with Traditional Owners, drawing upon their knowledge and understanding.",
+      "source": "HobsonsBay-a-a12345678910.json",
+      "lga": "HobsonsBay"
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The policy outlines a proactive approach to climate change, with a focus on community engagement, education, and support for residents, businesses, and schools to take their own climate actions. The council also seeks partnerships and funding opportunities to increase access to climate change programs. Furthermore, the council is committed to collaborating with and advocating to the Victorian and Australian governments on behalf of the community to deliver climate action and investment in mitigation and adaptation activities. This includes addressing related issues such as housing, energy security, cost of living, and access to community infrastructure and spaces. The council also plans to continue building strong relationships with Traditional Owners and participating in existing partnerships to maximise collective efforts.",
+      "source": "HobsonsBay-b-a12345678910.json",
+      "lga": "HobsonsBay",
+      "quote": {
+        "content": "This includes calling for support to address related issues such as housing, energy security, cost of living, and access to community infrastructure and spaces.",
+        "page": 12,
+        "source": "HobsonsBay-2022-Response-to-Climate-Change-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a number of strategies that aim to promote environmental sustainability. These include encouraging and supporting Council’s volunteer Section 86 committees to adopt environmentally sustainable practices, establishing collaborative partnerships with the community, other local government bodies, business groups, and relevant organisations that promote environmental sustainability, and advocating on behalf of the local community to other agencies and levels of government on issues of local environmental sustainability concern. The policy also mentions the use of Council’s communication mediums and community networks to promote environmental sustainability practices to the wider community.",
+      "source": "Horsham-a-a12345678910.json",
+      "lga": "Horsham",
+      "quote": {
+        "content": "Utilise Council’s communication mediums and community networks to promote environmental sustainability practices to the wider community. Establish collaborative partnerships with the community, other Local Government bodies, business groups and relevant organisations that promote environmental sustainability. Advocate on behalf of the local community to other agencies and levels of government on issues of local environmental sustainability concern.",
+        "page": 58,
+        "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines several strategies that aim to promote environmental sustainability through collaboration and advocacy. For instance, the council plans to establish partnerships with the community, other local government bodies, business groups, and relevant organisations that promote environmental sustainability. The council also aims to advocate on behalf of the local community to other agencies and levels of government on issues of local environmental sustainability concern. Furthermore, the council plans to utilise its communication mediums and community networks to promote environmentally sustainable practices to the wider community. These strategies indicate a clear intention to build local capacity for climate action.",
+      "source": "Horsham-b-a12345678910.json",
+      "lga": "Horsham",
+      "quote": {
+        "content": "Utilise Council’s communication mediums and community networks to promote environmentally sustainable practices to the wider community. Establish collaborative partnerships with the community, other Local Government bodies, business groups and relevant organisations that promote environmental sustainability. Advocate on behalf of the local community to other agencies and levels of government on issues of local environmental sustainability concern.",
+        "page": 58,
+        "source": "Horsham-Environment_Sustainability_Strategy.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The Hume Climate Action Plan 2023-2028 indeed encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines several actions and activities that aim to build capacity and foster collaboration. For instance, the policy mentions the continuation of the 'Sustainability and Climate Change Community of Practice' to engage staff and build their capacity on sustainability and climate change action. It also mentions the plan to build the capacity of staff and councillors to apply a climate lens. Furthermore, the policy highlights the importance of advocacy and collaboration with other levels of government for enhanced climate action on behalf of the Hume community. The policy also mentions the continuation of hosting and participating in the Northern Alliance for Greenhouse Action, which implies collaboration with neighbouring local councils. Therefore, the policy does encourage building local capacity for climate action.",
+      "source": "Hume-a-a5678910.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The Hume Climate Action Plan 2023-2028 indeed encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines several actions and activities that aim to build capacity and foster collaboration. For instance, the policy mentions the continuation of the 'Sustainability and Climate Change Community of Practice' to engage staff and build their capacity on sustainability and climate change action. It also mentions the plan to build the capacity of staff and councillors to apply a climate lens. Furthermore, the policy highlights the importance of advocacy and collaboration with other levels of government for enhanced climate action on behalf of the Hume community. The policy also mentions the continuation of hosting and participating in the Northern Alliance for Greenhouse Action, which implies collaboration with neighbouring local councils. Therefore, the policy does encourage building local capacity for climate action.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The Indigo Shire Council's Climate Change Adaptation Action Plan (2017-2021) and Climate Emergency Strategic Action Plan (2020) both emphasize the importance of collaboration and partnerships in addressing climate change. The documents highlight the need for embedding climate change considerations into all operational and strategic policy and decision-making processes. They also stress the importance of building adaptive capacity within the organization and the community. The documents further advocate for collaboration with other councils that have declared a climate emergency, and for the development of partnerships to attract funding for large-scale initiatives. The plans also propose actions such as lobbying the state government for a regional recovery officer to coordinate and manage disaster response across councils.",
+      "source": "Indigo-a-a12345678910.json",
+      "lga": "Indigo",
+      "quote": {
+        "content": "Work with adjacent Councils to lobby State government for a regional recovery officer to co-ordinate and manage disaster response across Councils.",
+        "page": 32,
+        "source": "Indigo-2017-climate-adaptation-action-plan.pdf",
+        "search_score": 0.9
+      }
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The Indigo Shire Council's Climate Change Adaptation Action Plan (2017-2021) and Climate Emergency Strategic Action Plan (2020) both emphasize the importance of collaboration and partnerships in addressing climate change. The documents highlight the need for embedding climate change considerations into all operational and strategic policy and decision-making processes. They also stress the importance of building adaptive capacity within the organization and the community. The documents further advocate for collaboration with other councils that have declared a climate emergency, and for active contribution to Climate Emergency Australia (CEA), a collective of councils across Australia. The documents also mention the need to lobby state and federal governments for action on climate change.",
+      "source": "Indigo-b-a12345678910.json",
+      "lga": "Indigo",
+      "quote": {
+        "content": "Partner with others in the climate emergency movement to increase our impact, leverage funding and lobby the state and federal governments to take action.",
+        "page": 3,
+        "source": "Indigo-2020-climate-emergency-strategic-action-plan.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The documents indeed provide evidence of the local government's commitment to building local capacity across council, their local communities, and neighbouring local councils for climate action. The Kingston City Council's Climate and Ecological Emergency Response Plan outlines a comprehensive approach to climate action that includes facilitating community actions at a regional level, which implies collaboration with neighbouring councils. The plan also emphasizes the importance of education and training, professional development, and financial mechanisms, which are key elements of capacity building. Furthermore, the plan outlines a commitment to 'engagement with specific stakeholders' and 'a program of monitoring, review, evaluation and reporting', which are indicative of a coordinated approach to climate action. The council also acknowledges the need for 'substantial contributions from businesses and industry, residents, as well as representative organisations and the state and federal government', which suggests a partnership-based approach.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "Implementation is detailed in Section 5. We now have a thorough understanding of how we can support community emission reductions. We have committed to a series of actions that can facilitate community emission reductions. Facilitating community actions at a regional level increases the scale of opportunity and cost effectiveness.",
+        "page": 10,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed provide evidence of the local government's commitment to building local capacity across council, their local communities, and neighbouring local councils for climate action. The Kingston City Council's Climate and Ecological Emergency Response Plan outlines a comprehensive approach to climate action that includes facilitating community actions at a regional level, which implies collaboration with neighbouring councils. The plan also emphasizes the importance of education and training, professional development, and financial mechanisms, which are key elements of capacity building. Furthermore, the plan outlines a commitment to 'engagement with specific stakeholders' and 'a program of monitoring, review, evaluation and reporting', which are indicative of a coordinated approach to climate action. The council also acknowledges the need for 'substantial contributions from businesses and industry, residents, as well as representative organisations and the state and federal government', which suggests a partnership-based approach.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston",
+      "quote": {
+        "content": "Implementation is detailed in Section 5. We now have a thorough understanding of how we can support community emission reductions. We have committed to a series of actions that can facilitate community emission reductions. Facilitating community actions at a regional level increases the scale of opportunity and cost effectiveness.",
+        "page": 10,
+        "source": "Kingston-2021-climate-ecological-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a range of actions that involve community education programs, sustainable transport options, and advocacy for efficient public transport. It also mentions the importance of involving community, business, and other stakeholders in finding solutions to climate change. The policy also highlights the role of advocacy, with the council identifying advocacy opportunities and estimating potential emissions savings. The council also plans to join the Cities Power Partnership, a free initiative designed to assist local government in transitioning to a net zero future. Furthermore, the policy acknowledges the need for changes at other levels of government, within the community, and by major business and industry, indicating a recognition of the need for wider collaboration and capacity building.",
+      "source": "Knox-a-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "• Making sustainable transport options more accessible and appealing, including enhancing cycle and walking paths, providing better links between transport mode, and advocating for more efficient public transport to the region. • Providing community education programs on actions to reduce emissions.",
+        "page": 7,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a range of actions that involve community education programs, sustainable transport options, and updating council policies to consider climate change impacts. The policy also emphasizes the importance of partnerships and advocacy, with the council joining the Cities Power Partnership and making a voluntary pledge under the Climate Change Act. The council also plans to engage with public sector service providers and conduct community consultations to incorporate the ideas of the Knox community. These actions demonstrate a commitment to building local capacity and fostering partnerships for climate action.",
+      "source": "Knox-b-a12345678910.json",
+      "lga": "Knox"
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines the council's proactive approach to addressing climate change, including the development of partnerships and networks with local stakeholders and interest groups. The council has engaged in numerous activities to nurture these relationships and has presented its policy to a variety of interested local organisations and groups. The council has also established a Low Carbon Emissions Future Transition Committee to drive transformation at a local and regional level. This committee has played a strong role in advocating on behalf of the community and has become a focal point for government representatives. Furthermore, the council has demonstrated its commitment to leading a local transition to a low carbon economy and has worked tirelessly to complete as many of the 30 action items as possible.",
+      "source": "Latrobe-a-a12345678910.json",
+      "lga": "Latrobe",
+      "quote": {
+        "content": "Council continued to work with organisations such as the Gippsland Climate Change Network, ClimateWorks and the Department of Primary Industries on a range of initiatives including the Gippsland Low Carbon Growth Plan. Council engaged in numerous activities to develop and nurture relationships, and presented Council’s policy to a variety of interested local organisations and groups including industry.",
+        "page": 9,
+        "source": "Latrobe-2014-low-carbon.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines the council's proactive approach to addressing climate change, including the development of partnerships and networks with local stakeholders and interest groups. The council has engaged in numerous activities to nurture these relationships and has presented its policy to a variety of interested local organisations and groups. The council has also established a Low Carbon Emissions Future Transition Committee to drive transformation at a local and regional level. This committee has played a strong role in advocating on behalf of the community and has become a focal point for government representatives. Furthermore, the council has demonstrated its commitment to leading a local transition to a low carbon economy and has worked tirelessly to complete as many of the 30 action items as possible.",
+      "source": "Latrobe-b-a12345678910.json",
+      "lga": "Latrobe",
+      "quote": {
+        "content": "Council continued to work with organisations such as the Gippsland Climate Change Network, ClimateWorks and the Department of Primary Industries on a range of initiatives including the Gippsland Low Carbon Growth Plan. Council engaged in numerous activities to develop and nurture relationships, and presented Council’s policy to a variety of interested local organisations and groups including industry.",
+        "page": 9,
+        "source": "Latrobe-2014-low-carbon.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. This is evident in the recommended actions that involve collaboration with neighbouring municipalities to capitalise on regional opportunities, particularly in the area of large-scale renewable energy projects. The document also advocates for improvements in urban and agricultural water security and quality, which can be seen as a form of climate action. Furthermore, the document suggests the employment of an environmental sustainability officer within the council to champion waste management, vegetation management and environmental issues. This indicates a commitment to building capacity within the council itself for climate action.",
+      "source": "Loddon-a-a12345678910.json",
+      "lga": "Loddon",
+      "quote": {
+        "content": "Where possible collaborate with neighbouring municipalities to capitalise on regional opportunities.",
+        "page": 10,
+        "source": "Loddon-Environmental-Sustainability-Strategy-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. This is evident in the recommended actions that advocate for and promote business opportunities for large-scale renewable energy projects within the municipality and, where possible, collaborate with neighbouring municipalities to capitalise on regional opportunities. This action indicates a commitment to building local capacity and fostering partnerships for climate action. Additionally, the document also suggests incorporating educational or informative material on the Council's new website, which could serve to build capacity within local communities by enhancing their understanding of environmental sustainability. However, it should be noted that while the document does encourage capacity building and partnerships, it does not explicitly link these actions to climate action.",
+      "source": "Loddon-b-a12345678910.json",
+      "lga": "Loddon",
+      "quote": {
+        "content": "Where possible collaborate with neighbouring municipalities to capitalise on regional opportunities.",
+        "page": 10,
+        "source": "Loddon-Environmental-Sustainability-Strategy-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The Climate Change Action Plan outlines how the council will work with stakeholders and the local community to reduce greenhouse emissions. The plan recommends that the council develop and trial a partnership process for developing localised community climate action plans. It also suggests that the council should continue to participate in regional initiatives for climate change action, such as those facilitated by the Central Victorian Greenhouse Alliance. The council is also encouraged to work with the North Central CMA in programs addressing climate change on landscapes and biodiversity values. Furthermore, the council is advised to utilise opportunities to develop projects and access grants for climate change action programs and projects as appropriate for the council, and form partnerships with key stakeholders at the local, regional or state levels when feasible to do so.",
+      "source": "MacedonRanges-a-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "Utilise opportunities to develop projects and access grants for climate change action programs and projects as appropriate for Council, and form partnerships with key stakeholders at the local, regional or state levels when feasible to do so. Continue to participate in regional initiatives for climate change action, for example, in the development and implementation of relevant projects being facilitated by the Central Victorian Greenhouse Alliance. Work with the North Central CMA in programs addressing climate change on landscapes and biodiversity values as relevant.",
+        "page": 64,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighboring local councils for climate action. The Climate Change Action Plan outlines how the council will work with stakeholders and the local community to reduce greenhouse emissions. The plan also recommends that the council develop and trial a partnership process for developing localized community climate action plans. The council is also encouraged to continue participating in regional initiatives for climate change action and to work with stakeholders at the local, regional, or state levels when feasible. The council is also advised to utilize emerging state government programs targeting climate action amongst different sectors of the community, including grants schemes, and promote and participate in programs where suitable for the local community. The council is also encouraged to advocate for stronger climate change action across all levels of government and partner with management stakeholders to progress action.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges",
+      "quote": {
+        "content": "Continue to participate in regional initiatives for climate change action, for example, in the development and implementation of relevant projects being facilitated by the Central Victorian Greenhouse Alliance.",
+        "page": 64,
+        "source": "MacedonRanges-2017-climate-action-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a collaborative approach to planning and managing water resources within the context of adaptation to climate change and population growth. It also emphasizes the need for councils to promote the economic, social, and environmental sustainability of the municipal district, including mitigation and planning for climate risks. The policy also encourages collaboration with other councils on advanced waste technology and climate action. It also advocates for collaboration with the State Government to understand land use change for net zero carbon sinks. The policy also highlights the need to raise awareness and facilitate community education, including diverse and hard-to-reach audiences. Therefore, the policy clearly encourages building local capacity across various stakeholders for climate action.",
+      "source": "Manningham-a-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a collaborative approach to planning and managing water resources within the context of climate change adaptation. It also emphasizes the council's responsibility to promote the economic, social, and environmental sustainability of the municipal district, including planning for climate risks. The policy also encourages collaboration with other councils on advanced waste technology and climate action. It also mentions collaboration with the State Government on various climate-related initiatives. The policy also highlights the need for community education and awareness-raising, including reaching diverse and hard-to-reach audiences. The policy also mentions the need for annual monitoring and reporting on climate actions and greenhouse gas emissions levels, which could be seen as a way to build capacity by ensuring accountability and continuous learning.",
+      "source": "Manningham-b-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The documents clearly indicate that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines the council's commitment to climate action, including reducing greenhouse gas emissions from both their own operations and the whole municipality. The council has developed a Climate Action Background Paper to identify opportunities for reducing and offsetting emissions. The council also plans to work at the regional level to deliver low emissions transitions strategically, such as the roll-out of electric vehicle charging infrastructure and exploration of low emissions agriculture. Furthermore, the council aims to provide a voice for the community at the state and national government level to drive action towards a more supportive policy environment for climate change mitigation and adaptation. The council also plans to support community climate action and will be responsive to community advocacy, initiatives, and proposals as they arise.",
+      "source": "Mansfield-a-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "This establishes a requirement for councils to consider and reduce the greenhouse gas emissions (emissions) of both their own operations and the whole municipality. Within the Victorian Local Government Act 2020, an overarching governance principle is ‘the economic, social and environmental sustainability of the municipal district, including mitigation and planning for climate change risks, is to be promoted’.",
+        "page": 11,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines the council's commitment to climate action, including reducing greenhouse gas emissions and planning for climate change risks. The council has developed a Climate Action Background Paper to identify opportunities for reducing and offsetting emissions. The council also plans to work at the regional level to deliver low emissions transitions strategically, such as the roll-out of electric vehicle charging infrastructure and exploration of low emissions agriculture. Furthermore, the council aims to provide a voice for the community at the state and national government level to drive action towards a more supportive policy environment for climate change mitigation and adaptation. The council also plans to support community climate action and will be responsive to community advocacy, initiatives, and proposals as they arise.",
+      "source": "Mansfield-b-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "This establishes a requirement for councils to consider and reduce the greenhouse gas emissions (emissions) of both their own operations and the whole municipality. Within the Victorian Local Government Act 2020, an overarching governance principle is ‘the economic, social and environmental sustainability of the municipal district, including mitigation and planning for climate change risks, is to be promoted’.",
+        "page": 11,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The Maribyrnong City Council's Climate Emergency Action Plan indeed encourages building local capacity across the council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a variety of initiatives aimed at increasing skills and abilities within the community to act on climate change, such as a leadership program with peer-to-peer engagement and a youth climate summit. The policy also supports community groups in developing and implementing a climate emergency plan. Furthermore, the policy emphasizes the importance of working with other councils and organizations to be more effective in climate emergency action, suggesting a focus on building capacity not just within the local community, but also across neighbouring councils.",
+      "source": "Maribyrnong-a-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The Maribyrnong City Council's Climate Emergency Action Plan indeed encourages building local capacity across the council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a variety of initiatives aimed at increasing skills and abilities within the community to act on climate change, such as a leadership program with peer-to-peer engagement and a youth climate summit. The policy also encourages community groups to develop and implement a climate emergency plan. Furthermore, the policy emphasizes the importance of working with other councils and organizations to be more effective in climate emergency action, suggesting a focus on building capacity not just within the local community, but also across neighbouring councils. The policy also plans to engage with research institutes, innovative technology groups, non-government organizations, and climate emergency strategists to ensure innovative and best practice climate response.",
+      "source": "Maribyrnong-b-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a proactive approach to managing the risks associated with climate change, with a focus on early planning to reduce impacts. It emphasizes the importance of partnerships and collaboration with stakeholders and the community in supporting climate change adaptation. The policy also highlights the role of local government in providing leadership and good governance, representing the needs and values of local communities, and fostering community cohesion. The policy further encourages the integration of climate change risk management and adaptation into council operations and infrastructure, and supports building community resilience to climate change. The policy also advocates for the use of the natural environment to build adaptive capacity and encourages future-proofing design to adapt to change and respond to current and future risks.",
+      "source": "Maroondah-a-a12345678910.json",
+      "lga": "Maroondah"
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The Maroondah City Council has outlined several strategies and actions to address climate change, which include fostering partnerships and collaborations with stakeholders and the community. The council is also part of the Eastern Alliance for Greenhouse Action (EAGA), which is a regional collaboration of councils working together to respond to climate change. The council's strategies also emphasize the importance of improving climate education across council staff and the community, which is a clear indication of capacity building. Furthermore, the council is committed to working with other government agencies, businesses, and community members to advocate for and deliver green infrastructure within projects in Maroondah. This shows a commitment to coordination and advocacy for climate action.",
+      "source": "Maroondah-b-a12345678910.json",
+      "lga": "Maroondah"
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a plan to hold an annual cross-organisational workshop as part of the business planning process to identify synergies and address trade-offs, considering environmental, social, and economic impacts. This indicates an intention to build capacity within the council. The policy also mentions a capacity building program for local governments in metropolitan Melbourne, suggesting an effort to build capacity in neighbouring local councils. Furthermore, the policy encourages engagement with the community through public art, festivals, events, and digital engagement, indicating an effort to build capacity within local communities. The policy also outlines plans to collaborate with various stakeholders, including community organisations, on a research agenda to identify long-term strategic opportunities to reduce emissions, further indicating an effort to build local capacity.",
+      "source": "Melbourne-a-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "We have started a capacity building program for local governments in metropolitan Melbourne and will continue to share the lessons we learnt during the pilot program with cities around the world.",
+        "page": 19,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a plan to hold an annual cross-organisational workshop as part of the business planning process to identify synergies and address trade-offs, considering environmental, social, and economic impacts. This indicates an intention to build capacity within the council. The policy also mentions a capacity building program for local governments in metropolitan Melbourne, suggesting an effort to build capacity in neighbouring local councils. Furthermore, the policy includes plans to engage the community through public art, festivals, events, and digital engagement, indicating an effort to build capacity within local communities. The policy also outlines plans to collaborate with various stakeholders, including community organisations, on a research agenda to identify long-term strategic opportunities to reduce emissions, further indicating an effort to build capacity within local communities.",
+      "source": "Melbourne-b-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "Engage the community through public art, festivals and events, and digital engagement.",
+        "page": 65,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy outlines a strategic priority to work with other councils and levels of government to understand the financial and legal risks and responsibilities of local government in a changing climate. It also emphasizes the need for communication to raise awareness and understanding, and empowerment to take collective action, with particular attention paid to vulnerable populations. The policy also advocates for improved building standards that incorporate long-term local impacts of climate change and encourages the integration of climate change considerations into relevant plans, policies, and processes. Furthermore, the policy suggests the development of partnerships to improve urban sustainability outcomes and landscape scale land and water management outcomes. These actions collectively indicate a strong emphasis on building local capacity for climate action.",
+      "source": "Melton-a-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy outlines a strategic priority to work with other councils and levels of government to understand the financial and legal risks and responsibilities of local government in a changing climate. It also emphasizes the need for communication to raise awareness and understanding, and empowerment to take collective action, with particular attention paid to vulnerable populations. The policy also advocates for improved building standards that incorporate long-term local impacts of climate change and encourages the council to work with the Municipal Association of Victoria to advocate for these improved standards. Furthermore, the policy suggests the development of partnerships to improve urban sustainability outcomes and to facilitate improved landscape scale land and water management outcomes.",
+      "source": "Melton-b-a12345678910.json",
+      "lga": "Melton"
+    },
+    {
+      "answer": "The Merri-bek Council's Zero Carbon Climate Emergency Action Plan explicitly encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a comprehensive approach to climate action, which includes staff across the council acknowledging the climate emergency and integrating climate action within their service area, strategies, and policies. The council also plans to undertake community mobilisation and advocacy campaigns to grow the social movement for climate emergency response within communities, businesses, and all levels of government. The council aims to facilitate networking and capacity-building amongst local and regional community groups and agencies active in campaigning for climate action. Furthermore, the council plans to collaborate with other local councils and regional groups/alliances to run targeted and visible advocacy campaigns to impact state and federal policy to facilitate transition to zero emissions energy, transport, and waste management.",
+      "source": "Merribek-a-a12345678910.json",
+      "lga": "Merribek",
+      "quote": {
+        "content": "Staff across Merri-bek Council acknowledge the climate emergency and understand the role they can play and are integrating climate action within their service area, strategies and policies.",
+        "page": 8,
+        "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Merri-bek Council's policy documents clearly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a range of initiatives aimed at mobilising the community and advocating for climate emergency response. These initiatives include communicating with Merri-bek’s diverse communities about the risks and impacts of climate and ecological breakdown, fostering positive engagement in lifestyle change, and community-level initiatives. The policy also mentions facilitating networking and capacity-building amongst local and regional community groups and agencies active in campaigning for climate action. Furthermore, the policy encourages collaboration with other local councils and regional groups/alliances to run targeted and visible advocacy campaigns to impact state and federal policy to facilitate transition to zero emissions energy, transport, and waste management.",
+      "source": "Merribek-b-a12345678910.json",
+      "lga": "Merribek"
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a variety of actions and strategies that involve collaboration between the local government, community groups, local businesses, and energy companies. These actions include promoting green spaces, organising climate/heat health awareness events, advocating for affordable eco-friendly solutions, and promoting sustainable transportation. The policy also mentions the Climate Response Plan's implementation by the CECAG community group in collaboration with the local government. This indicates a clear intention to build local capacity and foster partnerships for climate action. However, the documents do not explicitly mention coordination with neighbouring local councils.",
+      "source": "Mildura-a-a12345678910.json",
+      "lga": "Mildura"
+    },
+    {
+      "answer": "The documents explicitly encourage building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The Mitchell Shire Council's Climate Emergency Action Plan outlines the council's role in educating, facilitating, and supporting the local community to take positive steps towards climate action. The council also plans to engage in advocacy on behalf of the community and demonstrate leadership to influence decisions that extend beyond its control. The plan emphasizes the importance of community engagement and support, fostering collective action, ensuring equity, and building resilient communities capable of effectively responding to the impacts of climate change. The council acknowledges that achieving a net zero target requires the collective efforts of residents, businesses, industry, and the actions of the state and federal governments. The council's role is also to provide clear information and straightforward data from credible government and research sources in a variety of forms.",
+      "source": "Mitchell-a-a12345678910.json",
+      "lga": "Mitchell"
+    },
+    {
+      "answer": "The documents explicitly encourage building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The Mitchell Shire Council's Climate Emergency Action Plan outlines the council's role in shaping and guiding actions within the community through education and facilitation of programs. The council also advocates for the community's interests, concerns, and rights to state and federal bodies. The council acknowledges that achieving a net zero target requires collective efforts from residents, businesses, industry, and the actions of the state and federal governments. The council's role is to provide clear information and straightforward data from credible government and research sources in a variety of forms, engage with community members across all cultures, genders, languages, ability, and socio-economic status, and support community groups to expand outreach and engagement. The council also encourages community members to advocate to governments and service providers for a safe climate, seek accurate information from credible sources, utilise available council resources, and participate in community engagement events.",
+      "source": "Mitchell-b-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "Although Council can regulate and make decisions regarding its own operations and assets, the responsibility for achieving a net zero target rests on the collective efforts of residents, businesses, industry, and the actions of the state and federal governments.",
+        "page": 29,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide evidence that the local government is taking steps to build local capacity for climate action across the council, local communities, and potentially neighbouring councils. The council has committed to a number of actions in response to climate change, including participating in the Local Government Power Purchase Agreement for up to 100% renewable energy and major infrastructure upgrades to reduce energy use. The council is also partnering with ClimateWorks Australia, the Monash Energy Institute, and the Monash Sustainable Development Institute to conduct research and develop solutions to energy and sustainability problems. Additionally, the council is developing a business resilience program to assist local businesses in improving energy efficiency. These actions indicate a commitment to building local capacity for climate action.",
+      "source": "Monash-a-a12345678910.json",
+      "lga": "Monash"
+    },
+    {
+      "answer": "The documents provide evidence of the local government's commitment to building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The Monash Council has partnered with ClimateWorks Australia, the Monash Energy Institute, and the Monash Sustainable Development Institute to conduct research and develop solutions to energy and sustainability problems. This partnership could provide the council with access to state-of-the-art technologies and resources to aid in their emissions reduction programs. The council has also nominated to be an advisory member to the proposed Australian Research Corporation (ARC) Linkage Project for Net Zero Precinct Transitions, in partnership with Monash University. Furthermore, the council is developing a business resilience program to assist local businesses in improving energy efficiency, which could lead to cost savings and reduced greenhouse gas emissions. These actions demonstrate a clear commitment to building local capacity for climate action.",
+      "source": "Monash-b-a12345678910.json",
+      "lga": "Monash",
+      "quote": {
+        "content": "Monash Council has nominated to be an advisory member to the proposed Australian Research Corporation (ARC) Linkage Project for Net Zero Precinct Transitions, in partnership with Monash University. Partnering with such an innovative organisation could provide Monash City Council with access to state-of-the-art technologies and resources to aid in Council’s emissions reduction programs.",
+        "page": 31,
+        "source": "Monash-zero-net-carbon-action-plan-final.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do provide evidence of the local government's efforts to build local capacity for climate action. The policy outlines a range of initiatives aimed at enhancing the community's understanding of climate change impacts and building their capacity to respond. For instance, the policy mentions partnering with external stakeholders to create knowledge about the impacts of climate change and methods to adapt. It also mentions engaging with the community to improve their understanding of climate change impacts and providing tailored support to vulnerable members of the community to prepare for climate change impacts. Furthermore, the policy outlines plans to educate developers on meeting the requirements for canopy trees or equivalent. However, there is no explicit mention of building capacity across neighbouring local councils for climate action.",
+      "source": "MooneeValley-a-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The documents do provide evidence of the local government's efforts to build local capacity for climate action across the council and their local communities. However, there is no explicit mention of building capacity with neighbouring local councils. The policy outlines various initiatives aimed at enhancing the community's understanding of climate change impacts and building their capacity to respond. For instance, the policy mentions partnering with external stakeholders to create knowledge about climate change impacts and methods to adapt, engaging with the community to improve understanding of climate change impacts, and providing tailored support to vulnerable community members to prepare for climate change impacts. The policy also mentions initiatives to educate developers and schools, and to support the community in reducing carbon emissions. However, the policy does not explicitly mention building capacity with neighbouring local councils for climate action.",
+      "source": "MooneeValley-b-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a multi-faceted approach to climate action, which includes the council's role in listening to and promoting community voices, using evidence-based arguments in advocacy, and ensuring advocacy positions are representative. The policy also emphasizes the importance of collaboration, with individuals, businesses, community groups, and the Shire working together to achieve advocacy targets. The policy also mentions the development of a 'Climate Emergency Advocacy Plan' by 2021, which will educate and assist community groups, residents, and other stakeholders to become effective advocates. The policy also outlines the Shire's role in providing direct support for community and youth groups to pursue climate action, supporting community volunteers with access to training and networks to build skills in communication, leadership, and advocacy, and establishing a 'Climate Change Community Action Grants' program to fund community groups, youth groups, and businesses to reach climate emergency goals.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington"
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The policy outlines the roles of the local government, community, and the Shire in advocating for climate action. The Shire's role includes promoting community voices, using evidence-based arguments in advocacy, and ensuring advocacy positions are representative. The policy also emphasizes collaboration, where individuals, businesses, community groups, and the Shire work together to achieve advocacy targets. The policy also mentions the development of a 'Climate Emergency Advocacy Plan' by 2021, which suggests a structured approach to building local capacity for climate action. Furthermore, the policy outlines plans to provide direct support for community and youth groups to pursue climate action, including assistance for planning actions and projects, publicly communicating Shire climate activities, and providing advice on funding and grants. This indicates a commitment to building capacity within the local community for climate action.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "Action within local government regions can demonstrate opportunity, action and learnings.",
+        "page": 31,
+        "source": "Mornington-2020-climate-emergency-response-part1.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents do provide evidence of the local government's efforts to build local capacity for climate action across the council, their local communities, and potentially neighbouring local councils. The policy outlines several actions aimed at increasing understanding and awareness of environmental sustainability practices and values within the council and the community. These include promoting participation in National Earth Hour and ride/walk to work day, offsetting council's fleet emissions through annual community indigenous vegetation planting programs, and conducting training for council staff and raising awareness within the community on the roadside conservation GIS maps. The policy also mentions the council's past participation in the Cities for Climate Protection Program, which suggests a willingness to collaborate with external parties on climate action. However, the documents do not explicitly mention building capacity with neighbouring local councils.",
+      "source": "Moyne-b-a12345678910.json",
+      "lga": "Moyne",
+      "quote": {
+        "content": "Throughout the broader community, there exist a number of opportunities to enhance the understanding of the local environment and to foster awareness of sustainable actions to protect and enhance the natural and built environment.",
+        "page": 15,
+        "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed encourage building local capacity across the council, local communities, and neighboring local councils for climate action. The council's Climate Change Action Plan outlines a commitment to work in partnership with the community, locally-based NGOs, businesses, and other key stakeholders to manage climate change risks and impacts. The council also plans to contribute resources to prepare, prevent, respond, and recover from detrimental climatic impacts. The council's commitment to partnership and advocacy is further emphasized in its roadmap to carbon neutrality, which highlights the need for shared responsibility and leadership at the highest levels across the organization. The roadmap also suggests that the council should continue to identify opportunities for capacity building for staff, including working with the Central Victorian Greenhouse Alliance, Sustainability Victoria, and other partners to deliver tailor-made webinars/forums and programs.",
+      "source": "MtAlexander-a-a12345678910.json",
+      "lga": "MtAlexander",
+      "quote": {
+        "content": "Council will set up a governance model for implementation of this and future climate change strategies such that the responsibility is shared and leadership is provided from the highest levels across the organisation.",
+        "page": 26,
+        "source": "MtAlexander-2020-roadmap-carbon-neutrality.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a number of strategies and actions that involve partnerships with community groups, NGOs, businesses, and other key stakeholders to manage the risks and impacts associated with climate change. The policy also highlights the importance of providing professional development training to staff about climate change and the need for climate-aware choices. Furthermore, the policy encourages the council to work in partnership with regional councils and other groups to develop regional projects to address climate change. The policy also outlines plans to provide community grants to assist community action on climate change, indicating a commitment to building capacity within the local community.",
+      "source": "MtAlexander-b-a12345678910.json",
+      "lga": "MtAlexander"
+    },
+    {
+      "answer": "The documents provide evidence that the local government policy encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a strategic direction to engage with stakeholders to build an understanding of how to effectively take action on climate change across the Shire. It also mentions facilitating community-led climate action through sector-specific community engagement and planning initiatives. The policy also includes a goal to empower community and business-led action. Furthermore, the policy outlines plans to educate staff and councillors on managing climate risks and communicating these risks to the public. While the documents do not explicitly mention neighbouring local councils, the emphasis on stakeholder engagement and community-led initiatives suggests a broader approach to capacity building that could include neighbouring councils.",
+      "source": "Murrindindi-a-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "Promote community adoption of climate-adapted and low emissions technologies and consideration of climate risk among Council's networks (business, suppliers/contractors, community groups, agencies).",
+        "page": 49,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a strategic direction to engage with stakeholders to build an understanding of how to effectively take action on climate change across the Shire. It also promotes community adoption of climate-adapted and low emissions technologies. The policy also aims to facilitate community-led climate action through sector-specific community engagement and planning initiatives. Furthermore, the policy sets a target for 10% of the community to take part in Council supported initiatives, indicating a clear intent to build local capacity for climate action. However, the documents do not explicitly mention building capacity with neighbouring local councils.",
+      "source": "Murrindindi-b-a12345678910.json",
+      "lga": "Murrindindi",
+      "quote": {
+        "content": "Engage with stakeholders to build an understanding of how to effectively take action on climate change across the Shire.",
+        "page": 35,
+        "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The Nillumbik 2022 Climate Action Plan does explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The plan outlines a commitment to climate action leadership and culture, and a climate resilient, adaptive, and safe community. It also emphasizes the importance of collaboration between communities, businesses, and all levels of government for effective climate action. The plan includes strategies to embed climate action within the CEO’s contract/performance plan, support and encourage all Council staff to engage in climate action within their roles, and leverage relationships with agencies, organisations, and groups to keep abreast of best practice climate action. Furthermore, the plan advocates for broad and urgent climate action by all levels of government to reduce and respond to climate change, and for climate action opportunities that will support the Nillumbik community to participate in, and contribute to, climate action.",
+      "source": "Nillumbik-a-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "Collaborate and advocate for broad and urgent climate action by all levels of government to reduce and respond to climate change.",
+        "page": 21,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The Nillumbik 2022 Climate Action Plan clearly encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The plan outlines a commitment to climate action leadership and culture, and a climate resilient, adaptive, and safe community. It also emphasizes the importance of collaboration between communities, businesses, and all levels of government for effective climate action. The plan also includes strategies to embed climate action within the roles of all Council staff and to leverage relationships with agencies, organisations, and groups to keep abreast of best practice climate action. Furthermore, the plan advocates for broad and urgent climate action by all levels of government to reduce and respond to climate change. These elements collectively suggest a strong emphasis on building local capacity for climate action.",
+      "source": "Nillumbik-b-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "1.2 To consider climate impact in day-to-day operations and when making Council decisions a. Embed delivery of the Climate Action Plan within the CEO’s contract / performance plan b.",
+        "page": 21,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines initiatives such as the 'Community Climate Resilience' and 'Cool Spaces Strategy' which involve supporting the community to develop and implement action plans to respond to climate impacts, and creating safe locations for the community during extreme heat. The policy also mentions the establishment of partnerships to improve opportunities for community resilience and adaptation. Furthermore, the policy highlights the council's membership in various environmental bodies and local government associations, such as the South East Councils Climate Change Alliance and the Council Alliance for a Sustainable Built Environment, which are aimed at achieving goals for greenhouse gas emissions reduction and climate resilience. These initiatives and partnerships demonstrate a commitment to building local capacity for climate action.",
+      "source": "PortPhillip-a-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "Establish partnerships to improve opportunities for community resilience and adaptation.",
+        "page": 48,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. It outlines several initiatives aimed at supporting community resilience to climate change impacts, including the development of a cool spaces strategy and a community flood awareness campaign. The document also mentions the establishment of partnerships to improve opportunities for community resilience and adaptation. Furthermore, the City of Port Phillip is part of several environmental bodies and local government associations, such as the South East Councils Climate Change Alliance and the Council Alliance for a Sustainable Built Environment. These partnerships allow for joint advocacy for action and the achievement of greenhouse gas emissions reduction and climate resilience goals.",
+      "source": "PortPhillip-b-a12345678910.json",
+      "lga": "PortPhillip",
+      "quote": {
+        "content": "Establish partnerships to improve opportunities for community resilience and adaptation.",
+        "page": 48,
+        "source": "PortPhillip-2023-Act-and-Adapt-Sustainable-Environment-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government is actively encouraging the building of local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a range of measures that involve collaboration and partnership with other bodies to bring about effective change in reducing greenhouse gas emissions. This includes participating with regional councils and other bodies to identify measures and take action, advocating for government leadership in setting targets and funding for greenhouse gas reduction, and participating in joint procurement of renewable power with other councils. The policy also outlines measures to reduce environmental footprint, such as reducing vehicle travel by providing virtual meetings and remote working options for staff, promoting the use of electric vehicles, and investigating waste to energy innovation. These actions demonstrate a commitment to building local capacity for climate action.",
+      "source": "Pyrenees-a-a12345678910.json",
+      "lga": "Pyrenees",
+      "quote": {
+        "content": "CVGA, DELWP Regional Climate Change Planning) Participate with regional councils, GVGA, GNet and others where appropriate to identify measures and take action to bring about a reduction in net GHG emissions. Participation with other bodies to investigate measures and bring about effective change (e.g.",
+        "page": 2,
+        "source": "Pyrenees-2021-Climate-Change-Response-Mitigation-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a range of measures that involve collaboration with other bodies and councils to address climate change. For instance, the council plans to participate with regional councils and other bodies to identify measures and take action to reduce net GHG emissions. They also plan to participate in joint procurement of renewable power with other participating councils. Furthermore, the council is committed to advocating for government leadership in setting targets and funding for GHG reduction. These actions demonstrate a clear intent to build local capacity and foster partnerships for climate action.",
+      "source": "Pyrenees-b-a12345678910.json",
+      "lga": "Pyrenees",
+      "quote": {
+        "content": "CVGA, DELWP Regional Climate Change Planning) Participate with regional councils, GVGA, GNet and others where appropriate to identify measures and take action to bring about a reduction in net GHG emissions. Participation with other bodies to investigate measures and bring about effective change (e.g.",
+        "page": 2,
+        "source": "Pyrenees-2021-Climate-Change-Response-Mitigation-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document indeed encourages building local capacity across the council, local communities, and neighboring local councils for climate action. It emphasizes the importance of community awareness, advocacy, and collaboration in addressing the climate emergency. The policy outlines a plan to develop a multi-platform Climate Emergency Response Plan Community Hub, which will serve as a crucial community engagement and communications tool. The council also commits to working with the community to advocate to all levels of government to achieve zero net emissions by 2031 or earlier. Furthermore, the council plans to support the community in developing a best-practice Climate Emergency Response Plan Ambassadors Strategy to encourage community participation and leadership. The policy also mentions the council's commitment to identifying and facilitating key partnerships and collaborations to maximize impact across the eight pillars of the Climate Emergency Response Plan.",
+      "source": "Queenscliffe-a-a12345678910.json",
+      "lga": "Queenscliffe"
+    },
+    {
+      "answer": "The document indeed encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. It emphasizes the importance of community awareness and advocacy in addressing the climate emergency. The policy outlines a plan for the council to work with the community to advocate to all levels of government to achieve zero net emissions by 2031 or earlier. It also highlights the need for collaboration within and outside of the Borough to maximize collective impact and remove duplication of effort. The policy also mentions the development of a Climate Emergency Response Plan Community Hub, which will serve as a crucial community engagement and communications tool. Furthermore, the council commits to identifying and facilitating key partnerships and collaborations to achieve maximum impact across the eight pillars of the Climate Emergency Response Plan.",
+      "source": "Queenscliffe-b-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "Council commits to working with community to advocate to all levels of government to achieve zero net emissions by 2031 or earlier, specifically advocating across all 8 Pillars of the CER",
+        "page": 29,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. The plan outlines specific actions, timelines, and responsible parties for various climate change adaptation strategies. These strategies include monitoring high impact invasive species, developing an Urban Forest and Open Space Assets Strategy, and facilitating improved community resilience and social connectedness. The plan also identifies internal and external partnerships for each action, indicating a collaborative approach to climate action. For instance, the Biodiversity Officer is identified as the action owner for monitoring invasive species, with partnerships including Infrastructure, DELWP, DEDJTR, GHCMA, and Landcare Groups. This suggests a concerted effort to build capacity across various stakeholders.",
+      "source": "SouthernGrampians-a-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. The plan outlines specific actions, timelines, and responsible parties for various climate change adaptation strategies. For instance, the plan includes actions such as monitoring high impact invasive species, developing an Urban Forest and Open Space Assets Strategy, and facilitating improved community resilience and social connectedness. These actions involve various internal and external partnerships, including with neighbouring councils, indicating a clear emphasis on building local capacity for climate action. The plan also assigns specific roles to various council officers, such as the Biodiversity Officer and Building Surveyors, further demonstrating the council's commitment to building internal capacity for climate action.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a 'whole-of-Council' response to the climate emergency, which involves embedding climate action across all council activities and services. The council also plans to educate and engage its staff to understand the climate emergency and support them in taking climate action in their roles. Furthermore, the policy emphasizes the importance of developing partnerships to maximize the effectiveness of its climate emergency response. This includes partnerships with the local community, neighbouring councils, and all levels of government. The policy also mentions the council's intention to work with key community groups to expand its reach, particularly with vulnerable community members. Therefore, the policy does encourage building local capacity for climate action.",
+      "source": "Stonnington-a-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "Developing partnerships will be a key way for Council to maximise the effectiveness of its climate emergency response. Our strategies, policies and services will be developed and delivered through a climate change lens. We will educate and engage Council staff to understand the climate emergency and support them to take climate action in their roles and areas of service delivery.",
+        "page": 28,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a 'whole-of-Council' response to the climate emergency, which involves embedding climate action across all council activities and services. The council also plans to educate and engage its staff to understand the climate emergency and support them in taking climate action in their roles. Furthermore, the policy emphasizes the importance of developing partnerships to maximize the effectiveness of its climate emergency response. This includes partnerships with the local community, neighbouring councils, and all levels of government. The policy also mentions the council's intention to work with key community groups to expand its reach, particularly with vulnerable community members. Therefore, the policy does encourage building local capacity for climate action.",
+      "source": "Stonnington-b-a12345678910.json",
+      "lga": "Stonnington",
+      "quote": {
+        "content": "Developing partnerships will be a key way for Council to maximise the effectiveness of its climate emergency response. Our strategies, policies and services will be developed and delivered through a climate change lens.",
+        "page": 28,
+        "source": "Stonnington-2021-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan indeed encourages building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The plan outlines a commitment to robust, progressive partnerships between all levels of government, the private sector, and the community. It also emphasizes the council's role in advocating for change and shaping the local area's environmental potential and performance. The plan includes specific actions such as advocating for local net zero emissions community energy solutions, partnering with local environment groups, and establishing a Climate Action Steering Committee. The council also plans to advertise for community members to join an Environment Reference Group to support the delivery of the council's climate change aspirations. These actions demonstrate a clear intent to build local capacity and foster partnerships for climate action.",
+      "source": "Strathbogie-a-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "To achieve our Shire targets, we will continue to engage in, and urge robust, progressive partnerships between all levels of government, the private sector, and the community.",
+        "page": 24,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan indeed encourages building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The plan outlines a commitment to robust, progressive partnerships between all levels of government, the private sector, and the community. It also emphasizes the council's role in advocating for change and shaping the local area's environmental potential and performance. The plan includes specific actions such as advocating for local net zero emissions community energy solutions, partnering with local environment groups, and advertising for community members to be on an Environment Reference Group to support the delivery of the council's climate change aspirations. These actions suggest a clear intent to build local capacity and foster partnerships for climate action.",
+      "source": "Strathbogie-b-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "To achieve our Shire targets, we will continue to engage in, and urge robust, progressive partnerships between all levels of government, the private sector, and the community.",
+        "page": 24,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a variety of actions and strategies aimed at fostering local capacity for climate action. These include inspiring, informing, enabling, and connecting people to develop a localised, community-owned and led response to climate change. The council also commits to supporting and facilitating sustained community-led climate action, sharing climate change data, stories, solutions, and information through various platforms to inspire action. Furthermore, the council plans to work in partnership with organisations like the Barwon South West Climate Alliance and Climate Emergency Australia, which could potentially include neighbouring local councils. Therefore, the policy does explicitly encourage building local capacity for climate action.",
+      "source": "SurfCoast-a-a12345678910.json",
+      "lga": "SurfCoast",
+      "quote": {
+        "content": "Council’s role will be to inspire, inform, enable and connect people to develop a localised, community owned and led response.",
+        "page": 26,
+        "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document indeed encourages building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy outlines the council's role in inspiring, informing, enabling, and connecting people to develop a localised, community-owned and led response to climate change. It also highlights the council's commitment to supporting and facilitating sustained community-led climate action. The council plans to share climate change data, stories, solutions, and information through various platforms to inspire action amongst council officers, councillors, and the community. The council also commits to working in partnership with organisations like the Barwon South West Climate Alliance and Climate Emergency Australia, which could include neighbouring local councils. Therefore, the document explicitly encourages building local capacity for climate action.",
+      "source": "SurfCoast-b-a12345678910.json",
+      "lga": "SurfCoast",
+      "quote": {
+        "content": "Council’s role will be to inspire, inform, enable and connect people to develop a localised, community owned and led response.",
+        "page": 26,
+        "source": "SurfCoast-2021-climate-emergency-corporate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. It outlines key strategic tasks such as managing stormwater and associated infrastructure effectively, and supporting the community to adapt to changes in water management, quality, and availability. The document also mentions the need to improve organisational capacity to protect and enhance biodiversity. Furthermore, it highlights the importance of developing and maintaining stakeholder relationships that increase external funding and resource opportunities for climate adaptation and mitigation activities. This suggests a focus on building capacity and fostering partnerships for climate action. The document also mentions the council's commitment to leading by example and encouraging community participation in sustainability programs, which indicates an advocacy for action.",
+      "source": "SwanHill-a-a12345678910.json",
+      "lga": "SwanHill",
+      "quote": {
+        "content": "This will include facilitating a partnership between Council and the community to develop and implement relevant and timely actions, resulting in the achievement of indentified sustainability goals within state, regional and local planning contexts.",
+        "page": 1,
+        "source": "SwanHill-Sustainable-Living-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. It outlines strategic tasks and goals that involve community engagement and partnership development for environmental sustainability. The council is committed to leading by example and encouraging community participation in sustainability programs. This includes facilitating a partnership between the council and the community to develop and implement relevant and timely actions, resulting in the achievement of identified sustainability goals within state, regional, and local planning contexts. The document also mentions the need to develop and maintain stakeholder relationships that increase external funding and resource opportunities for climate adaptation and mitigation activities. However, it does not explicitly mention coordination with neighbouring local councils.",
+      "source": "SwanHill-b-a12345678910.json",
+      "lga": "SwanHill",
+      "quote": {
+        "content": "This will include facilitating a partnership between Council and the community to develop and implement relevant and timely actions, resulting in the achievement of indentified sustainability goals within state, regional and local planning contexts.",
+        "page": 1,
+        "source": "SwanHill-Sustainable-Living-Strategy.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a commitment to strengthening partnerships and collaboration with various stakeholders, including Youth Council, businesses, and local community groups. This indicates an intention to build local capacity within the council and the local community. The policy also acknowledges the role of the community in reducing emissions through behaviour change, the uptake of renewables, and retrofitting. This suggests an intention to build capacity within the local community for climate action. While the documents do not explicitly mention neighbouring local councils, the council's participation in the Goulburn Murray Climate Alliance and Cities Power Partnership suggests a willingness to collaborate and build capacity with other councils.",
+      "source": "Wangaratta-a-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "We are a part of the Goulburn Murray Climate Alliance (GMCA), Cities Power Partnership (CPP) and recently signed a CPP joint statement committing to economic recovery solutions that create jobs while tackling climate change.",
+        "page": 24,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a commitment to strengthening partnerships and collaboration with various stakeholders, including Youth Council, businesses, and local community groups. This commitment suggests an intention to build capacity within the council and local communities. The policy also acknowledges the role of the community in reducing emissions through behaviour change, the uptake of renewables, and retrofitting. This indicates an intention to build capacity within the community for climate action. However, while the policy mentions the council's participation in the Goulburn Murray Climate Alliance and Cities Power Partnership, it does not explicitly mention building capacity with neighbouring local councils.",
+      "source": "Wangaratta-b-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "We recognise the important role the community plays in reducing emissions for the municipality through behaviour change, the uptake of renewables and retrofitting.",
+        "page": 24,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. It outlines a number of initiatives and actions that are aimed at engaging and supporting the community to act on climate change. For instance, the document mentions the development of neighbourhood level energy systems and the promotion of community energy projects. It also emphasizes the importance of community involvement in achieving the council's climate change goals. However, the document does not explicitly mention coordination or partnerships with neighbouring local councils. The focus is primarily on the local community and the council itself.",
+      "source": "Warrnambool-a-a12345678910.json",
+      "lga": "Warrnambool",
+      "quote": {
+        "content": "There are significant opportunities for community energy and Council will support the community and give the tools to develop neighbourhood level energy systems. Community energy projects will play a critical role in driving change at the grassroots level. The community will be engaged and supported to come together to act on climate change.",
+        "page": 6,
+        "source": "Warrnambool-Green-Warrnambool.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. It outlines a number of initiatives aimed at engaging and supporting the community to act on climate change. For instance, it mentions the development of neighbourhood level energy systems and the promotion of community energy projects. The document also emphasizes the role of the council in providing information and tools to the community to manage their own assets and reduce emissions. Furthermore, it highlights the importance of partnerships with institutions, agencies, universities, industries, businesses and community leaders in developing responses to climate change. However, while the document encourages local capacity building and collaboration, it does not specifically mention coordination with neighbouring local councils.",
+      "source": "Warrnambool-b-a12345678910.json",
+      "lga": "Warrnambool",
+      "quote": {
+        "content": "There are significant opportunities for community energy and Council will support the community and give the tools to develop neighbourhood level energy systems. Community energy projects will play a critical role in driving change at the grassroots level. The community will be engaged and supported to come together to act on climate change.",
+        "page": 6,
+        "source": "Warrnambool-Green-Warrnambool.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed provide evidence that the local government policy encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a range of actions and strategies aimed at enhancing the capacity of council staff and the community to adapt to climate change. These include providing up-to-date guidance and education materials to community groups (Objective 1.7), facilitating legal guidance for councillors and executives on emerging climate change litigation risk (Objective 1.9), and developing and delivering training packages for appropriate council staff to build climate change adaptation awareness (Objective 1.10). The policy also mentions strategic partnerships with key stakeholders that deliver a range of services across land management, healthcare, water management, resource efficiency, and business development. While the documents do not explicitly mention neighbouring local councils, the emphasis on partnerships and collaboration suggests that they could be included in these efforts.",
+      "source": "Wellington-a-a12345678910.json",
+      "lga": "Wellington",
+      "quote": {
+        "content": "Work with our key partners to ensure our community understand their exposure to climate risk and strategies they can adopt to minimise the impact on their health and financial wellbeing.",
+        "page": 23,
+        "source": "Wellington-Sustainability-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed provide evidence of the local government's commitment to building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a range of actions and strategies aimed at enhancing the capacity of council staff and the community to adapt to climate change. These include providing up-to-date guidance and education materials to community groups, facilitating legal guidance for councillors and executives on emerging climate change litigation risk, and developing and delivering training packages for council staff to build climate change adaptation awareness. The policy also emphasizes the council's role in building community awareness and promoting change in the way the environment is utilized and conserved. Furthermore, the policy mentions strategic partnerships with key stakeholders that deliver a range of services across land management, healthcare, water management, resource efficiency, and business development.",
+      "source": "Wellington-b-a12345678910.json",
+      "lga": "Wellington",
+      "quote": {
+        "content": "While internal capacity building is an important part of the strategy, we are also focused on a commitment to build the capacity of our community, local business and industry through strategic partnerships with our key stakeholders that deliver a range of services across land management, healthcare, water management, resource efficiency and business development.",
+        "page": 52,
+        "source": "Wellington-Sustainability-Strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed provide evidence of the local government's commitment to building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a multi-faceted approach to climate action, which includes encouraging local leadership, reducing emissions, and embedding climate action across operations. It also emphasizes the importance of forming alliances, building partnerships, and collaborating across all levels of government to deliver shared projects and scale up action. The policy also highlights the role of the council as a planning authority to advocate for and embed climate change and sustainability into land use planning, policy, and decision-making. Furthermore, the policy outlines plans to leverage existing community programs and networks to raise awareness about the relationship between climate change and health & wellbeing, and promote opportunities to improve community resilience.",
+      "source": "Whitehorse-a-a12345678910.json",
+      "lga": "Whitehorse"
+    },
+    {
+      "answer": "The documents indeed provide evidence of the local government's commitment to building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a multi-faceted approach to climate action, which includes encouraging local leadership, reducing emissions, and embedding climate action across operations. It also emphasizes the importance of forming alliances, building partnerships, and collaborating across all levels of government to deliver shared projects and scale up action. The policy also highlights the role of the council as a planning authority to advocate for and embed climate change and sustainability into land use planning, policy, and decision-making. Furthermore, the policy outlines plans to leverage existing community programs and networks to raise awareness about the relationship between climate change and health & wellbeing, and promote opportunities to improve community resilience.",
+      "source": "Whitehorse-b-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "Leverage existing community programs and networks to raise awareness about the relationship between climate change and health & wellbeing, and promote opportunities to improve community resilience.",
+        "page": 8,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 0.93
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to fostering knowledge sharing and collaboration with various stakeholders, including landowners, businesses, industries, and other organisations. It also mentions a partnership with NAGA (Northern Alliance for Greenhouse Action) to create a zero-carbon society and provide maximum protection against climate change impacts across municipal boundaries. Furthermore, the policy emphasises the importance of community empowerment in all six plans related to environmental sustainability, including climate change. It also highlights the council's role in leading, supporting, and facilitating municipal-wide collaboration for climate action.",
+      "source": "Whittlesea-a-a12345678910.json",
+      "lga": "Whittlesea"
+    },
+    {
+      "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to fostering knowledge sharing and collaboration with various stakeholders, including landowners, businesses, industries, and other organisations. It also mentions a partnership with NAGA (Northern Alliance for Greenhouse Action) to create a zero-carbon society and provide maximum protection against climate change impacts across municipal boundaries. Furthermore, the policy emphasises the importance of community empowerment in all six plans related to environmental sustainability, including climate change. It also highlights the council's role in leading, supporting, and facilitating municipal-wide collaboration for climate action.",
+      "source": "Whittlesea-b-a12345678910.json",
+      "lga": "Whittlesea"
+    },
+    {
+      "answer": "The documents clearly indicate that the local government policy encourages building local capacity across the council, their local communities, and neighbouring local councils for climate action. The Climate Change Adaptation Action Plan (CCAAP) has been developed with community feedback and is aimed to be implemented in partnership. The policy also emphasizes facilitating greater engagement and action with staff on climate change. The CCAAP 2017-2021 was developed to assist council operations to increase the resilience of council’s infrastructure and service delivery by building internal capacity to absorb, adapt and adjust to the expected impacts of climate change. It also promotes cooperative partnerships with neighbouring councils to facilitate adaptation. Therefore, the policy explicitly encourages building local capacity across council, their local communities and neighbouring local councils for climate action.",
+      "source": "Wodonga-a-a12345678910.json",
+      "lga": "Wodonga",
+      "quote": {
+        "content": "The CCAAP 2017-2021 was developed to assist council operations to: • Embed the climate change lens over all operational and strategic policy and decision-making; • Increase the resilience of council’s infrastructure and service delivery by building internal capacity to absorb, adapt and adjust to the expected impacts of climate change; and, • Promote co-operative partnerships with neighbouring councils to facilitate adaptation.",
+        "page": 9,
+        "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government policy encourages building local capacity across the council, their local communities, and neighbouring local councils for climate action. The Climate Change Adaptation Action Plan (CCAAP) has been developed with community feedback and is aimed to be implemented in partnership. The policy also emphasizes facilitating greater engagement and action with staff on climate change. The CCAAP 2017-2021 was developed to assist council operations to increase the resilience of council’s infrastructure and service delivery by building internal capacity to absorb, adapt and adjust to the expected impacts of climate change. It also promotes cooperative partnerships with neighbouring councils to facilitate adaptation. Therefore, the policy explicitly encourages building local capacity across council, their local communities and neighbouring local councils for climate action.",
+      "source": "Wodonga-b-a12345678910.json",
+      "lga": "Wodonga",
+      "quote": {
+        "content": "The CCAAP 2017-2021 was developed to assist council operations to: • Embed the climate change lens over all operational and strategic policy and decision-making; • Increase the resilience of council’s infrastructure and service delivery by building internal capacity to absorb, adapt and adjust to the expected impacts of climate change; and, • Promote co-operative partnerships with neighbouring councils to facilitate adaptation.",
+        "page": 9,
+        "source": "Wodonga-2022-Climate_Change_Adaptation_Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. The policy outlines a collaborative approach to managing the potential impacts of climate change, emphasizing the need to understand the current levels of capacity to deal with immediate risks such as heatwaves, and to promote capacity so that the community can build self-reliance. The policy also highlights the importance of engaging with the community to understand how they are already adapting to climate change and to build their capacity to understand the potential range of impacts likely under climate change. Furthermore, the policy encourages the integration of climate change considerations into council policies and systems, fostering community understanding and leadership around climate change impacts, and building on existing and developing new stakeholder relationships to establish a clear understanding of roles and responsibilities in relation to climate risks.",
+      "source": "Wyndham-a-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "We need to understand the current levels of capacity to deal with immediate risks such as heatwaves, but also promote capacity so that our community can build self-reliance, strengthening our community. Managing the potential impacts of climate change requires a collaborative approach, not only with other government authorities, but importantly with our community.",
+        "page": 12,
+        "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents do explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. The policy outlines a collaborative approach to managing the potential impacts of climate change, emphasizing the need to understand the current levels of capacity to deal with immediate risks such as heatwaves, and to promote capacity so that the community can build self-reliance. The policy also highlights the importance of engaging with the community to understand how they are already adapting to climate change and to build their capacity to understand the potential range of impacts likely under climate change. Furthermore, the policy encourages the integration of climate change considerations into council policies and systems, fostering community understanding and leadership around climate change impacts, and building on existing and developing new stakeholder relationships to establish a clear understanding of roles and responsibilities in relation to climate risks.",
+      "source": "Wyndham-b-a12345678910.json",
+      "lga": "Wyndham",
+      "quote": {
+        "content": "We need to understand the current levels of capacity to deal with immediate risks such as heatwaves, but also promote capacity so that our community can build self-reliance, strengthening our community. Managing the potential impacts of climate change requires a collaborative approach, not only with other government authorities, but importantly with our community.",
+        "page": 12,
+        "source": "Wyndham-2016-climate-adaptation-strategy.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a strategic approach to mobilise and enable the community to respond to the climate emergency. It emphasises the importance of collective action and the role of the council in bringing people together and enabling them to be active citizens creating change. The policy also highlights the council's role in advocating for stronger climate action at other levels of government, collaborating with others to grow the climate emergency movement, and sharing learnings to encourage more councils, organisations, and businesses to declare and respond to the climate emergency. The council also plans to partner with other councils and government agencies to improve vegetation connectivity across borders, indicating a commitment to collaboration and capacity building with neighbouring councils.",
+      "source": "Yarra-a-a12345678910.json",
+      "lga": "Yarra",
+      "quote": {
+        "content": "Yarra Council has a significant role to play in bringing people together and enabling them to be active citizens creating change. The sheer scale and complexity of the climate emergency challenge requires that we work together — the actions of individuals, particular institutions or sectors cannot solve it alone.",
+        "page": 30,
+        "source": "Yarra-2020-climate-emergency-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government is committed to building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a strategic approach to mobilise and enable the community to respond to the climate emergency. It emphasises the importance of collective action and the role of the council in bringing people together and enabling them to be active citizens creating change. The policy also highlights the council's role in partnering with others, including other councils and alliances, to scale up efforts and collectively push for change. The council plans to deliver community programs to accelerate climate action, including a 'community connectors' program to enable people to take climate action in their communities. The council also plans to advocate to other levels of government for stronger climate action, and to support the growth of the climate emergency movement by collaborating and sharing learnings with others.",
+      "source": "Yarra-b-a12345678910.json",
+      "lga": "Yarra",
+      "quote": {
+        "content": "Yarra Council has a significant role to play in bringing people together and enabling them to be active citizens creating change. The sheer scale and complexity of the climate emergency challenge requires that we work together — the actions of individuals, particular institutions or sectors cannot solve it alone.",
+        "page": 30,
+        "source": "Yarra-2020-climate-emergency-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed provide evidence of the local government's commitment to building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a comprehensive approach to climate change, which includes working in partnership with other tiers of government and all sectors of the community. It also emphasizes the importance of collaboration and partnerships in achieving its climate action goals. For instance, the policy mentions the establishment of a Resilient Communities Program to help local communities overcome barriers to investing in climate resilience measures. It also highlights the need for inter-agency and regional partnership approaches to facilitate regional resilience. Furthermore, the policy encourages the council to continue partnering across the region and government sector to deliver on climate change initiatives through a collaborative approach.",
+      "source": "YarraRanges-a-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "Eastern Alliance for Greenhouse Action (EAGA), Cities Power Partnership, Sustainability Victoria’s TAKE2 program. Continue to partner across the region and government sector, to deliver on climate change initiatives through a collaborative approach; e.g.",
+        "page": 7,
+        "source": "YarraRanges-2020-liveable-climate-action-plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents indeed provide evidence of the local government's commitment to building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a comprehensive approach to climate change, which includes working in partnership with other tiers of government and all sectors of the community. It also emphasizes the importance of collaboration and partnerships in achieving its climate action goals. For instance, the policy mentions the establishment of a Resilient Communities Program to help local communities overcome barriers to investing in climate resilience measures. It also highlights the need for inter-agency and regional partnership approaches to facilitate regional resilience. Furthermore, the policy encourages the council to continue partnering across the region and government sector to deliver on climate change initiatives through a collaborative approach.",
+      "source": "YarraRanges-b-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "Continue to partner across the region and government sector, to deliver on climate change initiatives through a collaborative approach.",
+        "page": 7,
+        "source": "YarraRanges-2020-liveable-climate-action-plan.pdf",
+        "search_score": 0.93
+      }
+    }
+  ]
+}

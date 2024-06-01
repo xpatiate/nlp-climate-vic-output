@@ -1,0 +1,281 @@
+{
+  "settings": {
+    "source_files": [
+      "Melton-Climate-Change-Adaptation-Plan-2020-2030.pdf",
+      "Melton-Environment-Plan-2017-2027.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T20:16:46.437785",
+    "lga": "Melton"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Melton Climate Change Adaptation Plan 2020-2030, clearly identifies climate action as its core purpose. The policy is designed to manage the risks of a changing climate, maximise positive outcomes, and build the resilience of the City of Melton. It provides a formal and coordinated climate change adaptation framework and action plan for the future. The policy is organised into five themes: Community Wellbeing and Emergency Management, Open Space and Water Security, Assets and Infrastructure, Planning, Buildings and Regulations, and Governance and Risk. Each theme contains specific actions to address climate change impacts. The policy also outlines strategies to improve understanding of climate change-related exposure to legal and financial risk, integrate climate change considerations into relevant plans, policies and processes, and monitor climate change impacts on Council service delivery and operations. Therefore, it is evident that climate action is the core purpose of this policy.",
+          "quote": {
+            "content": "The aim of this Plan is to manage the risks of a changing climate to maximise positive outcomes and build the resilience of the City of Melton.",
+            "page": 4,
+            "source": "Melton-Climate-Change-Adaptation-Plan-2020-2030.pdf",
+            "search_score": 0.93
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They outline a comprehensive Climate Change Adaptation Plan, which is a response to current and anticipated future changes due to climate change. The plan is designed to reduce the local government's own contribution to climate change, achieve net zero emissions by 2040, and adapt to the unavoidable impacts of climate change. The documents highlight that climate change will affect most areas of council operations, services, and functions, and therefore, it is important to embed climate change considerations in relevant strategies and plans. The documents also emphasize the need to update existing strategies, policies, and processes to embed climate change adaptation considerations. The plan includes specific actions, such as improving understanding of climate change related exposure to legal and financial risk, integrating climate change considerations in relevant plans, policies, and processes, and monitoring climate change impacts on Council service delivery and operations.",
+          "quote": {
+            "content": "While Council is already managing many of these impacts, this Plan provides a formal and coordinated climate change adaptation framework and action plan for the future.",
+            "page": 2,
+            "source": "Melton-Climate-Change-Adaptation-Plan-2020-2030.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a 10-year framework for climate change adaptation, with actions organized into five themes: Community Wellbeing and Emergency Management, Open Space and Water Security, Assets and Infrastructure, Planning, Buildings and Regulations, and Governance and Risk. The documents detail various strategies and actions to be taken, but these are generally framed as ongoing or medium-term priorities. The language used does not convey a sense of urgency or immediate action. Instead, the focus is on planning, understanding, and gradually integrating climate change considerations into various aspects of local government policy and operations. The documents also mention collaboration with other councils and the state government to understand and respond to climate change-related risks."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. It outlines a 10-year framework for the Climate Change Adaptation Plan, supported by a rolling three-year Action Plan. The plan is organized into five themes, each with its own set of actions. These actions are further categorized into short-term (0-3 years), medium-term (4-6 years), and long-term (7+ years) priorities. The document also mentions that ongoing priorities are those that may already be occurring and are expected to continue into the future. This clear delineation of timeframes for different actions indicates a structured and phased approach to addressing climate change, allowing for both immediate and long-term strategies."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Climate Change Adaptation Plan does outline a comprehensive framework for addressing climate change impacts, including a 10-year plan and a rolling three-year Action Plan. The plan is organized into five themes: Community Wellbeing and Emergency Management, Open Space and Water Security, Assets and Infrastructure, Planning, Buildings and Regulations, and Governance and Risk. However, the documents do not explicitly prioritize climate change response over other policies. Instead, they suggest a coordinated and integrated approach, where climate change considerations are embedded into relevant strategies, plans, and processes as they are updated or developed. This suggests a recognition of the importance of addressing climate change, but not necessarily a prioritization over all other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate a strong commitment to integrating climate change considerations into various aspects of council operations. For instance, the documents mention the need to integrate climate change considerations into relevant plans, policies, and processes as they are developed and updated. They also highlight the importance of understanding and responding to climate-related exposure to legal and financial risks. However, these actions are not explicitly stated as a requirement for all council activities. Instead, they are presented as strategic priorities or actions within specific areas such as governance, risk, planning, building, and regulation. Therefore, while the documents demonstrate a clear focus on addressing climate change, they do not provide explicit evidence that all council activities must be aligned with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the Climate Change Adaptation Plan does outline a range of actions and strategies to address climate change, it does not provide specific details about the allocation of funding for these actions. The plan does mention resourcing for certain actions, but it does not provide clear details about what this resourcing entails or whether it includes financial resources. The documents also mention the need for financial planning for medium- and long-term priorities, but again, no specific funding allocations are mentioned. Therefore, based on the provided documents, it cannot be definitively stated that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Climate Change Adaptation Plan does allocate non-monetary institutional resources to climate action. The plan outlines various actions and assigns responsibility to different units within the local government. For instance, the 'City Design and Strategy' unit is tasked with integrating climate change considerations into relevant plans, policies, and processes as they are developed and updated. The 'Environment and Waste' unit is assigned to establish a process for monitoring, evaluating, and reporting on climate change impacts on Council service delivery and operations. The 'Risk and Performance' unit is responsible for improving the ability to respond to extreme weather events through understanding current emergency response capacity. These allocations indicate that the plan does not only rely on monetary resources but also leverages existing institutional resources, such as staff and departments, to implement climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of the local government's efforts to empower and educate the community to work together on climate action. The policy outlines a number of actions aimed at engaging the community in climate change adaptation. These include defining and improving understanding of climate change vulnerable communities, developing and disseminating culturally appropriate communication material, and investigating options to strengthen community connection. The policy also mentions the development of a program similar to the Community Fireguard to plan for extreme weather events, which suggests an effort to mobilize the community to respond to climate-related risks. Furthermore, the policy emphasizes the need for targeted engagement approaches for vulnerable communities, suggesting an inclusive approach to social mobilization. The policy also mentions the use of the LEADS model (Lead, Educate, Advocate, Demonstrate Sustainability) to reach a wide audience, which indicates an educational component to their approach.",
+          "quote": {
+            "content": "Investigate developing a program similar to the Community Fireguard to plan for extreme weather events including flooding and heatwaves, and identify a high risk neighbourhood to trial.",
+            "page": 15,
+            "source": "Melton-Climate-Change-Adaptation-Plan-2020-2030.pdf",
+            "search_score": 0.94
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Climate Change Adaptation Plan of the City of Melton does include specific actions for mitigation of greenhouse gas emissions. However, the focus of the plan is more on adaptation to climate change rather than mitigation. The plan outlines actions such as reducing greenhouse gas emissions from public lighting, which includes technological solutions like improving the efficiency of sports lighting and changing over decorative public street lighting to energy efficient technologies. The plan also mentions the council's commitment to achieving net zero emissions by 2040, as set out in the Environment Plan 2017-2027. However, the plan does not explicitly mention behaviour change as a strategy for mitigation of greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Change Adaptation Plan indeed includes specific actions for climate adaptation and resilience. The plan is organized into five themes: Community Wellbeing and Emergency Management, Open Space and Water Security, Assets and Infrastructure, Planning, Buildings and Regulations, and Governance and Risk. Each theme has specific actions outlined to address climate change adaptation. For instance, under the theme of 'Open Space and Water Security', the plan proposes to seek opportunities to harvest stormwater and access other alternative water supplies to enhance water security and mitigate the urban heat island effect. Under 'Planning, Buildings and Regulations', the plan suggests strengthening planning controls related to climate change adaptation, including bushfire and flooding overlays. The plan also includes an Implementation Plan to support the delivery of these actions."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide a detailed plan for climate change adaptation, with specific actions, rationales, and responsibilities outlined. The Melton Climate Change Adaptation Plan 2020-2030, for instance, is organized into five themes, each with specific actions. These actions are supported by rationales and opportunities, indicating a well-thought-out approach. The plan also includes a review of planning controls related to climate change adaptation, suggesting a commitment to continuous improvement. The plan's actions are based on best available evidence and are adjustable to changes in circumstances and available information, indicating a robust and flexible approach. The plan also includes a commitment to monitor climate change impacts on council service delivery and operations, suggesting a commitment to evidence-based decision making. However, the documents do not provide specific sources for their evidence, which may raise questions about the robustness of the evidence base."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a monitoring, reporting, and evaluation process that will help build knowledge about the environment and assess progress towards meeting goals. This process includes the use of indicators, which are measures of physical, biological, or socio-economic factors that provide information on the state or condition of the environment. These indicators will be used to form the basis of an annual public State of the Environment report, which will outline trends in environmental issues and help determine whether the goals of the plan are being achieved. The plan also includes the setting of targets, which will assist the council in working towards timely and meaningful outcomes. These targets will be updated through the plan's monitoring process as new information becomes available.",
+          "quote": {
+            "content": "These will be used to form the basis of an annual public State of the Environment report. Indicators are measures of physical, biological or socio-economic factors that provide us with information on the state or condition of the environment. Collecting information on indicators over time allows us to measure our progress towards our goals and objectives. Potential indicators have been suggested for each of the key themes.",
+            "page": 8,
+            "source": "Melton-Environment-Plan-2017-2027.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The Climate Change Adaptation Plan provides a 10-year framework supported by a rolling three-year Action Plan. The plan is organized into five themes, one of which is 'Community Wellbeing & Emergency Management'. This theme includes actions such as engaging with the community on climate change adaptation, defining and improving understanding of climate change vulnerable communities, and developing and disseminating graphic-rich, culturally appropriate communication material targeting the most vulnerable communities. The plan also mentions the use of the 'How Well Are We Adapting' tool to understand long-term trends and inform the development of appropriate adaptation actions. These actions suggest a commitment to conducting research within the local community to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. The Climate Change Adaptation Plan outlines a structured approach to addressing climate change, with actions organised into five themes: Community Wellbeing and Emergency Management, Open Space and Water Security, Assets and Infrastructure, Planning, Buildings and Regulations, and Governance and Risk. The plan includes actions such as strengthening planning controls related to climate change adaptation, advocating for improved building standards, and integrating climate change considerations into relevant plans, policies, and processes. However, these actions appear to be standard responses to climate change rather than innovative or experimental policies. The plan does not detail any novel approaches or experimental policies being implemented or considered. Therefore, based on the provided documents, it cannot be affirmed that there is evidence of innovation and policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines several strategies and actions that involve advocating for stronger state and national policies. For instance, the local government plans to strengthen private realm infrastructure through updating planning controls and advocating for stronger state and national policies. They also plan to work with the Municipal Association of Victoria to advocate for improved building standards that are adequate for future climate conditions. Furthermore, the policy mentions advocating to the Australian Building Commission for improved building standards that incorporate long-term local impacts of climate change. These actions demonstrate a clear intent to engage with and influence higher levels of government to support climate action.",
+          "quote": {
+            "content": "Work with Municipal Association of Victoria to advocate for improved building standards that are adequate for future climate conditions.",
+            "page": 16,
+            "source": "Melton-Climate-Change-Adaptation-Plan-2020-2030.pdf",
+            "search_score": 0.91
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents indeed encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy outlines a strategic priority to work with other councils and levels of government to understand the financial and legal risks and responsibilities of local government in a changing climate. It also emphasizes the need for communication to raise awareness and understanding, and empowerment to take collective action, with particular attention paid to vulnerable populations. The policy also advocates for improved building standards that incorporate long-term local impacts of climate change and encourages the council to work with the Municipal Association of Victoria to advocate for these improved standards. Furthermore, the policy suggests the development of partnerships to improve urban sustainability outcomes and to facilitate improved landscape scale land and water management outcomes."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations and alliances related to climate. The Melton City Council is a member of the Western Alliance for Greenhouse Action (WAGA), which has developed a regional risk assessment and a Climate Change Adaptation Strategy for 2013-2020 to respond to priority climate change risks for the region. The council has been working with WAGA to understand climate change-related exposure to increased costs, new or expanded liability risks, and insurance claims. The council also collaborates with other councils to understand, identify, and respond to changing risk exposure. Furthermore, the council seeks guidance from the State government on how to respond to changing risk exposure. This indicates a clear emphasis on partnerships and collaborations to address climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. They highlight that climate change will have a particularly high impact on vulnerable communities, including the elderly, the very young, those living alone, those experiencing low-socioeconomic circumstances, and culturally and linguistically diverse people. The documents also mention that due to high levels of disadvantage, the City of Melton has a relatively high number of residents that will be particularly exposed to climate change impacts. The policy outlines plans to engage with these communities, develop and disseminate culturally appropriate communication material, and improve understanding of climate change vulnerable communities. This shows a clear recognition of the differential impacts of climate change on various segments of the population, and a commitment to addressing these disparities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention actions to mitigate climate change impacts and strategies to adapt to climate change, they do not specifically address the distribution of benefits and opportunities. The documents focus on actions such as harvesting stormwater, assessing planting selections, embedding climate change mitigation into council plans, and improving understanding of climate change related risks. However, these actions are not directly linked to the equitable sharing of benefits and opportunities. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 72.5
+  }
+}

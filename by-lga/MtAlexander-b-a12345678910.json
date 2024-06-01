@@ -1,0 +1,281 @@
+{
+  "settings": {
+    "source_files": [
+      "MtAlexander-2016-climate-action-plan.pdf",
+      "MtAlexander-2020-roadmap-carbon-neutrality.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T20:47:29.691199",
+    "lga": "MtAlexander"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review clearly identifies climate action as a core purpose. The policy outlines the local government's commitment to integrating climate change considerations across its operations and advocating for climate action within the community. The policy's goals include reducing greenhouse gas emissions, becoming carbon neutral by 2025, and implementing adaptation measures to manage climate risks and vulnerabilities. The policy also outlines specific actions to achieve these goals, such as implementing the Regional Climate Adaptation Plan, developing and implementing a Climate Change Action Plan, and managing the impacts of extreme weather events. The policy also emphasizes the importance of monitoring and reporting on its climate action efforts, indicating a commitment to transparency and accountability in achieving its climate action goals.",
+          "quote": {
+            "content": "Intermediate outcome (2015-2025): \nCouncil has integrated consideration of \nclimate change into all operations and actively \ninfluences and advocates about adaptation \nand mitigation more broadly. The policy states two important milestones that guide this Action Plan. They are:\nLong-term goal (2025-2040): \nCouncil is carbon neutral and is resilient to \nthe impacts of climate change.",
+            "page": 4,
+            "source": "MtAlexander-2016-climate-action-plan.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the human influence on global warming and the associated impacts on people and ecosystems. The local government is committed to reducing greenhouse gas emissions and addressing climate change vulnerability, with a specific target to become carbon neutral by 2025. The documents outline key actions to achieve this goal, including reducing methane pollution from landfills, installing renewable energy capacity, optimizing and electrifying the vehicle fleet, and implementing substantial energy efficiency measures. The documents also emphasize the importance of adaptation measures for vulnerable people and places, and the provision of support and advocacy for community-based and regional climate change response projects. The need for action is further underscored by the commitment to integrate a climate change lens into all of the council's activities, and to hold the council accountable for the actions in the plan.",
+          "quote": {
+            "content": "Council supports efforts to radically reduce greenhouse gas emissions and address climate change vulnerability, and intends to become carbon neutral in 2025. Human influence on the global climate system is responsible for global warming and the related impacts on people and ecosystems.",
+            "page": 4,
+            "source": "MtAlexander-2016-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for 'rapid and urgent' action on climate change. While the documents do outline a commitment to addressing climate change, including a goal for the council to become carbon neutral by 2025, and various strategies and actions to reduce greenhouse gas emissions and adapt to changing weather conditions, there is no explicit language used that conveys a sense of urgency or rapid action. The documents focus more on long-term planning and gradual implementation of climate change mitigation and adaptation measures. The language used in the documents suggests a measured and strategic approach to addressing climate change, rather than an urgent or rapid response."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The Council has set an ambitious target to become carbon neutral by 2025, as stated in the first document. This goal is reiterated in the 'Roadmap to Carbon Neutrality' document, which outlines actions to be taken over the five years from 1 July 2020 to 30 June 2025. The roadmap is divided into nine priority areas, each with its own timeline for achieving specific goals. For instance, the Council aims to achieve 100% renewable electricity supply by 2022 and zero-net emissions buildings by 2025. The documents also mention annual reporting on the progress of the action plan, indicating a continuous monitoring and evaluation process."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a comprehensive plan for addressing climate change, including setting ambitious targets for carbon neutrality and integrating climate change considerations into all operations, they do not explicitly prioritize these actions over other policy areas. The documents emphasize the importance of climate change action and outline a range of strategies and actions to address it, but they do not make a clear statement about the relative priority of these actions compared to other policy areas. Therefore, without explicit evidence, we cannot affirm that a climate emergency response is given higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to integrating climate change considerations into its operations and advocating for climate change adaptation and mitigation, they do not mandate that all council activities must align with these climate policies. The documents outline specific goals, actions, and strategies related to climate change, such as reducing greenhouse gas emissions, becoming carbon neutral, and implementing adaptation measures. However, these are presented as specific objectives or areas of focus, rather than as a requirement for all council activities. Furthermore, the documents acknowledge that the implementation of these actions is subject to budgetary constraints and external funding, suggesting that not all activities may be able to align with these climate policies."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents outline various actions and strategies related to climate change adaptation and mitigation, there is no clear mention of specific budget allocations or funding sources for these actions. The documents do mention that the implementation of actions is subject to the annual budget process of the Council and/or external funding, but they do not provide specific details about the amounts allocated or the sources of such funding. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific responsibilities for different areas of the council, such as the CEO, Climate Change, Leadership Team, Procurement, and Environment. These responsibilities include integrating climate change action implementation and sustainability across the council, aligning procurement and contractor service providers with the council's ambition for zero-net emissions, and developing a working group and an offset/inset strategy. The plan also mentions the need for a program of education, events, and training aimed at raising awareness of the roadmap and facilitating more climate-aware choices by staff. This indicates a commitment to mobilising institutional resources, including staff time and expertise, towards climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a number of initiatives aimed at engaging the community and fostering collaboration. For instance, the policy mentions the development of Memoranda of Understanding with local climate change action groups, partnering with regional councils and other groups to develop regional projects addressing climate change, and providing community grants to assist community action. The policy also highlights the importance of community education through sustainable living workshops. Furthermore, the policy supports youth involvement in climate change projects and recognises young sustainability leaders through the Mount Alexander Youth Awards. These initiatives demonstrate a clear commitment to social mobilisation for climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's climate action plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of strategies, both technological and behavioural, to address climate change. Technological solutions include reducing methane pollution from the Castlemaine landfill, installing renewable energy capacity, and gradually electrifying the vehicle fleet. Behavioural changes are also encouraged, such as professional development training for planning staff to influence customers to design climate change ready developments, and integrating a climate change lens into council’s design and construction of infrastructure. The plan also includes the integration of climate change considerations into all operations and actively influencing and advocating about adaptation and mitigation more broadly. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change.",
+          "quote": {
+            "content": "Council also commits to substantial energy efficiency measures, implementing adaptation measures for the most vulnerable people and places, and to providing support and advocacy for community-based and regional climate change response projects. The key actions for Council to decarbonise are to reduce methane pollution from the Castlemaine landfill, to install significant renewable energy capacity and to optimise and then gradually electrify the vehicle fleet as this technology becomes more accessible.",
+            "page": 4,
+            "source": "MtAlexander-2016-climate-action-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Adaptation Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a range of measures to ensure that climate change adaptation is fully considered in the council's risk register and in project and contract management. It also includes actions to ensure that natural environment, waste, and sustainability expertise is utilized during the evaluation of significant procurements. The plan also provides for professional development training to planning staff about influencing customers to design climate change ready developments. Furthermore, the plan includes actions to manage and minimize the impacts on the council and the community from heatwaves, fires, floods, and other extreme weather events. It also outlines the council's commitment to work in partnership with the community, locally-based and relevant NGOs, business, and other key stakeholders to manage the risks and impacts associated with climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines various actions and targets related to climate change, such as reducing waste emissions, replacing fossil fuel energy with renewable energy, and implementing necessary climate change adaptation measures, it does not provide specific, well-sourced evidence to justify these targets and actions. The policy does mention the need for a 'climate change lens' and the integration of climate change considerations into all operations, but it does not provide clear, well-sourced evidence to support these strategies. Furthermore, while the policy mentions the involvement of various groups in its development, it does not provide details on the nature of their contributions or the evidence they provided to support the policy's targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a monitoring, evaluation, and reporting plan, which is integrated with the Council's existing reporting software systems. The public is also engaged in the active monitoring of progress. The Environment Strategy Evaluation Plan includes evaluation questions and a community engagement approach. The plan also includes sub-key evaluation questions that will form the basis for Action Plan reporting. These questions cover a range of areas, including emissions data, evidence of the integration of climate change thinking across the organization, and the development and implementation of plans for managing and minimizing climate risks and vulnerabilities. The plan also includes specific actions, each with a target, responsibility, performance indicator, and intended completion date. This level of detail allows for clear tracking and evaluation of the plan's success.",
+          "quote": {
+            "content": "The relevant sub-key evaluation question will be the basis for Action Plan reporting. A monitoring, evaluation and reporting plan has been developed for the Environment Strategy 2015-2025. The Environment Strategy Evaluation Plan includes the evaluation questions and community engagement approach for this Action Plan.",
+            "page": 28,
+            "source": "MtAlexander-2016-climate-action-plan.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do indicate plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive Climate Change Action Plan, which includes a range of strategies to address climate change. These strategies include the development and implementation of the Regional Climate Adaptation Plan and the Climate Change Action Plan. The documents also mention the use of data sources and indicators to monitor the progress of these plans. Furthermore, the local government plans to work in partnership with the community, locally-based and relevant NGOs, businesses, and other key stakeholders to manage the risks and impacts associated with climate change. This suggests a commitment to community engagement and research to inform their climate actions. The documents also mention the development of a checklist to enable climate change to be considered during the internal development of major project proposals, indicating a research-informed approach to planning and decision-making."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has developed a comprehensive Climate Action Plan that outlines a range of strategies and actions to address climate change. These include integrating climate change considerations into all operations, providing professional development training to planning staff about climate change ready developments, and ensuring climate change adaptation is fully considered in Council’s risk register and in project and contract management. The plan also includes actions to support community efforts to reduce carbon emissions and to encourage climate-aware choices by staff. Furthermore, the government has set an ambitious target to become carbon neutral by 2025, demonstrating a commitment to innovative and proactive climate action. The documents also show that the government is working in partnership with community groups, NGOs, businesses, and other stakeholders to manage the risks and impacts associated with climate change.",
+          "quote": {
+            "content": "It \noutlines how Council will reduce its greenhouse \ngas emissions and move towards becoming \ncarbon neutral, while adapting its operations to the \nprojected weather conditions ahead. This Action Plan is about Council doing its part.",
+            "page": 1,
+            "source": "MtAlexander-2016-climate-action-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of an explicit intent to advocate upward to state and national governments to support climate action. While the documents do mention the council's commitment to climate change mitigation and adaptation, and its intent to work in partnership with community groups, NGOs, businesses, and other stakeholders, there is no specific mention of advocacy towards state and national governments. The documents focus more on the council's internal operations, local community engagement, and regional partnerships. Therefore, without explicit evidence, it cannot be affirmed that the council intends to advocate upward to state and national governments for climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government is committed to building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a number of strategies and actions that involve partnerships with community groups, NGOs, businesses, and other key stakeholders to manage the risks and impacts associated with climate change. The policy also highlights the importance of providing professional development training to staff about climate change and the need for climate-aware choices. Furthermore, the policy encourages the council to work in partnership with regional councils and other groups to develop regional projects to address climate change. The policy also outlines plans to provide community grants to assist community action on climate change, indicating a commitment to building capacity within the local community."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government has outlined its intention to partner with regional councils and other groups to develop regional projects addressing climate change. This indicates a commitment to collaboration and partnership in tackling climate change at a regional level. Furthermore, the documents mention the involvement of various community groups and organizations in the development of the Action Plan, including Mount Alexander Sustainability Group, The Hub Foundation, Renewable Newstead, Connecting Country, Growing Abundance, 350.org, The People’s Solar, and Central Victorian Greenhouse Alliance (CVGA). This demonstrates the local government's approach to engaging with a wide range of stakeholders, including NGOs and community-based organizations, in its climate change initiatives."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions for addressing climate change, including measures to reduce greenhouse gas emissions, promote sustainability, and adapt to changing conditions, they do not specifically address how these efforts will impact or benefit vulnerable communities. The documents do mention the need for community engagement and partnerships, as well as the provision of information about climate change risks to the community. However, these references do not specifically address the impact on vulnerable communities or discuss these issues in the context of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change mitigation and adaptation, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The focus of the documents is primarily on the practical aspects of climate change response, such as reducing emissions, integrating climate change thinking across the organisation, and developing a climate change aware culture. There is no explicit mention of equity, social justice, or the fair distribution of benefits and opportunities associated with a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 12,
+    "num_questions": 20,
+    "attribute_score": 64.2
+  }
+}

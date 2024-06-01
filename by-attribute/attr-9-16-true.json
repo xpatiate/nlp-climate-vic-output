@@ -1,0 +1,820 @@
+{
+  "attribute": 10,
+  "question": 16,
+  "finding": true,
+  "num": 100,
+  "responses": [
+    {
+      "answer": "The documents clearly indicate an intent to advocate upward to state and national governments to support climate action. The City of Ballarat's Net Zero Emissions Plan outlines a commitment to work in partnership with the community, businesses, community leaders, and other levels of government to achieve sustainability and net zero emissions by 2030. The plan acknowledges the important role of State and Federal Governments in supporting local governments and communities to deliver the actions necessary towards achieving net zero emissions. This includes the development or review of policy and legislation to allow appropriate climate action, and through grants and funding to support emissions reduction projects and activities. The plan also highlights the need for ongoing engagement with local governments and multiple sectors and different stakeholders groups for the development of policies, appropriate planning of projects and services, and for adequate resourcing to implement these.",
+      "source": "Ballarat-a-a12345678910.json",
+      "lga": "Ballarat",
+      "quote": {
+        "content": "These include review or development of policy and legislation to allow appropriate climate action, and through grants and funding to support emissions reduction projects and activities. The State and Federal Governments play an important role in supporting local governments and communities to deliver the actions necessary towards achieving net zero emissions.",
+        "page": 10,
+        "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The City of Ballarat's Net Zero Emissions Plan outlines a clear commitment to work in partnership with the community, businesses, community leaders, and other levels of government to achieve sustainability and net zero emissions by 2030. The plan acknowledges the critical role of state and federal governments in supporting local governments and communities to deliver the actions necessary towards achieving net zero emissions. This includes the development or review of policy and legislation to allow appropriate climate action, and through grants and funding to support emissions reduction projects and activities. The plan also highlights the need for ongoing engagement with local governments and multiple sectors and different stakeholders groups for the development of policies, appropriate planning of projects and services, and for adequate resourcing to implement these.",
+      "source": "Ballarat-b-a12345678910.json",
+      "lga": "Ballarat",
+      "quote": {
+        "content": "These include review or development of policy and legislation to allow appropriate climate action, and through grants and funding to support emissions reduction projects and activities. The State and Federal Governments play an important role in supporting local governments and communities to deliver the actions necessary towards achieving net zero emissions.",
+        "page": 10,
+        "source": "Ballarat-2022-Net-Zero-Emissions-Plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. The local government's climate action plan outlines a partnership approach to implementing its actions. This approach includes government partnerships where the council will deliver actions in collaboration with other governments and associated entities. The document also mentions that the exact delivery mechanism for each action will be determined in response to opportunities and funding that arise from state and national governments. This suggests that the local government is not only open to collaboration with higher levels of government but is also actively seeking opportunities to engage with them in the implementation of its climate action plan.",
+      "source": "BassCoast-a-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines a partnership approach to implementing the action plan, which includes government partnerships. The council plans to deliver actions in partnership with other governments and associated entities, such as the South East Councils Climate Change Alliance. This indicates a clear intent to collaborate with higher levels of government to support climate action. Furthermore, the policy mentions that the exact delivery mechanism for each action will be determined in response to opportunities and funding that arise from state and national governments. This suggests that the council is actively seeking support from these higher levels of government to implement their climate action plan.",
+      "source": "BassCoast-b-a12345678910.json",
+      "lga": "BassCoast"
+    },
+    {
+      "answer": "The Bayside Climate Emergency Action Plan clearly demonstrates an explicit intent to advocate upward to state and national governments to support climate action. The document outlines a proactive advocacy approach, which includes leveraging relevant expertise and local experience to develop advocacy positions. It also emphasizes the importance of being bold in advocating to State and Federal Governments. This is indicative of a strategic approach to influence higher levels of government to support climate action. Furthermore, the document mentions the mobilization of the community to advocate, suggesting a collective effort to push for climate action at all levels of government. This advocacy is not only directed upwards but also involves working with others advocating for urgent change, indicating a collaborative approach.",
+      "source": "Bayside-a-a12345678910.json",
+      "lga": "Bayside"
+    },
+    {
+      "answer": "The document does indeed show an explicit intent to advocate upward to state and national governments to support climate action. This is evident in the outlined principles and action plans. The local government aims to leverage new and existing resources to respond to the climate emergency, making it one of their highest priorities. They also plan to make decisions based on the best available evidence to address the economic, social, and environmental impacts of climate change. Furthermore, the document emphasizes the importance of proactive advocacy, drawing on relevant expertise and local experience to develop advocacy positions. The local government intends to be bold in advocating to state and federal governments and work with others advocating for urgent change. This shows a clear intent to engage with higher levels of government to support climate action.",
+      "source": "Bayside-b-a12345678910.json",
+      "lga": "Bayside"
+    },
+    {
+      "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the Climate Action Plan and its Implementation Plan, which outline several actions that align with this intent. For instance, the local government plans to 'respond to calls for submissions and advocate on matters that align with Climate Action Plan objectives as appropriate' (Action 6.16). This suggests that the local government is prepared to engage in advocacy at higher levels of government to advance its climate action objectives. Additionally, the local government plans to 'advocate to other levels of government and relevant agencies to provide funding for Local Government Authorities and communities to take action to respond to climate change' (Action 6.26). This further underscores the local government's commitment to advocating for climate action at the state and national levels.",
+      "source": "Boroondara-a-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "6.16 Respond to calls for submissions and advocate on matters that align with Climate Action Plan objectives as appropriate.",
+        "page": 15,
+        "source": "Boroondara-Climate-Action-Plan-Implementation_plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the Climate Action Plan and its Implementation Plan, which outline several actions that involve advocacy to higher levels of government. For instance, the local government plans to 'respond to calls for submissions and advocate on matters that align with Climate Action Plan objectives as appropriate' (Action 6.16). This suggests that the local government is prepared to engage with state and national governments to advance its climate action objectives. Additionally, Action 6.26 in the Climate Action Plan involves advocating to other levels of government and relevant agencies to provide funding for Local Government Authorities and communities to take action to respond to climate change. This further underscores the local government's commitment to advocating for climate action at higher levels of government.",
+      "source": "Boroondara-b-a12345678910.json",
+      "lga": "Boroondara",
+      "quote": {
+        "content": "6.16 Respond to calls for submissions and advocate on matters that align with Climate Action Plan objectives as appropriate.",
+        "page": 15,
+        "source": "Boroondara-Climate-Action-Plan-Implementation_plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents clearly show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The Climate Change Adaptation Framework outlines a number of advocacy priorities, including the need for major infrastructure projects to integrate climate change adaptation principles into their delivery, design, and management. It also highlights the need for land-use planning decisions to factor in climate change scenarios, with support from higher levels of government. The Brimbank Climate Emergency Plan further emphasizes the need for advocacy, with the local government committing to advocate for science-based climate leadership from other local governments, and from the Victorian and Australian governments. The plan also outlines specific advocacy actions to the Victorian and Australian governments, including advocating for affordable grid renewable energy, affordable solar PV for renters living on low incomes, and the phase-out of fossil fuel vehicles.",
+      "source": "Brimbank-a-a12345678910.json",
+      "lga": "Brimbank"
+    },
+    {
+      "answer": "The documents clearly show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The Climate Change Adaptation Framework outlines the local government's plan to develop partnerships with other key agencies and levels of government to effectively adapt to climate change. It also mentions the need for advocacy to higher levels of government for consistent data sets, clear standards, and support for decision-making that applies best practice Adaptation Principles. The Brimbank Climate Emergency Plan further emphasizes this intent, stating that the council commits to advocate for genuine science-based climate leadership from other local governments, and from the Victorian and Australian governments. It also outlines specific advocacy actions to the Victorian and Australian governments, such as advocating for affordable grid renewable energy and the phase-out of fossil fuel vehicles.",
+      "source": "Brimbank-b-a12345678910.json",
+      "lga": "Brimbank"
+    },
+    {
+      "answer": "The documents clearly show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines several actions that involve advocacy, such as advocating for equitable access to insurance and policies which include climate considerations, advocating for suitable transmission and distribution infrastructure to support renewable energy projects, and advocating for the state to co-fund chargers and electricity costs for electric vehicles. These actions indicate that the local government is not only taking steps within its own jurisdiction but is also actively seeking support from higher levels of government to implement broader climate action measures. This advocacy is crucial as it can help to secure necessary resources, influence policy changes, and foster partnerships that can enhance the effectiveness of local climate actions.",
+      "source": "Buloke-a-a12345678910.json",
+      "lga": "Buloke"
+    },
+    {
+      "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines several actions that involve advocacy, such as advocating for equitable access to insurance and policies which include climate considerations, advocating for suitable transmission and distribution infrastructure to support renewable energy projects, and advocating for the state to co-fund chargers and electricity costs for electric vehicles. These actions indicate that the local government is not only taking steps within its own jurisdiction but is also actively seeking support from higher levels of government to implement broader climate action strategies.",
+      "source": "Buloke-b-a12345678910.json",
+      "lga": "Buloke"
+    },
+    {
+      "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the council's commitment to lead by example in responding and adapting to climate change, and to partner with other agencies, government departments, businesses, and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. The council also acknowledges the importance of working in partnership with the community, other agencies, government departments, businesses, and industry bodies to deliver projects and solutions to challenges faced. Furthermore, the council expresses its intent to extend its advocacy for building a grid that supports renewables, indicating a willingness to engage with higher levels of government and industry to promote renewable energy.",
+      "source": "Campaspe-a-a12345678910.json",
+      "lga": "Campaspe",
+      "quote": {
+        "content": "• \nContinue to partner with other agencies, government \ndepartments, businesses and the community to share \nknowledge and explore funding opportunities to adapt \nand mitigate the impacts of climate change. Council chooses to:\n• \nLead by example in responding and adapting to \nclimate change. • \nSupport community, business and industry to respond \nto the impacts of a changing climate. • \nAdopt, support and promote sustainable and \naffordable energy options.",
+        "page": 21,
+        "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the council's commitment to lead by example in responding and adapting to climate change, and to partner with other agencies, government departments, businesses, and the community to share knowledge and explore funding opportunities to adapt and mitigate the impacts of climate change. The council also plans to extend its advocacy for building a grid that supports renewables. This suggests that the council is not only taking action at the local level but is also advocating for broader systemic changes that require the support of state and national governments.",
+      "source": "Campaspe-b-a12345678910.json",
+      "lga": "Campaspe",
+      "quote": {
+        "content": "Including support for the community with gas reliability and security for commercial and residential uses during the transition from fossil fuels to renewable energy. Extend Council’s advocacy for building a grid that supports renewables.",
+        "page": 23,
+        "source": "Campaspe-2022-Environment-strategy-2022-2026.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents do show an explicit intent by the Cardinia Shire Council to advocate upward to state and national governments to support climate action. The council's Climate Change Adaptation Plan includes an action to 'advocate for climate change adaptation initiatives from all levels of government that increase resilience to climate change'. This action is ongoing and is led by the Environment and Heritage department, in partnership with the Arts, Advocacy and Economy department. The action is subject to the creation of a climate resilience officer, indicating a dedicated role for this advocacy work. The council's action plan is a 10-year strategy, suggesting a long-term commitment to this advocacy. However, the documents do not provide specific details on the methods or strategies of advocacy, or the specific state and national policies they aim to influence.",
+      "source": "Cardinia-a-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "Advocate for climate change adaptation \ninitiatives from all levels of government that \nincreases resilience to climate change \nOngoing \n2023-24 \nEnvironment and \nHeritage \nArts, Advocacy and \nEconomy \n \n \n \n \n \n \nSubject to \ncreation of \nclimate \nresilience \nofficer 47.",
+        "page": 8,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy___Action_plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents provided do show an explicit intent by the Cardinia Shire Council to advocate upward to state and national governments to support climate action. This is evident in the 'Climate Change Adaptation Plan - Action Plan' where one of the listed actions is to 'Advocate for climate change adaptation initiatives from all levels of government'. This action is ongoing and is led by the Environment and Heritage department, indicating a sustained effort to influence policy at higher levels of government. The action plan also includes a mid-term review, suggesting that the council is committed to monitoring and evaluating its advocacy efforts. Furthermore, the 'Climate Change Adaptation Strategy 2022–33' mentions the Australian Government's National Climate Resilience and Adaptation Strategy, indicating that the council is not only aware of but also aligning its actions with national strategies.",
+      "source": "Cardinia-b-a12345678910.json",
+      "lga": "Cardinia",
+      "quote": {
+        "content": "47.",
+        "page": 8,
+        "source": "Cardinia-Climate_Change_Adaptation_Strategy___Action_plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan clearly indicates an intent to advocate upward to state and national governments to support climate action. The policy emphasizes the role of advocacy in achieving climate action goals and influencing broader systemic changes required to address climate change at regional, state, and national levels. The policy also outlines specific actions such as advocating for funding to provide a regional focus to enable delivery of actions that address both state and federal sustainability policies. This shows a clear intent to engage with higher levels of government to secure necessary resources and align local actions with broader policy objectives. The policy also highlights the importance of partnerships in delivering the plan, which could potentially include partnerships with state and national government entities.",
+      "source": "CentralGoldfields-a-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "Advocacy will play an important role in achieving our climate action goals and influencing broader systemic changes required to address climate change at a regional, state and national level. Advocacy provides the opportunity to seek investment from the State and Commonwealth governments for initiatives and developments that are needed and important and wanted by communities.",
+        "page": 24,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The Central Goldfields Climate Action Plan clearly indicates an intent to advocate upward to state and national governments to support climate action. The policy emphasizes the role of advocacy in achieving climate action goals and influencing broader systemic changes required to address climate change at regional, state, and national levels. The policy also outlines specific actions such as advocating for funding to enable delivery of actions that address both state and federal sustainability policies. This shows a clear intent to engage with higher levels of government to secure necessary resources and align local actions with broader policy objectives. The policy also highlights the importance of partnerships in delivering the plan, which could include partnerships with state and national government entities.",
+      "source": "CentralGoldfields-b-a12345678910.json",
+      "lga": "CentralGoldfields",
+      "quote": {
+        "content": "Advocacy will play an important role in achieving our climate action goals and influencing broader systemic changes required to address climate change at a regional, state and national level. Advocacy provides the opportunity to seek investment from the State and Commonwealth governments for initiatives and developments that are needed and important and wanted by communities.",
+        "page": 24,
+        "source": "CentralGoldfields-Climate-Action-Plan-2022-30-updated.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly indicate an intent to advocate upward to state and national governments to support climate action. The local government's policy outlines a commitment to advocate for Environmentally Sustainable Design (ESD) and climate change adaptation and mitigation principles to be incorporated within the Planning Scheme by the State government. Furthermore, the policy also includes a commitment to advocate to State and Federal government for urgent and impactful action on climate change that benefits the local community, including households, local businesses, and the agricultural sector. This advocacy is part of a broader strategy of collaboration, partnerships, and advocacy, which includes engaging with communities and stakeholders, and participating in collaborative climate action opportunities and programs.",
+      "source": "ColacOtway-a-a12345678910.json",
+      "lga": "ColacOtway"
+    },
+    {
+      "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines a series of actions that involve advocacy to higher levels of government. For instance, the local government plans to advocate for Environmentally Sustainable Design (ESD) and climate change adaptation and mitigation principles to be incorporated within the Planning Scheme by the State government. Additionally, the local government intends to advocate to State and Federal government for urgent and impactful action on climate change that benefits their local community, including households, local businesses, and the agricultural sector. These actions demonstrate a clear intent to engage in upward advocacy to state and national governments to support climate action.",
+      "source": "ColacOtway-b-a12345678910.json",
+      "lga": "ColacOtway"
+    },
+    {
+      "answer": "The document does show an explicit intent to advocate for support in relation to climate action. The local government policy outlines a strategy to work with the community and other stakeholders to develop locally specific adaptation responses to climate variability. This includes advocating for increased research, information, and investment to develop local adaptation responses. The policy also mentions collaboration with agencies, industry, research institutes, and the community to fill knowledge gaps and identify climate impacts to the local environment, community, and economy. While the document does not explicitly mention advocating upward to state and national governments, the inclusion of 'agencies' and 'research institutes' in their advocacy efforts could be interpreted as such.",
+      "source": "Corangamite-a-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines the local government's plan to work with the community and other stakeholders to develop locally specific adaptation responses to climate variability. It also mentions the need to advocate for support, such as increased research, information, and investment, to develop local adaptation responses to climate variability. This suggests that the local government recognizes the importance of collaboration and advocacy in addressing climate change. The policy also emphasizes the need for the council to lead by example in reducing its environmental impact, further demonstrating its commitment to climate action.",
+      "source": "Corangamite-b-a12345678910.json",
+      "lga": "Corangamite"
+    },
+    {
+      "answer": "The documents clearly indicate that the Darebin Council has an explicit intent to advocate upward to state and national governments to support climate action. The council's Climate Emergency Plan outlines a strategic advocacy framework that includes large-scale campaigns, participation in alliance-led campaigns, and sustained advocacy at every relevant forum or opportunity. The plan also includes responsive advocacy, such as commenting on relevant government reviews, policy directions, news, and events. The council's advocacy is seen as a key part of the plan, as state and federal government policy, legislation, and funding will have the biggest impact on the Climate Emergency. The council also aims to engage, empower, and mobilise governments, communities, and organisations to take urgent action on the climate emergency.",
+      "source": "Darebin-a-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Undertake and collaborate on strong advocacy programs to State and Federal Governments to declare and act on the Climate Emergency as soon as possible.",
+        "page": 37,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government has an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines a strategic advocacy framework that includes large-scale campaigns, participation in alliance-led campaigns, and sustained advocacy at every relevant forum or opportunity. The policy also emphasizes the importance of state and federal government policy, legislation, and funding in addressing the climate emergency. The local government aims to engage, empower, and mobilize governments, communities, and organizations to take action on the climate emergency. The policy also includes specific advocacy initiatives such as commenting on relevant government reviews, policy directions, news, and events. Therefore, the policy demonstrates a clear intent to advocate for climate action at higher levels of government.",
+      "source": "Darebin-b-a12345678910.json",
+      "lga": "Darebin",
+      "quote": {
+        "content": "Undertake and collaborate on strong advocacy programs to State and Federal Governments to declare and act on the Climate Emergency as soon as possible.",
+        "page": 37,
+        "source": "Darebin-2018-ClimateEmergencyPlan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the local government's plan to seek partnerships and external funding, as well as advocate to the Federal and State Government, agencies, and organizations on opportunities and matters relating to Council and community greenhouse gas emissions and low carbon alternatives. This indicates a clear intent to engage with higher levels of government to support climate action. The policy also mentions the local government's commitment to the Victorian Government’s TAKE2 climate change pledge and its plan to publicly report on the Council’s progress against committed actions. This further demonstrates the local government's intent to work in coordination with state government and advocate for climate action.",
+      "source": "Frankston-a-a12345678910.json",
+      "lga": "Frankston"
+    },
+    {
+      "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the local government's plan to seek partnerships and external funding, as well as advocate to the Federal and State Government, agencies, and organizations on opportunities and matters relating to Council and community greenhouse gas emissions and low carbon alternatives. This indicates a clear intent to engage with higher levels of government to support climate action. The policy also mentions the local government's commitment to the Victorian Government’s TAKE2 climate change pledge and its plan to publicly report on the Council’s progress against committed actions. This further demonstrates the local government's intent to work in coordination with state government and advocate for climate action.",
+      "source": "Frankston-b-a12345678910.json",
+      "lga": "Frankston"
+    },
+    {
+      "answer": "The documents from the Glen Eira City Council's 'Our Climate Emergency Response Strategy 2021–2025' clearly indicate an intent to advocate upward to state and national governments to support climate action. The council acknowledges that while they are committed to ambitious climate change goals, the opportunities for them to directly drive down emissions and ensure their city is adapted to climate change are constrained. They recognize that state and federal governments have the strongest emissions reduction levers and will need to do the heavy lifting if their community is to reach net zero emissions by 2030. Given this, the council is focused on delivering best practice in their own operations, working in partnership with the community and other stakeholders, and strongly advocating to state and federal governments. This is further supported by their action plan, which includes advocacy to state and federal government to rapidly remove barriers to climate action.",
+      "source": "GlenEira-a-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "Given this, we are focussed on delivering best practice in our own operations, working in partnership with the community and other stakeholders, and strongly advocating to State and Federal Governments. State and Federal Governments have the strongest emissions reduction levers and will need to do the heavy lifting if our community is to reach net zero emissions by 2030.",
+        "page": 17,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents from the Glen Eria City Council's 'Our Climate Emergency Response Strategy 2021–2025' clearly indicate an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines the council's commitment to climate action and acknowledges the limitations of their sphere of influence, recognizing the need for state and federal governments to play a significant role in achieving net zero emissions by 2030. The council's strategy includes advocating for stronger climate change action by other levels of government as one of its objectives. Furthermore, the council plans to work in partnership with other local governments and partners to advocate to state and federal governments to rapidly remove barriers to climate action. This shows a clear intent to not only act within their own capacity but also to push for greater action at higher levels of government.",
+      "source": "GlenEira-b-a12345678910.json",
+      "lga": "GlenEira",
+      "quote": {
+        "content": "Given this, we are focussed on delivering best practice in our own operations, working in partnership with the community and other stakeholders, and strongly advocating to State and Federal Governments.",
+        "page": 17,
+        "source": "GlenEira-our-climate-emergency-response-strategy-2021-2025.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. The Golden Plains Shire Council's Climate Emergency Plan outlines a comprehensive approach to addressing climate change, which includes advocacy to higher levels of government. The plan is organized into five themes, one of which is 'advocacy for urgent and bold climate action from both State and Federal Governments.' This indicates a clear intent to engage with and influence policy at the state and national levels. The plan also emphasizes the importance of collaboration across all sectors of the Shire and beyond, further suggesting a commitment to advocacy and partnership in the pursuit of climate action.",
+      "source": "GoldenPlains-a-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "Council will also work to build understanding and resilience amongst the community and advocate for urgent and bold climate action from both State and Federal Governments.",
+        "page": 16,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. The Golden Plains Shire Council's Climate Emergency Plan outlines a comprehensive approach to addressing climate change, which includes advocacy to higher levels of government. The plan is organized into five themes, one of which is 'advocacy for urgent and bold climate action from both State and Federal Governments.' This indicates a clear intent to engage with and influence policy at the state and national level. The plan also emphasizes the importance of collaboration across all sectors of the Shire and beyond, further suggesting a commitment to advocacy and partnership in the pursuit of climate action.",
+      "source": "GoldenPlains-b-a12345678910.json",
+      "lga": "GoldenPlains",
+      "quote": {
+        "content": "Council will also work to build understanding and resilience amongst the community and advocate for urgent and bold climate action from both State and Federal Governments.",
+        "page": 16,
+        "source": "GoldenPlains-Climate-Emergency-Plan-2022-2032.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. This is evident in the 'Regional Advocacy' section of the policy, which outlines the local government's plan to collaborate with councils from the Loddon Campaspe regional network to create and design regional-scale climate projects for advocacy. This suggests that the local government is not only taking action at the local level but is also advocating for climate action at the regional level. Furthermore, the document mentions the council's commitment to the Global Covenant of Mayors for Climate and Energy, which includes reporting on climate risks and vulnerabilities, defining ambitious climate change mitigation targets, and developing integrated climate action plans. This commitment indicates that the local government is advocating for climate action at an international level.",
+      "source": "GreaterBendigo-a-a12345678910.json",
+      "lga": "GreaterBendigo"
+    },
+    {
+      "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines a strategy for 'Regional Advocacy', which involves bringing together councils from the Loddon Campaspe regional network to create and design regional-scale climate projects to advocate for. This suggests an intent to advocate for climate action at a regional level, which would likely involve engagement with state and potentially national governments. Furthermore, the policy also mentions the Global Covenant of Mayors for Climate and Energy, which involves making commitments to the global community, including defining ambitious climate change mitigation targets and developing integrated climate action plans. This suggests an intent to advocate for climate action at an international level.",
+      "source": "GreaterBendigo-b-a12345678910.json",
+      "lga": "GreaterBendigo"
+    },
+    {
+      "answer": "The documents clearly demonstrate an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in several instances where the local government outlines its advocacy role. For instance, the local government plans to advocate for the State Government to facilitate local green infrastructure in accordance with Plan Melbourne’s Cooling and Greening policies. They also plan to call for the State and Federal governments to declare a Climate and Ecological Emergency, develop programs to reduce greenhouse gases, and establish a National Climate Response Plan. Furthermore, the local government intends to advocate to the Australian and Victorian governments for increased financial and other forms of support to improve the local government sectors’ capacity to respond to community needs. These actions demonstrate a clear intent to advocate for climate action at higher levels of government.",
+      "source": "GreaterDandenong-a-a12345678910.json",
+      "lga": "GreaterDandenong",
+      "quote": {
+        "content": "Develop programs to drive emergency action to reduce greenhouse gases and meet the lower target of the Paris Agreement to keep global warming below 1.5 degrees iii. Declare a Climate and Ecological Emergency ii.",
+        "page": 13,
+        "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The documents clearly show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The Climate Emergency Strategy 2020 – 2030 Action Plan outlines several advocacy actions that the council plans to undertake. These include advocating for the State Government to facilitate local green infrastructure, calling for the State and Federal governments to declare a Climate and Ecological Emergency, develop programs to reduce greenhouse gases, and establish a National Climate Response Plan. The council also plans to advocate for increased financial and other forms of support to improve the local government sectors’ capacity to respond to community needs. These actions demonstrate a clear intent to engage with higher levels of government to facilitate and support climate action.",
+      "source": "GreaterDandenong-b-a12345678910.json",
+      "lga": "GreaterDandenong",
+      "quote": {
+        "content": "Establish a National Climate Response Plan that involves the three levels of government mitigating climate-caused risks based on climate science evidence. Declare a Climate and Ecological Emergency ii. Develop programs to drive emergency action to reduce greenhouse gases and meet the lower target of the Paris Agreement to keep global warming below 1.5 degrees iii.",
+        "page": 13,
+        "source": "GreaterDandenong-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The local government recognizes the need for a coordinated approach to climate change response, which includes advocacy to higher levels of government. This is evident in the formation of the Sustainability Advisory Committee, which is expected to play a crucial role in implementing the climate change response plan. The documents also highlight the need for the local government to advocate to state and federal governments, which was identified as a critical role for the organization. Furthermore, the documents mention the establishment of the Barwon South West Climate Alliance to build networks and cross-agency relationships in climate change adaptation planning, which could potentially involve advocacy to higher levels of government.",
+      "source": "GreaterGeelong-a-a12345678910.json",
+      "lga": "GreaterGeelong"
+    },
+    {
+      "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the need for a coordinated approach to climate change response, which includes advocating to higher levels of government. The policy acknowledges the importance of collaboration and partnerships in achieving its climate action goals. It also highlights the role of the Sustainability Advisory Committee in supporting the implementation of the plan. Furthermore, the policy outlines specific actions such as establishing the Barwon South West Climate Alliance and improving coordination of policy development and implementation between various levels of government. These actions demonstrate a clear intent to engage with and advocate to state and national governments.",
+      "source": "GreaterGeelong-b-a12345678910.json",
+      "lga": "GreaterGeelong"
+    },
+    {
+      "answer": "The Greater Shepparton Climate Emergency Action Plan clearly demonstrates an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines a strategic priority of demonstrating climate change leadership, which includes advocating for greater climate action at federal and state levels. This advocacy is aimed at achieving better electricity infrastructure, net zero emissions transport options, and higher Environmental Sustainable Design (ESD) standards for new buildings. The policy also acknowledges the crucial role of State and Federal Governments in enabling and supporting Local Governments and Communities to deliver the actions necessary for a climate safe future. This is expected to be achieved through the review or development of policy and legislation, and through grants and funding to support mitigation and adaptation projects and activities.",
+      "source": "GreaterShepparton-a-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The Greater Shepparton Climate Emergency Action Plan clearly demonstrates an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines a strategic priority of 'Demonstrating climate change leadership', which includes advocating for greater climate action at federal and state levels. This advocacy is aimed at achieving better electricity infrastructure, net zero emissions transport options, and higher Environmental Sustainable Design (ESD) standards for new buildings. The policy also acknowledges the crucial role of State and Federal Governments in enabling and supporting Local Governments and Communities to deliver the actions necessary for a climate safe future. This is expected to be achieved through the review or development of policy and legislation, and through grants and funding to support mitigation and adaptation projects and activities.",
+      "source": "GreaterShepparton-b-a12345678910.json",
+      "lga": "GreaterShepparton"
+    },
+    {
+      "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines a commitment to work in partnership with other agencies and landowners to reduce fire risk to communities, which implies a level of advocacy to higher levels of government. The policy also mentions securing funding from State and/or Federal government to upgrade infrastructure to withstand severe weather events, which is a clear indication of intent to advocate for support from higher levels of government. Furthermore, the policy mentions the implementation of the Grampians Region Adaptation Strategy 2020-25, which is supported by the Department of Environment, Land, Water and Planning (DELWP), indicating a willingness to work in partnership with state-level entities.",
+      "source": "Hepburn-a-a12345678910.json",
+      "lga": "Hepburn",
+      "quote": {
+        "content": "Secure funding from State &/or Federal government to upgrade infrastructure to withstand severe weather events.",
+        "page": 109,
+        "source": "Hepburn-sustainable-hepburn-202226_strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government's climate change adaptation strategy includes seeking funding from state or federal governments as a stand-alone project, which implies advocacy to these higher levels of government. The strategy also includes actions that are to be undertaken in partnership with a regional body or agency, or advocated to a regional, state, or federal agency. This suggests that the local government is not only planning to take action on its own, but also intends to work with and advocate to other entities, including those at the state and national level, to support climate action.",
+      "source": "Hindmarsh-a-a12345678910.json",
+      "lga": "Hindmarsh",
+      "quote": {
+        "content": "There are four main avenues for implementation of the actions proposed in this strategy: Incorporation into Council’s annual plans as part of the regular cycle of review, Seek funding from State or Federal governments as a stand-alone project, Undertaken in partnership with a regional body or agency, Advocate to a regional, State or Federal agency.",
+        "page": 57,
+        "source": "Hindmarsh-2012-climate-adaptation.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government's climate change adaptation strategy includes seeking funding from state or federal governments as a stand-alone project, which implies advocacy to these higher levels of government. The strategy also includes actions that are to be undertaken in partnership with a regional body or agency, or advocated to a regional, state, or federal agency. This suggests that the local government is not only planning to take action on its own, but also intends to work with and advocate to other entities, including those at the state and national level, to support climate action.",
+      "source": "Hindmarsh-b-a12345678910.json",
+      "lga": "Hindmarsh",
+      "quote": {
+        "content": "There are four main avenues for implementation of the actions proposed in this strategy: Incorporation into Council’s annual plans as part of the regular cycle of review, Seek funding from State or Federal governments as a stand-alone project, Undertaken in partnership with a regional body or agency, Advocate to a regional, State or Federal agency.",
+        "page": 57,
+        "source": "Hindmarsh-2012-climate-adaptation.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines a commitment to collaborate with and advocate to the Victorian and Australian governments on behalf of the community to deliver climate action and investment in mitigation and adaptation activities. This includes calling for support to address related issues such as housing, energy security, cost of living, and access to community infrastructure and spaces. The policy also emphasizes the importance of partnerships in maximizing collective efforts towards climate action. This is evident in the council's participation in existing partnerships like the Western Alliance for Greenhouse Action (WAGA) and the Council Alliance for a Sustainable Built Environment (CASBE). Therefore, the policy not only acknowledges the need for climate action but also recognizes the importance of advocacy and collaboration at higher levels of government.",
+      "source": "HobsonsBay-a-a12345678910.json",
+      "lga": "HobsonsBay"
+    },
+    {
+      "answer": "The document does indeed show an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines the local government's commitment to collaborate with and advocate to the Victorian and Australian governments on behalf of the community to deliver climate action and investment in mitigation and adaptation activities. This includes calling for support to address related issues such as housing, energy security, cost of living, and access to community infrastructure and spaces. The policy also emphasizes the importance of building strong relationships with Traditional Owners and participating in existing partnerships to maximize collective efforts. This indicates a clear intent to leverage higher levels of government and broader networks to support local climate action.",
+      "source": "HobsonsBay-b-a12345678910.json",
+      "lga": "HobsonsBay"
+    },
+    {
+      "answer": "The Hume City Council Climate Action Plan 2023-2028 indeed shows an explicit intent to advocate upward to state and national governments to support climate action. The document outlines a commitment to demonstrate leadership in climate action through sharing the reality of the current situation, taking climate action beyond their immediate sphere of responsibility, supporting climate action across Hume City, undertaking innovative climate action projects, and advocating for climate action on behalf of the Hume community. The plan also includes specific actions such as advocating to other levels of government for enhanced climate action on behalf of the Hume community, including business and industry. This advocacy includes key issues such as fully electric new developments, designing new housing estates and suburbs for sustainability and climate resilience, and supporting residents vulnerable to bill stress and climate impacts. The document also mentions the council's participation in networks with a broader membership and remit such as the Northern Alliance for Greenhouse Action, which could potentially involve advocacy to higher levels of government.",
+      "source": "Hume-a-a5678910.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The Hume City Council Climate Action Plan 2023-2028 indeed shows an explicit intent to advocate upward to state and national governments to support climate action. The document outlines a series of actions and activities that the council plans to undertake, including advocacy to other levels of government for enhanced climate action on behalf of the Hume community, including business and industry. The advocacy issues listed include support for residents vulnerable to bill stress and climate impacts, support for business and industry to transition to low or no carbon operations, and the extension of bans on non-recyclable materials. The council also plans to continue to provide hosting support and participate in the Climate Emergency Australia network, and join and participate in the Cities Power Partnership. These actions demonstrate a clear intent to engage with and advocate to higher levels of government for climate action.",
+      "source": "Hume-b-a12345678910.json",
+      "lga": "Hume"
+    },
+    {
+      "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The Climate Emergency Strategic Action Plan, adopted on 15 September 2020, outlines a strategic priority to 'Collaborate and advocate'. This includes partnering with others in the climate emergency movement to increase impact, leverage funding, and lobby the state and federal governments to take action. The plan specifically mentions advocating to state and federal governments to commit to and deliver the transformational changes required to avoid overwhelming climate damage. This demonstrates a clear intent to advocate for climate action at higher levels of government.",
+      "source": "Indigo-a-a12345678910.json",
+      "lga": "Indigo"
+    },
+    {
+      "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The Climate Emergency Strategic Action Plan, adopted on 15 September 2020, outlines a strategic priority to 'collaborate and advocate'. This includes partnering with others in the climate emergency movement to increase impact, leverage funding, and lobby state and federal governments to take action. The plan specifically mentions advocating to state and federal governments to commit to and deliver the transformational changes required to avoid overwhelming climate damage. This demonstrates a clear intent to advocate for climate action at higher levels of government.",
+      "source": "Indigo-b-a12345678910.json",
+      "lga": "Indigo"
+    },
+    {
+      "answer": "The documents clearly indicate that the local government has an explicit intent to advocate upward to state and national governments to support climate action. This is part of their four-pronged advocacy and engagement approach, which includes upwards, sideways, inwards, and outwards directions. The 'upwards' direction specifically refers to lobbying state and national governments to adopt and fund a climate emergency response. This approach is part of their Climate and Ecological Emergency Response Plan, which is evidence-based and aims to ensure that the most vulnerable in the community are not disadvantaged. The plan also includes a commitment to institutional resource mobilisation, which includes senior management accountability and leadership. Therefore, the documents provide clear evidence of an explicit intent to advocate for climate action at higher levels of government.",
+      "source": "Kingston-a-a12345678910.json",
+      "lga": "Kingston"
+    },
+    {
+      "answer": "The documents clearly indicate that the local government has an explicit intent to advocate upward to state and national governments to support climate action. This is part of their strategy to address climate change and ecological emergencies. The documents outline a multi-directional advocacy approach, which includes 'upwards' lobbying to state and national governments to adopt and fund a climate emergency response. This is part of their broader strategy to mobilize resources, including institutional resource mobilization, and to hold themselves accountable for their actions. The documents also mention the development and implementation of Council’s advocacy priorities to address the Climate and Ecological Emergency via an endorsed Council position. This shows a clear intent to engage with higher levels of government to support their climate action initiatives.",
+      "source": "Kingston-b-a12345678910.json",
+      "lga": "Kingston"
+    },
+    {
+      "answer": "The document clearly indicates an intent to advocate upward to state and national governments to support climate action. The local government acknowledges the key roles that the State and Federal Government play in regulating and influencing sectors such as energy, transport, and the economy. The document outlines that the actions taken by these higher levels of government will influence the emissions trajectory within the City of Knox. The local government has identified key advocacy opportunities to help shape and advance necessary actions and to lend their voice to the groundswell of organizations within Victoria and the nation calling for greater action on climate change. They also plan to make a voluntary pledge to the State Government under the Climate Change Act.",
+      "source": "Knox-a-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "Council has identified some key advocacy opportunities to help shape and advance these necessary actions and to lend our voice to the groundswell of organisations within Victoria and the nation calling for greater action on climate change. The State and Federal Government have key roles in regulating and influencing the energy sector, transport, and the economy, and as such, actions taken by them will influence the emissions trajectory within the City of Knox.",
+        "page": 8,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate that the local government has an explicit intent to advocate upward to state and national governments to support climate action. The Climate Response Plan outlines the council's commitment to climate action and includes a section on advocacy initiatives. These initiatives are aimed at influencing higher levels of government and include estimated emissions savings to the municipality by 2030. The council also plans to join the Cities Power Partnership and make a voluntary pledge to the State Government under the Climate Change Act. These actions demonstrate a clear intent to engage with and influence state and national governments to support climate action.",
+      "source": "Knox-b-a12345678910.json",
+      "lga": "Knox",
+      "quote": {
+        "content": "Council has identified some key advocacy opportunities to help shape and advance these necessary actions and to lend our voice to the groundswell of organisations within Victoria and the nation calling for greater action on climate change. The State and Federal Government have key roles in regulating and influencing the energy sector, transport, and the economy, and as such, actions taken by them will influence the emissions trajectory within the City of Knox.",
+        "page": 8,
+        "source": "Knox-2021-climate-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence of the local government's intent to advocate upward to state and national governments to support climate action. The policy outlines a proactive approach to climate change, with the local government working constructively and collaboratively with various stakeholders, including other levels of government. The local government has also demonstrated its commitment to climate action through the development and implementation of various policy and strategy documents. Furthermore, the local government has shown its willingness to work with the government of the day to achieve the best possible outcome for the community in relation to carbon emissions pricing. This indicates a clear intent to engage with and influence state and national governments on climate action.",
+      "source": "Latrobe-a-a12345678910.json",
+      "lga": "Latrobe",
+      "quote": {
+        "content": "Council has not taken a position on any particular carbon emissions pricing mechanism and instead committed to work with the government of the day to achieve the best possible outcome for the community.",
+        "page": 4,
+        "source": "Latrobe-2014-low-carbon.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The documents provide clear evidence of the local government's intent to advocate upward to state and national governments to support climate action. The policy outlines a proactive approach to climate change, with the local government working constructively and collaboratively with various stakeholders, including other levels of government. The local government has also committed to working with the government of the day to achieve the best possible outcome for the community in relation to carbon emissions pricing. Furthermore, the local government has established a Low Carbon Emissions Future Transition Committee, which has played a strong role in advocating on behalf of the community. This committee has become a focal point for government representatives, further demonstrating the local government's intent to advocate upward.",
+      "source": "Latrobe-b-a12345678910.json",
+      "lga": "Latrobe",
+      "quote": {
+        "content": "The Committee helped Council drive the transformation at a local and regional level and played a strong role in advocating on behalf of the community. Council has not taken a position on any particular carbon emissions pricing mechanism and instead committed to work with the government of the day to achieve the best possible outcome for the community.",
+        "page": 4,
+        "source": "Latrobe-2014-low-carbon.pdf",
+        "search_score": 0.98
+      }
+    },
+    {
+      "answer": "The document does show an explicit intent to advocate for climate action, although it does not specify whether this advocacy is directed towards state and national governments. The policy outlines several actions related to environmental sustainability, including advocating for business opportunities for large-scale renewable energy projects within the municipality and collaborating with neighbouring municipalities to capitalise on regional opportunities. It also mentions lobbying and facilitating the establishment of medium/large scale renewable energy projects in collaboration with other municipalities, private enterprise, and government agencies. These actions suggest a commitment to advocacy and partnership in the pursuit of climate action. However, the document does not explicitly state that this advocacy will be directed upwards to state and national governments.",
+      "source": "Loddon-a-a12345678910.json",
+      "lga": "Loddon",
+      "quote": {
+        "content": "Where possible collaborate with neighbouring municipalities to capitalise on regional opportunities.",
+        "page": 10,
+        "source": "Loddon-Environmental-Sustainability-Strategy-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The document does show an explicit intent to advocate for climate action, although it does not specify whether this advocacy is directed upward to state and national governments. The policy outlines several actions related to environmental sustainability, including advocating for business opportunities for large-scale renewable energy projects within the municipality and collaborating with neighboring municipalities to capitalize on regional opportunities. This suggests a willingness to engage in advocacy and partnership-building to support climate action. However, the document does not explicitly state that this advocacy will be directed towards state and national governments. It is possible that such advocacy could be part of the policy's implementation, but without explicit mention of this in the document, it cannot be confirmed.",
+      "source": "Loddon-b-a12345678910.json",
+      "lga": "Loddon",
+      "quote": {
+        "content": "Where possible collaborate with neighbouring municipalities to capitalise on regional opportunities.",
+        "page": 10,
+        "source": "Loddon-Environmental-Sustainability-Strategy-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines a strategic plan for climate change action, which includes advocating for improved environmental performance standards, removal of financial and administrative barriers to renewable energy generation, and increased resources for improved infrastructure and services for non-car transport. The policy also mentions the introduction of state government initiatives to support energy efficiency and renewable energy in the residential rental market. Furthermore, the policy outlines the council's plan to advocate for stronger climate change action across all levels of government and partner with management stakeholders to progress action. This shows a clear intent to engage with higher levels of government to promote and support climate action.",
+      "source": "MacedonRanges-a-a12345678910.json",
+      "lga": "MacedonRanges"
+    },
+    {
+      "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The local government's policy outlines a strategic plan for climate change action, which includes advocating for increased action and leadership in policy and programs addressing climate change, increased support in terms of finances and resources to undertake mitigation actions or adaptation action, and increased support to the clean energy sector. The policy also mentions the removal of financial and administrative barriers to renewable energy generation, the introduction of state government initiatives to support energy efficiency and renewable energy, and the implementation of state and/or nationwide behaviour change campaigns. These actions demonstrate a clear intent to engage with higher levels of government to promote and support climate action.",
+      "source": "MacedonRanges-b-a12345678910.json",
+      "lga": "MacedonRanges"
+    },
+    {
+      "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government's Climate Emergency Response Plan outlines a commitment to collaborate with other councils and the state government on various climate actions. These include advanced waste technology, separated glass recycling, container deposit schemes, and understanding land use change for net zero carbon sinks. The plan also mentions participation in the Cities Power Partnership or Climate Emergency Australia, Northern Alliance for Greenhouse Action, and International Council Local Environment Initiatives, which are platforms for advocating stronger climate action. Furthermore, the plan commits to annual monitoring and reporting on climate actions and greenhouse gas emissions levels, which can be seen as a form of upward advocacy by holding the government accountable for its climate commitments.",
+      "source": "Manningham-a-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government has outlined a plan to collaborate with other councils and the state government on various climate action initiatives. These include advanced waste technology, separated glass recycling, container deposit schemes, and understanding land use change for net zero carbon sinks. The local government also plans to participate in the Cities Power Partnership or Climate Emergency Australia, Northern Alliance for Greenhouse Action, and International Council Local Environment Initiatives. These partnerships indicate a clear intent to advocate for climate action at higher levels of government. The local government's commitment to annual monitoring and reporting on climate actions and greenhouse gas emissions levels further underscores this intent, as it provides a mechanism for holding state and national governments accountable for their climate action commitments.",
+      "source": "Manningham-b-a12345678910.json",
+      "lga": "Manningham"
+    },
+    {
+      "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the local government's commitment to providing a voice for the community at the state and national government level to drive action towards a more supportive policy environment for climate change mitigation and adaptation. This is seen as a strategic approach to leverage the local government's position to support community emissions reduction. The policy also emphasizes the role of the local government in demonstrating leadership in emissions reductions and climate change management, and in participating in collaborative efforts for emissions reduction initiatives with regional council groups and State Government.",
+      "source": "Mansfield-a-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "Providing a voice for the community at the state and national government level to drive action towards a more supportive policy environment for climate change mitigation and adaptation.",
+        "page": 31,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the local government's commitment to providing a voice for the community at the state and national government level to drive action towards a more supportive policy environment for climate change mitigation and adaptation. This is seen as a strategic approach to leverage the local government's position to support community emissions reduction. The policy also emphasizes the importance of working at the regional level to deliver low emissions transitions in a strategic manner, such as the roll out of electric vehicle charging infrastructure and exploration of low emissions agriculture. This shows a clear intent to engage with higher levels of government to support and advance climate action initiatives.",
+      "source": "Mansfield-b-a12345678910.json",
+      "lga": "Mansfield",
+      "quote": {
+        "content": "Providing a voice for the community at the state and national government level to drive action towards a more supportive policy environment for climate change mitigation and adaptation.",
+        "page": 31,
+        "source": "Mansfield-2021-climate-action-plan.pdf",
+        "search_score": 0.96
+      }
+    },
+    {
+      "answer": "The Maribyrnong City Council Climate Emergency Action Plan does show an explicit intent to advocate upward to state and national governments to support climate action. The document outlines a commitment to 'advocating to all levels of government for urgent climate emergency responses.' This statement indicates a clear intention to engage with higher levels of government, including state and national, to push for action on climate change. The document also emphasizes the importance of developing partnerships and networks with other councils and organizations to enhance the effectiveness of climate emergency action. This suggests a collaborative approach that includes advocacy to other governmental bodies. However, the document does not provide specific details on the strategies or methods that will be used for this advocacy.",
+      "source": "Maribyrnong-a-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The Maribyrnong City Council Climate Emergency Action Plan does show an explicit intent to advocate upward to state and national governments to support climate action. The document outlines the council's commitment to developing partnerships and networks with other councils and organisations to enhance the effectiveness of their climate emergency actions. This indicates a willingness to collaborate and advocate at higher levels of government. Furthermore, the council's plan to engage with research institutes, innovative technology groups, non-government organisations, and climate emergency strategists suggests an intent to influence and advocate for climate action beyond the local level. However, the document does not provide specific details on how this advocacy will be carried out or which specific state and national policies they aim to influence.",
+      "source": "Maribyrnong-b-a12345678910.json",
+      "lga": "Maribyrnong"
+    },
+    {
+      "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The local government's policy outlines a commitment to work in partnership with other government agencies, businesses, and community members to advocate for and deliver green infrastructure within projects in Maroondah. This is indicative of an intent to engage in advocacy at higher levels of government. Furthermore, the policy also mentions the local government's support for the mid-2016 local government workshops on the development of Victoria’s Climate Change Adaptation Plan 2017-2020. This participation in state-level initiatives further demonstrates an intent to advocate for climate action at the state level. Therefore, the documents provide clear evidence of an intent to advocate for climate action at both state and national levels.",
+      "source": "Maroondah-a-a12345678910.json",
+      "lga": "Maroondah"
+    },
+    {
+      "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government's policy outlines a commitment to work in partnership with other government agencies, businesses, and community members to advocate for and deliver green infrastructure within projects in Maroondah. This is indicative of an intent to engage with higher levels of government to support climate action. Furthermore, the policy also mentions the local government's participation in Victorian Government sessions to co-design a community of practice for adaptation in local government. This participation in state-level initiatives demonstrates an active effort to advocate for climate action at a higher governmental level.",
+      "source": "Maroondah-b-a12345678910.json",
+      "lga": "Maroondah"
+    },
+    {
+      "answer": "The documents clearly indicate an intent to advocate upward to state and national governments to support climate action. The local government's climate change mitigation strategy outlines a number of actions that involve collaboration with the Australian and Victorian Governments. For instance, the strategy includes plans to promote emission reductions to the community, businesses, and government decision-makers, and to identify and address synergies between various climate change strategies. The strategy also mentions advocating for policy changes and actions from other entities, including the Victorian and Australian Governments. Furthermore, the strategy outlines plans to advocate for the extension of Commercial Building Disclosure legislation to the Australian Government. These actions demonstrate a clear intent to engage with and advocate to higher levels of government for support in climate action.",
+      "source": "Melbourne-a-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "Both the Significant and Accelerated Action scenarios require investors, businesses and the Victorian and Australian Governments to take action. We will lead the delivery of actions within our powers and advocate for policy change and action from others.",
+        "page": 9,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate an intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines a strategy that includes engaging, facilitating, collaborating, and partnering with various stakeholders, including the Victorian and Australian Governments. The policy also includes actions such as advocating for a more ambitious Renewable Energy Target and the extension of Commercial Building Disclosure legislation. The policy also mentions the need for policy changes and actions by the Victorian and Australian Governments. This shows a clear intent to influence and advocate for climate action at higher levels of government.",
+      "source": "Melbourne-b-a12345678910.json",
+      "lga": "Melbourne",
+      "quote": {
+        "content": "We have also outlined policy changes and actions needed by the Victorian and Australian Governments.",
+        "page": 49,
+        "source": "Melbourne-2018-climate-change-mitigation-strategy.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines several strategies and actions that involve advocating for stronger state and national policies. For instance, the policy mentions strengthening private realm infrastructure through updating planning controls and advocating for stronger state and national policies. It also mentions working with the Municipal Association of Victoria to advocate for improved building standards that are adequate for future climate conditions. Furthermore, the policy outlines actions to collaborate with other councils to understand, identify, and respond to changing risk exposure, and to seek guidance from the State government on how to respond to changing risk exposure. These actions demonstrate a clear intent to engage with and advocate to higher levels of government for support in climate action.",
+      "source": "Melton-a-a12345678910.json",
+      "lga": "Melton",
+      "quote": {
+        "content": "Work with Municipal Association of Victoria to advocate for improved building standards that are adequate for future climate conditions.",
+        "page": 16,
+        "source": "Melton-Climate-Change-Adaptation-Plan-2020-2030.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines several strategies and actions that involve advocating for stronger state and national policies. For instance, the local government plans to strengthen private realm infrastructure through updating planning controls and advocating for stronger state and national policies. They also plan to work with the Municipal Association of Victoria to advocate for improved building standards that are adequate for future climate conditions. Furthermore, the policy mentions advocating to the Australian Building Commission for improved building standards that incorporate long-term local impacts of climate change. These actions demonstrate a clear intent to engage with and influence higher levels of government to support climate action.",
+      "source": "Melton-b-a12345678910.json",
+      "lga": "Melton",
+      "quote": {
+        "content": "Work with Municipal Association of Victoria to advocate for improved building standards that are adequate for future climate conditions.",
+        "page": 16,
+        "source": "Melton-Climate-Change-Adaptation-Plan-2020-2030.pdf",
+        "search_score": 0.91
+      }
+    },
+    {
+      "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines a strategic approach to advocacy in response to the climate emergency, which includes collaboration with other councils and community organisations. The council is seeking actions from the Victorian and Australian governments to support their vision of a Zero Carbon Merri-bek. This includes the establishment of a strong, long-term, stable energy policy and carbon price aligned with the science and principles of climate justice. The council also aims to collaborate with other local councils and regional groups to run targeted and visible advocacy campaigns to impact state and federal policy to facilitate transition to zero emissions energy, transport, and waste management.",
+      "source": "Merribek-a-a12345678910.json",
+      "lga": "Merribek",
+      "quote": {
+        "content": "The below is a non-exhaustive list of actions Council is seeking from Victorian and Australian governments to support the vision of a Zero Carbon Merri-bek.",
+        "page": 24,
+        "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines a strategic approach to advocacy in response to the climate emergency, which includes collaboration with other councils and community organisations. The council is seeking actions from Victorian and Australian governments to support their vision of a Zero Carbon Merri-bek. This includes the establishment of a strong, long-term, stable energy policy and carbon price aligned with the science and principles of climate justice. The policy also mentions the need for a national Renewable Energy Target (RET) of 100% by 2030. Furthermore, the policy outlines plans to collaborate with other local councils and regional groups/alliances to run targeted and visible advocacy campaigns to impact state and federal policy to facilitate transition to zero emissions energy, transport, and waste management.",
+      "source": "Merribek-b-a12345678910.json",
+      "lga": "Merribek",
+      "quote": {
+        "content": "The below is a non-exhaustive list of actions Council is seeking from Victorian and Australian governments to support the vision of a Zero Carbon Merri-bek.",
+        "page": 24,
+        "source": "Merribek-2022-Zero-Carbon-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents from the Mitchell 2024 Climate Emergency Action Plan clearly demonstrate an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines the council's role in advocacy, which includes representing and championing the interests of the Mitchell Shire community to state and federal bodies. The policy also lists specific actions that involve advocacy to relevant authorities. These actions include advocating for improved early warning systems for wildfires and floods, ensuring that flood models account for potential climate change impacts, and advocating to Agriculture Victoria to provide dedicated regional support to farmers and landowners. These actions indicate a clear intent to engage with higher levels of government to address climate change issues.",
+      "source": "Mitchell-a-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "Advocate to the State Government to support flood mitigation activities that assist to protect townships up to 1-in-100 year flood levels. Advocate to ensure that flood models account for potential climate change impacts, including to 1-in-100 year flood level, and for streamlined integration of flood data into the planning scheme.",
+        "page": 61,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.92
+      }
+    },
+    {
+      "answer": "The documents from the Mitchell 2024 Climate Emergency Action Plan clearly demonstrate an explicit intent to advocate upward to state and national governments to support climate action. The local government's role in advocacy is emphasized, particularly in representing and championing the interests of the Mitchell Shire community to state and federal bodies. The policy outlines specific actions for the council to undertake, such as advocating to relevant authorities to improve early warning systems for wildfires and floods, and advocating to the State Government to support flood mitigation activities. The policy also encourages the community to advocate to governments and service providers for a safe climate. Therefore, the policy not only shows an intent to advocate for climate action but also seeks to empower the community to do the same.",
+      "source": "Mitchell-b-a12345678910.json",
+      "lga": "Mitchell",
+      "quote": {
+        "content": "Advocate to the State Government to support flood mitigation activities that assist to protect townships up to 1-in-100 year flood levels.",
+        "page": 61,
+        "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+        "search_score": 0.9
+      }
+    },
+    {
+      "answer": "The documents clearly indicate an intent to advocate upward to state governments to support climate action. This is evident in the planned actions that involve advocating to the State Government for policies that encourage more green roofs on high-density developments and around priority integrated water management and climate resilience matters. The documents also show an intent to partner with relevant external stakeholders, including government stakeholders and neighbouring councils, to implement greening programs. These actions demonstrate a clear intent to engage with higher levels of government to promote and implement climate action.",
+      "source": "MooneeValley-a-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state governments to support climate action. This is evident in several instances where the local government has outlined plans to advocate to the State Government for various climate-related policies. For instance, the local government plans to advocate for a state-wide policy that encourages more green roofs on high-density developments. Additionally, the local government also plans to advocate to the State Government around priority integrated water management and climate resilience matters. These actions demonstrate a clear intent to engage with higher levels of government to promote and support climate action.",
+      "source": "MooneeValley-b-a12345678910.json",
+      "lga": "MooneeValley"
+    },
+    {
+      "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. The local government acknowledges that it can only directly control some issues, and for others, it can only take an advocacy role. This is particularly evident in the context of climate change and environmental sustainability, where the local government's influence is often limited by state and national policies. The document outlines a strategy that includes advocating to state government and local water authorities on behalf of the community on water-related issues. This suggests a willingness to engage in advocacy at higher levels of government to support climate action and environmental sustainability.",
+      "source": "Moorabool-a-a12345678910.json",
+      "lga": "Moorabool"
+    },
+    {
+      "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The local government acknowledges that it can only directly control some issues, and for others, it can only take an advocacy role. This is particularly evident in the context of climate change and environmental sustainability, where the local government's influence may be limited. The documents mention that the local government will advocate to State Government and local water authorities on behalf of the community on water-related issues, which are intrinsically linked to climate change. This indicates a clear intent to engage in advocacy at higher levels of government to support climate action.",
+      "source": "Moorabool-b-a12345678910.json",
+      "lga": "Moorabool"
+    },
+    {
+      "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines a comprehensive plan for climate change advocacy, including the development of an 'Advocacy Plan' and an 'Annual Advocacy Report' for transparency and accountability. The policy also emphasizes the importance of using evidence-based arguments in advocacy and ensuring that advocacy positions are representative. The policy further outlines the Shire's role in listening to and promoting community voices, advocating with key partners, and using and expanding partnership and collaboration networks. The policy also includes specific targets for advocacy, such as advocating for zero carbon energy with other government agencies. The policy also outlines plans to develop and publish case studies annually to demonstrate the effectiveness of their climate change actions.",
+      "source": "Mornington-a-a12345678910.json",
+      "lga": "Mornington"
+    },
+    {
+      "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines a comprehensive plan for climate change advocacy, including the development of an 'Advocacy Plan' and an 'Annual Advocacy Report' for transparency and accountability. The policy also emphasizes the importance of using evidence-based arguments in advocacy and ensuring that advocacy positions are representative. The policy further outlines the role of the community in advocating for climate action to all levels of government and participating in community action. The policy also includes specific targets for advocacy, such as advocating to the Victorian Government to declare a Climate Emergency and set a 100% renewable energy target for 2040 or earlier. Therefore, the policy demonstrates a clear and explicit intent to advocate for climate action at higher levels of government.",
+      "source": "Mornington-b-a12345678910.json",
+      "lga": "Mornington",
+      "quote": {
+        "content": "This includes advocating for governments to declare a climate emergency and to reduce emissions to meet the Paris Agreement 1.5°C target.",
+        "page": 10,
+        "source": "Mornington-2020-climate-emergency-response-part2.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government has outlined several strategies and actions that align with national and state policies on environmental sustainability and climate change. These include the National Water Quality Management Strategy 1992, National Greenhouse Strategy 2000, and Climate Change Adaptation Actions for Local Government 2007. The local government also plans to offset its greenhouse emissions through annual community indigenous vegetation planting programs. Furthermore, the local government acknowledges the importance of external parties such as Sustainability Victoria, the Environmental Protection Authority, and the South West Sustainability Partnership in achieving positive outcomes within its community. This suggests an intent to advocate and collaborate with higher levels of government and other organizations to support climate action.",
+      "source": "Moyne-a-a12345678910.json",
+      "lga": "Moyne",
+      "quote": {
+        "content": "Council must continue to remain vigilant it its quest to influence external parties (such as Sustainability Victoria, the Environmental Protection Authority, the South West Sustainability Partnership, local Transition Towns groups) and projects in a bid to create positive outcomes within its own community.",
+        "page": 24,
+        "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government has outlined a number of strategies and actions that align with both state and national policies on environmental sustainability and climate change. These include the National Water Quality Management Strategy 1992, National Greenhouse Strategy 2000, and Climate Change Adaptation Actions for Local Government 2007. The local government also plans to offset its greenhouse emissions and increase community understanding and awareness of energy consumption and the impacts of greenhouse gas emissions. Furthermore, the local government acknowledges the importance of reducing greenhouse gas emissions at the local level and has resolved to regularly question and review how it can improve its everyday operations. This suggests an intent to advocate for climate action to higher levels of government.",
+      "source": "Moyne-b-a12345678910.json",
+      "lga": "Moyne",
+      "quote": {
+        "content": "Council must continue to remain vigilant it its quest to influence external parties (such as Sustainability Victoria, the Environmental Protection Authority, the South West Sustainability Partnership, local Transition Towns groups) and projects in a bid to create positive outcomes within its own community. In recognition of the importance of reducing greenhouse gas emissions at the local level, Moyne Shire Council resolved in December 2002 to participate in the Cities for Climate Protection Program™.",
+        "page": 24,
+        "source": "Moyne-Environmental_Sustainability_Strategy_Revised_May_2015.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The Nillumbik 2022 Climate Action Plan clearly demonstrates an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines a commitment to collaborate and advocate for broad and urgent climate action by all levels of government to reduce and respond to climate change. This includes advocating for climate action opportunities that will support the Nillumbik community to participate in, and contribute to, climate action. The policy also emphasizes the importance of leveraging relationships with agencies, organizations, and groups to stay informed about best practice climate action and opportunities for continuous improvement. This suggests a proactive approach to advocacy and collaboration, with the aim of influencing higher levels of government and other key stakeholders to support and implement effective climate action.",
+      "source": "Nillumbik-a-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "Collaborate and advocate for broad and urgent climate action by all levels of government to reduce and respond to climate change. 1.3 To collaborate and advocate for climate action by local, state and federal government that will support the Nillumbik and broader community and environment.",
+        "page": 21,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 0.97
+      }
+    },
+    {
+      "answer": "The Nillumbik 2022 Climate Action Plan clearly demonstrates an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines a commitment to collaborate and advocate for broad and urgent climate action by all levels of government to reduce and respond to climate change. This includes advocating for climate action opportunities that will support the Nillumbik community to participate in, and contribute to, climate action. The policy also emphasizes the importance of leveraging relationships with agencies, organizations, and groups to stay informed about best practice climate action and opportunities for continuous improvement. This suggests a proactive approach to advocacy and collaboration, which is likely to include engagement with state and national governments.",
+      "source": "Nillumbik-b-a12345678910.json",
+      "lga": "Nillumbik",
+      "quote": {
+        "content": "Collaborate and advocate for broad and \nurgent climate action by all levels of \ngovernment to reduce and respond to climate \nchange \nb. 1.3 To collaborate \nand advocate for \nclimate action by \nlocal, state and \nfederal government \nthat will support the \nNillumbik and \nbroader community \nand environment\na.",
+        "page": 21,
+        "source": "Nillumbik-2022-climate-action-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the local government's commitment to advocating for government leadership in setting targets and funding for greenhouse gas (GHG) reduction. This indicates a clear intent to engage with higher levels of government to ensure that adequate measures are taken to address climate change. The policy also highlights the local government's participation with other bodies to investigate measures and bring about effective change, further demonstrating its commitment to advocacy and partnership in the fight against climate change.",
+      "source": "Pyrenees-a-a12345678910.json",
+      "lga": "Pyrenees"
+    },
+    {
+      "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the local government's Climate Change Response and Mitigation Action Plan, where it outlines its commitment to 'advocate for government leadership in setting targets and funding for GHG reduction.' This statement indicates a clear intent to engage with higher levels of government to push for more ambitious climate action. The local government is not only taking steps to mitigate climate change at the local level but is also actively seeking to influence policy at the state and national levels. This advocacy role is crucial as it can help to ensure that the necessary resources and support are provided to local governments to effectively address climate change.",
+      "source": "Pyrenees-b-a12345678910.json",
+      "lga": "Pyrenees"
+    },
+    {
+      "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The Borough of Queenscliffe's Climate Emergency Response Plan (CERP) outlines a commitment to work with the community to advocate to all levels of government to achieve zero net emissions by 2031 or earlier. This advocacy is not limited to the local level but extends to all levels of government, including state and national. The plan also emphasizes the importance of collaboration and partnerships in achieving its climate goals, including partnerships with key government departments. The plan's focus on advocacy and collaboration suggests a recognition of the interconnectedness of climate action and the need for support and action at all levels of government.",
+      "source": "Queenscliffe-a-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "Council commits to working with community to advocate to all levels of government to achieve zero net emissions by 2031 or earlier, specifically advocating across all 8 Pillars of the CERP",
+        "page": 29,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The Borough of Queenscliffe's Climate Emergency Response Plan (CERP) outlines a commitment to work with the community to advocate to all levels of government to achieve zero net emissions by 2031 or earlier. This advocacy is not limited to local efforts but extends to state and national levels, as indicated by the council's participation in groups such as Climate Emergency Australia Councils group, the BSW Climate Alliance, and G21. The plan also emphasizes the importance of collaboration and partnerships, including with key government departments, to maximize the impact of their climate action efforts. Therefore, the documents provide clear evidence of an explicit intent to advocate upward to higher levels of government to support climate action.",
+      "source": "Queenscliffe-b-a12345678910.json",
+      "lga": "Queenscliffe",
+      "quote": {
+        "content": "Council commits to working with community to advocate to all levels of government to achieve zero net emissions by 2031 or earlier, specifically advocating across all 8 Pillars of the CERP",
+        "page": 29,
+        "source": "Queenscliffe-2021-climate-emergency-response-plan.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines several actions that involve partnerships with higher levels of government. For instance, the policy mentions the need to 'Support Water Authority and State Government efforts to educate residents on actions that can decrease water usage and highlight the importance of sustainable water use'. This indicates a clear intent to work with and advocate to state government entities. Furthermore, the policy also mentions the need to 'increase resilience of communities and support initiatives such as the DHHS funded Community Sector Climate Resilience Program', which implies advocacy to the federal government. Therefore, the policy does demonstrate an intent to advocate upward to state and national governments to support climate action.",
+      "source": "SouthernGrampians-a-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government's climate change adaptation plan outlines several actions that involve partnerships with higher levels of government. For instance, the plan includes actions to 'support Water Authority and State Government efforts to educate residents on actions that can decrease water usage and highlight the importance of sustainable water use'. This indicates an intent to work with and support state government initiatives. Additionally, the plan mentions working with the 'Federal Government to increase resilience of communities and support initiatives such as the DHHS funded Community Sector Climate Resilience Program'. This shows an intent to advocate for and support national government initiatives related to climate resilience. Therefore, the documents provide clear evidence of an intent to advocate upward to state and national governments to support climate action.",
+      "source": "SouthernGrampians-b-a12345678910.json",
+      "lga": "SouthernGrampians"
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan clearly demonstrates an explicit intent to advocate upward to state and national governments to support climate action. The document outlines the council's influential role in shaping the local area's environmental potential and performance, and its commitment to robust, progressive partnerships between all levels of government, the private sector, and the community. The council's advocacy efforts are particularly evident in its action plan, which includes actions such as advocating for local net zero emissions community energy solutions and advocating on behalf of the community for a federal Carbon Net zero goal. These actions indicate a clear intent to engage with and influence higher levels of government to support climate action.",
+      "source": "Strathbogie-a-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "To achieve our Shire targets, we will continue to engage in, and urge robust, progressive partnerships between all levels of government, the private sector, and the community.",
+        "page": 24,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The Strathbogie Shire Council's Climate Change Action Plan clearly demonstrates an explicit intent to advocate upward to state and national governments to support climate action. The document outlines the council's influential role in shaping local environmental potential and performance, and its commitment to robust, progressive partnerships with all levels of government, the private sector, and the community. The council's advocacy efforts are particularly evident in its action plan, which includes advocating for local net zero emissions community energy solutions and advocating on behalf of the community for a federal Carbon Net zero goal. These actions indicate a clear intent to influence higher levels of government to support climate action.",
+      "source": "Strathbogie-b-a12345678910.json",
+      "lga": "Strathbogie",
+      "quote": {
+        "content": "To achieve our Shire targets, we will continue to engage in, and urge robust, progressive partnerships between all levels of government, the private sector, and the community.",
+        "page": 24,
+        "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the various actions and strategies outlined in the documents. For instance, the local government plans to advocate for improved firewood regulations and the re-establishment of research hubs within the region to work with the agricultural sector, local government, and other agencies on sustainable agriculture and other environmental issues. Additionally, the local government is committed to strengthening partnerships and collaboration with various stakeholders, including Youth Council, businesses, and local community groups, to increase the resilience of the community to mitigate and adapt to climate changes. These actions demonstrate a clear intent to advocate for climate action at higher levels of government.",
+      "source": "Wangaratta-a-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "Advocate for the re-establishment of research hubs within the region to work with the agricultural sector, local government and other agencies on sustainable agriculture and other environmental issues.",
+        "page": 19,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the various strategies and actions outlined in the policy documents. For instance, the local government has committed to advocating for improved firewood regulations and the re-establishment of research hubs within the region to work with the agricultural sector, local government, and other agencies on sustainable agriculture and other environmental issues. Additionally, the local government has also committed to advocating for the inclusion of a sustainability category for the Wangaratta Business Awards. These actions demonstrate a clear intent to engage with higher levels of government and other stakeholders to promote and support climate action.",
+      "source": "Wangaratta-b-a12345678910.json",
+      "lga": "Wangaratta",
+      "quote": {
+        "content": "▪ Advocate for the inclusion of a sustainability category for \nthe Wangaratta Business Awards.",
+        "page": 33,
+        "source": "Wangaratta-Environmental-Sustainability-Strategy-2021-26.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the outlined strategies and actions that involve collaboration and partnerships with various levels of government. For instance, the local government plans to advocate to Federal and State governments for a stronger climate response and increased adaptation funding for Councils. This advocacy is intended to ensure that climate change is embedded into related areas of advocacy such as transport and social development. The documents also highlight the importance of collaboration and partnerships between all levels of government, the community, and local stakeholders in addressing climate change. This indicates a clear intent to engage with higher levels of government in climate action.",
+      "source": "Whitehorse-a-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "transport, social and Ensure climate change is embedded into related areas of advocacy (e.g.",
+        "page": 10,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the outlined strategies and actions that involve advocacy to higher levels of government. For instance, the local government plans to advocate for a stronger climate response and increased adaptation funding for Councils. This advocacy is intended to ensure that climate change is embedded into related areas of advocacy such as transport and social development. The documents also highlight the importance of collaboration and partnerships between all levels of government, the community, and local stakeholders in addressing climate change. This indicates a recognition of the role of state and national governments in guiding investment decisions and supporting the community to reach emissions reduction targets.",
+      "source": "Whitehorse-b-a12345678910.json",
+      "lga": "Whitehorse",
+      "quote": {
+        "content": "transport, social and Ensure climate change is embedded into related areas of advocacy (e.g.",
+        "page": 10,
+        "source": "Whitehorse-Climate-Response-Plan-2023–2026.pdf",
+        "search_score": 0.99
+      }
+    },
+    {
+      "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government acknowledges the importance of collaboration and partnerships in addressing climate change. It recognizes the role of all levels of government in supporting efforts to adapt to climate change. The documents also mention the Australian Government's National Climate Resilience and Adaptation Strategy and Victoria's Adaptation Action Plans, indicating an awareness of and engagement with broader governmental strategies. Furthermore, the local government is committed to partnering with the Northern Alliance for Greenhouse Action (NAGA) to create a zero carbon society and provide maximum protection against climate change impacts across municipal boundaries. This suggests an intent to advocate and collaborate with other levels of government.",
+      "source": "Whittlesea-b-a12345678910.json",
+      "lga": "Whittlesea"
+    },
+    {
+      "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines a multi-tiered approach to climate action, which includes partnering with other councils, alliances, and community groups to influence state and federal governments. The policy also details specific advocacy actions such as pushing for policy reform on key issues like renewable energy, buildings, waste, and transport, and advocating for a just transition to a low carbon future. Furthermore, the policy outlines plans to collaborate with others to advocate for the declaration of a climate emergency and strong action commensurate with the scale and urgency of the emergency. The policy also includes plans to advocate for improved energy performance of buildings and the acceleration of electric vehicle uptake.",
+      "source": "Yarra-a-a12345678910.json",
+      "lga": "Yarra",
+      "quote": {
+        "content": "Advocating for change\nAs the tier of government closest to the \ncommunity, Council is well placed to partner \nwith others in the community to jointly push for \nother levels of governments to respond to the \nclimate emergency at the scale and speed the \ncrisis requires.",
+        "page": 30,
+        "source": "Yarra-2020-climate-emergency-plan.pdf",
+        "search_score": 1
+      }
+    },
+    {
+      "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the various strategies and actions outlined in the policy documents. For instance, the local government plans to collaborate with others to advocate to state and federal governments to declare a climate emergency and take strong action commensurate with the scale and urgency of the emergency. They also plan to advocate for policy reform on key issues including renewable energy, buildings, waste, and transport. Furthermore, the local government intends to support the growth of the climate emergency movement by collaborating and sharing learnings with others to encourage more councils, organizations, and community groups to take climate action. These actions demonstrate a clear intent to influence higher levels of government to support and implement climate action.",
+      "source": "Yarra-b-a12345678910.json",
+      "lga": "Yarra"
+    },
+    {
+      "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the outlined actions that involve advocating to higher levels of government for climate change action that benefits the local community, including local businesses, households, and the agricultural sector. The documents also mention the intent to advocate for effective and efficient public transport infrastructure and services throughout the region. These actions demonstrate a clear intent to engage with and influence state and federal government policy in a way that supports the local government's climate action goals.",
+      "source": "YarraRanges-a-a12345678910.json",
+      "lga": "YarraRanges",
+      "quote": {
+        "content": "Advocate to State and Federal government for Effective and Efficient Public Transport infrastructure and services throughout Yarra Ranges.",
+        "page": 14,
+        "source": "YarraRanges-2020-liveable-climate-action-plan.pdf",
+        "search_score": 0.95
+      }
+    },
+    {
+      "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the outlined actions and strategies that involve partnerships and advocacy. The local government plans to advocate for climate change action that benefits their local community, including local businesses, households, and the agricultural sector. They also plan to advocate for effective and efficient public transport infrastructure and services throughout the region. These actions demonstrate a clear intent to engage with higher levels of government to support and implement climate action.",
+      "source": "YarraRanges-b-a12345678910.json",
+      "lga": "YarraRanges"
+    }
+  ]
+}

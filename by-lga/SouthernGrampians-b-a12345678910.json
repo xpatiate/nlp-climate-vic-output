@@ -1,0 +1,292 @@
+{
+  "settings": {
+    "source_files": [
+      "SouthernGrampians-2017-climate-change-adaptation-plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-14T14:29:23.265567",
+    "lga": "SouthernGrampians"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The core purpose of the policy, as outlined in the Climate Change Adaptation Plan, is indeed climate action. The policy aims to enable people, businesses, infrastructure, and the environment to adapt to an increasingly variable and volatile climate. The plan sets out priority risks and action areas for the next ten years, including those relevant to the community and council operations. The objectives of the plan include leading the community and businesses to build resilience and proactively consider climate risk, and working with key financial partners to increase consideration of climate risk. The policy also outlines specific adaptation actions, such as facilitating improved community resilience, developing an Integrated Water Plan, and investigating modification of construction practices for road and council infrastructure. Each action includes details of relevant risks, timelines, action ownership, resources required, and Key Performance Indicators (KPIs)."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The Climate Change Adaptation Plan is designed to enable the local community, businesses, infrastructure, and environment to cope with an increasingly variable and volatile climate. The plan acknowledges the broad-ranging impacts of climate change in the Shire, and emphasizes the necessity of adaptation. The plan sets out priority risks and action areas for the next ten years, including both short-term and long-term actions. The plan also outlines six prioritized adaptation actions, each with a range of sub-actions, and provides implementation details for each. These actions are designed to address various aspects of climate change, including greenhouse gas emissions, community resilience, water management, construction practices, and more. The plan also includes a commitment to working in partnership to respond to risks that cross organizational boundaries.",
+          "quote": {
+            "content": "Where there are risks that cross organisational boundaries, we are committed to working in partnership to respond. The Plan sets out our priority risks and action areas for the next ten years, with the prioritised risks including those to Council operations as well as those relevant to our community. To respond, we have broken down actions into short term and long term.",
+            "page": 2,
+            "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly call for rapid and urgent action on climate change. While the documents outline a Climate Change Adaptation Plan for the Southern Grampians Shire from 2017 to 2027, they do not express a sense of urgency or immediate action. The documents detail various actions and strategies to address climate change, including facilitating improved community resilience, developing an Integrated Water Plan, and modifying construction practices for infrastructure. However, these actions are planned over a span of several years, with timelines extending up to 2027. The documents also discuss the importance of education and awareness in relation to climate change, but again, there is no explicit call for urgent action. Therefore, based on the provided documents, the local government policy does not explicitly call for rapid and urgent action on climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. For instance, it outlines a plan to 'Investigate modification of construction practices for road and council infrastructure' with a timeline of 18 months for reporting in June 2018 and a review every 2 years. Another action, 'Develop an Urban Forest and Open Space Assets Strategy', has a timeline of 2-3 years for establishment, then ongoing. The action to 'Facilitate improved community resilience and social connectedness' is ongoing with a 12-month timeline. The 'Integrated Water Plan' has an ongoing timeline with annual reporting. These specific timeframes indicate a clear schedule for the implementation and review of the climate change adaptation actions.",
+          "quote": {
+            "content": "Develop and deliver an Integrated Water Plan...",
+            "page": 20,
+            "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+            "search_score": 0.9
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Southern Grampians Shire Council's Climate Change Adaptation Plan 2017-2027 outlines a range of adaptation actions to respond to climate risks, including research, policy and design, structural changes, and behavioural changes. It also mentions the prioritisation of adaptation actions, but this seems to be in relation to the severity of the climate risks themselves, rather than in comparison to other non-climate-related policies. The documents also detail the council's commitment to improving its preparedness and response to natural disasters, and to working in partnership to respond to risks that cross organisational boundaries. However, none of this information suggests that a climate emergency response is given higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline a Climate Change Adaptation Plan, which includes prioritised adaptation actions to respond to climate risks. These actions include research to improve understanding of climate change and risks, policy and design to prevent or mitigate effects, structural actions to prevent effects through built solutions and maintenance, and behavioural actions to raise awareness among stakeholders. However, there is no explicit requirement stated that all council activities must align with this climate policy. The documents do indicate that the council is committed to implementing adaptation solutions that are cost-effective, sustainable, transparent, justifiable, equitable, and minimise adverse environmental impacts. But again, this does not equate to a mandate for all council activities to align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does not explicitly allocate funding for climate action. While the plan outlines various actions and strategies to address climate change, including modification of construction practices, development of an Urban Forest and Open Space Assets Strategy, and the development of an Integrated Water Plan, it does not provide specific details on the allocation of funding for these actions. The plan does mention resources required for certain actions, but these are generally described in terms of staff resources or potential external funding, without clear details on the amount or source of funding. Therefore, based on the provided documents, it cannot be definitively stated that the plan allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific roles and responsibilities for staff members in relation to various climate change adaptation actions. For instance, the 'Manager Assets' is identified as the 'Action Owner' for the review of existing council road and infrastructure assets to assess viability under climate change. Similarly, the 'Biodiversity Officer' is designated as the 'Action Owner' for monitoring high impact invasive species that can negatively impact ecosystems. The plan also mentions the establishment of internal and external partnerships, indicating a collaborative approach to climate change adaptation involving various stakeholders. However, it is important to note that while the plan does allocate staff and institutional resources, the specifics of these allocations, such as the time commitment required from each staff member or the exact nature of the resources provided, are not detailed."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a range of actions and activities aimed at improving community resilience and social connectedness, which are key aspects of social mobilisation. These include promoting and supporting education programs for business and household resilience, increasing awareness and delivering training around climate resilience in relation to building standards, design, orientation and material quality, and supporting Water Authority and State Government efforts to educate residents on actions that can decrease water usage. The policy also mentions the formation of an internal community resilience advisory team and the development of an Integrated Water Plan. These actions are designed to facilitate community involvement and cooperation in addressing climate change, which is a clear indication of social mobilisation.",
+          "quote": {
+            "content": "Facilitate improved community resilience and social connectedness.",
+            "page": 15,
+            "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+            "search_score": 0.94
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The provided documents from the Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 do not provide clear evidence of specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change, in the context of 'restoring a safe climate'. The documents focus primarily on adaptation strategies to climate change, such as improving community resilience, modifying construction practices, and developing an Integrated Water Plan. While these actions indirectly contribute to climate change mitigation by promoting sustainable practices and resilience, they do not directly address the reduction or mitigation of greenhouse gas emissions. The documents mention the consideration of greenhouse gas emission implications in the development of adaptation actions, but do not provide specific details on how these emissions will be mitigated. Therefore, based on the provided documents, the plan does not include specific actions for mitigation of greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 indeed includes specific actions for climate adaptation and resilience. The plan outlines six prioritised adaptation actions, each with a range of sub-actions. These actions are designed to address various aspects of climate change, including community resilience, water management, construction practices, and greenhouse gas emissions. Each action is accompanied by details such as relevant risks, timelines, action ownership, required resources, and Key Performance Indicators (KPIs). The plan also emphasizes the importance of stakeholder involvement, cross-organisational collaboration, and ongoing review and refinement of the actions. This level of detail and specificity suggests a comprehensive and well-considered approach to climate adaptation and resilience.",
+          "quote": {
+            "content": "Develop and deliver an Integrated Water Plan",
+            "page": 20,
+            "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+            "search_score": 0.91
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a detailed plan for climate change adaptation, with specific actions, timelines, and key performance indicators. It outlines the criteria for developing adaptation actions, including effectiveness, practicability, economic efficiency, co-benefits, equity implications, and greenhouse gas emission implications. The plan also includes specific actions such as modification of construction practices, sustainable agricultural practices, and development of an Urban Forest and Open Space Assets Strategy. Each action is linked to relevant risks, has a timeline for completion, identifies the action owner and partnerships, resources required, and key performance indicators. This level of detail suggests a well-thought-out plan based on a thorough understanding of the local context and climate risks. However, the document does not provide explicit sources of evidence to justify its climate targets and actions, such as scientific studies or data. The evidence appears to be implicit in the detailed planning and consideration of various factors.",
+          "quote": {
+            "content": "Further, the following criteria were considered when adaptation actions were developed as per recommendations by the Australian Standard for consideration of climate risk in settlements and infrastructure9: Effectiveness and robustness of the adaptation – over its lifetime, including flexibility of the option in terms of ability to respond to changing climate / socioeconomic environment; Practicability of implementation and ease of maintenance; Economic efficiency of operation and ongoing maintenance; Co-benefits over and above those that come from the direct treatment of the risk, or net benefits under a range of plausible future climates; Equity implications of the adaptation option for all potential affected stakeholders; and Greenhouse gas emission implications of adaptation options.",
+            "page": 13,
+            "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a series of actions, each with a designated 'Action Owner' and a timeline for completion. Importantly, each action also has associated Key Performance Indicators (KPIs), which serve as the measurable criteria for evaluating success. For instance, the action to 'Develop and deliver an Integrated Water Plan' has KPIs that include annual reporting. Similarly, the action to 'Investigate modification of construction practices for road and council infrastructure' includes KPIs related to regular maintenance regimes. These KPIs provide a clear, quantifiable measure of whether the action has been successfully implemented. Therefore, the plan does meet the criteria of including specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does outline plans to conduct research in the local community to inform climate actions. The document details several actions that involve research and investigation to support decision-making around climate change adaptation. For instance, the plan includes an action to 'Investigate modification of construction practices for road and council infrastructure (new and maintenance)' which involves developing a repository of relevant information to support decision-making around infrastructure maintenance and development under climate change. This action suggests a research-oriented approach to inform climate actions. Additionally, the plan also includes actions to 'Facilitate sustainable agricultural practices through changes to land use planning and development approvals' and 'Develop an Urban Forest and Open Space Assets Strategy', both of which imply research and investigation to inform the planning and implementation of these actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 demonstrates evidence of innovation and policy experimentation in climate action. The plan outlines a range of actions that are designed to adapt to and mitigate the impacts of climate change. These include investigating modifications to construction practices for road and council infrastructure, facilitating sustainable agricultural practices, developing an Urban Forest and Open Space Assets Strategy, and investigating more dispersed and diversified tourism opportunities. Each action is accompanied by detailed information on relevant risks, timelines, action ownership, resources required, and Key Performance Indicators (KPIs). This level of detail suggests a comprehensive and innovative approach to climate action. The plan also includes the development of a repository of relevant information to support decision-making around infrastructure maintenance and development under climate change, and the use of digital technology to optimise asset management. These actions indicate a willingness to experiment with new approaches and technologies in the pursuit of climate action.",
+          "quote": {
+            "content": "Investigate more dispersed and diversified tourism opportunities",
+            "page": 32,
+            "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+            "search_score": 0.94
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 4,
+        "num_questions": 4,
+        "score": 1
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government's climate change adaptation plan outlines several actions that involve partnerships with higher levels of government. For instance, the plan includes actions to 'support Water Authority and State Government efforts to educate residents on actions that can decrease water usage and highlight the importance of sustainable water use'. This indicates an intent to work with and support state government initiatives. Additionally, the plan mentions working with the 'Federal Government to increase resilience of communities and support initiatives such as the DHHS funded Community Sector Climate Resilience Program'. This shows an intent to advocate for and support national government initiatives related to climate resilience. Therefore, the documents provide clear evidence of an intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. The plan outlines specific actions, timelines, and responsible parties for various climate change adaptation strategies. For instance, the plan includes actions such as monitoring high impact invasive species, developing an Urban Forest and Open Space Assets Strategy, and facilitating improved community resilience and social connectedness. These actions involve various internal and external partnerships, including with neighbouring councils, indicating a clear emphasis on building local capacity for climate action. The plan also assigns specific roles to various council officers, such as the Biodiversity Officer and Building Surveyors, further demonstrating the council's commitment to building internal capacity for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 was developed in partnership with neighboring councils, indicating a collaborative approach to climate change adaptation at a regional level. Furthermore, the document mentions the Climate Resilient Communities of the Barwon South West program, which includes the ten councils of the region. This program is a clear example of a regional partnership aimed at addressing climate change. The documents also mention various internal and external partnerships for specific actions, such as partnerships with universities, the Department of Environment, Land, Water and Planning (DELWP), and other community groups. These partnerships are aimed at investigating how ecosystems can adapt to climate change, promoting education programs for resilience, and improving weather forecast monitoring, among other things.",
+          "quote": {
+            "content": "A regional partnership also exists between key regional stakeholders through the Climate Resilient Communities of the Barwon South West program.",
+            "page": 2,
+            "source": "SouthernGrampians-2017-climate-change-adaptation-plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the Southern Grampians Shire Climate Change Adaptation Plan 2017 - 2027 does outline actions to improve community resilience and social connectedness, it does not specifically address the differential impacts of climate change on vulnerable communities. The plan does mention promoting and supporting education programs for business and household resilience, which could indirectly benefit vulnerable communities, but it does not explicitly state this. The documents also discuss the formation of an internal community resilience advisory team and the potential for increased visitation for nature-based tourism during cooler months, but again, these do not directly address the impact on vulnerable communities. Therefore, based on the provided documents, the local government policy does not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The document does discuss the equitable sharing of benefits and opportunities in the context of climate change, although it does not explicitly use the phrase 'equitable sharing of benefits and opportunities of a safe climate'. The policy outlines the importance of considering the 'equity implications of the adaptation option for all potential affected stakeholders' when developing adaptation actions. This suggests a commitment to ensuring that the benefits and opportunities arising from these actions are distributed fairly among all those affected. Furthermore, the policy includes actions aimed at improving community resilience and social connectedness, and promoting education programs for business and household resilience. These actions indicate an intention to ensure that all members of the community have the opportunity to benefit from the policy's climate change adaptation measures."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 65
+  }
+}

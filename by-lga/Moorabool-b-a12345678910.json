@@ -1,0 +1,292 @@
+{
+  "settings": {
+    "source_files": [
+      "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T20:37:12.646112",
+    "lga": "Moorabool"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Moorabool Sustainable Environment Strategy 2016-26, clearly identifies climate action as a core purpose or goal. The policy outlines a comprehensive approach to addressing climate change, including understanding and mitigating climate risks to the council and its community, reducing greenhouse emissions, improving water efficiency, and promoting local food supply. The policy also acknowledges the need for flexibility in responding to changes in environmental policy and funding opportunities at all levels of government. The policy's strategic objectives for climate adaptation further underscore the centrality of climate action to the policy's purpose. These objectives include ensuring that the council and community understand the risks of climate change and take actions to prepare for and mitigate these risks."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It identifies climate change as a major driver of change and highlights the increasing frequency and danger of climate impacts such as extreme heat waves, bushfires, and drought. The document emphasizes the need for the Council to plan and mitigate for these climate risks, reduce greenhouse emissions, and assist the community and businesses in cutting their emissions and energy costs. It also underscores the importance of reducing water consumption and improving water efficiency to mitigate future drought and low water supplies. The document further stresses the need for a more localized food supply as part of the climate change response. The Western Alliance for Greenhouse Action's strategies and action plans are also referenced, indicating the Council's alignment with broader climate change initiatives."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline the risks and impacts of climate change, such as extreme heat waves, bushfires, and drought, and the need for the council to plan and mitigate for these. The documents also detail strategies for reducing greenhouse emissions, improving water efficiency, and transitioning to a low carbon economy. However, these are presented as planned actions and strategies rather than urgent calls to action. The documents also mention the goal of achieving a carbon neutral council by 2031, but this is a long-term goal rather than an immediate action. Therefore, while the documents clearly acknowledge the importance of addressing climate change, they do not explicitly convey a sense of urgency or call for rapid action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate. It mentions a mid-term review of the Strategy after five years (2021) to determine progress against measurable targets and desired outcomes and to identify areas for improvement and adaptation. This review will coincide with a review of the first Implementation Plan 2016 - 21 and the development of a new Implementation Plan for the period 2021 - 26. Furthermore, the document states that a review of the Strategy will be completed in 2021 and 2031 to ensure that it is still in alignment with Council and community expectations and State and Federal legislation. This indicates a clear timeline for the implementation and review of the policy's climate-related actions.",
+          "quote": {
+            "content": "This review will coincide with a review of the first Implementation Plan 2016 - 21 and the development of a new Implementation Plan for the period 2021 - 26. Review of the Strategy will be completed in 2021 and 2031 to ensure that it is still in alignment with Council and community expectations and State and Federal legislation. There will be a mid-term review of the Strategy after five years (2021) to determine progress against measurable targets and desired outcomes and to identify areas for improvement and adaptation.",
+            "page": 5,
+            "source": "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including understanding and mitigating climate risks, reducing greenhouse emissions, improving water efficiency, and promoting local food supply, they do not explicitly prioritize these actions over other policies. The documents also mention the need for the council to maintain close communications with Sustainability Victoria and the Department of Environment, Land, Water and Planning to seek out opportunities for the community. However, this does not necessarily imply a prioritization over other policies. The documents also acknowledge that the council can only directly control some issues, indirectly influence others, and can only advocate for some issues, suggesting a balanced approach to policy implementation."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a number of ways in which the council plans to respond to climate change, including understanding and mitigating climate risks, reducing greenhouse emissions, and improving water efficiency. The council also acknowledges that it can only directly control some issues, and can only influence or advocate for others. The documents also mention a mid-term review of the strategy after five years to measure progress and identify areas for improvement. However, there is no explicit requirement stated that all council activities must align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that the local government's plan allocates funding for climate action. While the documents detail various strategies and actions to mitigate and adapt to climate change, such as reducing greenhouse emissions, improving water efficiency, and planning for climate risks, they do not specify any budget or funding allocation for these initiatives. The documents mention the council's ability to source and provide resources and funds, but it does not explicitly link this to climate action. Therefore, based on the provided context, it cannot be confirmed that the plan allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Moorabool Shire Sustainable Environment Strategy 2016 - 26 does allocate non-monetary institutional resources to climate action, although it does not explicitly mention the allocation of staff. The policy outlines a range of tools and resources that the Council has at its disposal to achieve its desired outcomes in environmental management. These include various strategic plans, management plans, and policies, as well as the ability to source and provide resources and funds. The policy also mentions the role of skilled staff in preparing and implementing suitable projects and programs, suggesting that staff resources are implicitly allocated to climate action. However, the policy does not provide specific details on the number of staff allocated, their roles, or the time they will spend on climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is taking steps to empower and educate the community to work together to address climate change. The policy outlines a number of strategic objectives and actions that involve the community in climate action. These include understanding the climate risks to the community and working with them to prepare for and mitigate these risks, developing a Water & Energy Efficient Communities engagement strategy to promote existing State Government programs that assist the community to reduce greenhouse emissions and improve water efficiency, and increasing community awareness of the local natural values in Moorabool Shire. The policy also mentions the importance of the community being informed about climate change and being engaged to play their role in reducing its impacts. Therefore, it can be concluded that the policy does actively empower and educate the community to rally, support, and work productively together to deliver climate action.",
+          "quote": {
+            "content": "Ensure a more localised food supply including households growing some of their own food.",
+            "page": 14,
+            "source": "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions include reducing the council's corporate greenhouse emissions, utilizing renewable energy production at council-owned facilities, and assisting the community and businesses to access renewable energy. The plan also includes behaviour changes such as reducing water consumption, improving efficiency, and encouraging a more localized food supply. The council also aims to reduce greenhouse emissions from vehicle usage for council operations and staff travel. The plan also includes strategic objectives to reduce the amount of electricity and gas used, increase the proportion of renewable energy used in council’s operations, and shift council’s procurement towards low emissions products and services.",
+          "quote": {
+            "content": "Ensure a more localised food supply including households growing some of their own food.",
+            "page": 14,
+            "source": "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a vision to support and deliver activities to reduce the impact of and vulnerability to future climate change on the Moorabool Shire community. It also identifies the need to understand the climate risks to the council and its community and to plan and mitigate for these. The council aims to reduce its corporate greenhouse emissions, utilize renewable energy production at council-owned facilities, assist the community and businesses to cut their emissions and energy costs, and reduce its water consumption. The plan also includes strategic objectives for climate adaptation, such as ensuring that the council understands the risks of climate change on its operations and takes actions to prepare for and mitigate these risks.",
+          "quote": {
+            "content": "To ensure that Council has understood the risks of climate change to the community and is working \nwith the community to help prepare for and mitigate the risks. ... \nStrategic objectives for climate adaptation \n1. To ensure that Moorabool Shire has understood the risks of climate change on Council operations and \ntakes actions to prepare for and mitigate these risks. 2.",
+            "page": 43,
+            "source": "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a comprehensive plan for addressing climate change, including specific actions and strategies. It outlines the major drivers of change and the macro-context for the Council’s response, including understanding and mitigating climate risks, reducing greenhouse emissions, and improving water efficiency. The Council has already taken steps to reduce water consumption and find more sustainable sources. The document also mentions an Energy and Water assessment of Council’s operations by Ironbark Sustainability. The Council acknowledges that it can only directly control some issues, and can only influence others indirectly or through advocacy. The document also mentions a mid-term review of the Strategy after five years to determine progress and identify areas for improvement. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.",
+          "quote": {
+            "content": "The major drivers of change and the macro-context for Council’s response include: Climate Change.",
+            "page": 14,
+            "source": "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf",
+            "search_score": 0.91
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's policy does indeed include specific measurable criteria to evaluate the success of its proposed actions. The policy outlines a structured approach to monitoring and evaluation, with a mid-term review of the Strategy after five years to determine progress against measurable targets and desired outcomes. This review will also identify areas for improvement and adaptation. The review process is designed to ensure that the Strategy remains in alignment with Council and community expectations and State and Federal legislation. The policy also mentions the development of an Implementation Plan, which will outline the specific activities that the Council will undertake. This plan will be reviewed and updated every five years, providing a mechanism for ongoing evaluation and adaptation of the policy's actions.",
+          "quote": {
+            "content": "There will be a mid-term review of the Strategy after five years (2021) to determine progress against measurable targets and desired outcomes and to identify areas for improvement and adaptation.",
+            "page": 5,
+            "source": "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy outlines various strategies to mitigate the impacts of climate change, such as reducing greenhouse emissions, improving water efficiency, and promoting local food supply. It also emphasizes the importance of understanding climate risks and planning for them. However, these strategies seem to be based on existing knowledge and assessments, rather than plans for future research. The policy does mention the need for community engagement and awareness, but it does not specify that this will involve conducting research in the local community."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. The local government's planned actions primarily focus on understanding and mitigating climate risks, reducing greenhouse emissions, improving water efficiency, and promoting local food supply. While these actions are important and necessary, they are standard responses to climate change and do not indicate a particularly innovative or experimental approach. The documents also mention the need for the community to be informed about climate change and to reduce their greenhouse emissions. However, this again is a common strategy and does not suggest policy experimentation. The documents do not mention any novel or experimental policies or strategies that the local government is considering or has implemented."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The local government acknowledges that it can only directly control some issues, and for others, it can only take an advocacy role. This is particularly evident in the context of climate change and environmental sustainability, where the local government's influence may be limited. The documents mention that the local government will advocate to State Government and local water authorities on behalf of the community on water-related issues, which are intrinsically linked to climate change. This indicates a clear intent to engage in advocacy at higher levels of government to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents do not explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. While the documents do mention the importance of understanding climate risks and planning for mitigation, they do not specifically mention building local capacity across different stakeholders for climate action. The documents do mention the council's role in influencing sustainable land management and advocating for environmental programs, but these are not explicitly tied to building local capacity for climate action. The documents also mention the council's role in assisting the community and businesses to reduce emissions and energy costs, but again, this is not explicitly tied to building local capacity for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations and alliances related to climate. The Western Alliance for Greenhouse Action (WAGA) is repeatedly mentioned throughout the documents. WAGA has developed several strategies and action plans, such as the Climate Change Adaptation Strategy 2013-2020, the Climate Change Adaptation Action Plan 2013-30, and the Low Carbon West: A Strategy for a Transition to a Low Carbon Economy in the WAGA Region. These strategies and plans are designed to address the risks and impacts of climate change in the region. The documents also mention that the local government will work with other stakeholders, including natural resource management organizations and the broader community, to implement the Sustainable Environment Strategy. This indicates a commitment to partnerships and collaboration in addressing climate change.",
+          "quote": {
+            "content": "Western Alliance for Greenhouse Action, Victoria. Western Alliance for Greenhouse Action (WAGA) (2012), Climate Change Adaptation Strategy 2013-2020 Full Report. Western Alliance for Greenhouse Action, Victoria. Western Alliance for Greenhouse Action, Victoria. Western Alliance for Greenhouse Action (WAGA) (2012), Climate Change Adaptation Action Plan 2013-30. Western Alliance for Greenhouse Action, Victoria. Western Alliance for Greenhouse Action, Victoria. Western Alliance for Greenhouse Action (WAGA) (2014), Low Carbon West: A Strategy for a Transition to a Low Carbon Economy in the WAGA Region. Western Alliance for Greenhouse Action, Victoria.",
+            "page": 56,
+            "source": "Moorabool-Sustainable-Environment-Strategy-2016-26.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do detail the local government's plans to mitigate the effects of climate change, such as reducing greenhouse emissions, improving water efficiency, and planning for extreme weather events, they do not specifically address how these actions will impact vulnerable communities. The documents focus more on the general community and the council's operations, rather than on specific groups within the community. Therefore, without explicit mention or discussion of vulnerable communities and the impact of climate change on them in terms of equity and social justice, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The policy focuses on the local government's response to climate change, including understanding and mitigating climate risks, reducing greenhouse emissions, improving water efficiency, and promoting local food supply. It also outlines the council's vision for climate adaptation and energy efficiency. However, there is no specific mention of how these actions and strategies will be implemented in a way that ensures equitable distribution of benefits and opportunities. The policy does not address issues of social justice in relation to climate change, nor does it provide measures to ensure that the benefits of a safe climate are shared equitably among the community."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 11,
+    "num_questions": 20,
+    "attribute_score": 61.7
+  }
+}

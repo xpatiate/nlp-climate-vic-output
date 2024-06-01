@@ -1,0 +1,298 @@
+{
+  "settings": {
+    "source_files": [
+      "Latrobe-2014-low-carbon.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T21:17:11.003389",
+    "lga": "Latrobe"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy, 'Positioning Latrobe City for a Low Carbon Emissions Future', is primarily focused on climate action. The core purpose of the policy is to transition the local economy to a low carbon future. This is evident in the policy's commitment to realizing opportunities for a successful transition to a low carbon emissions future. The policy is proactive and independent of the Australian Government's policy, allowing the Council to take the lead in this transition. The policy is also underpinned by three themes, one of which is 'Pursuing and realizing opportunities' for a low carbon future. The policy contains 30 actions, the majority of which have been implemented, demonstrating the Council's commitment to this transition. The policy was developed in response to the anticipated effects of a price on carbon emissions on the local community and economy.",
+          "quote": {
+            "content": "The policy is underpinned by three themes: Pursuing and realising opportunities.",
+            "page": 5,
+            "source": "Latrobe-2014-low-carbon.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The policy 'Positioning Latrobe City for a Low Carbon Emissions Future' was adopted in 2010 with the aim of transitioning to a low carbon economy. The policy was developed in response to the Australian Government's consideration of a price on carbon emissions, indicating an understanding of the economic and environmental implications of carbon emissions. The policy is underpinned by three themes, one of which is 'Pursuing and realising opportunities', suggesting a proactive approach to the challenges and opportunities presented by a low carbon future. The policy also includes a commitment to work with the government of the day to achieve the best possible outcome for the community, demonstrating an ongoing commitment to addressing climate change. The policy's actions were assessed against the Victorian Government’s White Paper on Climate Change and were found to be relevant and complementary, further indicating the policy's alignment with broader climate change action.",
+          "quote": {
+            "content": "In less than one year, Council had gone from being a low carbon transition observer with a limited understanding of the proposed scheme, its opportunities and challenges for the community, to being ahead of the game. Council formally adopted the policy on 6 April 2010 and began implementing the policy actions immediately.",
+            "page": 4,
+            "source": "Latrobe-2014-low-carbon.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. While they detail the local government's proactive approach to transitioning to a low carbon economy, the emphasis is more on the economic opportunities and job creation associated with this transition, rather than the urgency of addressing climate change. The documents discuss the adoption and implementation of a low carbon policy, the establishment of a Low Carbon Emissions Future Transition Committee, and the completion of specific action items related to this policy. However, these actions are framed in terms of economic development and structural adjustment, rather than urgent climate action. The documents also mention the Australian Government's carbon emissions reduction legislation and the introduction of a price on carbon, but these are presented as external factors influencing the local government's policy, rather than urgent imperatives for action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents detail the policy's development, implementation, and review, they do not provide explicit deadlines or schedules for the policy's actions. The documents discuss the policy's stages, such as 'Pre-work and Planning', 'Education and Awareness Program', 'Interactive Workshops', 'Draft Policy Positions', 'Stakeholder Consultation', 'Finalisation of the Policy Position', and 'Formulation of Ongoing Arrangements', but these stages are not associated with specific timeframes. The documents also mention the policy's themes and actions, but again, these are not tied to specific deadlines. Therefore, the documents do not provide clear evidence to answer the question in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The policy documents focus on the transition to a low carbon economy, with emphasis on job creation and economic development. The policy is proactive and collaborative, with a focus on the local community and economy. It includes 30 actions, of which 11 are considered complete, with 18 ongoing and one superseded by other initiatives. The policy was developed in response to the Australian Government's proposed carbon emissions reduction legislation, and it is independent of the Australian Government's policy. However, there is no explicit statement prioritizing a climate emergency response over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the council has shown a strong commitment to transitioning to a low carbon economy, as evidenced by the adoption of the policy 'Positioning Latrobe City for a Low Carbon Emissions Future' and the establishment of a Low Carbon Emissions Future Transition Committee, there is no specific mandate that all council activities must align with this policy. The council has indeed taken proactive steps, such as working on specific projects and collaborating with various stakeholders, to address climate change and reduce carbon emissions. However, these actions seem to be part of a broader strategy rather than a requirement for all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The policy documents do not provide explicit evidence of the allocation of funding specifically for climate action. While the documents mention various initiatives related to climate change, such as the establishment of a Low Carbon Emissions Future Transition Committee and the development of a policy for a low carbon future, they do not specify any direct allocation of funds for these initiatives. The documents do mention the council's efforts to secure funding from the Victorian and Australian Governments, but it is unclear whether this funding is specifically for climate action. Furthermore, the documents mention the council's advocacy for regional funding commensurate with the cost of contingency plan actions, but again, it is not explicitly stated that this funding is for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The policy does allocate non-monetary institutional resources to climate action. The policy outlines a seven-stage development plan, which includes stages such as 'Education and Awareness Program', 'Interactive Workshops', and 'Stakeholder Consultation'. These stages imply the allocation of staff and other institutional resources for their execution. Furthermore, the policy mentions the establishment of a 'Latrobe City Council Low Carbon Emissions Future Transition Committee' to drive the transformation at a local and regional level. The policy also mentions the pursuit of funding for two Carbon Assist Officers, although this funding was not ultimately provided. Despite this, a departmental officer was located with the Council for two days a week over ten weeks, indicating the allocation of staff resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government has taken steps to educate and mobilize the community towards climate action. The policy development process was collaborative and involved various stages such as education and awareness programs, interactive workshops, and stakeholder consultation. The council has also engaged in numerous activities to develop and nurture relationships with local stakeholders and interest groups, including industry and local organizations like the Gippsland Climate Change Network. The council's approach has led to engagement with other levels of government, business, industry, and the community. Furthermore, the council has adopted a proactive approach, inspiring others to prepare the region for a low carbon emissions future. This approach has allowed discourse, discussion, and dialogue to become commonplace, fostering a sense of community ownership of the issues and responses.",
+          "quote": {
+            "content": "It has allowed discourse, discussion and dialogue to become common place, and has spawned an interest in the academic consideration of the region’s economic, environmental and social issues. This approach has inspired others to take up the challenge of preparing the region for a low carbon emissions future, including other levels of government, industry, community groups and a range of committees.",
+            "page": 17,
+            "source": "Latrobe-2014-low-carbon.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The local government policy does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change, in the context of 'restoring a safe climate'. The policy does discuss the impact of a price on carbon emissions on the local community and the local brown coal energy generation industry. It also mentions the Australian Government's proposed shift from a carbon tax to an Emissions Trading Scheme and the Direct Action Plan, which aims to source low-cost emissions reductions. However, these are general policy positions and responses to national schemes, rather than specific actions or strategies for greenhouse gas mitigation at the local level. The policy does not detail any technological solutions or behaviour changes to reduce emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific actions for climate adaptation and resilience in the local government's plan. The documents discuss the development of a policy for transitioning to a low carbon future, including stages of planning, education, workshops, stakeholder consultation, and policy finalisation. They mention the establishment of a Low Carbon Emissions Future Transition Committee and the development of the Gippsland Low Carbon Growth Plan. However, these initiatives appear to be more focused on reducing greenhouse gas emissions and transitioning to a low carbon economy, rather than on adapting to the impacts of climate change and enhancing resilience. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a commitment to transitioning to a low carbon economy and details a seven-stage process for policy development, it does not provide specific, well-sourced evidence to justify its climate targets and actions. The documents mention the establishment of a Low Carbon Emissions Future Transition Committee and collaboration with various stakeholders, but they do not provide concrete evidence or data to support the effectiveness of these actions or the validity of their climate targets. The documents also do not provide clear information on the specific climate targets that the policy aims to achieve. Therefore, based on the provided documents, it cannot be affirmed that the policy provides well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific measurable criteria to evaluate the success of the policy's proposed actions. While the policy does mention the completion of action items as a measure of success, it does not provide specific criteria or metrics for these actions. The documents also mention an annual report card that sets out progress against each policy action, but again, no specific measurable criteria are provided. The policy seems to rely more on qualitative assessments of success, such as the development of a clear list of priorities, working constructively and collaboratively, and inspiring others to prepare for a low carbon emissions future. However, without specific measurable criteria, it is difficult to objectively evaluate the success of the policy's proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The policy development process outlined in the documents includes stages such as 'Education and Awareness Program', 'Interactive Workshops', and 'Stakeholder Consultation', which suggest that the local government is actively seeking input from the community and other stakeholders. This is further supported by the mention of targeted workshops with over 100 representatives from various groups and firms. The policy also mentions the establishment of a 'Low Carbon Emissions Future Transition Committee' that would help drive the transformation at a local and regional level. This committee would likely rely on research and data gathered from the local community to inform its actions. Furthermore, the documents mention the development and nurturing of partnerships and networks with local stakeholders and interest groups, which could also contribute to the research process.",
+          "quote": {
+            "content": "Stage Five focussed on stakeholder consultation.",
+            "page": 4,
+            "source": "Latrobe-2014-low-carbon.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of innovation and policy experimentation in climate action by the local government. The policy 'Positioning Latrobe City for a Low Carbon Emissions Future' was adopted in 2010 and has been actively implemented since then. The policy was developed through a seven-stage process, including pre-work and planning, education and awareness programs, interactive workshops, draft policy positions, stakeholder consultation, finalisation of the policy position, and formulation of ongoing arrangements. This comprehensive approach indicates a high level of planning and informed action. The policy also includes a focus on pursuing and realising opportunities, indicating an innovative approach to transitioning to a low carbon emissions future. The policy was developed independently of the Australian Government, showing the local government's proactive approach and willingness to experiment with policy. The policy was also assessed against the Victorian Government’s White Paper on Climate Change and found to be relevant and complementary, further demonstrating the local government's commitment to informed and innovative climate action.",
+          "quote": {
+            "content": "The Policy is underpinned by three themes: Pursuing and realising opportunities.",
+            "page": 5,
+            "source": "Latrobe-2014-low-carbon.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence of the local government's intent to advocate upward to state and national governments to support climate action. The policy outlines a proactive approach to climate change, with the local government working constructively and collaboratively with various stakeholders, including other levels of government. The local government has also demonstrated its commitment to climate action through the development and implementation of various policy and strategy documents. Furthermore, the local government has shown its willingness to work with the government of the day to achieve the best possible outcome for the community in relation to carbon emissions pricing. This indicates a clear intent to engage with and influence state and national governments on climate action.",
+          "quote": {
+            "content": "Council has not taken a position on any particular carbon emissions pricing mechanism and instead committed to work with the government of the day to achieve the best possible outcome for the community.",
+            "page": 4,
+            "source": "Latrobe-2014-low-carbon.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines the council's proactive approach to addressing climate change, including the development of partnerships and networks with local stakeholders and interest groups. The council has engaged in numerous activities to nurture these relationships and has presented its policy to a variety of interested local organisations and groups. The council has also established a Low Carbon Emissions Future Transition Committee to drive transformation at a local and regional level. This committee has played a strong role in advocating on behalf of the community and has become a focal point for government representatives. Furthermore, the council has demonstrated its commitment to leading a local transition to a low carbon economy and has worked tirelessly to complete as many of the 30 action items as possible.",
+          "quote": {
+            "content": "Council continued to work with organisations such as the Gippsland Climate Change Network, ClimateWorks and the Department of Primary Industries on a range of initiatives including the Gippsland Low Carbon Growth Plan. Council engaged in numerous activities to develop and nurture relationships, and presented Council’s policy to a variety of interested local organisations and groups including industry.",
+            "page": 9,
+            "source": "Latrobe-2014-low-carbon.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The local government has been actively involved in climate change initiatives through partnerships with various organizations. For instance, the Council has been working with the Gippsland Climate Change Network and ClimateWorks on initiatives such as the Gippsland Low Carbon Growth Plan. The Council also established the Latrobe City Council Low Carbon Emissions Future Transition Committee, which included members from multiple industries and interest groups. Furthermore, the Council has been involved in the Gippsland Local Government Network, Gippsland Regional Plan Leadership Group, and the Gippsland Climate Change Network. These partnerships and networks demonstrate the Council's commitment to addressing climate change at a local level.",
+          "quote": {
+            "content": "Council continued to work with organisations such as the Gippsland Climate Change Network, ClimateWorks and the Department of Primary Industries on a range of initiatives including the Gippsland Low Carbon Growth Plan. Council engaged in numerous activities to develop and nurture relationships, and presented Council’s policy to a variety of interested local organisations and groups including industry.",
+            "page": 9,
+            "source": "Latrobe-2014-low-carbon.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the policy documents do mention the potential adverse impacts of a price on carbon emissions on the local community, they do not specifically identify or discuss vulnerable communities or the differential impacts of climate change on these groups. The focus of the policy appears to be on transitioning to a low carbon economy, with an emphasis on job creation and economic development. The documents also mention the establishment of a committee with diverse representation, but do not specify whether this includes representatives of vulnerable communities. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The policy documents focus primarily on economic transition, job creation, and the impact of carbon pricing on the local economy. They mention the need for government assistance to achieve these goals and the importance of preparing the local community and economy for structural adjustment changes. However, they do not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably among different groups within the community. The documents also do not address how social justice will be ensured in the process of transitioning to a low-carbon economy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 9,
+    "num_questions": 20,
+    "attribute_score": 40
+  }
+}

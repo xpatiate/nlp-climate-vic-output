@@ -1,0 +1,310 @@
+{
+  "settings": {
+    "source_files": [
+      "Benalla-Environment_Strategy_2016_20.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "654394bcccfcce21365bf14eb9a7ad7599afacf8",
+    "rundate": "2024-04-13T13:25:14.818864",
+    "lga": "Benalla"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Benalla Rural City Council Environment Strategy 2016-20, does indeed have climate action as a core purpose. The policy outlines a strategic approach to addressing climate change, including both mitigation of emissions and adaptation to impacts. The policy includes a Climate Change Adaptation Action Plan, which is to be updated every five years, and integrates actions recommended by the Goulburn Broken Greenhouse Alliance. The policy also outlines specific actions to be taken, such as the replacement of public street-lights with energy efficient lighting, and training for staff on climate change impacts. The policy also includes a commitment to reducing greenhouse gas emissions and resource use, and to anticipating and planning for future changes in climate. Therefore, it is clear that climate action is a central goal of this policy."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document does explicitly explain the need for action on climate change. It acknowledges climate change as a significant driver of change and challenge across all areas of community development, economic development, and environmental and natural resource health. The document also recognizes the human-induced nature of climate change and the consensus within the scientific community regarding its reality and impacts. The document further outlines the local government's commitment to implementing a Climate Change Adaptation Action Plan, which is updated every five years. This plan includes defined, measurable actions designed to meet specific outcomes, indicating a clear recognition of the need for action on climate change.",
+          "quote": {
+            "content": "Implement Climate Change Adaptation Action Plan and ensure it is updated every five years.",
+            "page": 51,
+            "source": "Benalla-Environment_Strategy_2016_20.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They do discuss the issue of climate change, its impacts, and the need for mitigation and adaptation strategies. The documents also outline the local government's plans and actions in response to climate change, including the implementation of a Climate Change Adaptation Action Plan and the inclusion of climate response in the Municipal Health and Wellbeing Plan. However, these actions are not framed in terms of urgency or the need for rapid action. Instead, they are presented as part of the government's ongoing responsibilities and strategic planning. The documents also note that the response to climate change is a contentious issue for governments, suggesting that there may be differing views on the urgency of action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The policy outlines a Climate Change Adaptation Action Plan, which is to be updated every five years. This plan is integrated with relevant actions recommended by the Goulburn Broken Greenhouse Alliance. The policy also mentions the implementation of the Climate Change Action Plan, which is monitored through performance planning software and performance reviews. The policy further states that the review of the Action Plan is reported to the Council. This indicates a structured and time-bound approach to addressing climate change, with regular updates and reviews to ensure the effectiveness and relevance of the actions being taken.",
+          "quote": {
+            "content": "Integrate with relevant actions recommended by the Goulburn Broken Greenhouse Alliance. 2.3.1.1 Implement Climate Change Adaptation Action Plan and ensure it is updated every five years.",
+            "page": 51,
+            "source": "Benalla-Environment_Strategy_2016_20.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of addressing climate change, they do not provide a clear hierarchy of policy priorities. The documents discuss various approaches to addressing climate change, including mitigation of emissions and adaptation to impacts. They also mention the development of an Action Plan with defined, measurable actions to achieve certain outcomes. However, these details do not suggest that climate change response is prioritized over all other policies. Instead, they suggest a comprehensive approach to environmental strategy that includes, but is not limited to, climate change response."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline the council's commitment to addressing climate change, including the identification of climate change impacts and the implementation of adaptive strategies, there is no explicit requirement stated that all council activities must align with this climate policy. The documents do mention that the council will be accountable for the actions it delivers and the immediate outcomes that are expected to be attained, and that it will show leadership in environmental sustainability. However, these statements do not specifically mandate that all council activities must be in alignment with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate funding for climate action. The policy mentions the need for additional funds in several instances. For instance, the Municipal Health and Wellbeing Plan may require additional funds to employ a consultant to ensure climate response is included in the next update. The policy also mentions the need for low-medium funding to support the community in transitioning away from peak oil and towards a Carbon Pollution Reduction Scheme. Furthermore, the policy indicates that the implementation of the Climate Change Adaptation Action Plan may require additional funds for some actions. However, the policy does not provide specific details on the amount of funding allocated or the sources of this funding."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines the employment of a consultant to ensure climate response is included in the next update of the Municipal Health and Wellbeing Plan. This indicates a commitment to dedicating human resources to the issue of climate change. Additionally, the plan mentions the training of Assets and Facilities staff in the use of a tool that includes sustainability features as a component of building maintenance needs. This suggests that staff time and expertise are being directed towards climate action. Furthermore, the plan includes the implementation of a Climate Change Adaptation Action Plan, which requires the involvement of all staff, indicating a broad institutional commitment to climate action.",
+          "quote": {
+            "content": "Implement Climate Change Adaptation Action Plan and ensure it is updated every five years.",
+            "page": 51,
+            "source": "Benalla-Environment_Strategy_2016_20.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is taking steps to empower and educate the community to work together on climate action. The policy outlines a commitment to 'Empowerment', stating that 'Education and information will be designed to support individuals to take action in their own way'. This suggests an active effort to equip the community with the knowledge and tools necessary to contribute to climate action. Furthermore, the policy emphasizes 'Continuous improvement', with the council pledging to 'show leadership in environmental sustainability, monitor its progress, report to the community, and involve the community in planning for improvement'. This indicates a commitment to ongoing engagement with the community, fostering a collaborative approach to climate action. The policy also outlines plans to 'Employ a consultant to ensure climate response is included with the next update of the Municipal Health and Wellbeing Plan', further demonstrating a commitment to integrating climate action into broader community planning and development.",
+          "quote": {
+            "content": "Continuous improvement: Council will show leadership in environmental sustainability, monitor its progress, report to the community, and involve the community in planning for improvement. Empowerment: Education and information will be designed to support individuals to take action in their own way.",
+            "page": 10,
+            "source": "Benalla-Environment_Strategy_2016_20.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to both adaptation and mitigation strategies to address climate change. The Goulburn Broken Greenhouse Alliance, of which the Benalla Rural City Council is a member, has undertaken projects such as the replacement of public street-lights with energy-efficient lighting, which is a technological solution aimed at reducing emissions. The plan also mentions the implementation of a Climate Change Adaptation Action Plan, which is reviewed every five years and integrated with actions recommended by the Goulburn Broken Greenhouse Alliance. This suggests a commitment to ongoing evaluation and adjustment of strategies, which could potentially include behaviour change initiatives. However, the plan does not provide specific details on behaviour change strategies.",
+          "quote": {
+            "content": "Replacement of public street-lights with energy efficient lighting. The Goulburn Broken Greenhouse Alliance was established in 2007 to support regional climate action. Their current Strategic Plan outlines how this will be achieved, focussing on training, partnerships, and information provision.",
+            "page": 35,
+            "source": "Benalla-Environment_Strategy_2016_20.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines the implementation of a Climate Change Adaptation Action Plan, which is to be updated every five years and integrated with relevant actions recommended by the Goulburn Broken Greenhouse Alliance. The plan also includes performance reviews and reporting to the council on the review of the Action Plan. Furthermore, the plan mentions the employment of a consultant to ensure climate response is included in the next update of the Municipal Health and Wellbeing Plan. The plan also discusses investigating how best to support the community in transitioning away from peak oil and towards a Carbon Pollution Reduction Scheme, including options in sustainable energy. These actions demonstrate a clear commitment to climate adaptation and resilience.",
+          "quote": {
+            "content": "Review Action Plan every five years. Implement Climate Change Adaptation Action Plan and ensure it is updated every five years. Integrate with relevant actions recommended by the Goulburn Broken Greenhouse Alliance.",
+            "page": 51,
+            "source": "Benalla-Environment_Strategy_2016_20.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents mention the existence of a Climate Change Adaptation Action Plan and the intention to implement it, they do not provide specific details about the plan itself, the targets it sets, or the actions it recommends. The documents also mention the use of Representative Concentration Pathways (RCPs) and the Climate Change in Australia website's climate futures web tool for adaptation planning, but they do not explain how these tools are used to inform the local government's climate targets and actions. Furthermore, the documents do not provide any evidence to show that the climate targets and actions have been informed by scientific research or expert advice. Therefore, it is not possible to affirm that the documents provide well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a clear structure for the Environment Strategy Action Plan, which includes defined, measurable actions designed to meet specific outcomes. The plan also includes an accountability clause, stating that the council will be accountable for the actions it delivers and the immediate outcomes that are expected to be attained. Furthermore, the plan includes a continuous improvement clause, which states that the council will monitor its progress, report to the community, and involve the community in planning for improvement. This suggests a commitment to ongoing evaluation and adjustment of the plan based on measurable outcomes. The plan also includes Key Performance Indicators (KPIs) for specific actions, providing a clear metric for success.",
+          "quote": {
+            "content": "The Action Plan also identifies the defined, measurable actions designed to meet those outcomes. These represent the goals Council will achieve in delivering this Strategy.",
+            "page": 9,
+            "source": "Benalla-Environment_Strategy_2016_20.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a plan to investigate how best to support the community in transitioning away from peak oil and towards a Carbon Pollution Reduction Scheme, including options in sustainable energy. This investigation would likely involve research into the impacts on different sectors of the community and the identification of actions that will support an easier transition for the community. The government also plans to employ a consultant to ensure climate response is included in the next update of the Municipal Health and Wellbeing Plan. This suggests a commitment to informed action based on expert advice and research. Furthermore, the government has a plan to implement a Climate Change Adaptation Action Plan and ensure it is updated every five years, which would likely involve ongoing research and assessment of the local community's needs and vulnerabilities related to climate change.",
+          "quote": {
+            "content": "Implement Climate Change Adaptation Action Plan and ensure it is updated every five years.",
+            "page": 51,
+            "source": "Benalla-Environment_Strategy_2016_20.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. The local government's policy, as outlined in the documents, appears to be primarily focused on implementing existing strategies and plans, such as the Climate Change Adaptation Plan and the Environment Strategy Action Plan. While these plans may contain innovative approaches, the documents do not provide specific details about the nature of these approaches or how they represent a departure from traditional methods. The policy also includes measures to reduce greenhouse gas emissions and manage waste efficiently, but again, the documents do not provide specific details about how these goals will be achieved in innovative ways. Therefore, based on the available information, it cannot be conclusively stated that the policy includes innovative and experimental approaches to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. The documents primarily focus on the local government's own strategies and actions in response to climate change. These include the development of a regional Climate Change Adaptation Plan, replacement of public street-lights with energy efficient lighting, and training for staff on climate change impacts. The documents also mention the establishment of the Goulburn Broken Greenhouse Alliance to support regional climate action and the involvement of the Benalla Rural City Council in this alliance. However, these actions are more about collaboration and partnership at the regional and local level, rather than advocacy to higher levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The Goulburn Broken Greenhouse Alliance, established in 2007, is a clear example of this. The Alliance, which includes the Benalla Rural City Council and other councils in the Goulburn Broken catchment, focuses on regional climate action through training, partnerships, and information provision. The Alliance has undertaken projects such as the development of a regional Climate Change Adaptation Plan, which involved member councils in a climate impact risk assessment exercise. This indicates a clear effort to build capacity across multiple councils. Furthermore, the documents mention the implementation of a Climate Change Adaptation Action Plan, which is to be updated every five years and integrated with relevant actions recommended by the Goulburn Broken Greenhouse Alliance. This suggests an ongoing commitment to building local capacity for climate action.",
+          "quote": {
+            "content": "Benalla Rural City Council is a member of the Alliance along with a number of other Councils in the Goulburn Broken catchment, and has been involved in the projects undertaken as part of the Alliance. The Goulburn Broken Greenhouse Alliance was established in 2007 to support regional climate action. Their current Strategic Plan outlines how this will be achieved, focussing on training, partnerships, and information provision.",
+            "page": 35,
+            "source": "Benalla-Environment_Strategy_2016_20.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The Goulburn Broken Greenhouse Alliance is a notable example, established in 2007 to support regional climate action. The Alliance's Strategic Plan outlines its approach, focusing on training, partnerships, and information provision. The Benalla Rural City Council is a member of this Alliance, along with other Councils in the Goulburn Broken catchment, and has been involved in projects undertaken as part of the Alliance. These projects include the development of a regional Climate Change Adaptation Plan, replacement of public street-lights with energy-efficient lighting, and training for staff on climate change impacts. The Alliance's focus is on supporting local governments to take action against climate change. Other agencies, such as CSIRO, also engage with how climate change impacts the environment.",
+          "quote": {
+            "content": "Benalla Rural City Council is a member of the Alliance along with a number of other Councils in the Goulburn Broken catchment, and has been involved in the projects undertaken as part of the Alliance. The Goulburn Broken Greenhouse Alliance was established in 2007 to support regional climate action. Their current Strategic Plan outlines how this will be achieved, focussing on training, partnerships, and information provision.",
+            "page": 35,
+            "source": "Benalla-Environment_Strategy_2016_20.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The Municipal Health and Wellbeing Plan is mentioned as a tool that captures how climate change influences community vulnerability and takes steps to build resilience to climate change impacts. The plan is designed to address vulnerabilities exacerbated by climate change. The documents also mention the need to support community transition away from peak oil and towards a Carbon Pollution Reduction Scheme, which implies a concern for the potential negative impacts of climate change on the community. Furthermore, the documents discuss the need to understand how the community is vulnerable to predicted changes in climate and to act to reduce these vulnerabilities and build community resilience."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does address climate change impacts and the need for community resilience, it does not specifically outline how the benefits and opportunities resulting from a safe climate will be shared equitably. The policy does mention the need for education and information to support individuals to take action in their own way, and the council's commitment to respect different views and ideas. However, these points do not directly address the equitable distribution of benefits and opportunities of a safe climate. Therefore, the question cannot be answered positively based on the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 71.7
+  }
+}

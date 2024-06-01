@@ -1,0 +1,316 @@
+{
+  "settings": {
+    "source_files": [
+      "Strathbogie-2022-Climate-Change-Action-Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-14T14:45:59.278681",
+    "lga": "Strathbogie"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Strathbogie 2022 Climate Change Action Plan, clearly identifies climate action as its core purpose. The policy is structured around five main areas of action, all of which are directly related to climate change: protecting the natural environment, reducing emissions, building a climate-resilient community, moving sustainably, and advocating for change. The policy outlines specific actions within these areas, such as advocating for local net zero emissions community energy solutions, establishing a Climate Action Steering Committee, and setting a goal of net zero emissions by 2025 for Council operations. The policy also emphasizes the importance of partnerships with residents, businesses, farmers, and community groups in driving climate action. Therefore, it is evident that the core purpose of this policy is to address climate change through a variety of strategies and actions.",
+          "quote": {
+            "content": "Moving sustainably 5. This Action Plan has been split into five main areas with Corporate and Community actions for each target area. The areas are: 1. Protecting our natural environment 2. Reducing our emissions 3. Our climate resilient community 4.",
+            "page": 9,
+            "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The Strathbogie Shire Council's Climate Change Action Plan clearly outlines the need for action on climate change. The document emphasizes the council's role in promoting environmental sustainability and mitigating the negative impacts of climate change on future generations. The council has set a goal of achieving net zero emissions by 2025 for its operations, indicating a clear recognition of the urgency of climate action. The plan includes specific actions such as advocating for local net zero emissions community energy solutions, instituting a revolving energy fund for future projects, and developing fossil fuel divestment policy options. The council also plans to review the plan every five years to ensure it remains proactive and embraces best practice opportunities. This demonstrates a commitment to ongoing improvement and adaptation in response to the evolving challenges of climate change.",
+          "quote": {
+            "content": "Much of this can be gained through the addition of renewable energy, capping a legacy landfill, and transitioning our fleet.",
+            "page": 11,
+            "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The Strathbogie Shire Council Climate Change Action Plan does not explicitly call for rapid and urgent action on climate change. The document outlines a number of actions and strategies to address climate change, such as advocating for local net zero emissions community energy solutions, instituting a revolving energy fund for future projects, and developing fossil fuel divestment policy options. However, these actions are presented as part of a long-term plan, and there is no explicit language indicating a sense of urgency or a need for rapid action. The document emphasizes the importance of partnerships between all levels of government, the private sector, and the community, and the need for ongoing engagement and advocacy. While these are important aspects of any climate change strategy, they do not convey a sense of urgency or immediate action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The Strathbogie Shire Council Climate Change Action Plan does provide specific timeframes for its intended actions on climate. The document outlines a plan to start implementing the Action Plan in 2022-2023, with annual reporting on key achievements, highlights, and challenges for the implementation of programs. The plan also includes a review of the plan every five years to ensure it continues to be proactive and embraces best practice opportunities. Specific actions such as 'Advocate for and investigate local net zero emissions community energy solutions' and 'Institute a revolving energy fund to fund future projects' are listed without specific timeframes, but the overall plan implementation timeline suggests these actions will be undertaken within the 2022-2023 period. The document also sets a target of achieving net zero emissions by 2025 for Council operations.",
+          "quote": {
+            "content": "Council will report annually on the key achievements, highlights and challenges for the implementation of programs. In partnership with the community, Council will start implementing the Action Plan in 2022-2023.",
+            "page": 9,
+            "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including the declaration of a climate emergency, the establishment of a Climate Change Action Plan, and various actions to mitigate climate change impacts, they do not explicitly prioritize these actions over other policies. The documents emphasize the importance of climate change mitigation and adaptation, and the need for action across various sectors, but they do not provide a clear hierarchy of policy priorities. Therefore, without explicit evidence, it cannot be affirmed that a climate emergency response is given higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents outline a Climate Change Action Plan with various strategic focus areas and actions, including protecting the natural environment, reducing emissions, building a climate-resilient community, moving sustainably, and advocating for change, they do not specifically mandate that all council activities must align with this policy. The documents do mention that the council will consider the impacts of climate change in its planning, decision-making, and actions, and that it aims to promote environmental sustainability. However, these statements do not equate to a requirement for all council activities to be aligned with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Strathbogie Shire Council Climate Change Action Plan does explicitly allocate funding for climate action. The plan outlines a series of actions, each associated with a cost symbol, indicating that resources have been allocated for their implementation. For instance, the plan includes actions such as instituting a revolving energy fund for future projects, supporting projects and advocacy through the Goulburn Murray Climate Alliance, and developing fossil fuel divestment policy options. Each of these actions is associated with a cost symbol, suggesting that funding has been allocated. However, the documents do not provide specific monetary values or detailed budgetary information. Therefore, while it is clear that the plan acknowledges the need for resource allocation for climate action, the exact amount or percentage of the budget allocated for this purpose is not specified.",
+          "quote": {
+            "content": "26 \nStrathbogie Shire Council \nClimate Change Action Plan \nDoc ID#723071 \n48 \nInstitute a revolving energy \nfund to fund future projects \nCorporate \n-Finance \nAdvocating \nfor Change \n \n$$ \n49 \nContinue to support projects \nand advocacy through the \nGoulburn Murray Climate \nAlliance \nCorporate \n-Environment \nand Waste \nAdvocating \nfor Change \n \n$ \n50 \nDevelop fossil fuel \ndivestment policy options \nfor the consideration of \nCouncil and consider \ncommunity submissions \nregarding divestment when \nupdating Council’s \ninvestment policy.",
+            "page": 25,
+            "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Strathbogie Shire Council's Climate Change Action Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines several actions that involve the mobilisation of staff resources. For instance, it mentions the inclusion of information on the Council's climate change response in staff recruitment and induction processes, indicating an institutional commitment to climate action. The plan also proposes the establishment of a Climate Action Steering Committee or Green Team to guide the implementation of new climate action projects. This suggests the allocation of staff time and expertise to the cause. Furthermore, the plan advocates for the integration of ESD principles in the Local Government Infrastructure, which would likely involve the use of staff resources. Therefore, the plan does allocate non-monetary institutional resources, specifically staff resources, to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The Strathbogie Shire Council's Climate Change Action Plan does indeed empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a partnership approach, involving residents, businesses, farmers, and community groups in driving climate action. It also emphasizes the importance of strengthening and building on existing partnerships that undertake climate change work. The policy includes specific actions such as advocating for local net zero emissions community energy solutions, advertising for community members to be on an Environment Reference Group to support the delivery of Council's Climate Change aspirations, and partnering with local environment groups for community engagement activities. These actions indicate a clear intent to mobilize and educate the community to support and actively participate in climate action.",
+          "quote": {
+            "content": "By working together and taking a partnership approach we can build a climate resilient, net zero community.",
+            "page": 9,
+            "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Strathbogie Shire Council's Climate Change Action Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a clear goal of achieving net zero emissions by 2025 for Council operations, which is a strong commitment to reducing greenhouse gas emissions. The plan also details specific technological solutions such as the addition of renewable energy, capping a legacy landfill, transitioning their fleet, and investing in solar, changing plant machinery, and purchasing hybrid vehicles. These actions indicate a commitment to technological changes that will reduce emissions. Furthermore, the plan also includes actions that promote behaviour change. For instance, it encourages more sustainable modes of transport and advocates for local net zero emissions community energy solutions. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions, including both technological solutions and behaviour change.",
+          "quote": {
+            "content": "A co-benefit of taking action (such as investing in solar, changing plant machinery, street-lighting changeovers, purchasing hybrid vehicles etc) is the savings of energy and fuel costs which go to maintain community built, recreational, and infrastructural environments. Much of this can be gained through the addition of renewable energy, capping a legacy landfill, and transitioning our fleet.",
+            "page": 11,
+            "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Strathbogie Shire Council's Climate Change Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a series of actions that are designed to ensure the community's resilience to climate change. For instance, the plan includes the development of a 10-year, climate-appropriate, street tree planting plan (Action 28), which can help mitigate urban heat island effects and sequester carbon. The plan also proposes to investigate permeable concrete options for footpaths and other uses (Action 29), which can help manage stormwater and reduce flood risks. Furthermore, the plan ensures that climate change adaptation is fully considered in the Council’s risk register and in project and contract management (Action 30). These actions demonstrate a clear commitment to climate adaptation and resilience, with a focus on both mitigating the impacts of climate change and adapting to its effects.",
+          "quote": {
+            "content": "28 Development of a 10 year, climate-appropriate, street tree planting plan and budget for the Shire’s townships.",
+            "page": 19,
+            "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+            "search_score": 0.92
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The Strathbogie Shire Council's Climate Change Action Plan outlines various actions and targets related to climate change, such as achieving net zero emissions by 2025, advocating for local net zero emissions community energy solutions, and implementing the Action Plan in 2022-2023. However, the documents do not provide well-sourced evidence to justify these climate targets and actions. The plan mentions the council's influential role in shaping the local area's environmental potential and performance, and its commitment to robust, progressive partnerships. However, it does not provide specific data, research, or sources that justify the chosen targets or the effectiveness of the proposed actions. Therefore, while the plan outlines a clear commitment to addressing climate change, it lacks the well-sourced evidence necessary to fully justify its targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific measurable criteria to evaluate the success of the proposed actions in the plan. While the plan outlines various actions related to climate change, such as reducing emissions, advocating for change, and protecting the natural environment, it does not explicitly mention how the success of these actions will be measured. The documents mention that the council will report annually on the key achievements, highlights, and challenges for the implementation of programs, and that it will review the uptake and effectiveness of specific actions. However, these statements are too general and do not provide specific measurable criteria for evaluating success. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The Strathbogie Shire Council's Climate Change Action Plan does indeed describe plans to conduct research in the local community to inform climate actions. The document outlines the council's influential role in researching and shaping the local area's environmental potential and performance. It also mentions the council's commitment to robust, progressive partnerships between all levels of government, the private sector, and the community. This suggests a collaborative approach to research and action. Furthermore, the council plans to advocate for and investigate local net zero emissions community energy solutions, which implies research activities. The council also plans to report annually on the key achievements, highlights, and challenges for the implementation of programs, which suggests ongoing research and evaluation.",
+          "quote": {
+            "content": "To achieve our Shire targets, we will continue to engage in, and urge robust, progressive partnerships between all levels of government, the private sector, and the community.",
+            "page": 24,
+            "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": true,
+          "answer": "The Strathbogie Shire Council's Climate Change Action Plan does show evidence of innovation and policy experimentation in climate action. The policy outlines a variety of actions that demonstrate a commitment to exploring new and innovative solutions to climate change. For instance, the policy includes plans to investigate local net zero emissions community energy solutions, such as solar PV, wind power, and hydro. This shows a willingness to explore and potentially implement innovative energy solutions. Additionally, the policy includes plans to support farmers and landowners' access to regional and state government programs such as the Victorian Carbon Farming Program, which suggests an openness to experimenting with different approaches to carbon reduction. Furthermore, the policy includes a plan to develop fossil fuel divestment policy options, which indicates a willingness to consider innovative financial strategies to combat climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The Strathbogie Shire Council's Climate Change Action Plan clearly demonstrates an explicit intent to advocate upward to state and national governments to support climate action. The document outlines the council's influential role in shaping local environmental potential and performance, and its commitment to robust, progressive partnerships with all levels of government, the private sector, and the community. The council's advocacy efforts are particularly evident in its action plan, which includes advocating for local net zero emissions community energy solutions and advocating on behalf of the community for a federal Carbon Net zero goal. These actions indicate a clear intent to influence higher levels of government to support climate action.",
+          "quote": {
+            "content": "To achieve our Shire targets, we will continue to engage in, and urge robust, progressive partnerships between all levels of government, the private sector, and the community.",
+            "page": 24,
+            "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The Strathbogie Shire Council's Climate Change Action Plan indeed encourages building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The plan outlines a commitment to robust, progressive partnerships between all levels of government, the private sector, and the community. It also emphasizes the council's role in advocating for change and shaping the local area's environmental potential and performance. The plan includes specific actions such as advocating for local net zero emissions community energy solutions, partnering with local environment groups, and advertising for community members to be on an Environment Reference Group to support the delivery of the council's climate change aspirations. These actions suggest a clear intent to build local capacity and foster partnerships for climate action.",
+          "quote": {
+            "content": "To achieve our Shire targets, we will continue to engage in, and urge robust, progressive partnerships between all levels of government, the private sector, and the community.",
+            "page": 24,
+            "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The Strathbogie Shire Council's Climate Change Action Plan does indeed refer to specific partnerships related to climate action. The document outlines the council's intention to engage in robust, progressive partnerships between all levels of government, the private sector, and the community to achieve their environmental targets. This includes partnering with local environment groups for initiatives such as screening environmental films. The council also plans to establish an Environment Reference Group, which will involve community members in supporting the delivery of the council's climate change aspirations. Furthermore, the council mentions its ongoing support for projects and advocacy through the Goulburn Murray Climate Alliance, indicating an existing partnership with this regional association. These references demonstrate the council's commitment to collaboration and partnership in its approach to climate action.",
+          "quote": {
+            "content": "To achieve our Shire targets, we will continue to engage in, and urge robust, progressive partnerships between all levels of government, the private sector, and the community.",
+            "page": 24,
+            "source": "Strathbogie-2022-Climate-Change-Action-Plan.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do outline a number of actions and strategies related to climate change, such as promoting environmental sustainability, advocating for change, and developing a climate change action plan, they do not specifically address the effects of climate change on vulnerable populations. The documents focus more on general environmental sustainability, climate change mitigation, and adaptation strategies. Therefore, without explicit mention or discussion of the impact of climate change on vulnerable communities, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various actions and strategies related to climate change, such as promoting environmental sustainability, advocating for change, and incorporating climate change response into staff recruitment and induction processes, they do not specifically address the equitable distribution of benefits and opportunities. The documents also mention collaboration with the Taungurang Land and Waters Council and the establishment of a Climate Action Steering Committee, but these actions are not directly linked to the concept of 'equity and social justice' in the context of climate change benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 70
+  }
+}

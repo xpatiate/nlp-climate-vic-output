@@ -1,0 +1,298 @@
+{
+  "settings": {
+    "source_files": [
+      "Wellington-Sustainability-Strategy.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-14T15:12:03.690022",
+    "lga": "Wellington"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy's core purpose or goal is indeed climate action. The policy outlines a comprehensive approach to addressing climate change, with a focus on building knowledge of climate change impacts, integrating climate change measures into corporate policies, and enhancing the capacity of council staff to apply climate change adaptation into decision-making processes. The policy also aims to work with key partners to ensure community understanding of climate change risks and strategies to minimize impacts on health and financial wellbeing. Furthermore, the policy seeks to proactively seek and support opportunities that arise from a changing climate. The policy's objectives and actions are clearly geared towards climate action, making it the core purpose of the policy.",
+          "quote": {
+            "content": "Enhance the capacity of Council staff to apply climate change adaptation into business \ndecision-making processes. Strategy Objectives\n1. Build knowledge of how climate change will impact Council operations and service delivery. 2. 2. Integrate climate change measures into corporate policies, strategies and planning. 3. Work with our key partners to ensure our community understand their exposure to climate \nrisk and strategies they can adopt to minimise the impact on their health and financial \nwellbeing. 4. Proactively seek and support opportunities that arise from a changing climate. 5.",
+            "page": 23,
+            "source": "Wellington-Sustainability-Strategy.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. It acknowledges the consensus of the UN Intergovernmental Panel on Climate Change (IPCC) that human-induced climate change is real and is already impacting communities. The document also recognizes that if emissions continue unabated, these impacts will significantly jeopardize the health, livelihoods, and socio-economic basis of communities. It further notes that climate change will have both negative and potential positive effects on the region, and understanding these impacts is critical for effective long-term planning. The document also highlights the connection between the built environment, climate change, and public health. It emphasizes the need to support vulnerable communities with high exposure to climate change impacts and to prioritize them in a reduced funding environment.",
+          "quote": {
+            "content": "Climate change will have both negative and potential positive effects on the region, and understanding those impacts are critical for effective long-term planning. Global warming is already impacting on our communities and if emissions continue unabated these impacts will significantly jeopardise the health, livelihoods and socio-economic basis of our communities. We will plan for a range of scenarios.",
+            "page": 22,
+            "source": "Wellington-Sustainability-Strategy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for urgent action on climate change. The local government policy acknowledges the escalating and accelerating changes in the climate due to current warming scenarios. It emphasizes that urgent action is required for the global community to have a chance to stay under 2°C warming to limit the severity of impacts. The policy also recognizes climate change as one of the most pressing social challenges of our time, affecting every country on every continent, and posing significant challenges to ecosystems, communities, and the economy. The policy outlines a range of actions to reduce the impact on the environment and demonstrates a commitment to leadership in this area, which it identifies as a high priority issue.",
+          "quote": {
+            "content": "Urgent action is required for our global community to have a chance to stay under 2°C warming to limit the severity of impacts.",
+            "page": 4,
+            "source": "Wellington-Sustainability-Strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the council plans to investigate and report on the potential long-term costs of climate change to Council service delivery and public infrastructure assets through risk and resilience pathway planning in the 2020/21 timeframe. Additionally, the council aims to review and update key decision-making tools to ensure capital works projects undertake climate change assessments early in the development stage and apply to project planning and delivery in the 2020/21 timeframe. Furthermore, the council plans to update the Municipal Emergency Management Plan in line with the new Emergency Management Legislation Amendment Act 2018 in the 2021/22 timeframe. These specific timeframes indicate a sense of urgency in the council's actions towards addressing climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the Wellington Shire Council's Sustainability Strategy, which includes a focus on understanding and mitigating the impacts of climate change on the council's operations and service delivery. The strategy includes actions such as investigating the long-term costs of climate change, integrating climate change measures into corporate policies, and building community resilience. However, these actions are presented as part of a broader strategy, and there is no explicit statement prioritising these actions over other policies. The documents also mention the importance of supporting vulnerable communities and enhancing the capacity of council staff to incorporate climate change adaptation into decision-making processes. However, again, these are not explicitly prioritised over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of actions and objectives related to climate change, such as building knowledge of how climate change will impact council operations, integrating climate change measures into corporate policies, and working with key partners to ensure community understanding of climate risk, they do not explicitly require all council activities to align with these climate policies. The documents do indicate a strong commitment to addressing climate change and integrating sustainability into council operations, but they stop short of mandating alignment of all activities with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does allocate resources for climate action, but it does not explicitly mention the allocation of funding. The policy outlines several actions related to climate change, such as updating emergency management plans, reviewing council policies for climate adaptation opportunities, and investigating the long-term costs of climate change. For each of these actions, the policy states that they will be resourced 'Within existing resources'. This suggests that the local government has allocated resources, potentially including funding, for these actions. However, the policy does not provide specific details about the amount of funding allocated or the source of this funding. Therefore, while the policy does indicate a commitment to resourcing climate action, it does not provide clear evidence of explicit funding allocation."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Wellington Sustainability Strategy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines specific roles for the council and key internal delivery partners in various actions related to climate change. For instance, the Sustainability and Finance departments are tasked with investigating and reporting on the potential long-term costs of climate change to Council service delivery and public infrastructure assets. The policy also mentions the role of the Built Environment department in reviewing and updating key decision-making tools to ensure climate change assessments are undertaken early in the development stage of capital works projects. Furthermore, the policy outlines the council's role in developing and delivering training packages for appropriate council staff to build climate change adaptation awareness and risk assessment into programs and services. These examples demonstrate a clear allocation of staff resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is taking steps to empower and educate the community to work together on climate action. The policy outlines several actions that aim to increase community awareness and involvement in climate change mitigation and adaptation. For instance, the government plans to help the community, business, and industry reduce greenhouse gas emissions through education and awareness-raising. They also aim to increase the adoption of renewable energy and low carbon agriculture. Furthermore, the government plans to work with key partners to ensure the community understands their exposure to climate risk and the strategies they can adopt to minimize the impact on their health and financial wellbeing. They also plan to develop a Community Engagement and communication strategy to assist the community in identifying key physical, social, and economic risks, and strategies to minimize these risks. These actions suggest a commitment to social mobilization for climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Wellington Sustainability Strategy includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to transition to a low carbon economy through energy efficiency, renewable energy production, electrification, cleaner fuels, and offsetting remaining emissions. It also includes actions to reduce corporate emissions to net zero by 2040, excluding landfill emissions, which have an aspirational target of net zero by 2050. The plan also includes actions to increase the promotion of the Environmental Upgrade Finance program to local businesses and support for collaborative bulk-buy programs that increase the adoption of renewables across the community. These actions indicate a combination of technological solutions and behaviour change strategies to mitigate greenhouse gas emissions.",
+          "quote": {
+            "content": "Increase promotion of the Environmental Upgrade Finance program to local businesses.",
+            "page": 32,
+            "source": "Wellington-Sustainability-Strategy.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change, with a focus on building knowledge, integrating climate change measures into corporate policies, strategies, and planning, and working with key partners to ensure community understanding of climate risk. The policy also seeks to proactively identify opportunities arising from a changing climate and enhance the capacity of council staff to apply climate change adaptation into business decision-making processes. Specific actions include updating the Municipal Emergency Management Plan, reviewing and updating key decision-making tools for capital works projects, and participating in regional climate change adaptation strategy programs. The policy also aims to support Committees of Management and community groups in applying climate adaptation thinking in facilities maintenance and program delivery.",
+          "quote": {
+            "content": "Enhance the capacity of Council staff to apply climate change adaptation into business decision-making processes. Integrate climate change measures into corporate policies, strategies and planning. Work with our key partners to ensure our community understand their exposure to climate risk and strategies they can adopt to minimise the impact on their health and financial wellbeing. Proactively seek and support opportunities that arise from a changing climate.",
+            "page": 23,
+            "source": "Wellington-Sustainability-Strategy.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of actions and strategies to address climate change, such as integrating climate change measures into corporate policies and building knowledge of how climate change will impact council operations, it does not provide specific, well-sourced evidence to justify these actions. The policy does mention a number of key strategies and partners, such as the Gippsland Climate Change Network and the Department of Health and Human Services, but it does not provide detailed information on how these strategies and partnerships will be implemented or how they will contribute to achieving the policy's climate targets. Furthermore, the policy does not provide any specific data or research to support its climate targets, such as reducing greenhouse gas emissions or increasing the uptake of renewable energy. Therefore, based on the provided documents, it cannot be affirmed that the policy provides well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's policy does outline a number of actions related to sustainability and climate change, such as enhancing the capacity of council staff and community leaders, introducing sustainability awards, and promoting the adoption of the Integrated Water Management approach. However, the policy does not provide specific measurable criteria to evaluate the success of these actions. While the policy does mention ongoing monitoring to assess the effectiveness of decisions and the need to learn from successes and failures, it does not detail what specific metrics or indicators will be used to measure success or failure. Therefore, it is unclear how the local government plans to objectively evaluate the effectiveness of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's policy outlines a strategy to build knowledge of how climate change will impact council operations and service delivery. This includes investigating and reporting on potential long-term costs of climate change to Council service delivery and public infrastructure assets through risk and resilience pathway planning. The policy also mentions the integration of climate change measures into corporate policies, strategies, and planning. Furthermore, the policy outlines plans to work with key partners to ensure the community understands their exposure to climate risk and strategies they can adopt to minimize the impact on their health and financial wellbeing. These actions indicate a comprehensive approach to understanding the local context and using this knowledge to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The policy documents outline a series of actions and strategies that the Wellington Shire Council plans to take in response to climate change. These include building knowledge of how climate change will impact council operations and services, integrating climate change measures into corporate policies, strategies, and planning, and working with key partners to ensure the community understands their exposure to climate risk. However, these actions and strategies appear to be standard responses to climate change, rather than innovative or experimental policies. The documents do not provide specific details about any new or unique approaches that the council is taking to address climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy documents focus primarily on the local government's own actions and strategies to address climate change, such as building knowledge of climate change impacts, integrating climate change measures into corporate policies, and working with key partners to ensure community understanding of climate risks. The documents mention partnerships with various entities, including the Gippsland Climate Change Network, DELWP, Latrobe Valley Authority, and Department of Health and Human Services, but these are not explicitly identified as state or national governments. Furthermore, the nature of these partnerships is not clearly defined as advocacy for climate action at higher levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents indeed provide evidence that the local government policy encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a range of actions and strategies aimed at enhancing the capacity of council staff and the community to adapt to climate change. These include providing up-to-date guidance and education materials to community groups (Objective 1.7), facilitating legal guidance for councillors and executives on emerging climate change litigation risk (Objective 1.9), and developing and delivering training packages for appropriate council staff to build climate change adaptation awareness (Objective 1.10). The policy also mentions strategic partnerships with key stakeholders that deliver a range of services across land management, healthcare, water management, resource efficiency, and business development. While the documents do not explicitly mention neighbouring local councils, the emphasis on partnerships and collaboration suggests that they could be included in these efforts.",
+          "quote": {
+            "content": "Work with our key partners to ensure our community understand their exposure to climate risk and strategies they can adopt to minimise the impact on their health and financial wellbeing.",
+            "page": 23,
+            "source": "Wellington-Sustainability-Strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government's policy outlines a strategy to work with key partners to ensure the community understands their exposure to climate risk and the strategies they can adopt to minimize the impact on their health and financial wellbeing. The policy specifically mentions the Gippsland Regional Climate Change Adaptation Strategy program as a key partner, along with DELWP, Councils, and community groups. The policy also mentions the Gippsland Climate Change Network, DELWP, Latrobe Valley Authority, and Department of Health and Human Services as key partners. These partnerships are crucial for the local government to effectively implement its climate change policies and strategies.",
+          "quote": {
+            "content": "Key Partners: Gippsland Climate Change Network, DELWP, Latrobe Valley Authority, Department of Health and Human Services.",
+            "page": 23,
+            "source": "Wellington-Sustainability-Strategy.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents provided by the Wellington Shire Council do explicitly discuss the impact of climate change on vulnerable communities. The council acknowledges that climate change is real and is already impacting communities. It recognizes that these impacts will significantly jeopardize the health, livelihoods, and socio-economic basis of communities if emissions continue unabated. The council also acknowledges that vulnerable communities with high exposure to climate change impacts, combined with low socio-economic status, pre-existing health, and mental health issues require support to build their capacity to adapt. The council plans to prioritize these vulnerable people in a reduced funding environment. This shows a clear understanding of the intersection between climate change and social justice, and a commitment to addressing these issues in a way that prioritizes the needs of the most vulnerable.",
+          "quote": {
+            "content": "In a reduced funding environment, vulnerable people should be prioritised. Our vulnerable communities with high exposure to climate change impacts combined with low socio-economic status, pre-existing health and mental health issues require support to build their capacity to adapt.",
+            "page": 22,
+            "source": "Wellington-Sustainability-Strategy.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention the need to support vulnerable communities with high exposure to climate change impacts, they do not provide specific strategies or plans on how to ensure that the benefits and opportunities of a safe climate are shared equitably. The documents focus more on the need for climate change adaptation, risk assessment, and resilience building, rather than on the equitable distribution of benefits and opportunities. Therefore, the question cannot be answered positively based on the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 74.2
+  }
+}

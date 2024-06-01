@@ -1,0 +1,322 @@
+{
+  "settings": {
+    "source_files": [
+      "Mitchell-2024-Climate-Emergency-Action-Plan.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T21:51:39.152397",
+    "lga": "Mitchell"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy, titled 'Climate Emergency Action Plan', clearly indicates that climate action is the core purpose or goal. The policy outlines the local government's planned actions in response to climate change, with a focus on reducing emissions and adapting to climate change. The policy also provides a timeframe for the actions, indicating short, medium, and long-term goals. It further details the expected impact of these actions in terms of annual emissions reduction by 2030. The policy also emphasizes the role of the community in implementing these actions, indicating a comprehensive approach to climate action. Therefore, it is evident that the policy is centered around climate action.",
+          "quote": {
+            "content": "Whilst this Action Plan primarily focuses on the responsibilities of Council to implement actions, it is intended to be carried out in collaboration with the community. Each member of the Mitchell Shire community has a critical role to play in reducing emissions and adapting to climate change.",
+            "page": 29,
+            "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. It presents the 'Climate Emergency Action Plan' which outlines priority actions for Mitchell Shire to implement by 2030 to both reduce emissions and adapt to a changing climate. The plan includes actions to be undertaken by the Council within its own operations and assets, actions aimed at supporting the community, and actions focused on advocating to the State Government, Federal Government, and local service providers. The document also emphasizes the role of the Council in driving emissions reductions within the community, through its leadership role in the Shire. Furthermore, the document outlines six goals derived from community engagement activities, which are designed for the Council and the community to overcome barriers and challenges to climate change.",
+          "quote": {
+            "content": "It encompasses a range of actions \nincluding those to be undertaken  \nby Council within its own  \noperations and assets, actions aimed  \nat supporting the community, and \nactions focused on advocating to the \nState Government, Federal Government, \nand local service providers. This Action Plan presents priority  \nactions for Mitchell Shire to implement \nby 2030 to both reduce emissions \nand adapt to a changing climate.",
+            "page": 28,
+            "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document does indeed call for urgent action on climate change. It is titled 'Climate Emergency Action Plan', which in itself implies a sense of urgency. The document outlines a plan to implement actions by 2030 to reduce emissions and adapt to a changing climate, indicating a time-bound approach to addressing the issue. It also mentions the need for 'urgent and decisive action' to reduce emissions over the next two decades to avoid exceeding the threshold set by the Paris Agreement. The document further emphasizes the need for strong leadership, advocacy, and a collective commitment to achieve a zero emissions future. It also acknowledges the role of various stakeholders, including the council, residents, businesses, farmers, and community groups, in driving climate action, suggesting a comprehensive and immediate response to the climate emergency.",
+          "quote": {
+            "content": ", and without urgent and \ndecisive action to reduce emissions over the  \nnext two decades this threshold is expected  \nto be exceeded.",
+            "page": 7,
+            "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It categorizes actions into three timeframes: short, medium, and long. Short-term actions are those that can be completed and fully realized within less than 5 years. Medium-term actions are those that can be completed and fully realized within 5 to 10 years. Long-term actions are those that will take over 10 years to be completed and fully realized. This classification system provides a clear timeline for the implementation of the policy's actions, which is crucial for tracking progress and holding the local government accountable. However, the document does not provide specific deadlines for each action, which could potentially lead to delays or lack of urgency in implementation.",
+          "quote": {
+            "content": "LONG: action will take over  \n10 years to be completed,  \nand benefit fully realised. Timeframe\nSHORT: action can be  \ncompleted, and benefit fully  \nrealised within less than 5 years. MEDIUM: action can be  \ncompleted, and benefit fully  \nrealised within 5 to 10 years.",
+            "page": 51,
+            "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the Mitchell Shire's Climate Emergency Action Plan, which includes a range of actions to reduce emissions and adapt to a changing climate. The plan emphasizes the importance of collaboration and partnership among council, residents, businesses, farmers, and community groups. It also outlines the roles of these stakeholders in driving climate action. However, there is no explicit statement indicating that this climate emergency response should take precedence over other policies. The documents do highlight the urgency and importance of the climate emergency response, but they do not provide a clear hierarchy of policy priorities."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents emphasize the council's role in reducing emissions, advocating for climate action, and supporting the community in climate change adaptation and mitigation, they do not mandate that all council activities must be in line with the climate policy. The council's actions are described in terms of their potential to influence emissions reduction and climate change adaptation, and their role in fostering collaboration and partnership for climate action. However, there is no explicit requirement stated that all council activities must align with these climate change goals."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents from the 'Climate Emergency Action Plan' do not explicitly mention the allocation of funding for climate action. While the documents do outline various strategies and actions related to climate change, such as improving energy efficiency, assessing climate risks for critical infrastructure, and developing community climate change hubs, there is no clear mention of specific funding allocation for these actions. The documents do indicate some level of financial commitment, as suggested by symbols like '$$' and '$$$', but these are not clearly defined or explained in the provided context. Therefore, without explicit evidence of funding allocation, the question cannot be answered positively."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents from the 'Climate Emergency Action Plan' do not explicitly allocate staff or other non-monetary institutional resources to climate action. The documents mention various actions and strategies related to climate change, such as assessments of Emergency Relief Centres, climate risk and vulnerability assessments for critical infrastructure, and the development of integrated water management plans. However, these actions do not specify the allocation of staff or other non-monetary institutional resources. The documents also mention the local government's role in supporting the dissemination of information on emergency preparedness and best practice emergency risk management, but again, there is no explicit mention of staff or resource allocation for these tasks."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The Mitchell Shire Council's Climate Emergency Action Plan indeed empowers and educates the community to rally, support, and work together to deliver climate action. The policy outlines a clear commitment to community engagement and education, recognising the importance of collective action in addressing climate change. The council aims to leverage community members' perspectives, knowledge, and skills to develop effective solutions and implement climate change mitigation and adaptation strategies. The policy also outlines specific actions to empower the community, such as providing education on transitioning to a circular economy, supporting the establishment of a re-use and repair cafe or tool library, and developing a climate change outreach program. These actions are designed to promote awareness, enable informed choices, and foster a sense of ownership and shared responsibility within the community. The policy also recognises the importance of supporting vulnerable populations and promoting social cohesion in the face of climate-related challenges.",
+          "quote": {
+            "content": "DEVELOP PARTNERSHIPS to implement shared innovative solutions to environmental issues. Climate change is a complex global challenge that requires collective action and collaboration. Mitchell 2050 community vision key priorities: ESTABLISH Council as a recognised leader in sustainable environmental management.",
+            "page": 47,
+            "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Climate Emergency Action Plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a transition to low emissions technology, which is expected to accelerate over the coming years, thereby reducing community emissions. This indicates a focus on technological solutions. The plan also sets net zero emissions targets, which can be seen as a form of behaviour change, as it requires a shift in practices to achieve these targets. Furthermore, the plan outlines the development of community climate change hubs, which can be seen as a tool for promoting behaviour change by providing information on adapting to and mitigating climate change. However, while the plan does include these actions, it is not clear how these will be implemented or how their effectiveness will be measured.",
+          "quote": {
+            "content": "It is expected that the transition to low emissions technology will naturally accelerate over the coming years, driving community emissions down even further. The results of high-level modelling of the actions described in this plan are presented in Figure 7, which shows Council’s effect on emissions reduction against the current business-as-usual (BAU) projection. This BAU trajectory is based on the current rate of electric vehicle uptake and renewable energy generation.",
+            "page": 24,
+            "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Mitchell Shire's Climate Emergency Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a range of actions to be undertaken by the Council, community, and through advocacy to the State and Federal Governments. The plan's focus is not only on reducing emissions but also on adapting to a changing climate. It includes actions such as assessing and upgrading critical infrastructure for climate risk and vulnerability, and conducting climate risk and vulnerability assessments for at least 80% of Mitchell Shire Council owned or managed critical infrastructure by 2030. The plan also includes actions to ensure emergency management procedures consider the likely impacts of climate change on the frequency and intensity of extreme weather events. Furthermore, the plan includes the development of integrated water management plans in partnership with water authorities, covering stormwater, drainage, and other aspects. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+          "quote": {
+            "content": "bridges, power supply, communication networks) within the Shire and develop an action plan for upgrading these based on projected future flood and bushfire risks.",
+            "page": 60,
+            "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents provided do not offer well-sourced evidence to justify the climate targets and actions outlined in the Climate Emergency Action Plan. While the documents mention the existence of a plan, specific actions, and the roles of the council and community, they do not provide any clear, well-sourced evidence to justify these actions or targets. The documents do not provide any specific data, research, or sources that directly support the actions or targets. The documents also do not provide any clear explanation or justification for why these specific actions were chosen or how they will effectively address climate change. Therefore, based on the provided documents, it cannot be affirmed that the policy provides well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Climate Emergency Action Plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a timeframe for each action, categorizing them as short, medium, or long-term, with short-term actions expected to be completed and fully realized within less than 5 years, medium-term actions within 5 to 10 years, and long-term actions taking over 10 years. The plan also provides an impact/reach scale, which estimates the potential of each action to reduce annual emissions by 2030 or the reach it will have in adapting to climate change. The scale ranges from low, medium, to high. Furthermore, the plan includes a cost column, which gives a high-level estimate of the total implementation cost to the Council. These criteria provide a clear framework for evaluating the success of the proposed actions.",
+          "quote": {
+            "content": "The impact/reach column represents an estimate of how impactful the action is expected to be in reducing annual emissions by 2030 or the reach it will have in adapting to climate change. The timeframe column indicates whether the action can be implemented, and benefits realised in a short, medium, or long timeframe.",
+            "page": 50,
+            "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The document does describe plans to conduct research in the local community to inform climate actions. The Mitchell Shire's Climate Emergency Action Plan outlines a comprehensive approach to addressing climate change, which includes engaging with the local community to gather information and inform action. The document details a variety of methods used to engage with the community and gather information, including a community survey, staff survey and workshops, interviews with local business and industry leaders, and a public forum. These methods are designed to understand the community's views on the council's role in addressing climate change, what actions are already being taken, and what further support is needed. This information is then used to inform the actions outlined in the plan. The plan also emphasizes the importance of collaboration with the community in implementing these actions.",
+          "quote": {
+            "content": "Interviews with local business and industry leaders to understand what support they need from Council to reduce their own emissions and protect their assets. A community survey to gauge what the community thinks Council’s role should be in addressing the climate emergency. Staff survey and workshops to learn what Council is already doing to reduce emissions and adapt to climate change, and its capacity to further support community action.",
+            "page": 15,
+            "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. While the Climate Emergency Action Plan outlines a series of actions to reduce emissions and adapt to a changing climate, the specifics of these actions are not detailed in the provided excerpts. The plan mentions the use of high-level modelling, the transition to low emissions technology, and the implementation of actions in collaboration with the community. However, these are standard approaches in climate action and do not necessarily indicate innovation or policy experimentation. The documents also mention the role of the council in driving emissions reductions and the importance of community involvement, but again, these are common elements of climate action plans and do not provide evidence of innovative or experimental approaches."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents from the Mitchell 2024 Climate Emergency Action Plan clearly demonstrate an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines the council's role in advocacy, which includes representing and championing the interests of the Mitchell Shire community to state and federal bodies. The policy also lists specific actions that involve advocacy to relevant authorities. These actions include advocating for improved early warning systems for wildfires and floods, ensuring that flood models account for potential climate change impacts, and advocating to Agriculture Victoria to provide dedicated regional support to farmers and landowners. These actions indicate a clear intent to engage with higher levels of government to address climate change issues.",
+          "quote": {
+            "content": "Advocate to the State Government to support flood mitigation activities that assist to protect townships up to 1-in-100 year flood levels. Advocate to ensure that flood models account for potential climate change impacts, including to 1-in-100 year flood level, and for streamlined integration of flood data into the planning scheme.",
+            "page": 61,
+            "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.92
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents explicitly encourage building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The Mitchell Shire Council's Climate Emergency Action Plan outlines the council's role in educating, facilitating, and supporting the local community to take positive steps towards climate action. The council also plans to engage in advocacy on behalf of the community and demonstrate leadership to influence decisions that extend beyond its control. The plan emphasizes the importance of community engagement and support, fostering collective action, ensuring equity, and building resilient communities capable of effectively responding to the impacts of climate change. The council acknowledges that achieving a net zero target requires the collective efforts of residents, businesses, industry, and the actions of the state and federal governments. The council's role is also to provide clear information and straightforward data from credible government and research sources in a variety of forms."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The provided documents from the 'Climate Emergency Action Plan' do not mention any specific regional associations, alliances, or other partnerships related to climate change. The documents do discuss the importance of collaboration, community engagement, and advocacy in addressing climate change. They outline the roles of the council, community, and other stakeholders in implementing the action plan. However, they do not provide specific details about any regional associations or alliances that the local government is partnering with to execute this plan. Therefore, based on the provided documents, it cannot be affirmed that the local government is involved in any specific regional partnerships related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The document indeed discusses the impact of climate change on vulnerable communities. It acknowledges that climate change disproportionately affects marginalized communities, including low-income households. Factors such as limited access to resources, socio-economic disadvantage, and discrimination can amplify vulnerability to climate-related hazards, displacement, and the unequal distribution of the burdens and benefits associated with climate adaptation and mitigation efforts. The document also emphasizes the importance of community engagement and support mechanisms, such as providing access to resources, services, and infrastructure to mitigate and adapt to climate change impacts. This approach promotes social cohesion, strengthens networks, and enhances community resilience in the face of climate-related challenges.",
+          "quote": {
+            "content": "Factors such as limited access to resources, socio-economic disadvantage, and discrimination can amplify vulnerability to climate-related hazards, displacement, and the unequal distribution of the burdens and benefits associated with climate adaptation and mitigation efforts. Climate change disproportionately affects marginalised communities, including low-income households.",
+            "page": 18,
+            "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. It acknowledges that climate change disproportionately affects marginalized communities, including low-income households, and that factors such as limited access to resources, socio-economic disadvantage, and discrimination can amplify vulnerability to climate-related hazards. The policy proposes setting net zero emissions targets and implementing policies to achieve them as a means to address these inequalities and ensure that the benefits of a low-carbon economy are shared by all. The document also emphasizes the importance of community engagement and support in fostering collective action, ensuring equity, and building resilient communities capable of effectively responding to the impacts of climate change.",
+          "quote": {
+            "content": "Setting net zero emissions targets and implementing policies to achieve them can help to address these inequalities and ensure that the benefits of a low-carbon economy are shared by all. Climate change disproportionately affects marginalised communities, including low-income households.",
+            "page": 18,
+            "source": "Mitchell-2024-Climate-Emergency-Action-Plan.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 71.7
+  }
+}

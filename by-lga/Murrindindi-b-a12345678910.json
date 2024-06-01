@@ -1,0 +1,310 @@
+{
+  "settings": {
+    "source_files": [
+      "Murrindindi-Climate-Change-Action-Plan-V4.pdf"
+    ],
+    "llm_model": "gpt-4",
+    "temperature": 0,
+    "top_p": null,
+    "pallm_version": "e163fa39a78328d2895f301c0149f52b86a52737",
+    "rundate": "2024-04-13T20:50:50.130982",
+    "lga": "Murrindindi"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review clearly identifies climate action as its core purpose. The policy is structured around four central goals, all of which are directly related to addressing climate change. These goals include developing internal knowledge and systems to consider climate change in decision making, achieving net zero emissions by 2035, minimizing the impacts of climate change on Council’s infrastructure and services, and inspiring and scaling up climate action across the municipality and through other levels of government. The policy also outlines specific targets and strategic directions to achieve these goals, further emphasizing its commitment to climate action. The policy is designed to be regularly reviewed and updated to reflect changing conditions and community priorities, demonstrating a sustained commitment to climate action over time.",
+          "quote": {
+            "content": "In keeping with our commitment, this Plan addresses climate change through four central goals.",
+            "page": 34,
+            "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+            "search_score": 1
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document does explicitly explain the need for action on climate change. It outlines a Climate Change Action Plan, which is a strategic approach to addressing climate change through four central goals: Governance Foundations, Climate Mitigation, Climate Adaptation, and Community Mobilisation. The document also provides specific targets for each goal, such as achieving net zero emissions by 2035 and interim targets of 20% by 2025, and 75% by 2030. The document also acknowledges the community's concern about climate change and the need for the local government to take action. It further emphasizes the need for the local government to lead by example in addressing climate change.",
+          "quote": {
+            "content": "CLIMATE MITIGATION Addressing the crisis at its root by achieving net zero by 2035 and meeting our interim targets of 20% by 2025, and 75% by 2030 (reduction based on 2016/17 baseline levels). In keeping with our commitment, this Plan addresses climate change through four central goals. These are: 1. GOVERNANCE FOUNDATIONS Developing internal knowledge and systems so that climate change is considered in decision making across the organisation. 2.",
+            "page": 34,
+            "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. While the documents do outline a Climate Change Action Plan, including goals, targets, strategic directions, and actions, there is no explicit language used that indicates a sense of urgency or a call for rapid action. The plan does acknowledge that climate change is a real and increasing threat, and it outlines commitments to reducing greenhouse gas emissions to net zero by 2035, preparing for more extreme weather, and supporting the community to transition to a climate-safe way of life. However, these commitments are framed as long-term goals and strategies, rather than urgent actions that need to be taken immediately. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit call for rapid and urgent action on climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Climate Change Action Plan outlines four central goals, one of which is climate mitigation. This goal includes achieving net zero by 2035 with interim targets of 20% by 2025, and 75% by 2030. These targets are based on 2016/17 baseline levels. The plan also includes a priority action plan for 2023-2027, which details specific actions, their estimated costs, and the timeframes for their implementation. For example, one action is to monitor and report on climate-related expenditure and impacts of extreme weather events on service delivery and financial sustainability, which is set to begin in 2024/25. Another action is to educate staff and councillors on managing climate risks and communicating climate risks to the public, which is set to begin in 2024/25. These specific timeframes indicate a clear schedule for the implementation of the plan's actions.",
+          "quote": {
+            "content": "CLIMATE MITIGATION Addressing the crisis at its root by achieving net zero by 2035 and meeting our interim targets of 20% by 2025, and 75% by 2030 (reduction based on 2016/17 baseline levels). In keeping with our commitment, this Plan addresses climate change through four central goals. These are: 1. GOVERNANCE FOUNDATIONS Developing internal knowledge and systems so that climate change is considered in decision making across the organisation. 2.",
+            "page": 34,
+            "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The local government's climate change action plan outlines various strategies and actions to address climate change, including engaging with stakeholders, promoting community adoption of climate-adapted technologies, managing climate risks to business continuity, and reviewing business continuity and emergency plans. However, these actions are presented as part of a comprehensive approach to addressing climate change, rather than as a higher priority over other policies. The documents also mention the need for regular reviews of the plan to reflect changing conditions and community priorities, but they do not specify that climate change actions should take precedence over other policy areas."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The document does indeed state that all council activities must be aligned with the climate policy. The policy is designed to guide the council's actions towards climate change, and it is explicitly stated that all staff, contractors, volunteers, and elected representatives are required to abide by the policy. This suggests that all council activities, regardless of their nature, must be in line with the climate policy. The policy is also set to be reviewed every four years, ensuring its relevance and effectiveness in guiding the council's actions towards climate change. Furthermore, the document outlines a strategic plan that includes specific actions, goals, and targets related to climate change, indicating a comprehensive approach to aligning all council activities with the climate policy.",
+          "quote": {
+            "content": "All staff employed by Council, contractors, volunteers, and elected representatives will be required to abide by the policy. To maintain a consistent approach, Council has adopted a Climate Change Policy, which contains guidelines for implementing this Plan within each standard 4-year term of Council.",
+            "page": 33,
+            "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Murrindindi Climate Change Action Plan does explicitly allocate funding for climate action. The plan outlines various actions related to climate change mitigation and adaptation, and for each action, it provides details on the estimated cost, time frame, funding source, and lead department. For instance, the plan includes actions such as supporting community groups to install renewable energy and boost energy and water efficiency, promoting community adoption of climate-adapted and low emissions technologies, and developing libraries and customer service centres as climate resilience hubs. The funding sources for these actions include allocated staff time (salaries), new initiatives (operational budget bid), and grant funding. This indicates that the local government has made a financial commitment to implementing these climate actions.",
+          "quote": {
+            "content": "MOCA 1 Support community groups who lease Council assets to install renewable energy and boost energy and water efficiency Staff time TBA Allocated staff time (salaries) Community development Provide direct resourcing, incentives, and support to households, community groups, businesses, farms and service providers for climate mitigation and adaptation activities. These activities have been placed in a priority order determined by community voting in 2023.",
+            "page": 51,
+            "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines a variety of actions related to climate change, each of which is assigned a lead department or program within the local government. These actions are expected to be carried out as part of the staff's regular duties, indicating that staff time is being allocated to these climate actions. For instance, the plan includes actions such as developing libraries and customer service centres as climate resilience hubs, promoting sustainable developments, and delivering climate-related actions in the Municipal Health and Wellbeing Plan. Each of these actions is assigned to a specific department or program, and the cost estimate for each is listed as 'staff time', indicating that the local government is allocating its existing staff resources to these actions. This demonstrates a clear commitment to mobilising institutional resources for climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The local government policy indeed empowers and educates the community to rally, support, and work together to deliver climate action. The policy outlines a number of initiatives aimed at mobilising the community. For instance, it plans to run a leadership or mentorship program to upskill community leaders and youth to develop projects and promote climate action. It also plans to facilitate community-led climate action through sector-specific community engagement and planning initiatives. The policy also aims to promote community adoption of climate-adapted and low emissions technologies and consideration of climate risk among Council's networks. Furthermore, the policy sets a target of having 10% of the community participate in Council supported initiatives. This shows a clear intent to actively involve the community in climate action initiatives."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate Change Action Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to achieving net zero emissions by 2035, with interim targets of 20% reduction by 2025 and 75% reduction by 2030, based on 2016/17 baseline levels. This commitment is supported by a range of actions, including technological solutions and behaviour change. Technological solutions include the support for community efforts to increase renewable energy in the region, such as solar and wind installations, and battery technology. The plan also facilitates a bulk buy program for residents and businesses to purchase cheaper solar/batteries, electric vehicles, or other climate-safe technologies. Behaviour change is encouraged through the integration of climate change considerations into Council's plans, strategies, and day-to-day decision making. The plan also includes a commitment to community mobilisation, aiming to inspire and scale up climate action across the municipality.",
+          "quote": {
+            "content": "Addressing the crisis at its root by achieving net zero by 2035 and meeting our interim targets of 20% by 2025, and 75% by 2030 (reduction based on 2016/17 baseline levels).",
+            "page": 34,
+            "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+            "search_score": 0.94
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Change Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines four central goals, one of which is 'Climate Adaptation' aimed at minimizing the impacts of climate change on Council’s infrastructure and services. The plan also includes a 'Response Area 3: Adaptation' section, which details specific actions such as ensuring Council’s assets are suitably constructed and managed to weather extreme climatic conditions, and improving Council’s organisational capacity in emergency and natural disaster response and recovery. The plan also mentions the use of the Adaptive Capacity Checklist, which is a tool to help the council assess its readiness to adapt to climate change. Furthermore, the plan includes a commitment to review and update the plan regularly, which is a key aspect of adaptive management in the face of a changing climate.",
+          "quote": {
+            "content": "In keeping with our commitment, this Plan addresses climate change through four central goals.",
+            "page": 34,
+            "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+            "search_score": 1
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a well-structured and detailed plan for addressing climate change, with clear goals, targets, and actions. The plan was developed over a two-year period, indicating a thorough and thoughtful process. The plan's goals include governance foundations, climate mitigation, climate adaptation, and community mobilisation. The targets are specific, such as achieving net zero by 2035 with interim targets of 20% by 2025, and 75% by 2030. The plan also includes a detailed methodology for its formation, including data gathering and analysis, assessing draft action lists, and internal engagement. The plan also includes a commitment to monitoring and reporting, with an annual climate action report detailing progress towards targets. This suggests a commitment to transparency and accountability. The plan also acknowledges community perspectives, indicating a level of public consultation and engagement in its formation."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate change action plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a clear monitoring and reporting structure, with Council managers responsible for monitoring and reporting progress on their actions to the executive management team each quarter. Additionally, an annual climate action report will be prepared by the Manager of Sustainability & Assets, detailing the actions taken and progress towards achieving set targets. This report will communicate progress to both internal and external stakeholders. The plan also includes a 'Priority Action Plan' with a timeline for review, indicating a commitment to ongoing evaluation and adjustment of the plan's actions. This approach ensures that the plan is not a 'set and forget' document, but rather a dynamic and adaptable response to the complex issue of climate change.",
+          "quote": {
+            "content": "To build adaptability into the response, the plan will be implemented through Council’s integrated planning and risk management frameworks, and Council managers will be responsible for monitoring and reporting progress on their actions to Council’s executive management team each quarter. Climate change is a dynamic issue that involves a complex web of interrelationships and contextual considerations, so any plan to address it will need to be flexible.",
+            "page": 54,
+            "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has developed a plan over a two-year period, which was informed by a review of best-practice local government climate action planning. The plan's structure and content were informed by advice from an external strategic planning consultant. The plan also includes data gathering and analysis, which is a crucial part of research. The local government has also engaged with the community, receiving input from more than 170 community members through various means. This community engagement is a form of research as it helps the government understand the community's views and priorities on climate change. The government has also investigated where their emissions are coming from and the most significant impacts to their organization and municipality. This investigation is another form of research that informs their climate actions.",
+          "quote": {
+            "content": "The final structure and content of the Plan was informed by advice from an external strategic planning consultant. The methodology below was informed by a review of best-practice local government climate action planning for small and rural Councils, and advice from colleagues across the state of Victoria.",
+            "page": 64,
+            "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of innovation and policy experimentation in climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. While the local government's Climate Change Action Plan outlines a strategic approach to addressing climate change, including goals for governance foundations, climate mitigation, and climate adaptation, it does not explicitly mention innovative or experimental policies. The plan does mention the development of a 'master list of actions' and the use of an 'Azility System' for emissions monitoring, but without further detail, it is unclear whether these represent innovative approaches or standard practices. The plan also mentions the need for flexibility and adaptability in response to the dynamic nature of climate change, but again, this does not necessarily indicate policy experimentation. Therefore, based on the provided documents, it cannot be conclusively stated that the local government is engaging in innovative or experimental climate action policies."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The provided documents do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents outline the local government's Climate Change Action Plan, including goals, targets, strategic directions, and actions. The plan focuses on governance foundations, climate mitigation, climate adaptation, and community mobilisation. It includes specific actions such as achieving net zero emissions by 2035, developing internal knowledge and systems for climate change consideration, and engaging with stakeholders to build an understanding of effective climate action. However, there is no mention of advocating to higher levels of government for support in climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a strategic direction to engage with stakeholders to build an understanding of how to effectively take action on climate change across the Shire. It also promotes community adoption of climate-adapted and low emissions technologies. The policy also aims to facilitate community-led climate action through sector-specific community engagement and planning initiatives. Furthermore, the policy sets a target for 10% of the community to take part in Council supported initiatives, indicating a clear intent to build local capacity for climate action. However, the documents do not explicitly mention building capacity with neighbouring local councils.",
+          "quote": {
+            "content": "Engage with stakeholders to build an understanding of how to effectively take action on climate change across the Shire.",
+            "page": 35,
+            "source": "Murrindindi-Climate-Change-Action-Plan-V4.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The provided documents do not mention any specific regional associations, alliances, or other partnerships related to climate change. The policy does outline various actions and strategies related to climate change, such as engaging with stakeholders, promoting community adoption of climate-adapted technologies, and supporting youth-led climate action. However, these actions do not specify any particular partnerships or alliances. The documents also discuss the establishment of financial management systems that support climate action and the education of staff and councillors on managing climate risks. Still, these actions are internal to the local government and do not involve external partnerships. Therefore, based on the provided documents, the local government's policy does not refer to specific regional associations, alliances, or other partnerships related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the impacts of climate change on the community and the local government's efforts to mitigate these impacts, they do not specifically address how these impacts might disproportionately affect vulnerable populations. The documents also do not discuss measures to ensure equity and social justice in the local government's climate change policies or actions. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various actions and strategies related to climate change mitigation and adaptation, such as community development programs, direct resourcing and support for climate mitigation activities, and the development of Environmentally Sustainable Design guidelines, they do not specifically address the equitable distribution of benefits and opportunities. Furthermore, there is no explicit mention of social justice in relation to climate change actions. Therefore, based on the provided documents, it cannot be affirmed that the policy discusses how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 70.8
+  }
+}
